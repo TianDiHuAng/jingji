@@ -1382,7 +1382,7 @@
     },
     {
       "id": "black-friday-1869",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "status": "written",
       "source_count": 2,
@@ -1395,7 +1395,7 @@
     },
     {
       "id": "russian-1998",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "status": "written",
       "source_count": 2,
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "ltcm",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "status": "written",
       "source_count": 2,

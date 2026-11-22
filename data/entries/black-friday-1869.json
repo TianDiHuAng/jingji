@@ -1,7 +1,7 @@
 {
   "id": "black-friday-1869",
   "title": "黑色星期五黄金恐慌(1869)",
-  "level": "L1",
+  "level": "L2",
   "tier": "重要",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "货币",
   "one_line": "黑色星期五黄金恐慌(1869)：发生于18—19世纪、地区为北美的货币类案例（轮次4新条目，骨架）。",
   "overview": "黑色星期五黄金恐慌(1869) 是经权威大纲（Wikipedia List of banking crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1869,
+      "display": "1869年9月24日",
+      "event": "美国爆发黄金恐慌，引发金融危机（据 Wikipedia Black Friday (1869)）",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    },
+    {
+      "year": 1870,
+      "display": "1870年",
+      "event": "政府调查（由共和党人詹姆斯·A主导）（同上）",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "外汇抛售/固定汇率承压 → 贬值预期",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    },
+    {
+      "step": "资本外流与贬值 → 债务负担上升",
+      "sources": [
+        "w-en-currency-devaluation"
+      ]
+    },
+    {
+      "step": "货币当局应激 → 经济收缩",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "源于货币供给与汇率政策失当",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "holder": "传染视角",
+      "view": "强调资本流动与国际传导",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    }
+  ],
+  "comparison": "与同为「货币」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>黑色星期五黄金恐慌(1869)：机制示意（货币）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-black-friday-1869",
     "w-en-panic-of-1866"
@@ -26,5 +88,5 @@
     "copper-panic-1789"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。"
 }

@@ -58,9 +58,10 @@
       "unit": "百万股（1929-10-24，纽约证交所）",
       "year": 1929,
       "comparable_price": false,
-      "note": "原文：record 12.9 million shares traded on Black Thursday；单源待核实。",
+      "note": "原文：record 12.9 million shares traded on Black Thursday；【双源印证】法语维基《Krach de 1929》原文「12,9 millions d’actions」，与英文来源一致。",
       "sources": [
-        "w-en-wall-street-crash-of-1929"
+        "w-en-wall-street-crash-of-1929",
+        "w-fr-krach-1929"
       ]
     }
   ],
