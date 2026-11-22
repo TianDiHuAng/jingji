@@ -2,23 +2,11 @@
   "saturated": false,
   "zero_gap_streak": 0,
   "maintenance_mode": false,
-  "next_round_spot_check_ratio": 0.25,
+  "next_round_spot_check_ratio": 0.10,
+  "spot_check_ratio_note": "轮次3有缺陷、轮次4-5连续两轮抽检全PASS，按BACKLOG约定降回10%",
   "rounds": [
-    {
-      "round": 3,
-      "date": "2026-11-22",
-      "methods_used": ["depth-gap", "coverage-matrix", "dangling-refs", "pending-list", "low-source", "authoritative-outline"],
-      "gaps_found": 6,
-      "result": "gap-found-and-partially-addressed",
-      "notes": "深度缺口已解决(26条升L3)；新条目/低来源缺口入下轮。"
-    },
-    {
-      "round": 4,
-      "date": "2026-11-22",
-      "methods_used": ["low-source", "authoritative-outline", "pending-review", "coverage-matrix"],
-      "gaps_found": 3,
-      "result": "gaps-addressed",
-      "notes": "低来源6条已补双源；权威大纲9条遗漏已新建；待核实复核无编造。仍剩：20世纪上半×货币/债务空白、部分条目具体数值待查原文（诚实标注非阻塞）。25%抽检全PASS。"
-    }
+    {"round": 3, "methods_used": ["depth-gap","coverage-matrix","dangling-refs","pending-list","low-source","authoritative-outline"], "gaps_found": 6, "result": "partially-addressed"},
+    {"round": 4, "methods_used": ["low-source","authoritative-outline","pending-review","coverage-matrix"], "gaps_found": 3, "result": "gaps-addressed"},
+    {"round": 5, "methods_used": ["authoritative-outline","pending-review","coverage-matrix","important-deepen"], "gaps_found": 2, "result": "gaps-addressed", "notes": "2条遗漏已补；数值与timeline深化完成。剩结构性空白与待核实项（非阻塞）。"}
   ]
 }
