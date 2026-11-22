@@ -21,21 +21,21 @@
   ],
   "causal_chain": [
     {
-      "step": "外汇承压 → 贬值预期",
+      "step": "十年大额财政赤字与外部借款累积 → 海湾战争油价上涨、政治不稳使预算难产、投资者信心流失",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-indian-1991"
       ]
     },
     {
-      "step": "资本外流 → 债务负担上升",
+      "step": "1990-91外汇储备降至仅够三周进口 → 危机爆发",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-indian-1991"
       ]
     },
     {
-      "step": "货币当局应激 → 收缩",
+      "step": "向IMF借款、质押黄金获外国银行贷款以避免违约；1991年6月卢比大幅贬值",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-indian-1991"
       ]
     }
   ],
@@ -54,19 +54,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "源于货币供给与汇率政策失当",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "国际收支视角",
+      "view": "核心是长期财政赤字与外部失衡导致的外汇枯竭",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-indian-1991"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与国际传导",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "外部冲击视角",
+      "view": "海湾战争油价与政治不稳是直接触发",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-indian-1991"
       ]
     }
   ],
@@ -92,5 +92,5 @@
     "russian-1998"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料）。"
 }
