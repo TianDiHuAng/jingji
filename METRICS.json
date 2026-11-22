@@ -1,15 +1,16 @@
 {
   "metrics": [
-    {"round": 3, "new_entries": 0, "upgraded": 26, "reviewed": 3, "fixed": 15, "sources_total": 180, "check_result": "PASS (106)", "spot_check": "3条2修", "note": "26核心L2→L3；修复学者归属错配。"},
+    {"round": 3, "new_entries": 0, "upgraded": 26, "reviewed": 3, "fixed": 15, "sources_total": 180, "check_result": "PASS (106)", "spot_check": "3条2修", "note": "26核心L2→L3。"},
     {"round": 4, "new_entries": 9, "upgraded": 0, "reviewed": 3, "fixed": 8, "sources_total": 194, "check_result": "PASS (115)", "spot_check": "25%4条PASS", "note": "6理论补双源；9银行危机新条目。"},
     {"round": 5, "new_entries": 2, "upgraded": 0, "reviewed": 6, "fixed": 0, "sources_total": 196, "check_result": "PASS (117)", "spot_check": "33%3条PASS", "note": "8数值+12时间线+2新条目。"},
     {"round": 6, "new_entries": 0, "upgraded": 0, "reviewed": 8, "fixed": 179, "sources_total": 198, "check_result": "PASS (117)", "spot_check": "10%5条→1修", "note": "协议F体检；114互链+63来源。"},
     {"round": 7, "new_entries": 0, "upgraded": 3, "reviewed": 5, "fixed": 3, "sources_total": 198, "check_result": "PASS (117)", "spot_check": "25%3条→1修", "note": "2深化+3升L2结构补齐。"},
     {"round": 8, "new_entries": 0, "upgraded": 3, "reviewed": 4, "fixed": 0, "sources_total": 199, "check_result": "PASS (117)", "spot_check": "25%3条全PASS", "note": "3深化+3升L2+法语二源。"},
-    {"round": 9, "new_entries": 0, "upgraded": 3, "reviewed": 3, "fixed": 1, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "25%3条全PASS", "note": "3深化+brexit错配修正+3升L2。"},
-    {"round": 10, "new_entries": 0, "upgraded": 3, "reviewed": 84, "fixed": 7, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "10%3条全PASS", "note": "3深化+3升L2+语义审计84条全PASS+来源id修复。"},
-    {"round": 11, "date": "2026-11-22", "new_entries": 0, "upgraded": 2, "reviewed": 3, "fixed": 3, "sources_total": 200,
-     "check_result": "PASS (117); check_links PASS (128页)", "spot_check": "10%抽检3条全PASS（连续4轮无缺陷）",
-     "note": "协议F体检硬问题0+现状数据刷新(土耳其2026-07通胀31.75%+2历史快照标注)；2条深化(真实timeline+数值)+2条补充层完整升L2。层级L1 40/L2 51/L3 26——核心重要全达标。"}
+    {"round": 9, "new_entries": 0, "upgraded": 3, "reviewed": 3, "fixed": 1, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "25%3条全PASS", "note": "brexit错配修正+3升L2。"},
+    {"round": 10, "new_entries": 0, "upgraded": 3, "reviewed": 84, "fixed": 7, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "10%3条全PASS", "note": "语义审计84条全PASS+来源id修复。"},
+    {"round": 11, "new_entries": 0, "upgraded": 2, "reviewed": 3, "fixed": 3, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "10%3条全PASS", "note": "协议F体检+现状刷新+2深化+2升L2。"},
+    {"round": 12, "date": "2026-11-22", "new_entries": 4, "upgraded": 3, "reviewed": 3, "fixed": 2, "sources_total": 203,
+     "check_result": "PASS (121); check_links PASS (132页)", "spot_check": "10%抽检3条→2 FAIL(deep_svg缺失+年份错配)→全修复；下轮提回25%",
+     "note": "七种方法系统缺口验证：方法1(权威大纲List_of_economic_crises)找到4条重大遗漏(黑色星期一1987等)并新建升级；全部tier达标(L1 41/L2 53/L3 27)。抽检抓出并修复2条数据错误。"}
   ]
 }
