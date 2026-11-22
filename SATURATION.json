@@ -3,7 +3,7 @@
   "zero_gap_streak": 0,
   "maintenance_mode": false,
   "next_round_spot_check_ratio": 0.10,
-  "spot_check_ratio_note": "轮次8/9/10连续三轮抽检全PASS，维持10%（至少3条）",
+  "spot_check_ratio_note": "轮次8/9/10/11连续四轮抽检全PASS，维持10%（至少3条）",
   "rounds": [
     {"round": 3, "methods_used": ["depth-gap","coverage-matrix","dangling-refs","pending-list","low-source","authoritative-outline"], "gaps_found": 6, "result": "partially-addressed"},
     {"round": 4, "methods_used": ["low-source","authoritative-outline","pending-review","coverage-matrix"], "gaps_found": 3, "result": "gaps-addressed"},
@@ -15,6 +15,8 @@
     {"round": 9, "methods_used": ["depth-gap","source-validity-audit","dangling-refs","coverage-matrix"], "gaps_found": 2,
      "result": "gaps-addressed", "notes": "3深化+3完整升L2；发现并修正brexit错配来源；年份冲突扫描无新严重错配。抽检全PASS。"},
     {"round": 10, "methods_used": ["depth-gap","source-semantic-audit","dangling-refs","coverage-matrix"], "gaps_found": 2,
-     "result": "gaps-addressed", "notes": "3深化+3完整升L2；来源语义审计84条全PASS零错配；自检修复来源id错误。抽检全PASS。"}
+     "result": "gaps-addressed", "notes": "3深化+3完整升L2；来源语义审计84条全PASS零错配；自检修复来源id错误。抽检全PASS。"},
+    {"round": 11, "methods_used": ["protocol-F-healthcheck","stale-data-refresh","depth-gap","dangling-refs"], "gaps_found": 3,
+     "result": "gaps-addressed", "notes": "协议F体检硬问题0；现状数据刷新1条+历史快照标注2条；2深化+2补充层升L2。核心26全L3、重要51全L2达标。抽检全PASS。缺口趋稀疏。"}
   ]
 }
