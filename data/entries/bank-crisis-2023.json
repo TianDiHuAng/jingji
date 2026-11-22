@@ -17,6 +17,46 @@
       "sources": [
         "w-en-bank-run"
       ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月",
+      "event": "五天内三家中小型美国银行倒闭，引发全球银行股下跌与监管快速反应（据 Wikipedia 2023 US banking crisis）",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月10日",
+      "event": "硅谷银行(SVB)因出售国债组合遭遇大额亏损引发挤兑，被监管机构接管（同上）",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月12日",
+      "event": "签名银行因系统性风险被监管机构关闭（同上）",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月16日",
+      "event": "美联储贴现窗口向各银行放贷约1500亿美元（同上）",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年5月1日",
+      "event": "FDIC宣布第一共和银行被关闭并出售给摩根大通（同上）",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
     }
   ],
   "causal_chain": [
@@ -39,7 +79,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美联储贴现窗口借款(截至2023-03-16)",
+      "value": 150,
+      "unit": "十亿美元（美元，贴现窗口累计借款）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：The Federal Reserve discount window ... approximately $150 billion in borrowing ... by March 16；单一来源待核实。",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行挤兑/恐慌视角",
@@ -80,5 +132,5 @@
     "cypriot-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。"
 }
