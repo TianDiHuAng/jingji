@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 200,
+  "count": 203,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2401,6 +2401,42 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API核对(pageid=41688778)；轮次9修正brexit-crash-2016错配来源新增"
+    },
+    {
+      "id": "w-en-kipper-wipper-1618",
+      "title": "Kipper und Wipper",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Kipper_und_Wipper",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API核对(pageid=1370308)；轮次12权威大纲新增"
+    },
+    {
+      "id": "w-en-recession-1937-1938",
+      "title": "Recession of 1937–1938",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Recession_of_1937%E2%80%931938",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API核对(pageid=4623426)；轮次12权威大纲新增"
+    },
+    {
+      "id": "w-en-rodrigazo-1975",
+      "title": "Rodrigazo",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Rodrigazo",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API核对(pageid=25165376)；轮次12权威大纲新增"
     }
   ]
 }
