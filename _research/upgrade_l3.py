@@ -6,19 +6,19 @@ LIMIT = int(sys.argv[1]) if len(sys.argv)>1 else 999
 # 可用的学术解释框架（归属为来源库中已核对著作作者）
 FRAMEWORKS = {
  '泡沫': [
-   ("Charles Kindleberger（Manias, Panics, and Crashes）", "投机泡沫经历「替代—繁荣—狂热—崩盘—恐慌」的阶段序列，信贷扩张是关键推手", "bk-the-ascent-of-money"),
+   ("Niall Ferguson（The Ascent of Money）", "信贷扩张与金融创新放大资产价格波动，最后贷款人机制影响危机后果（据 The Ascent of Money 主题归纳）", "bk-the-ascent-of-money"),
    ("John Kenneth Galbraith（The Great Crash 1929）", "强调「使人愉悦的错觉」与财富幻觉在泡沫顶端的心理作用", "bk-the-great-crash-1929"),
  ],
  '银行': [
    ("Milton Friedman & Anna Schwartz（A Monetary History）", "大萧条的深度源于货币供给收缩，银行倒闭是货币紧缩的传导环节", "bk-a-monetary-history-of-the-united-states"),
-   ("Charles Kindleberger", "强调信贷创造与资产价格的正反馈以及最后贷款人缺位", "bk-the-ascent-of-money"),
+   ("Niall Ferguson（The Ascent of Money）", "信贷扩张与维多利亚时代以来的金融创新使投机泡沫反复出现（据 The Ascent of Money 主题归纳）", "bk-the-ascent-of-money"),
  ],
  '恶性通胀': [
    ("Peter Bernholz 的财政—货币框架（转引自 Wikipedia Hyperinflation）", "恶性通胀的必要条件是财政赤字通过中央银行融资", "w-en-hyperinflation"),
    ("货币主义解释", "通胀无论何时何地都是货币现象，货币供给增速决定物价", "w-en-inflation"),
  ],
  '债务': [
-   ("Carmen Reinhart & Kenneth Rogoff（This Time Is Different 主题，见危机经济学综述）", "高债务与低增长之间存在关联，债务累积常 precede 危机", "bk-crisis-economics"),
+   ("Nouriel Roubini（Crisis Economics）", "高债务与宏观失衡叠加时，危机风险上升；债务累积常先于危机（据 Crisis Economics 主题归纳）", "bk-crisis-economics"),
    ("Barry Eichengreen（Golden Fetters）", "国际货币制度约束影响债务国调整空间", "bk-the-golden-fetters"),
  ],
  '货币': [
