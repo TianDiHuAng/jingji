@@ -1,0 +1,26 @@
+{
+  "id": "taiwan-bubble",
+  "title": "台湾泡沫经济",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "亚洲",
+  "crisis_type": "泡沫",
+  "one_line": "台湾泡沫经济：发生于20世纪下半、地区亚洲的泡沫类案例（轮次13新条目，骨架）。",
+  "overview": "台湾泡沫经济 是经中文权威大纲（Wikipedia 泡沫经济分类）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-zh-taiwan-bubble",
+    "w-en-japanese-asset-price-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L1骨架：内容待核实补充。"
+}
