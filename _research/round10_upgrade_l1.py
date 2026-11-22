@@ -26,16 +26,16 @@ DATA={
    {'year':2001,'display':'2001年12月','event':'阿根廷金融危机期间实施资本管制与存款冻结，波及乌拉圭（据 Wikipedia 2002 Uruguay banking crisis）','sources':['w-en-uruguay-2002']},
    {'year':2002,'display':'2002年7月','event':'乌拉圭爆发重大银行危机（同上）','sources':['w-en-uruguay-2002']},
  ]},
- 'pakistan-crisis-2021':{'tl':[
-   {'year':2021,'display':'2021年末','event':'燃料短缺与通胀飙升助推危机（据 Wikipedia Pakistani economic crisis）','sources':['w-en-pakistan-crisis-2021']},
-   {'year':2022,'display':'2022年6月','event':'通胀达历史高位，粮价上涨（同上）','sources':['w-en-pakistan-crisis-2021']},
-   {'year':2022,'display':'2022年','event':'巴基斯坦洪灾加剧危机，造成约300亿美元经济损失（同上）','sources':['w-en-pakistan-crisis-2021']},
-   {'year':2023,'display':'2023年初','event':'和平时期首次濒临主权违约（同上）','sources':['w-en-pakistan-crisis-2021']},
+ 'pakistan-crisis-2021':{'sid':'w-en-pakistani-economic-crisis-2021-2024','tl':[
+   {'year':2021,'display':'2021年末','event':'燃料短缺与通胀飙升助推危机（据 Wikipedia Pakistani economic crisis）','sources':['w-en-pakistani-economic-crisis-2021-2024']},
+   {'year':2022,'display':'2022年6月','event':'通胀达历史高位，粮价上涨（同上）','sources':['w-en-pakistani-economic-crisis-2021-2024']},
+   {'year':2022,'display':'2022年','event':'巴基斯坦洪灾加剧危机，造成约300亿美元经济损失（同上）','sources':['w-en-pakistani-economic-crisis-2021-2024']},
+   {'year':2023,'display':'2023年初','event':'和平时期首次濒临主权违约（同上）','sources':['w-en-pakistani-economic-crisis-2021-2024']},
  ],'kd':[
    {'label':'2022洪灾经济损失','value':30,'unit':'十亿美元（巴基斯坦，2022洪灾，约数）','year':2022,'comparable_price':False,
-    'note':'原文：2022 Pakistan floods caused major economic losses worth $30 billion；单一来源待核实。','sources':['w-en-pakistan-crisis-2021']},
+    'note':'原文：2022 Pakistan floods caused major economic losses worth $30 billion；单一来源待核实。','sources':['w-en-pakistani-economic-crisis-2021-2024']},
    {'label':'贫困率(2018–19→2024–25)','value':28.8,'unit':'%（巴基斯坦，2024–25，起点2018–19为21.9%）','year':2025,'comparable_price':False,
-    'note':'原文：national poverty rate ... from 21.9% in 2018–2019 to 28.8% in 2024–2025；单一来源、现状类数据待核实。','sources':['w-en-pakistan-crisis-2021']},
+    'note':'原文：national poverty rate ... from 21.9% in 2018–2019 to 28.8% in 2024–2025；单一来源、现状类数据待核实。','sources':['w-en-pakistani-economic-crisis-2021-2024']},
  ]},
 }
 for eid,add in DATA.items():
