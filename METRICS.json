@@ -277,6 +277,18 @@
       "spot_check": "维护模式全站QA：同名指标冲突0/空来源0/tier全达标/0非法来源/0缺页",
       "mode": "maintenance",
       "note": "维护模式轮次26：全站数据一致性审计+整体QA全通过；网络仍断,2020崩盘与近期动态无法补;未发现新缺口。"
+    },
+    {
+      "round": "续作A",
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 2,
+      "fixed": 4,
+      "sources_total": 213,
+      "check_result": "PASS (135); check_links 146页 0 error",
+      "spot_check": "自检事实(De Neufville/8%GNP/13个月/-30%/150%贬值)一致",
+      "note": "网络仍劫持不可用。续作：amsterdam-crisis-1763、finnish-banking-1990 升L2；recession-1937-1938、rodrigazo-1975 案例化(据本地语料)。层级更新 L1 45/L2 61/L3 29。"
     }
   ]
 }
