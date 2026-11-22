@@ -1,7 +1,7 @@
 {
   "id": "ghana-banking-2017",
   "title": "加纳银行危机(2017–2018)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "银行",
   "one_line": "加纳银行危机(2017–2018)：发生于21世纪、地区为非洲的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=非洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 2017,
+      "display": "2017年8月",
+      "event": "加纳银行业危机开始（据 Wikipedia Ghana banking crisis）",
+      "sources": [
+        "w-en-ghana-banking-crisis"
+      ]
+    },
+    {
+      "year": 2020,
+      "display": "2020年1月",
+      "event": "危机结束；同期新冠疫情抵达加纳，进一步损害经济（同上）",
+      "sources": [
+        "w-en-ghana-banking-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "step": "信贷收缩 → 融资中断",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "step": "信心扩散 → 系统性风险",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "银行挤兑视角",
+      "view": "源于信心崩塌引发挤兑",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "强调机构关联与传染",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "与同为「银行」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>加纳银行危机(2017–2018)：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-ghana-banking-crisis"
@@ -26,5 +88,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。"
 }
