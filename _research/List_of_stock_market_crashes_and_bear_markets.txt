@@ -1,0 +1,404 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2025}}
+This is a '''list of stock market crashes and bear markets'''. The difference between the two lies in the rate of decline and timeframe over which they occur. [[Stock market crash]]es are quick and brief, while [[bear market]]s are slow and prolonged. The two do not necessarily happen in conjunction.
+
+== Table ==
+<br />
+{| class="wikitable sortable"
+! style="width: 100" |Name
+! style="width: 30"  |Date
+!                    |Country
+! class="unsortable" |Notes
+!                    |Ref
+|-
+|[[Tulip mania|Tulip mania Bubble]]
+|{{dts|format=dmy|1637||}}
+|{{flag|Dutch Republic}}
+|A [[Economic bubble|bubble]] (1633–37) in the [[Dutch Republic]], during which contracts for [[bulbs]] of [[tulip]]s reached extraordinarily high prices, and suddenly collapsed.
+|<ref>{{cite book |last=Dash |first=Mike |title=Tulipomania: The Story of the World's Most Coveted Flower & the Extraordinary Passions It Aroused |year=2001 |location=New York |publisher=Three Rivers Press |isbn=0-609-80765-X }}</ref>
+|-
+|[[Mississippi Company|The Mississippi Bubble]]
+| rowspan="3" |{{dts|format=dmy|1720||}}
+|{{nowrap|{{flag|Kingdom of France}}}}
+| [[Banque de France|Banque Royale]] by [[John Law (economist)|John Law]] stopped payments of its note, in exchange for [[Coin|specie]] and, as result, caused economic collapse in [[France]].
+|
+|-
+|[[South Sea Company|South Sea Bubble of 1720]]
+|{{flag|Kingdom of Great Britain|name=Great Britain}}
+| Affected early European stock markets, during early days of chartered joint stock companies.
+|
+|-
+|The Dutch Bubble of 1720
+|{{flag|Dutch Republic}}
+| A speculative mania in the Dutch Republic fueled by an influx of foreign capital, the rapid creation of new joint-stock companies and extensive ''Windhandel''—unregulated options and forward contracts.<ref>{{cite journal |last1=Frehen |first1=Rik G.P. |title=New evidence on the first financial bubble |journal=Journal of Financial Economics |date=21 December 2012 |volume=108 |issue=3 |pages=585–607 |url=https://www.sciencedirect.com/science/article/abs/pii/S0304405X12002541 |access-date=11 August 2025}}</ref>
+|
+|-
+|[[Bengal Bubble of 1769]]
+|{{dts|format=dmy|1769||}}
+|{{flag|Kingdom of Great Britain|name=Great Britain}}
+| Primarily caused by the British East India Company, whose shares fell from £276 in December 1768 to £122 in 1784.
+|
+|-
+|[[Crisis of 1772]]
+|{{dts|format=dmy|1772||}}
+|{{flag|Kingdom of Great Britain||name=Great Britain}}<br/>{{flagicon image|Red Ensign of Great Britain (1707-1800).svg}} [[British America]]
+|
+|
+|-
+|[[Panic of 1792|Financial Crisis of 1791–92]]
+|{{dts|format=dmy|1791||}}
+|{{flag|United States|1791}}
+| Shares of First bank of US boom and bust in Aug and Sept 1791. Groundwork of Alexander Hamilton's cooperation with the Bank of New York to end this event would be crucial in ending the Panic of 1792 (next year).
+|
+|-
+|[[Panic of 1796–1797]]
+|{{dts|format=dmy|1796||}}
+|{{flag|Kingdom of Great Britain|name=Great Britain}}<br/>{{flag|United States|1796}}
+|  A series of downturns in Atlantic credit markets led to broader commercial downturns in Great Britain and the United States.
+|
+|-
+|[[Panic of 1819]]
+|{{dts|format=dmy|1819||}}
+|{{flag|United States|1819}}
+|
+|
+|-
+|[[Panic of 1825]]
+|{{dts|format=dmy|1825||}}
+|{{flag|UKGBI|name=United Kingdom}}
+|
+|
+|-
+|[[Panic of 1837]]
+|{{dts|format=dmy|1837|May|10}}
+|{{flag|United States|1837}}
+|
+|
+|-
+|[[Panic of 1847]]
+|{{dts|format=dmy|1847||}}
+|{{flag|UKGBI|name=United Kingdom}}
+|
+|
+|-
+|[[Panic of 1857]]
+|{{dts|format=dmy|1857||}}
+|{{flag|United States|1867}}
+|
+|
+|-
+|[[Panic of 1866]]
+|{{dts|format=dmy|1866||}}
+|{{flag|UKGBI|name=United Kingdom}}
+|
+|
+|-
+|[[Black Friday (1869)|Black Friday]]
+|{{dts|format=dmy|1869|Sep|24}}
+|{{flag|United States|1869}}
+|
+|
+|-
+|[[Panic of 1873]]
+|{{dts|format=dmy|1873|May|9}}
+|
+|Initiated the [[Long Depression]] in the United States and much of Europe.
+|
+|-
+|[[Paris Bourse crash of 1882]]
+|{{dts|format=dmy|1882|Jan|19}}
+|{{flag|France|1882}}
+|
+|
+|-
+|[[Panic of 1884]]
+|{{dts|format=dmy|1884||}}
+|
+|
+|
+|-
+|[[Encilhamento]]
+|{{dts|format=dmy|1890||}}
+|{{flag|First Brazilian Republic||name=Brazil}}
+|Lasting 3 years, 1890–1893, a [[boom and bust]] process that ''boomed'' in late 1880s and ''burst'' on early 1890s, causing a collapse in the Brazilian economy and aggravating an already unstable political situation.
+|<ref>{{cite book |first=James D. |last=Henderson |first2=Helen |last2=Delpar |first3=Maurice P. |last3=Brungardt |title=A Reference Guide to Latin American History |editor-first=Richard |editor-last=Weldon |publisher=M.E.Sharpe Inc. |year=2000 |isbn=1-56324-744-5 |at=p. 172, 2nd column, "1890" (2nd paragraph) }}</ref><ref>{{cite book |first=Jeffrey D. |last=Needell |title=A Tropical Belle Epoque: Elite Culture and Society in Turn-of-the-Century |publisher=Cambridge University Press |year=1987 |pages=10 & 12 |isbn=0-521-33374-1 }}</ref><ref>{{cite book |first=Gail D. |last=Triner |title=Banking and economic development: Brazil, 1889–1930 |publisher=Palgrave |year=2000 |isbn=0-312-23399-X |pages=44–74 }}</ref><ref>[[Alfredo d'Escragnolle Taunay, Viscount of Taunay|Viscount of Taunay]]; "O Encilhamento; scenas contemporaneas da Bolsa do Rio de Janeiro em 1890, 1891 e 1892" {{in lang|pt}} ("The Encilhamento: contemporary scenes of Rio Stock Exchange in 1890, 1891 & 1892") Editora Melhoramentos, Rio 1893</ref>
+|-
+|[[Panic of 1893]]
+|{{dts|format=dmy|1893||}}
+| rowspan="8" |{{flag|United States|1929}}
+|
+|
+|-
+|[[Panic of 1896]]
+|{{dts|format=dmy|1896||}}
+|
+|
+|-
+|[[Panic of 1901]]
+|{{dts|format=dmy|1901|May|17||}}
+|Lasting 3 years, the market was spooked by the assassination of President [[William McKinley]] in 1901, coupled with a severe drought later the same year.
+|
+|-
+|[[Panic of 1907]]
+|{{dts|format=dmy|1907|Oct|}}
+|Lasting over a year, markets took fright after U.S. President [[Theodore Roosevelt]] had threatened to rein in the monopolies that flourished in various industrial sectors, notably railways.
+|
+|-
+| [[Wall Street crash of 1929]]
+|{{dts|format=d|1929|Oct|24}}–29 Oct 1929 
+|Lasting over 4 years, the bursting of the speculative bubble in shares led to further selling, as people who had borrowed money to buy shares had to cash them in, when their loans were called in. Also called the Great Crash or the Wall Street Crash, leading to the [[Great Depression]].
+|
+|-
+|[[Recession of 1937–1938]]
+|{{dts|format=dmy|1937||}}
+|Lasting around a year, this share price fall was triggered by an [[double-dip recession|economic recession within the Great Depression]] and doubts about the effectiveness of [[Franklin D. Roosevelt]]'s [[New Deal]] policy.
+|
+|-
+|[[Kennedy Slide of 1962]]
+|{{dts|format=dmy|1962|May|28}}
+|Also known as the 'Flash Crash of 1962'.
+|<ref>[https://online.wsj.com/news/articles/SB10001424052748703957604575272791511469272 "Back to the Future: Lessons From the Forgotten 'Flash Crash' of 1962"]</ref>
+|-
+|[[Recession of 1969–1970|Bear Market of 1970]]
+|{{dts|format=dmy|1968|Nov||}}
+|Over 20 months, rising inflation along with rising interest rates combined with the ongoing Vietnam War caused the S&P 500 to decline by 36.1%, coinciding with the Cambodia campaign.
+|<ref name="Yardeni">{{cite web | title=Stock Market Historical Tables: Bull & Bear Markets |url=https://yardeni.com/wp-content/uploads/BullBearTables.pdf| date=January 21, 2024 | website=Yardeni Research}}</ref>
+|-
+|Brazilian Markets Crash of 1971
+|{{dts|format=dmy|1971|Jul|}}
+|{{flag|Brazil}}
+|Lasting through the 1970s and early-1980s, this was the end of a boom that started in 1969, compounded by the [[1970s energy crisis]] coupled with early 1980s [[Latin American debt crisis]].
+|<ref>[[Gary Previts]], Peter Walton & Peter Wolnizer "A Global History of Accounting, Financial Reporting And Public Policy; Americas – Volume 14B" [[University of Sydney|The University of Sydney]]/The Accounting Foundation, Emerald Group Publishing Limited 2011 {{ISBN|978-0-85724-811-4}} Page 41, from the last paragraph</ref><ref>Detailed [http://www.scielosp.org/pdf/ee/v38n1/07.pdf PDF] {{webarchive|url=https://web.archive.org/web/20121203194545/http://www.scielosp.org/pdf/ee/v38n1/07.pdf |date=2012-12-03 }}  Academic work about the subject {{in lang|pt}} [[Universidade Estadual de Campinas|UNICAMP]] June 2007</ref><ref>Marta Barcellos & Simone Azevedo; "Histórias do Mercado de Capitais no Brasil" ("Histories of Financial Markets in Brazil") {{in lang|pt}} Campus Elsevier Brazil 2011 {{ISBN|85-352-3994-4}} Introduction and Chapter 4</ref>
+|-
+|[[1973–1974 stock market crash]]
+|{{dts|format=dmy|1973|Jan|}}
+|{{Plainlist|
+* {{flag|United Kingdom}} 
+* Worldwide
+}}
+|Lasting 23 months, dramatic rise in oil prices, the miners' strike and the downfall of the [[Edward Heath|Heath]] government.
+|<ref name="Yardeni">{{cite web | title=Stock Market Historical Tables: Bull & Bear Markets |url=https://yardeni.com/wp-content/uploads/BullBearTables.pdf| date=January 21, 2024 | website=Yardeni Research}}</ref>
+|-
+|[[Early 1980s recession]]
+|{{dts|format=dmy|1980|Nov||}}
+|{{Plainlist|
+* {{flag|United States}} 
+* Worldwide
+}}
+|Over 21 months, rising interest rates to tame double-digit inflation caused the S&P 500 to decline by 27.1%.
+|<ref name="Yardeni">{{cite web | title=Stock Market Historical Tables: Bull & Bear Markets |url=https://yardeni.com/wp-content/uploads/BullBearTables.pdf| date=January 21, 2024 | website=Yardeni Research}}</ref>
+|-
+|[[1980s oil glut]]
+|1981–1986
+|[[OPEC]]
+|
+|<ref>{{Cite web |title=Major Oil Market Crashes in History {{!}} O&E Online |url=https://oilandenergyonline.com/articles/all/major-oil-market-crashes-history/ |access-date=2026-03-22 |website=oilandenergyonline.com |language=en}}</ref>
+|-
+|[[Souk Al-Manakh stock market crash]]
+|{{dts|format=dmy|1982|Aug||}}
+|{{flag|Kuwait}}
+|
+|
+|-
+|[[Black Monday (1987)|Black Monday]]
+|{{dts|format=dmy|1987|Oct|19}}
+|{{flag|United States}} <br/> {{flag|New Zealand}}
+|Infamous stock market crash that represented the greatest one-day percentage decline in U.S. stock market history, culminating in a bear market after a more than 20% plunge in the [[S&P 500]] and [[Dow Jones Industrial Average]]. Among the primary causes of the chaos were program trading and illiquidity, both of which fueled the vicious decline for the day as stocks continued lower, even as volume grew lighter. Today, [[Trading curb|circuit breakers]] are in place, to prevent a repeat of Black Monday. After a 7% drop, trading would be suspended for 15 minutes, with the same 15 minute suspension kicking in after a 13% drop. However, in the event of a 20% drop, trading would be shut down for the remainder of the day.
+In New Zealand, the stock market continued to crash for the next 5 months, down to 60%. 
+|
+|-
+|Rio de Janeiro Stock Exchange Crash
+|{{dts|format=dmy|1989|Jun|}}
+|{{flag|Brazil}}
+|[[Rio de Janeiro Stock Exchange]] Crash, due to its weak internal controls and absence of credit discipline, that led to its collapse and from which it never recovered.
+|<ref>Markham, Jeffrey W. "A Financial History of the United States; Volume III (1970–2001)" M.E.Sharpe 2002 {{ISBN|0-7656-0730-1}} page 147, from last paragraph</ref><ref>[http://www.capital-flow-analysis.com/investment-tutorial/case_1l.html Article] {{webarchive|url=https://web.archive.org/web/20131021003629/http://www.capital-flow-analysis.com/investment-tutorial/case_1l.html |date=2013-10-21 }} about the decline of Rio Stock Exchange. Last 3 paragraphs are about the 1989 crash</ref><ref>Barcellos & Azevedo 2011, Pages 141–142; 149 to 151, and 154</ref>
+|-
+|[[Friday the 13th mini-crash]]
+|{{dts|format=dmy|1989|Oct|13}}
+| rowspan="2" |{{flag|United States}}
+|Failed [[leveraged buyout]] of [[United Airlines]] causes crash.
+|
+|-
+|[[Early 1990s recession]]
+|{{dts|format=dmy|1990|Jul|}}
+|[[Gulf War|Iraq invaded Kuwait in August 1990]], causing [[Price of oil|oil prices]] to [[1990 oil price shock|increase]]. The [[Dow Jones Industrial Average]] dropped 18% in three months, from 2,911.63 on 3 July to 2,381.99 on 16 October 1990. This recession lasted approximately 8 months.
+|
+|-
+|[[Japanese asset price bubble]]
+|{{dts|format=dmy|1991||}}
+|{{flag|Japan}}
+|Lasting approximately twenty years, through at least the end of 2011, share and property price bubble bursts and turns into a [[Lost Decade (Japan)|long deflationary recession]]. Some of the key-economic events, during the collapse of the Japanese asset price bubble, include the [[1997 Asian financial crisis]] and the [[dot-com bubble]]. In addition, more recent economic events, such as the [[2008 financial crisis]] and [[August 2011 stock markets fall]], have prolonged this period.
+|
+|-
+|[[Black Wednesday]]
+|{{dts|format=dmy|1992|Sep|16}}
+|{{flag|United Kingdom}}
+|The [[Conservative Party (UK)|Conservative]] [[Government of the United Kingdom|government]] was forced to withdraw the [[pound sterling]] from the [[European Exchange Rate Mechanism]] (ERM), after they were unable to keep sterling above its agreed lower limit.
+|
+|-
+|[[1997 Asian financial crisis]]
+|{{dts|format=dmy|1997|Jul|2}}
+|{{flag|Thailand}}<br/>{{flag|Hong Kong}}<br/>{{flag|Philippines|1986}}<br/>{{flag|South Korea}}<br/>{{flag|Indonesia}}
+|Investors deserted emerging Asian shares, including an overheated Hong Kong stock market. Crashes occur in: [[Thailand]], [[Indonesia]], [[South Korea]], [[Philippines]] and elsewhere, reaching a climax in the [[October 27, 1997 mini-crash]].
+|
+|-
+|[[October 27, 1997, mini-crash]]
+|{{dts|format=dmy|1997|Oct|27}}
+|
+|Global [[stock market crash]] that was caused by the [[1997 Asian financial crisis]].
+|
+|-
+|[[1998 Russian financial crisis]]
+|{{dts|format=dmy|1998|Aug|17}}
+|{{flag|Russia}}
+|The Russian government devalues the [[Russian ruble|ruble]], defaults on [[domestic debt]] and declares a moratorium on payment to [[foreign debt|foreign creditors]].
+|
+|-
+|[[1999 Greek stock market crash]]
+|1999
+|{{flag|Greece}}
+|
+|<ref>{{Cite web |title=The Volatile History of the Greek Stock Market – Finaeon |url=https://finaeon.com/the-volatile-history-of-the-greek-stock-market/ |access-date=2026-03-22 |language=en-us}}</ref>
+|-
+|[[Dot-com bubble]]
+|{{dts|format=dmy|2000|Mar|10}}
+|{{flag|United States}}
+|Collapse of a technology bubble.
+|
+|-
+|[[Economic effects of the September 11 attacks]]
+|{{dts|format=dmy|2001|Sep|11}}
+|
+|The [[September 11 attacks]] caused global stock markets to drop sharply. The attacks themselves caused approximately $40 billion in insurance losses, making it one of the largest insured events ever.
+|
+|-
+|[[Stock market downturn of 2002]]
+|{{dts|format=dmy|2002|Oct|9}}
+|
+|Downturn in stock prices, during 2002, in [[stock exchange]]s across the [[United States]], [[Canada]], [[Asia]] and [[Europe]]. After recovering from lows reached following the [[September 11 attacks]], [[stock market index|indices]] slid steadily, starting in March 2002, with dramatic declines in July and September, leading to lows last reached in 1997 and 1998. See [[stock market downturn of 2002]].
+|
+|-
+|[[Chinese stock bubble of 2007]]
+|{{dts|format=dmy|2007|Feb|27}}
+|{{flag|China}}
+|The [[SSE Composite Index]] of the [[Shanghai Stock Exchange]] tumbles 9% from unexpected selloffs (the largest drop in 10 years), triggering major drops in worldwide stock markets.
+|<ref>{{cite news|last=Chen|first=Shu-Ching Jean|title=Black Tuesday in China |url=https://www.forbes.com/2007/02/27/china-shanghai-update-markets-emerge-cx_jc_vk_0227markets15.html|access-date=25 September 2011|newspaper=Forbes|date=27 February 2007|author2=Kwok, Vivian Wai-yin}}</ref><ref>{{cite news|title=Share sale knocks Chinese market |url=https://news.bbc.co.uk/2/hi/business/6399941.stm|access-date=25 September 2011|publisher=BBC News|date=27 February 2007}}</ref><ref>{{cite news|last=Han|first=Pliny|title=Chinese shares slump sharply, down 8.84%|url=http://news.xinhuanet.com/english/2007-02/27/content_5780066.htm|archive-url=https://web.archive.org/web/20070302072927/http://news.xinhuanet.com/english/2007-02/27/content_5780066.htm|url-status=dead|archive-date=2 March 2007|access-date=25 September 2011|date=27 February 2007|agency=Xinhua News Agency}}</ref>
+|-
+|[[2008 financial crisis]] / [[United States bear market of 2007–2009]]
+|{{dts|format=dmy|2007|Oct|11}}<br/>{{dts|format=dmy|2008|Sep|16}}
+|{{Plainlist|
+* {{flag|United States}} 
+* Worldwide
+}}
+|Beginning in late 2007, fears about growing debt, the [[2000s United States housing bubble|growing housing bubble]] and general economic weakness kicked off a selling spree in markets. This accelerated on September 16, 2008, due to U.S. financial institutions failing because of the collapse of [[Subprime lending|subprime loans]] and [[credit default swap]] securities. This rapidly devolved into a global crisis, resulting in a number of bank failures in Europe and sharp reductions in the value of [[Equity (finance)|equities]] (stock) and commodities worldwide. The failure of banks in [[Iceland]] resulted in a devaluation of the [[Icelandic króna]] and threatened the government with bankruptcy. Iceland was able to secure an emergency loan from the [[International Monetary Fund|IMF]] in November. Later on, U.S. President [[George W. Bush]] signs the [[Emergency Economic Stabilization Act of 2008|Emergency Economic Stabilization Act]] into law, creating a [[Troubled Asset Relief Program]] (TARP) to purchase failing bank [[asset]]s. Had disastrous effects on the world economy along with world trade.
+|<ref>{{cite news |last=Browning |first=E. S. |date=28 June 2008 |title=Dow Hits Bear-Market Territory, Signaling Woe for Economy |url=https://www.wsj.com/articles/SB121460787893112069?mod=googlenews_wsj |access-date=25 September 2011 |newspaper=The Wall Street Journal}}</ref><ref>{{cite news |last=Korkki |first=Phyllis |date=4 March 2007 |title=A Scary Tuesday Was No Black Monday |url=https://www.nytimes.com/2007/03/04/business/yourmoney/04count.html?_r=1&st=cse&sq=%22Black+Monday%22&scp=5&oref=slogin |access-date=25 September 2011 |newspaper=The New York Times}}</ref><ref>{{cite news|title=IMF approves $2.1bn Iceland loan|url=https://news.bbc.co.uk/2/hi/in_depth/7738874.stm|access-date=25 September 2011|date=20 November 2008|publisher=BBC News}}</ref><ref>{{cite news|last=Sahadi|first=Jeanne|title=Bailout is law|url=https://money.cnn.com/2008/10/03/news/economy/house_friday_bailout/index.htm|archive-url=https://web.archive.org/web/20081004045516/http://money.cnn.com/2008/10/03/news/economy/house_friday_bailout/index.htm|url-status=dead|archive-date=4 October 2008|access-date=25 September 2011|date=4 October 2008|agency=CNN}}</ref>
+|-
+|[[Dubai World#2009 debt standstill|2009 Dubai debt standstill]]<!-- DO NOT REMOVE THE DUBAI DEBT CRISIS POSSIBLY CAUSED THE MARKETS TO DROP. -->
+|{{dts|format=dmy|2009|Nov|27}}
+|{{flag|UAE}}
+|[[Dubai]] requested a debt deferment, following its massive renovation and development projects, as well as the [[Great Recession]]. The announcement caused global [[stock market]]s to drop.
+|<ref>{{cite news|last=Robertson|first=David|title=Investors face huge losses as debt-ridden Dubai World is abandoned by government|url=http://business.timesonline.co.uk/tol/business/industry_sectors/banking_and_finance/article6937612.ece|access-date=25 September 2011|newspaper=The Times|date=30 November 2009}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+|[[Eurozone crisis]]
+|{{dts|format=dmy|2010|Apr|27}}
+|{{flag|Europe}}
+|[[Standard & Poor's]] [[Economy of Greece#2010 debt crisis|downgraded]] [[Greece]]'s [[Credit rating#Sovereign credit ratings|sovereign credit]] rating to [[High-yield debt|junk]], four days after the activation of a [[Euro|€]]45-billion [[European Union|EU]]–[[International Monetary Fund|IMF]] bailout, triggering the decline of [[stock market]]s worldwide and of the [[Euro]]'s value and furthering the [[Euro area crisis]].
+|<ref>{{cite news|url=https://news.bbc.co.uk/1/hi/business/8647441.stm|title=Greek bonds rated 'junk' by Standard & Poor's|publisher=BBC News|date=2010-04-27| access-date=2010-04-28}}</ref><ref>{{cite news|url=https://news.bbc.co.uk/2/hi/business/8648029.stm|title=Greece crisis: Euro markets hit again|publisher=BBC News|date=2010-04-28|access-date=2010-04-28}}</ref><ref name="CNN">{{cite news|url=http://edition.cnn.com/2010/BUSINESS/04/28/greece.euro.markets/index.html?hpt=T1| title=Greece crisis deepens on global market sell-off |publisher=CNN|date=2010-04-28|access-date=2010-04-28}}</ref>
+|-
+|[[2010 flash crash]]
+|{{dts|format=dmy|2010|May|6}}
+| rowspan="2" |{{flag|United States}}
+|The [[Dow Jones Industrial Average]] suffered its worst intra-day point loss, dropping nearly 1,000 points before partially recovering.
+|<ref>{{cite news|last=Moyer|first=Liz|title=Was The Market Mayhem A Mistake? Maybe Not|url=https://www.forbes.com/sites/streettalk/2010/05/07/was-the-market-mayhem-a-mistake-maybe-not/|access-date=25 September 2011|newspaper=Forbes|date=7 May 2010}}</ref>
+|-
+| [[August 2011 stock markets fall]]
+|{{dts|format=dmy|2011|Aug|1}}
+|[[S&P 500]] entered a short-lived [[bear market]] between 2 May 2011 (intraday high: 1,370.58) and 4 October 2011 (intraday low: 1,074.77), a decline of 21.58%. The stock market rebounded thereafter and ended the year flat. 
+|<ref>{{cite web|url=https://www.forexnewsnow.com/top-stories/us-downgrade-an-overview-of-the-global-debt-crisis/| title=US Downgrade: An Overview of the Global Debt Crisis| date=8 August 2011| website=Forex News Now| access-date=10 March 2020}}</ref><ref>{{cite web|url=https://www.cnbc.com/2011/08/04/dow-sinks-500-worst-day-since-dec-2008.html| title=Dow Sinks 500, Worst Day Since Dec. 2008| date=4 August 2011| publisher=CNBC| access-date=10 March 2020}}</ref><ref>{{Cite web|url=https://money.cnn.com/2011/08/08/markets/markets_newyork/index.htm|archive-url=https://web.archive.org/web/20110808225416/http://money.cnn.com/2011/08/08/markets/markets_newyork/index.htm|url-status=dead|archive-date=8 August 2011| title=Dow plunges after S&P downgrade| date=8 August 2011| website=CNN| access-date=10 March 2020}}</ref>
+|-
+|[[2015–16 Chinese stock market crash]]
+|{{dts|format=dmy|2015|Jun|12}}
+|{{flag|China}}
+|The [[Shanghai Stock Exchange|Chinese stock market]] crashed in June and continued falling in July and August. In January 2016, the market also experienced a steep sell-off, which set off a global rout.
+|<ref>{{cite news|url=https://www.telegraph.co.uk/finance/china-business/12075622/Chinese-stock-market-beats-Wall-Street-and-FTSE-by-closing-up-in-2015.html|title=Chinese stock market beats Wall Street and FTSE by closing up in 2015|work=The Daily Telegraph|date=2015-12-31}}</ref><ref>{{cite web|url=http://www.nasdaq.com/article/china-japan-new-zealand-asias-best-performing-stock-markets-in-2015-20160101-00007|title=Today's Stock Market News and Analysis from Nasdaq.com|publisher=Nasdaq}}</ref><ref>{{cite news|url=http://uk.reuters.com/article/china-stocks-midday-idUKL3N14K19U20151231|archive-url=https://web.archive.org/web/20151231133222/http://uk.reuters.com/article/china-stocks-midday-idUKL3N14K19U20151231|url-status=dead|archive-date=31 December 2015|title=Shanghai stocks poised to end 2015 up nearly 10 pct, beating Wall Street|agency=Reuters|date=2015-12-31}}</ref><br><ref>{{cite web|url=https://asiatimes.com/2015/12/shanghai-composite-ends-year-up-nearly-10/|title=Shanghai Composite Index ends year up nearly 10%|work=atimes.com|date=31 December 2015}}</ref><ref>{{cite web|url=http://www.smh.com.au/business/china/chinese-consumers-laugh-off-stock-market-gyrations-20150729-gimt3d.html|archive-url=https://web.archive.org/web/20150801014909/http://www.smh.com.au/business/china/chinese-consumers-laugh-off-stock-market-gyrations-20150729-gimt3d.html|url-status=dead|archive-date=1 August 2015|title=Chinese consumers 'laugh off' stock market gyrations|first=Mark|last=Mulligan|date=29 July 2015|work=The Sydney Morning Herald}}</ref><ref name="global_stocks_tumble">{{cite news|url=https://www.nytimes.com/2015/08/25/business/dealbook/stocks-in-asia-fall-as-china-and-emerging-economies-lose-favor.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0|title=Global Stocks Tumble Further Amid Doubts About China|last1=Popper|first1=Nathaniel|date=23 August 2015|access-date=24 August 2015|work=The New York Times|last2=Gough|first2=Neil}}</ref>
+|-
+|[[2015–2016 stock market selloff]]
+|{{dts|format=dmy|2015|Aug|18}}
+|{{flag|United States}}
+|The [[Dow Jones Industrial Average|Dow Jones]] fell 588 points during a two-day period, 1,300 points from 18 to 21 August. On Monday, 24 August, world stock markets were down substantially, wiping out all gains made in 2015, with interlinked drops in commodities, such as oil, which [[World oil market chronology from 2003|hit a six-year price low]], copper and most Asian currencies – with exception of the [[Japanese yen]] – losing value against the [[United States dollar]]. With this plunge, an estimated ten trillion dollars had been wiped off the books on global markets, since 3 June.
+|<ref name="Los Angeles Times">{{cite news| url=http://www.latimes.com/business/la-fi-0822-financial-markets-20150821-story.html|title=Stock market suffers worst one-day drop since 2008|work=Los Angeles Times|  access-date=24 August 2015|date=21 August 2015 |author1=Shan Li |author2=Andrea Chang |author3=Paresh Dave}}</ref><ref>{{cite web | url=https://finance.yahoo.com/echarts?s=%5EDJI+Interactive#%7B"customRangeStart":1440054000,"customRangeEnd":1440399600,"range":"custom","allowChartStacking":true%7D | title=DJI Interactive Stock Quote | date=24 August 2015 | access-date=24 August 2015 | publisher=Yahoo Finance}}</ref><ref name="global_stocks_tumble" />
+|-
+|[[2018 cryptocurrency crash]]
+|{{dts|format=dmy|2018|Sep|20}}
+|
+|The [[S&P 500|S&P 500 index]] peaked at 2,930 on its 20 September close and dropped 19.73% to 2,351 by Christmas Eve. [[Bitcoin]] price peaked on 17 Dec '17, then fell 45% on 22 Dec '17. The [[Dow Jones Industrial Average|DJIA]] falls 18.78%, during roughly the same period. [[SSE Composite Index|Shanghai Composite]] dropped to a four-year low, escalating their economic downturn, since the 2015 recession.
+|<ref>{{cite web|url=https://www.cnbc.com/2018/12/24/whats-a-bear-market-and-how-long-do-they-usually-last-.html|title=We are now in a bear market – here's what that means|publisher=[[CNBC]]|date=2018-12-24}}</ref><ref>{{cite news|url=https://www.nytimes.com/2019/01/20/business/china-economy-gdp-fourth-quarter.html|title=China's Economy, by the Numbers, Is Worse Than It Looks | work=The New York Times| access-date=20 January 2019| first1=Keith| last1=Bradsher| date=20 January 2019 
+}}</ref>
+|-
+|[[2020 stock market crash]]
+|{{dts|format=dmy|2020|Feb|24}}
+| rowspan="2" |Worldwide
+|The [[S&P 500|S&P 500 index]] dropped 34% (1,145 points), at its peak of 3,386 on 19 February to 2,237 on 23 March. This crash was part of a worldwide recession caused by the [[COVID-19 lockdowns]].
+|<ref>{{Cite web|url=https://www.marketwatch.com/story/how-far-away-is-the-coronavirus-fueled-stock-slump-from-entering-a-bear-market-2020-02-28|title=Are stocks headed for a bear market? Here's how far they would have to fall as coronavirus-fueled selloff continues|last=Watts|first=William|website=MarketWatch|language=en-US|access-date=2020-03-13}}</ref><ref>{{Cite web|url=https://www.presstelegram.com/a-look-at-what-happens-when-stocks-enter-a-bear-market-2|title=Coronavirus creates a true 'bear market' for Wall Street|date=2020-03-12|website=Daily Breeze|language=en-US|access-date=2020-03-13}}</ref><ref>{{Cite web|url=https://www.nationalreview.com/news/coronavirus-bear-market-dow-jones-1400-point-drop-amid-coronavirus-fears/|title=Bear Market Becomes Official with 1,400-Point Drop amid Coronavirus Fears|date=2020-03-11|website=National Review|language=en-US|access-date=2020-03-13}}</ref>
+|-
+|[[2022 stock market decline]]
+|{{dts|format=dmy|2022|Jan|3}}
+|The [[S&P 500|S&P 500 index]] peaked at 4,796 on its 3 January close and dropped 27.55%, to 3,498 by October 2022. The [[Dow Jones Industrial Average|DJIA]] fell 18.78%, since its 4 January high. [[Nasdaq Composite]] fell 36.40% from its 19 November high.
+|<ref>{{cite web|url=https://www.cnbc.com/2022/06/13/sp-500-is-in-official-bear-market-according-to-sp-dow-jones-indices.html|publisher=[[CNBC]]|date=2022-06-13|title=The S&P 500 is now in an official bear market, according to S&P Dow Jones Indices }}</ref><ref>{{cite news|url=https://www.npr.org/2022/06/13/1104552530/stocks-sink-s-p-500-bear-market|title=Stocks sink, sending the S&P 500 to a bear market | work=National Public Radio| access-date=14 June 2022| first1=David| last1=Gura| date=13 June 2022 
+}}</ref>
+|-
+|2022 Russian stock market crash
+|{{dts|format=dmy|2022|Feb|16}}
+|{{flag|Russia}}
+|As a reaction to the upcoming [[2022 Russian invasion of Ukraine|Russian invasion in Ukraine]], the [[MOEX Russia Index|MOEX Index]] fell 43.58% in four trading days. In response, the markets were closed for a month by the [[Central Bank of Russia]], to prevent even deeper decline. After re-opening on 24 March, the index partially recovered, but was still down roughly 40% compared to before the invasion.
+|<ref>{{Cite web |author=Mark Thompson and Chris Liakos |title=Russian stocks crash 33% and ruble plunges to record low |url=https://www.cnn.com/2022/02/24/investing/ruble-russian-stocks-crash/index.html |access-date=2022-08-25 |website=CNN|date=24 February 2022 }}</ref>
+|-
+|2024 China stock market crash
+|{{dts|format=dmy|2024|Feb|2}}
+|{{flag|China}}
+|The Shanghai Composite Index plummeted from a high of 3,703 in September 2021 to 2,730 on 2 February 2024, marking a 26.3% decline ahead of the Chinese New Year, prompted by sluggish economic recovery from COVID-19 and downturns in real estate. The government swiftly intervened in the stock market following the crash, by prohibiting short selling and reshuffling government officials.
+|<ref>{{Cite web |author=Economists |title=China’s stockmarket nightmare is nowhere near over The situation ought to worry Xi Jinping |url=https://www.economist.com/finance-and-economics/2024/02/07/chinas-stockmarket-nightmare-is-nowhere-near-over |access-date=2024-02-07|website=Economists|date=2 February 2024 }}</ref>
+|-
+|2024 Tokyo stock market crash
+|{{dts|format=dmy|2024|Aug|5}}
+|{{flag|Japan}}
+|A combination of rising interest rates and a strengthening [[yen]] had contributed to a recent unwinding of yen [[carry trade]]s. Weaker than expected US economic figures (released after Japanese markets had closed for the weekend) led to a global selloff. Upon reopening, the [[Nikkei 225]] recorded a single-day loss of 12.4%, its worst performance since [[Black Monday (1987)|Black Tuesday]]<!-- NOTE: The 1987 event was Black Tuesday in Japan due to time zones, see linked article --> in October 1987.
+|<ref>{{cite web |title=Global stock rout intensifies with Japan’s Nikkei and other Asian markets plunging |url=https://www.cnn.com/2024/08/04/business/japan-nikkei-stock-rout-intl-hnk/index.html |access-date=5 August 2024}}</ref>
+|-
+|[[2025 stock market crash]]
+|{{Plainlist|
+* {{dts|format=dmy|2025|Apr|3}}
+* {{dts|format=dmy|2025|Apr|4}}
+}}
+|{{flag|United States}} / Worldwide
+|On April 2, 2025, President [[Donald Trump]] announced large tariffs on all US imports. On April 4, [[China]] retaliated with a 34% tariff on all American imports. By the close of trade of April 4, the Dow Jones had lost over 9%, with the S&P 500 entering a bear market and losing 10%, and the Nasdaq Composite entering a bear market and losing 11%. At the lowest point on the following Monday, April 7, the S&P 500 was down 23% from its recent all-time high in February 2025.
+|<ref>{{Cite web |date=2025-03-26 |title=Trump's tariffs have launched global trade wars. Here's a timeline of how we got here |url=https://apnews.com/article/tariffs-timeline-trade-war-trump-canada-mexico-china-a9d714eea677488ef9397547d838dbd0 |access-date=2025-04-10 |website=AP News |language=en}}</ref>
+|-
+|2026 Chinese Stock Market Slide
+|June 22 – October 23
+|{{flag|China}}
+|China's benchmark CSI 300 Index officially entered a technical bear market on Thursday, October 22, 2026, after dropping 20.2% from its June peak. This sharp downturn has wiped out approximately $2.4 trillion in market value over a 10-week rout. The collapse was primarily driven by a global reversal in artificial intelligence trades, punishing hardware and semiconductor sectors like the SSE Star 50.
+|<ref>{{Cite web |date=2026-10-22 |title=China's stock market sinks into bear territory as CSI 300 extends 10-week rout |url=https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html |access-date=2026-10-23 |website=cnbc |language=en}}</ref>
+|}
+
+== See also ==
+* [[1991 Indian economic crisis]]  
+* [[Economic bubble]]
+* [[List of banking crises]]
+* [[List of economic crises]] 
+* [[List of largest daily changes in the Dow Jones Industrial Average]]
+* [[List of recessions in the United Kingdom]]
+* [[List of recessions in the United States]]
+* [[Stock market crashes in India]]
+
+== References ==
+
+{{Reflist}}
+* {{cite book |title= Panic on Wall Street: A Classic History of America's Financial Disasters with a New Exploration of the Crash of 1987|url= https://archive.org/details/paniconwallstree00sobe|url-access= registration|last=Sobel |first=Robert |author-link=Robert Sobel|year= 1988|publisher= Truman Talley Books/Dutton|location= New York|isbn= 0-525-48404-3}}
+
+{{Financial crises}}
+
+[[Category:Stock market-related lists|Stock market crashes]]
+[[Category:Financial problems|Stock market crashes]]
+[[Category:Stock market|*]]
+[[Category:Stock market crashes|*]]
