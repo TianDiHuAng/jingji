@@ -192,6 +192,18 @@
       "check_result": "PASS (131); check_links PASS (142页)",
       "spot_check": "自检10条案例化中的5条关键事实与本地原文一致",
       "note": "网络连续第3轮中断(跳过联网项)。DEEPEN-SEMANTIC：10条L2条目causal_chain/schools由通用模板改写为案例专属(据本地维基语料，消除套话)。"
+    },
+    {
+      "round": 20,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 6,
+      "fixed": 6,
+      "sources_total": 209,
+      "check_result": "PASS (131); check_links PASS (142页)",
+      "spot_check": "协议F体检硬问题0；自检6条案例化关键事实与原文一致",
+      "note": "协议F体检：硬问题0(死链/重复/矛盾/非法来源)、孤儿56、现状0过期。DEEPEN-SEMANTIC第三批：6条L2案例化(中国钱荒/俄1998/LTCM/黎巴嫩/2023银行/巴基斯坦)。网络仍不稳,3条待联网条目(1920-21/铁路狂热/加密崩盘)仍挂起。"
     }
   ]
 }

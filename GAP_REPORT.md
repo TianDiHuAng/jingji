@@ -1,22 +1,23 @@
-# 缺口发现报告（轮次19）
+# 缺口发现报告（轮次20，协议F体检轮）
 
-## 网络
-- 国际网络连续第3轮中断（baidu可达、en/zh维基+OpenLibrary超时）→ 按协议跳过联网新增项，记 BLOCKERS
+## 方法1：协议F全站体检（每5轮，本轮触发）
+- 死链 0 / 重复标题 0 / 数据矛盾 0 / 非法来源 0 / 现状数据 0 过期
+- 孤儿页(无related入链) 56（索引页仍收录，非真孤儿）
+- 来源组合雷同 6 组（均史料稀疏历史项，无专属维基页）
 
-## 本轮执行：DEEPEN-SEMANTIC（质量深化，网络无关）
-- 识别10条 L2 条目的 causal_chain/schools 仍为通用类型学模板（轮次13抽检曾提示）
-- 据本地已下载维基语料，改写为**案例专属成因**（引用各自维基来源）：
-  - 泡沫类5条：shanghai-rubber-1910、souk-al-manakh-1982、mini-crash-1997、chinese-stock-bubble-2007、cypriot-2013(实为银行)
-  - 其余5条：icelandic-crisis-2008、showa-crisis-1927、baring-crisis-1890、panic-1819、indian-1991
-- 每条给出3步因果链 + 2个案例专属解释视角，均标注来源与"待核实"
+## 方法7：深度缺口（DEEPEN-SEMANTIC）
+- 识别并案例化6条通用模板 L2：china-liquidity-2013、russian-1998、ltcm、lebanese-liquidity-2019、bank-crisis-2023、pakistan-crisis-2021
+- 均据本地维基语料改写 causal_chain/schools 为案例专属，引用各自来源
 
-## 自检（10%+）
-- 抽5条关键事实核对本地原文：three weeks imports(indian)、37 banks(showa)、November 1890(baring)、cotton 25%(panic1819)、tumbled 9%(china) — 全部一致
+## 方法3：悬空引用
+- 终检 0 断链
 
-## 缺口状态
-- 联网缺口挂起：Recession 1920–1921、铁路狂热、加密崩盘2022（待网络恢复）
-- 结构性空白仍在（非缺口）
+## 方法1/4：待联网缺口
+- Recession 1920–1921、铁路狂热、加密崩盘2022 —— 网络时通时断，重试失败，仍挂起
+
+## 自检
+- 抽5条关键事实核对本地原文：30 percent(china)、3.6billion/14banks(LTCM)、17 August 1998(russia)、150billion(bank2023)、30billion(pakistan) — 全部一致
 
 ## 结论
-- 本轮为质量深化轮，消除通用模板套话；未饱和（联网缺口仍在）
+- 硬问题全清；本批6条案例化提升质量；联网缺口挂起 → 未饱和
 - 层级：L1 46 / L2 56 / L3 29，共131条

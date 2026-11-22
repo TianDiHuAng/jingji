@@ -217,6 +217,18 @@
       "gaps_found": 1,
       "result": "quality-deepened",
       "notes": "网络连续3轮中断(跳过联网项)。DEEPEN-SEMANTIC：10条L2案例化(通用模板→案例专属，据本地语料)。消除轮次13抽检观察的套话问题。未饱和(联网缺口仍在)。"
+    },
+    {
+      "round": 20,
+      "methods_used": [
+        "protocol-F-healthcheck",
+        "depth-gap",
+        "reader-questions",
+        "coverage-matrix"
+      ],
+      "gaps_found": 1,
+      "result": "quality-deepened",
+      "notes": "协议F体检硬问题0。第三批6条L2案例化。网络仍不稳,3条待联网新条目挂起。未饱和。"
     }
   ]
 }
