@@ -11,11 +11,59 @@
   "overview": "1837年恐慌 是一次发生于18—19世纪、地区为北美的银行类事件。以下结构为基于类型学框架的整理，关键事实的具体数值、年份与人物均已标注待核实，待逐条核对来源后补全。",
   "timeline": [
     {
+      "year": 1834,
+      "display": "1834年中—1836年中",
+      "event": "经济扩张期，为随后的危机埋下信贷与投机基础（据 Wikipedia Panic of 1837）",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
       "year": 1837,
       "display": "1837年",
       "event": "1837年恐慌 发生/起始（年份据条目标题；具体月份与事件待核实）",
       "sources": [
         "w-en-bank-run"
+      ]
+    },
+    {
+      "year": 1837,
+      "display": "1837年2—3月",
+      "event": "棉花价格下跌25%（同上）",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
+      "year": 1837,
+      "display": "1837年初",
+      "event": "投资者恐慌，发生银行挤兑，\"恐慌\"由此得名（同上）",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
+      "year": 1837,
+      "display": "1837年3月",
+      "event": "马丁·范布伦就任总统（就职仅五周后危机爆发，故被归责）（同上）",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
+      "year": 1839,
+      "display": "1839年",
+      "event": "农产品价格下跌，压力传导至农业部门（同上）",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
+      "year": 1848,
+      "display": "1848年",
+      "event": "加州发现黄金，淘金热增加货币供给，加速复苏（同上）",
+      "sources": [
+        "w-en-panic-of-1837"
       ]
     }
   ],
@@ -39,7 +87,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "棉花价格跌幅(1837年2—3月)",
+      "value": 25,
+      "unit": "%（美国棉花价格，月内累计）",
+      "year": 1837,
+      "comparable_price": false,
+      "note": "原文：The price of cotton fell by 25% in February and March 1837；单一来源 w-en-panic-of-1837，待第二来源核实。",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行挤兑/恐慌视角",
@@ -80,5 +140,5 @@
     "panic-1792"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1837替换兜底，待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1837替换兜底，待核实。 【轮次7深化】补入来源核实的timeline与数值，单源部分待核实。"
 }
