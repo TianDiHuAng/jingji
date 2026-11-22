@@ -4,8 +4,9 @@
     {"round": 4, "date": "2026-11-22", "new_entries": 9, "upgraded": 0, "reviewed": 3, "fixed": 8, "sources_total": 194, "check_result": "PASS (115)", "spot_check": "25%抽检4条PASS", "note": "6条理论补双源；9条银行危机新条目。"},
     {"round": 5, "date": "2026-11-22", "new_entries": 2, "upgraded": 0, "reviewed": 6, "fixed": 0, "sources_total": 196, "check_result": "PASS (117)", "spot_check": "33%抽检3条PASS", "note": "8条真实数值+12时间线+2新条目。"},
     {"round": 6, "date": "2026-11-22", "new_entries": 0, "upgraded": 0, "reviewed": 8, "fixed": 179, "sources_total": 198, "check_result": "PASS (117)", "spot_check": "10%抽检5条→1修", "note": "协议F体检全清；114互链+63专属来源+二源核查。"},
-    {"round": 7, "date": "2026-11-22", "new_entries": 0, "upgraded": 3, "reviewed": 5, "fixed": 3, "sources_total": 198, "check_result": "PASS (117); check_links PASS (128页)",
-     "spot_check": "25%+抽检3条→1 FAIL(L1→L2结构不全)→3条全修复",
-     "note": "深化2条重要条目(11时间节点+2数值)；3条L1→L2升级并补结构；单源数值第2次核查维持待核实(记BLOCKERS)。"}
+    {"round": 7, "date": "2026-11-22", "new_entries": 0, "upgraded": 3, "reviewed": 5, "fixed": 3, "sources_total": 198, "check_result": "PASS (117)", "spot_check": "25%抽检3条→1修", "note": "2深化+3升L2及结构补齐。"},
+    {"round": 8, "date": "2026-11-22", "new_entries": 0, "upgraded": 3, "reviewed": 4, "fixed": 0, "sources_total": 199,
+     "check_result": "PASS (117); check_links PASS (128页)", "spot_check": "25%抽检3条全部PASS（L1→L2结构问题未复发）",
+     "note": "3条重要条目深化(13时间节点+1数值)；3条L1完整升L2；单源数值第3次核查找到法语二源1条(12.9M股)，其余3条按协议正式跳过(BLOCKERS)。"}
   ]
 }
