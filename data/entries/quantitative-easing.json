@@ -1,0 +1,62 @@
+{
+  "id": "quantitative-easing",
+  "title": "量化宽松",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "央行大规模购买资产以注入流动性、压低长期利率的非常规货币政策。",
+  "overview": "量化宽松(QE)是政策利率接近零下限时的非常规工具：央行购买国债等资产，扩大资产负债表以注入流动性、压低长期利率并支持需求。其效果与副作用（资产价格、退出难度）存在争议。具体规模与操作待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政策利率触零下限 → 常规工具失效",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    },
+    {
+      "step": "央行购买资产 → 流动性与长期利率下降",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    },
+    {
+      "step": "支持需求/资产价格；退出需谨慎",
+      "sources": [
+        "w-en-quantitative-tightening"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "支持方视角",
+      "view": "QE在危机中有效稳定市场与需求",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    },
+    {
+      "holder": "质疑方视角",
+      "view": "可能推高资产泡沫、加大退出难度",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>量化宽松：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政策利率触零下限 → 常规工</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>央行购买资产 → 流动性与长</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持需求/资产价格；退出需谨</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
+  "sources": [
+    "w-en-quantitative-easing",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+}

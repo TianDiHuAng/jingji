@@ -1,0 +1,62 @@
+{
+  "id": "real-business-cycle",
+  "title": "真实经济周期理论",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "将经济周期主要归因于技术冲击等实际因素的新古典宏观理论。",
+  "overview": "真实经济周期理论(RBC)认为经济波动主要源于技术等实际（供给）冲击，而非货币因素；在理性预期与市场出清的框架下，波动被视为对冲击的有效反应。该理论与凯恩斯主义在周期成因上存在根本分歧。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "技术/生产率冲击 → 相对价格与产出变化",
+      "sources": [
+        "w-en-real-business-cycle-theory"
+      ]
+    },
+    {
+      "step": "理性主体跨期替代劳动与消费",
+      "sources": [
+        "w-en-real-business-cycle-theory"
+      ]
+    },
+    {
+      "step": "产出与就业随之波动",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "RBC视角",
+      "view": "波动主要来自实际冲击，市场大体出清",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-real-business-cycle-theory"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "强调需求侧因素与市场不完全",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>真实经济周期理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>技术/生产率冲击 → 相对价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>理性主体跨期替代劳动与消费</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产出与就业随之波动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
+  "sources": [
+    "w-en-real-business-cycle-theory",
+    "w-en-business-cycle"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+}

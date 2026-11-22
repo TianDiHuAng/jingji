@@ -1,0 +1,62 @@
+{
+  "id": "monetary-policy",
+  "title": "货币政策",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行调节货币供给与利率以实现物价稳定等目标的政策。",
+  "overview": "货币政策是央行通过利率、准备金、公开市场操作等工具调节货币与信贷条件的政策。目标通常包括物价稳定、充分就业与金融稳定；政策传导存在时滞。不同央行的目标框架（如通胀目标制）各异，具体待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行调整政策利率 → 市场利率与信贷条件变化",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "step": "总需求与汇率、资产价格随之调整",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "step": "最终影响通胀与产出",
+      "sources": [
+        "w-en-inflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "规则vs相机抉择",
+      "view": "政策应遵循规则还是灵活相机抉择存在长期争论",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "holder": "通胀目标制视角",
+      "view": "以锚定通胀预期为核心",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-inflation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行调整政策利率 → 市场利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>总需求与汇率、资产价格随之调</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>最终影响通胀与产出</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
+  "sources": [
+    "w-en-monetary-policy",
+    "w-en-central-bank"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+}

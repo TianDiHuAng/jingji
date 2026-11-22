@@ -1,0 +1,62 @@
+{
+  "id": "sovereign-default",
+  "title": "主权违约",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "一国政府未能按期偿付其主权债务本息。",
+  "overview": "主权违约指政府无法或不愿履行债务偿付义务，可能表现为拒付、重组或贬值偿还。与私人债务不同，主权债缺乏超国家强制执行机制，重组常通过谈判进行。案例与机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "财政赤字与外债累积 → 偿付能力受质疑",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "step": "融资成本上升/收入下降 → 违约暴露",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    },
+    {
+      "step": "违约或重组 → 债权人损失与传染",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "偿付能力视角",
+      "view": "根本源于财政与外部失衡",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "holder": "偿付意愿/制度视角",
+      "view": "强调政治意愿与债权人协调",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融概念条目，与其他概念互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>主权违约：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字与外债累积 → 偿付</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>融资成本上升/收入下降 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>违约或重组 → 债权人损失与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
+  "sources": [
+    "w-en-sovereign-default",
+    "w-en-debt-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+}

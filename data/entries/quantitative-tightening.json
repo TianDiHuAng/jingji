@@ -1,0 +1,62 @@
+{
+  "id": "quantitative-tightening",
+  "title": "量化紧缩",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "央行缩减资产负债表、回收流动性的过程（量化宽松的反向）。",
+  "overview": "量化紧缩(QT)是央行通过停止再投资或主动出售资产来收缩资产负债表、回收流动性的过程，是QE的退出。可能抬升长期利率、收紧金融条件，进程与节奏对市场影响存在争议。具体操作待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "结束资产再投资/出售资产 → 资产负债表收缩",
+      "sources": [
+        "w-en-quantitative-tightening"
+      ]
+    },
+    {
+      "step": "流动性与长期利率上行 → 金融条件收紧",
+      "sources": [
+        "w-en-quantitative-tightening"
+      ]
+    },
+    {
+      "step": "对增长与资产价格形成压力",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "稳健退出视角",
+      "view": "缓慢可预期地缩表以减小冲击",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantitative-tightening"
+      ]
+    },
+    {
+      "holder": "担忧视角",
+      "view": "过快紧缩可能引发市场动荡",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>量化紧缩：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>结束资产再投资/出售资产 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>流动性与长期利率上行 → 金</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>对增长与资产价格形成压力</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
+  "sources": [
+    "w-en-quantitative-tightening",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "credit-crunch",
+  "title": "信贷紧缩",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "银行",
+  "one_line": "银行因资本受损或风险上升而大幅收紧放贷的情形。",
+  "overview": "信贷紧缩指银行因资本充足率下降、不良上升或不确定性而急剧收缩信贷供给，导致企业与家庭融资困难，加剧实体经济的下行。常在金融危机后出现。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "危机致银行资本受损/风险厌恶上升",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "step": "银行收紧放贷标准、信贷供给下降",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "step": "企业投资与消费受抑 → 经济下行",
+      "sources": [
+        "w-en-recession"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "金融加速器视角",
+      "view": "信贷紧缩与资产价格下跌相互强化",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "holder": "政策视角",
+      "view": "央行/政府需注入流动性缓解",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融概念条目，与其他概念互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信贷紧缩：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>危机致银行资本受损/风险厌恶</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行收紧放贷标准、信贷供给下</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>企业投资与消费受抑 → 经济</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
+  "sources": [
+    "w-en-credit-crunch",
+    "w-en-recession"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+}

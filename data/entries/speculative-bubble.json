@@ -1,0 +1,62 @@
+{
+  "id": "speculative-bubble",
+  "title": "投机泡沫",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "泡沫",
+  "one_line": "资产价格显著偏离基本面、由投机预期驱动的上涨后崩盘现象。",
+  "overview": "投机泡沫指资产价格因投机性买盘与乐观预期而远超其基本面价值，最终破裂回落的现象。成因涉及信贷扩张、羊群行为与预期自我强化。泡沫的识别与界定存在争议。案例众多。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "信贷可得+乐观叙事 → 资产价格上涨",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "价格上涨自我强化 → 更多投机入场",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "信心逆转 → 价格崩盘",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "非理性泡沫视角",
+      "view": "群体投机使价格脱离基本面",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "holder": "有效市场视角",
+      "view": "价格多数可由基本面解释、泡沫难判定",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融概念条目，与其他概念互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>投机泡沫：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信贷可得+乐观叙事 → 资产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格上涨自我强化 → 更多投</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心逆转 → 价格崩盘</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
+  "sources": [
+    "w-en-speculative-bubble",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+}

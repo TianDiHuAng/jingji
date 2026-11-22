@@ -1,0 +1,62 @@
+{
+  "id": "systemic-risk",
+  "title": "系统性风险",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "银行",
+  "one_line": "金融体系中因机构关联与共同暴露而导致整体不稳定的风险。",
+  "overview": "系统性风险指金融体系整体（而非单个机构）发生失灵的风险，源于机构间的关联、共同暴露与信心传染，可能造成广泛的金融与经济损害。是宏观审慎监管的核心关注。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "机构关联/共同暴露 → 局部冲击扩散",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    },
+    {
+      "step": "信心传染与去杠杆 → 系统性压力",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    },
+    {
+      "step": "系统性危机 → 广泛经济损害",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "关联性视角",
+      "view": "“太大而不能倒”与网络关联放大风险",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    },
+    {
+      "holder": "宏观审慎视角",
+      "view": "需逆周期资本等工具防范",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融概念条目，与其他概念互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>系统性风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构关联/共同暴露 → 局部</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信心传染与去杠杆 → 系统性</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>系统性危机 → 广泛经济损害</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
+  "sources": [
+    "w-en-systemic-risk",
+    "w-en-financial-contagion"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+}

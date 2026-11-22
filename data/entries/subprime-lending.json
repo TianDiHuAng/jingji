@@ -1,0 +1,62 @@
+{
+  "id": "subprime-lending",
+  "title": "次级贷款",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "向信用记录较弱借款人发放的高利率、较高风险贷款。",
+  "overview": "次级贷款指向信用评分较低、还款能力较弱的借款人发放的贷款，利率较高。2000年代美国次级房贷扩张、叠加证券化，构成2008年危机的核心。具体标准与规模待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "向低信用借款人放贷 → 高利率、高违约风险",
+      "sources": [
+        "w-en-subprime-lending"
+      ]
+    },
+    {
+      "step": "贷款经证券化打包出售 → 风险扩散至投资者",
+      "sources": [
+        "w-en-mortgage-backed-security"
+      ]
+    },
+    {
+      "step": "房价下跌/利率重设 → 违约潮与危机",
+      "sources": [
+        "w-en-subprime-mortgage-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "普惠/创新视角",
+      "view": "扩大住房融资可得性",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-subprime-lending"
+      ]
+    },
+    {
+      "holder": "风险/监管视角",
+      "view": "放松标准与证券化放大系统性风险",
+      "basis": "据维基原题/标准金融口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融概念条目，与其他概念互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>次级贷款：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>向低信用借款人放贷 → 高利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款经证券化打包出售 → 风</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>房价下跌/利率重设 → 违约</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
+  "sources": [
+    "w-en-subprime-lending",
+    "w-en-subprime-mortgage-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+}

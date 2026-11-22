@@ -1,0 +1,62 @@
+{
+  "id": "inflation",
+  "title": "通货膨胀",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "物价总水平持续上涨、货币购买力下降的现象。",
+  "overview": "通货膨胀指经济中商品与服务的总体价格水平持续上升。按成因常分为需求拉动型与成本推动型；温和通胀被认为与经济增长相容，恶性通胀则破坏货币职能。具体度量（CPI等）与各经济体数据待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "总需求扩张或成本上升 → 物价上行压力",
+      "sources": [
+        "w-en-inflation"
+      ]
+    },
+    {
+      "step": "预期与工资-价格螺旋 → 通胀自我延续",
+      "sources": [
+        "w-en-inflation"
+      ]
+    },
+    {
+      "step": "货币政策收紧/锚定预期 → 通胀回落",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "通胀是货币现象，货币供给增速决定物价长期走势",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-inflation"
+      ]
+    },
+    {
+      "holder": "成本推动/结构视角",
+      "view": "供给冲击与成本变化亦可推动物价",
+      "basis": "据维基原题/标准经济学口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>通货膨胀：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>总需求扩张或成本上升 → 物</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期与工资-价格螺旋 → 通</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策收紧/锚定预期 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
+  "sources": [
+    "w-en-inflation",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+}
