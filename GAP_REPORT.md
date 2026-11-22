@@ -1,34 +1,22 @@
-# 缺口发现报告（轮次18）
+# 缺口发现报告（轮次19）
 
-## 网络状况
-- 国际网络出口中断（连续第2轮）：baidu 可达，en/zh.wikipedia、OpenLibrary 均 URLError 超时
-- 记 BLOCKERS；采用"网络无关扩充"策略
+## 网络
+- 国际网络连续第3轮中断（baidu可达、en/zh维基+OpenLibrary超时）→ 按协议跳过联网新增项，记 BLOCKERS
 
-## 方法1/4（沿用轮次17发现，待联网补建）
-- 大纲缺口：Recession of 1920–1921（显著）
-- 读者问题缺口：铁路狂热、加密货币崩盘2022/FTX
-- 均需联网核对来源，本轮暂缓
+## 本轮执行：DEEPEN-SEMANTIC（质量深化，网络无关）
+- 识别10条 L2 条目的 causal_chain/schools 仍为通用类型学模板（轮次13抽检曾提示）
+- 据本地已下载维基语料，改写为**案例专属成因**（引用各自维基来源）：
+  - 泡沫类5条：shanghai-rubber-1910、souk-al-manakh-1982、mini-crash-1997、chinese-stock-bubble-2007、cypriot-2013(实为银行)
+  - 其余5条：icelandic-crisis-2008、showa-crisis-1927、baring-crisis-1890、panic-1819、indian-1991
+- 每条给出3步因果链 + 2个案例专属解释视角，均标注来源与"待核实"
 
-## 本轮执行（网络无关扩充）
-- 用库内既有 verified 来源新增3核心概念条目：
-  - **道德风险**（w-en-moral-hazard + w-en-deposit-insurance）
-  - **太大而不能倒**（w-en-too-big-to-fail + w-en-systemic-risk）
-  - **不可能三角**（w-en-currency-crisis + w-en-monetary-policy）
-- 均为标准经济学定义，不含编造数字/引文；L1骨架标待核实
-- 填补"读者理解危机必知的金融概念"维度
+## 自检（10%+）
+- 抽5条关键事实核对本地原文：three weeks imports(indian)、37 banks(showa)、November 1890(baring)、cotton 25%(panic1819)、tumbled 9%(china) — 全部一致
 
-## 方法2：覆盖矩阵
-- 理论制度单元理论类 6→9（+3概念）
-
-## 方法3：悬空引用
-- 终检0断链
-
-## 方法5/7
-- 待核实/深度：42→45条L1（含新增3概念），补充层，TASK允许保持
-
-## 质量闸
-- 自检3概念条目：来源verified、related有效、结构合规
+## 缺口状态
+- 联网缺口挂起：Recession 1920–1921、铁路狂热、加密崩盘2022（待网络恢复）
+- 结构性空白仍在（非缺口）
 
 ## 结论
-- 网络无关扩充产出3概念条目；仍有需联网缺口 → 未饱和
+- 本轮为质量深化轮，消除通用模板套话；未饱和（联网缺口仍在）
 - 层级：L1 46 / L2 56 / L3 29，共131条
