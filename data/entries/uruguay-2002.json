@@ -1,7 +1,7 @@
 {
   "id": "uruguay-2002",
   "title": "2002年乌拉圭银行危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "银行",
   "one_line": "2002年乌拉圭银行危机：发生于21世纪、地区为拉美的银行类案例（轮次4新条目，骨架）。",
   "overview": "2002年乌拉圭银行危机 是经权威大纲（Wikipedia List of banking crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 2001,
+      "display": "2001年12月",
+      "event": "阿根廷金融危机期间实施资本管制与存款冻结，波及乌拉圭（据 Wikipedia 2002 Uruguay banking crisis）",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
+    },
+    {
+      "year": 2002,
+      "display": "2002年7月",
+      "event": "乌拉圭爆发重大银行危机（同上）",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "step": "信贷收缩 → 融资中断",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "step": "信心扩散 → 系统性风险",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "银行挤兑视角",
+      "view": "源于信心崩塌引发挤兑",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "强调机构关联与传染",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
+    }
+  ],
+  "comparison": "与同为「银行」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2002年乌拉圭银行危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-uruguay-2002",
     "w-en-argentine-economic-crisis-1999-2002"
@@ -26,5 +88,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。"
 }

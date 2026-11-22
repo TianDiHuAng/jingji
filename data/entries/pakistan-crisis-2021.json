@@ -1,7 +1,7 @@
 {
   "id": "pakistan-crisis-2021",
   "title": "巴基斯坦经济危机(2021–2024)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,114 @@
   "crisis_type": "债务",
   "one_line": "巴基斯坦经济危机(2021–2024)：发生于21世纪、地区为亚洲的债务类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=亚洲、危机类型=债务。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2021,
+      "display": "2021年末",
+      "event": "燃料短缺与通胀飙升助推危机（据 Wikipedia Pakistani economic crisis）",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年6月",
+      "event": "通胀达历史高位，粮价上涨（同上）",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年",
+      "event": "巴基斯坦洪灾加剧危机，造成约300亿美元经济损失（同上）",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年初",
+      "event": "和平时期首次濒临主权违约（同上）",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "举债扩张+偿付假设 → 债务累积",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "step": "利率上升/收入下降 → 偿付困难暴露",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    },
+    {
+      "step": "违约或重组 → 债权人损失与传染",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "2022洪灾经济损失",
+      "value": 30,
+      "unit": "十亿美元（巴基斯坦，2022洪灾，约数）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：2022 Pakistan floods caused major economic losses worth $30 billion；单一来源待核实。",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    },
+    {
+      "label": "贫困率(2018–19→2024–25)",
+      "value": 28.8,
+      "unit": "%（巴基斯坦，2024–25，起点2018–19为21.9%）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：national poverty rate ... from 21.9% in 2018–2019 to 28.8% in 2024–2025；单一来源、现状类数据待核实。",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "债务周期视角",
+      "view": "过度负债与通缩相互强化",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "holder": "主权违约视角",
+      "view": "强调偿付意愿与制度安排",
+      "basis": "类型学框架归纳；本案例适用待核实",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "comparison": "与同为「债务」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴基斯坦经济危机(2021–2024)：机制示意（债务）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
     "w-en-pakistani-economic-crisis-2021-2024",
@@ -27,5 +128,5 @@
     "greek-debt-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。"
 }
