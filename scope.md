@@ -200,3 +200,9 @@
 | speculative-bubble | 投机泡沫 | 理论制度 | 全球 | 泡沫 | 重要 | 轮次续作 |
 | debt-crisis | 债务危机 | 理论制度 | 全球 | 债务 | 重要 | 轮次续作 |
 | initial-public-offering | 首次公开募股(IPO) | 理论制度 | 全球 | 制度 | 重要 | 轮次续作 |
+| central-bank-independence | 央行独立性 | 理论制度 | 全球 | 制度 | 重要 | 轮次续作 |
+| hyperinflation | 恶性通货膨胀 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| currency-crisis | 货币危机 | 理论制度 | 全球 | 货币 | 重要 | 轮次续作 |
+| keynesian-economics | 凯恩斯主义 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| creative-destruction | 创造性破坏 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| federal-reserve | 美国联邦储备系统(美联储) | 理论制度 | 全球 | 制度 | 重要 | 轮次续作 |

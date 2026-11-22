@@ -1,0 +1,62 @@
+{
+  "id": "currency-crisis",
+  "title": "货币危机",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "一国货币遭遇大规模抛售、急剧贬值或被迫放弃固定汇率的情形。",
+  "overview": "货币危机指市场对某货币信心崩溃，导致其大幅贬值、外汇储备耗尽或被迫放弃钉住汇率的情形，常与固定汇率高估、资本外逃与投机攻击相关。是新兴市场危机的典型形态。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "固定汇率高估+资本外流 → 贬值压力",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    },
+    {
+      "step": "投机攻击消耗储备 → 被迫贬值或放弃钉住",
+      "sources": [
+        "w-en-currency-devaluation"
+      ]
+    },
+    {
+      "step": "贬值引发债务与通胀压力",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "第一/二代危机模型视角",
+      "view": "基本面或预期自我实现导致攻击",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    },
+    {
+      "holder": "传染视角",
+      "view": "危机在区域间传染",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/制度概念条目，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币危机：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>固定汇率高估+资本外流 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>投机攻击消耗储备 → 被迫贬</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>贬值引发债务与通胀压力</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-currency-crisis",
+    "w-en-currency-devaluation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+}

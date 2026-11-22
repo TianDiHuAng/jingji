@@ -1,0 +1,62 @@
+{
+  "id": "central-bank-independence",
+  "title": "央行独立性",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行在制定货币政策时不受政府短期政治压力影响的程度。",
+  "overview": "央行独立性指央行在设定利率等货币政策时保持相对自主、免受政治干预的制度安排。支持者认为其有助于锚定通胀预期、提升政策可信度；亦需相应的问责与透明度。不同国家的制度设计差异较大，待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "赋予央行法定独立授权 → 减少政治周期干扰",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    },
+    {
+      "step": "独立设定货币政策 → 稳定通胀预期",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    },
+    {
+      "step": "配合问责与透明度",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "独立论视角",
+      "view": "独立有助于可信度与物价稳定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    },
+    {
+      "holder": "约束论视角",
+      "view": "需平衡独立性与民主问责",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/制度概念条目，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>央行独立性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>赋予央行法定独立授权 → 减</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>独立设定货币政策 → 稳定通</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>配合问责与透明度</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-central-bank-independence",
+    "w-en-central-bank"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+}

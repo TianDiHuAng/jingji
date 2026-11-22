@@ -1,0 +1,62 @@
+{
+  "id": "federal-reserve",
+  "title": "美国联邦储备系统(美联储)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "美国的中央银行体系，负责货币政策、金融稳定与银行监管。",
+  "overview": "美国联邦储备系统（美联储）是美国的中央银行，承担制定货币政策、维护金融稳定、监管银行与提供支付清算等职能，由理事会与12家地区储备银行组成。其独立性、决策框架与历史演变待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "国会授权设立 → 央行体系与地区储备银行",
+      "sources": [
+        "w-en-federal-reserve"
+      ]
+    },
+    {
+      "step": "以货币政策调节利率与货币供给",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "step": "危机中行使最后贷款人/流动性支持职能",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "独立性视角",
+      "view": "相对独立于政治以稳定物价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    },
+    {
+      "holder": "职能视角",
+      "view": "兼顾物价稳定、就业与金融稳定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-federal-reserve"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/制度概念条目，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国联邦储备系统(美联储)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国会授权设立 → 央行体系与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以货币政策调节利率与货币供给</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机中行使最后贷款人/流动性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-federal-reserve",
+    "w-en-central-bank"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+}
