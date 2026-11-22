@@ -37,40 +37,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化/挤兑冲击 → 银行资产负债表受损",
+      "step": "1880年代澳大利亚房地产投机繁荣(受商业银行助长) → 资产泡沫与过度放贷",
       "sources": [
-        "w-en-bank-run"
+        "w-en-australian-banking-crisis-of-1893"
       ]
     },
     {
-      "step": "信贷收缩 → 实体经济融资中断",
+      "step": "泡沫破裂 → 大量商业银行与建房社团倒闭、普遍经济萧条",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-australian-banking-crisis-of-1893"
       ]
     },
     {
-      "step": "信心扩散 → 系统性风险上升",
+      "step": "与美国1893年恐慌同期发生，相互叠加",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-australian-banking-crisis-of-1893"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑/恐慌视角",
-      "view": "危机源于存款人信心崩塌引发的挤兑与信贷收缩",
-      "basis": "类型学框架归纳；本案例具体适用待核实",
+      "holder": "房地产泡沫视角",
+      "view": "1880年代地产投机与银行过度放贷是根源",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-australian-banking-crisis-of-1893"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染导致的整体不稳定",
-      "basis": "类型学框架归纳；本案例具体适用待核实",
+      "holder": "银行挤兑视角",
+      "view": "银行连锁倒闭放大萧条",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-australian-banking-crisis-of-1893"
       ]
     }
   ],
@@ -96,5 +96,5 @@
     "panic-1796"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-australian-banking-crisis-of-1893替换兜底，待核实。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。 【轮次7抽检修复】补齐L2结构；具体适用与数值待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-australian-banking-crisis-of-1893替换兜底，待核实。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。 【轮次7抽检修复】补齐L2结构；具体适用与数值待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。"
 }

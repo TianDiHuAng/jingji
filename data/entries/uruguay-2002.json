@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "step": "自1950年代以来高度美元化(对披索信心弱) → 经济对美元与外部冲击高度敏感",
       "sources": [
-        "w-en-bank-run"
+        "w-en-uruguay-2002"
       ]
     },
     {
-      "step": "信贷收缩 → 融资中断",
+      "step": "本国经济收缩 + 对邻国阿根廷的过度依赖(阿根廷危机传染) → 2002年7月银行危机",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-uruguay-2002"
       ]
     },
     {
-      "step": "信心扩散 → 系统性风险",
+      "step": "银行挤兑与储备流失，危机深化",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-uruguay-2002"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑视角",
-      "view": "源于信心崩塌引发挤兑",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "美元化/外部脆弱视角",
+      "view": "长期美元化使货币错配、抗冲击能力弱",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-uruguay-2002"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "区域传染视角",
+      "view": "阿根廷危机通过贸易与金融渠道传染乌拉圭",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-financial-contagion"
       ]
     }
   ],
@@ -88,5 +88,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。"
 }

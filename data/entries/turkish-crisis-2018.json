@@ -45,21 +45,21 @@
   ],
   "causal_chain": [
     {
-      "step": "外汇市场抛售或固定汇率承压 → 本币贬值预期形成",
+      "step": "土耳其长期经常账户赤字 + 大量私人外币计价债务 → 外部融资脆弱",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-turkish-economic-crisis"
       ]
     },
     {
-      "step": "资本外流与本币贬值 → 进口价格与债务负担上升",
+      "step": "里拉大幅贬值、通胀高企、借贷成本上升、贷款违约增加 → 危机",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-turkish-economic-crisis"
       ]
     },
     {
-      "step": "货币当局应激反应（加息/干预/放弃钉住）→ 经济收缩或通胀",
+      "step": "2023年起转向正统货币政策以遏制通胀",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-turkish-economic-crisis"
       ]
     }
   ],
@@ -89,19 +89,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "认为是货币供给与汇率政策失当的结果",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "国际收支/外债视角",
+      "view": "经常账户赤字与外币债务使里拉易受冲击",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-turkish-economic-crisis"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与市场预期的国际传导",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "政策/信心视角",
+      "view": "非正统货币政策与地缘因素加剧资本外流",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-monetary-policy"
       ]
     }
   ],
@@ -128,5 +128,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-turkish-economic-crisis。 【轮次11协议F体检】现状类数据刷新：补2026-07通胀31.75%，距核对4个月未过期；2024-11标注为历史快照。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-turkish-economic-crisis。 【轮次11协议F体检】现状类数据刷新：补2026-07通胀31.75%，距核对4个月未过期；2024-11标注为历史快照。 【轮次24】causal_chain/schools案例化（据本地维基语料）。"
 }
