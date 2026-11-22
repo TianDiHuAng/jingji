@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 212,
+  "count": 213,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2545,6 +2545,18 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(page id存在)；轮次21网络恢复后新增；摘要:\"The bankruptcy of FTX, a Bahamas-based cryptocurrency exchan\""
+    },
+    {
+      "id": "w-en-amsterdam-crisis-1763",
+      "title": "Amsterdam banking crisis of 1763",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Amsterdam_banking_crisis_of_1763",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "本地已抓取全文(_research/l1_amsterdam-crisis-1763.txt)核对；此前以通用来源兜底，现补专属来源"
     }
   ]
 }

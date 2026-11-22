@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "政策收紧/外部冲击 → 需求下降",
+      "step": "1937年春产出/利润/工资恢复至1929年水平，但失业仍高；政策与库存调整后经济于1937年中掉头向下",
       "sources": [
-        "w-en-fiscal-policy"
+        "w-en-recession-1937-1938"
       ]
     },
     {
-      "step": "产出与就业下降 → 衰退",
+      "step": "衰退持续13个月(至1938年大部分时间)，工业生产下降近30%、耐用品生产降幅更大、失业骤升",
       "sources": [
-        "w-en-recession"
+        "w-en-recession-1937-1938"
       ]
     },
     {
-      "step": "政策转向 → 复苏",
+      "step": "1938年中复苏，但就业直到1941年末参战才回到1937初水平",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-recession-1937-1938"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "需求管理视角",
-      "view": "总需求政策可缓冲冲击",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "政策失误视角",
+      "view": "过早收紧财政货币(增税、削减支出、准备金要求)抑制复苏",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-fiscal-policy"
+        "w-en-recession-1937-1938"
       ]
     },
     {
-      "holder": "供给冲击视角",
-      "view": "外部冲击改变增长路径",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "周期/需求视角",
+      "view": "大萧条中的二次探底反映需求基础脆弱",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-economic-history"
+        "w-en-business-cycle"
       ]
     }
   ],
@@ -87,5 +87,5 @@
     "panic-1837"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【续作】案例化（据本地维基语料）。"
 }

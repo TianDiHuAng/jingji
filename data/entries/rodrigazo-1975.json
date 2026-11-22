@@ -29,21 +29,21 @@
   ],
   "causal_chain": [
     {
-      "step": "财政赤字货币化 → 货币供给过快增长",
+      "step": "1975年6月4日阿根廷经济部长Rodrigo宣布一组经济政策(含大幅贬值约150%)，随后爆发骚乱",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-rodrigazo-1975"
       ]
     },
     {
-      "step": "通胀预期固化 → 价格加速",
+      "step": "通胀从1974年24.4%升至1975年182.4%、1976年444%；实际工资大跌、公共赤字达12.4%",
       "sources": [
-        "w-en-inflation"
+        "w-en-rodrigazo-1975"
       ]
     },
     {
-      "step": "币值失序 → 改革",
+      "step": "冲击削弱庇隆主义工会基础，与伊莎贝尔·庇隆一年内下台相关",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-rodrigazo-1975"
       ]
     }
   ],
@@ -63,19 +63,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "通胀是货币现象",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "货币/财政视角",
+      "view": "大幅贬值与赤字货币化引发恶性通胀",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-rodrigazo-1975"
       ]
     },
     {
-      "holder": "财政视角",
-      "view": "赤字货币化是根源",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "政治经济视角",
+      "view": "紧缩政策冲击工资与工会，引发社会动荡",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-inflation"
+        "w-en-rodrigazo-1975"
       ]
     }
   ],
@@ -101,5 +101,5 @@
     "argentina-crisis-2001"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【轮次12抽检修复】444%年份由1975末修正为1976（据维基原文）。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【轮次12抽检修复】444%年份由1975末修正为1976（据维基原文）。 【续作】案例化（据本地维基语料）。"
 }
