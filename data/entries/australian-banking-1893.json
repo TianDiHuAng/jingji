@@ -1,7 +1,7 @@
 {
   "id": "australian-banking-1893",
   "title": "澳大利亚银行危机(1893)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,7 +9,32 @@
   "crisis_type": "银行",
   "one_line": "澳大利亚银行危机(1893)：发生于18—19世纪、地区为大洋洲的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=大洋洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1893,
+      "display": "1893年",
+      "event": "澳大利亚殖民地多家商业银行与建房社团倒闭，伴随普遍经济萧条（据 Wikipedia Australian banking crisis of 1893）",
+      "sources": [
+        "w-en-australian-banking-crisis-of-1893"
+      ]
+    },
+    {
+      "year": 1893,
+      "display": "1893年（同期）",
+      "event": "与美国1893年恐慌同时发生（同上）",
+      "sources": [
+        "w-en-australian-banking-crisis-of-1893"
+      ]
+    },
+    {
+      "year": 1896,
+      "display": "1896—1902年",
+      "event": "联邦干旱期开始，加剧经济困境（同上）",
+      "sources": [
+        "w-en-australian-banking-crisis-of-1893"
+      ]
+    }
+  ],
   "causal_chain": [],
   "key_data": [],
   "schools": [],
@@ -26,5 +51,5 @@
     "panic-1796"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-australian-banking-crisis-of-1893替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-australian-banking-crisis-of-1893替换兜底，待核实。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。"
 }

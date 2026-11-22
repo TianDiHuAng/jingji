@@ -1,7 +1,7 @@
 {
   "id": "sterling-crisis-1976",
   "title": "1976年英镑危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,9 +9,46 @@
   "crisis_type": "货币",
   "one_line": "1976年英镑危机：发生于20世纪下半、地区为欧洲的货币类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=欧洲、危机类型=货币。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1972,
+      "display": "1972年",
+      "event": "保守党\"增长冲刺\"预算开启通胀周期（据 Wikipedia 1976 sterling crisis）",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    },
+    {
+      "year": 1975,
+      "display": "1975年",
+      "event": "通胀接近25%，推高债券收益率与借贷成本（同上）",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    },
+    {
+      "year": 1976,
+      "display": "1976年6月",
+      "event": "英镑兑美元跌至历史低点，危机爆发（同上）",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    }
+  ],
   "causal_chain": [],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "英国通胀率(1975)",
+      "value": 25,
+      "unit": "%（接近25%，英国CPI，1975年）",
+      "year": 1975,
+      "comparable_price": false,
+      "note": "原文：Inflation (at close to 25% in 1975)；\"接近\"为约数表述，单一来源待核实。",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    }
+  ],
   "schools": [],
   "policy_response": [],
   "comparison": "",
@@ -27,5 +64,5 @@
     "mexican-peso-1994"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-1976-sterling-crisis。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-1976-sterling-crisis。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。"
 }
