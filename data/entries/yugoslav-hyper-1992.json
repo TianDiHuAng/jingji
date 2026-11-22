@@ -1,0 +1,88 @@
+{
+  "id": "yugoslav-hyper-1992",
+  "title": "南斯拉夫恶性通胀(1992–1994)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "恶性通胀",
+  "one_line": "南斯拉夫恶性通胀(1992–1994)：发生于20世纪下半、地区为欧洲的恶性通胀类案例（条目骨架，详细内容待补充）。",
+  "overview": "南斯拉夫恶性通胀(1992–1994) 是一次发生于20世纪下半、地区为欧洲的恶性通胀类事件。以下结构为基于类型学框架的整理，关键事实的具体数值、年份与人物均已标注待核实，待逐条核对来源后补全。",
+  "timeline": [
+    {
+      "year": 1992,
+      "display": "1992年",
+      "event": "南斯拉夫恶性通胀(1992–1994) 发生/起始（年份据条目标题；具体月份与事件待核实）",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    },
+    {
+      "year": 1994,
+      "display": "1994年",
+      "event": "事件结束或主要影响期（据条目标题区间；具体节点待核实）",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "财政赤字货币化/供给冲击 → 货币供给过快增长",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    },
+    {
+      "step": "通胀预期固化 → 货币流通速度上升、价格加速",
+      "sources": [
+        "w-en-inflation"
+      ]
+    },
+    {
+      "step": "货币体系失序 → 币值崩溃与新货币改革",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "通胀无论何时何地都是货币现象，源于货币超发",
+      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    },
+    {
+      "holder": "财政视角",
+      "view": "赤字货币化与财政失衡是根源",
+      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "sources": [
+        "w-en-inflation"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "危机应对措施及其效果存在分歧；具体政策与评价待核实",
+      "basis": "政策评估需多来源印证",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "comparison": "与同为「恶性通胀」类的其他案例共享相似传导机制，差异在于时期（20世纪下半）、地区（欧洲）与制度环境；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>南斯拉夫恶性通胀(1992–1994)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
+  "sources": [
+    "w-en-hyperinflation",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。"
+}

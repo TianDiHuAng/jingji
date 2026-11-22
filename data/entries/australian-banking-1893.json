@@ -1,0 +1,26 @@
+{
+  "id": "australian-banking-1893",
+  "title": "澳大利亚银行危机(1893)",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "大洋洲",
+  "crisis_type": "银行",
+  "one_line": "澳大利亚银行危机(1893)：发生于18—19世纪、地区为大洋洲的银行类案例（条目骨架，详细内容待补充）。",
+  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=大洋洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-en-bank-run",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+}

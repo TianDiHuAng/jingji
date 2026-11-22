@@ -1,0 +1,276 @@
+[
+  {
+    "found": false,
+    "query": "Manias, Panics, and Crashes",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": false,
+    "query": "This Time Is Different: Eight Centuries of Financial Folly"
+  },
+  {
+    "found": false,
+    "query": "Golden Fetters: The Gold Standard and the Great Depression",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": true,
+    "title": "The great crash, 1929",
+    "authors": [
+      "John Kenneth Galbraith"
+    ],
+    "year": 1955,
+    "key": "/works/OL12578W",
+    "query": "The Great Crash 1929"
+  },
+  {
+    "found": false,
+    "query": "Paper Money and Inflation in the Twentieth Century"
+  },
+  {
+    "found": true,
+    "title": "A monetary history of the United States, 1867-1960",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "year": 1963,
+    "key": "/works/OL2747776W",
+    "query": "A Monetary History of the United States"
+  },
+  {
+    "found": true,
+    "title": "The ascent of money",
+    "authors": [
+      "Niall Ferguson"
+    ],
+    "year": 2008,
+    "key": "/works/OL792952W",
+    "query": "The Ascent of Money"
+  },
+  {
+    "found": false,
+    "query": "Debt: The First 5000 Years",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": false,
+    "query": "The World Economy: A Millennial Perspective"
+  },
+  {
+    "found": true,
+    "title": "Capitalism, Socialism and Democracy",
+    "authors": [
+      "Joseph Alois Schumpeter"
+    ],
+    "year": 1942,
+    "key": "/works/OL1295326W",
+    "query": "Capitalism, Socialism and Democracy"
+  },
+  {
+    "found": true,
+    "title": "The general theory of employment, interest and money",
+    "authors": [
+      "John Maynard Keynes"
+    ],
+    "year": 1935,
+    "key": "/works/OL35951W",
+    "query": "The General Theory of Employment, Interest and Money"
+  },
+  {
+    "found": true,
+    "title": "Principles of economics",
+    "authors": [
+      "Alfred Marshall"
+    ],
+    "year": 1890,
+    "key": "/works/OL2627167W",
+    "query": "Principles of Economics"
+  },
+  {
+    "found": true,
+    "title": "The Wealth of Nations",
+    "authors": [
+      "Adam Smith"
+    ],
+    "year": 1776,
+    "key": "/works/OL76827W",
+    "query": "The Wealth of Nations"
+  },
+  {
+    "found": true,
+    "title": "Das Kapital",
+    "authors": [
+      "Karl Marx"
+    ],
+    "year": 1867,
+    "key": "/works/OL628450W",
+    "query": "Das Kapital"
+  },
+  {
+    "found": true,
+    "title": "The theory of industrial organization",
+    "authors": [
+      "Jean Tirole"
+    ],
+    "year": 1988,
+    "key": "/works/OL5092445W",
+    "query": "The Theory of Industrial Organization"
+  },
+  {
+    "found": false,
+    "query": "Banking on the Brink"
+  },
+  {
+    "found": true,
+    "title": "The big short",
+    "authors": [
+      "Michael Lewis",
+      "Francisco José Ramos Mena"
+    ],
+    "year": 2009,
+    "key": "/works/OL15118378W",
+    "query": "The Big Short"
+  },
+  {
+    "found": false,
+    "query": "Too Big to Fail",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": true,
+    "title": "After the music stopped",
+    "authors": [
+      "Alan S. Blinder"
+    ],
+    "year": 2013,
+    "key": "/works/OL16769843W",
+    "query": "After the Music Stopped"
+  },
+  {
+    "found": true,
+    "title": "The end of theory",
+    "authors": [
+      "Richard M. Bookstaber"
+    ],
+    "year": 2017,
+    "key": "/works/OL20060324W",
+    "query": "The End of Theory"
+  },
+  {
+    "found": false,
+    "query": "Lords of Finance",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": true,
+    "title": "Lessons from the Great Depression",
+    "authors": [
+      "Peter Temin"
+    ],
+    "year": 1989,
+    "key": "/works/OL4797083W",
+    "query": "The Great Depression"
+  },
+  {
+    "found": false,
+    "query": "Lessons from the Great Depression",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE"
+  },
+  {
+    "found": true,
+    "title": "Golden Fetters : the Gold Standard and the Great Depression, 1919-1939",
+    "authors": [
+      "Barry J. Eichengreen"
+    ],
+    "year": 1996,
+    "key": "/works/OL34037373W",
+    "query": "The Golden Fetters"
+  },
+  {
+    "found": false,
+    "query": "Inflation and Development"
+  },
+  {
+    "found": false,
+    "query": "Hyperinflation and the dynamics of the price level"
+  },
+  {
+    "found": false,
+    "query": "Manias Panics and Crashes A History of Financial Crises"
+  },
+  {
+    "found": true,
+    "title": "The stock market crash of 1929",
+    "authors": [
+      "Nancy Millichap"
+    ],
+    "year": 1994,
+    "key": "/works/OL3929406W",
+    "query": "The Crash of 1929"
+  },
+  {
+    "found": true,
+    "title": "Black Wednesday",
+    "authors": [
+      "Promilla Kalhan"
+    ],
+    "year": 1977,
+    "key": "/works/OL1766762W",
+    "query": "Black Wednesday"
+  },
+  {
+    "found": true,
+    "title": "The euro",
+    "authors": [
+      "Joseph E. Stiglitz"
+    ],
+    "year": 2016,
+    "key": "/works/OL20039857W",
+    "query": "The Euro"
+  },
+  {
+    "found": false,
+    "query": "Making the Euro Work"
+  },
+  {
+    "found": true,
+    "title": "SOVEREIGN DEBT AND THE FINANCIAL CRISIS",
+    "authors": [
+      "Carlos Alberto Primo Braga"
+    ],
+    "year": 2010,
+    "key": "/works/OL15666568W",
+    "query": "Sovereign Debt and the Financial Crisis"
+  },
+  {
+    "found": true,
+    "title": "Lessons from the Asian financial crisis",
+    "authors": [
+      "Richard Carney"
+    ],
+    "year": 2009,
+    "key": "/works/OL18742261W",
+    "query": "The Asian Financial Crisis"
+  },
+  {
+    "found": true,
+    "title": "Crisis economics",
+    "authors": [
+      "Nouriel Roubini"
+    ],
+    "year": 2010,
+    "key": "/works/OL18779110W",
+    "query": "Crisis Economics"
+  },
+  {
+    "found": true,
+    "title": "Gender and the Economic Crisis in Europe",
+    "authors": [
+      "Johanna Kantola",
+      "Emanuela Lombardo"
+    ],
+    "year": 2017,
+    "key": "/works/OL20788752W",
+    "query": "Gender and the Economic Crisis"
+  }
+]
