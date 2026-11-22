@@ -29,7 +29,15 @@
     {
       "year": 2024,
       "display": "2024年11月",
-      "event": "通胀降至47.09%，低于历史高点83%（同上；现状类数据，截至2024-11）",
+      "event": "通胀降至47.09%，低于历史高点83%（同上；历史快照（2024-11））",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
+    },
+    {
+      "year": 2026,
+      "display": "2026年7月",
+      "event": "土耳其CPI同比通胀降至31.75%（据 Wikipedia Turkish economic crisis；现状类数据，核对2026-11-22）",
       "sources": [
         "w-en-turkish-economic-crisis"
       ]
@@ -62,7 +70,18 @@
       "unit": "%（土耳其CPI同比，2024-11；现状类数据）",
       "year": 2024,
       "comparable_price": false,
-      "note": "原文：as of November 2024, inflation is at 47.09%, down from its all-time high of 83%；单一来源、现状类数据待核实。",
+      "note": "原文：as of November 2024, inflation is at 47.09%, down from its all-time high of 83%；单一来源、历史快照（2024-11），已由2026-07数据点更新；仍为当时准确记录。",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
+    },
+    {
+      "label": "通胀率(2026年7月,最新)",
+      "value": 31.75,
+      "unit": "%（土耳其CPI同比，2026-07；现状类数据）",
+      "year": 2026,
+      "comparable_price": false,
+      "note": "原文：As of July 2026 the YoY inflation stood on 31.75%；单一来源、现状类数据，核对日期2026-11-22（距数据4个月，未过期）。此前2024-11为47.09%，持续回落。",
       "sources": [
         "w-en-turkish-economic-crisis"
       ]
@@ -109,5 +128,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-turkish-economic-crisis。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-turkish-economic-crisis。 【轮次11协议F体检】现状类数据刷新：补2026-07通胀31.75%，距核对4个月未过期；2024-11标注为历史快照。"
 }
