@@ -17,6 +17,22 @@
       "sources": [
         "w-en-currency-crisis"
       ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "埃尔多安在Şimşek与Erkan指导下转向正统银行方法（同上）",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年11月",
+      "event": "通胀降至47.09%，低于历史高点83%（同上；现状类数据，截至2024-11）",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
     }
   ],
   "causal_chain": [
@@ -39,7 +55,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "通胀率(2024年11月)",
+      "value": 47.09,
+      "unit": "%（土耳其CPI同比，2024-11；现状类数据）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：as of November 2024, inflation is at 47.09%, down from its all-time high of 83%；单一来源、现状类数据待核实。",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币主义视角",

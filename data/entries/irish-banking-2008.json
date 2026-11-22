@@ -11,11 +11,35 @@
   "overview": "爱尔兰银行危机(2008–) 是一次发生于21世纪、地区为欧洲的银行类事件。以下结构为基于类型学框架的整理，关键事实的具体数值、年份与人物均已标注待核实，待逐条核对来源后补全。",
   "timeline": [
     {
+      "year": 2005,
+      "display": "2005年6月",
+      "event": "《经济学人》列爱尔兰于房价通胀名单，1997–2005房价涨幅192%为其列表最高（据 Wikipedia Post-2008 Irish banking crisis）",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
       "year": 2008,
       "display": "2008年",
       "event": "爱尔兰银行危机(2008–) 发生/起始（年份据条目标题；具体月份与事件待核实）",
       "sources": [
         "w-en-bank-run"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年后",
+      "event": "多家爱尔兰金融机构因资不抵债濒临崩溃（同上）",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年3月",
+      "event": "央行行长Patrick Honohan称其为\"世界史上最昂贵的银行危机之一\"（同上）",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
       ]
     }
   ],
@@ -39,7 +63,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "房价涨幅(1997–2005)",
+      "value": 192,
+      "unit": "%（爱尔兰，1997–2005累计）",
+      "year": 2005,
+      "comparable_price": false,
+      "note": "原文：Ireland’s price inflation of 192% in 1997–2005 was the highest on its list；单一来源待核实。",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行挤兑/恐慌视角",

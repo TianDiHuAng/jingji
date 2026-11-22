@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 199,
+  "count": 200,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2389,6 +2389,18 @@
       "verified": true,
       "link_ok": true,
       "note": "法语维基API核对(pageid=81594)；轮次8第3次核查发现第二来源：原文 Les volumes échangés atteignent 12,9 millions d’actions 印证黑色星期四成交量"
+    },
+    {
+      "id": "w-en-brexit",
+      "title": "Brexit",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Brexit",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API核对(pageid=41688778)；轮次9修正brexit-crash-2016错配来源新增"
     }
   ]
 }
