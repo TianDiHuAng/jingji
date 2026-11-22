@@ -2,6 +2,8 @@
   "metrics": [
     {"round": 3, "date": "2026-11-22", "new_entries": 0, "upgraded": 26, "reviewed": 3, "fixed": 15, "sources_total": 180, "check_result": "PASS (106)", "spot_check": "3条2修→整批修复", "note": "26条核心L2→L3；修复学者归属错配。"},
     {"round": 4, "date": "2026-11-22", "new_entries": 9, "upgraded": 0, "reviewed": 3, "fixed": 8, "sources_total": 194, "check_result": "PASS (115)", "spot_check": "25%抽检4条PASS", "note": "6条理论补双源；9条银行危机新条目。"},
-    {"round": 5, "date": "2026-11-22", "new_entries": 2, "upgraded": 0, "reviewed": 6, "fixed": 0, "sources_total": 196, "check_result": "PASS (117); check_links PASS (128页)", "spot_check": "25%+抽检3条(33%)全PASS，数值经维基原文实证", "note": "4案例补8条真实数值(单源标注待核实)；3条重要条目补12个真实timeline节点；2条遗漏条目(冰岛/乌克兰)。"}
+    {"round": 5, "date": "2026-11-22", "new_entries": 2, "upgraded": 0, "reviewed": 6, "fixed": 0, "sources_total": 196, "check_result": "PASS (117)", "spot_check": "33%抽检3条PASS", "note": "8条真实数值+12时间线+2新条目。"},
+    {"round": 6, "date": "2026-11-22", "new_entries": 0, "upgraded": 0, "reviewed": 8, "fixed": 179, "sources_total": 198, "check_result": "PASS (117); check_links PASS (128页)", "spot_check": "10%抽检5条→1 FAIL(双源后残留单源表述)→已修复",
+     "note": "协议F体检：死链0/重复0/矛盾0/非法来源0；114条补互链(孤儿113→57)；63条补专属来源(雷同组30→6)；8条数值二源核查(4双源印证/4维持待核实/1数据分歧13vs11万亿)；抽检1缺陷已修复。"}
   ]
 }

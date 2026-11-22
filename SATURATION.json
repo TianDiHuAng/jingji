@@ -2,11 +2,13 @@
   "saturated": false,
   "zero_gap_streak": 0,
   "maintenance_mode": false,
-  "next_round_spot_check_ratio": 0.10,
-  "spot_check_ratio_note": "轮次3有缺陷、轮次4-5连续两轮抽检全PASS，按BACKLOG约定降回10%",
+  "next_round_spot_check_ratio": 0.25,
+  "spot_check_ratio_note": "轮次6抽检1条FAIL(双源后残留单源表述，已修复)，按协议E下轮提回25%",
   "rounds": [
     {"round": 3, "methods_used": ["depth-gap","coverage-matrix","dangling-refs","pending-list","low-source","authoritative-outline"], "gaps_found": 6, "result": "partially-addressed"},
     {"round": 4, "methods_used": ["low-source","authoritative-outline","pending-review","coverage-matrix"], "gaps_found": 3, "result": "gaps-addressed"},
-    {"round": 5, "methods_used": ["authoritative-outline","pending-review","coverage-matrix","important-deepen"], "gaps_found": 2, "result": "gaps-addressed", "notes": "2条遗漏已补；数值与timeline深化完成。剩结构性空白与待核实项（非阻塞）。"}
+    {"round": 5, "methods_used": ["authoritative-outline","pending-review","coverage-matrix","important-deepen"], "gaps_found": 2, "result": "gaps-addressed"},
+    {"round": 6, "methods_used": ["protocol-F-healthcheck","source-similarity","dangling-refs","second-source-review"], "gaps_found": 3,
+     "result": "gaps-addressed", "notes": "协议F体检硬性问题0；修复互链(113→57孤儿)与来源雷同(30→6组)；二源核查4真4假并记录数据分歧。仍剩结构性空白与待核实项（非阻塞）。"}
   ]
 }
