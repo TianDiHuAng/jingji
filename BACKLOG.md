@@ -1,23 +1,26 @@
-# BACKLOG.md — 待办队列（轮次4起点）
+# BACKLOG.md — 待办队列（轮次5起点）
 
-优先级规则：核心＞重要＞补充；被引用多的优先；覆盖稀疏维度优先；复核/修复优先于新增。
+优先级：核心＞重要＞补充；复核/修复优先于新增；覆盖稀疏维度优先。
 
-## 待执行（轮次4）
+## 待执行（轮次5）
 
 | 序 | id | 类型 | 优先级 | 依据 |
 |---|---|---|---|---|
-| 1 | FIX-lowsrc | 修复来源 | P1 | 缺口方法5：6条理论条目来源<2（austrian-theory, banking-school, contagion, coordination-games, marxist-theory, minsky-theory）|
-| 2 | REVIEW-pending | 复核待核实 | P1 | 缺口方法4：106/106待核实；抽核心条目复核具体数值 |
-| 3 | NEW-banking-crises | 新条目×9 | P2 | 缺口方法6：List_of_banking_crises 对照发现9条遗漏，均有可核对维基页；单轮新增≤10%合规 |
-| 4 | L3-verify | 抽检 | P1 | 上轮学者归属错配 → 轮次4抽检比例25% |
+| 1 | REVIEW-values | 复核数值 | P1 | 轮次4复核发现核心条目 key_data 全空；挑3-5个标志性案例补入经双源核实的具体数值（若来源可支撑） |
+| 2 | L2-important-deepen | 深化 | P1 | 37条重要条目仍为L2，选覆盖稀疏维度（20世纪上半×货币/债务）的条目深化 |
+| 3 | NEW-outline-2 | 新条目 | P2 | 权威大纲对照剩余：1998 Ecuador、2002 Uruguay(已收)、Swedish/Norwegian banking crisis（无独立维基页，需找替代权威来源）|
+| 4 | 抽检 | 质量闸 | P1 | 维持25%比例（连续2轮无缺陷后可降回10%）|
 
-## 轮次3已完成（移出队列）
-- ✅ L3-batch1/batch2：26条核心全部 L2→L3
-- ✅ 学者归属错配修复：15条 + 源头修正
-- ✅ 站点渲染 L3 深度字段 + SVG箭头 marker
+## 轮次4已完成（移出）
+- ✅ FIX-lowsrc：6条理论补双源（新增5个核对来源）
+- ✅ NEW-banking-crises：9条新条目（双源，同步scope/矩阵/站点）
+- ✅ REVIEW-pending：核心数值复核（无编造）
+- ✅ 25%抽检4条全PASS
 
-## NEW-banking-crises 明细（维基页面已核对存在）
-black-friday-1869, russian-1998, uruguay-2002, finnish-banking-1990, indian-1991, cypriot-2013, myanmar-2003, henan-2022, ltcm
+## 结构性空白（非缺口，勿强行填）
+- 理论制度单元按类型归为「制度/理论」，不应填债务/泡沫/恶性通胀案例
+- 20世纪上半 × 货币/债务：该时期此类案例史料稀缺，若新增需权威大纲支撑
 
-## FIX-lowsrc 明细
-austrian-theory, banking-school, contagion, coordination-games, marxist-theory, minsky-theory（各补至≥2个 verified 来源）
+## 防空转提示
+- 连续2轮（轮次3、4）有有效提交，未触发STOP条件
+- 当前未饱和（saturated=false）

@@ -5,16 +5,30 @@
       "date": "2026-11-22",
       "mode": "autonomous",
       "new_entries": 0,
-      "upgraded_to_L3": 26,
-      "fixed": 15,
+      "upgraded": 26,
       "reviewed": 3,
+      "fixed": 15,
       "needs_verification_total": 106,
       "sources_total": 180,
       "sources_added": 0,
-      "check_result": "PASS (106 entries, 0 error); check_links PASS (117 pages, 0 broken)",
-      "spot_check": "3条：2 FAIL(学者归属错配)→整批修复→全库复查PASS；下轮抽检比例升至25%",
-      "note": "自动模式轮次3。完成全部26条核心L2→L3升级；抽检发现并修复Kindleberger/Roubini学者归属与来源作者错配(12+3条)。新条目9条入BACKLOG下轮处理。",
-      "gaps_discovered": 6
+      "check_result": "PASS (106 entries, 0 error)",
+      "spot_check": "3条：2 FAIL(学者归属错配)→整批修复；下轮抽检升至25%",
+      "note": "完成26条核心L2→L3；抽检发现并修复学者归属错配。"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-22",
+      "mode": "autonomous",
+      "new_entries": 9,
+      "upgraded": 0,
+      "reviewed": 3,
+      "fixed": 8,
+      "needs_verification_total": 115,
+      "sources_total": 194,
+      "sources_added": 14,
+      "check_result": "PASS (115 entries, 0 error); check_links PASS (126 pages, 0 broken)",
+      "spot_check": "25%抽检4条全部PASS（auditor-r4）；上轮学者归属缺陷未复发",
+      "note": "FIX-lowsrc: 6条理论补双源(新增5来源)；NEW-banking-crises: 9条新条目双源(新增9来源)+同步scope/矩阵/站点；REVIEW-pending核心数值无编造；抽检后优化2条来源引用。"
     }
   ]
 }

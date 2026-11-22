@@ -1,21 +1,23 @@
-# 缺口发现报告（轮次3）
+# 缺口发现报告（轮次4）
 
-## 方法1：深度缺口
-- 核心条目 26 条，其中仍为 L2 的 26 条 → 升级L3候选
-- 候选：argentina-crisis-2001, bretton-woods, business-cycle, central-bank, dotcom-bubble-2000, euro-area-crisis, gold-standard, great-depression, greek-debt-crisis, hungarian-hyper-1945, japan-asset-bubble-1990, latin-american-debt-1975, mexican-peso-1994, minsky-theory, mississippi-bubble-1720, oil-crisis-1973, panic-1857, panic-1873, panic-1907, south-sea-bubble-1720, subprime-crisis-2007, tulip-mania-1637, venezuela-hyper-2016, wall-street-1929, weimar-hyper-1921, zimbabwe-hyper-2007
+## 方法1：低来源清单（方法5复用）
+- 发现6条理论条目来源<2 → 已修复（新增5个核对来源，6条补至双源）
 
-## 方法2：悬空引用
-- related 指向不存在条目：0 处
+## 方法2：权威大纲再对照（方法1复用）
+- 上轮发现9条遗漏银行危机 → 本轮执行新建（来源已核对存在，双源）
 
-## 方法3：覆盖矩阵稀疏格子（≤1条）
-  - 前17世纪 × 债务: 1
-  - 前17世纪 × 货币: 1
-  - 理论制度 × 其他: 1
-  - 理论制度 × 制度: 1
+## 方法3：待核实复核（方法4复用）
+- 26条核心条目 key_data 复核：仅2条含示意值（明确标注非史料原值），无编造数字，无无来源数值
 
-## 方法4：待核实分布
-- needs_verification=true：106/106
-- 其中 L2：63，L1：43
+## 方法4：覆盖矩阵（方法2复用）
+- 新增9条后重算：21世纪银行 9→13、20世纪下半银行 4→6、18—19世纪货币 2→3
+- 稀疏格子减少，结构性空白（理论制度×债务/泡沫/恶性通胀）仍在
 
-## 方法5：来源数<2的条目
-- 共 6 条：austrian-theory, banking-school, contagion, coordination-games, marxist-theory, minsky-theory
+## 质量闸
+- 抽检25%（4条）全部 PASS（子任务 auditor-r4）
+- 上轮学者归属缺陷未复发
+
+## 本轮缺口剩余（入下轮 BACKLOG）
+- 20世纪上半 × 货币/债务/制度/理论 仍空白（4格）
+- 理论制度单元6条中仍有来源主题关联偏弱者（russian-1998 第二来源为比较性）
+- 106+9条待核实项的具体数值仍待查原文（诚实标注，非阻塞）

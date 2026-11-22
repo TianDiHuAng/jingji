@@ -4,19 +4,19 @@
 
 ## 当前状态
 - 模式：自动扩充（AUTONOMOUS.md 协议）
-- 当前轮次：3（接续手动轮次2）
-- 上轮（轮次3）完成：
-  - 缺口发现6种方法，发现6类缺口
-  - 26条核心条目全部从 L2 升级到 L3（学术争议对照 + 数据口径说明 + 反馈回路深度图）
-  - 站点生成器渲染 L3 深度字段，SVG 补箭头 marker
-  - 独立抽检子任务发现学者归属错配，整批修复（15条）+ 源头修正
-  - check.py 0 error、check_links.py 117页 0 error
-- 下一轮起点（轮次4）：
-  1. 从 BACKLOG 执行 NEW-banking-crises（9条新条目，来源已核对存在）
-  2. FIX-lowsrc（6条理论条目补来源至≥2）
-  3. REVIEW-pending（抽核心条目复核）
-  4. 抽检比例 25%（上轮质量缺陷后提高）
-- 层级现状：L1 43 / L2 37 / L3 26（核心全达L3，重要全L2，补充L1）
+- 当前轮次：4（已完成）
+- 上轮（轮次4）完成：
+  - FIX-lowsrc：新增5个核对来源，6条理论条目补至双源
+  - NEW-banking-crises：新增9条银行危机条目（双源），同步 scope.md / COVERAGE_MATRIX.md / 站点
+  - REVIEW-pending：26条核心条目数值复核，无编造数字
+  - 25%抽检4条全PASS（auditor-r4），抽检后优化2条来源引用
+  - check.py 115条 0 error、check_links.py 126页 0 error
+- 下一轮起点（轮次5）：
+  1. REVIEW-values：挑标志性案例补入经双源核实的具体数值（若来源可支撑）
+  2. L2-important-deepen：覆盖稀疏维度的重要条目深化
+  3. NEW-outline-2：权威大纲剩余遗漏（需找替代权威来源）
+  4. 抽检维持25%（连续2轮无缺陷后可降回10%）
+- 层级现状：L1 52（+9）/ L2 37 / L3 26；总计115条、来源194条
 
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 升级L3 | 修复 | 抽检 | 检查 | 下一轮起点 |
@@ -24,13 +24,10 @@
 | 0 | 2026-11-22 | 样板2 | — | — | — | PASS | 手动批量 |
 | 1 | 2026-11-22 | 104 | — | — | 4 PASS | PASS | 站点生成 |
 | 2 | 2026-11-22 | — | — | — | — | PASS | 自动模式 |
-| 3 | 2026-11-22 | 0 | 26 | 15 | 3(2修) | PASS | 新条目9+FIX+REVIEW |
+| 3 | 2026-11-22 | 0 | 26 | 15 | 3(2修) | PASS | 补源+新条目 |
+| 4 | 2026-11-22 | 9 | 0 | 8 | 4(25%)PASS | PASS | REVIEW-values+深化 |
 
 ## 状态文件
-- BACKLOG.md：待办队列
-- METRICS.json：每轮指标
-- SATURATION.json：饱和检测（saturated=false）
-- GAP_REPORT.md：本轮缺口发现报告
-- DECISIONS.md / BLOCKERS.md：决策与问题
+- BACKLOG.md / METRICS.json / SATURATION.json / GAP_REPORT.md / BLOCKERS.md / DECISIONS.md
 
-（未写 ALL_DONE — 自动模式以饱和为准）
+（未写 ALL_DONE — 自动模式以饱和为准；当前 saturated=false）
