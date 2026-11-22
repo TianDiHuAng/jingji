@@ -3,7 +3,7 @@
   "zero_gap_streak": 0,
   "maintenance_mode": false,
   "next_round_spot_check_ratio": 0.25,
-  "spot_check_ratio_note": "轮次12抽检2条FAIL(deep_svg缺失+年份错配，已修复)，按协议E下轮提回25%",
+  "spot_check_ratio_note": "轮次13抽检全PASS但轮次12有2缺陷，连续无缺陷仅1轮，保守维持25%",
   "rounds": [
     {"round": 3, "methods_used": ["depth-gap","coverage-matrix","dangling-refs","pending-list","low-source","authoritative-outline"], "gaps_found": 6, "result": "partially-addressed"},
     {"round": 4, "methods_used": ["low-source","authoritative-outline","pending-review","coverage-matrix"], "gaps_found": 3, "result": "gaps-addressed"},
@@ -19,6 +19,8 @@
     {"round": 11, "methods_used": ["protocol-F-healthcheck","stale-data-refresh","depth-gap","dangling-refs"], "gaps_found": 3,
      "result": "gaps-addressed", "notes": "协议F体检硬问题0；现状数据刷新1条+历史快照标注2条；2深化+2补充层升L2。核心26全L3、重要51全L2达标。抽检全PASS。缺口趋稀疏。"},
     {"round": 12, "methods_used": ["authoritative-outline","depth-gap","coverage-matrix","dangling-refs","reader-questions","pending-review","recent-dynamics"], "gaps_found": 5,
-     "result": "gaps-addressed", "notes": "七种方法系统验证：方法1(List of economic crises大纲)找到4条重大遗漏(黑色星期一1987/Kipper/1937衰退/Rodrigazo)，已新建+按tier升级；全部tier达标(L1 41/L2 53/L3 27)。抽检2条FAIL(deep_svg缺失+年份错配)已修复。未饱和——大纲对照仍找到真实缺口。"}
+     "result": "gaps-addressed", "notes": "七种方法系统验证：方法1(List of economic crises大纲)找到4条重大遗漏(黑色星期一1987/Kipper/1937衰退/Rodrigazo)，已新建+按tier升级；全部tier达标(L1 41/L2 53/L3 27)。抽检2条FAIL(deep_svg缺失+年份错配)已修复。未饱和——大纲对照仍找到真实缺口。"},
+    {"round": 13, "methods_used": ["authoritative-outline-zh","coverage-matrix","dangling-refs","reader-questions","pending-review","recent-dynamics","depth-gap"], "gaps_found": 3,
+     "result": "gaps-addressed", "notes": "中文权威大纲(Category泡沫经济)找到3条遗漏(海南/台湾/游戏业大萧条)，已新建+2升L2补实证数值；主动跳过碳泡沫/AI泡沫(预测性)。层级L1 41/L2 55/L3 27。抽检全PASS。未饱和。"}
   ]
 }
