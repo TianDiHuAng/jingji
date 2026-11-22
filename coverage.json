@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 134,
+  "total": 135,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1742,6 +1742,19 @@
       "unit": "U5 21世纪",
       "period": "21世纪",
       "region": "全球",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "flash-crash-2010",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "北美",
       "crisis_type": "泡沫"
     }
   ]
