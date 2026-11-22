@@ -1,0 +1,29 @@
+{
+  "id": "too-big-to-fail",
+  "title": "太大而不能倒",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "指某些金融机构规模与关联性过大，一旦倒闭会引发系统性风险，政府因此倾向于救助；其代价是可能诱发道德风险与不公平竞争。",
+  "overview": "指某些金融机构规模与关联性过大，一旦倒闭会引发系统性风险，政府因此倾向于救助；其代价是可能诱发道德风险与不公平竞争。（理论概念条目，标准教科书定义；具体论述出处与案例适用待核实。）",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-en-too-big-to-fail",
+    "w-en-systemic-risk"
+  ],
+  "related": [
+    "moral-hazard",
+    "bank-run"
+  ],
+  "needs_verification": true,
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。"
+}

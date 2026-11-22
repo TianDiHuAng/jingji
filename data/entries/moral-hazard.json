@@ -1,0 +1,29 @@
+{
+  "id": "moral-hazard",
+  "title": "道德风险",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一种现象：一方在受保护（如保险、救助预期）后改变行为、承担更多风险，因为后果部分由他人承担。是存款保险与\"太大而不能倒\"救助的核心争议概念。",
+  "overview": "一种现象：一方在受保护（如保险、救助预期）后改变行为、承担更多风险，因为后果部分由他人承担。是存款保险与\"太大而不能倒\"救助的核心争议概念。（理论概念条目，标准教科书定义；具体论述出处与案例适用待核实。）",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-en-moral-hazard",
+    "w-en-deposit-insurance"
+  ],
+  "related": [
+    "deposit-insurance",
+    "too-big-to-fail"
+  ],
+  "needs_verification": true,
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "impossible-trinity",
+  "title": "不可能三角（三难困境）",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "国际金融中的政策约束：固定汇率、资本自由流动与独立货币政策三者不可同时实现，最多取其二。用于解释货币危机与汇率制度选择。",
+  "overview": "国际金融中的政策约束：固定汇率、资本自由流动与独立货币政策三者不可同时实现，最多取其二。用于解释货币危机与汇率制度选择。（理论概念条目，标准教科书定义；具体论述出处与案例适用待核实。）",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-en-currency-crisis",
+    "w-en-monetary-policy"
+  ],
+  "related": [
+    "bretton-woods",
+    "black-wednesday-1992"
+  ],
+  "needs_verification": true,
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。"
+}
