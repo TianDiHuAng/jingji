@@ -45,21 +45,21 @@
   ],
   "causal_chain": [
     {
-      "step": "固定汇率+资本流入 → 本币高估与外债累积",
+      "step": "泰国等经济体外债高企、维持固定钉住+热钱涌入 → 脆弱性累积(东盟四国外债/GDP 1993→1996升至167%)",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-asian-financial-crisis"
       ]
     },
     {
-      "step": "外汇抛售/热钱逆转 → 贬值预期",
+      "step": "1997年7月始于泰国的货币贬值 → 经金融传染波及东南亚、韩国、日本等",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-asian-financial-crisis"
       ]
     },
     {
-      "step": "放弃钉住/IMF救助 → 货币贬值与经济收缩",
+      "step": "货币贬值、股市与资产价格下挫、债务负担骤升；1998-99快速复苏",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-asian-financial-crisis"
       ]
     }
   ],
@@ -78,17 +78,17 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "危机源于汇率制度与货币政策失当",
-      "basis": "类型学框架；待核实",
+      "holder": "固定汇率/外债视角",
+      "view": "钉住汇率+高外债+热钱使经济体易受投机攻击",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-asian-financial-crisis"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与市场预期的区域传导",
-      "basis": "类型学框架；待核实",
+      "holder": "金融传染视角",
+      "view": "危机经贸易与资本流动在区域内快速传播",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
         "w-en-financial-contagion"
       ]
@@ -117,7 +117,7 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。",
+  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。",
   "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1997亚洲金融危机：机制与反馈回路（货币）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击/失衡</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>危机/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径；单一来源均待核实。",

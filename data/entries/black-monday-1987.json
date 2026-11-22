@@ -53,21 +53,21 @@
   ],
   "causal_chain": [
     {
-      "step": "估值叙事+信贷可得 → 价格上涨",
+      "step": "1982-1987年强劲牛市使估值高企(道指776→2722)；程序化/组合保险交易盛行",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-black-monday-1987"
       ]
     },
     {
-      "step": "价格上涨自我强化 → 脱离基本面",
+      "step": "1987年10月19日全球同步抛售，道指单日跌508点(22.6%)，为史上最大单日百分比跌幅",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-black-monday-1987"
       ]
     },
     {
-      "step": "信心逆转/流动性枯竭 → 抛售崩塌",
+      "step": "标普500当日跌20%；市场直到1989年才恢复前高",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-black-monday-1987"
       ]
     }
   ],
@@ -98,19 +98,19 @@
   ],
   "schools": [
     {
-      "holder": "非理性泡沫视角",
-      "view": "群体投机导致价格远离基本面",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "估值/程序交易视角",
+      "view": "牛市高估叠加程序化交易的顺周期抛售放大跌幅",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-black-monday-1987"
       ]
     },
     {
-      "holder": "有效市场视角",
-      "view": "认为价格可由基本面解释",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "国际传染视角",
+      "view": "全球市场同步下跌，跨市场传染明显",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-financial-contagion"
       ]
     }
   ],
@@ -136,7 +136,7 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。 【轮次12抽检修复】补deep_svg；修正1989恢复高点主语为标普500。",
+  "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。 【轮次12抽检修复】补deep_svg；修正1989恢复高点主语为标普500。 【轮次25】causal_chain/schools案例化（据本地维基语料）。",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径。道指单日跌幅22.6%已经英德双语维基印证；标普500跌20%及恢复高点等其余数值仍单一来源待核实。",
     "controversy_summary": "各方解释并列，不替读者下结论。",

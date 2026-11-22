@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "step": "加纳银行业治理与资本不足等问题累积 → 2017年8月银行业危机开始",
       "sources": [
-        "w-en-bank-run"
+        "w-en-ghana-banking-crisis"
       ]
     },
     {
-      "step": "信贷收缩 → 融资中断",
+      "step": "多家银行被处置/重组，危机持续至2020年1月",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-ghana-banking-crisis"
       ]
     },
     {
-      "step": "信心扩散 → 系统性风险",
+      "step": "2020年新冠疫情期间抵达，进一步冲击经济",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-ghana-banking-crisis"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑视角",
-      "view": "源于信心崩塌引发挤兑",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "银行治理/资本视角",
+      "view": "治理失效与资本不足导致银行危机",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-ghana-banking-crisis"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "外部冲击视角",
+      "view": "疫情叠加放大经济困境",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-financial-crisis"
       ]
     }
   ],
@@ -88,5 +88,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。"
 }
