@@ -20,7 +20,11 @@
     "w-en-myanmar-2003",
     "w-en-bank-run"
   ],
-  "related": [],
+  "related": [
+    "argentina-crisis-2001",
+    "bank-crisis-2023",
+    "china-liquidity-2013"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。"
 }

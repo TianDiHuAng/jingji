@@ -20,7 +20,11 @@
     "w-en-ukrainian-crisis-2008",
     "w-en-russian-financial-crisis-2014-2016"
   ],
-  "related": [],
+  "related": [
+    "black-friday-1869",
+    "black-wednesday-1992",
+    "bretton-woods"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：内容待核实补充。"
 }

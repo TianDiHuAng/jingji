@@ -20,7 +20,11 @@
     "w-en-financial-crisis",
     "w-en-coordination-game"
   ],
-  "related": [],
+  "related": [
+    "austrian-theory",
+    "banking-school",
+    "contagion"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-coordination-game，具体适用待核实。"
 }

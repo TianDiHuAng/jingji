@@ -20,7 +20,11 @@
     "w-en-debt-crisis",
     "w-en-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "baring-crisis-1890",
+    "danish-bankruptcy-1813",
+    "dutch-collapse-1780"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
 }

@@ -20,7 +20,11 @@
     "w-en-icelandic-crisis-2008",
     "w-en-euro-area-crisis"
   ],
-  "related": [],
+  "related": [
+    "argentina-crisis-2001",
+    "bank-crisis-2023",
+    "china-liquidity-2013"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：内容待核实补充。"
 }

@@ -20,7 +20,11 @@
     "w-en-economic-history",
     "w-en-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "business-cycle",
+    "german-crisis-2022",
+    "oil-crisis-1973"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
 }

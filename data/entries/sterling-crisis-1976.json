@@ -20,7 +20,11 @@
     "w-en-currency-crisis",
     "w-en-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "black-wednesday-1992",
+    "indian-1991",
+    "mexican-peso-1994"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
 }

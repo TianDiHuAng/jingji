@@ -106,7 +106,11 @@
     "w-en-currency-crisis",
     "w-en-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "indian-1991",
+    "mexican-peso-1994",
+    "russian-1998"
+  ],
   "needs_verification": true,
   "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。"
 }
