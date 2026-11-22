@@ -1,0 +1,1026 @@
+{
+  "en": {
+    "Turkish economic crisis (2018–present)": {
+      "exists": false,
+      "canonical": "Turkish economic crisis (2018–present)",
+      "touched": "",
+      "pageid": 0
+    },
+    "Venezuelan hyperinflation": {
+      "exists": false,
+      "canonical": "Venezuelan hyperinflation",
+      "touched": "",
+      "pageid": 0
+    },
+    "Austrian school of economics": {
+      "exists": true,
+      "canonical": "Austrian school of economics",
+      "touched": "2026",
+      "pageid": 1030
+    },
+    "Central bank": {
+      "exists": true,
+      "canonical": "Central bank",
+      "touched": "2026",
+      "pageid": 5666
+    },
+    "Dot-com bubble": {
+      "exists": true,
+      "canonical": "Dot-com bubble",
+      "touched": "2026",
+      "pageid": 9021
+    },
+    "Gold standard": {
+      "exists": true,
+      "canonical": "Gold standard",
+      "touched": "2026",
+      "pageid": 37412
+    },
+    "South Sea Company": {
+      "exists": true,
+      "canonical": "South Sea Company",
+      "touched": "2026",
+      "pageid": 74234
+    },
+    "Wall Street crash of 1929": {
+      "exists": true,
+      "canonical": "Wall Street crash of 1929",
+      "touched": "2026",
+      "pageid": 157649
+    },
+    "Business cycle": {
+      "exists": true,
+      "canonical": "Business cycle",
+      "touched": "2026",
+      "pageid": 168918
+    },
+    "Black Wednesday": {
+      "exists": true,
+      "canonical": "Black Wednesday",
+      "touched": "2026",
+      "pageid": 180050
+    },
+    "Tulip mania": {
+      "exists": true,
+      "canonical": "Tulip mania",
+      "touched": "2026",
+      "pageid": 203464
+    },
+    "Panic of 1893": {
+      "exists": true,
+      "canonical": "Panic of 1893",
+      "touched": "2026",
+      "pageid": 217756
+    },
+    "Panic of 1837": {
+      "exists": true,
+      "canonical": "Panic of 1837",
+      "touched": "2026",
+      "pageid": 225600
+    },
+    "Panic of 1819": {
+      "exists": true,
+      "canonical": "Panic of 1819",
+      "touched": "2026",
+      "pageid": 228288
+    },
+    "1973 oil crisis": {
+      "exists": true,
+      "canonical": "1973 oil crisis",
+      "touched": "2026",
+      "pageid": 244180
+    },
+    "1979 oil crisis": {
+      "exists": true,
+      "canonical": "1979 oil crisis",
+      "touched": "2026",
+      "pageid": 264875
+    },
+    "Bretton Woods system": {
+      "exists": true,
+      "canonical": "Bretton Woods system",
+      "touched": "2026",
+      "pageid": 395888
+    },
+    "Long Depression": {
+      "exists": true,
+      "canonical": "Long Depression",
+      "touched": "2026",
+      "pageid": 596473
+    },
+    "Panic of 1907": {
+      "exists": true,
+      "canonical": "Panic of 1907",
+      "touched": "2026",
+      "pageid": 735925
+    },
+    "Mexican peso crisis": {
+      "exists": true,
+      "canonical": "Mexican peso crisis",
+      "touched": "2026",
+      "pageid": 769652
+    },
+    "Panic of 1857": {
+      "exists": true,
+      "canonical": "Panic of 1857",
+      "touched": "2026",
+      "pageid": 933495
+    },
+    "Argentine economic crisis (1999–2002)": {
+      "exists": true,
+      "canonical": "1998–2002 Argentine great depression",
+      "touched": "2026",
+      "pageid": 939599
+    },
+    "Mississippi Company": {
+      "exists": true,
+      "canonical": "John Law's Company",
+      "touched": "2026",
+      "pageid": 1124163
+    },
+    "Hungarian pengő": {
+      "exists": true,
+      "canonical": "Hungarian pengő",
+      "touched": "2026",
+      "pageid": 2278480
+    },
+    "Latin American debt crisis": {
+      "exists": true,
+      "canonical": "Latin American debt crisis",
+      "touched": "2026",
+      "pageid": 2597892
+    },
+    "Japanese asset price bubble": {
+      "exists": true,
+      "canonical": "Japanese asset price bubble",
+      "touched": "2026",
+      "pageid": 2729996
+    },
+    "Financial crisis": {
+      "exists": true,
+      "canonical": "Financial crisis",
+      "touched": "2026",
+      "pageid": 2878852
+    },
+    "Baring crisis": {
+      "exists": true,
+      "canonical": "Baring crisis",
+      "touched": "2026",
+      "pageid": 5720048
+    },
+    "Subprime mortgage crisis": {
+      "exists": true,
+      "canonical": "Subprime mortgage crisis",
+      "touched": "2026",
+      "pageid": 10062100
+    },
+    "Panic of 1825": {
+      "exists": true,
+      "canonical": "Panic of 1825",
+      "touched": "2026",
+      "pageid": 11493235
+    },
+    "Hyperinflation in the Weimar Republic": {
+      "exists": true,
+      "canonical": "Hyperinflation in the Weimar Republic",
+      "touched": "2026",
+      "pageid": 17285549
+    },
+    "Hyperinflation in Zimbabwe": {
+      "exists": true,
+      "canonical": "Hyperinflation in Zimbabwe",
+      "touched": "2026",
+      "pageid": 17878788
+    },
+    "Great Depression": {
+      "exists": true,
+      "canonical": "Great Depression",
+      "touched": "2026",
+      "pageid": 19283335
+    },
+    "Great Recession": {
+      "exists": true,
+      "canonical": "Great Recession",
+      "touched": "2026",
+      "pageid": 19337279
+    },
+    "Panic of 1792": {
+      "exists": true,
+      "canonical": "Panic of 1792",
+      "touched": "2026",
+      "pageid": 19925897
+    },
+    "Euro area crisis": {
+      "exists": true,
+      "canonical": "Eurozone crisis",
+      "touched": "2026",
+      "pageid": 26152387
+    },
+    "Greek government-debt crisis": {
+      "exists": true,
+      "canonical": "Greek government-debt crisis",
+      "touched": "2026",
+      "pageid": 27146868
+    },
+    "Russian financial crisis (2014–2016)": {
+      "exists": true,
+      "canonical": "Russian financial crisis (2014–2016)",
+      "touched": "2026",
+      "pageid": 44746821
+    },
+    "Lebanese liquidity crisis": {
+      "exists": true,
+      "canonical": "Lebanese liquidity crisis",
+      "touched": "2026",
+      "pageid": 63804918
+    },
+    "Sri Lankan economic crisis (2019–2024)": {
+      "exists": true,
+      "canonical": "Sri Lankan economic crisis (2019–2024)",
+      "touched": "2026",
+      "pageid": 67994634
+    },
+    "Brazilian hyperinflation": {
+      "exists": false,
+      "canonical": "Brazilian hyperinflation",
+      "touched": "",
+      "pageid": 0
+    },
+    "Greek hyperinflation (1941–1946)": {
+      "exists": false,
+      "canonical": "Greek hyperinflation (1941–1946)",
+      "touched": "",
+      "pageid": 0
+    },
+    "Early Soviet hyperinflation": {
+      "exists": false,
+      "canonical": "Early Soviet hyperinflation",
+      "touched": "",
+      "pageid": 0
+    },
+    "List of financial crises": {
+      "exists": false,
+      "canonical": "List of financial crises",
+      "touched": "",
+      "pageid": 0
+    },
+    "Kindleberger's Manias, Panics, and Crashes": {
+      "exists": false,
+      "canonical": "Kindleberger's Manias, Panics, and Crashes",
+      "touched": "",
+      "pageid": 0
+    },
+    "Chinese hyperinflation (1937–1950)": {
+      "exists": false,
+      "canonical": "Chinese hyperinflation (1937–1950)",
+      "touched": "",
+      "pageid": 0
+    },
+    "Banking School": {
+      "exists": false,
+      "canonical": "Banking School",
+      "touched": "",
+      "pageid": 0
+    },
+    "Minskyan economics": {
+      "exists": false,
+      "canonical": "Minskyan economics",
+      "touched": "",
+      "pageid": 0
+    },
+    "Federal Reserve": {
+      "exists": true,
+      "canonical": "Federal Reserve",
+      "touched": "2026",
+      "pageid": 10819
+    },
+    "Hyperinflation": {
+      "exists": true,
+      "canonical": "Hyperinflation",
+      "touched": "2026",
+      "pageid": 13681
+    },
+    "Economic history": {
+      "exists": true,
+      "canonical": "Economic history",
+      "touched": "2026",
+      "pageid": 45633
+    },
+    "Speculative bubble": {
+      "exists": true,
+      "canonical": "Economic bubble",
+      "touched": "2026",
+      "pageid": 139993
+    },
+    "Panic of 1873": {
+      "exists": true,
+      "canonical": "Panic of 1873",
+      "touched": "2026",
+      "pageid": 184959
+    },
+    "Bank run": {
+      "exists": true,
+      "canonical": "Bank run",
+      "touched": "2026",
+      "pageid": 704498
+    },
+    "Savings and loan crisis": {
+      "exists": true,
+      "canonical": "Savings and loan crisis",
+      "touched": "2026",
+      "pageid": 896632
+    },
+    "Currency crisis": {
+      "exists": true,
+      "canonical": "Currency crisis",
+      "touched": "2026",
+      "pageid": 1693352
+    },
+    "Financial contagion": {
+      "exists": true,
+      "canonical": "Financial contagion",
+      "touched": "2026",
+      "pageid": 1803851
+    },
+    "Shōwa financial crisis": {
+      "exists": true,
+      "canonical": "Shōwa financial crisis",
+      "touched": "2026",
+      "pageid": 2292105
+    },
+    "Kennedy Slide of 1962": {
+      "exists": true,
+      "canonical": "Kennedy Slide of 1962",
+      "touched": "2026",
+      "pageid": 2956729
+    },
+    "Panic of 1884": {
+      "exists": true,
+      "canonical": "Panic of 1884",
+      "touched": "2026",
+      "pageid": 5720412
+    },
+    "Panic of 1896": {
+      "exists": true,
+      "canonical": "Panic of 1896",
+      "touched": "2026",
+      "pageid": 5720615
+    },
+    "Panic of 1901": {
+      "exists": true,
+      "canonical": "Panic of 1901",
+      "touched": "2026",
+      "pageid": 5720792
+    },
+    "Australian banking crisis of 1893": {
+      "exists": true,
+      "canonical": "Australian banking crisis of 1893",
+      "touched": "2026",
+      "pageid": 5900212
+    },
+    "Panic of 1847": {
+      "exists": true,
+      "canonical": "Panic of 1847",
+      "touched": "2026",
+      "pageid": 11493799
+    },
+    "Panic of 1866": {
+      "exists": true,
+      "canonical": "Panic of 1866",
+      "touched": "2026",
+      "pageid": 11494109
+    },
+    "1973–1974 stock market crash": {
+      "exists": true,
+      "canonical": "1973–1974 stock market crash",
+      "touched": "2026",
+      "pageid": 13212391
+    },
+    "Paris Bourse crash of 1882": {
+      "exists": true,
+      "canonical": "Paris Bourse crash of 1882",
+      "touched": "2026",
+      "pageid": 15374659
+    },
+    "Danish state bankruptcy of 1813": {
+      "exists": true,
+      "canonical": "Danish state bankruptcy of 1813",
+      "touched": "2026",
+      "pageid": 18005601
+    },
+    "Secondary banking crisis": {
+      "exists": true,
+      "canonical": "Secondary banking crisis of 1973–1975",
+      "touched": "2026",
+      "pageid": 18723101
+    },
+    "Steel crisis": {
+      "exists": true,
+      "canonical": "Steel crisis",
+      "touched": "2026",
+      "pageid": 24286774
+    },
+    "Bengal Bubble of 1769": {
+      "exists": true,
+      "canonical": "Bengal Bubble of 1769",
+      "touched": "2026",
+      "pageid": 27211187
+    },
+    "Shanghai rubber stock market crisis": {
+      "exists": true,
+      "canonical": "Shanghai rubber stock market crisis",
+      "touched": "2026",
+      "pageid": 30696419
+    },
+    "Panic of 1930": {
+      "exists": true,
+      "canonical": "Panic of 1930",
+      "touched": "2026",
+      "pageid": 31028028
+    },
+    "2008 financial crisis": {
+      "exists": true,
+      "canonical": "2008 financial crisis",
+      "touched": "2026",
+      "pageid": 32005855
+    },
+    "Debt crisis": {
+      "exists": true,
+      "canonical": "Debt crisis",
+      "touched": "2026",
+      "pageid": 33689865
+    },
+    "Copper Panic of 1789": {
+      "exists": true,
+      "canonical": "Copper Panic of 1789",
+      "touched": "2026",
+      "pageid": 38700128
+    },
+    "Arendal crash": {
+      "exists": true,
+      "canonical": "Arendal crash",
+      "touched": "2026",
+      "pageid": 39963445
+    },
+    "Marxist economics": {
+      "exists": true,
+      "canonical": "Marxian economics",
+      "touched": "2026",
+      "pageid": 42824033
+    },
+    "1976 sterling crisis": {
+      "exists": true,
+      "canonical": "1976 sterling crisis",
+      "touched": "2026",
+      "pageid": 48847444
+    },
+    "Financial crisis of 1914": {
+      "exists": true,
+      "canonical": "Financial crisis of 1914",
+      "touched": "2026",
+      "pageid": 68988643
+    },
+    "Brexit stock market crash": {
+      "exists": false,
+      "canonical": "Brexit stock market crash",
+      "touched": "",
+      "pageid": 0
+    },
+    "Syrian economic crisis (2011–present)": {
+      "exists": false,
+      "canonical": "Syrian economic crisis (2011–present)",
+      "touched": "",
+      "pageid": 0
+    },
+    "Blue Monday Crash (2009)": {
+      "exists": false,
+      "canonical": "Blue Monday Crash (2009)",
+      "touched": "",
+      "pageid": 0
+    },
+    "Israeli bank stock crisis": {
+      "exists": false,
+      "canonical": "Israeli bank stock crisis",
+      "touched": "",
+      "pageid": 0
+    },
+    "Chilean crisis of 1982": {
+      "exists": false,
+      "canonical": "Chilean crisis of 1982",
+      "touched": "",
+      "pageid": 0
+    },
+    "Stock market downturn of 2002": {
+      "exists": true,
+      "canonical": "Stock market downturn of 2002",
+      "touched": "2026",
+      "pageid": 68260
+    },
+    "South American economic crisis of 2002": {
+      "exists": true,
+      "canonical": "South American economic crisis of 2002",
+      "touched": "2026",
+      "pageid": 69226
+    },
+    "Fiscal policy": {
+      "exists": true,
+      "canonical": "Fiscal policy",
+      "touched": "2026",
+      "pageid": 132645
+    },
+    "Moral hazard": {
+      "exists": true,
+      "canonical": "Moral hazard",
+      "touched": "2026",
+      "pageid": 175590
+    },
+    "Currency devaluation": {
+      "exists": true,
+      "canonical": "Devaluation",
+      "touched": "2026",
+      "pageid": 603353
+    },
+    "Lender of last resort": {
+      "exists": true,
+      "canonical": "Lender of last resort",
+      "touched": "2026",
+      "pageid": 921278
+    },
+    "Systemic risk": {
+      "exists": true,
+      "canonical": "Systemic risk",
+      "touched": "2026",
+      "pageid": 1013769
+    },
+    "Deposit insurance": {
+      "exists": true,
+      "canonical": "Deposit insurance",
+      "touched": "2026",
+      "pageid": 1662004
+    },
+    "October 27, 1997 mini-crash": {
+      "exists": true,
+      "canonical": "October 27, 1997, mini-crash",
+      "touched": "2026",
+      "pageid": 2087976
+    },
+    "Souk Al-Manakh stock market crash": {
+      "exists": true,
+      "canonical": "Souk Al-Manakh stock market crash",
+      "touched": "2026",
+      "pageid": 2489999
+    },
+    "Quantitative easing": {
+      "exists": true,
+      "canonical": "Quantitative easing",
+      "touched": "2026",
+      "pageid": 7235622
+    },
+    "Cameroonian economic crisis": {
+      "exists": true,
+      "canonical": "Cameroonian economic crisis",
+      "touched": "2026",
+      "pageid": 9323104
+    },
+    "Chinese stock bubble of 2007": {
+      "exists": true,
+      "canonical": "Chinese stock bubble of 2007",
+      "touched": "2026",
+      "pageid": 9797779
+    },
+    "Too big to fail": {
+      "exists": true,
+      "canonical": "Too big to fail",
+      "touched": "2026",
+      "pageid": 9896437
+    },
+    "Bank failure": {
+      "exists": true,
+      "canonical": "Bank failure",
+      "touched": "2026",
+      "pageid": 17608177
+    },
+    "Sovereign default": {
+      "exists": true,
+      "canonical": "Sovereign default",
+      "touched": "2026",
+      "pageid": 17686310
+    },
+    "Great Recession in Russia": {
+      "exists": true,
+      "canonical": "Great Recession in Russia",
+      "touched": "2026",
+      "pageid": 19358251
+    },
+    "Credit crunch": {
+      "exists": true,
+      "canonical": "Credit crunch",
+      "touched": "2026",
+      "pageid": 19360175
+    },
+    "Post-2008 Irish banking crisis": {
+      "exists": true,
+      "canonical": "Post-2008 Irish banking crisis",
+      "touched": "2026",
+      "pageid": 21530033
+    },
+    "Venezuelan banking crisis of 1994": {
+      "exists": true,
+      "canonical": "Venezuelan banking crisis of 1994",
+      "touched": "2026",
+      "pageid": 28138972
+    },
+    "Venezuelan banking crisis of 2009–2010": {
+      "exists": true,
+      "canonical": "Venezuelan banking crisis of 2009–2010",
+      "touched": "2026",
+      "pageid": 28258284
+    },
+    "August 2011 stock markets fall": {
+      "exists": true,
+      "canonical": "August 2011 stock markets fall",
+      "touched": "2026",
+      "pageid": 32658518
+    },
+    "Chinese Banking Liquidity Crisis of 2013": {
+      "exists": true,
+      "canonical": "Chinese Banking Liquidity Crisis of 2013",
+      "touched": "2026",
+      "pageid": 39768061
+    },
+    "Puerto Rican government-debt crisis": {
+      "exists": true,
+      "canonical": "Puerto Rican government-debt crisis",
+      "touched": "2026",
+      "pageid": 41852734
+    },
+    "Venezuelan economic crisis": {
+      "exists": true,
+      "canonical": "Venezuelan crisis (disambiguation)",
+      "touched": "2026",
+      "pageid": 43574510
+    },
+    "Rhode Island banking crisis": {
+      "exists": true,
+      "canonical": "Rhode Island banking crisis",
+      "touched": "2026",
+      "pageid": 54464985
+    },
+    "Turkish economic crisis": {
+      "exists": true,
+      "canonical": "Turkish economic crisis (2018–current)",
+      "touched": "2026",
+      "pageid": 57486052
+    },
+    "Ghana banking crisis": {
+      "exists": true,
+      "canonical": "Ghana banking crisis",
+      "touched": "2026",
+      "pageid": 59959813
+    },
+    "Energy crisis in Venezuela": {
+      "exists": true,
+      "canonical": "Energy crisis in Venezuela",
+      "touched": "2026",
+      "pageid": 60220015
+    },
+    "Hyperinflation in Serbia and Montenegro": {
+      "exists": true,
+      "canonical": "Hyperinflation in Serbia and Montenegro",
+      "touched": "2026",
+      "pageid": 60667648
+    },
+    "Chinese real estate crisis": {
+      "exists": true,
+      "canonical": "Chinese real estate crisis (2020–present)",
+      "touched": "2026",
+      "pageid": 68779824
+    },
+    "Pakistani economic crisis (2021–2024)": {
+      "exists": true,
+      "canonical": "Pakistani economic crisis (2021–2024)",
+      "touched": "2026",
+      "pageid": 71036397
+    },
+    "Central bank independence": {
+      "exists": true,
+      "canonical": "Central bank independence",
+      "touched": "2026",
+      "pageid": 73016969
+    },
+    "2023 United States banking crisis": {
+      "exists": true,
+      "canonical": "2023 United States banking crisis",
+      "touched": "2026",
+      "pageid": 73275198
+    },
+    "German economic crisis (2022–present)": {
+      "exists": true,
+      "canonical": "German economic crisis (2022–present)",
+      "touched": "2026",
+      "pageid": 78189355
+    },
+    "Effective market hypothesis": {
+      "exists": false,
+      "canonical": "Effective market hypothesis",
+      "touched": "",
+      "pageid": 0
+    },
+    "Business cycle theory": {
+      "exists": false,
+      "canonical": "Business cycle theory",
+      "touched": "",
+      "pageid": 0
+    },
+    "Recession": {
+      "exists": true,
+      "canonical": "Recession",
+      "touched": "2026",
+      "pageid": 25382
+    },
+    "Unemployment": {
+      "exists": true,
+      "canonical": "Unemployment",
+      "touched": "2026",
+      "pageid": 31741
+    },
+    "Inflation": {
+      "exists": true,
+      "canonical": "Inflation",
+      "touched": "2026",
+      "pageid": 38286
+    },
+    "Depression (economics)": {
+      "exists": true,
+      "canonical": "Economic depression",
+      "touched": "2026",
+      "pageid": 38289
+    },
+    "Initial public offering": {
+      "exists": true,
+      "canonical": "Initial public offering",
+      "touched": "2026",
+      "pageid": 63879
+    },
+    "Asian financial crisis": {
+      "exists": true,
+      "canonical": "1997 Asian financial crisis",
+      "touched": "2026",
+      "pageid": 262233
+    },
+    "Monetary policy": {
+      "exists": true,
+      "canonical": "Monetary policy",
+      "touched": "2026",
+      "pageid": 297032
+    },
+    "Black Monday (1987)": {
+      "exists": true,
+      "canonical": "Black Monday (1987)",
+      "touched": "2026",
+      "pageid": 314544
+    },
+    "Credit default swap": {
+      "exists": true,
+      "canonical": "Credit default swap",
+      "touched": "2026",
+      "pageid": 316732
+    },
+    "Mortgage-backed security": {
+      "exists": true,
+      "canonical": "Mortgage-backed security",
+      "touched": "2026",
+      "pageid": 1194185
+    },
+    "Collateralized debt obligation": {
+      "exists": true,
+      "canonical": "Collateralized debt obligation",
+      "touched": "2026",
+      "pageid": 1310579
+    },
+    "Subprime lending": {
+      "exists": true,
+      "canonical": "Subprime lending",
+      "touched": "2026",
+      "pageid": 10043800
+    },
+    "Flash crash": {
+      "exists": true,
+      "canonical": "Flash crash",
+      "touched": "2026",
+      "pageid": 27301862
+    },
+    "Real business cycle theory": {
+      "exists": true,
+      "canonical": "Real business-cycle theory",
+      "touched": "2026",
+      "pageid": 29815196
+    },
+    "Quantitative tightening": {
+      "exists": true,
+      "canonical": "Quantitative tightening",
+      "touched": "2026",
+      "pageid": 57499639
+    }
+  },
+  "zh": {
+    "明斯基": {
+      "exists": false,
+      "canonical": "明斯基",
+      "touched": "",
+      "pageid": 0
+    },
+    "存款保险": {
+      "exists": false,
+      "canonical": "存款保险",
+      "touched": "",
+      "pageid": 0
+    },
+    "委内瑞拉经济危机": {
+      "exists": false,
+      "canonical": "委内瑞拉经济危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "津巴布韦恶性通胀": {
+      "exists": false,
+      "canonical": "津巴布韦恶性通胀",
+      "touched": "",
+      "pageid": 0
+    },
+    "俄罗斯金融危机": {
+      "exists": false,
+      "canonical": "俄罗斯金融危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "阿根廷经济危机": {
+      "exists": false,
+      "canonical": "阿根廷经济危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "石油危机": {
+      "exists": false,
+      "canonical": "石油危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "1929年经济大萧条": {
+      "exists": false,
+      "canonical": "1929年经济大萧条",
+      "touched": "",
+      "pageid": 0
+    },
+    "Big bang": {
+      "exists": false,
+      "canonical": "Big bang",
+      "touched": "",
+      "pageid": 0
+    },
+    "1929年华尔街股灾": {
+      "exists": false,
+      "canonical": "1929年华尔街股灾",
+      "touched": "",
+      "pageid": 0
+    },
+    "全球金融危机": {
+      "exists": false,
+      "canonical": "全球金融危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "欧洲主权债务危机": {
+      "exists": false,
+      "canonical": "欧洲主权债务危机",
+      "touched": "",
+      "pageid": 0
+    },
+    "经济史": {
+      "exists": true,
+      "canonical": "经济史",
+      "touched": "2026",
+      "pageid": 5613
+    },
+    "经济大萧条": {
+      "exists": true,
+      "canonical": "大萧条",
+      "touched": "2026",
+      "pageid": 9501
+    },
+    "中央银行": {
+      "exists": true,
+      "canonical": "中央银行",
+      "touched": "2026",
+      "pageid": 16765
+    },
+    "布雷顿森林体系": {
+      "exists": true,
+      "canonical": "布雷顿森林体系",
+      "touched": "2026",
+      "pageid": 23851
+    },
+    "Asteroid": {
+      "exists": true,
+      "canonical": "小行星",
+      "touched": "2026",
+      "pageid": 35734
+    },
+    "亚洲金融危机": {
+      "exists": true,
+      "canonical": "亞洲金融風暴",
+      "touched": "2026",
+      "pageid": 38926
+    },
+    "通货膨胀": {
+      "exists": true,
+      "canonical": "通货膨胀",
+      "touched": "2026",
+      "pageid": 40229
+    },
+    "金本位": {
+      "exists": true,
+      "canonical": "金本位",
+      "touched": "2026",
+      "pageid": 69934
+    },
+    "失业": {
+      "exists": true,
+      "canonical": "失業",
+      "touched": "2026",
+      "pageid": 85292
+    },
+    "货币政策": {
+      "exists": true,
+      "canonical": "货币政策",
+      "touched": "2026",
+      "pageid": 206705
+    },
+    "日本泡沫经济": {
+      "exists": true,
+      "canonical": "日本泡沫经济",
+      "touched": "2026",
+      "pageid": 206943
+    },
+    "互联网泡沫": {
+      "exists": true,
+      "canonical": "互聯網泡沫",
+      "touched": "2026",
+      "pageid": 267380
+    },
+    "恶性通货膨胀": {
+      "exists": true,
+      "canonical": "恶性通货膨胀",
+      "touched": "2026",
+      "pageid": 290854
+    },
+    "金融危机": {
+      "exists": true,
+      "canonical": "金融危机",
+      "touched": "2026",
+      "pageid": 529777
+    },
+    "鬱金香狂熱": {
+      "exists": true,
+      "canonical": "鬱金香狂熱",
+      "touched": "2026",
+      "pageid": 544095
+    },
+    "南海泡沫事件": {
+      "exists": true,
+      "canonical": "南海泡沫事件",
+      "touched": "2026",
+      "pageid": 567766
+    },
+    "经济周期": {
+      "exists": true,
+      "canonical": "景氣循環",
+      "touched": "2026",
+      "pageid": 579410
+    },
+    "次贷危机": {
+      "exists": true,
+      "canonical": "次貸危機",
+      "touched": "2026",
+      "pageid": 602903
+    },
+    "财政政策": {
+      "exists": true,
+      "canonical": "财政政策",
+      "touched": "2026",
+      "pageid": 610669
+    },
+    "最后贷款人": {
+      "exists": true,
+      "canonical": "最后贷款人",
+      "touched": "2026",
+      "pageid": 949086
+    },
+    "拉丁美洲债务危机": {
+      "exists": true,
+      "canonical": "拉丁美洲债务危机",
+      "touched": "2026",
+      "pageid": 2837799
+    }
+  }
+}

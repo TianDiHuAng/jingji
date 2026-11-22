@@ -1,0 +1,26 @@
+{
+  "id": "panic-1901",
+  "title": "1901年美国金融恐慌",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "泡沫",
+  "one_line": "1901年美国金融恐慌：发生于20世纪上半、地区为北美的泡沫类案例（条目骨架，详细内容待补充）。",
+  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪上半、地区=北美、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
+  "timeline": [],
+  "causal_chain": [],
+  "key_data": [],
+  "schools": [],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "",
+  "sources": [
+    "w-en-speculative-bubble",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+}

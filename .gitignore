@@ -1,0 +1,6 @@
+# 抓取的原始网页缓存（可重新抓取，不入库）
+_research/*.html
+
+# Python 缓存
+__pycache__/
+*.pyc

@@ -1,0 +1,52 @@
+{
+  "id": "tulip-mania-1637",
+  "title": "郁金香狂热(1637)",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U1 早期—17世纪",
+  "period": "前17世纪",
+  "region": "欧洲",
+  "crisis_type": "泡沫",
+  "one_line": "17世纪30年代荷兰期货市场对郁金香球茎的投机狂热，1637年2月价格崩塌，常被视为有记录最早的金融泡沫之一。",
+  "overview": "郁金香狂热发生在荷兰黄金时代的共和国时期。郁金香球茎经由期货合约被反复转手，价格在上涨期急剧攀升，1637年2月初崩盘。关于其规模、社会参与度与对实体经济的冲击，学界存在显著分歧，部分学者认为其影响被后来的通俗叙述夸大。",
+  "timeline": [
+    {"year": 1593, "display": "1593年", "event": "郁金香经克劳修斯引入荷兰（据 Wikipedia 郁金香狂热条目；引入年份存在1590s区间的说法，待核实具体年份）", "sources": ["w-en-tulip-mania"]},
+    {"year": 1634, "display": "1634年", "event": "投机风气兴起，球茎期货合约开始在酒馆等场所交易", "sources": ["w-en-tulip-mania", "w-zh-015"]},
+    {"year": 1636, "display": "1636年", "event": "价格加速上涨，稀有品种合约价格达到高点区间", "sources": ["w-en-tulip-mania"]},
+    {"year": 1637, "display": "1637年2月", "event": "价格急跌，市场信心崩溃，许多合约无法履约", "sources": ["w-en-tulip-mania", "w-zh-015"]}
+  ],
+  "background": [
+    "荷兰共和国17世纪上半叶商业与金融发达，拥有较成熟的期货与期权交易习惯（据 Wikipedia Tulip mania；相关制度背景另见 Wikipedia Economic history）。",
+    "郁金香作为新奇观赏植物，稀有品种的价格原本就高，具备被投机的条件。"
+  ],
+  "causal_chain": [
+    {"step": "稀缺性与审美偏好 → 稀有球茎具备高溢价基础", "sources": ["w-en-tulip-mania"]},
+    {"step": "期货合约（未交割的买卖承诺）→ 投机者无需持有球茎即可反复转手", "sources": ["w-en-tulip-mania", "w-zh-015"]},
+    {"step": "价格持续上涨 → 更多参与者入场、杠杆与信贷介入（参与度规模有争议）", "sources": ["w-en-tulip-mania"]},
+    {"step": "1637年2月买盘枯竭 → 价格急跌、合约违约、连锁抛售", "sources": ["w-en-tulip-mania"]}
+  ],
+  "key_data": [
+    {
+      "label": "常见品种价格峰值（简述）",
+      "value": 1,
+      "unit": "相对值（以约1636年价格为1的示意口径，非史料原值）",
+      "year": 1637,
+      "comparable_price": false,
+      "note": "史料对具体价格数值与口径存在争议；本条不罗列未经核实的具体数字，仅示意上涨方向。",
+      "sources": ["w-en-tulip-mania", "bk-the-ascent-of-money"]
+    }
+  ],
+  "schools": [
+    {"holder": "传统通俗叙述", "view": "将郁金香狂热视为群体非理性与投机泡沫的典型案例", "basis": "1637年价格急跌与后世流传的高价故事", "sources": ["w-en-tulip-mania"]},
+    {"holder": "部分现代经济史学者（如 Peter Garber 一派的修正观点）", "view": "认为价格相对当时收入水平并未失去理性基础，且对实体经济影响有限，狂热程度被夸大", "basis": "对价格序列与实际成交的重新考察（学者归属与具体论点待核实原文）", "sources": ["bk-the-ascent-of-money"]}
+  ],
+  "policy_response": [
+    {"holder": "荷兰当局", "view": "崩盘后未出现大规模系统性救助；有讨论涉及合约履行的法律处理", "basis": "事件局限于特定商品期货市场（具体政策措施待核实）", "sources": ["w-en-tulip-mania"]}
+  ],
+  "comparison": "与南海泡沫、密西西比泡沫同属17—18世纪的投机泡沫，但郁金香市场规模与宏观影响普遍被认为小于后两者；与1929年股灾相比，其金融体系联动性弱得多。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 260' role='img' aria-label='郁金香狂热因果链'><text x='20' y='30' class='ttl'>郁金香狂热：投机因果链（示意，非数据图）</text><g><rect x='20' y='60' width='200' height='46' rx='6' class='box'/><text x='30' y='82' class='lbl'>稀缺性 + 审美溢价</text><text x='30' y='98' class='sub'>稀有球茎高价基础</text></g><line x1='220' y1='83' x2='270' y2='83' class='ar'/><g><rect x='270' y='60' width='210' height='46' rx='6' class='box'/><text x='280' y='82' class='lbl'>期货合约反复转手</text><text x='280' y='98' class='sub'>无需交割即可投机</text></g><line x1='480' y1='83' x2='530' y2='83' class='ar'/><g><rect x='530' y='60' width='210' height='46' rx='6' class='box'/><text x='540' y='82' class='lbl'>价格上涨→更多入场</text><text x='540' y='98' class='sub'>信贷参与度有争议</text></g><line x1='635' y1='106' x2='635' y2='150' class='ar'/><g><rect x='430' y='150' width='300' height='46' rx='6' class='box'/><text x='440' y='172' class='lbl'>1637年2月买盘枯竭→价格崩塌</text><text x='440' y='188' class='sub'>合约违约、连锁抛售</text></g><text x='20' y='235' class='note'>来源：w-en-tulip-mania、w-zh-015、bk-the-ascent-of-money；箭头表示机制传导方向</text></svg>",
+  "sources": ["w-en-tulip-mania", "w-zh-015", "bk-the-ascent-of-money", "w-en-speculative-bubble"],
+  "related": ["south-sea-bubble-1720", "mississippi-bubble-1720", "japan-asset-bubble-1990"],
+  "needs_verification": true,
+  "pending_notes": "具体价格数值与统计口径、引入年份的精确值、Peter Garber 修正观点的原文出处与学者归属待核实；不罗列未经双源核实的具体数字。"
+}

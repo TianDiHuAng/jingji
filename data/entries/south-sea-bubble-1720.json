@@ -1,0 +1,53 @@
+{
+  "id": "south-sea-bubble-1720",
+  "title": "南海泡沫(1720)",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "欧洲",
+  "crisis_type": "泡沫",
+  "one_line": "英国南海公司通过炒作南美贸易特许权与国债置换计划推高股价，1720年股价崩塌，引发英国金融与政治震动。",
+  "overview": "南海公司成立于1711年，拥有南美贸易与殖民特许权。1720年它提出以公司股票置换英国国债的方案，配合市场炒作，股价大幅上涨后于同年夏秋崩盘。事件暴露了股份公司、国债与投机的一致性风险，并引发随后的金融与政治清算。",
+  "timeline": [
+    {"year": 1711, "display": "1711年", "event": "南海公司成立，取得南美贸易特许权（据 Wikipedia South Sea Company）", "sources": ["w-en-south-sea-company"]},
+    {"year": 1719, "display": "1719年", "event": "南海公司提出国债置换计划，与英格兰银行竞争", "sources": ["w-en-south-sea-company"]},
+    {"year": 1720, "display": "1720年初", "event": "计划获议会通过，股价开始急涨", "sources": ["w-en-south-sea-company", "w-zh-016"]},
+    {"year": 1720, "display": "1720年6月", "event": "《泡沫法》(Bubble Act) 通过，限制未经特许的股份公司", "sources": ["w-en-south-sea-company"]},
+    {"year": 1720, "display": "1720年9—12月", "event": "股价崩盘，公司重组，相关官员与董事受调查", "sources": ["w-en-south-sea-company", "w-zh-016"]}
+  ],
+  "background": [
+    "英国在西班牙王位继承战争后背负巨额国债，政府寻求降低债务负担的融资安排（据 Wikipedia South Sea Company）。",
+    "股份公司与股票交易在17世纪末至18世纪初的伦敦迅速发展，具备投机炒作的市场基础。"
+  ],
+  "causal_chain": [
+    {"step": "南海公司取得南美贸易特许 → 被赋予垄断与殖民收益想象空间", "sources": ["w-en-south-sea-company"]},
+    {"step": "国债置换计划 → 债券持有人转为股东，公司股价与国债价格挂钩，炒作动机增强", "sources": ["w-en-south-sea-company"]},
+    {"step": "股价上涨 + 信贷与内幕操作 → 更多投机者入场，价格脱离基本面", "sources": ["w-en-south-sea-company", "w-zh-016"]},
+    {"step": "1720年秋信心逆转 → 抛售与违约，股价崩塌并牵连政界", "sources": ["w-en-south-sea-company"]}
+  ],
+  "key_data": [
+    {
+      "label": "股价峰值相对面值（倍数口径）",
+      "value": 1,
+      "unit": "相对值（起点归一化的示意口径，非史料原值）",
+      "year": 1720,
+      "comparable_price": false,
+      "note": "史料对具体峰值倍数与口径分歧较大；本条不罗列未经核实的具体数字，仅示意上涨方向。",
+      "sources": ["w-en-south-sea-company", "w-zh-016"]
+    }
+  ],
+  "schools": [
+    {"holder": "传统叙述", "view": "把南海泡沫视为股份公司投机与内幕交易导致的市场失灵经典案例", "basis": "股价暴涨暴跌与董事、官员涉案", "sources": ["w-en-south-sea-company"]},
+    {"holder": "制度史视角", "view": "强调国债融资结构与特许垄断权在其中的作用，认为泡沫与公共财政安排密不可分", "basis": "国债置换计划是公司市值上升的核心机制", "sources": ["w-en-south-sea-company", "w-zh-016"]}
+  ],
+  "policy_response": [
+    {"holder": "英国议会与政府", "view": "1720年通过《泡沫法》限制无序设公司；崩盘后对公司资产清算并对相关责任人追责", "basis": "事件后的立法与调查记录", "sources": ["w-en-south-sea-company"]}
+  ],
+  "comparison": "与密西西比泡沫（同期法国）并称18世纪初两大投机泡沫；与郁金香狂热相比，南海泡沫涉及国债与股份公司制度，对金融体系与政治的影响更深。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 260' role='img' aria-label='南海泡沫因果链'><text x='20' y='30' class='ttl'>南海泡沫：国债置换—股价炒作—崩盘（示意）</text><g><rect x='20' y='60' width='210' height='46' rx='6' class='box'/><text x='30' y='82' class='lbl'>南美贸易特许权</text><text x='30' y='98' class='sub'>垄断收益想象空间</text></g><line x1='230' y1='83' x2='270' y2='83' class='ar'/><g><rect x='270' y='60' width='230' height='46' rx='6' class='box'/><text x='280' y='82' class='lbl'>国债置换→债券转股票</text><text x='280' y='98' class='sub'>股价与国债挂钩</text></g><line x1='500' y1='83' x2='540' y2='83' class='ar'/><g><rect x='540' y='60' width='200' height='46' rx='6' class='box'/><text x='550' y='82' class='lbl'>信贷+内幕推高股价</text><text x='550' y='98' class='sub'>价格脱离基本面</text></g><line x1='640' y1='106' x2='640' y2='150' class='ar'/><g><rect x='430' y='150' width='310' height='46' rx='6' class='box'/><text x='440' y='172' class='lbl'>1720年秋信心逆转→股价崩塌</text><text x='440' y='188' class='sub'>牵连政界，泡沫法出台</text></g><text x='20' y='235' class='note'>来源：w-en-south-sea-company、w-zh-016；箭头表示机制传导方向</text></svg>",
+  "sources": ["w-en-south-sea-company", "w-zh-016", "bk-the-ascent-of-money"],
+  "related": ["tulip-mania-1637", "mississippi-bubble-1720"],
+  "needs_verification": true,
+  "pending_notes": "股价峰值倍数、内幕交易涉案人物与《泡沫法》具体条款待核实原文；不罗列未经双源核实的具体数字。"
+}

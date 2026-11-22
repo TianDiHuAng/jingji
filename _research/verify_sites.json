@@ -1,0 +1,110 @@
+{
+  "fed_history": {
+    "ok": true,
+    "status": 200,
+    "bytes": 23556,
+    "title": "Home | Federal Reserve History",
+    "url": "https://www.federalreservehistory.org/"
+  },
+  "fed_essay_1907": {
+    "ok": true,
+    "status": 200,
+    "bytes": 51747,
+    "title": "The Panic of 1907 | Federal Reserve History",
+    "url": "https://www.federalreservehistory.org/essays/panic-of-1907"
+  },
+  "fed_essay_greatdep": {
+    "ok": true,
+    "status": 200,
+    "bytes": 42116,
+    "title": "The Great Depression | Federal Reserve History",
+    "url": "https://www.federalreservehistory.org/essays/great-depression"
+  },
+  "nber": {
+    "ok": true,
+    "status": 200,
+    "bytes": 192929,
+    "title": "National Bureau of Economic Research | NBER",
+    "url": "https://www.nber.org/"
+  },
+  "openstax_macro": {
+    "ok": true,
+    "status": 200,
+    "bytes": 289285,
+    "title": "Ch. 1 Introduction - Principles of Macroeconomics 3e | OpenStax",
+    "url": "https://openstax.org/books/principles-macroeconomics-3e/pages/1-introduction"
+  },
+  "openstax_money": {
+    "ok": false,
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://openstax.org/books/principles-macroeconomics-3e/pages/27-money-and-banking"
+  },
+  "ecb": {
+    "ok": true,
+    "status": 200,
+    "bytes": 208194,
+    "title": "European Central Bank",
+    "url": "https://www.ecb.europa.eu/home/html/index.en.html"
+  },
+  "bis": {
+    "ok": true,
+    "status": 200,
+    "bytes": 222498,
+    "title": "Welcome to the BIS | Bank for International Settlements",
+    "url": "https://www.bis.org/"
+  },
+  "worldbank": {
+    "ok": true,
+    "status": 200,
+    "bytes": 62358,
+    "title": "World Bank Group - International Development, Poverty and Sustainability",
+    "url": "https://www.worldbank.org/"
+  },
+  "imf_data": {
+    "ok": true,
+    "status": 200,
+    "bytes": 322559,
+    "title": "Data Home",
+    "url": "https://data.imf.org/"
+  },
+  "georgetown": {
+    "ok": true,
+    "status": 200,
+    "bytes": 9002,
+    "title": "IMF Data",
+    "url": "https://www.imf.org/en/Data"
+  },
+  "fred": {
+    "ok": true,
+    "status": 200,
+    "bytes": 59246,
+    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/"
+  },
+  "bls": {
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.bls.gov/"
+  },
+  "bea": {
+    "ok": true,
+    "status": 200,
+    "bytes": 61000,
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/"
+  },
+  "measuringworth": {
+    "ok": true,
+    "status": 200,
+    "bytes": 13035,
+    "title": "Measuring Worth - Relative Worth Comparators and Data Sets",
+    "url": "https://www.measuringworth.com/"
+  },
+  "ourworldindata": {
+    "ok": true,
+    "status": 200,
+    "bytes": 276248,
+    "title": "Our World in Data",
+    "url": "https://ourworldindata.org/"
+  }
+}
