@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 106,
+  "total": 115,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1379,6 +1379,123 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "理论"
+    },
+    {
+      "id": "black-friday-1869",
+      "level": "L1",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "russian-1998",
+      "level": "L1",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "欧洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "uruguay-2002",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "拉美",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "finnish-banking-1990",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "indian-1991",
+      "level": "L1",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "亚洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "cypriot-2013",
+      "level": "L1",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "myanmar-2003",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "亚洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "henan-2022",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "亚洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "ltcm",
+      "level": "L1",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "北美",
+      "crisis_type": "银行"
     }
   ]
 }

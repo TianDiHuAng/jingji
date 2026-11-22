@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 185,
+  "count": 194,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2221,6 +2221,114 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API 核对：页面存在（pageid=3876391）；中文主题：通货学派（银行学派争论）（轮次4新增）"
+    },
+    {
+      "id": "w-en-black-friday-1869",
+      "title": "Black Friday (1869)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Black_Friday_%281869%29",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=184979）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-russian-1998",
+      "title": "1998 Russian financial crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=3821983）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-uruguay-2002",
+      "title": "2002 Uruguay banking crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/2002_Uruguay_banking_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=2819044）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-finnish-banking-1990",
+      "title": "1990s Finnish banking crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1990s_Finnish_banking_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=21121549）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-indian-1991",
+      "title": "1991 Indian economic crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1991_Indian_economic_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=21803677）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-cypriot-2013",
+      "title": "2012–2013 Cypriot financial crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=37925318）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-myanmar-2003",
+      "title": "2003 Myanmar banking crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/2003_Myanmar_banking_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=45634993）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-henan-2022",
+      "title": "2022 Henan banks protests",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/2022_Henan_banks_protests",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=71277068）；轮次4经 List_of_banking_crises 大纲对照新增"
+    },
+    {
+      "id": "w-en-ltcm",
+      "title": "Long-Term Capital Management",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=18673）；轮次4经 List_of_banking_crises 大纲对照新增"
     }
   ]
 }
