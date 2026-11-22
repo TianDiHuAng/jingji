@@ -265,6 +265,18 @@
       "gaps_found": 0,
       "result": "quality-deepened",
       "notes": "DEEPEN-SEMANTIC第四批6条案例化。未发现新缺口(除已知待联网2020崩盘)。因2020崩盘未决(网络阻塞)，仍不判饱和。"
+    },
+    {
+      "round": 24,
+      "methods_used": [
+        "depth-gap",
+        "reader-questions",
+        "coverage-matrix",
+        "dangling-refs"
+      ],
+      "gaps_found": 0,
+      "result": "quality-deepened",
+      "notes": "DEEPEN-SEMANTIC第五批5条案例化。未发现新缺口(除已知待联网2020崩盘)。未饱和(2020未决)。"
     }
   ],
   "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件"
