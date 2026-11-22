@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "外汇抛售/固定汇率承压 → 贬值预期",
+      "step": "Jay Gould、James Fisk 与 Abel Corbin 组成\"黄金集团\"(Gold Ring)，试图逼空黄金、抬升纽约金价",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-black-friday-1869"
       ]
     },
     {
-      "step": "资本外流与贬值 → 债务负担上升",
+      "step": "1869年9月24日逼空失败、政府抛售黄金 → 黄金恐慌(黑色星期五)爆发",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-black-friday-1869"
       ]
     },
     {
-      "step": "货币当局应激 → 经济收缩",
+      "step": "恐慌引发金融危机",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-black-friday-1869"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "源于货币供给与汇率政策失当",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "市场操纵/逼空视角",
+      "view": "少数投机者合谋逼空黄金市场，失败后引发恐慌",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-black-friday-1869"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与国际传导",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "政府干预视角",
+      "view": "联邦政府抛售黄金打破逼空，成为转折",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-black-friday-1869"
       ]
     }
   ],
@@ -88,5 +88,5 @@
     "copper-panic-1789"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。"
 }
