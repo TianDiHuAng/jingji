@@ -1,7 +1,7 @@
 {
   "id": "recession-1937-1938",
   "title": "1937–1938年衰退",
-  "level": "L1",
+  "level": "L2",
   "tier": "重要",
   "unit": "U3 20世纪上半",
   "period": "20世纪上半",
@@ -9,18 +9,80 @@
   "crisis_type": "其他",
   "one_line": "1937–1938年衰退：发生于20世纪上半、地区北美的其他类案例（轮次12新条目，骨架）。",
   "overview": "1937–1938年衰退 是经权威大纲（Wikipedia List of economic crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1937,
+      "display": "1937—1938年",
+      "event": "大萧条期间美国经济二次衰退（据 Wikipedia Recession of 1937–1938）",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    },
+    {
+      "year": 1938,
+      "display": "1938年中",
+      "event": "经济开始复苏，但就业直到1941年末参战时恢复至1937初水平（同上）",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "政策收紧/外部冲击 → 需求下降",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    },
+    {
+      "step": "产出与就业下降 → 衰退",
+      "sources": [
+        "w-en-recession"
+      ]
+    },
+    {
+      "step": "政策转向 → 复苏",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "需求管理视角",
+      "view": "总需求政策可缓冲冲击",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    },
+    {
+      "holder": "供给冲击视角",
+      "view": "外部冲击改变增长路径",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    }
+  ],
+  "comparison": "与同为「其他」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1937–1938年衰退：机制示意（其他）</text><g><rect x='20' y='60' width='210' height='52' rx='6' class='box'/><text x='29' y='83' class='lbl'>触发条件</text><text x='29' y='101' class='sub'>冲击来源</text></g><g><rect x='270' y='60' width='210' height='52' rx='6' class='box'/><text x='279' y='83' class='lbl'>传导过程</text><text x='279' y='101' class='sub'>风险扩散</text></g><g><rect x='520' y='60' width='210' height='52' rx='6' class='box'/><text x='529' y='83' class='lbl'>后果与应对</text><text x='529' y='101' class='sub'>结果与政策</text></g><line x1='230' y1='86' x2='265' y2='86' class='ar'/><line x1='480' y1='86' x2='515' y2='86' class='ar'/><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-recession-1937-1938",
     "w-en-great-depression"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。"
 }

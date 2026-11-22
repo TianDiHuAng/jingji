@@ -1,7 +1,7 @@
 {
   "id": "black-monday-1987",
   "title": "1987年黑色星期一",
-  "level": "L1",
+  "level": "L3",
   "tier": "核心",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,18 +9,132 @@
   "crisis_type": "泡沫",
   "one_line": "1987年黑色星期一：发生于20世纪下半、地区北美的泡沫类案例（轮次12新条目，骨架）。",
   "overview": "1987年黑色星期一 是经权威大纲（Wikipedia List of economic crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 1982,
+      "display": "1982年8月",
+      "event": "道指从776点开始牛市；标普500从102.42点起涨（据 Wikipedia Black Monday 1987）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "year": 1987,
+      "display": "1987年8月",
+      "event": "道指峰值2722点；标普500达336.77点（同上）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "year": 1987,
+      "display": "1987年10月16日",
+      "event": "道指下跌108.35点(4.6%)（同上）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "year": 1987,
+      "display": "1987年10月19日",
+      "event": "黑色星期一：道指单日下跌508点(22.6%)，为史上最大单日百分比跌幅；标普500跌20%（同上）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "year": 1989,
+      "display": "1989年7月26日",
+      "event": "道指才恢复至崩盘前高点（同上）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "估值叙事+信贷可得 → 价格上涨",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "价格上涨自我强化 → 脱离基本面",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "信心逆转/流动性枯竭 → 抛售崩塌",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "道指单日跌幅(1987-10-19)",
+      "value": 22.6,
+      "unit": "%（道琼斯工业平均指数，单日）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：the DJIA fell 508 points (22.6 percent) ... largest one-day percentage drop in history；单一来源待核实。",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "label": "标普500单日跌幅(1987-10-19)",
+      "value": 20,
+      "unit": "%（标普500，单日）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：By the end of the day, the S&P 500 had fallen 20%；单一来源待核实。",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "非理性泡沫视角",
+      "view": "群体投机导致价格远离基本面",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "holder": "有效市场视角",
+      "view": "认为价格可由基本面解释",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    }
+  ],
+  "comparison": "与同为「泡沫」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1987年黑色星期一：机制+反馈示意（泡沫）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击来源</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>信贷/预期</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>崩盘/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-black-monday-1987",
     "w-en-wall-street-crash-of-1929"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。"
+  "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。",
+  "l3_detail": {
+    "data_caveat": "数值须注明来源/年份/口径；本条目跌幅数据单一来源待核实。",
+    "controversy_summary": "各方解释并列，不替读者下结论。",
+    "framework_type": "泡沫"
+  }
 }

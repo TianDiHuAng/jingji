@@ -1525,7 +1525,7 @@
     },
     {
       "id": "black-monday-1987",
-      "level": "L1",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -1551,7 +1551,7 @@
     },
     {
       "id": "recession-1937-1938",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "status": "written",
       "source_count": 2,
@@ -1564,7 +1564,7 @@
     },
     {
       "id": "rodrigazo-1975",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "status": "written",
       "source_count": 2,
