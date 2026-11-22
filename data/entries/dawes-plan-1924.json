@@ -110,7 +110,11 @@
     "w-en-dawes-plan",
     "w-en-great-depression"
   ],
-  "related": [],
+  "related": [
+    "weimar-hyper-1921",
+    "great-depression",
+    "latin-american-debt-1975"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架升级L2：timeline/数值经维基原文实证，均单一来源待核实。"
 }

@@ -129,7 +129,11 @@
     "w-zh-hainan-property-bubble-1992",
     "w-en-chinese-stock-bubble-of-2007"
   ],
-  "related": [],
+  "related": [
+    "japan-asset-bubble-1990",
+    "taiwan-bubble",
+    "china-realestate-2020"
+  ],
   "needs_verification": true,
   "pending_notes": " 【轮次13】升L2，补中文维基原文实证的timeline与数值，单源待核实。"
 }

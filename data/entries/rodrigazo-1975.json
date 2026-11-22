@@ -95,7 +95,11 @@
     "w-en-rodrigazo-1975",
     "w-en-latin-american-debt-crisis"
   ],
-  "related": [],
+  "related": [
+    "brazil-hyper-1980",
+    "latin-american-debt-1975",
+    "argentina-crisis-2001"
+  ],
   "needs_verification": true,
   "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【轮次12抽检修复】444%年份由1975末修正为1976（据维基原文）。"
 }

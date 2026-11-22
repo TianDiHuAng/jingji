@@ -20,7 +20,11 @@
     "w-zh-taiwan-bubble",
     "w-en-japanese-asset-price-bubble"
   ],
-  "related": [],
+  "related": [
+    "japan-asset-bubble-1990",
+    "hainan-property-bubble-1992",
+    "chinese-stock-bubble-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L1骨架：内容待核实补充。"
 }

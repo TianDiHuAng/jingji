@@ -130,7 +130,11 @@
     "w-en-black-monday-1987",
     "w-en-wall-street-crash-of-1929"
   ],
-  "related": [],
+  "related": [
+    "wall-street-1929",
+    "dotcom-bubble-2000",
+    "mini-crash-1997"
+  ],
   "needs_verification": true,
   "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。 【轮次12抽检修复】补deep_svg；修正1989恢复高点主语为标普500。",
   "l3_detail": {

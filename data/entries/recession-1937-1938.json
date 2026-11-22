@@ -82,7 +82,10 @@
     "w-en-recession-1937-1938",
     "w-en-great-depression"
   ],
-  "related": [],
+  "related": [
+    "great-depression",
+    "panic-1837"
+  ],
   "needs_verification": true,
   "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。"
 }
