@@ -29,21 +29,21 @@
   ],
   "causal_chain": [
     {
-      "step": "稀缺性/新叙事+信贷可得 → 价格上涨",
+      "step": "1997亚洲金融危机(亚洲传染)→ 香港恒生指数隔夜跌6%",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-october-27-1997-mini-crash"
       ]
     },
     {
-      "step": "价格上涨自我强化 → 脱离基本面",
+      "step": "跌势蔓延至欧洲(伦敦FTSE -2%)与美国市场",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-october-27-1997-mini-crash"
       ]
     },
     {
-      "step": "信心逆转/流动性枯竭 → 抛售崩塌",
+      "step": "道指单日大跌(史上第18大单日百分比跌幅)，被视为1990年代繁荣见顶的开端信号",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-october-27-1997-mini-crash"
       ]
     }
   ],
@@ -62,19 +62,19 @@
   ],
   "schools": [
     {
-      "holder": "非理性泡沫视角",
-      "view": "群体投机导致价格远离基本面",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "传染视角",
+      "view": "由亚洲危机经金融传染跨市场传导至欧美",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-october-27-1997-mini-crash"
       ]
     },
     {
-      "holder": "有效市场视角",
-      "view": "认为价格可由基本面解释",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "情绪/估值视角",
+      "view": "视为美国长期牛市见顶的早期信号，信心与增长随后放缓",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-october-27-1997-mini-crash"
       ]
     }
   ],
@@ -101,5 +101,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-october-27-1997-mini-crash。 【轮次11】L1→L2完整升级，单源待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-october-27-1997-mini-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
 }

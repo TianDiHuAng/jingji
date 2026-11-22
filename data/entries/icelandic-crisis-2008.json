@@ -45,40 +45,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "step": "三大银行(Kaupthing/Landsbanki/Glitnir)借国际货币市场信贷急剧扩张",
       "sources": [
-        "w-en-bank-run"
+        "w-en-icelandic-crisis-2008"
       ]
     },
     {
-      "step": "信贷收缩 → 融资中断",
+      "step": "2008年危机中外债达9.553万亿克朗(约500亿欧元)、超GDP 7倍；三行资产超GDP 11倍 → 融资与挤兑压力",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-icelandic-crisis-2008"
       ]
     },
     {
-      "step": "信心扩散 → 系统性风险",
+      "step": "2008年末三大私有商业银行全部违约 → 严重衰退与2009年抗议",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-icelandic-crisis-2008"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑视角",
-      "view": "源于信心崩塌引发挤兑",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "银行规模/杠杆视角",
+      "view": "银行体系相对经济体量过大(资产超GDP 11倍)，短期外债依赖度高",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-icelandic-crisis-2008"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "挤兑/传染视角",
+      "view": "荷兰、英国的存款挤兑与市场信心消退触发再融资失败",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-icelandic-crisis-2008"
       ]
     }
   ],
@@ -104,5 +104,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
 }

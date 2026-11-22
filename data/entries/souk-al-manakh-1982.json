@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "稀缺性/新叙事+信贷可得 → 价格上涨",
+      "step": "1970年代石油收入使私人积聚大量资金 → 70年代中期官方股市投机热潮(1977崩盘)",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     },
     {
-      "step": "价格上涨自我强化 → 脱离基本面",
+      "step": "政府对1977崩盘的救助与加强监管 → 最激进的投机者被挤向非法的平行市场 Souk Al-Manakh",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     },
     {
-      "step": "信心逆转/流动性枯竭 → 抛售崩塌",
+      "step": "该市场市值一度全球第三；1982年8月因一张远期支票被拒付而崩盘",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "非理性泡沫视角",
-      "view": "群体投机导致价格远离基本面",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "监管套利/道德风险视角",
+      "view": "政府救助与监管将风险偏好最高的投机者推入不受监管的平行市场，反而酿成更大崩盘",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     },
     {
-      "holder": "有效市场视角",
-      "view": "认为价格可由基本面解释",
-      "basis": "类型学框架归纳；待核实",
+      "holder": "过度投机视角",
+      "view": "远期支票(postdated check)等杠杆工具助长投机，最终因兑付失败崩塌",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     }
   ],
@@ -89,5 +89,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
 }

@@ -29,40 +29,40 @@
   ],
   "causal_chain": [
     {
-      "step": "稀缺性/新叙事 + 信贷可得 → 资产价格上涨",
+      "step": "20世纪初汽车与橡胶需求激增(美橡胶出口1908年5700万美元→1909年7000万美元)→橡胶股受追捧",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-shanghai-rubber-stock-market-crisis"
       ]
     },
     {
-      "step": "价格上涨自我强化 → 更多投机者入场、价格脱离基本面",
+      "step": "外资银行推出橡胶股票的证券贷款便利 → 投机与股价自我强化",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-shanghai-rubber-stock-market-crisis"
       ]
     },
     {
-      "step": "信心逆转/流动性枯竭 → 抛售与价格崩塌",
+      "step": "泡沫破裂 → 天津、广州等地大量华资银行倒闭，上海市场受重创",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-shanghai-rubber-stock-market-crisis"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "非理性泡沫视角",
-      "view": "群体投机心理导致价格远离基本面",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "基本面驱动视角",
+      "view": "橡胶需求当时确有真实增长，股价上涨有基本面因素",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-shanghai-rubber-stock-market-crisis"
       ]
     },
     {
-      "holder": "有效市场/基本面视角",
-      "view": "认为价格可由基本面与制度解释，泡沫论被夸大",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "投机过度视角",
+      "view": "银行与股东过度炒作橡胶股、提供证券贷款便利，吹大泡沫",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-shanghai-rubber-stock-market-crisis"
       ]
     }
   ],
@@ -89,5 +89,5 @@
     "blue-monday-2009"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-shanghai-rubber-stock-market-crisis。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-shanghai-rubber-stock-market-crisis。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
 }
