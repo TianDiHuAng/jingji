@@ -166,6 +166,18 @@
       "gaps_found": 2,
       "result": "gaps-addressed",
       "notes": "方法2补20世纪上半×债务(道威斯计划，0→1)；方法5二源复核2条(black-monday 22.6%德语维基、rodrigazo 444%西语维基)双源印证。层级L1 42/L2 56/L3 29。自检3条PASS。未饱和。"
+    },
+    {
+      "round": 16,
+      "methods_used": [
+        "protocol-F-healthcheck",
+        "orphan-check",
+        "stale-data",
+        "pending-review"
+      ],
+      "gaps_found": 1,
+      "result": "gaps-addressed",
+      "notes": "协议F体检硬问题0；修复11条孤儿条目补互链(67→56)。方法5二源尝试无果。本轮仅软性质量改进，无新权威知识缺口——接近饱和信号。"
     }
   ]
 }

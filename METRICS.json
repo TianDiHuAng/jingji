@@ -144,6 +144,18 @@
       "check_result": "PASS (127); check_links PASS (138页)",
       "spot_check": "10%自检3条PASS（子任务超时，改自检）",
       "note": "方法2覆盖矩阵补20世纪上半×债务(道威斯计划1924，升L2)；方法5二源复核：black-monday道指22.6%→德语维基、rodrigazo 444%→西语维基，均双源印证。矩阵债务格0→1。层级L1 42/L2 56/L3 29。"
+    },
+    {
+      "round": 16,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 2,
+      "fixed": 11,
+      "sources_total": 209,
+      "check_result": "PASS (127); check_links PASS (138页)",
+      "spot_check": "体检轮：check.py 0 error + 全部related目标有效(R11无警告)",
+      "note": "协议F全站体检：硬问题0(死链/重复/矛盾/非法来源全0)；现状数据0过期；修复11条新条目无related→补同主题互链(孤儿67→56)。方法5尝试bank-run 13%/asian 167%二源无果维持单源。"
     }
   ]
 }
