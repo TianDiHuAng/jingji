@@ -17,8 +17,8 @@
   "comparison": "",
   "svg": "",
   "sources": [
-    "w-en-bank-run",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "w-en-great-recession-in-russia"
   ],
   "related": [
     "argentina-crisis-2001",
@@ -26,5 +26,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-great-recession-in-russia替换兜底，待核实。"
 }

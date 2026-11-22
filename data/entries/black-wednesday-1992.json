@@ -104,6 +104,7 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>黑色星期三/英镑危机(1992)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：货币；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-currency-crisis",
+    "w-en-black-wednesday",
     "w-en-financial-crisis"
   ],
   "related": [
@@ -112,5 +113,5 @@
     "russian-1998"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。 【轮次6体检】补专属来源w-en-black-wednesday。"
 }

@@ -18,6 +18,7 @@
   "svg": "",
   "sources": [
     "w-en-currency-crisis",
+    "w-en-1976-sterling-crisis",
     "w-en-financial-crisis"
   ],
   "related": [
@@ -26,5 +27,5 @@
     "mexican-peso-1994"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-1976-sterling-crisis。"
 }
