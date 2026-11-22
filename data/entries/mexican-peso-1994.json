@@ -19,6 +19,38 @@
       ]
     },
     {
+      "year": 1994,
+      "display": "1994年1月1日",
+      "event": "北美自由贸易协定(NAFTA)生效，墨西哥政府与企业获得新的外资渠道（据 Wikipedia Mexican peso crisis）",
+      "sources": [
+        "w-en-mexican-peso-crisis"
+      ]
+    },
+    {
+      "year": 1994,
+      "display": "1994年3月",
+      "event": "总统候选人科洛西奥在蒂华纳遇刺，市场风险溢价上升（同上）",
+      "sources": [
+        "w-en-mexican-peso-crisis"
+      ]
+    },
+    {
+      "year": 1994,
+      "display": "1994年12月下旬",
+      "event": "墨西哥央行让比索贬值，外资恐慌导致风险溢价进一步上升（同上）",
+      "sources": [
+        "w-en-mexican-peso-crisis"
+      ]
+    },
+    {
+      "year": 1995,
+      "display": "1995年1月",
+      "event": "美国组织500亿美元救助，由IMF管理（同上）",
+      "sources": [
+        "w-en-mexican-peso-crisis"
+      ]
+    },
+    {
       "year": 1996,
       "display": "1996年",
       "event": "事件结束或主要影响期（据条目标题区间；具体节点待核实）",
@@ -100,7 +132,7 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
