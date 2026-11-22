@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 126,
+  "total": 127,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1639,6 +1639,19 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "银行"
+    },
+    {
+      "id": "dawes-plan-1924",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "债务"
     }
   ]
 }

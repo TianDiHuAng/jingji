@@ -54,9 +54,10 @@
       "unit": "%（阿根廷CPI，1976年）",
       "year": 1976,
       "comparable_price": false,
-      "note": "原文：inflation rate rose from 24.4% in 1974 to 182.4% in 1975 and 444% in 1976；444%属1976年；单一来源待核实。",
+      "note": "原文：inflation rate rose from 24.4% in 1974 to 182.4% in 1975 and 444% in 1976；444%属1976年；【双源印证】西语维基《Rodrigazo》原文\"24,4% en 1974 al 182,4% en 1975 y 444% en 1976\"，一致（并验证444%属1976年）。",
       "sources": [
-        "w-en-rodrigazo-1975"
+        "w-en-rodrigazo-1975",
+        "w-es-rodrigazo"
       ]
     }
   ],

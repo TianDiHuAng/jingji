@@ -78,9 +78,10 @@
       "unit": "%（道琼斯工业平均指数，单日）",
       "year": 1987,
       "comparable_price": false,
-      "note": "原文：the DJIA fell 508 points (22.6 percent) ... largest one-day percentage drop in history；单一来源待核实。",
+      "note": "原文：the DJIA fell 508 points (22.6 percent) ... largest one-day percentage drop in history；【双源印证】德语维基《Schwarzer Montag》原文\"Dow Jones ... 22,6 % (508 Punkte)\"，一致。",
       "sources": [
-        "w-en-black-monday-1987"
+        "w-en-black-monday-1987",
+        "w-de-schwarzer-montag"
       ]
     },
     {
