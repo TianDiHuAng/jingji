@@ -1,0 +1,58 @@
+{
+  "id": "animal-spirits",
+  "title": "动物精神",
+  "level": "L1",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "凯恩斯提出的概念，指影响经济决策的心理与情绪因素（信心、预期、本能冲动），用以解释投资波动与经济周期。",
+  "overview": "“动物精神”(animal spirits)一词源自凯恩斯《就业、利息和货币通论》，用以描述在不确定条件下影响企业投资与消费的非理性心理因素。它为理解信心如何放大繁荣与萧条的波动提供了概念框架。本条为理论条目，具体论述出处与后续发展（如行为经济学）待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "不确定性 → 信心与预期波动",
+      "sources": [
+        "bk-the-general-theory-of-employment-interest-and-mo"
+      ]
+    },
+    {
+      "step": "动物精神驱动投资与消费 → 总需求波动",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    },
+    {
+      "step": "信心逆转 → 繁荣转衰退",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "凯恩斯主义视角",
+      "view": "心理与预期因素是投资波动的重要来源",
+      "basis": "《通论》概念；本案例具体表述待核实",
+      "sources": [
+        "bk-the-general-theory-of-employment-interest-and-mo"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与明斯基金融不稳定假说、行为经济学互补，均强调心理与预期在周期中的作用；具体异同待核实。",
+  "svg": "",
+  "sources": [
+    "bk-the-general-theory-of-employment-interest-and-mo",
+    "w-en-business-cycle",
+    "w-en-financial-crisis"
+  ],
+  "related": [
+    "minsky-theory",
+    "business-cycle"
+  ],
+  "needs_verification": true,
+  "pending_notes": "理论概念：动物精神的出处原文、与行为经济学的关联待核实补充。"
+}

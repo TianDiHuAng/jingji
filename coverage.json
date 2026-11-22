@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 127,
+  "total": 128,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1652,6 +1652,19 @@
       "period": "20世纪上半",
       "region": "欧洲",
       "crisis_type": "债务"
+    },
+    {
+      "id": "animal-spirits",
+      "level": "L1",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
     }
   ]
 }
