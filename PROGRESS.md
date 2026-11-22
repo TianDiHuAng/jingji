@@ -4,20 +4,20 @@
 
 ## 当前状态
 - 模式：自动扩充（AUTONOMOUS.md 协议）
-- 当前轮次：9（已完成）
-- 上轮（轮次9）完成：
-  - DEEPEN-L2：3条重要条目（brexit/irish-banking-2008/turkish-2018）补真实timeline+数值
-  - SOURCE修正：发现并修正 brexit-crash-2016 错配来源（black-monday-1987→新增brexit来源）
-  - UPGRADE-L1：3条（cypriot-2013/indian-1991/ghana-banking-2017）完整升L2
-  - 年份冲突扫描：4处比较性来源（可接受），无新严重错配
-  - 抽检3条全PASS（连续2轮无缺陷）
+- 当前轮次：10（已完成）
+- 上轮（轮次10）完成：
+  - DEEPEN-L2：3条重要条目（bank-crisis-2023/lebanese-2019/shanghai-rubber-1910）补10个真实时间节点+1数值
+  - UPGRADE-L1：3条（icelandic-crisis-2008/uruguay-2002/pakistan-crisis-2021）完整升L2
+  - SOURCE-AUDIT：来源-主题语义相关性审计84条**全PASS零错配**
+  - 自检修复：pakistan来源id错误6处 + 研究脚本源头清理
+  - 抽检3条全PASS（连续3轮无缺陷）
   - check.py 117条 0 error、check_links.py 128页 0 error
-- 下一轮起点（轮次10）：
-  1. 继续深化20条时间线单薄的重要条目
-  2. 继续L1完整升L2
-  3. 来源-主题语义相关性抽查
-  4. 抽检降回10%（连续2轮无缺陷）
-- 层级现状：L1 45 / L2 46 / L3 26；总计117条、来源200条
+- 下一轮起点（轮次11）：
+  1. **协议F体检**（每5轮一次，本轮触发）
+  2. 继续深化18条时间线单薄的重要条目
+  3. 继续L1完整升L2
+  4. 10%抽检
+- 层级现状：L1 42 / L2 49 / L3 26；总计117条、来源200条
 
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
@@ -32,6 +32,7 @@
 | 7 | 2026-11-22 | 0 | 2深化+3升L2 | 3 | 3(1修) | PASS |
 | 8 | 2026-11-22 | 0 | 3深化+3完整升L2 | 0 | 3全PASS | PASS |
 | 9 | 2026-11-22 | 0 | 3深化+3完整升L2 | 1错配 | 3全PASS | PASS |
+| 10 | 2026-11-22 | 0 | 3深化+3完整升L2 | 7 | 3全PASS | PASS |
 
 ## 状态文件
 - BACKLOG.md / METRICS.json / SATURATION.json / GAP_REPORT.md / HEALTH_CHECK.md / BLOCKERS.md / DECISIONS.md
