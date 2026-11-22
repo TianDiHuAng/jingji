@@ -17,9 +17,10 @@
   "comparison": "",
   "svg": "",
   "sources": [
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "w-en-currency-school"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-currency-school，具体适用待核实。"
 }

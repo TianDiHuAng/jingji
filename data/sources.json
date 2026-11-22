@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 180,
+  "count": 185,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2161,6 +2161,66 @@
       "verified": false,
       "note": "HTTP 403 反爬，无法打开核对",
       "link_ok": "blocked"
+    },
+    {
+      "id": "w-en-herd-behavior",
+      "title": "Herd behavior",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Herd_behavior",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=20757790）；中文主题：羊群行为（轮次4新增）"
+    },
+    {
+      "id": "w-en-coordination-game",
+      "title": "Coordination game",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Coordination_game",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=946584）；中文主题：协调博弈（轮次4新增）"
+    },
+    {
+      "id": "w-en-minsky-moment",
+      "title": "Minsky moment",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Minsky_moment",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=13048075）；中文主题：明斯基时刻（轮次4新增）"
+    },
+    {
+      "id": "w-en-hyman-minsky",
+      "title": "Hyman Minsky",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Hyman_Minsky",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=5200483）；中文主题：海曼·明斯基（轮次4新增）"
+    },
+    {
+      "id": "w-en-currency-school",
+      "title": "British Currency School",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/British_Currency_School",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对：页面存在（pageid=3876391）；中文主题：通货学派（银行学派争论）（轮次4新增）"
     }
   ]
 }
