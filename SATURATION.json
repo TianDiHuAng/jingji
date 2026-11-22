@@ -229,6 +229,18 @@
       "gaps_found": 1,
       "result": "quality-deepened",
       "notes": "协议F体检硬问题0。第三批6条L2案例化。网络仍不稳,3条待联网新条目挂起。未饱和。"
+    },
+    {
+      "round": 21,
+      "methods_used": [
+        "authoritative-outline",
+        "reader-questions",
+        "coverage-matrix",
+        "depth-gap"
+      ],
+      "gaps_found": 3,
+      "result": "gaps-addressed",
+      "notes": "网络恢复：补建铁路狂热(1840s)/1920-21衰退/FTX破产3条(均L2)，解决原挂起的大纲(1920-21)+读者问题(铁路/加密崩盘)缺口。层级L1 46/L2 59/L3 29全达标。已知缺口已清。"
     }
   ]
 }

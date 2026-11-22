@@ -204,6 +204,18 @@
       "check_result": "PASS (131); check_links PASS (142页)",
       "spot_check": "协议F体检硬问题0；自检6条案例化关键事实与原文一致",
       "note": "协议F体检：硬问题0(死链/重复/矛盾/非法来源)、孤儿56、现状0过期。DEEPEN-SEMANTIC第三批：6条L2案例化(中国钱荒/俄1998/LTCM/黎巴嫩/2023银行/巴基斯坦)。网络仍不稳,3条待联网条目(1920-21/铁路狂热/加密崩盘)仍挂起。"
+    },
+    {
+      "round": 21,
+      "date": "2026-11-22",
+      "new_entries": 3,
+      "upgraded": 3,
+      "reviewed": 3,
+      "fixed": 0,
+      "sources_total": 212,
+      "check_result": "PASS (134); check_links PASS (145页)",
+      "spot_check": "自检3条：均L2/双源/因果3/svg齐，事实据REST摘要",
+      "note": "网络恢复(REST API可用,api.php被限流)：补建3条待联网缺口(铁路狂热/1920-21衰退/FTX破产)升L2，解决大纲+读者问题缺口。层级L1 46/L2 59/L3 29，全部tier达标。"
     }
   ]
 }
