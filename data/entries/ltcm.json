@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化/挤兑 → 资产负债表受损",
+      "step": "LTCM采用高杠杆策略(1994成立，董事含Scholes/Merton) → 组合规模与杠杆极高",
       "sources": [
-        "w-en-bank-run"
+        "w-en-ltcm"
       ]
     },
     {
-      "step": "信贷收缩 → 融资中断",
+      "step": "1998年因高杠杆叠加对亚洲/俄罗斯危机的敞口，四个月亏损46亿美元濒临崩溃",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-ltcm"
       ]
     },
     {
-      "step": "信心扩散 → 系统性风险上升",
+      "step": "纽约联储牵头14家银行出资36亿美元救助，防系统性扩散",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-ltcm"
       ]
     }
   ],
@@ -70,19 +70,19 @@
   ],
   "schools": [
     {
-      "holder": "银行挤兑视角",
-      "view": "源于信心崩塌引发挤兑与信贷收缩",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "高杠杆/模型风险视角",
+      "view": "小概率事件叠加高杠杆使模型失效、亏损放大",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-ltcm"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "系统性风险/最后贷款人视角",
+      "view": "因其关联过广，联储协调私人救助避免系统性冲击",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-ltcm"
       ]
     }
   ],
@@ -108,5 +108,5 @@
     "savings-loan-1986"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
 }

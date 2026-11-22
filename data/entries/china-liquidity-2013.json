@@ -21,40 +21,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化或挤兑冲击 → 银行资产负债表受损",
+      "step": "外汇市场监管致资金流入下降 + 银行依赖短期同业融资 → 流动性紧张",
       "sources": [
-        "w-en-bank-run"
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
     },
     {
-      "step": "信贷收缩 → 实体经济融资中断、企业违约上升",
+      "step": "2013年6月20日上海银行间隔夜拆借利率从常态<3%飙升至30%；央行(PBOC)未注入资金而要求银行盘活存量",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
     },
     {
-      "step": "信心危机扩散 → 系统性风险上升",
+      "step": "恐慌波及黄金与股市；被视为央行有意收紧影子银行/去杠杆的信号",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑/恐慌视角",
-      "view": "危机源于存款人信心崩塌引发的挤兑与信贷收缩",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "央行去杠杆视角",
+      "view": "央行刻意不救以整肃同业与影子银行风险",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-bank-run"
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染导致的整体不稳定",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "流动性错配视角",
+      "view": "银行短期同业负债与长期资产错配导致挤兑式紧张",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
     }
   ],
@@ -80,5 +80,5 @@
     "cypriot-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-banking-liquidity-crisis-of-2013替换兜底，待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-banking-liquidity-crisis-of-2013替换兜底，待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
 }

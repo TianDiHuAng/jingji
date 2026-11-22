@@ -21,40 +21,40 @@
   ],
   "causal_chain": [
     {
-      "step": "外汇抛售/固定汇率承压 → 贬值预期",
+      "step": "生产率下降+维持卢布高固定汇率+财政赤字+第一次车臣战争军费 → 基本面恶化",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-russian-1998"
       ]
     },
     {
-      "step": "资本外流与贬值 → 债务负担上升",
+      "step": "1998年8月17日俄罗斯政府与央行让卢布贬值并对债务违约",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-russian-1998"
       ]
     },
     {
-      "step": "货币当局应激 → 经济收缩",
+      "step": "危机重创周边国家经济(传染)",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-russian-1998"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "源于货币供给与汇率政策失当",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "固定汇率/财政视角",
+      "view": "高固定汇率与长期财政赤字不可持续",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-russian-1998"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与国际传导",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "外部冲击视角",
+      "view": "油价与战争成本及亚洲危机外溢加剧恶化",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-russian-1998"
       ]
     }
   ],
@@ -81,5 +81,5 @@
     "mexican-peso-1994"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次4抽检优化】补入同国比较来源2014俄危机。 【轮次8】L1→L2完整升级，单源待核实。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次4抽检优化】补入同国比较来源2014俄危机。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
 }

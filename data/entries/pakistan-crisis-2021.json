@@ -45,21 +45,21 @@
   ],
   "causal_chain": [
     {
-      "step": "举债扩张+偿付假设 → 债务累积",
+      "step": "2021年末燃料短缺与通胀飙升 → 国际收支与外部融资压力上升",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-pakistani-economic-crisis-2021-2024"
       ]
     },
     {
-      "step": "利率上升/收入下降 → 偿付困难暴露",
+      "step": "2022年洪灾造成约300亿美元损失；通胀2022年6月创历史高位",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-pakistani-economic-crisis-2021-2024"
       ]
     },
     {
-      "step": "违约或重组 → 债权人损失与传染",
+      "step": "2023年初和平时期首次濒临主权违约，后靠IMF等外部支持缓解",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-pakistani-economic-crisis-2021-2024"
       ]
     }
   ],
@@ -89,19 +89,19 @@
   ],
   "schools": [
     {
-      "holder": "债务周期视角",
-      "view": "过度负债与通缩相互强化",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "国际收支/外部融资视角",
+      "view": "长期外部失衡与储备不足导致违约风险",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-pakistani-economic-crisis-2021-2024"
       ]
     },
     {
-      "holder": "主权违约视角",
-      "view": "强调偿付意愿与制度安排",
-      "basis": "类型学框架归纳；本案例适用待核实",
+      "holder": "外部冲击视角",
+      "view": "洪灾与全球能源/粮价上涨放大脆弱性",
+      "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-pakistani-economic-crisis-2021-2024"
       ]
     }
   ],
@@ -128,5 +128,5 @@
     "greek-debt-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
 }
