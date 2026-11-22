@@ -178,6 +178,21 @@
       "gaps_found": 1,
       "result": "gaps-addressed",
       "notes": "协议F体检硬问题0；修复11条孤儿条目补互链(67→56)。方法5二源尝试无果。本轮仅软性质量改进，无新权威知识缺口——接近饱和信号。"
+    },
+    {
+      "round": 17,
+      "methods_used": [
+        "authoritative-outline-local",
+        "reader-questions-extended",
+        "coverage-matrix",
+        "dangling-refs",
+        "pending-review",
+        "recent-dynamics",
+        "depth-gap"
+      ],
+      "gaps_found": 4,
+      "result": "gaps-found-not-saturated",
+      "notes": "严格终检：大纲(1920-21衰退)+读者问题(加密崩盘/铁路狂热)仍有真实缺口→未饱和；动物精神已补。网络中断阻塞新来源核对(记BLOCKERS)。层级L1 43/L2 56/L3 29。"
     }
   ]
 }

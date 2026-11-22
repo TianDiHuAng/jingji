@@ -156,6 +156,18 @@
       "check_result": "PASS (127); check_links PASS (138页)",
       "spot_check": "体检轮：check.py 0 error + 全部related目标有效(R11无警告)",
       "note": "协议F全站体检：硬问题0(死链/重复/矛盾/非法来源全0)；现状数据0过期；修复11条新条目无related→补同主题互链(孤儿67→56)。方法5尝试bank-run 13%/asian 167%二源无果维持单源。"
+    },
+    {
+      "round": 17,
+      "date": "2026-11-22",
+      "new_entries": 1,
+      "upgraded": 0,
+      "reviewed": 0,
+      "fixed": 0,
+      "sources_total": 209,
+      "check_result": "PASS (128); check_links PASS (139页)",
+      "spot_check": "网络中断，用本地方法校核",
+      "note": "严格七方法终检：本地证据未饱和(大纲1920-21衰退、读者问题加密崩盘/铁路狂热);新增动物精神条目(用库内verified来源,网络无关);扩展读者问题至33问;网络中断记BLOCKERS。"
     }
   ]
 }
