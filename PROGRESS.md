@@ -4,26 +4,27 @@
 
 ## 当前状态
 - 模式：自动扩充（AUTONOMOUS.md 协议）
-- 当前轮次：24（已完成）
-- 上轮（轮次24）完成：
-  - 网络仍断（2020崩盘抓取失败，挂起）
-  - DEEPEN-SEMANTIC 第五批：5条L2案例化（black-wednesday-1992/australian-1893/irish-2008/turkish-2018/uruguay-2002）
-  - 自检5条关键事实与本地原文一致（16Sep1992/€64bn/dollarization）
-  - 累计已案例化27条L2
+- 当前轮次：25（已完成）
+- 上轮（轮次25）完成：
+  - 维基网络出口诊断：DNS污染(en.wikipedia.org→31.13.94.41 Facebook IP)、已知维基IP直连301 → 维基内容整体不可获取（记BLOCKERS）
+  - DEEPEN-SEMANTIC 第六批：6条案例化（asian-financial-crisis-1997、black-monday-1987 两核心L3 + brexit-2016、panic-1825、south-america-2002、ghana-2017）
+  - 自检事实一致（22.6%/167%/referendum）
+  - 累计案例化33条L2/L3
   - check.py 135条 0 error、check_links.py 146页 0 error
-- 下一轮起点（轮次25）：
-  1. 重试联网补 2020新冠股灾
-  2. 继续案例化剩余少量模板L2
+- 下一轮起点（轮次26）：
+  1. 继续案例化剩余有本地语料的模板条目
+  2. 全站数据一致性/口径抽查（QA）
   3. 10%抽检
+  4. 网络恢复则补2020崩盘
 - 层级现状：L1 47 / L2 59 / L3 29；总计135条、来源212条
-- 饱和评估：未饱和（2020崩盘未决）
+- 饱和评估：除2020崩盘(外部网络阻塞)外所有缺口已覆盖；饱和受外部阻塞制约
 
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
-| 0-22 | 2026-11-22 | (见METRICS) | — | — | — | PASS |
-| 23 | 2026-11-22 | 0 | 6条L2案例化 | — | 6事实 | PASS |
-| 24 | 2026-11-22 | 0 | 5条L2案例化 | — | 5事实 | PASS |
+| 0-23 | 2026-11-22 | (见METRICS) | — | — | — | PASS |
+| 24 | 2026-11-22 | 0 | 5条案例化 | — | 5事实 | PASS |
+| 25 | 2026-11-22 | 0 | 6条案例化 | — | 自检 | PASS |
 
 ## 状态文件
 - BACKLOG.md / METRICS.json / SATURATION.json / GAP_REPORT.md / READER_QUESTIONS.md / HEALTH_CHECK.md / HEALTH_CHECK_F.md / BLOCKERS.md / DECISIONS.md

@@ -277,7 +277,20 @@
       "gaps_found": 0,
       "result": "quality-deepened",
       "notes": "DEEPEN-SEMANTIC第五批5条案例化。未发现新缺口(除已知待联网2020崩盘)。未饱和(2020未决)。"
+    },
+    {
+      "round": 25,
+      "methods_used": [
+        "depth-gap",
+        "network-diagnosis",
+        "reader-questions",
+        "coverage-matrix"
+      ],
+      "gaps_found": 0,
+      "result": "quality-deepened-blocked",
+      "notes": "维基网络出口不可用(DNS污染)。第六批6条案例化(含2核心L3)。唯一已知未决缺口2020崩盘因网络阻塞不硬凑(记BLOCKERS)。未饱和(外部阻塞)。"
     }
   ],
-  "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件"
+  "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件",
+  "saturation_note": "除2020新冠股灾(网络出口阻塞,无法核对来源)外，所有权威大纲/读者问题/矩阵缺口均已覆盖；饱和受外部网络阻塞制约，非内容缺口"
 }

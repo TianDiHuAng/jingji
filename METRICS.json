@@ -252,6 +252,18 @@
       "check_result": "PASS (135); check_links PASS (146页)",
       "spot_check": "自检5条案例化关键事实与本地原文一致",
       "note": "网络仍断(2020崩盘挂起)。DEEPEN-SEMANTIC第五批：5条L2案例化(black-wednesday-1992/australian-1893/irish-2008/turkish-2018/uruguay-2002)。累计已案例化27条L2。"
+    },
+    {
+      "round": 25,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 6,
+      "fixed": 6,
+      "sources_total": 212,
+      "check_result": "PASS (135); check_links PASS (146页)",
+      "spot_check": "自检事实一致(22.6%/167%/referendum)",
+      "note": "维基网络出口诊断不可用(DNS污染+IP 301)。DEEPEN-SEMANTIC第六批：6条案例化(亚洲1997/黑色星期一2核心L3 + brexit/panic-1825/south-america-2002/ghana)。累计案例化33条。2020崩盘BLOCKER记录不硬凑。"
     }
   ]
 }
