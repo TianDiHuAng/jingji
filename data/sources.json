@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 209,
+  "count": 212,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2509,6 +2509,42 @@
       "verified": true,
       "link_ok": true,
       "note": "西语维基API核对；轮次15二源：原文\"la tasa de inflación pasó del 24,4 % en 1974 al 182,4 % en 1975 y 444 % en 1976\"(pageid=250391)"
+    },
+    {
+      "id": "w-en-railway-mania",
+      "title": "Railway Mania",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Railway_Mania",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(page id存在)；轮次21网络恢复后新增；摘要:\"Railway Mania was a stock market bubble in the railway indus\""
+    },
+    {
+      "id": "w-en-recession-1920-1921",
+      "title": "Recession of 1920–1921",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Recession_of_1920%E2%80%931921",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(page id存在)；轮次21网络恢复后新增；摘要:\"The Recession of 1920–1921 was a sharp deflationary economic\""
+    },
+    {
+      "id": "w-en-bankruptcy-ftx",
+      "title": "Bankruptcy of FTX",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Collapse_of_FTX",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(page id存在)；轮次21网络恢复后新增；摘要:\"The bankruptcy of FTX, a Bahamas-based cryptocurrency exchan\""
     }
   ]
 }

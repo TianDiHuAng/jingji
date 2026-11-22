@@ -1,0 +1,71 @@
+{
+  "id": "recession-1920-1921",
+  "title": "1920–1921年衰退",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "其他",
+  "one_line": "一战后美国及多国的急剧通缩型经济衰退（1920–1921）。",
+  "overview": "The Recession of 1920–1921 was a sharp deflationary economic contraction in the United States, United Kingdom and other countries, beginning 14 months after the end of World War I. It lasted from January 1920 to July 1921. The extent of the deflation was not only large, but large relative to the accompanying decline in real product.（据维基摘要；完整时间线/数据待核实补充。）",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "一战结束后14个月、战时需求与财政货币扩张退潮 → 需求与物价回落",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    },
+    {
+      "step": "1920年1月—1921年7月的急剧通缩型收缩（美英等国）",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    },
+    {
+      "step": "通缩幅度相对实际产出降幅异常大",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "战后调整/货币政策视角",
+      "view": "战时扩张退潮与紧缩货币政策导致剧烈通缩",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    },
+    {
+      "holder": "需求冲击视角",
+      "view": "总需求骤降带来产出与物价同步下跌",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策/监管当局",
+      "view": "应对与评价待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    }
+  ],
+  "comparison": "与同为「其他」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1920–1921年衰退：机制示意（其他）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发/背景</text><text x='29' y='96' class='sub'>背景</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导机制</text><text x='279' y='96' class='sub'>扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果</text><text x='529' y='96' class='sub'>结果/政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-recession-1920-1921",
+    "w-en-business-cycle"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。"
+}

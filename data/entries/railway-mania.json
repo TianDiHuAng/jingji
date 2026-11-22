@@ -1,0 +1,71 @@
+{
+  "id": "railway-mania",
+  "title": "铁路狂热(1840年代英国)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "泡沫",
+  "one_line": "1840年代英国铁路投资狂潮（Railway Mania），大量资本涌入铁路股票形成泡沫，随后崩盘。",
+  "overview": "Railway Mania was a stock market bubble in the railway industry of the United Kingdom of Great Britain and Ireland in the 1840s. It followed a common pattern: as the price of railway shares increased, speculators invested more money, which further increased the price of railway shares, until the share price collapsed. The mania reached its zenith in 1846, when 263 Acts of Parliament for setting up（据维基摘要；完整时间线/数据待核实补充。）",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "铁路股价格上涨 → 投机者投入更多资金 → 价格进一步上涨（正反馈）",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    },
+    {
+      "step": "1846年狂热达顶峰（议会当年通过263项设立铁路公司的法案）",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    },
+    {
+      "step": "股价最终崩盘",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "非理性泡沫视角",
+      "view": "典型的价格上涨自我强化的投机正反馈，直至崩盘",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    },
+    {
+      "holder": "技术革命/基本面视角",
+      "view": "铁路是真实的运输技术革命，投资有基本面基础但被过度放大",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策/监管当局",
+      "view": "应对与评价待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    }
+  ],
+  "comparison": "与同为「泡沫」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>铁路狂热(1840年代英国)：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发/背景</text><text x='29' y='96' class='sub'>背景</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导机制</text><text x='279' y='96' class='sub'>扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果</text><text x='529' y='96' class='sub'>结果/政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-railway-mania",
+    "w-en-speculative-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。"
+}

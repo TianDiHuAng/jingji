@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 131,
+  "total": 134,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1704,6 +1704,45 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "理论"
+    },
+    {
+      "id": "railway-mania",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "recession-1920-1921",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "北美",
+      "crisis_type": "其他"
+    },
+    {
+      "id": "bankruptcy-ftx",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "泡沫"
     }
   ]
 }
