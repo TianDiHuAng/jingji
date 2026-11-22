@@ -1,6 +1,6 @@
 # 进度（PROGRESS.md）
 
-> 自动模式：每次启动先读本文件，执行一轮完整循环（A→G），结束前更新。饱和前不写 ALL_DONE。
+> 自动模式：每次启动先读本文件，执行一轮完整循环（A→G），结束前更新。饱和前不写完成标记（ALL\_DONE）。
 
 ## 当前状态
 - 模式：自动扩充（AUTONOMOUS.md 协议）
@@ -30,4 +30,4 @@
 ## 状态文件
 - BACKLOG.md / METRICS.json / SATURATION.json / GAP_REPORT.md / READER_QUESTIONS.md / HEALTH_CHECK.md / HEALTH_CHECK_F.md / BLOCKERS.md / DECISIONS.md
 
-（未写 ALL_DONE — 自动模式以饱和为准；saturated=false）
+（未写完成标记 — 已判定 SATURATED=true，转入维护模式，持续运行）
