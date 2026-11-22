@@ -2,14 +2,16 @@
   "saturated": false,
   "zero_gap_streak": 0,
   "maintenance_mode": false,
+  "next_round_spot_check_ratio": 0.25,
   "rounds": [
     {
       "round": 3,
       "date": "2026-11-22",
-      "methods_used": ["depth-gap", "coverage-matrix"],
-      "gaps_found": 2,
-      "gap_summary": "深度缺口：26条核心条目全停在L2，无L3（TASK要求L3给核心）；覆盖矩阵：6个历史案例空白格子（理论制度×债务/泡沫/恶性通胀属结构性空白，另有多处稀疏）",
-      "result": "gap-found"
+      "methods_used": ["depth-gap", "coverage-matrix", "dangling-refs", "pending-list", "low-source", "authoritative-outline"],
+      "gaps_found": 6,
+      "gap_summary": "①26条核心全停L2→已全部升L3；②覆盖矩阵稀疏格子4处；③悬空引用0；④106/106待核实；⑤6条理论条目来源<2；⑥权威大纲对照发现9条遗漏银行危机条目(有可核对维基页)",
+      "result": "gap-found-and-partially-addressed",
+      "notes": "深度缺口已解决；新条目缺口入BACKLOG下轮；低来源与待核实复核未处理。"
     }
   ]
 }

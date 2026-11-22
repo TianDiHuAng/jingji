@@ -43,7 +43,7 @@
     },
     {
       "id": "tulip-mania-1637",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -56,7 +56,7 @@
     },
     {
       "id": "south-sea-bubble-1720",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -69,7 +69,7 @@
     },
     {
       "id": "mississippi-bubble-1720",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -251,7 +251,7 @@
     },
     {
       "id": "panic-1857",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -277,7 +277,7 @@
     },
     {
       "id": "panic-1873",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -394,7 +394,7 @@
     },
     {
       "id": "panic-1907",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -459,7 +459,7 @@
     },
     {
       "id": "weimar-hyper-1921",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -485,7 +485,7 @@
     },
     {
       "id": "wall-street-1929",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -498,7 +498,7 @@
     },
     {
       "id": "great-depression",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -550,7 +550,7 @@
     },
     {
       "id": "hungarian-hyper-1945",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
@@ -576,7 +576,7 @@
     },
     {
       "id": "oil-crisis-1973",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -628,7 +628,7 @@
     },
     {
       "id": "latin-american-debt-1975",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -745,7 +745,7 @@
     },
     {
       "id": "japan-asset-bubble-1990",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -810,7 +810,7 @@
     },
     {
       "id": "mexican-peso-1994",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -836,7 +836,7 @@
     },
     {
       "id": "dotcom-bubble-2000",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -862,7 +862,7 @@
     },
     {
       "id": "argentina-crisis-2001",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -901,7 +901,7 @@
     },
     {
       "id": "zimbabwe-hyper-2007",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -914,7 +914,7 @@
     },
     {
       "id": "subprime-crisis-2007",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -966,7 +966,7 @@
     },
     {
       "id": "euro-area-crisis",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -979,7 +979,7 @@
     },
     {
       "id": "greek-debt-crisis",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 3,
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "venezuela-hyper-2016",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "gold-standard",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -1239,7 +1239,7 @@
     },
     {
       "id": "central-bank",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "bretton-woods",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -1291,7 +1291,7 @@
     },
     {
       "id": "business-cycle",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 2,
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "minsky-theory",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
