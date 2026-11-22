@@ -2,8 +2,8 @@
   "saturated": false,
   "zero_gap_streak": 0,
   "maintenance_mode": false,
-  "next_round_spot_check_ratio": 0.25,
-  "spot_check_ratio_note": "轮次13抽检全PASS但轮次12有2缺陷，连续无缺陷仅1轮，保守维持25%",
+  "next_round_spot_check_ratio": 0.10,
+  "spot_check_ratio_note": "轮次13/14连续两轮抽检全PASS，按协议E降回10%（至少3条）",
   "rounds": [
     {"round": 3, "methods_used": ["depth-gap","coverage-matrix","dangling-refs","pending-list","low-source","authoritative-outline"], "gaps_found": 6, "result": "partially-addressed"},
     {"round": 4, "methods_used": ["low-source","authoritative-outline","pending-review","coverage-matrix"], "gaps_found": 3, "result": "gaps-addressed"},
@@ -21,6 +21,8 @@
     {"round": 12, "methods_used": ["authoritative-outline","depth-gap","coverage-matrix","dangling-refs","reader-questions","pending-review","recent-dynamics"], "gaps_found": 5,
      "result": "gaps-addressed", "notes": "七种方法系统验证：方法1(List of economic crises大纲)找到4条重大遗漏(黑色星期一1987/Kipper/1937衰退/Rodrigazo)，已新建+按tier升级；全部tier达标(L1 41/L2 53/L3 27)。抽检2条FAIL(deep_svg缺失+年份错配)已修复。未饱和——大纲对照仍找到真实缺口。"},
     {"round": 13, "methods_used": ["authoritative-outline-zh","coverage-matrix","dangling-refs","reader-questions","pending-review","recent-dynamics","depth-gap"], "gaps_found": 3,
-     "result": "gaps-addressed", "notes": "中文权威大纲(Category泡沫经济)找到3条遗漏(海南/台湾/游戏业大萧条)，已新建+2升L2补实证数值；主动跳过碳泡沫/AI泡沫(预测性)。层级L1 41/L2 55/L3 27。抽检全PASS。未饱和。"}
+     "result": "gaps-addressed", "notes": "中文权威大纲(Category泡沫经济)找到3条遗漏(海南/台湾/游戏业大萧条)，已新建+2升L2补实证数值；主动跳过碳泡沫/AI泡沫(预测性)。层级L1 41/L2 55/L3 27。抽检全PASS。未饱和。"},
+    {"round": 14, "methods_used": ["reader-questions","authoritative-outline","coverage-matrix","dangling-refs","pending-review","recent-dynamics","depth-gap"], "gaps_found": 2,
+     "result": "gaps-addressed", "notes": "方法4读者问题清单(20问)发现2条TASK点名标志性遗漏：1997亚洲金融危机(大纲对照都漏掉)+银行挤兑核心概念；新建核心条目升L3。读者问题覆盖18/20→20/20。层级L1 41/L2 55/L3 29。抽检全PASS。未饱和。"}
   ]
 }

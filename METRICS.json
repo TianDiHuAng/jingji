@@ -10,8 +10,9 @@
     {"round": 10, "new_entries": 0, "upgraded": 3, "reviewed": 84, "fixed": 7, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "10%3条全PASS", "note": "语义审计84条全PASS+来源id修复。"},
     {"round": 11, "new_entries": 0, "upgraded": 2, "reviewed": 3, "fixed": 3, "sources_total": 200, "check_result": "PASS (117)", "spot_check": "10%3条全PASS", "note": "协议F体检+现状刷新+2深化+2升L2。"},
     {"round": 12, "new_entries": 4, "upgraded": 3, "reviewed": 3, "fixed": 2, "sources_total": 203, "check_result": "PASS (121)", "spot_check": "10%3条→2修", "note": "七方法验证+4遗漏条目+抽检修2数据错。"},
-    {"round": 13, "date": "2026-11-22", "new_entries": 3, "upgraded": 2, "reviewed": 3, "fixed": 0, "sources_total": 206,
-     "check_result": "PASS (124); check_links PASS (135页)", "spot_check": "25%抽检3条全PASS（年份错配缺陷未复发）",
-     "note": "中文权威大纲(Category泡沫经济)找到3条遗漏(海南/台湾/游戏业大萧条)；2条升L2补中文维基实证数值；主动跳过碳泡沫/AI泡沫(预测性话题)。层级L1 41/L2 55/L3 27。"}
+    {"round": 13, "new_entries": 3, "upgraded": 2, "reviewed": 3, "fixed": 0, "sources_total": 206, "check_result": "PASS (124)", "spot_check": "25%3条全PASS", "note": "中文大纲3遗漏+2升L2。"},
+    {"round": 14, "date": "2026-11-22", "new_entries": 2, "upgraded": 2, "reviewed": 3, "fixed": 0, "sources_total": 206,
+     "check_result": "PASS (126); check_links PASS (137页)", "spot_check": "25%抽检3条全PASS（deep_svg缺陷未复发）",
+     "note": "方法4读者问题清单发现2条TASK点名标志性遗漏(1997亚洲金融危机/银行挤兑)，新建核心条目升L3；读者问题覆盖18/20→20/20。层级L1 41/L2 55/L3 29。"}
   ]
 }
