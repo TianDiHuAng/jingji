@@ -193,6 +193,18 @@
       "gaps_found": 4,
       "result": "gaps-found-not-saturated",
       "notes": "严格终检：大纲(1920-21衰退)+读者问题(加密崩盘/铁路狂热)仍有真实缺口→未饱和；动物精神已补。网络中断阻塞新来源核对(记BLOCKERS)。层级L1 43/L2 56/L3 29。"
+    },
+    {
+      "round": 18,
+      "methods_used": [
+        "authoritative-outline-local",
+        "reader-questions",
+        "coverage-matrix",
+        "pending-review"
+      ],
+      "gaps_found": 3,
+      "result": "gaps-addressed-partial",
+      "notes": "国际网络中断；用库内verified来源新增3概念条目(道德风险/太大不能倒/不可能三角)。仍存需联网核对的缺口(1920-21衰退/铁路狂热/加密崩盘)。未饱和。"
     }
   ]
 }

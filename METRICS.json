@@ -168,6 +168,18 @@
       "check_result": "PASS (128); check_links PASS (139页)",
       "spot_check": "网络中断，用本地方法校核",
       "note": "严格七方法终检：本地证据未饱和(大纲1920-21衰退、读者问题加密崩盘/铁路狂热);新增动物精神条目(用库内verified来源,网络无关);扩展读者问题至33问;网络中断记BLOCKERS。"
+    },
+    {
+      "round": 18,
+      "date": "2026-11-22",
+      "new_entries": 3,
+      "upgraded": 0,
+      "reviewed": 0,
+      "fixed": 0,
+      "sources_total": 209,
+      "check_result": "PASS (131); check_links PASS (142页)",
+      "spot_check": "自检3概念条目：来源verified+related存在",
+      "note": "国际网络中断(连续2轮)：改用库内verified来源新增3核心概念条目(道德风险/太大而不能倒/不可能三角,补充层L1)。网络无关扩充。缺口仍存(1920-21衰退/铁路狂热/加密崩盘待联网)。"
     }
   ]
 }
