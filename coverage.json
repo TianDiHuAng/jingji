@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 124,
+  "total": 126,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -1613,6 +1613,32 @@
       "period": "20世纪下半",
       "region": "北美",
       "crisis_type": "泡沫"
+    },
+    {
+      "id": "asian-financial-crisis-1997",
+      "level": "L3",
+      "tier": "核心",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "亚洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "bank-run",
+      "level": "L3",
+      "tier": "核心",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-22",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "银行"
     }
   ]
 }
