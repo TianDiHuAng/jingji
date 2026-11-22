@@ -216,6 +216,18 @@
       "check_result": "PASS (134); check_links PASS (145页)",
       "spot_check": "自检3条：均L2/双源/因果3/svg齐，事实据REST摘要",
       "note": "网络恢复(REST API可用,api.php被限流)：补建3条待联网缺口(铁路狂热/1920-21衰退/FTX破产)升L2，解决大纲+读者问题缺口。层级L1 46/L2 59/L3 29，全部tier达标。"
+    },
+    {
+      "round": 22,
+      "date": "2026-11-22",
+      "new_entries": 1,
+      "upgraded": 0,
+      "reviewed": 1,
+      "fixed": 0,
+      "sources_total": 212,
+      "check_result": "PASS (135); check_links PASS (146页)",
+      "spot_check": "自检flash-crash:来源verified/related有效/结构合规",
+      "note": "严格七方法终检：方法1(来源库对照)发现闪崩(Flash Crash 2010)来源在库但无条目→新增(补充L1);另发现2020新冠股灾缺口(无来源,待联网)。证明未饱和。"
     }
   ]
 }

@@ -241,6 +241,18 @@
       "gaps_found": 3,
       "result": "gaps-addressed",
       "notes": "网络恢复：补建铁路狂热(1840s)/1920-21衰退/FTX破产3条(均L2)，解决原挂起的大纲(1920-21)+读者问题(铁路/加密崩盘)缺口。层级L1 46/L2 59/L3 29全达标。已知缺口已清。"
+    },
+    {
+      "round": 22,
+      "methods_used": [
+        "authoritative-source-crosscheck",
+        "reader-questions",
+        "coverage-matrix",
+        "dangling-refs"
+      ],
+      "gaps_found": 2,
+      "result": "gaps-found-not-saturated",
+      "notes": "严格终检：发现闪崩(2010)缺口(来源在库)→已新增;2020新冠股灾缺口(待联网)。仍有真实缺口→未饱和,zero_gap=0。网络仍不稳。"
     }
   ]
 }
