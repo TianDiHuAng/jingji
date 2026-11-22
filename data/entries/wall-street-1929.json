@@ -46,9 +46,10 @@
       "unit": "%（较崩盘前市值，至1932年7月）",
       "year": 1932,
       "comparable_price": false,
-      "note": "原文：stock market had lost some 90% of its pre-crash value by July 8 1932；单源待核实。",
+      "note": "原文：stock market had lost some 90% of its pre-crash value by July 8 1932；单源待核实。 【二源印证】英文维基《Great Depression in the United States》原文\"stock market lost almost 90% of its value\"，双源印证",
       "sources": [
-        "w-en-wall-street-crash-of-1929"
+        "w-en-wall-street-crash-of-1929",
+        "w-en-great-depression-in-us"
       ]
     },
     {
