@@ -1,7 +1,7 @@
 {
-  "saturated": false,
-  "zero_gap_streak": 0,
-  "maintenance_mode": false,
+  "saturated": true,
+  "zero_gap_streak": 3,
+  "maintenance_mode": true,
   "next_round_spot_check_ratio": 0.1,
   "spot_check_ratio_note": "维持10%（连续多轮无缺陷；子任务偶发超时改用自检）",
   "rounds": [
@@ -289,8 +289,15 @@
       "gaps_found": 0,
       "result": "quality-deepened-blocked",
       "notes": "维基网络出口不可用(DNS污染)。第六批6条案例化(含2核心L3)。唯一已知未决缺口2020崩盘因网络阻塞不硬凑(记BLOCKERS)。未饱和(外部阻塞)。"
+    },
+    {
+      "round": 25,
+      "saturation_check": "3轮无新缺口+core/imp全L2达标，2020按rule6跳过 → SATURATED=true(转维护模式)"
     }
   ],
   "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件",
-  "saturation_note": "除2020新冠股灾(网络出口阻塞,无法核对来源)外，所有权威大纲/读者问题/矩阵缺口均已覆盖；饱和受外部网络阻塞制约，非内容缺口"
+  "saturation_note": "除2020新冠股灾(网络出口阻塞,无法核对来源)外，所有权威大纲/读者问题/矩阵缺口均已覆盖；饱和受外部网络阻塞制约，非内容缺口",
+  "saturated_at_round": 25,
+  "saturation_basis": "连续3轮(23/24/25)七种方法均未发现新的权威依据缺口；核心26+全L3、重要59全L2已达目标层级；唯一已知未决项2020新冠股灾因维基网络出口不可用(DNS污染)连续4+次失败，已按AUTONOMOUS第六条正式跳过并记BLOCKERS。",
+  "maintenance_note": "进入维护模式：每轮仅做体检/复核待核实/更新过期数据/跟进近期动态；若出现新缺口立即退出饱和回到正常循环。网络恢复后可补建2020崩盘。"
 }
