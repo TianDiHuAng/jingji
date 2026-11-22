@@ -264,6 +264,19 @@
       "check_result": "PASS (135); check_links PASS (146页)",
       "spot_check": "自检事实一致(22.6%/167%/referendum)",
       "note": "维基网络出口诊断不可用(DNS污染+IP 301)。DEEPEN-SEMANTIC第六批：6条案例化(亚洲1997/黑色星期一2核心L3 + brexit/panic-1825/south-america-2002/ghana)。累计案例化33条。2020崩盘BLOCKER记录不硬凑。"
+    },
+    {
+      "round": 26,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 135,
+      "fixed": 0,
+      "sources_total": 212,
+      "check_result": "PASS (135); check_links 146页 0 error",
+      "spot_check": "维护模式全站QA：同名指标冲突0/空来源0/tier全达标/0非法来源/0缺页",
+      "mode": "maintenance",
+      "note": "维护模式轮次26：全站数据一致性审计+整体QA全通过；网络仍断,2020崩盘与近期动态无法补;未发现新缺口。"
     }
   ]
 }

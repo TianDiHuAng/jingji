@@ -293,6 +293,13 @@
     {
       "round": 25,
       "saturation_check": "3轮无新缺口+core/imp全L2达标，2020按rule6跳过 → SATURATED=true(转维护模式)"
+    },
+    {
+      "round": 26,
+      "mode": "maintenance",
+      "new_gaps": 0,
+      "result": "maintenance-qa-passed",
+      "notes": "维护模式：全站一致性审计(同名指标0冲突)+整体QA(146页0错误,tier全达标,0非法来源,0缺页)全通过。网络断,2020崩盘/近期动态无法补。无新缺口,维持saturated。"
     }
   ],
   "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件",
