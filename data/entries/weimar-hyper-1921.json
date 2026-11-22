@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "马克兑美元汇率(1922年中)",
+      "value": 320,
+      "unit": "马克/美元（1922年中，名义汇率）",
+      "year": 1922,
+      "comparable_price": false,
+      "note": "原文：320 marks per dollar in mid-1922；单源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-the-weimar-republic"
+      ]
+    },
+    {
+      "label": "马克兑美元汇率(1923年11月)",
+      "value": 4210500000000,
+      "unit": "马克/美元（1923年11月，名义汇率）",
+      "year": 1923,
+      "comparable_price": false,
+      "note": "原文：one US dollar was worth 4,210,500,000,000 marks (Nov 1923)；单源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-the-weimar-republic"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币主义视角",
@@ -100,7 +123,7 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5数值复核】补入单源数值，需第二来源核实。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

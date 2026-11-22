@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "股市市值跌幅(1929–1932)",
+      "value": 90,
+      "unit": "%（较崩盘前市值，至1932年7月）",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：stock market had lost some 90% of its pre-crash value by July 8 1932；单源待核实。",
+      "sources": [
+        "w-en-wall-street-crash-of-1929"
+      ]
+    },
+    {
+      "label": "黑色星期四成交量",
+      "value": 12.9,
+      "unit": "百万股（1929-10-24，纽约证交所）",
+      "year": 1929,
+      "comparable_price": false,
+      "note": "原文：record 12.9 million shares traded on Black Thursday；单源待核实。",
+      "sources": [
+        "w-en-wall-street-crash-of-1929"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "非理性泡沫视角",
@@ -92,7 +115,7 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5数值复核】补入单源数值，需第二来源核实。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
