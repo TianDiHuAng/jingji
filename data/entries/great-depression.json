@@ -54,7 +54,7 @@
       "unit": "%（美国，1930s，口径：失业人口/劳动力）",
       "year": 1933,
       "comparable_price": false,
-      "note": "原文：unemployment rate had risen to 25%；单一来源 w-en-great-depression，年份1933为通说峰值年（待核实精确年）。 【二源印证】中文维基《大萧条》原文\"美国失业率飙升到25%\"，双源印证",
+      "note": "原文：unemployment rate had risen to 25%；年份1933为通说峰值年（精确年待核实）。【双源印证：英文维基 w-en-great-depression + 中文维基《大萧条》原文\"美国失业率飙升到25%\"，双源印证中文维基 w-zh-002，两来源均为25%】",
       "sources": [
         "w-en-great-depression",
         "w-zh-002"
@@ -66,7 +66,7 @@
       "unit": "%（全球，1929–1932，口径：实际GDP累计变化）",
       "year": 1932,
       "comparable_price": true,
-      "note": "原文：Between 1929 and 1932, worldwide GDP fell by an estimated 15%；单源待核实。 【二源印证】中文维基《大萧条》原文\"全球GDP下跌了约15%\"，双源印证",
+      "note": "原文：Between 1929 and 1932, worldwide GDP fell by an estimated 15%。【双源印证：英文维基 w-en-great-depression + 中文维基 w-zh-002，两来源均为\"约15%\"】",
       "sources": [
         "w-en-great-depression",
         "w-zh-002"
@@ -129,9 +129,9 @@
     "panic-1910"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5数值复核】补入单源数值，需第二来源核实。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6二源复核】两条数值已双源印证；仍待核实：学者解释的具体适用与政策细节。",
   "l3_detail": {
-    "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
+    "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。本条目失业率25%与全球GDP降幅约15%已经双源印证（见关键数据）；其余数值仍待核实。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
     "framework_type": "银行"
   },
