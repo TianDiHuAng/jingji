@@ -71,6 +71,8 @@ svg .sub{fill:var(--muted);font-size:11px}
 svg .note{fill:var(--muted);font-size:11px}
 svg .box{fill:var(--box);stroke:var(--border);stroke-width:1.5}
 svg .ar{stroke:var(--accent);stroke-width:2;marker-end:url(#arrowhead)}
+svg .axis{stroke:var(--border);stroke-width:1.5}
+svg .dot{fill:var(--accent)}
 footer{border-top:1px solid var(--border);color:var(--muted);font-size:13px;padding:20px 0;text-align:center}
 '''
 
@@ -94,6 +96,15 @@ def page(title, body, depth=0):
 </body></html>'''
 
 def esc(s): return html.escape(str(s or ''))
+
+def fix_svg(svg):
+    """给含 marker-end 但缺 defs 的 SVG 注入箭头 marker 定义（保证双模式可读）。"""
+    if not svg or 'id="arrowhead"' in svg or ("class='ar'" not in svg and 'class="ar"' not in svg):
+        return svg
+    defs = ('<defs><marker id="arrowhead" markerWidth="8" markerHeight="8" '
+            'refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" '
+            'fill="var(--accent)"/></marker></defs>')
+    return svg.replace('<svg ', '<svg ', 1).replace('>', '>'+defs, 1)
 
 def entry_card(e):
     lv = e.get('level','L1')
@@ -187,7 +198,15 @@ def render_entry(e):
     if e.get('comparison'):
         sec('与其他案例的相似与不同', f'<p>{esc(e["comparison"])}</p>')
     if e.get('svg'):
-        sec('一图：机制示意', f'<figure>{e["svg"]}</figure>')
+        sec('一图：机制示意', f'<figure>{fix_svg(e["svg"])}</figure>')
+    # L3 深度：数据口径说明 + 复杂反馈回路图
+    l3 = e.get('l3_detail')
+    if l3:
+        detail = (f'<p>{esc(l3.get("data_caveat",""))}</p>'
+                  f'<p>{esc(l3.get("controversy_summary",""))}</p>')
+        sec('L3 深度说明：数据口径与争议', detail)
+    if e.get('deep_svg'):
+        sec('L3 深度图：机制与反馈回路', f'<figure>{fix_svg(e["deep_svg"])}</figure>')
     if e.get('pending_notes'):
         sec('待核实', f'<div class="note">{esc(e["pending_notes"])}</div>')
     srcs = e.get('sources',[])

@@ -49,4 +49,6 @@ svg .sub{fill:var(--muted);font-size:11px}
 svg .note{fill:var(--muted);font-size:11px}
 svg .box{fill:var(--box);stroke:var(--border);stroke-width:1.5}
 svg .ar{stroke:var(--accent);stroke-width:2;marker-end:url(#arrowhead)}
+svg .axis{stroke:var(--border);stroke-width:1.5}
+svg .dot{fill:var(--accent)}
 footer{border-top:1px solid var(--border);color:var(--muted);font-size:13px;padding:20px 0;text-align:center}

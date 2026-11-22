@@ -1,7 +1,7 @@
 {
   "id": "wall-street-1929",
   "title": "1929年华尔街崩盘",
-  "level": "L2",
+  "level": "L3",
   "tier": "核心",
   "unit": "U3 20世纪上半",
   "period": "20世纪上半",
@@ -56,6 +56,22 @@
       "sources": [
         "w-en-financial-crisis"
       ]
+    },
+    {
+      "holder": "Charles Kindleberger（Manias, Panics, and Crashes）",
+      "view": "投机泡沫经历「替代—繁荣—狂热—崩盘—恐慌」的阶段序列，信贷扩张是关键推手",
+      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
+      "sources": [
+        "bk-the-ascent-of-money"
+      ]
+    },
+    {
+      "holder": "John Kenneth Galbraith（The Great Crash 1929）",
+      "view": "强调「使人愉悦的错觉」与财富幻觉在泡沫顶端的心理作用",
+      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
+      "sources": [
+        "bk-the-great-crash-1929"
+      ]
     }
   ],
   "policy_response": [
@@ -76,5 +92,11 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "l3_detail": {
+    "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
+    "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
+    "framework_type": "泡沫"
+  },
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img' aria-label='机制与反馈回路深度图'><text x='20' y='26' class='ttl'>1929年华尔街崩盘：机制与反馈回路（类型：泡沫）</text><g><rect x='30' y='60' width='160' height='56' rx='7' class='box'/><text x='39' y='84' class='lbl'>冲击/触发</text><text x='39' y='103' class='sub'>外部或内生冲击</text></g><g><rect x='215' y='60' width='160' height='56' rx='7' class='box'/><text x='224' y='84' class='lbl'>放大机制</text><text x='224' y='103' class='sub'>信贷/预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='56' rx='7' class='box'/><text x='409' y='84' class='lbl'>临界转折</text><text x='409' y='103' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='56' rx='7' class='box'/><text x='594' y='84' class='lbl'>后果</text><text x='594' y='103' class='sub'>违约/贬值/收缩</text></g><line x1='190' y1='88' x2='215' y2='88' class='ar'/><line x1='375' y1='88' x2='400' y2='88' class='ar'/><line x1='560' y1='88' x2='585' y2='88' class='ar'/><path d='M665 116 L665 175 L295 175 L295 116' fill='none' class='ar' stroke-dasharray='5,4'/><text x='400' y='168' class='sub'>反馈：后果反过来强化放大机制</text><line x1='30' y1='215' x2='745' y2='215' class='axis'/><circle cx='40' cy='215' r='4' class='dot'/><text x='24' y='240' class='sub'>1929年</text><text x='20' y='275' class='note'>学者解释见本页「各方解释」；箭头为机制方向，虚线为反馈回路。图示为分析框架，非精确数据图。</text></svg>"
 }

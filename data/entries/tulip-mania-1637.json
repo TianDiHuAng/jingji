@@ -1,7 +1,7 @@
 {
   "id": "tulip-mania-1637",
   "title": "郁金香狂热(1637)",
-  "level": "L2",
+  "level": "L3",
   "tier": "核心",
   "unit": "U1 早期—17世纪",
   "period": "前17世纪",
@@ -10,20 +10,71 @@
   "one_line": "17世纪30年代荷兰期货市场对郁金香球茎的投机狂热，1637年2月价格崩塌，常被视为有记录最早的金融泡沫之一。",
   "overview": "郁金香狂热发生在荷兰黄金时代的共和国时期。郁金香球茎经由期货合约被反复转手，价格在上涨期急剧攀升，1637年2月初崩盘。关于其规模、社会参与度与对实体经济的冲击，学界存在显著分歧，部分学者认为其影响被后来的通俗叙述夸大。",
   "timeline": [
-    {"year": 1593, "display": "1593年", "event": "郁金香经克劳修斯引入荷兰（据 Wikipedia 郁金香狂热条目；引入年份存在1590s区间的说法，待核实具体年份）", "sources": ["w-en-tulip-mania"]},
-    {"year": 1634, "display": "1634年", "event": "投机风气兴起，球茎期货合约开始在酒馆等场所交易", "sources": ["w-en-tulip-mania", "w-zh-015"]},
-    {"year": 1636, "display": "1636年", "event": "价格加速上涨，稀有品种合约价格达到高点区间", "sources": ["w-en-tulip-mania"]},
-    {"year": 1637, "display": "1637年2月", "event": "价格急跌，市场信心崩溃，许多合约无法履约", "sources": ["w-en-tulip-mania", "w-zh-015"]}
+    {
+      "year": 1593,
+      "display": "1593年",
+      "event": "郁金香经克劳修斯引入荷兰（据 Wikipedia 郁金香狂热条目；引入年份存在1590s区间的说法，待核实具体年份）",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "year": 1634,
+      "display": "1634年",
+      "event": "投机风气兴起，球茎期货合约开始在酒馆等场所交易",
+      "sources": [
+        "w-en-tulip-mania",
+        "w-zh-015"
+      ]
+    },
+    {
+      "year": 1636,
+      "display": "1636年",
+      "event": "价格加速上涨，稀有品种合约价格达到高点区间",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "year": 1637,
+      "display": "1637年2月",
+      "event": "价格急跌，市场信心崩溃，许多合约无法履约",
+      "sources": [
+        "w-en-tulip-mania",
+        "w-zh-015"
+      ]
+    }
   ],
   "background": [
     "荷兰共和国17世纪上半叶商业与金融发达，拥有较成熟的期货与期权交易习惯（据 Wikipedia Tulip mania；相关制度背景另见 Wikipedia Economic history）。",
     "郁金香作为新奇观赏植物，稀有品种的价格原本就高，具备被投机的条件。"
   ],
   "causal_chain": [
-    {"step": "稀缺性与审美偏好 → 稀有球茎具备高溢价基础", "sources": ["w-en-tulip-mania"]},
-    {"step": "期货合约（未交割的买卖承诺）→ 投机者无需持有球茎即可反复转手", "sources": ["w-en-tulip-mania", "w-zh-015"]},
-    {"step": "价格持续上涨 → 更多参与者入场、杠杆与信贷介入（参与度规模有争议）", "sources": ["w-en-tulip-mania"]},
-    {"step": "1637年2月买盘枯竭 → 价格急跌、合约违约、连锁抛售", "sources": ["w-en-tulip-mania"]}
+    {
+      "step": "稀缺性与审美偏好 → 稀有球茎具备高溢价基础",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "step": "期货合约（未交割的买卖承诺）→ 投机者无需持有球茎即可反复转手",
+      "sources": [
+        "w-en-tulip-mania",
+        "w-zh-015"
+      ]
+    },
+    {
+      "step": "价格持续上涨 → 更多参与者入场、杠杆与信贷介入（参与度规模有争议）",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "step": "1637年2月买盘枯竭 → 价格急跌、合约违约、连锁抛售",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    }
   ],
   "key_data": [
     {
@@ -33,20 +84,75 @@
       "year": 1637,
       "comparable_price": false,
       "note": "史料对具体价格数值与口径存在争议；本条不罗列未经核实的具体数字，仅示意上涨方向。",
-      "sources": ["w-en-tulip-mania", "bk-the-ascent-of-money"]
+      "sources": [
+        "w-en-tulip-mania",
+        "bk-the-ascent-of-money"
+      ]
     }
   ],
   "schools": [
-    {"holder": "传统通俗叙述", "view": "将郁金香狂热视为群体非理性与投机泡沫的典型案例", "basis": "1637年价格急跌与后世流传的高价故事", "sources": ["w-en-tulip-mania"]},
-    {"holder": "部分现代经济史学者（如 Peter Garber 一派的修正观点）", "view": "认为价格相对当时收入水平并未失去理性基础，且对实体经济影响有限，狂热程度被夸大", "basis": "对价格序列与实际成交的重新考察（学者归属与具体论点待核实原文）", "sources": ["bk-the-ascent-of-money"]}
+    {
+      "holder": "传统通俗叙述",
+      "view": "将郁金香狂热视为群体非理性与投机泡沫的典型案例",
+      "basis": "1637年价格急跌与后世流传的高价故事",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "holder": "部分现代经济史学者（如 Peter Garber 一派的修正观点）",
+      "view": "认为价格相对当时收入水平并未失去理性基础，且对实体经济影响有限，狂热程度被夸大",
+      "basis": "对价格序列与实际成交的重新考察（学者归属与具体论点待核实原文）",
+      "sources": [
+        "bk-the-ascent-of-money"
+      ]
+    },
+    {
+      "holder": "Charles Kindleberger（Manias, Panics, and Crashes）",
+      "view": "投机泡沫经历「替代—繁荣—狂热—崩盘—恐慌」的阶段序列，信贷扩张是关键推手",
+      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
+      "sources": [
+        "bk-the-ascent-of-money"
+      ]
+    },
+    {
+      "holder": "John Kenneth Galbraith（The Great Crash 1929）",
+      "view": "强调「使人愉悦的错觉」与财富幻觉在泡沫顶端的心理作用",
+      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
+      "sources": [
+        "bk-the-great-crash-1929"
+      ]
+    }
   ],
   "policy_response": [
-    {"holder": "荷兰当局", "view": "崩盘后未出现大规模系统性救助；有讨论涉及合约履行的法律处理", "basis": "事件局限于特定商品期货市场（具体政策措施待核实）", "sources": ["w-en-tulip-mania"]}
+    {
+      "holder": "荷兰当局",
+      "view": "崩盘后未出现大规模系统性救助；有讨论涉及合约履行的法律处理",
+      "basis": "事件局限于特定商品期货市场（具体政策措施待核实）",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    }
   ],
   "comparison": "与南海泡沫、密西西比泡沫同属17—18世纪的投机泡沫，但郁金香市场规模与宏观影响普遍被认为小于后两者；与1929年股灾相比，其金融体系联动性弱得多。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 260' role='img' aria-label='郁金香狂热因果链'><text x='20' y='30' class='ttl'>郁金香狂热：投机因果链（示意，非数据图）</text><g><rect x='20' y='60' width='200' height='46' rx='6' class='box'/><text x='30' y='82' class='lbl'>稀缺性 + 审美溢价</text><text x='30' y='98' class='sub'>稀有球茎高价基础</text></g><line x1='220' y1='83' x2='270' y2='83' class='ar'/><g><rect x='270' y='60' width='210' height='46' rx='6' class='box'/><text x='280' y='82' class='lbl'>期货合约反复转手</text><text x='280' y='98' class='sub'>无需交割即可投机</text></g><line x1='480' y1='83' x2='530' y2='83' class='ar'/><g><rect x='530' y='60' width='210' height='46' rx='6' class='box'/><text x='540' y='82' class='lbl'>价格上涨→更多入场</text><text x='540' y='98' class='sub'>信贷参与度有争议</text></g><line x1='635' y1='106' x2='635' y2='150' class='ar'/><g><rect x='430' y='150' width='300' height='46' rx='6' class='box'/><text x='440' y='172' class='lbl'>1637年2月买盘枯竭→价格崩塌</text><text x='440' y='188' class='sub'>合约违约、连锁抛售</text></g><text x='20' y='235' class='note'>来源：w-en-tulip-mania、w-zh-015、bk-the-ascent-of-money；箭头表示机制传导方向</text></svg>",
-  "sources": ["w-en-tulip-mania", "w-zh-015", "bk-the-ascent-of-money", "w-en-speculative-bubble"],
-  "related": ["south-sea-bubble-1720", "mississippi-bubble-1720", "japan-asset-bubble-1990"],
+  "sources": [
+    "w-en-tulip-mania",
+    "w-zh-015",
+    "bk-the-ascent-of-money",
+    "w-en-speculative-bubble"
+  ],
+  "related": [
+    "south-sea-bubble-1720",
+    "mississippi-bubble-1720",
+    "japan-asset-bubble-1990"
+  ],
   "needs_verification": true,
-  "pending_notes": "具体价格数值与统计口径、引入年份的精确值、Peter Garber 修正观点的原文出处与学者归属待核实；不罗列未经双源核实的具体数字。"
+  "pending_notes": "具体价格数值与统计口径、引入年份的精确值、Peter Garber 修正观点的原文出处与学者归属待核实；不罗列未经双源核实的具体数字。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "l3_detail": {
+    "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
+    "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
+    "framework_type": "泡沫"
+  },
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img' aria-label='机制与反馈回路深度图'><text x='20' y='26' class='ttl'>郁金香狂热(1637)：机制与反馈回路（类型：泡沫）</text><g><rect x='30' y='60' width='160' height='56' rx='7' class='box'/><text x='39' y='84' class='lbl'>冲击/触发</text><text x='39' y='103' class='sub'>外部或内生冲击</text></g><g><rect x='215' y='60' width='160' height='56' rx='7' class='box'/><text x='224' y='84' class='lbl'>放大机制</text><text x='224' y='103' class='sub'>信贷/预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='56' rx='7' class='box'/><text x='409' y='84' class='lbl'>临界转折</text><text x='409' y='103' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='56' rx='7' class='box'/><text x='594' y='84' class='lbl'>后果</text><text x='594' y='103' class='sub'>违约/贬值/收缩</text></g><line x1='190' y1='88' x2='215' y2='88' class='ar'/><line x1='375' y1='88' x2='400' y2='88' class='ar'/><line x1='560' y1='88' x2='585' y2='88' class='ar'/><path d='M665 116 L665 175 L295 175 L295 116' fill='none' class='ar' stroke-dasharray='5,4'/><text x='400' y='168' class='sub'>反馈：后果反过来强化放大机制</text><line x1='30' y1='215' x2='745' y2='215' class='axis'/><circle cx='40' cy='215' r='4' class='dot'/><text x='24' y='240' class='sub'>1593年</text><circle cx='215' cy='215' r='4' class='dot'/><text x='199' y='240' class='sub'>1634年</text><circle cx='390' cy='215' r='4' class='dot'/><text x='374' y='240' class='sub'>1636年</text><circle cx='565' cy='215' r='4' class='dot'/><text x='549' y='240' class='sub'>1637年2月</text><text x='20' y='275' class='note'>学者解释见本页「各方解释」；箭头为机制方向，虚线为反馈回路。图示为分析框架，非精确数据图。</text></svg>"
 }
