@@ -11,11 +11,35 @@
   "overview": "昭和金融恐慌(1927) 是一次发生于20世纪上半、地区为亚洲的银行类事件。以下结构为基于类型学框架的整理，关键事实的具体数值、年份与人物均已标注待核实，待逐条核对来源后补全。",
   "timeline": [
     {
+      "year": 1923,
+      "display": "1923年",
+      "event": "关东大地震加剧日本经济萧条，企业倒闭增多（据 Wikipedia Shōwa financial crisis）",
+      "sources": [
+        "w-en-sh-wa-financial-crisis"
+      ]
+    },
+    {
       "year": 1927,
       "display": "1927年",
       "event": "昭和金融恐慌(1927) 发生/起始（年份据条目标题；具体月份与事件待核实）",
       "sources": [
         "w-en-bank-run"
+      ]
+    },
+    {
+      "year": 1927,
+      "display": "1927年1月",
+      "event": "政府提议兑付\"地震债券\"引发银行破产谣言（同上）",
+      "sources": [
+        "w-en-sh-wa-financial-crisis"
+      ]
+    },
+    {
+      "year": 1927,
+      "display": "1927年（后续）",
+      "event": "田中义一首相以三周银行假期与紧急贷款控制局面（同上）",
+      "sources": [
+        "w-en-sh-wa-financial-crisis"
       ]
     }
   ],
@@ -80,5 +104,5 @@
     "panic-1907"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-sh-wa-financial-crisis替换兜底，待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-sh-wa-financial-crisis替换兜底，待核实。 【轮次11深化】补入来源核实的timeline与数值，单源待核实。"
 }

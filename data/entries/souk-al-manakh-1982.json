@@ -1,7 +1,7 @@
 {
   "id": "souk-al-manakh-1982",
   "title": "苏克阿尔马纳克股市崩盘(1982)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,13 +9,75 @@
   "crisis_type": "泡沫",
   "one_line": "苏克阿尔马纳克股市崩盘(1982)：发生于20世纪下半、地区为中东的泡沫类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=中东、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1977,
+      "display": "1970年代中期—1977年",
+      "event": "官方股市投机热潮，1977年以崩盘告终（据 Wikipedia Souk Al-Manakh crash）",
+      "sources": [
+        "w-en-souk-al-manakh-stock-market-crash"
+      ]
+    },
+    {
+      "year": 1982,
+      "display": "1982年8月",
+      "event": "非官方股市(Souk Al-Manakh)崩盘：一张远期支票被拒付引发（同上）",
+      "sources": [
+        "w-en-souk-al-manakh-stock-market-crash"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "稀缺性/新叙事+信贷可得 → 价格上涨",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "价格上涨自我强化 → 脱离基本面",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "信心逆转/流动性枯竭 → 抛售崩塌",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "非理性泡沫视角",
+      "view": "群体投机导致价格远离基本面",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "holder": "有效市场视角",
+      "view": "认为价格可由基本面解释",
+      "basis": "类型学框架归纳；待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "comparison": "与同为「泡沫」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏克阿尔马纳克股市崩盘(1982)：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
     "w-en-souk-al-manakh-stock-market-crash",
@@ -27,5 +89,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。"
 }

@@ -17,6 +17,38 @@
       "sources": [
         "w-en-speculative-bubble"
       ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年2月27日",
+      "event": "上证综指单日暴跌9%，为10年来最大跌幅；传言政府将加息并打击借贷投机（据 Wikipedia Chinese stock bubble of 2007）",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年2月27日（全球传导）",
+      "event": "道琼斯工业指数下跌416.02点（3.29%），为2001年九一一以来最大单日跌幅；标普500跌3.47%（同上）",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年10月",
+      "event": "上证综指升至6092点峰值（同上）",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年11月—2008年11月",
+      "event": "股市自峰值大幅下跌（同上）",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
     }
   ],
   "causal_chain": [
@@ -39,7 +71,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "上证综指单日跌幅(2007-02-27)",
+      "value": 9,
+      "unit": "%（上证综指，单日）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：the SSE Composite Index ... tumbled 9%, the largest drop in 10 years；单一来源待核实。",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    },
+    {
+      "label": "上证综指峰值(2007-10)",
+      "value": 6092,
+      "unit": "点（上证综指，2007年10月峰值）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：Shanghai Composite then raised to peak 6,092 in October 2007；单一来源待核实。",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "非理性泡沫视角",
@@ -81,5 +136,5 @@
     "dotcom-bubble-2000"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-stock-bubble-of-2007。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-stock-bubble-of-2007。 【轮次11深化】补入来源核实的timeline与数值，单源待核实。"
 }
