@@ -289,6 +289,18 @@
       "check_result": "PASS (135); check_links 146页 0 error",
       "spot_check": "自检事实(De Neufville/8%GNP/13个月/-30%/150%贬值)一致",
       "note": "网络仍劫持不可用。续作：amsterdam-crisis-1763、finnish-banking-1990 升L2；recession-1937-1938、rodrigazo-1975 案例化(据本地语料)。层级更新 L1 45/L2 61/L3 29。"
+    },
+    {
+      "round": "续作B/C",
+      "date": "2026-11-22",
+      "new_entries": 24,
+      "upgraded": 0,
+      "reviewed": 24,
+      "fixed": 0,
+      "sources_total": 213,
+      "check_result": "PASS (159); check_links 161页 0 error",
+      "spot_check": "自检6条新概念:来源verified/L2/因果3/学派2/图齐",
+      "note": "按用户要求补经济学与金融知识：新增24条概念条目(经济学:通胀/失业/货币政策/财政政策/QE/QT/真实经济周期/凯恩斯主义/创造性破坏/央行独立性/恶性通胀/货币危机/美联储; 金融:MBS/CDO/CDS/次级贷款/主权违约/信贷紧缩/银行倒闭/系统性风险/投机泡沫/债务危机/IPO)。均L2重要级，据库内verified来源(含凯恩斯/熊彼特著作)，不编造数字。"
     }
   ]
 }
