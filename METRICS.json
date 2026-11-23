@@ -347,6 +347,18 @@
       "sources_total": 226,
       "check_result": "PASS (165); check_links 176页 0 error",
       "note": "**L1清零**：经Wikipedia搜索API定位正确页名后，最后4条L1全部升L2(blue-monday-2009→Blue Monday Crash 2009含RBS亏损/银行股单日跌超67%;dutch-collapse-1780+dutch-stock-crashes→Financial history of the Dutch Republic;syrian-crisis-2011→Economy of Syria+Caesar Act 2020-06-17生效/2025-12-18废除)。当前 L1 0/L2 136/L3 29。"
+    },
+    {
+      "round": "续作M-O",
+      "date": "2026-11-23",
+      "new_entries": 47,
+      "upgraded": 4,
+      "reviewed": 51,
+      "fixed": 3,
+      "sources_total": 274,
+      "check_result": "PASS (212); check_links 223页 0 error",
+      "spot_check": "总QA：tier达标0缺/0非法来源/0缺页/0指标冲突",
+      "note": "大幅扩充经济学与金融知识：新增47条概念(M:15影子银行/通缩/国际收支/汇率制度/杠杆/收益率曲线/对冲基金/衍生品/证券化/GDP/流动性/金融加速器/信用评级/货币供应/利率; N:18流动性陷阱/滞胀/菲利普斯曲线/通胀目标制/泰勒规则/信息不对称/逆向选择/委托代理/期限转换/回购/资本管制/美元化/货币局/债务重组/财政乘数/挤出/特里芬/产出缺口; O:14巴塞尔/宏观审慎/准备金/突然停止/荷兰病/资源诅咒/中等收入陷阱/大缓和/外汇储备/主权基金/资本外逃/金融抑制/银行监管/工资-价格螺旋)。层级 L1 0/L2 183/L3 29。"
     }
   ]
 }
