@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 215,
+  "count": 218,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2581,6 +2581,42 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话成功抓取)；摘要:\"The COVID-19 recession was a global economic recession cause\""
+    },
+    {
+      "id": "w-en-british-credit-1772",
+      "title": "British credit crisis of 1772–1773",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/British_credit_crisis_of_1772%E2%80%931773",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-greek-hyper-1941",
+      "title": "Greek hyperinflation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Greek_hyperinflation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-israel-bank-1983",
+      "title": "1983 Israel bank stock crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1983_Israel_bank_stock_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
     }
   ]
 }

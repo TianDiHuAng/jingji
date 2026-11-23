@@ -1,7 +1,7 @@
 {
   "id": "greek-hyper-1941",
   "title": "希腊恶性通胀(1941–1946)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U3 20世纪上半",
   "period": "20世纪上半",
@@ -9,13 +9,67 @@
   "crisis_type": "恶性通胀",
   "one_line": "希腊恶性通胀(1941–1946)：发生于20世纪上半、地区为欧洲的恶性通胀类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪上半、地区=欧洲、危机类型=恶性通胀。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1941,
+      "display": "1941—1946年",
+      "event": "希腊在二战及轴心国占领期间发生恶性通胀（据 Wikipedia Greek hyperinflation）",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "占领与战争 → 政府无税收能力、只能印钞融资",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    },
+    {
+      "step": "货币超发 → 物价飞涨、货币职能受损",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    },
+    {
+      "step": "恶性通胀（时长认定存在分歧）",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "Palairet视角",
+      "view": "长达50个月的\"超长\"恶性通胀，因政府不征税而任意印钞",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    },
+    {
+      "holder": "其他学者视角",
+      "view": "认为恶性通胀主要限于1943-44年，时长较短",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-greek-hyper-1941"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "comparison": "与魏玛、匈牙利恶性通胀同属20世纪恶性通胀案例；时长认定有分歧。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>希腊恶性通胀(1941–1946)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>希腊在二战及轴心国占领期</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-hyperinflation",
     "w-en-financial-crisis"
@@ -26,5 +80,5 @@
     "soviet-hyper-1917"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。"
 }

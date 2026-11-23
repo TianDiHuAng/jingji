@@ -1,7 +1,7 @@
 {
   "id": "israel-bank-1983",
   "title": "以色列银行股灾(1983)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,13 +9,75 @@
   "crisis_type": "泡沫",
   "one_line": "以色列银行股灾(1983)：发生于20世纪下半、地区为中东的泡沫类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=中东、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1983,
+      "display": "1983年",
+      "event": "以色列四大银行股票暴跌（据 Wikipedia 1983 Israel bank stock crisis）",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    },
+    {
+      "year": 1983,
+      "display": "1983年10月6日起",
+      "event": "特拉维夫证交所关闭18天；实施复苏计划并将银行国有化（同上）",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "银行为支撑自家股价持续回购 → 制造虚假需求、人为托价",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    },
+    {
+      "step": "1983年10月银行资本耗尽、无法继续回购 → 股价暴跌",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    },
+    {
+      "step": "证交所关闭18天、银行国有化",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "市场操纵/托价视角",
+      "view": "银行回购自家股票人为支撑股价",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    },
+    {
+      "holder": "监管/治理视角",
+      "view": "暴露市场监管与公司治理缺陷",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-israel-bank-1983"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "comparison": "与日本泡沫期银行持股等案例相关；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>以色列银行股灾(1983)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以色列四大银行股票暴跌（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
     "w-en-financial-crisis"
@@ -26,5 +88,5 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。"
 }

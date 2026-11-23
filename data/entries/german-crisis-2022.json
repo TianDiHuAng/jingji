@@ -1,7 +1,7 @@
 {
   "id": "german-crisis-2022",
   "title": "德国经济危机(2022–)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,106 @@
   "crisis_type": "其他",
   "one_line": "德国经济危机(2022–)：发生于21世纪、地区为欧洲的其他类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=欧洲、危机类型=其他。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "2022年起",
+      "event": "德国经济下行，逆转了2005-2019\"劳动力市场奇迹\"期（据 Wikipedia German economic crisis）",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "德国成为全球表现最差的主要经济体，萎缩0.9%（同上）",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年",
+      "event": "再萎缩0.5%，陷入衰退；2025年小幅回升（同上）",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "能源等结构性冲击 + 出口与工业承压 → 经济下行",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "step": "2023年萎缩0.9%、2024年再萎缩0.5% → 衰退",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "step": "专家担忧德国重获\"欧洲病夫\"之称；2025年小幅回升",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "2023年GDP增速",
+      "value": -0.9,
+      "unit": "%(德国,2023,萎缩)",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：worst-performing major economy globally in 2023 with a 0.9% contraction；单一来源待核实。",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "label": "2024年GDP增速",
+      "value": -0.5,
+      "unit": "%(德国,2024,萎缩)",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：further 0.5% contraction in 2024 leading to recession；单一来源待核实。",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "结构性/能源视角",
+      "view": "能源成本与产业结构转型拖累德国模式",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    },
+    {
+      "holder": "周期/外部需求视角",
+      "view": "全球需求与出口下滑影响制造业",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    }
+  ],
+  "comparison": "与欧债危机(2010-12)不同，本轮为结构性/能源冲击下的德国经济困境。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>德国经济危机(2022–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>德国经济下行，逆转了20</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-economic-history",
     "w-en-german-economic-crisis-2022-present",
@@ -27,5 +120,5 @@
     "oil-crisis-1979"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-german-economic-crisis-2022-present。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-german-economic-crisis-2022-present。 【续作F】升L2(据REST摘要)。"
 }

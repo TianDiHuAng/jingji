@@ -1,7 +1,7 @@
 {
   "id": "copper-panic-1789",
   "title": "铜恐慌(1789)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "货币",
   "one_line": "铜恐慌(1789)：发生于18—19世纪、地区为北美的货币类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=北美、危机类型=货币。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1789,
+      "display": "1789年",
+      "event": "美国早期货币危机：铜币贬值与信心丧失（据 Wikipedia Copper Panic of 1789）",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    },
+    {
+      "year": 1789,
+      "display": "独立战争后",
+      "event": "各州自行铸币；伪造盛行迫使铸币者降低成色（同上）",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "独立战争后各州自行铸造铜币 → 铜币易伪造",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    },
+    {
+      "step": "伪造泛滥 → 铸币者降低成色以维持经营",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    },
+    {
+      "step": "铜币贬值、信心丧失 → 货币危机；财政部尚未建立加剧困境",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "货币成色/信心视角",
+      "view": "成色下降与伪造破坏货币信用",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    },
+    {
+      "holder": "制度缺失视角",
+      "view": "财政部尚未设立、旧币贬值加剧问题",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-copper-panic-of-1789"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "comparison": "美国建国初期货币危机；与大陆币贬值同属早期货币问题。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>铜恐慌(1789)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美国早期货币危机：铜币贬</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-currency-crisis",
     "w-en-financial-crisis"
@@ -26,5 +88,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。"
 }
