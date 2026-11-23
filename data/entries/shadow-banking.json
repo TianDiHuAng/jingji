@@ -1,0 +1,74 @@
+{
+  "id": "shadow-banking",
+  "title": "影子银行体系",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "银行",
+  "one_line": "在常规银行监管之外、提供类似银行服务的非银行金融中介集合。",
+  "overview": "影子银行体系指在法律上提供类似传统商业银行服务、但处于常规银行监管之外的非银行金融中介（NBFI）组成的集合。据标普全球估算，2022年底主要司法辖区的影子银行持有约63万亿美元金融资产，相当于全球GDP的78%；2009年分别为28万亿美元和68%。该规模数据为单一来源，待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "非银行中介提供类银行服务（期限/流动性转换）→ 满足融资需求",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
+    },
+    {
+      "step": "处于常规银行监管之外 → 杠杆与期限错配可能累积",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
+    },
+    {
+      "step": "压力下流动性链条断裂 → 放大金融体系脆弱性",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "影子银行资产规模(2022年底)",
+      "value": 63,
+      "unit": "万亿美元（主要辖区，S&P Global估算）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：shadow banking held about $63 trillion in financial assets ... representing 78% of global GDP；单一来源待核实。",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "金融创新/补位视角",
+      "view": "影子银行填补银行融资空白、提升资金配置效率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
+    },
+    {
+      "holder": "监管套利/系统性风险视角",
+      "view": "监管之外的中介可能累积未被监测的杠杆与错配",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>影子银行体系：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>非银行中介提供类银行服务</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>处于常规银行监管之外 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压力下流动性链条断裂 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-shadow-banking",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

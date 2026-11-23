@@ -1,0 +1,62 @@
+{
+  "id": "securitization",
+  "title": "证券化",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "将合同债务义务汇集、并把其现金流出售给投资者的金融实践。",
+  "overview": "证券化是汇集合同债务义务并将其相关现金流出售给投资者的金融实践，所售工具称为证券，包括债券、过手证券与债务抵押债券（CDO）。投资者从底层债务的本息现金流按新融资的资本结构获得偿付：以抵押贷款应收款支撑的称 MBS，以其他应收款支撑的称 ABS。具体结构待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "汇集多笔债务（贷款/应收款）→ 形成资产池",
+      "sources": [
+        "w-en-securitization"
+      ]
+    },
+    {
+      "step": "按资本结构发行证券、以底层现金流偿付投资者",
+      "sources": [
+        "w-en-securitization"
+      ]
+    },
+    {
+      "step": "底层违约上升 → 证券分层受损、风险传导至投资者",
+      "sources": [
+        "w-en-subprime-mortgage-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "融资/分散视角",
+      "view": "证券化拓宽融资来源、分散风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-securitization"
+      ]
+    },
+    {
+      "holder": "复杂性/信息不对称视角",
+      "view": "层层结构与评级依赖放大系统性风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>证券化：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>汇集多笔债务（贷款/应收</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>按资本结构发行证券、以底</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>底层违约上升 → 证券分</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-securitization",
+    "w-en-subprime-mortgage-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

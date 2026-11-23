@@ -1,0 +1,62 @@
+{
+  "id": "liquidity",
+  "title": "市场流动性",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "市场使个体或机构能迅速买卖资产而不引起价格剧烈变化的特性。",
+  "overview": "市场流动性指市场的一种特性：个体或企业能够迅速买入或卖出资产而不致资产价格发生剧烈变化。流动性涉及\"能卖出什么价格\"与\"多快能卖出\"之间的权衡：流动性好的市场权衡温和，流动性差的市场须折价才能快速出售。现金被视为最具流动性的资产。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "买卖双方深度充足 → 大额交易对价格冲击小",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    },
+    {
+      "step": "流动性不足 → 快速出售须接受折价",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    },
+    {
+      "step": "压力下流动性骤降 → 抛售与价格螺旋",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "市场微观结构视角",
+      "view": "流动性与市场深度、买卖价差相关",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    },
+    {
+      "holder": "流动性危机视角",
+      "view": "流动性可在压力下瞬间枯竭并放大冲击",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>市场流动性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>买卖双方深度充足 → 大</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>流动性不足 → 快速出售</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压力下流动性骤降 → 抛</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-liquidity",
+    "w-en-credit-crunch"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

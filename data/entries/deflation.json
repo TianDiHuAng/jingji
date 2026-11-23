@@ -1,0 +1,62 @@
+{
+  "id": "deflation",
+  "title": "通货紧缩",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一般价格水平持续下降、货币单位实际价值上升的现象。",
+  "overview": "通货紧缩指货币记账单位的实际价值上升，表现为商品与服务一般价格水平下降，可通过广义价格指数衡量。与通胀相反，通缩可能加重实际债务负担并抑制需求。具体度量与影响待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "总需求不足或供给过剩 → 一般价格水平下降",
+      "sources": [
+        "w-en-deflation"
+      ]
+    },
+    {
+      "step": "实际债务负担上升、消费推迟 → 需求进一步走弱",
+      "sources": [
+        "w-en-deflation"
+      ]
+    },
+    {
+      "step": "通缩预期自我强化 → 经济下行加深",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币视角",
+      "view": "货币供给收缩可导致通缩",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-money-supply"
+      ]
+    },
+    {
+      "holder": "债务-通缩视角",
+      "view": "通缩抬高实际债务负担，加剧萧条",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>通货紧缩：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>总需求不足或供给过剩 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际债务负担上升、消费推</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>通缩预期自我强化 → 经</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-deflation",
+    "w-en-money-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

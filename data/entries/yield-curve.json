@@ -1,0 +1,62 @@
+{
+  "id": "yield-curve",
+  "title": "收益率曲线",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "一组可比债务证券的收益率与其到期期限之间的关系。",
+  "overview": "收益率曲线展示一组可比债务证券的收益率与到期期限的关系。实践中通常基于单一发行人或同一市场板块构建，以使信用质量等特征尽量接近，例如美国政府债券（国债）曲线。曲线形态被用于观察市场对利率与增长的预期。具体解读待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "不同期限债券的收益率 → 连成曲线",
+      "sources": [
+        "w-en-yield-curve"
+      ]
+    },
+    {
+      "step": "曲线形态（陡峭/平坦/倒挂）反映期限溢价与预期",
+      "sources": [
+        "w-en-yield-curve"
+      ]
+    },
+    {
+      "step": "形态变化被视为经济与政策预期的信号（解读存在争议）",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "预期理论视角",
+      "view": "长端收益率反映市场对未来短期利率的预期",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-yield-curve"
+      ]
+    },
+    {
+      "holder": "期限溢价视角",
+      "view": "风险与流动性偏好影响曲线形态",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>收益率曲线：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>不同期限债券的收益率 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>曲线形态（陡峭/平坦/倒</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形态变化被视为经济与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-yield-curve",
+    "w-en-interest-rate"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

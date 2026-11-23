@@ -1,0 +1,62 @@
+{
+  "id": "leverage",
+  "title": "杠杆（金融）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "通过借入资金进行投资的技术，又称 gearing。",
+  "overview": "杠杆（又称 gearing）指任何涉及借入资金以购买投资的技巧。杠杆放大收益的同时也放大损失，是金融危机中放大脆弱性与传染的重要机制。具体度量与监管口径待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "借入资金投资 → 自有资本撬动更大头寸",
+      "sources": [
+        "w-en-leverage"
+      ]
+    },
+    {
+      "step": "资产价格上涨时收益放大 → 吸引更多借贷",
+      "sources": [
+        "w-en-leverage"
+      ]
+    },
+    {
+      "step": "价格下跌时损失放大 → 强制去杠杆与抛售",
+      "sources": [
+        "w-en-financial-accelerator"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "杠杆收益视角",
+      "view": "杠杆提升资本回报与投资能力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-leverage"
+      ]
+    },
+    {
+      "holder": "脆弱性视角",
+      "view": "高杠杆在冲击下引发强制平仓与连锁抛售",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-accelerator"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>杠杆（金融）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借入资金投资 → 自有资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资产价格上涨时收益放大 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>价格下跌时损失放大 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-leverage",
+    "w-en-financial-accelerator"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

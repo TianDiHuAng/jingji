@@ -1,0 +1,62 @@
+{
+  "id": "gdp",
+  "title": "国内生产总值(GDP)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一定时期内一国（或多国）生产与提供的全部最终商品与服务的市场价值货币度量。",
+  "overview": "国内生产总值(GDP)是一定时期内一国或多国生产与提供的全部最终商品与服务的总市场价值的货币度量，常用于衡量一国或地区的经济活动。主要构成为消费、政府支出、净出口与投资。GDP 并非整体生活水平或福祉的度量，因为它不考虑收入分配；除以人口得到人均GDP的粗略指标；OECD、IMF等机构各有定义。具体口径待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "消费、政府支出、净出口与投资变动 → GDP 规模变化",
+      "sources": [
+        "w-en-gdp"
+      ]
+    },
+    {
+      "step": "任一构成项变化可扩大或收缩经济体规模",
+      "sources": [
+        "w-en-gdp"
+      ]
+    },
+    {
+      "step": "GDP 增长不等同于生活水平或就业改善（可能\"无就业增长\"）",
+      "sources": [
+        "w-en-gdp"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "总量核算视角",
+      "view": "GDP 是衡量经济活动的标准化总量指标",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gdp"
+      ]
+    },
+    {
+      "holder": "福利/分配批判视角",
+      "view": "GDP 不计收入分配与福祉，不能代表生活水平",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gdp"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国内生产总值(GDP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>消费、政府支出、净出口与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>任一构成项变化可扩大或收</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>GDP 增长不等同于生活</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-gdp",
+    "w-en-recession"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

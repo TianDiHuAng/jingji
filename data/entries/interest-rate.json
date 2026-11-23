@@ -1,0 +1,62 @@
+{
+  "id": "interest-rate",
+  "title": "利率",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "每期应付利息占所借贷（或存入）金额的比例。",
+  "overview": "利率是每期应付利息相对于所借贷、存入或借出金额的比例，计息期通常为一年，不足一年时常年化。除利率外，本金、复利频率与时间长度共同决定利息总额。利率是货币政策传导与资产定价的核心变量。具体口径待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资金供求与央行政策 → 决定利率水平",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    },
+    {
+      "step": "利率影响借贷、投资与资产估值",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "step": "利率变动传导至汇率、房价与总需求",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "资金供求视角",
+      "view": "利率由可贷资金供求决定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    },
+    {
+      "holder": "政策/期限结构视角",
+      "view": "央行政策利率与期限溢价共同塑造利率曲线",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-yield-curve"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>利率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资金供求与央行政策 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利率影响借贷、投资与资产</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>利率变动传导至汇率、房价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-interest-rate",
+    "w-en-yield-curve"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}

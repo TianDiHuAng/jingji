@@ -1,0 +1,77 @@
+{
+  "shadow-banking": {
+    "title": "Shadow banking system",
+    "extract": "The shadow banking system is the collection of non-bank financial intermediaries (NBFIs), or nondepository financial institutions (NDFIs) that legally provide services similar to traditional commercial banks but outside normal banking regulations. S&P Global estimates that, at end-2022, shadow banking held about $63 trillion in financial assets in major jurisdictions around the world, representing 78% of global GDP, up from $28 trillion and 68% of global GDP in 2009.",
+    "slug": "Shadow_banking"
+  },
+  "deflation": {
+    "title": "Deflation",
+    "extract": "In economics, deflation is an increase in the real value of the monetary unit of account, as reflected in a decrease in the general price level of goods and services exchanged, measurable by broad price indices.",
+    "slug": "Deflation"
+  },
+  "balance-of-payments": {
+    "title": "Balance of payments",
+    "extract": "In international economics, the balance of payments of a country is the difference between all money flowing into the country in a particular period of time and the outflow of money to the rest of the world. These financial transactions are made by individuals, firms and government bodies. BoP compares receipts and payments arising out of trade of goods and services as well as international investment.",
+    "slug": "Balance_of_payments"
+  },
+  "exchange-rate-regime": {
+    "title": "Exchange rate regime",
+    "extract": "An exchange rate regime is a way a monetary authority of a country or currency union manages the currency about other currencies and the foreign exchange market. It is closely related to monetary policy and the two are generally dependent on many of the same factors, such as economic scale and openness, inflation rate, the elasticity of the labor market, financial market development, and capital mobility.",
+    "slug": "Exchange_rate_regime"
+  },
+  "leverage": {
+    "title": "Leverage (finance)",
+    "extract": "In finance, leverage, also known as gearing, is any technique involving borrowing funds to buy an investment.",
+    "slug": "Leverage_(finance)"
+  },
+  "yield-curve": {
+    "title": "Yield curve",
+    "extract": "A yield curve shows the relationship between yields and time to maturity for a set of comparable debt securities. In practice the term usually refers to curves built from a single issuer or market segment so that credit quality and other features are as similar as possible, for example the U.S. Treasury curve for government bonds.",
+    "slug": "Yield_curve"
+  },
+  "hedge-fund": {
+    "title": "Hedge fund",
+    "extract": "A hedge fund is a pooled investment fund that holds liquid assets and that makes use of complex trading and risk management techniques to aim to improve investment performance and insulate returns from market risk. Among these portfolio techniques are short selling and the use of leverage and derivative instruments. In the United States, financial regulations require that hedge funds be marketed only to institutional investors and high-net-worth individuals.",
+    "slug": "Hedge_fund"
+  },
+  "derivative": {
+    "title": "Derivative (finance)",
+    "extract": "In finance, a derivative is a contract between a buyer and a seller. The derivative can take various forms, depending on the transaction, but every derivative has the following four elements:an item that can or must be bought or sold,\na future act which must occur,\na price at which the future transaction must take place, and\na future date by which the act must take place.",
+    "slug": "Derivative_(finance)"
+  },
+  "securitization": {
+    "title": "Securitization",
+    "extract": "Securitization is the financial practice of pooling contractual debt obligations and selling their associated cash flows to investors. The financial instruments sold in such transactions are known as securities, types of which include bonds, pass-through securities, and collateralized debt obligations (CDOs). \nInvestors are repaid from the principal and interest cash flows collected from the underlying debt and redistributed through the capital structure of the new financing. \nSecurities backed by mortgage receivables are called mortgage-backed securities (MBS), while those backed by other types of receivables are asset-backed securities (ABS).",
+    "slug": "Securitization"
+  },
+  "gdp": {
+    "title": "Gross domestic product",
+    "extract": "Gross domestic product (GDP) is a monetary measure of the total market value of all of the final goods and services which are produced and rendered during a specific period of time by a country or countries. GDP is often used to measure the economic activity of a country or region. The major components of GDP are consumption, government spending, net exports, and investment. Changing any of these factors can increase the size of the economy. For example, population growth through mass immigration can raise consumption and demand for public services, thereby contributing to GDP growth. However, GDP is not a measure of overall standard of living or well-being, as it does not account for how income is distributed among the population. A country may rank high in GDP but still experience jobless growth depending on its planned economic structure and strategies. Dividing total GDP by the population gives an idealized rough measure of GDP per capita. Several national and international economic organizations, such as the OECD and the International Monetary Fund, maintain their own definitions of GDP.",
+    "slug": "Gross_domestic_product"
+  },
+  "liquidity": {
+    "title": "Market liquidity",
+    "extract": "In business, economics or investment, market liquidity is a market's feature whereby an individual or firm can quickly purchase or sell an asset without causing a drastic change in the asset's price. Liquidity involves the trade-off between the price at which an asset can be sold, and how quickly it can be sold. In a liquid market, the trade-off is mild: one can sell quickly without having to accept a significantly lower price. In a relatively illiquid market, an asset must be discounted in order to sell quickly. A liquid asset is an asset which can be converted into cash within a relatively short period of time, or cash itself, which can be considered the most liquid asset because it can be exchanged for goods and services instantly at face value.",
+    "slug": "Market_liquidity"
+  },
+  "financial-accelerator": {
+    "title": "Financial accelerator",
+    "extract": "The financial accelerator in macroeconomics is the process by which adverse shocks to the economy may be amplified by worsening financial market conditions. More broadly, adverse conditions in the real economy and in financial markets propagate the financial and macroeconomic downturn.",
+    "slug": "Financial_accelerator"
+  },
+  "credit-rating": {
+    "title": "Credit rating",
+    "extract": "A credit rating is an evaluation of the credit risk of a prospective debtor. It is the practice of predicting or forecasting the ability of a supposed debtor to pay back the debt or default. The credit rating represents an evaluation from a credit rating agency of the qualitative and quantitative information for the prospective debtor, including information provided by the prospective debtor and other non-public information obtained by the credit rating agency's analysts.",
+    "slug": "Credit_rating"
+  },
+  "money-supply": {
+    "title": "Money supply",
+    "extract": "In macroeconomics, money supply refers to the total volume of money held by the public at a particular point in time. There are several ways to define \"money\", but standard measures usually include currency in circulation and demand deposits. Money supply data is recorded and published, usually by the national statistical agency or the central bank of the country. Empirical money supply measures are usually named M1, M2, M3, etc., according to how wide a definition of money they embrace. The precise definitions vary from country to country, in part depending on national financial institutional traditions.",
+    "slug": "Money_supply"
+  },
+  "interest-rate": {
+    "title": "Interest rate",
+    "extract": "An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited, or borrowed. Interest rate periods are ordinarily a year and are often annualized when not. Alongside interest rates, three other variables determine total interest: principal sum, compounding frequency, and length of time.",
+    "slug": "Interest_rate"
+  }
+}

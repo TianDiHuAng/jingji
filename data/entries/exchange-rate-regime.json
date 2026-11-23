@@ -1,0 +1,62 @@
+{
+  "id": "exchange-rate-regime",
+  "title": "汇率制度",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "一国货币当局管理本币对其他货币及外汇市场关系的方式。",
+  "overview": "汇率制度是货币当局（或货币联盟）管理本币相对其他货币与外汇市场的方式，与货币政策密切相关，二者共同受经济规模与开放度、通胀率、劳动力市场弹性、金融市场发展与资本流动性等因素影响。具体分类待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "当局选择固定/浮动或中间制度 → 决定汇率形成机制",
+      "sources": [
+        "w-en-exchange-rate-regime"
+      ]
+    },
+    {
+      "step": "资本流动与货币政策独立性受制度约束",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    },
+    {
+      "step": "制度选择影响外部冲击的吸收方式",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "固定汇率视角",
+      "view": "钉住有助于稳定预期与贸易，但需承担干预成本",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-exchange-rate-regime"
+      ]
+    },
+    {
+      "holder": "浮动汇率视角",
+      "view": "浮动可吸收外部冲击、保留货币政策空间",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>汇率制度：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>当局选择固定/浮动或中间</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资本流动与货币政策独立性</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>制度选择影响外部冲击的吸</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-exchange-rate-regime",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+}
