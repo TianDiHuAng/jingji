@@ -207,3 +207,8 @@
 | keynesian-economics | 凯恩斯主义 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
 | creative-destruction | 创造性破坏 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
 | federal-reserve | 美国联邦储备系统(美联储) | 理论制度 | 全球 | 制度 | 重要 | 轮次续作 |
+| herd-behavior | 羊群行为 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| depression-economics | 经济萧条 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| economic-recession | 经济衰退 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| classical-economics | 古典经济学 | 理论制度 | 全球 | 理论 | 重要 | 轮次续作 |
+| long-depression | 长期萧条(1873–1896) | 理论制度 | 全球 | 其他 | 重要 | 轮次续作 |

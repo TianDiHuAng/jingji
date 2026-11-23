@@ -1,0 +1,62 @@
+{
+  "id": "classical-economics",
+  "title": "古典经济学",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "18—19世纪以市场自发调节、劳动价值论等为特征的经济学传统（斯密、李嘉图、马歇尔等）。",
+  "overview": "古典经济学是18世纪后期至19世纪的经济学传统，以亚当·斯密《国富论》为奠基，强调分工、市场与\"看不见的手\"的自发协调，并发展出劳动价值论等。后经马歇尔等综合为新古典经济学。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "分工与市场交换 → 提高生产率与国民财富",
+      "sources": [
+        "bk-the-wealth-of-nations"
+      ]
+    },
+    {
+      "step": "价格与\"看不见的手\" → 自发协调资源配置",
+      "sources": [
+        "bk-the-wealth-of-nations"
+      ]
+    },
+    {
+      "step": "边际分析与均衡 → 新古典综合",
+      "sources": [
+        "bk-principles-of-economics"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "古典/自由市场视角",
+      "view": "市场能自发协调、政府角色有限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "bk-the-wealth-of-nations"
+      ]
+    },
+    {
+      "holder": "凯恩斯批判视角",
+      "view": "市场不能自动出清，需干预",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "bk-principles-of-economics"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>古典经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>分工与市场交换 → 提高</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格与\"看不见的手\" →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>边际分析与均衡 → 新古</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "bk-the-wealth-of-nations",
+    "bk-principles-of-economics"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
+}

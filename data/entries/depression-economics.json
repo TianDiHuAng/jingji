@@ -1,0 +1,62 @@
+{
+  "id": "depression-economics",
+  "title": "经济萧条",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "持续且严重的产出下降与高失业，比一般衰退更深更久。",
+  "overview": "经济萧条(economic depression)指长期、深度的经济收缩与高失业，显著严重于一般衰退（如1929大萧条）。界定标准并无统一阈值，学界多以持续时间与深度判断。具体划分待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "需求骤降/金融体系失灵 → 产出深度下滑",
+      "sources": [
+        "w-en-depression-economics"
+      ]
+    },
+    {
+      "step": "失业高企、通缩与债务负担 → 自我强化",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    },
+    {
+      "step": "长期低于潜在产出",
+      "sources": [
+        "w-en-depression-economics"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "凯恩斯视角",
+      "view": "需求不足致长期萧条，需强力干预",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    },
+    {
+      "holder": "货币视角",
+      "view": "货币收缩加深萧条",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经济萧条：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>需求骤降/金融体系失灵 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>失业高企、通缩与债务负担</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期低于潜在产出</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-depression-economics",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
+}
