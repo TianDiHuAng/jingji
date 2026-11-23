@@ -1,0 +1,67 @@
+{
+  "negative-interest-rate": {
+    "title": "Interest rate",
+    "extract": "An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited, or borrowed. Interest rate periods are ordinarily a year and are often annualized when not. Alongside interest rates, three other variables determine total interest: principal sum, compounding frequency, and length of time.",
+    "slug": "Negative_interest_rate"
+  },
+  "helicopter-money": {
+    "title": "Helicopter money",
+    "extract": "Helicopter money is a proposed monetary policy for inflation targeting, sometimes suggested as an alternative to quantitative easing (QE) when the economy is in a liquidity trap. Although the original idea of helicopter money describes central banks making payments directly to individuals, economists have used the term \"helicopter money\" to refer to a wide range of different policy ideas, including the \"permanent\" monetization of budget deficits – with the additional element of attempting to shock beliefs about future inflation or nominal GDP growth, in order to change expectations. A second set of policies, closer to the original description of helicopter money, and more innovative in the context of monetary history, involves the central bank making direct transfers to the private sector financed with base money, without the direct involvement of fiscal authorities. This has also been called a citizens' dividend or a distribution of future seigniorage.",
+    "slug": "Helicopter_money"
+  },
+  "mmt": {
+    "title": "Modern Monetary Theory",
+    "extract": "Modern Monetary Theory or Modern Money Theory (MMT) is a non-mainstream macroeconomic theory concerning the role of fiscal and monetary policy in sovereign governments that borrow and issue government debt in their own currency.",
+    "slug": "Modern_Monetary_Theory"
+  },
+  "fiscal-dominance": {
+    "title": "Fiscal dominance",
+    "extract": "Fiscal dominance is a macroeconomic condition in which government fiscal pressures effectively dictate or constrain a country’s monetary policy. In a fiscally dominant regime, the central bank’s usual objective of controlling inflation becomes secondary to the Treasury’s budget financing needs, often leading the central bank to accommodate government borrowing by keeping interest rates low or buying government debt. This situation tends to create inflationary pressure – countries under fiscal dominance commonly experience higher inflation, and in extreme cases hyperinflation. Fiscal dominance is contrasted with monetary dominance, where the central bank can focus on price stability and the government adjusts its spending or raises taxes to ensure debt remains sustainable. The concept of fiscal dominance gained renewed attention in the 2020s amid unprecedented pandemic-related fiscal expansions and rising public debt levels, which have raised concerns in several economies.",
+    "slug": "Fiscal_dominance"
+  },
+  "yield-curve-control": {
+    "title": "Yield curve control",
+    "extract": "Yield curve control (YCC) is a monetary policy action whereby a central bank purchases variable amounts of government bonds or other financial assets in order to target yield curve or interest rates at a certain level. It generally means buying bonds at a slower rate than would occur under a quantitative easing policy. It affects long term interest rates, whereas QE is more impactful on shorter term interest rates. Where QE focuses on quantities of bonds, YCC is concerned with the price. It can be thought of as a more effective form of QE: In QE the central bank buys bonds, but does not have a target for what interest rate those purchases will bring. In YCC, the central bank intentionally buys enough bonds to reach a certain interest rate target.",
+    "slug": "Yield_curve_control"
+  },
+  "debt-ceiling": {
+    "title": "United States debt ceiling",
+    "extract": "In the United States, the debt ceiling is a law limiting the total amount of money the federal government can borrow. Since 2025, the debt ceiling is $41.1 trillion after being raised by $5 trillion through the \"One Big Beautiful Bill Act\" (OBBBA). The debt ceiling is expected to breach by 2027. The U.S. government has borrowed to finance its budget since 2002, running a structural budget deficit. The ceiling does not directly limit the size of the budget deficit but rather the total national debt the U.S. is able to borrow. The debt ceiling is an aggregate figure that applies to gross debt, which includes debt in the hands of the public and intra-government accounts.",
+    "slug": "United_States_debt_ceiling"
+  },
+  "bank-resolution": {
+    "title": "Bank regulation and supervision",
+    "extract": "Bank regulation and supervision refers to a form of financial regulation which subjects banks to certain requirements, restrictions and guidelines, enforced by a financial supervisory authority or supervisor, with semantic variations across jurisdictions. By and large, bank regulation and supervision aims at ensuring the stability of the banking sector and at fostering transparency between banks and the individuals and other counterparts with whom they conduct business.",
+    "slug": "Bank_resolution"
+  },
+  "bail-in": {
+    "title": "Bailout",
+    "extract": "A bailout is the provision of financial help to a corporation or country which otherwise would undergo bankruptcy. A bailout differs from the term bail-in under which the bondholders or depositors of global systemically important financial institutions (G-SIFIs) are forced to participate in the recapitalization process but taxpayers are not. Some governments also have the power to participate in the insolvency process; for instance, the U.S. government intervened in the General Motors bailout of 2009–2013. A bailout can, but does not necessarily, avoid an insolvency process. The term bailout is maritime in origin and describes the act of removing water from a sinking vessel using a bucket.",
+    "slug": "Bail-in"
+  },
+  "bad-bank": {
+    "title": "Bad bank",
+    "extract": "A bad bank is a corporate structure which isolates illiquid and high risk assets held by a bank or a financial organisation, or perhaps a group of banks or financial organisations.",
+    "slug": "Bad_bank"
+  },
+  "paris-club": {
+    "title": "Paris Club",
+    "extract": "Paris Club is a group of major creditor countries aiming to provide a sustainable way to tackle debt problems in debtor countries. Its creation, which is the first informal meeting, dates back to 1956, when Argentina agreed to hold a meeting with its public creditors.",
+    "slug": "Paris_Club"
+  },
+  "lcr": {
+    "title": "Basel III",
+    "extract": "Basel III is a framework published by the Basel Committee on Banking Supervision (BCBS) in response to the deficiencies in financial regulation revealed by the 2008 financial crisis. It sets international standards and recommendations for bank capital requirements, stress tests, liquidity regulations, and leverage, with the goal of mitigating the risk of bank runs and bank failures. Basel III builds upon the standards of Basel II, introduced in 2004, and Basel I, introduced in 1988.",
+    "slug": "Liquidity_coverage_ratio"
+  },
+  "nsfr": {
+    "title": "Basel III",
+    "extract": "Basel III is a framework published by the Basel Committee on Banking Supervision (BCBS) in response to the deficiencies in financial regulation revealed by the 2008 financial crisis. It sets international standards and recommendations for bank capital requirements, stress tests, liquidity regulations, and leverage, with the goal of mitigating the risk of bank runs and bank failures. Basel III builds upon the standards of Basel II, introduced in 2004, and Basel I, introduced in 1988.",
+    "slug": "Net_stable_funding_ratio"
+  },
+  "tobin-tax": {
+    "title": "Tobin tax",
+    "extract": "A Tobin tax was originally defined as a tax on all spot conversions of one currency into another. It was suggested by James Tobin, an economist who won the Nobel Memorial Prize in Economic Sciences. Tobin's tax was originally intended to penalize short-term financial round-trip excursions into another currency. By the late 1990s, the term Tobin tax was being applied to all forms of short term transaction taxation, whether across currencies or not. The concept of the Tobin tax is being picked up by various tax proposals currently being discussed, amongst them the European Union Financial Transaction Tax as well as the Robin Hood tax.",
+    "slug": "Tobin_tax"
+  }
+}

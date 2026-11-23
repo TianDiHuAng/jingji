@@ -1,0 +1,88 @@
+{
+  "id": "turkey-2001",
+  "title": "土耳其经济危机(2001)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "中东",
+  "crisis_type": "货币",
+  "one_line": "2001年土耳其经济危机：股市崩盘与里拉崩溃，源于多年积累的政治与经济问题。",
+  "overview": "2001年土耳其经济危机是一场金融危机，导致股市崩盘与土耳其里拉崩溃，其根源是多年来一直困扰土耳其的政治与经济问题。危机前土耳其经历高通胀与银行体系脆弱，最终在政治冲击下爆发。具体数据与政策应对待核实。",
+  "timeline": [
+    {
+      "year": 2001,
+      "display": "2001年",
+      "event": "土耳其爆发经济危机：股市崩盘、里拉崩溃（据 Wikipedia 2001 Turkish economic crisis）",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "year": 2001,
+      "display": "多年积累",
+      "event": "危机的根源是长期困扰土耳其的政治与经济问题（同上）",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "长期高通胀、财政赤字与银行体系脆弱",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "step": "政治冲击触发信心崩塌 → 资本外流、里拉崩溃",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "step": "股市崩盘、利率飙升 → 深度衰退",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "宏观失衡视角",
+      "view": "高通胀与财政失衡使经济易受冲击",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "holder": "政治/信心视角",
+      "view": "政治不确定性触发资本外逃与货币崩溃",
+      "basis": "待核实",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    }
+  ],
+  "comparison": "与1994年墨西哥、1997年亚洲、2018年土耳其危机共享\"宏观失衡+政治冲击→货币危机\"机制。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>土耳其经济危机(2001)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>土耳其爆发经济危机：股市</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-turkey-2001",
+    "w-en-currency-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+}

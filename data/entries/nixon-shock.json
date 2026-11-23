@@ -1,0 +1,89 @@
+{
+  "id": "nixon-shock",
+  "title": "尼克松冲击(1971)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "1971年8月15日尼克松宣布工资物价冻结、进口附加税，并单方面取消美元与黄金的直接可兑换性。",
+  "overview": "尼克松冲击是1971年8月15日美国总统理查德·尼克松采取的一系列经济措施的效果，包括工资与物价冻结、进口附加税，以及单方面取消美元与黄金的直接国际可兑换性。此举终结了布雷顿森林体系的核心支柱，全球货币体系转向浮动汇率。具体影响待核实。",
+  "timeline": [
+    {
+      "year": 1971,
+      "display": "1971年8月15日",
+      "event": "尼克松宣布工资物价冻结、进口附加税及取消美元兑换黄金（据 Wikipedia Nixon shock）",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "year": 1973,
+      "display": "1971年后",
+      "event": "布雷顿森林体系固定汇率安排瓦解，主要货币转向浮动",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "美国国际收支恶化、黄金储备相对美元负债不足",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    },
+    {
+      "step": "1971年8月15日单方面停止美元兑换黄金 + 工资物价冻结",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "step": "固定汇率体系瓦解 → 主要货币转向浮动汇率",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "体系不可持续视角",
+      "view": "特里芬难题使美元-黄金平价难以维持",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    },
+    {
+      "holder": "政策选择视角",
+      "view": "美国优先国内目标，主动终止兑换承诺",
+      "basis": "待核实",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    }
+  ],
+  "comparison": "是布雷顿森林体系终结的标志性事件，与1944年体系建立、1976年牙买加协定构成完整演变链条。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>尼克松冲击(1971)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>尼克松宣布工资物价冻结、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-triffin-dilemma",
+    "w-en-nixon-shock",
+    "w-en-bretton-woods-system"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+}

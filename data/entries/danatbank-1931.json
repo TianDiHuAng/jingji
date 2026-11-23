@@ -1,0 +1,88 @@
+{
+  "id": "danatbank-1931",
+  "title": "Danat银行倒闭(1931)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "1931年7月德国Danat银行（达姆施塔特与国民银行）倒闭，是德国1931年银行危机的重要标志事件。",
+  "overview": "Darmstädter und Nationalbank（简称 Danat-Bank 或 Danatbank）是一家德国大型股份制银行，1922年由 Bank für Handel und Industrie（达姆施塔特，即 Darmstädter Bank）与 Nationalbank für Deutschland 合并成立。该行于1931年7月的倒闭是一个标志性事件，与德国1931年银行危机密切相关。具体影响待核实。",
+  "timeline": [
+    {
+      "year": 1922,
+      "display": "1922年",
+      "event": "Danat-Bank 由两家银行合并成立（据 Wikipedia Danat-Bank）",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    },
+    {
+      "year": 1931,
+      "display": "1931年7月",
+      "event": "Danat-Bank 倒闭，成为德国银行危机的重要标志事件（同上）",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "德国经济与银行体系承压（外债、政治危机）",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    },
+    {
+      "step": "Danat-Bank 于1931年7月倒闭 → 银行挤兑与信心崩塌",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    },
+    {
+      "step": "德国银行危机加深大萧条，并波及国际",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "银行恐慌视角",
+      "view": "大银行倒闭触发挤兑与信心崩塌",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    },
+    {
+      "holder": "国际资本流动视角",
+      "view": "外债与资本外逃使德国银行体系脆弱",
+      "basis": "待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-danatbank-1931"
+      ]
+    }
+  ],
+  "comparison": "与1931年中欧银行危机（奥地利 Creditanstalt）同期，共同标志大萧条在国际金本位体系下的扩散。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Danat银行倒闭(1931)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>Danat-Bank 由</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-danatbank-1931",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "norwegian-banking-1988",
+  "title": "挪威银行危机(1988–1992)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U2 18—19世纪",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "1988—1992年挪威银行危机：挪威战后以来欧洲最大金融危机，源于金融自由化引发的信贷狂潮。",
+  "overview": "1988—1992年挪威银行危机是挪威自二战结束以来欧洲发生的最大金融危机。危机产生于金融自由化的背景之下：自由化释放了一波危险的信贷操作与随后的放贷狂潮。随着问题暴露，银行体系遭受重大损失并需要政府救助。具体规模数据待核实。",
+  "timeline": [
+    {
+      "year": 1988,
+      "display": "1980年代中后期",
+      "event": "挪威金融自由化释放危险的信贷操作与放贷狂潮（据 Wikipedia 1988–1992 Norwegian banking crisis）",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    },
+    {
+      "year": 1988,
+      "display": "1988—1992年",
+      "event": "危机爆发，成为挪威战后以来欧洲最大金融危机（同上）",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "金融自由化 → 信贷管制解除、放贷狂潮",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    },
+    {
+      "step": "风险贷款累积 → 资产质量恶化",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    },
+    {
+      "step": "银行损失扩大 → 需政府救助与重组",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "金融自由化视角",
+      "view": "过快放松管制释放了危险的信贷扩张",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    },
+    {
+      "holder": "北欧同期视角",
+      "view": "与芬兰、瑞典同期危机共享自由化-信贷繁荣机制",
+      "basis": "待核实",
+      "sources": [
+        "w-en-finnish-banking-1990"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-norwegian-banking-1988"
+      ]
+    }
+  ],
+  "comparison": "与同期芬兰银行危机(1991–93)、瑞典银行危机共享\"金融自由化→信贷繁荣→资产泡沫→银行危机\"机制；挪威案例被视为欧洲战后最大。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>挪威银行危机(1988–1992)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>挪威金融自由化释放危险的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-norwegian-banking-1988",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+}

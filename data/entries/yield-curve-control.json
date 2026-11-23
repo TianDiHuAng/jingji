@@ -1,0 +1,62 @@
+{
+  "id": "yield-curve-control",
+  "title": "收益率曲线控制(YCC)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行通过购买不同数量政府债券等资产，将收益率曲线或利率目标定在特定水平的货币政策操作。",
+  "overview": "收益率曲线控制（YCC）是一种货币政策操作：中央银行购买数量可变的政府债券或其他金融资产，以将收益率曲线或利率目标定在某一水平。其购买债券的速度通常慢于其他操作方式。YCC 是量化宽松的延伸形式，用于压低特定期限利率。具体实施待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行设定特定期限收益率目标 → 承诺无限量购债",
+      "sources": [
+        "w-en-yield-curve-control"
+      ]
+    },
+    {
+      "step": "购买规模随市场变化调整 → 将收益率锚定在目标",
+      "sources": [
+        "w-en-yield-curve-control"
+      ]
+    },
+    {
+      "step": "压低长期利率支持需求，但退出困难",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "政策支持视角",
+      "view": "YCC 可强力压低长期利率、支持复苏",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-yield-curve-control"
+      ]
+    },
+    {
+      "holder": "退出/风险视角",
+      "view": "资产负债表膨胀、退出时市场动荡",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantitative-tightening"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>收益率曲线控制(YCC)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行设定特定期限收益率目</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>购买规模随市场变化调整 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压低长期利率支持需求，但</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-yield-curve-control",
+    "w-en-quantitative-easing"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+}

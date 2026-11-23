@@ -1,0 +1,62 @@
+{
+  "id": "fiscal-dominance",
+  "title": "财政主导",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "政府财政压力实际支配或约束一国货币政策的宏观状况。",
+  "overview": "财政主导是一种宏观经济状况：政府的财政压力实际上支配或约束了一国的货币政策。在财政主导体制下，中央银行控制通胀的常规目标从属于财政部的预算融资需要。这可能损害央行独立性与物价稳定。具体表现待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "财政赤字与债务压力上升 → 迫使央行配合融资",
+      "sources": [
+        "w-en-fiscal-dominance"
+      ]
+    },
+    {
+      "step": "货币政策从属财政需要 → 通胀控制目标弱化",
+      "sources": [
+        "w-en-fiscal-dominance"
+      ]
+    },
+    {
+      "step": "央行独立性受损、通胀预期失锚",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "财政主导视角",
+      "view": "财政压力可实质性绑架货币政策",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-dominance"
+      ]
+    },
+    {
+      "holder": "货币主导视角",
+      "view": "央行独立设定利率以控制通胀",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政主导：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字与债务压力上升 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>货币政策从属财政需要 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>央行独立性受损、通胀预期</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-fiscal-dominance",
+    "w-en-central-bank-independence"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+}

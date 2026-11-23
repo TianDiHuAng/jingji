@@ -1,0 +1,62 @@
+{
+  "id": "paris-club",
+  "title": "巴黎俱乐部",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "主要债权国组成的非正式集团，旨在为债务国的债务问题提供可持续解决方案。",
+  "overview": "巴黎俱乐部是由主要债权国组成的集团，旨在为债务国的债务问题提供可持续的解决方式。其创立可追溯至1956年的首次非正式会议，当时阿根廷同意与其公共债权人举行会议。巴黎俱乐部是主权债务重组协调的重要平台。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "债务国偿付困难 → 需与多边公共债权人协调",
+      "sources": [
+        "w-en-paris-club"
+      ]
+    },
+    {
+      "step": "债权国集团协商重组条件（展期、减记等）",
+      "sources": [
+        "w-en-paris-club"
+      ]
+    },
+    {
+      "step": "形成协调一致的重组方案，避免各自追债",
+      "sources": [
+        "w-en-debt-restructuring"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "协调视角",
+      "view": "集体协商提高重组效率与可预期性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-paris-club"
+      ]
+    },
+    {
+      "holder": "局限视角",
+      "view": "非正式、覆盖范围有限，私人债权人需另议",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debt-restructuring"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴黎俱乐部：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务国偿付困难 → 需与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>债权国集团协商重组条件（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形成协调一致的重组方案，</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-paris-club",
+    "w-en-debt-restructuring"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+}

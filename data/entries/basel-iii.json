@@ -1,0 +1,62 @@
+{
+  "id": "basel-iii",
+  "title": "巴塞尔III",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "巴塞尔银行监管委员会针对2008年危机暴露的监管缺陷发布的框架，含资本、压力测试与流动性标准。",
+  "overview": "巴塞尔III是巴塞尔银行监管委员会（BCBS）针对2008年金融危机所暴露的金融监管缺陷而发布的框架。它为银行资本要求、压力测试与流动性（如流动性覆盖率LCR、净稳定资金比率NSFR）设定国际标准与建议。具体标准与实施进度待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "2008危机暴露资本与流动性监管不足 → 需要新标准",
+      "sources": [
+        "w-en-basel-iii"
+      ]
+    },
+    {
+      "step": "设定更高资本要求与流动性比率（LCR/NSFR）",
+      "sources": [
+        "w-en-basel-iii"
+      ]
+    },
+    {
+      "step": "各国转化为国内法实施，进度不一",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "审慎强化视角",
+      "view": "提高资本与流动性要求增强体系韧性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-basel-iii"
+      ]
+    },
+    {
+      "holder": "成本视角",
+      "view": "更高要求可能抑制信贷供给",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-requirement"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴塞尔III：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2008危机暴露资本与流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>设定更高资本要求与流动性</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>各国转化为国内法实施，进</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-basel-iii",
+    "w-en-basel-accords"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+}

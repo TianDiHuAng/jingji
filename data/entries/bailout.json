@@ -1,0 +1,62 @@
+{
+  "id": "bailout",
+  "title": "救助与减记（bailout / bail-in）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "bailout指向本会破产的公司或国家提供财务帮助；bail-in则强制债权人或存款人参与承担损失。",
+  "overview": "救助（bailout）是向本会破产的公司或国家提供财务帮助。它与\"减记\"（bail-in）不同：在 bail-in 下，全球系统重要性金融机构（G-SIFI）的债券持有人或存款人被强制参与承担损失。二者是危机处置中纳税人负担与私人承担之间的关键分野。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "机构或国家面临破产 → 需外部财务帮助或内部损失分摊",
+      "sources": [
+        "w-en-bailout"
+      ]
+    },
+    {
+      "step": "bailout 由纳税人出资；bail-in 由债权人/存款人承担",
+      "sources": [
+        "w-en-bailout"
+      ]
+    },
+    {
+      "step": "处置框架选择影响道德风险与系统性风险",
+      "sources": [
+        "w-en-sifi"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "稳定优先视角",
+      "view": "救助可防止系统性崩溃与连锁反应",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bailout"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "救助诱发过度冒险，bail-in 可内化成本",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>救助与减记（bailout / bail：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构或国家面临破产 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>bailout 由纳税人</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>处置框架选择影响道德风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bailout",
+    "w-en-sifi"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+}
