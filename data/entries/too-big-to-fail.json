@@ -1,21 +1,66 @@
 {
   "id": "too-big-to-fail",
   "title": "太大而不能倒",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U6 理论与制度",
   "period": "理论制度",
   "region": "全球",
-  "crisis_type": "理论",
+  "crisis_type": "制度",
   "one_line": "指某些金融机构规模与关联性过大，一旦倒闭会引发系统性风险，政府因此倾向于救助；其代价是可能诱发道德风险与不公平竞争。",
   "overview": "指某些金融机构规模与关联性过大，一旦倒闭会引发系统性风险，政府因此倾向于救助；其代价是可能诱发道德风险与不公平竞争。（理论概念条目，标准教科书定义；具体论述出处与案例适用待核实。）",
   "timeline": [],
-  "causal_chain": [],
+  "causal_chain": [
+    {
+      "step": "机构规模大、关联性强 → 倒闭会引发系统性风险",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    },
+    {
+      "step": "政府倾向救助 → 隐性担保",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    },
+    {
+      "step": "诱发道德风险与不公平竞争",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "系统性风险视角",
+      "view": "大机构倒闭外溢巨大，故被救助",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "隐性担保鼓励冒险，需处置框架",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对/制度设计及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    }
+  ],
+  "comparison": "经济学/金融概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>太大而不能倒：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构规模大、关联性强 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政府倾向救助 → 隐性担</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>诱发道德风险与不公平竞争</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-too-big-to-fail",
     "w-en-systemic-risk"
@@ -25,5 +70,5 @@
     "bank-run"
   ],
   "needs_verification": true,
-  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。"
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。"
 }

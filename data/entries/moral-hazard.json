@@ -1,7 +1,7 @@
 {
   "id": "moral-hazard",
   "title": "道德风险",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -10,12 +10,57 @@
   "one_line": "一种现象：一方在受保护（如保险、救助预期）后改变行为、承担更多风险，因为后果部分由他人承担。是存款保险与\"太大而不能倒\"救助的核心争议概念。",
   "overview": "一种现象：一方在受保护（如保险、救助预期）后改变行为、承担更多风险，因为后果部分由他人承担。是存款保险与\"太大而不能倒\"救助的核心争议概念。（理论概念条目，标准教科书定义；具体论述出处与案例适用待核实。）",
   "timeline": [],
-  "causal_chain": [],
+  "causal_chain": [
+    {
+      "step": "存在保险/救助预期 → 一方承担风险的后果部分由他人承担",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    },
+    {
+      "step": "受保护方改变行为、承担更多风险",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    },
+    {
+      "step": "系统性风险上升(如存款保险与救助的道德风险)",
+      "sources": [
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "道德风险视角",
+      "view": "保护会诱使过度冒险，需激励相容设计",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    },
+    {
+      "holder": "制度设计视角",
+      "view": "以资本要求/监管缓释道德风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对/制度设计及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "comparison": "经济学/金融概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>道德风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>存在保险/救助预期 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>受保护方改变行为、承担更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>系统性风险上升(如存款保</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-moral-hazard",
     "w-en-deposit-insurance"
@@ -25,5 +70,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。"
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。"
 }

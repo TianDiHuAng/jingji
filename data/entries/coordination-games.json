@@ -1,7 +1,7 @@
 {
   "id": "coordination-games",
   "title": "协调博弈与羊群模型",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -10,12 +10,57 @@
   "one_line": "协调博弈与羊群模型：发生于理论制度、地区为全球的理论类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=理论制度、地区=全球、危机类型=理论。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
   "timeline": [],
-  "causal_chain": [],
+  "causal_chain": [
+    {
+      "step": "经济主体的选择相互依赖 → 多重均衡可能",
+      "sources": [
+        "w-en-coordination-game"
+      ]
+    },
+    {
+      "step": "预期与协调失灵 → 挤兑/恐慌等坏均衡",
+      "sources": [
+        "w-en-coordination-game"
+      ]
+    },
+    {
+      "step": "政策/制度可促成好均衡",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "协调博弈视角",
+      "view": "危机可理解为协调失败的坏均衡",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-coordination-game"
+      ]
+    },
+    {
+      "holder": "宏观/政策视角",
+      "view": "政策协调可引导至好均衡",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对/制度设计及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "经济学/金融概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>协调博弈与羊群模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>经济主体的选择相互依赖 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期与协调失灵 → 挤兑</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策/制度可促成好均衡</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-coordination-game"
@@ -26,5 +71,5 @@
     "contagion"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-coordination-game，具体适用待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-coordination-game，具体适用待核实。 【续作】升L2。"
 }

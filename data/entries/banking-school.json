@@ -1,7 +1,7 @@
 {
   "id": "banking-school",
   "title": "银行学派危机理论",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -10,12 +10,57 @@
   "one_line": "银行学派危机理论：发生于理论制度、地区为全球的理论类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=理论制度、地区=全球、危机类型=理论。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
   "timeline": [],
-  "causal_chain": [],
+  "causal_chain": [
+    {
+      "step": "19世纪英国关于银行券发行与货币供给的争论",
+      "sources": [
+        "w-en-currency-school"
+      ]
+    },
+    {
+      "step": "银行学派主张按\"真实票据\"灵活发行、反对僵化规则",
+      "sources": [
+        "w-en-currency-school"
+      ]
+    },
+    {
+      "step": "与通货学派对立，影响后世央行理论",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "银行学派",
+      "view": "货币供给应随贸易需要灵活调整",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-school"
+      ]
+    },
+    {
+      "holder": "通货学派",
+      "view": "应严格限制发行以稳定物价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对/制度设计及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "经济学/金融概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行学派危机理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>19世纪英国关于银行券发</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行学派主张按\"真实票据</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与通货学派对立，影响后世</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-currency-school"
@@ -26,5 +71,5 @@
     "coordination-games"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-currency-school，具体适用待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-currency-school，具体适用待核实。 【续作】升L2。"
 }

@@ -1,7 +1,7 @@
 {
   "id": "animal-spirits",
   "title": "动物精神",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -34,16 +34,33 @@
   "schools": [
     {
       "holder": "凯恩斯主义视角",
-      "view": "心理与预期因素是投资波动的重要来源",
-      "basis": "《通论》概念；本案例具体表述待核实",
+      "view": "心理与预期是投资波动的重要来源",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "bk-the-general-theory-of-employment-interest-and-mo"
+      ]
+    },
+    {
+      "holder": "行为经济学视角",
+      "view": "情绪与认知偏差影响金融决策",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对/制度设计及效果待核实",
+      "basis": "需多来源印证",
       "sources": [
         "bk-the-general-theory-of-employment-interest-and-mo"
       ]
     }
   ],
-  "policy_response": [],
   "comparison": "与明斯基金融不稳定假说、行为经济学互补，均强调心理与预期在周期中的作用；具体异同待核实。",
-  "svg": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>动物精神：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>不确定性 → 信心与预期</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>动物精神驱动投资与消费 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心逆转 → 繁荣转衰退</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "bk-the-general-theory-of-employment-interest-and-mo",
     "w-en-business-cycle",
@@ -54,5 +71,5 @@
     "business-cycle"
   ],
   "needs_verification": true,
-  "pending_notes": "理论概念：动物精神的出处原文、与行为经济学的关联待核实补充。"
+  "pending_notes": "理论概念：动物精神的出处原文、与行为经济学的关联待核实补充。 【续作】升L2。"
 }
