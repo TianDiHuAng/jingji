@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "日本官方贴现率(1987年2月)",
+      "value": 2.5,
+      "unit": "%（降至）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：slashed the official discount rate to as low as 2.5% by February 1987；单一来源待核实。",
+      "sources": [
+        "w-en-japanese-asset-price-bubble"
+      ]
+    },
+    {
+      "label": "东京商业区地价涨幅(较1985)",
+      "value": 122,
+      "unit": "%（约）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：jumped approximately 122% (compared to 1985)；单一来源待核实。",
+      "sources": [
+        "w-en-japanese-asset-price-bubble"
+      ]
+    },
+    {
+      "label": "东京住宅区地价涨幅(较1985)",
+      "value": 45,
+      "unit": "%",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：recorded an increase of 45% (compared to 1985)；单一来源待核实。",
+      "sources": [
+        "w-en-japanese-asset-price-bubble"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "非理性泡沫视角",
@@ -105,7 +139,7 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-japanese-asset-price-bubble。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-japanese-asset-price-bubble。 【续作AN】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

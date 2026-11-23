@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "委内瑞拉通胀率(2014)",
+      "value": 69,
+      "unit": "%（年率）",
+      "year": 2014,
+      "comparable_price": false,
+      "note": "原文：In 2014, the annual inflation rate reached 69%；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-venezuela"
+      ]
+    },
+    {
+      "label": "委内瑞拉通胀率(2016)",
+      "value": 800,
+      "unit": "%（年率）",
+      "year": 2016,
+      "comparable_price": false,
+      "note": "原文：The rate reached 800% in 2016；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-venezuela"
+      ]
+    },
+    {
+      "label": "委内瑞拉通胀率(2018)",
+      "value": 1700000,
+      "unit": "%（年率，约170万）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：about 1,700,000% in 2018；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-venezuela"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币主义视角",
@@ -95,6 +129,7 @@
   "comparison": "与同为「恶性通胀」类的其他案例共享相似传导机制，差异在于时期（21世纪）、地区（拉美）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委内瑞拉恶性通胀(2016–2022)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
+    "w-en-hyperinflation-in-venezuela",
     "w-en-hyperinflation",
     "w-en-financial-crisis"
   ],
@@ -104,7 +139,7 @@
     "greek-hyper-1941"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

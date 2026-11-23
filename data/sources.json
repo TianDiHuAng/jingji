@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 529,
+  "count": 534,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -6349,6 +6349,66 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-argentine-economic-crisis",
+      "title": "1998–2002 Argentine great depression",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-eurozone-crisis",
+      "title": "Eurozone crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Eurozone_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-hungarian-pengo",
+      "title": "Hungarian pengő",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_peng%C5%91",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-john-law-company",
+      "title": "John Law's Company",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/John_Law%27s_Company",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-hyperinflation-in-venezuela",
+      "title": "Hyperinflation in Venezuela",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
     }
   ]
 }
