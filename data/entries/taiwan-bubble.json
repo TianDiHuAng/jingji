@@ -1,7 +1,7 @@
 {
   "id": "taiwan-bubble",
   "title": "台湾泡沫经济",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,13 +9,136 @@
   "crisis_type": "泡沫",
   "one_line": "台湾泡沫经济：发生于20世纪下半、地区亚洲的泡沫类案例（轮次13新条目，骨架）。",
   "overview": "台湾泡沫经济 是经中文权威大纲（Wikipedia 泡沫经济分类）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 1985,
+      "display": "1985年7月30日",
+      "event": "台湾股价指数处于636点（据中文维基《台灣泡沫經濟》）",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1990年2月12日",
+      "event": "股价指数涨至12682点历史高点（同上）",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1990年10月12日",
+      "event": "股价指数暴跌至2485点（同上）",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1987—1990年",
+      "event": "政府公告地价逐年上涨：1987年9.74%、1988年11.54%、1989年47.31%、1990年103.05%，之后转跌（同上）",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1980年代末资金充裕与投机气氛 → 股价与房地产价格快速上涨",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "step": "股价自636点(1985)飙升至12682点(1990.2)、公告地价1990年涨103.05%",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "step": "泡沫破裂 → 股价跌至2485点(1990.10)、地价转跌",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "台湾股价指数(1985-07-30)",
+      "value": 636,
+      "unit": "点（台湾加权股价指数）",
+      "year": 1985,
+      "comparable_price": false,
+      "note": "原文：台灣股價从1985年7月30日的636点；单一来源（中文维基）待核实。",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "label": "台湾股价指数峰值(1990-02-12)",
+      "value": 12682,
+      "unit": "点（台湾加权股价指数）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：1990年時股價於2月12日漲到12682点；单一来源待核实。",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "label": "台湾股价指数低点(1990-10-12)",
+      "value": 2485,
+      "unit": "点（台湾加权股价指数）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：到1990年10月12日，跌到2485点；单一来源待核实。",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "label": "公告地价涨幅(1990)",
+      "value": 103.05,
+      "unit": "%（台湾公告地价，1990年）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：到1990年更上涨103.05%；单一来源待核实。",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "资产泡沫视角",
+      "view": "股价与地价大幅脱离基本面后崩跌",
+      "basis": "据中文维基摘要；待核实",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    },
+    {
+      "holder": "政策/资金视角",
+      "view": "资金宽松与投机推动资产价格，政策与外部环境变化触发反转",
+      "basis": "具体政策待核实",
+      "sources": [
+        "w-en-japanese-asset-price-bubble"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "台湾当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-zh-taiwan-bubble"
+      ]
+    }
+  ],
+  "comparison": "与日本资产价格泡沫(1990)同期且机制相似（股价与地产齐涨后崩跌）；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>台湾泡沫经济：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资金+投机</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股价地价齐涨</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>崩跌</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-zh-taiwan-bubble",
     "w-en-japanese-asset-price-bubble"
@@ -26,5 +149,5 @@
     "chinese-stock-bubble-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。"
+  "pending_notes": " 【续作J】升L2(据中文维基摘要,含精确股价/地价数据)。"
 }
