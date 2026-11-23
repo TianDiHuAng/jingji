@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "比特币价格峰值(2013年11月)",
+      "value": 1127.45,
+      "unit": "美元",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "原文：In November 2013, Bitcoin's price rose to US$1,127.45；单一来源待核实。",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    },
+    {
+      "label": "比特币价格(2011年6月)",
+      "value": 29.58,
+      "unit": "美元（同年11月跌至2.14）",
+      "year": 2011,
+      "comparable_price": false,
+      "note": "原文：In June 2011, Bitcoin's price again rose, to US$29.58. The price then fell to US$2.14 that November；单一来源待核实。",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "投机泡沫视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AR】补关键数据（单源）。"
 }

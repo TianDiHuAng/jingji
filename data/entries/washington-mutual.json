@@ -39,7 +39,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "9天挤兑提款额",
+      "value": 16.7,
+      "unit": "十亿美元（167亿，占存款9%）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：the withdrawal of US$16.7 billion in deposits during a 9-day bank run；单一来源待核实。",
+      "sources": [
+        "w-en-washington-mutual"
+      ]
+    },
+    {
+      "label": "FDIC 出售给摩根大通的对价",
+      "value": 1.9,
+      "unit": "十亿美元（19亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：The FDIC sold the banking subsidiaries ... to JPMorgan Chase for $1.9 billion；单一来源待核实。",
+      "sources": [
+        "w-en-washington-mutual"
+      ]
+    },
+    {
+      "label": "控股公司资产(2007年报)",
+      "value": 327.9,
+      "unit": "十亿美元（3279亿）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：the holding company held assets valued at $327.9 billion；单一来源待核实。",
+      "sources": [
+        "w-en-washington-mutual"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "资产质量视角",
@@ -77,5 +111,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AR】补关键数据（单源）。"
 }

@@ -30,7 +30,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "认购定金比例",
+      "value": 10,
+      "unit": "%（可仅付10%定金购买股份）",
+      "year": 1845,
+      "comparable_price": false,
+      "note": "原文：Shares were promoted and could be purchased for a 10% deposit；单一来源待核实。",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "非理性泡沫视角",
@@ -67,5 +79,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。"
 }

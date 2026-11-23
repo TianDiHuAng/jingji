@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "房贷发放额(2006)",
+      "value": 90,
+      "unit": "十亿美元（超900亿）",
+      "year": 2006,
+      "comparable_price": false,
+      "note": "原文：During 2006, IndyMac originated over $90 billion of mortgages；单一来源待核实。",
+      "sources": [
+        "w-en-indymac"
+      ]
+    },
+    {
+      "label": "风险资本比率(评级下调后推算)",
+      "value": 9.27,
+      "unit": "%（总风险资本率；\"资本充足\"下限10%）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：the bank's capital ratio would have been 9.27% total risk-based；单一来源待核实。",
+      "sources": [
+        "w-en-indymac"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "资产质量视角",
@@ -77,5 +100,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AR】补关键数据（单源）。"
 }

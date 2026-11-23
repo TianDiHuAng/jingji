@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 541,
+  "count": 542,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -6489,6 +6489,18 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Chinese_real_estate_crisis_(2020%E2%80%93present)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-yugoslav-hyperinflation",
+      "title": "Hyperinflation in Serbia and Montenegro",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Serbia_and_Montenegro",
       "url2": null,
       "verified": true,
       "link_ok": true,

@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "月通胀率峰值(1994年1月)",
+      "value": 313000000,
+      "unit": "%（月率，3.13亿%）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：Inflation peaked at a monthly rate of 313 million percent in January 1994；单一来源待核实。",
+      "sources": [
+        "w-en-yugoslav-hyperinflation"
+      ]
+    },
+    {
+      "label": "日通胀率(峰值期)",
+      "value": 62,
+      "unit": "%（日均；时均2.03%）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：Daily inflation was 62%, with an inflation rate of 2.03% per hour；单一来源待核实。",
+      "sources": [
+        "w-en-yugoslav-hyperinflation"
+      ]
+    },
+    {
+      "label": "恶性通胀持续时长",
+      "value": 22,
+      "unit": "个月（史上第三严重）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：the third-worst hyperinflation in world economic history, lasting 22 months；单一来源待核实。",
+      "sources": [
+        "w-en-yugoslav-hyperinflation"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币主义视角",
@@ -79,6 +113,7 @@
   "comparison": "与同为「恶性通胀」类的其他案例共享相似传导机制，差异在于时期（20世纪下半）、地区（欧洲）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>南斯拉夫恶性通胀(1992–1994)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
+    "w-en-yugoslav-hyperinflation",
     "w-en-hyperinflation",
     "w-en-hyperinflation-in-serbia-and-montenegro",
     "w-en-financial-crisis"
@@ -89,5 +124,5 @@
     "greek-hyper-1941"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-hyperinflation-in-serbia-and-montenegro。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-hyperinflation-in-serbia-and-montenegro。 【续作AR】补关键数据（单源）。"
 }
