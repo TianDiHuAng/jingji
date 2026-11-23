@@ -380,3 +380,19 @@
 | fannie-mae | 房利美(Fannie Mae) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
 | arthur-andersen | 安达信(Arthur Andersen) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
 | freddie-mac | 房地美(Freddie Mac) | 见条目 | 见条目 | 见条目 | 重要 | 续作AC |
+| liquidity-preference | 流动性偏好 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| velocity-of-money | 货币流通速度 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |
+| fisher-equation | 费雪方程式 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| greshams-law | 格雷欣法则 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |
+| opportunity-cost | 机会成本 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| externality | 外部性 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| public-good | 公共品 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| tragedy-commons | 公地悲剧 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| marginal-utility | 边际效用 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| elasticity | 弹性 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| invisible-hand | 看不见的手 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| division-of-labour | 分工 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| laissez-faire | 自由放任 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| savings-glut | 全球储蓄过剩 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
+| global-imbalances | 全球失衡 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |
+| reserve-currency | 储备货币 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |

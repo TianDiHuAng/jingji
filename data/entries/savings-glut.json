@@ -1,0 +1,62 @@
+{
+  "id": "savings-glut",
+  "title": "全球储蓄过剩",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "意愿储蓄超过意愿投资的情形；伯南克在2005年对此表达关切。",
+  "overview": "全球储蓄过剩是一种意愿储蓄超过意愿投资的情形。到2005年，时任美国联邦储备委员会主席本·伯南克对（全球储蓄的）\"显著增加\"表达了关切。该假说被用来解释长期利率偏低与资本跨境流动（尤其流向美国）。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "多国高储蓄 + 投资需求不足 → 全球储蓄过剩",
+      "sources": [
+        "w-en-savings-glut"
+      ]
+    },
+    {
+      "step": "过剩储蓄流向安全资产 → 长期利率被压低",
+      "sources": [
+        "w-en-savings-glut"
+      ]
+    },
+    {
+      "step": "与美国经常账户赤字相联 → 全球失衡",
+      "sources": [
+        "w-en-global-imbalances"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "储蓄过剩视角",
+      "view": "全球储蓄过剩压低利率、推动资本流向美国",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-savings-glut"
+      ]
+    },
+    {
+      "holder": "替代视角",
+      "view": "美国自身政策与金融深化是主因",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-global-imbalances"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全球储蓄过剩：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>多国高储蓄 + 投资需求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>过剩储蓄流向安全资产 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与美国经常账户赤字相联 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-savings-glut",
+    "w-en-global-imbalances"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

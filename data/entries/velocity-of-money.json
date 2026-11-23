@@ -1,0 +1,62 @@
+{
+  "id": "velocity-of-money",
+  "title": "货币流通速度",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "一单位货币在给定时期内用于购买商品与服务的次数。",
+  "overview": "货币流通速度衡量一单位货币在给定时期内被用于购买商品与服务的次数。换言之，它表示单位时间内货币转手或流通到他人手中的次数。流通速度的变动会显著影响货币供给与名义收入之间的关系。具体测算待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "货币转手越快 → 同量货币支持更多交易",
+      "sources": [
+        "w-en-velocity-of-money"
+      ]
+    },
+    {
+      "step": "流通速度上升 → 货币供给的扩张效应被放大",
+      "sources": [
+        "w-en-velocity-of-money"
+      ]
+    },
+    {
+      "step": "速度不稳 → 货币目标制的有效性下降",
+      "sources": [
+        "w-en-money-supply"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币数量视角",
+      "view": "假设速度稳定则货币量与物价直接相关",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantity-theory-money"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "速度可变、受流动性偏好影响",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity-preference"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币流通速度：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币转手越快 → 同量货</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>流通速度上升 → 货币供</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>速度不稳 → 货币目标制</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-velocity-of-money",
+    "w-en-money-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

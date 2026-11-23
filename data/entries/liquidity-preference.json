@@ -1,0 +1,62 @@
+{
+  "id": "liquidity-preference",
+  "title": "流动性偏好",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "对货币的需求，即把货币视为流动性的需求；由凯恩斯在1936年《通论》中提出。",
+  "overview": "在宏观经济理论中，流动性偏好是对货币的需求（把货币视为流动性）。该概念由约翰·梅纳德·凯恩斯在其《就业、利息和货币通论》（1936年）中首先提出，用以解释利率与持币行为。它是流动性陷阱概念的理论基础。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "持有货币提供流动性便利 → 形成货币需求",
+      "sources": [
+        "w-en-liquidity-preference"
+      ]
+    },
+    {
+      "step": "利率是放弃流动性的补偿 → 利率与持币需求反向",
+      "sources": [
+        "w-en-liquidity-preference"
+      ]
+    },
+    {
+      "step": "利率极低时流动性偏好近绝对 → 流动性陷阱",
+      "sources": [
+        "w-en-liquidity-trap"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "凯恩斯视角",
+      "view": "流动性偏好决定利率与持币行为",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity-preference"
+      ]
+    },
+    {
+      "holder": "货币数量视角",
+      "view": "货币需求相对稳定、由收入与利率决定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantity-theory-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>流动性偏好：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>持有货币提供流动性便利 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利率是放弃流动性的补偿 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>利率极低时流动性偏好近绝</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-liquidity-preference",
+    "w-en-liquidity-trap"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

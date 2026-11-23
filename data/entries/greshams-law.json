@@ -1,0 +1,62 @@
+{
+  "id": "greshams-law",
+  "title": "格雷欣法则",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "货币学原理：\"劣币驱逐良币\"——成色低的货币把成色高的货币挤出流通。",
+  "overview": "格雷欣法则（亦称格雷欣-哥白尼法则）是一条货币学原理，指出\"劣币驱逐良币\"。例如，若流通中有两种含不同价值金属的硬币、却按同一面值被接受，则人们会保留高价值硬币而花掉低价值硬币。该法则常用于解释货币贬值时期的行为。具体适用条件待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "两种货币按同一面值流通 → 高价值货币被窖藏",
+      "sources": [
+        "w-en-greshams-law"
+      ]
+    },
+    {
+      "step": "低价值货币留在流通中 → 劣币驱逐良币",
+      "sources": [
+        "w-en-greshams-law"
+      ]
+    },
+    {
+      "step": "铸币成色下降 → 货币信用与物价受影响",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币成色视角",
+      "view": "成色差异导致良币退出流通",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-greshams-law"
+      ]
+    },
+    {
+      "holder": "法定比价视角",
+      "view": "若比价合理则未必发生驱逐",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>格雷欣法则：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>两种货币按同一面值流通 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>低价值货币留在流通中 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>铸币成色下降 → 货币信</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-greshams-law",
+    "w-en-money-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

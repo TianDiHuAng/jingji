@@ -1,0 +1,62 @@
+{
+  "id": "externality",
+  "title": "外部性",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一方活动对未参与第三方造成的成本或收益。",
+  "overview": "在经济学中，外部性是一项活动对未参与的第三方所产生的成本或收益。许多外部性可视为未定价的组成部分，涉及消费或生产环节。负外部性（如污染）导致市场供给过多，正外部性导致供给不足，是政府干预的理由之一。具体应用待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "私人活动产生未计入价格的第三方成本或收益",
+      "sources": [
+        "w-en-externality"
+      ]
+    },
+    {
+      "step": "私人决策未考虑外部性 → 资源配置偏离社会最优",
+      "sources": [
+        "w-en-externality"
+      ]
+    },
+    {
+      "step": "需征税、补贴或管制内部化外部性",
+      "sources": [
+        "w-en-public-good"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "庇古视角",
+      "view": "以税收/补贴使外部成本内部化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-externality"
+      ]
+    },
+    {
+      "holder": "科斯视角",
+      "view": "明确产权与低交易成本下可私人协商解决",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-public-good"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>外部性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>私人活动产生未计入价格的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>私人决策未考虑外部性 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需征税、补贴或管制内部化</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-externality",
+    "w-en-public-good"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

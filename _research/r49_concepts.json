@@ -1,0 +1,82 @@
+{
+  "liquidity-preference": {
+    "title": "Liquidity preference",
+    "extract": "In macroeconomic theory, liquidity preference is the demand for money, considered as liquidity. The concept was first developed by John Maynard Keynes in his book The General Theory of Employment, Interest and Money (1936) to explain the determination of the interest rate by the supply and demand for money.\nThe liquidity preference theory by Keynes was a refinement of Silvio Gesell's theory that interest is caused by the store of value function of money.",
+    "slug": "Liquidity_preference"
+  },
+  "velocity-of-money": {
+    "title": "Velocity of money",
+    "extract": "The velocity of money measures how many times one unit of currency is used to purchase goods and services within a given time period. In other words, it represents how many times per period money changes hands, or circulates to other owners in return for valuable goods and services. The concept relates the size of economic activity to a given money supply. The velocity of money is one of the variables that determine inflation. The velocity of money is usually measured as the ratio of a country's or an economy's nominal gross national product (GNP) to its money supply.",
+    "slug": "Velocity_of_money"
+  },
+  "fisher-equation": {
+    "title": "Fisher equation",
+    "extract": "In financial mathematics and economics, the Fisher equation expresses the relationship between nominal interest rates, real interest rates, and inflation. Named after Irving Fisher, an American economist, it can be expressed as real interest rate ≈ nominal interest rate − inflation rate.",
+    "slug": "Fisher_equation"
+  },
+  "greshams-law": {
+    "title": "Gresham's law",
+    "extract": "In economics, Gresham's law, also Gresham-Copernicus Law is a monetary principle stating that \"bad money drives out good\". For example, if there are two coins in circulation containing metal of different value, which are accepted by law as having similar face value, the more valuable coin based on the inherent value of its component metals will gradually disappear from circulation.",
+    "slug": "Gresham%27s_law"
+  },
+  "opportunity-cost": {
+    "title": "Opportunity cost",
+    "extract": "In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives. Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead. The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\". As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources. It incorporates all associated costs of a decision, both explicit and implicit. Thus, opportunity costs are not restricted to monetary or financial costs: the real cost of output forgone, lost time, pleasure, or any other benefit that provides utility should also be considered an opportunity cost.",
+    "slug": "Opportunity_cost"
+  },
+  "externality": {
+    "title": "Externality",
+    "extract": "In economics, an externality is a cost or benefit to an uninvolved third party that arises as an effect of another party's activity. Many externalities can be considered as unpriced components that are involved in either consumer or producer consumption. Air pollution from motor vehicles is one example. The cost of air pollution to society is not paid by either the producers or users of motorized transport. Water pollution from mills and factories are another example. All (water) consumers are made worse off by pollution but are not compensated by the market for this damage.",
+    "slug": "Externality"
+  },
+  "public-good": {
+    "title": "Public good",
+    "extract": "In economics, a public good is a commodity, product or service that is both non-excludable and non-rivalrous and which is typically provided by a government and paid for through taxation. Use by one person neither prevents access by other people, nor does it reduce availability to others, so the good can be used simultaneously by more than one person. This is in contrast to a common good, such as wild fish stocks in the ocean, which is non-excludable but rivalrous to a certain degree. If too many fish were harvested, the stocks would deplete, limiting the access of fish for others. A public good must be valuable to more than one user, otherwise, its simultaneous availability to more than one person would be economically irrelevant.",
+    "slug": "Public_good_(economics)"
+  },
+  "tragedy-commons": {
+    "title": "Tragedy of the commons",
+    "extract": "The tragedy of the commons is the idea that when a resource is shared and can benefit the individual at a cost to the community, it is rational for the individual to overuse the resource, even though this collectively leads to the depletion of the resource for everyone. The concept has been widely discussed and criticized in economics, ecology, and other sciences.",
+    "slug": "Tragedy_of_the_commons"
+  },
+  "marginal-utility": {
+    "title": "Marginal utility",
+    "extract": "In mainstream economics, marginal utility refers to the change in utility of one unit of a good or service. Marginal utility can be positive, negative, or zero. Negative marginal utility implies that every consumed additional unit of a commodity causes more harm than good, leading to a decrease in overall utility. In contrast, positive marginal utility indicates that every additional unit consumed increases overall utility.",
+    "slug": "Marginal_utility"
+  },
+  "elasticity": {
+    "title": "Elasticity (economics)",
+    "extract": "In economics, elasticity measures the responsiveness of one economic variable to a change in another. For example, if the price elasticity of the demand of a good is −2, then a 10% increase in price will cause the quantity demanded to fall by 20%. Elasticity in economics provides an understanding of changes in the behavior of the buyers and sellers with price changes. There are two types of elasticity for demand and supply, one is inelastic demand and supply and the other one is elastic demand and supply.",
+    "slug": "Elasticity_(economics)"
+  },
+  "invisible-hand": {
+    "title": "Invisible hand",
+    "extract": "The invisible hand is a metaphor inspired by the Scottish economist and moral philosopher Adam Smith that describes the incentives which free markets sometimes create for self-interested people to accidentally act in the public interest, even when this is not something they intend. Smith originally mentioned the term in two specific, but different, economic examples. It is used once in his Theory of Moral Sentiments when discussing a hypothetical example of wealth being concentrated in the hands of one person, who wastes his wealth, but thereby employs others. More famously, it is also used once in his Wealth of Nations, when arguing that governments do not normally need to force international traders to invest in their own home country. In both cases, Adam Smith speaks of an invisible hand, never of the invisible hand.",
+    "slug": "Invisible_hand"
+  },
+  "division-of-labour": {
+    "title": "Division of labour",
+    "extract": "The division of labour is the separation of the tasks in any economic system or organisation so that participants may specialise (specialisation). Individuals, organisations, and nations are endowed with, or acquire, specialised capabilities and either form combinations or trade to take advantage of others' capabilities. Specialised capabilities may include equipment, natural resources, and skills. Training and the integration of equipment and other assets are often important. For example, an individual may specialise by acquiring tools and the skills to use them effectively, just as an organisation may specialise by acquiring specialised equipment and hiring or training skilled operators. The division of labour is the motive for trade and the source of economic interdependence.",
+    "slug": "Division_of_labour"
+  },
+  "laissez-faire": {
+    "title": "Laissez-faire",
+    "extract": "Laissez-faire implies that nothing restricts what happens, irrespective of the potential consequences. In the financial area, it is a type of economic system in which transactions between private individuals are free from any form of economic interventionism.",
+    "slug": "Laissez-faire"
+  },
+  "savings-glut": {
+    "title": "Global saving glut",
+    "extract": "A global saving glut is a situation in which desired saving exceeds desired investment. By 2005 Ben Bernanke, chairman of the Federal Reserve, the central bank of the United States, expressed concern about the \"significant increase in the global supply of saving\" and its implications for monetary policies, particularly in the United States. Although Bernanke's analyses focused on events in 2003 to 2007 that led to the 2008 financial crisis, regarding GSG countries and the United States, excessive saving by the non-financial corporate sector (NFCS) is an ongoing phenomenon, affecting many countries. Bernanke's global saving glut (GSG) hypothesis argued that increased capital inflows to the United States from GSG countries were an important reason that U.S. longer-term interest rates from 2003 to 2007 were lower than expected.",
+    "slug": "Global_saving_glut"
+  },
+  "global-imbalances": {
+    "title": "Global imbalances",
+    "extract": "Global imbalances refers to the situation where some countries have more assets than the other countries. In theory, when the current account is in balance, it has a zero value: inflows and outflows of capital will be cancelled by each other. Hence, if the current account is persistently showing deficits for certain period, it is said to show an inequilibrium. Since, by definition, all current accounts and net foreign assets of the countries in the world must become zero, then other countries become indebted with the other nations.\nDuring recent years, global imbalances have become a concern in the rest of the world. The United States has run long term deficits, as well as many other advanced economies, while in Asia and emerging economies the opposite has occurred.",
+    "slug": "Global_imbalances"
+  },
+  "reserve-currency": {
+    "title": "Reserve currency",
+    "extract": "A reserve currency is a foreign currency that is held by governments, central banks or other monetary authorities as part of their foreign exchange reserves. The reserve currency can be used in international transactions, international investments and all aspects of the global economy. It is often considered a hard currency or safe-haven currency.",
+    "slug": "Reserve_currency"
+  }
+}

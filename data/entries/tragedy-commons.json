@@ -1,0 +1,62 @@
+{
+  "id": "tragedy-commons",
+  "title": "公地悲剧",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "共享资源可惠及个人却由群体承担成本时，个人理性地过度使用、集体却受损的现象。",
+  "overview": "公地悲剧是这样一种观点：当一项资源被共享、且可为个人带来收益而以群体为代价时，对个人而言过度使用该资源是理性的，尽管这在集体层面导致资源耗竭。该概念广泛用于分析资源与环境治理。具体应用待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资源共享、使用成本由群体分摊 → 个人收益大于个人成本",
+      "sources": [
+        "w-en-tragedy-commons"
+      ]
+    },
+    {
+      "step": "个体理性导致过度使用 → 资源退化",
+      "sources": [
+        "w-en-tragedy-commons"
+      ]
+    },
+    {
+      "step": "需产权界定、管制或集体治理机制",
+      "sources": [
+        "w-en-public-good"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "哈丁视角",
+      "view": "缺乏约束时共享资源必然过度使用",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-tragedy-commons"
+      ]
+    },
+    {
+      "holder": "奥斯特罗姆视角",
+      "view": "社区自治制度可有效治理公地",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-public-good"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>公地悲剧：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源共享、使用成本由群体</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>个体理性导致过度使用 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需产权界定、管制或集体治</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-tragedy-commons",
+    "w-en-public-good"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "laissez-faire",
+  "title": "自由放任",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "不加限制、任其自然发生；在金融领域指私人间交易不受管制。",
+  "overview": "自由放任意味着不加限制地任事情发生，不论潜在后果如何。在金融领域，它指一种经济体系，其中私人个体之间的交易不受任何形式的（政府）管制。该理念与自由市场经济学密切相关，其在金融稳定上的适用性存在争论。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "减少政府干预 → 私人交易依自身利益进行",
+      "sources": [
+        "w-en-laissez-faire"
+      ]
+    },
+    {
+      "step": "市场自发协调被视为更有效率",
+      "sources": [
+        "w-en-invisible-hand"
+      ]
+    },
+    {
+      "step": "但可能忽视外部性与系统性风险",
+      "sources": [
+        "w-en-externality"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "自由主义视角",
+      "view": "最少干预释放市场活力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-laissez-faire"
+      ]
+    },
+    {
+      "holder": "审慎监管视角",
+      "view": "金融领域的外部性与系统性风险需要监管",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学基础概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自由放任：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>减少政府干预 → 私人交</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场自发协调被视为更有效</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>但可能忽视外部性与系统性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-laissez-faire",
+    "w-en-invisible-hand"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+}
