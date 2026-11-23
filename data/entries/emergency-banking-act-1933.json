@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "法案通过日期与银行假日间隔",
+      "value": 3,
+      "unit": "天（1933-03-09通过，FDR宣布银行假日后3天）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：passed by Congress on March 9, 1933, three days after FDR declared a nationwide bank holiday；单一来源待核实。",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "label": "一周内回流银行的现金",
+      "value": 1,
+      "unit": "十亿美元（10亿）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：Americans returned $1 billion to bank vaults in the following week；单一来源待核实。",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "label": "道指单日上涨(1933-03-15)",
+      "value": 8.26,
+      "unit": "点（收于62.10）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：gaining 8.26 points to close at 62.10；单一来源待核实。",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "危机处置视角",
@@ -84,5 +118,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作AT】补关键数据（单源）。"
 }

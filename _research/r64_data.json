@@ -1,0 +1,78 @@
+{
+  "chilean-crisis-1982": {
+    "title": "Crisis of 1982",
+    "len": 5228,
+    "hits": [
+      "Chile's GDP fell 14.3%, and unemployment rose to 23.7%.",
+      "By 1982, Chile's external debt had risen to over 17 billion dollars."
+    ]
+  },
+  "brazil-hyper-1980": {
+    "title": "Hyperinflation in Brazil",
+    "len": 12391,
+    "hits": [
+      "The monthly inflation rates between January and March 1990 were 71.9%, 71.7% and 81.3% respectively.",
+      "As accepted by the International Monetary Fund (IMF), hyperinflation is defined as a period of time in which the average price level of goods and services rise by more than 50% a month.",
+      "Inflation during July 1987 to September 1987 of 9.3%, 4.5% and 8.0% respectively was the result of the implementation of the Bresser Plan in June 1987.",
+      "The inflation rates of 4.2% and 5.2% in March and April 1989 were a result of the Summer Plan implemented in January 1989.",
+      "The plan effectively froze 80% of all liquidity.",
+      "A 29% monthly increase in money supply was used to reliquefy the economy and the reintroduction of a new currency (the cruzeiro).",
+      "This plan succeeded in managing the hyperinflation by reducing monthly inflation from 81.3% in March 1990 to 11.3% in April 1990 (Pereira & Nakano, 1991, p.",
+      "The Plano Real was successful in limiting rates of inflation, seen in the significant reduction in monthly inflation in 1994, from 48% in June, to 7.8% in July, to 1.9% in August."
+    ]
+  },
+  "chinese-hyper-1937": {
+    "title": "Chinese hyperinflation",
+    "len": 30922,
+    "hits": [
+      "In Shanghai, wholesale prices dropped 23% from 1931 to 1934, then fell another 1% by 1935, but rose 24% over the following two years.",
+      "For instance, the fall of Wuhan and Guangzhou in late 1938 caused import prices to rise by 72%.",
+      "Consequently, government spending increased by 33%, despite the administration now managing only about half of the country.",
+      "This led to a 50% decrease in imports in 1942 compared to the previous year.",
+      "Despite efforts to compensate with The Hump air transport route over the Himalayas, by 1944, China was only receiving 6% of the total imports it had in 1937.",
+      "Besides providing food and lodging for US forces, China was responsible for constructing and maintaining military airfields, including costly B-29 bomber bases, which far exceeded initial budgets, costing C$79.9 billion CNC.",
+      "Payments from the US ceased after a final US$45 million settlement for late 1944, forcing China to cover expenses, which accounted for 15%–22% of its fiscal spending.",
+      "From 1942 to 1945, China disbursed C$246 billion for US military aid, about 7% of its total military expenditures."
+    ]
+  },
+  "soviet-hyper-1917": {
+    "title": "Hyperinflation in early Soviet Russia",
+    "len": 13080,
+    "hits": [
+      "Popov of the Central Statistical Bureau of Soviet Russia, by 1920 the total production of Russian industry had fallen from a pre-war level of 6.059 billion gold rubles to the equivalent of just 836 million — a decline of more than 85%.",
+      "In the words of one economic historian, \"The only industry which thrived was that concerned with the production of paper money.\" The amount of currency in circulation from the beginning to the end of 1920, rose from about 225 billion fiat rubles to 1.17 trillion."
+    ]
+  },
+  "bankruptcy-ftx": {
+    "title": "Bankruptcy of FTX",
+    "len": 24613,
+    "hits": [
+      "The collapse of FTX, caused by a spike in customer withdrawals that exposed an $8 billion hole in FTX's accounts, served as the impetus for its bankruptcy.",
+      "Bankman-Fried's net worth, estimated at $16 billion prior to the collapse, was reported as having been wiped out, and several institutional investors of FTX wrote off their investment stakes in the company.",
+      "Some $473 million in funds were later taken from FTX in an \"unauthorized transaction\".",
+      "As of August 2021, Bankman-Fried still owned 90% of Alameda.",
+      "Between 1 June 2022 and 22 July 2022, Alameda's known wallets were the largest stablecoin depositors and sources of liquidity to all of FTX's known wallet addresses, accounting for 10% of Tether transfers and 30% of USD Coin transfers on the exchange.",
+      "Zhao's firm Binance had obtained $2.1 billion in Binance USD and FTT coins in 2021, following a deal in which FTX bought back an equity stake held by Binance in FTX, and in early November 2022, it had 23 million FTT tokens, worth about $529 million at the time.",
+      "On 2 November, Ian Allison of CoinDesk reported that 40% of Alameda Research's $14.6 billion in assets was FTT token, whether unlocked (their biggest asset), locked or collateral (their third biggest asset).",
+      "Ellison also extended an Alameda offer to Zhao to buy Binance's FTT at $22, which led to speculation that Alameda had loans that would be liquidated if FTT's price fell below that level."
+    ]
+  },
+  "danatbank-1931": {
+    "title": "Danat-Bank",
+    "len": 2975,
+    "hits": [
+      "Both banks assumed a joint guarantee of capital and reserves of over 1 billion marks."
+    ]
+  },
+  "european-banking-1931": {
+    "title": "European banking crisis of 1931",
+    "len": 18572,
+    "hits": [
+      "By mid-1928, 42 percent of deposits at joint-stock banks were foreign, and the share was 18 percent of all deposits in the German banking sector in 1929.",
+      "A cyclical credit crunch started in May 1930 and resulted in the German money supply, defined as currency and bank deposits, contracting by 17 percent from June 1930 to June 1931.",
+      "From mid-June, concerns arose around a loan of 48 million Reichsmark that Danat-Bank had granted to struggling textile company Nordwolle, corresponding to 40 percent of its equity.",
+      "investors in German debt amounted to 13 to 16 percent of U.S.",
+      "At its low point in 1932, German economic output had fallen 39 percent from its 1929 level."
+    ]
+  }
+}

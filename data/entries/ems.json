@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "汇率蛇波动区间(初始)",
+      "value": 2.25,
+      "unit": "%（±2.25%；1993年8月扩大至±15%）",
+      "year": 1979,
+      "comparable_price": false,
+      "note": "原文：established a single currency fluctuation band of +/-2.25% ... broadened ... from +/-2.25% to +/-15%；单一来源待核实。",
+      "sources": [
+        "w-en-european-monetary-system"
+      ]
+    },
+    {
+      "label": "德意通胀差(同期对比)",
+      "value": 13,
+      "unit": "%（意大利；德国为3%）",
+      "year": 1992,
+      "comparable_price": false,
+      "note": "原文：Germany experienced an inflation rate of 3 percent while Italy's inflation rate reached 13 percent；单一来源待核实。",
+      "sources": [
+        "w-en-european-monetary-system"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "一体化视角",
@@ -79,10 +102,11 @@
   "comparison": "是布雷顿森林之后最重要的区域汇率安排，其危机（1992）成为不可能三角的经典案例。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲货币体系(EMS)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>EMS 建立，EEC 多</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
+    "w-en-european-monetary-system",
     "w-en-ems",
     "w-en-black-wednesday"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AT】补关键数据（单源）。"
 }

@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "西班牙申请的外部救助规模",
+      "value": 100,
+      "unit": "十亿欧元（1000亿）",
+      "year": 2012,
+      "comparable_price": false,
+      "note": "原文：had to apply for a €100 billion rescue；单一来源待核实。",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "label": "私人部门信贷年均增速(1997–2007)",
+      "value": 17,
+      "unit": "%（约）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：Credit to the non-financial private sector grew at an average annual rate of about 17%；单一来源待核实。",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "label": "西班牙GDP增速(2009)",
+      "value": -3.7,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：The economy contracted 3.7% in 2009 and again in 2010 by 0.1%；单一来源待核实。",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "房地产/银行视角",
@@ -84,5 +118,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。"
 }

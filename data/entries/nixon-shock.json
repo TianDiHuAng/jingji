@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美元黄金兑换官价(布雷顿森林)",
+      "value": 35,
+      "unit": "美元/盎司",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：converted to gold at a fixed exchange rate of $35 per ounce；单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "label": "美国持有官方黄金储备(1945)",
+      "value": 574,
+      "unit": "百万盎司（5.74亿，占全球过半）",
+      "year": 1945,
+      "comparable_price": false,
+      "note": "原文：574 million ounces at the end of World War II；单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "label": "美国占全球经济产出份额变化",
+      "value": 27,
+      "unit": "%（自35%下降）",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：share of global economic output dropped from 35% to 27%；单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "体系不可持续视角",
@@ -85,5 +119,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AT】补关键数据（单源）。"
 }
