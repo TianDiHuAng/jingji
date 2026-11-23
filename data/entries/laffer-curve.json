@@ -1,0 +1,62 @@
+{
+  "id": "laffer-curve",
+  "title": "拉弗曲线",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "说明税率与政府税收收入之间理论关系的曲线。",
+  "overview": "拉弗曲线在经济学中描绘税率与由此产生的政府税收收入之间的理论关系。其推理是：由于在 0% 与 100% 的极端税率下都收不到税收，那么在 0% 与 100% 之间必定存在使税收最大化的税率。该曲线的实证重要性存在争议。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "税率为0或100%时税收均为零 → 曲线两端归零",
+      "sources": [
+        "w-en-laffer-curve"
+      ]
+    },
+    {
+      "step": "中间存在使税收最大化的税率",
+      "sources": [
+        "w-en-laffer-curve"
+      ]
+    },
+    {
+      "step": "超过该税率后提高税率反而减少税收（理论推论）",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "供给侧视角",
+      "view": "过高税率抑制经济活动、减少税收",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-laffer-curve"
+      ]
+    },
+    {
+      "holder": "主流/实证视角",
+      "view": "现实税率多未处于曲线不利一侧，减税未必增收",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-multiplier"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>拉弗曲线：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>税率为0或100%时税收</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>中间存在使税收最大化的税</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>超过该税率后提高税率反而</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-laffer-curve",
+    "w-en-fiscal-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

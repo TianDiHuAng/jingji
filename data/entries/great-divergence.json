@@ -1,0 +1,62 @@
+{
+  "id": "great-divergence",
+  "title": "大分流",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "西欧及其海外移民殖民地突破前现代增长约束、跃居世界最富强文明的社会经济转变。",
+  "overview": "大分流（或称\"欧洲奇迹\"）指这样一种社会经济转变：西欧连同北美与澳大拉西亚的移民殖民地，突破了前现代的增长约束，崛起为最强大富有的世界文明，超越了此前占主导的其他地区。其成因（制度、资源、殖民、技术等）是经济史的核心争论。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "制度、科学与商业组织变化 → 突破前现代增长上限",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    },
+    {
+      "step": "工业化与殖民贸易 → 西欧及其殖民地的产出与收入跃升",
+      "sources": [
+        "w-en-industrial-revolution"
+      ]
+    },
+    {
+      "step": "与其他地区差距扩大 → 形成\"大分流\"",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度视角",
+      "view": "产权、市场与科学文化是关键",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    },
+    {
+      "holder": "全球/殖民视角",
+      "view": "殖民掠夺与全球贸易格局塑造差距",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-industrial-revolution"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>大分流：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制度、科学与商业组织变化</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>工业化与殖民贸易 → 西</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与其他地区差距扩大 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-great-divergence",
+    "w-en-industrial-revolution"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

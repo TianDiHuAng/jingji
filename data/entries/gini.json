@@ -1,0 +1,62 @@
+{
+  "id": "gini",
+  "title": "基尼系数",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "衡量一国或社会群体内部收入、财富或消费不平等程度的统计离散度指标。",
+  "overview": "基尼系数（亦称基尼指数或基尼比率）是经济学中衡量统计离散度的指标，意在表示一国或社会群体内部的收入不平等、财富不平等或消费不平等。该指标由意大利统计学家与社会学家基尼（Corrado Gini）提出。数值解读与局限待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "个体收入/财富分布 → 计算洛伦兹曲线与离散度",
+      "sources": [
+        "w-en-gini"
+      ]
+    },
+    {
+      "step": "形成 0 到 1 之间的不平等度量",
+      "sources": [
+        "w-en-gini"
+      ]
+    },
+    {
+      "step": "用于比较国家间与跨期不平等变化",
+      "sources": [
+        "w-en-poverty-trap"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "分配度量视角",
+      "view": "基尼系数提供可比的总体不平等度量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gini"
+      ]
+    },
+    {
+      "holder": "局限视角",
+      "view": "单一指标无法反映分布结构与流动性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-poverty-trap"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>基尼系数：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>个体收入/财富分布 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>形成 0 到 1 之间的</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于比较国家间与跨期不平</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-gini",
+    "w-en-poverty-trap"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "washington-consensus",
+  "title": "华盛顿共识",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "1980—90年代被视为针对危机中国家的\"标准\"改革方案的一套十项经济政策处方。",
+  "overview": "华盛顿共识是一套十项经济政策处方，在1980与1990年代被认为构成针对受危机困扰的发展中国家的\"标准\"改革方案，由设在华盛顿的国际货币基金组织（IMF）、世界银行与美国政府等机构推动。其内容与效果存在广泛争议。具体条目待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "发展中国家陷入危机 → 向国际金融机构求援",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    },
+    {
+      "step": "以十项政策处方（自由化、私有化、稳定化等）作为贷款条件",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    },
+    {
+      "step": "改革效果参差，引发对\"标准方案\"的批评",
+      "sources": [
+        "w-en-import-substitution"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "主流改革视角",
+      "view": "宏观稳定与市场化为增长奠定基础",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "忽视制度差异与社会代价，成效有限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-import-substitution"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>华盛顿共识：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发展中国家陷入危机 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以十项政策处方（自由化、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>改革效果参差，引发对\"标</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-washington-consensus",
+    "w-en-import-substitution"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "is-lm",
+  "title": "IS-LM 模型",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "刻画短期利率与产出关系的二维宏观模型（希克斯-汉森模型）。",
+  "overview": "IS-LM 模型（或称希克斯-汉森模型）是用于宏观经济学教学的二维模型，展示短期内利率与产出之间的关系。其交点由\"投资-储蓄\"（IS）曲线与\"流动性偏好-货币供给\"（LM）曲线的相交决定。该模型是总需求分析的基础框架。具体推导待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "产品市场均衡 → 导出 IS 曲线（利率与产出的组合）",
+      "sources": [
+        "w-en-is-lm"
+      ]
+    },
+    {
+      "step": "货币市场均衡 → 导出 LM 曲线",
+      "sources": [
+        "w-en-is-lm"
+      ]
+    },
+    {
+      "step": "两曲线交点 → 决定短期均衡利率与产出",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "凯恩斯-希克斯视角",
+      "view": "IS-LM 是短期总需求分析的标准框架",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-is-lm"
+      ]
+    },
+    {
+      "holder": "开放经济扩展视角",
+      "view": "加入外部部门得到蒙代尔-弗莱明模型",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-mundell-fleming"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>IS-LM 模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>产品市场均衡 → 导出 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>货币市场均衡 → 导出 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>两曲线交点 → 决定短期</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-is-lm",
+    "w-en-aggregate-demand"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

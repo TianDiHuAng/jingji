@@ -1,0 +1,74 @@
+{
+  "id": "marshall-plan",
+  "title": "马歇尔计划",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "1948年美国向西欧提供大规模对外援助、支持战后经济复苏的计划。",
+  "overview": "马歇尔计划是美国于1948年实施的倡议，向西欧提供对外援助。美国在二战后西欧经济复苏计划中向17个欧洲国家转移了133亿美元（US$13.3 billion）。该计划取代了此前的临时援助安排，被视为战后欧洲复兴与国际经济秩序重建的重要一环。具体效果待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "二战后西欧经济凋敝、政治不稳 → 需要外部援助",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
+    },
+    {
+      "step": "美国提供资金与技术援助（133亿美元、17国）",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
+    },
+    {
+      "step": "支持复苏与贸易重建 → 稳定战后欧洲经济秩序",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "援助总额(1948年起)",
+      "value": 13.3,
+      "unit": "十亿美元（US$13.3 billion，17个欧洲国家）",
+      "year": 1948,
+      "comparable_price": false,
+      "note": "原文：The United States transferred US$13.3 billion to 17 European countries；单一来源待核实。",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "援助/复兴视角",
+      "view": "外部资金填补缺口、加速重建",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
+    },
+    {
+      "holder": "地缘政治视角",
+      "view": "计划兼具遏制与秩序构建目的",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>马歇尔计划：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>二战后西欧经济凋敝、政治</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>美国提供资金与技术援助（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持复苏与贸易重建 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-marshall-plan",
+    "w-en-bretton-woods-system"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

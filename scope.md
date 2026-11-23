@@ -275,3 +275,17 @@
 | cryptocurrency | 加密货币 | 理论制度 | 全球 | 货币 | 重要 | 续作Q |
 | stablecoin | 稳定币 | 理论制度 | 全球 | 货币 | 重要 | 续作Q |
 | cbdc | 中央银行数字货币(CBDC) | 理论制度 | 全球 | 货币 | 重要 | 续作Q |
+| industrial-revolution | 工业革命 | 理论制度 | 全球 | 其他 | 重要 | 续作R |
+| great-divergence | 大分流 | 理论制度 | 全球 | 其他 | 重要 | 续作R |
+| marshall-plan | 马歇尔计划 | 理论制度 | 全球 | 制度 | 重要 | 续作R |
+| washington-consensus | 华盛顿共识 | 理论制度 | 全球 | 制度 | 重要 | 续作R |
+| import-substitution | 进口替代工业化 | 理论制度 | 全球 | 制度 | 重要 | 续作R |
+| export-oriented | 出口导向工业化 | 理论制度 | 全球 | 制度 | 重要 | 续作R |
+| gini | 基尼系数 | 理论制度 | 全球 | 理论 | 重要 | 续作R |
+| poverty-trap | 贫困陷阱（贫困循环） | 理论制度 | 全球 | 其他 | 重要 | 续作R |
+| demographic-dividend | 人口红利 | 理论制度 | 全球 | 其他 | 重要 | 续作R |
+| lewis-turning-point | 刘易斯拐点 | 理论制度 | 全球 | 其他 | 重要 | 续作R |
+| is-lm | IS-LM 模型 | 理论制度 | 全球 | 理论 | 重要 | 续作R |
+| laffer-curve | 拉弗曲线 | 理论制度 | 全球 | 理论 | 重要 | 续作R |
+| okuns-law | 奥肯定律 | 理论制度 | 全球 | 理论 | 重要 | 续作R |
+| durable-goods | 耐用品 | 理论制度 | 全球 | 理论 | 重要 | 续作R |

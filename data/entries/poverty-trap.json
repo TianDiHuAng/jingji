@@ -1,0 +1,62 @@
+{
+  "id": "poverty-trap",
+  "title": "贫困陷阱（贫困循环）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "贫困似被继承、使后代难以摆脱的自我强化状态。",
+  "overview": "贫困循环（或称贫困陷阱、代际贫困）指贫困看似被继承、阻碍后代摆脱的状况。它由自我强化机制造成：贫困一旦存在便会持续，除非有外力介入。机制包括教育、健康、信贷与资产的代际传递。具体机制与证据待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "初始贫困 → 教育、健康与资产积累受限",
+      "sources": [
+        "w-en-poverty-trap"
+      ]
+    },
+    {
+      "step": "能力与机会不足传递给下一代 → 贫困持续",
+      "sources": [
+        "w-en-poverty-trap"
+      ]
+    },
+    {
+      "step": "需外部干预（转移支付、教育、信贷可及）打破循环",
+      "sources": [
+        "w-en-microfinance"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "自我强化视角",
+      "view": "多重反馈机制使贫困持久",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-poverty-trap"
+      ]
+    },
+    {
+      "holder": "政策干预视角",
+      "view": "外部资源与制度可打破循环",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-microfinance"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贫困陷阱（贫困循环）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>初始贫困 → 教育、健康</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>能力与机会不足传递给下一</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需外部干预（转移支付、教</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-poverty-trap",
+    "w-en-microfinance"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}

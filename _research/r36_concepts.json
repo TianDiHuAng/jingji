@@ -1,0 +1,77 @@
+{
+  "industrial-revolution": {
+    "title": "Industrial Revolution",
+    "extract": "The Industrial Revolution, sometimes called the First Industrial Revolution in contrast to the subsequent Second Industrial Revolution, was a transitional period of the global economy toward more widespread, efficient and stable manufacturing processes, succeeding the Second Agricultural Revolution. Beginning in Great Britain around 1760, the Industrial Revolution had spread to continental Europe and the United States by about 1840. Economic historians agree that the onset of the Industrial Revolution is the most important event in human history, comparable only to the adoption of agriculture for material advancement.",
+    "slug": "Industrial_Revolution"
+  },
+  "great-divergence": {
+    "title": "Great Divergence",
+    "extract": "The Great Divergence or European miracle is the socioeconomic shift in which Western Europe along with former settler colonies in Northern America and Australasia overcame pre-modern growth constraints and emerged as the most powerful and wealthy world civilization, eclipsing other previously dominant or comparable Eurasian civilizations such as Qing China, Mughal India, the Ottoman Empire, Safavid Iran, and Tokugawa Japan, among others.",
+    "slug": "Great_Divergence"
+  },
+  "marshall-plan": {
+    "title": "Marshall Plan",
+    "extract": "The Marshall Plan was an American initiative enacted in 1948 to provide foreign aid to Western Europe. The United States transferred US$13.3 billion to 17 European countries in economic recovery programs to Western European economies after the end of World War II in Europe. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948; though in 1951, the Marshall Plan was largely replaced by the Mutual Security Act. The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity and prevent the spread of communism. The Marshall Plan proposed the reduction of interstate barriers and the economic integration of the European continent while also encouraging an increase in productivity as well as the adoption of modern business procedures. According to a report from the U.S. Congressional Research Service, 83% of the Marshall Plan funds were spent within the United States.",
+    "slug": "Marshall_Plan"
+  },
+  "washington-consensus": {
+    "title": "Washington Consensus",
+    "extract": "The Washington Consensus is a set of ten economic policy prescriptions considered in the 1980s and 1990s to constitute the \"standard\" reform package promoted for crisis-wracked developing countries by the Washington, D.C.-based institutions the International Monetary Fund (IMF), World Bank and United States Department of the Treasury. The term was first used in 1989 by English economist John Williamson. The prescriptions encompassed free-market promoting policies such as trade liberalization, privatization and finance liberalization. They also entailed fiscal and monetary policies intended to minimize fiscal deficits and minimize inflation.",
+    "slug": "Washington_Consensus"
+  },
+  "import-substitution": {
+    "title": "Import substitution industrialization",
+    "extract": "Import substitution industrialization (ISI) is a protectionist trade and economic policy that advocates replacing foreign imports with domestic production. It is based on the premise that a country should attempt to reduce its foreign dependency through the local production of industrialized products. The term primarily refers to 20th-century development economics policies, but it has been advocated since the 18th century by economists such as Friedrich List and Alexander Hamilton.",
+    "slug": "Import_substitution_industrialization"
+  },
+  "export-oriented": {
+    "title": "Export-oriented industrialization",
+    "extract": "Export-oriented industrialization (EOI), sometimes called export substitution industrialization (ESI), export-led industrialization (ELI), or export-led growth, is a trade and economic policy aiming to speed up the industrialization process of a country by exporting goods for which the nation has a comparative advantage. The basic principle of export-oriented industrialization (EOI) is that nations can generate foreign exchange, employment opportunities, and foreign investment through the export of goods, thereby fostering further economic growth and development.",
+    "slug": "Export-oriented_industrialization"
+  },
+  "gini": {
+    "title": "Gini coefficient",
+    "extract": "In economics, the Gini coefficient, also known as the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality, the wealth inequality, or the consumption inequality within a nation or a social group. It was developed by Italian statistician and sociologist Corrado Gini.",
+    "slug": "Gini_coefficient"
+  },
+  "poverty-trap": {
+    "title": "Cycle of poverty",
+    "extract": "In economics, a cycle of poverty, poverty trap or generational poverty is when poverty seems to be inherited, preventing subsequent generations from escaping it. This is known as the cycle of poverty. It is caused by self-reinforcing mechanisms that cause poverty, once it exists, to persist unless there is outside intervention. It can persist across generations, and when applied to developing countries, is also known as a development trap.",
+    "slug": "Poverty_trap"
+  },
+  "demographic-dividend": {
+    "title": "Demographic dividend",
+    "extract": "Demographic dividend, as defined by the United Nations Population Fund (UNFPA), is \"the economic growth potential that can result from shifts in a population’s age structure, mainly when the share of the working-age population is larger than the non-working-age share of the population \". In other words, it is \"a boost in economic productivity that occurs when there are growing numbers of people in the workforce relative to the number of dependents\". UNFPA stated that \"a country with both increasing numbers of young people and declining fertility has the potential to reap a demographic dividend.\"",
+    "slug": "Demographic_dividend"
+  },
+  "lewis-turning-point": {
+    "title": "Lewis turning point",
+    "extract": "The Lewis turning point is a situation in economic development where surplus rural labor is fully absorbed into the manufacturing sector. This typically causes agricultural and unskilled industrial real wages to rise. The term is named after economist W. Arthur Lewis. Shortly after the Lewis point, an economy requires balanced growth policies.",
+    "slug": "Lewis_turning_point"
+  },
+  "bretton-woods": {
+    "title": "Bretton Woods system",
+    "extract": "The Bretton Woods system of monetary management established the rules for commercial relations among 44 countries, including the United Kingdom, United States, Canada, European countries, and Australia, after the 1944 Bretton Woods Agreement until the Jamaica Accords in 1976. The Bretton Woods system was the first example of a fully negotiated monetary order intended to govern monetary relations among independent states. The Bretton Woods system required countries to guarantee convertibility of their currencies into U.S. dollars with the dollar convertible to gold bullion for foreign governments and central banks. It envisioned greater cooperation among countries to prevent future competitive devaluations, and thus established the International Monetary Fund (IMF) to monitor exchange rates and lend reserve currencies to countries with balance of payments deficits. According to Barry Eichengreen, the Bretton Woods system operated successfully due to three factors: \"low international capital mobility, tight financial regulation, and the dominant economic and financial position of the United States and the dollar\".",
+    "slug": "Bretton_Woods_system"
+  },
+  "is-lm": {
+    "title": "IS–LM model",
+    "extract": "The IS–LM model, or Hicks–Hansen model, is a two-dimensional macroeconomic model which is used as a pedagogical tool in macroeconomic teaching. The IS–LM model shows the relationship between interest rates and output in the short run. The intersection of the \"investment–saving\" (IS) and \"liquidity preference–money supply\" (LM) curves illustrates a \"general equilibrium\" where supposed simultaneous equilibria occur in both the goods and the money markets. The IS–LM model shows the importance of various demand shocks on output and consequently offers an explanation of changes in national income in the short run when prices are fixed or sticky. Hence, the model can be used as a tool to suggest potential levels for appropriate stabilisation policies. It is also used as a building block for the demand side of the economy in more comprehensive models like the AD–AS model.",
+    "slug": "IS%E2%80%93LM_model"
+  },
+  "laffer-curve": {
+    "title": "Laffer curve",
+    "extract": "In economics, the Laffer curve illustrates a theoretical relationship between rates of taxation and the resulting levels of the government's tax revenue. The theory reasons that because no tax revenue is raised at the extreme tax rates of 0% and 100%, there must be a tax rate between 0% and 100% that maximizes government tax revenue.",
+    "slug": "Laffer_curve"
+  },
+  "okuns-law": {
+    "title": "Okun's law",
+    "extract": "In economics, Okun's law is an empirically observed relationship between unemployment and losses in a country's production. It is named after Arthur Melvin Okun, who first proposed the relationship in 1962. The \"gap version\" states that for every 1% increase in the unemployment rate, a country's GDP will experience a roughly 2% decrease on its potential GDP. The \"difference version\" describes the relationship between quarterly changes in unemployment and quarterly changes in real GDP. The stability and usefulness of the law has been disputed.",
+    "slug": "Okun%27s_law"
+  },
+  "durable-goods": {
+    "title": "Durable good",
+    "extract": "In economics, a durable good or a hard good or consumer durable is a good that does not quickly wear out or, more specifically, one that yields utility over time rather than being completely consumed in one use. Items like bricks could be considered perfectly durable goods because they should theoretically never wear out. Highly durable goods such as refrigerators or cars usually continue to be useful for several years of use, so durable goods are typically characterized by long periods between successive purchases.",
+    "slug": "Durable_goods"
+  }
+}

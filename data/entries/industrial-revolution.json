@@ -1,0 +1,62 @@
+{
+  "id": "industrial-revolution",
+  "title": "工业革命",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "全球经济转向更广泛、高效与稳定制造过程的过渡时期。",
+  "overview": "工业革命（相对其后的第二次工业革命，有时称第一次工业革命）是全球经济向更广泛、更高效、更稳定的制造过程过渡的时期，接续第二次农业革命。它带来生产方式、城市化与收入结构的深刻变化，被视为现代经济增长的起点。具体时间与国别差异待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "农业革命与要素供给改善 → 为工业化创造条件",
+      "sources": [
+        "w-en-industrial-revolution"
+      ]
+    },
+    {
+      "step": "机器生产与工厂制度扩散 → 制造效率大幅提升",
+      "sources": [
+        "w-en-industrial-revolution"
+      ]
+    },
+    {
+      "step": "生产率与收入结构转变 → 现代经济增长启动",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "技术/要素视角",
+      "view": "技术与资本积累推动工业化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-industrial-revolution"
+      ]
+    },
+    {
+      "holder": "制度/全球视角",
+      "view": "制度与全球贸易格局决定各国工业化速度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/经济史概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>工业革命：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>农业革命与要素供给改善 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>机器生产与工厂制度扩散 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>生产率与收入结构转变 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-industrial-revolution",
+    "w-en-great-divergence"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+}
