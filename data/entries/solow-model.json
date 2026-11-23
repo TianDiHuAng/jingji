@@ -1,0 +1,62 @@
+{
+  "id": "solow-model",
+  "title": "索洛-斯旺模型",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "以外生技术进步解释长期经济增长的总量增长模型。",
+  "overview": "索洛-斯旺模型（或称外生增长模型）是关于长期经济增长的模型，试图通过资本积累、劳动或人口增长以及主要由技术进步驱动的生产率提升来解释长期增长。其核心是一个总量生产函数，通常设为柯布-道格拉斯型。模型显示长期人均增长最终依赖技术进步。具体推导待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资本积累与劳动增长 → 人均资本深化（边际递减）",
+      "sources": [
+        "w-en-solow-model"
+      ]
+    },
+    {
+      "step": "技术进步 → 推动长期人均产出持续增长",
+      "sources": [
+        "w-en-solow-model"
+      ]
+    },
+    {
+      "step": "趋同假说：条件相近的经济体人均收入趋于收敛",
+      "sources": [
+        "w-en-total-factor-productivity"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "外生增长视角",
+      "view": "长期增长最终由外生技术进步决定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-solow-model"
+      ]
+    },
+    {
+      "holder": "内生增长视角",
+      "view": "技术与人力资本可由政策与研发内生决定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-total-factor-productivity"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>索洛-斯旺模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资本积累与劳动增长 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>技术进步 → 推动长期人</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>趋同假说：条件相近的经济</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-solow-model",
+    "w-en-total-factor-productivity"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

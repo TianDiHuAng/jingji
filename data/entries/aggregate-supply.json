@@ -1,0 +1,62 @@
+{
+  "id": "aggregate-supply",
+  "title": "总供给",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一国企业在特定时期计划出售的商品与服务总供给。",
+  "overview": "总供给（AS），亦称国内最终供给（DFS），是一国经济中企业在特定时期内计划出售的商品与服务总供给，即在给定价格水平下企业愿意且有能力的供给总量。它与总需求共同构成 AD-AS 模型的两个组成部分。具体形状与假设待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "企业依据成本与价格 → 决定供给量",
+      "sources": [
+        "w-en-aggregate-supply"
+      ]
+    },
+    {
+      "step": "在各价格水平下形成总供给曲线（短期与长期不同）",
+      "sources": [
+        "w-en-aggregate-supply"
+      ]
+    },
+    {
+      "step": "与总需求相交决定均衡产出与价格",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "短期视角",
+      "view": "短期总供给向上倾斜，价格上升可刺激产出",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aggregate-supply"
+      ]
+    },
+    {
+      "holder": "长期视角",
+      "view": "长期总供给由要素与技术决定，垂直",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-solow-model"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>总供给：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>企业依据成本与价格 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>在各价格水平下形成总供给</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与总需求相交决定均衡产出</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-aggregate-supply",
+    "w-en-aggregate-demand"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

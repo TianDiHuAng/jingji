@@ -1,0 +1,62 @@
+{
+  "id": "black-scholes",
+  "title": "布莱克-斯科尔斯模型",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "描述含衍生品金融市场动态的数学模型，可导出期权定价公式。",
+  "overview": "布莱克-斯科尔斯（或布莱克-斯科尔斯-默顿）模型是描述含衍生工具金融市场动态的数学模型。由模型中的抛物型偏微分方程（布莱克-斯科尔斯方程）可导出布莱克-斯科尔斯公式，给出期权价格的理论估计。该模型依赖若干理想化假设，在极端市场中局限明显。具体推导待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "假设标的资产价格服从几何布朗运动 → 建立偏微分方程",
+      "sources": [
+        "w-en-black-scholes"
+      ]
+    },
+    {
+      "step": "通过复制组合与无套利 → 导出期权定价公式",
+      "sources": [
+        "w-en-black-scholes"
+      ]
+    },
+    {
+      "step": "为衍生品定价与对冲提供基准（假设偏离时误差增大）",
+      "sources": [
+        "w-en-derivative"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "无套利定价视角",
+      "view": "可复制组合决定衍生品唯一合理价格",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-black-scholes"
+      ]
+    },
+    {
+      "holder": "实证批判视角",
+      "view": "波动率微笑与尾部事件偏离模型假设",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>布莱克-斯科尔斯模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>假设标的资产价格服从几何</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通过复制组合与无套利 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为衍生品定价与对冲提供基</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-black-scholes",
+    "w-en-derivative"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

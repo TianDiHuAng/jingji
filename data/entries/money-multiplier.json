@@ -1,0 +1,62 @@
+{
+  "id": "money-multiplier",
+  "title": "货币乘数",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "货币供应量与货币基础之比。",
+  "overview": "在货币经济学中，货币乘数是货币供应量与货币基础之比。在一些简化表述中，货币乘数被简单地呈现为中央银行所要求准备金率的倒数；更一般地，乘数取决于家庭偏好、法律规定以及商业银行的经营政策。具体测算待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行投放基础货币 → 银行体系通过放贷派生存款",
+      "sources": [
+        "w-en-money-multiplier"
+      ]
+    },
+    {
+      "step": "货币供应量按乘数扩张（受准备金率等约束）",
+      "sources": [
+        "w-en-money-multiplier"
+      ]
+    },
+    {
+      "step": "乘数变化影响货币政策效果",
+      "sources": [
+        "w-en-money-supply"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "乘数视角",
+      "view": "基础货币通过银行体系倍数扩张",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-money-multiplier"
+      ]
+    },
+    {
+      "holder": "内生货币视角",
+      "view": "信贷需求与银行行为决定货币创造",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币乘数：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行投放基础货币 → 银</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>货币供应量按乘数扩张（受</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>乘数变化影响货币政策效果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-money-multiplier",
+    "w-en-money-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

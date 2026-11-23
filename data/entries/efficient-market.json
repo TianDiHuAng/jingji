@@ -1,0 +1,62 @@
+{
+  "id": "efficient-market",
+  "title": "有效市场假说",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "资产价格已反映全部可得信息的假说，因而不可能持续获得风险调整后的超额收益。",
+  "overview": "有效市场假说（EMH）是金融经济学中的假说：资产价格反映全部可得信息。其直接含义是，由于市场价格应只对新信息作出反应，因此不可能在风险调整基础上持续\"战胜市场\"。该假说与行为金融的解释存在长期争论。具体形式（弱式/半强式/强式）待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "全部可得信息被迅速反映 → 价格接近基本面价值",
+      "sources": [
+        "w-en-efficient-market"
+      ]
+    },
+    {
+      "step": "仅新信息驱动价格变动 → 难以预测",
+      "sources": [
+        "w-en-efficient-market"
+      ]
+    },
+    {
+      "step": "无法持续获得风险调整后超额收益",
+      "sources": [
+        "w-en-efficient-market"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "有效市场视角",
+      "view": "价格已反映信息，主动管理难有持续超额收益",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-efficient-market"
+      ]
+    },
+    {
+      "holder": "行为金融视角",
+      "view": "认知偏差与套利限制使价格长期偏离",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-behavioral-finance"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>有效市场假说：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>全部可得信息被迅速反映 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>仅新信息驱动价格变动 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>无法持续获得风险调整后超</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-efficient-market",
+    "w-en-behavioral-finance"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

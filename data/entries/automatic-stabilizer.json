@@ -1,0 +1,62 @@
+{
+  "id": "automatic-stabilizer",
+  "title": "自动稳定器",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "现代政府预算结构（尤其所得税与福利支出）中自动减少实际GDP波动的特征。",
+  "overview": "自动稳定器是宏观经济学中现代政府预算结构的特征，尤其包括所得税与福利支出，其作用是在不另行立法的情况下减少实际GDP的波动。经济下行时税收自动减少、福利支出自动增加，从而缓冲需求下滑。具体效果待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "经济下行 → 收入下降使所得税自动减少",
+      "sources": [
+        "w-en-automatic-stabilizer"
+      ]
+    },
+    {
+      "step": "失业与贫困上升 → 福利支出自动增加",
+      "sources": [
+        "w-en-automatic-stabilizer"
+      ]
+    },
+    {
+      "step": "缓冲可支配收入与需求的下滑幅度",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "稳定器视角",
+      "view": "无需立法的自动调节可及时缓冲周期",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-automatic-stabilizer"
+      ]
+    },
+    {
+      "holder": "相机抉择视角",
+      "view": "主动财政措施可在深度衰退中补充",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-multiplier"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自动稳定器：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>经济下行 → 收入下降使</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>失业与贫困上升 → 福利</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>缓冲可支配收入与需求的下</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-automatic-stabilizer",
+    "w-en-fiscal-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

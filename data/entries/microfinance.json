@@ -1,0 +1,62 @@
+{
+  "id": "microfinance",
+  "title": "微型金融",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "向个人与小企业（尤其低收入、难以获得常规银行服务者）提供金融服务。",
+  "overview": "微型金融是向个人与小企业——特别是收入较低、获得常规银行及相关金融服务渠道有限者——提供金融服务。其涵盖小额信贷、储蓄、支票账户、小额保险与支付系统等服务。其在减贫上的效果与可持续性存在讨论。具体模式待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "低收入群体缺乏抵押与信用记录 → 难以获得常规银行服务",
+      "sources": [
+        "w-en-microfinance"
+      ]
+    },
+    {
+      "step": "以小额信贷、储蓄与小额保险等方式提供金融可及性",
+      "sources": [
+        "w-en-microfinance"
+      ]
+    },
+    {
+      "step": "支持微型经营与平滑消费（效果存在讨论）",
+      "sources": [
+        "w-en-financial-deepening"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "普惠视角",
+      "view": "微型金融拓展金融可及性、支持微型创业",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-microfinance"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "过度负债与高利率可能损害借款人",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>微型金融：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>低收入群体缺乏抵押与信用</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以小额信贷、储蓄与小额保</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持微型经营与平滑消费（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-microfinance",
+    "w-en-financial-deepening"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "seigniorage",
+  "title": "铸币税",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "政府从发行货币中获得的利润，即货币面值与生产成本的差额。",
+  "overview": "铸币税（亦拼作 seignorage / seigneurage）指政府从发行货币中获得的利润，即货币面值与生产该货币的成本之间的差额。在纸币体系下，铸币税与货币发行量及相关通胀密切相关；恶性通胀时期政府常依赖铸币税融资。具体规模待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政府发行货币 → 获得面值与成本之差",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    },
+    {
+      "step": "以发行收入弥补财政缺口",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    },
+    {
+      "step": "过度依赖 → 货币超发与通胀（乃至恶性通胀）",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "财政视角",
+      "view": "铸币税是一种隐性税收与融资手段",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    },
+    {
+      "holder": "货币纪律视角",
+      "view": "过度依赖铸币税导致通胀失控",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>铸币税：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府发行货币 → 获得面</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以发行收入弥补财政缺口</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>过度依赖 → 货币超发与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-seigniorage",
+    "w-en-hyperinflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

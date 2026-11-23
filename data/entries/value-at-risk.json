@@ -1,0 +1,62 @@
+{
+  "id": "value-at-risk",
+  "title": "风险价值(VaR)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "在正常市场条件下、给定时间期内投资组合可能损失多少的风险度量。",
+  "overview": "风险价值（VaR）是衡量投资或资本损失风险的指标，估计在正常市场条件下、某一时间期（如一天）内一组投资可能损失多少。金融机构与监管者常用 VaR 估算覆盖潜在损失所需的资产数量。其在极端情形下的局限受到批评。具体方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以历史波动与相关性建模 → 估计损失分布",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    },
+    {
+      "step": "给出给定置信度下的最大可能损失",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    },
+    {
+      "step": "用于确定资本与限额；极端情形下可能低估",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险管理视角",
+      "view": "VaR 提供简洁统一的风险度量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "尾部风险与相关性突变时 VaR 严重低估",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>风险价值(VaR)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以历史波动与相关性建模 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>给出给定置信度下的最大可</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于确定资本与限额；极端</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-value-at-risk",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

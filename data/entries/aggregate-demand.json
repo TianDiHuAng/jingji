@@ -1,0 +1,62 @@
+{
+  "id": "aggregate-demand",
+  "title": "总需求",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一定时期经济中对最终商品与服务的总需求，即对一国GDP的需求。",
+  "overview": "总需求（AD），亦称国内最终需求（DFD），是一定时期经济中对最终商品与服务的总需求，常被称为有效需求。它是对一国国内生产总值的需求，指明在所有可能价格水平下将被购买的商品与服务数量。与总供给共同构成 AD-AS 模型。具体构成待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "家庭消费、投资、政府支出与净出口 → 构成总需求",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    },
+    {
+      "step": "在各价格水平下确定需求量 → 形成总需求曲线",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    },
+    {
+      "step": "与总供给共同决定产出与价格水平",
+      "sources": [
+        "w-en-aggregate-supply"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "凯恩斯视角",
+      "view": "总需求不足是衰退与失业的主因，需政策扩张",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    },
+    {
+      "holder": "古典视角",
+      "view": "供给创造自身需求，总需求自动匹配",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>总需求：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>家庭消费、投资、政府支出</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>在各价格水平下确定需求量</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与总供给共同决定产出与价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-aggregate-demand",
+    "w-en-aggregate-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

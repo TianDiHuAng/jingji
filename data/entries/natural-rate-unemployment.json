@@ -1,0 +1,62 @@
+{
+  "id": "natural-rate-unemployment",
+  "title": "自然失业率",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "经济在长期趋向的、与通胀稳定相容的失业水平。",
+  "overview": "自然失业率是经济活动研究中的关键概念，由米尔顿·弗里德曼与埃德蒙·费尔普斯在1960年代提出，两人因相关工作获得诺贝尔经济学奖，该概念的发展被视为获奖的主要动因之一。简化而言，它指经济在长期趋向的失业水平，与通胀加速或减速无关。具体界定与测算待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "摩擦与结构性因素 → 形成长期失业基准",
+      "sources": [
+        "w-en-natural-rate-unemployment"
+      ]
+    },
+    {
+      "step": "实际失业围绕自然率波动（周期性部分）",
+      "sources": [
+        "w-en-natural-rate-unemployment"
+      ]
+    },
+    {
+      "step": "长期无法以需求政策持续压低失业",
+      "sources": [
+        "w-en-phillips-curve"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义/新古典视角",
+      "view": "长期失业趋向自然率，扩张只带来通胀",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-natural-rate-unemployment"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "需求不足可致长期偏离自然率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自然失业率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>摩擦与结构性因素 → 形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际失业围绕自然率波动（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期无法以需求政策持续压</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-natural-rate-unemployment",
+    "w-en-phillips-curve"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

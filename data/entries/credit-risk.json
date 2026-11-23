@@ -1,0 +1,62 @@
+{
+  "id": "credit-risk",
+  "title": "信用风险",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "借款人未能偿还贷款或履行债务义务的可能性。",
+  "overview": "信用风险是借款人未能偿还贷款或履行贷款义务的可能性。对贷款方而言，该风险包括利息与本金的延迟或损失，导致现金流中断与催收成本上升；损失可能是全部或部分的。在有效市场中，较高信用风险将对应更高的风险溢价。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "借款人偿付能力或意愿不足 → 违约可能",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    },
+    {
+      "step": "贷款方遭受利息与本金损失、催收成本上升",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    },
+    {
+      "step": "以更高利率与抵押要求定价风险",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险定价视角",
+      "view": "信用风险由利率与担保结构定价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    },
+    {
+      "holder": "评级/信息视角",
+      "view": "以评级与信息生产缓释不对称",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借款人偿付能力或意愿不足</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款方遭受利息与本金损失</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以更高利率与抵押要求定价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-credit-risk",
+    "w-en-credit-rating"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

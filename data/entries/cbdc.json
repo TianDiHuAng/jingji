@@ -1,0 +1,62 @@
+{
+  "id": "cbdc",
+  "title": "中央银行数字货币(CBDC)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "由中央银行而非私人公司发行的官方货币的数字形式。",
+  "overview": "中央银行数字货币（CBDC）是官方货币的数字版本，由中央银行而非私人公司创造。与比特币等加密货币不同，CBDC 由国家发行，并可能与实物现金并行流通。据维基条目，截至2024年巴哈马、牙买加与尼日利亚已推出CBDC，另有众多国家在研发或试点。具体进展待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行发行数字形式的法定货币 → 直接对公众或银行开放",
+      "sources": [
+        "w-en-cbdc"
+      ]
+    },
+    {
+      "step": "与实物现金并行，提升支付效率与普惠",
+      "sources": [
+        "w-en-cbdc"
+      ]
+    },
+    {
+      "step": "影响银行体系与货币政策传导（需审慎设计）",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "支付/普惠视角",
+      "view": "CBDC 可提升支付效率与金融可及性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-cbdc"
+      ]
+    },
+    {
+      "holder": "银行中介/隐私视角",
+      "view": "可能挤压存款与引发隐私、脱媒关切",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中央银行数字货币(CBDC)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行发行数字形式的法定货</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>与实物现金并行，提升支付</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>影响银行体系与货币政策传</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-cbdc",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

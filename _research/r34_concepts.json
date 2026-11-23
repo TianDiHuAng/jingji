@@ -1,0 +1,77 @@
+{
+  "inflation-expectations": {
+    "title": "Inflation",
+    "extract": "In economics, inflation is an increase in the average price of goods and services in terms of money, though it originally referred to the increase of the money supply that can cause such a universal shift. This increase is measured using a price index, typically a consumer price index (CPI). When the general price level rises, each unit of currency buys fewer goods and services; consequently, inflation corresponds to a reduction in the purchasing power of money. The opposite of inflation is deflation, a decrease in the general price level of goods and services. The common measure of inflation is the inflation rate, the annualized percentage change in a general price index.",
+    "slug": "Inflation_expectations"
+  },
+  "core-inflation": {
+    "title": "Core inflation",
+    "extract": "Core inflation is a type of inflation measure which seeks to represent the underlying long-run trend of aggregate price levels in the economy. This is achieved by removing certain items exhibiting short-term significant price fluctuations within the overall consumer basket. Core inflation is thus intended to be an indicator and predictor of underlying long-term inflation.",
+    "slug": "Core_inflation"
+  },
+  "aggregate-demand": {
+    "title": "Aggregate demand",
+    "extract": "In economics, aggregate demand (AD) or domestic final demand (DFD) is the total demand for final goods and services in an economy at a given time. It is often called effective demand, though at other times this term is distinguished. This is the demand for the gross domestic product of a country. It specifies the amount of goods and services that will be purchased at all possible price levels. Consumer spending, investment, corporate and government expenditure, and net exports make up the aggregate demand.",
+    "slug": "Aggregate_demand"
+  },
+  "aggregate-supply": {
+    "title": "Aggregate supply",
+    "extract": "In economics, aggregate supply (AS) or domestic final supply (DFS) is the total supply of goods and services that firms in a national economy plan on selling during a specific time period. It is the total amount of goods and services that firms are willing and able to sell at a given price level in an economy. Together with aggregate demand it serves as one of two components for the AD–AS model.",
+    "slug": "Aggregate_supply"
+  },
+  "natural-rate-unemployment": {
+    "title": "Natural rate of unemployment",
+    "extract": "The natural rate of unemployment is the name that was given to a key concept in the study of economic activity. Milton Friedman and Edmund Phelps, tackling this 'human' problem in the 1960s, both received the Nobel Memorial Prize in Economic Sciences for their work, and the development of the concept is cited as a main motivation behind the prize. A simplistic summary of the concept is: 'The natural rate of unemployment, when an economy is in a steady state of \"full employment\", is the proportion of the workforce who are unemployed'. Put another way, this concept clarifies that the economic term \"full employment\" does not mean \"zero unemployment\". It represents the hypothetical unemployment rate consistent with aggregate production being at the \"long-run\" level. This level is consistent with aggregate production in the absence of various temporary frictions such as incomplete price adjustment in labor and goods markets. The natural rate of unemployment therefore corresponds to the unemployment rate prevailing under a classical view of determination of activity.",
+    "slug": "Natural_rate_of_unemployment"
+  },
+  "automatic-stabilizer": {
+    "title": "Automatic stabilizer",
+    "extract": "In macroeconomics, automatic stabilizers are features of the structure of modern government budgets, particularly income taxes and welfare spending, that act to reduce fluctuations in real GDP.",
+    "slug": "Automatic_stabilizer"
+  },
+  "government-debt": {
+    "title": "Government debt",
+    "extract": "A country's gross government debt is the financial liabilities of the government sector. Changes in government debt over time reflect primarily borrowing due to past government deficits. A deficit occurs when a government's expenditures exceed revenues. Government debt may be owed to domestic residents, as well as to foreign residents. If owed to foreign residents, that quantity is included in the country's external debt.",
+    "slug": "Government_debt"
+  },
+  "money-multiplier": {
+    "title": "Money multiplier",
+    "extract": "In monetary economics, the money multiplier is the ratio of the money supply to the monetary base. \nIn some simplified expositions, the monetary multiplier is presented as simply the reciprocal of the reserve ratio, if any, required by the central bank. More generally, the multiplier will depend on the preferences of households, the legal regulation and the business policies of commercial banks – factors which the central bank can influence, but not control completely.",
+    "slug": "Money_multiplier"
+  },
+  "neutrality-of-money": {
+    "title": "Neutrality of money",
+    "extract": "\nNeutrality of money is the idea that a change in the money supply affects only nominal variables in the economy such as prices, wages, and exchange rates, with no effect on real variables, like employment, real GDP, and real consumption. Neutrality of money is an important idea in classical economics and is related to the classical dichotomy. It implies that the central bank does not affect the real economy by creating money. Instead, any increase in the supply of money would be offset by a proportional rise in prices and wages. This assumption underlies some mainstream macroeconomic models. However, economists generally find that money is neutral only in the long run; in the short run, price stickiness means changes in the money supply can produce changes in real variables such as employment.",
+    "slug": "Neutrality_of_money"
+  },
+  "seigniorage": {
+    "title": "Seigniorage",
+    "extract": "Seigniorage, also spelled seignorage or seigneurage, is the profit a government makes from issuing currency, which is the difference between the face value of money and the cost of producing it.",
+    "slug": "Seigniorage"
+  },
+  "purchasing-power-parity": {
+    "title": "Purchasing power parity",
+    "extract": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies. PPP is effectively the ratio of the price of a market basket at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs and other transaction costs.",
+    "slug": "Purchasing_power_parity"
+  },
+  "interest-rate-parity": {
+    "title": "Interest rate parity",
+    "extract": "Interest rate parity is a no-arbitrage condition representing an equilibrium state under which investors compare interest rates available on bank deposits in two countries. The fact that this condition does not always hold allows for potential opportunities to earn riskless profits from covered interest arbitrage. Two assumptions central to interest rate parity are capital mobility and perfect substitutability of domestic and foreign assets. Given foreign exchange market equilibrium, the interest rate parity condition implies that the expected return on domestic assets will equal the exchange rate-adjusted expected return on foreign currency assets. Investors then cannot earn arbitrage profits by borrowing in a country with a lower interest rate, exchanging for foreign currency, and investing in a foreign country with a higher interest rate, due to gains or losses from exchanging back to their domestic currency at maturity. Interest rate parity takes on two distinctive forms: uncovered interest rate parity refers to the parity condition in which exposure to foreign exchange risk is uninhibited, whereas covered interest rate parity refers to the condition in which a forward contract has been used to cover exchange rate risk. Each form of the parity condition demonstrates a unique relationship with implications for the forecasting of future exchange rates: the forward exchange rate and the future spot exchange rate.",
+    "slug": "Interest_rate_parity"
+  },
+  "mundell-fleming": {
+    "title": "Mundell–Fleming model",
+    "extract": "The Mundell–Fleming model, also known as the IS-LM-BoP model, is an economic model first set forth (independently) by Robert Mundell and Marcus Fleming. The model is an extension of the IS–LM model. Whereas the traditional IS-LM model deals with economy under autarky, the Mundell–Fleming model describes a small open economy.",
+    "slug": "Mundell%E2%80%93Fleming_model"
+  },
+  "solow-model": {
+    "title": "Solow–Swan model",
+    "extract": "The Solow–Swan model or exogenous growth model is an economic model of long-run economic growth. It attempts to explain long-run economic growth by looking at capital accumulation, labor or population growth, and increases in productivity largely driven by technological progress. At its core, it is an aggregate production function, often specified to be of Cobb–Douglas type, which enables the model \"to make contact with microeconomics\". The model was developed independently by Robert Solow and Trevor Swan in 1956, and superseded the Keynesian Harrod–Domar model.",
+    "slug": "Solow%E2%80%93Swan_model"
+  },
+  "total-factor-productivity": {
+    "title": "Total factor productivity",
+    "extract": "\nTotal-factor productivity (TFP), also called multi-factor productivity, is usually measured as the ratio of aggregate output to aggregate inputs. Under some simplifying assumptions about the production technology, growth in total factor productivity becomes the portion of growth in output not explained by growth in traditionally measured inputs of labour and capital used in production. TFP is calculated by dividing output by the weighted geometric average of labour and capital input, with the standard weighting of 0.7 for labour and 0.3 for capital. Total factor productivity is a measure of productive efficiency in that it measures how much output can be produced from a certain amount of inputs. It accounts for part of the differences in cross-country per-capita income. For relatively small percentage changes, the rate of TFP growth can be estimated by subtracting growth rates of labor and capital inputs from the growth rate of output.",
+    "slug": "Total_factor_productivity"
+  }
+}

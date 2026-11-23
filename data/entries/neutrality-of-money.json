@@ -1,0 +1,62 @@
+{
+  "id": "neutrality-of-money",
+  "title": "货币中性",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "货币供给变化只影响名义变量、不影响实际变量的观点。",
+  "overview": "货币中性是指货币供给变化只影响经济中的名义变量（如价格、工资与汇率），而对实际变量（如就业、实际GDP与实际消费）没有影响的观点。它是古典经济学的重要思想，与\"古典二分法\"相关，意味着中央银行不影响实际变量。其成立时限（长期或短期）存在争论。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "货币供给变化 → 名义价格与工资同比例调整",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    },
+    {
+      "step": "实际变量（产出、就业）不受影响",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    },
+    {
+      "step": "货币政策只决定名义尺度（长期视角）",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "古典/新古典视角",
+      "view": "长期货币中性，货币只是面纱",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "短期货币非中性，可影响产出与就业",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aggregate-demand"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币中性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币供给变化 → 名义价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际变量（产出、就业）不</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策只决定名义尺度（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-neutrality-of-money",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+}

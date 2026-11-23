@@ -1,0 +1,62 @@
+{
+  "id": "stablecoin",
+  "title": "稳定币",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "旨在相对特定资产（或资产池/篮子）保持价值稳定的加密货币。",
+  "overview": "稳定币是一种加密货币，旨在相对某一特定资产、资产池或资产篮子保持价值稳定；指定资产可指法定货币、商品或其他加密货币。尽管名为\"稳定\"，稳定币并不必然稳定，其依赖各类稳定化工具维持锚定。具体机制与风险待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以法币/商品/资产篮子作为价值锚 → 设计稳定机制",
+      "sources": [
+        "w-en-stablecoin"
+      ]
+    },
+    {
+      "step": "通过储备、算法或抵押维持锚定",
+      "sources": [
+        "w-en-stablecoin"
+      ]
+    },
+    {
+      "step": "储备不足或挤兑 → 脱锚与风险外溢",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "支付创新视角",
+      "view": "稳定币可提升跨境支付效率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-stablecoin"
+      ]
+    },
+    {
+      "holder": "货币稳定/监管视角",
+      "view": "储备透明度不足时具挤兑与系统性风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>稳定币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以法币/商品/资产篮子作</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通过储备、算法或抵押维持</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备不足或挤兑 → 脱锚</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-stablecoin",
+    "w-en-cryptocurrency"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+}

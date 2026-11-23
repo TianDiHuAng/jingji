@@ -1,0 +1,82 @@
+{
+  "efficient-market": {
+    "title": "Efficient-market hypothesis",
+    "extract": "The efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information. A direct implication is that it is impossible to \"beat the market\" consistently on a risk-adjusted basis since market prices should only react to new information.",
+    "slug": "Efficient-market_hypothesis"
+  },
+  "behavioral-finance": {
+    "title": "Behavioral economics",
+    "extract": "Behavioral economics is the study of the psychological factors involved in the decisions of individuals or institutions, and how these decisions deviate from those implied by traditional economic theory.",
+    "slug": "Behavioral_economics"
+  },
+  "minsky-moment": {
+    "title": "Minsky moment",
+    "extract": "A Minsky moment is a sudden, major collapse of asset values which marks the end of the growth phase of a cycle in credit markets or business activity.",
+    "slug": "Minsky_moment"
+  },
+  "ponzi-scheme": {
+    "title": "Ponzi scheme",
+    "extract": "A Ponzi scheme is a form of fraud that lures investors and pays apparent profits to earlier investors with funds from more recent investors. Named after Italian con artist Charles Ponzi, this type of scheme misleads investors by either falsely suggesting that profits are derived from legitimate business activities, or by exaggerating the extent and profitability of the legitimate business activities, using new investments to fabricate or supplement these profits. A Ponzi scheme can maintain the illusion of a sustainable business as long as investors continue to contribute new funds, and as long as most of the investors do not demand full repayment or lose faith in the non-existent assets they are purported to own.",
+    "slug": "Ponzi_scheme"
+  },
+  "insider-trading": {
+    "title": "Insider trading",
+    "extract": "Insider trading is the trading of a public company's stock or other securities based on material, nonpublic information about the company. In many countries, trading based on insider information is illegal. The rationale for this prohibition of insider trading differs between countries and regions. Some view it as unfair to other investors in the market who do not have access to the information, as the investor with inside information can potentially make larger profits than an investor without such information. Insider trading is also prohibited to prevent the directors of a company from abusing a company's confidential information for the directors' personal gain.",
+    "slug": "Insider_trading"
+  },
+  "market-manipulation": {
+    "title": "Market manipulation",
+    "extract": "In economics and finance, market manipulation occurs when someone intentionally alters the supply or demand of a security to influence its price. This can involve spreading misleading information, executing misleading trades, or manipulating quotes and prices.",
+    "slug": "Market_manipulation"
+  },
+  "capital-requirement": {
+    "title": "Capital requirement",
+    "extract": "Capital requirements refer to the set of rules and guidance that banks must observe in most current bank prudential frameworks as exist in individual jurisdictions. They form a central component of bank regulation and supervision.",
+    "slug": "Capital_requirement"
+  },
+  "credit-risk": {
+    "title": "Credit risk",
+    "extract": "Credit risk is the chance that a borrower does not repay a loan or fulfill a loan obligation. For lenders the risk includes late or lost interest and principal payment, leading to disrupted cash flows and increased collection costs. The loss may be complete or partial. In an efficient market, higher levels of credit risk will be associated with higher borrowing costs. Because of this, measures of borrowing costs such as yield spreads can be used to infer credit risk levels based on assessments by market participants.",
+    "slug": "Credit_risk"
+  },
+  "value-at-risk": {
+    "title": "Value at risk",
+    "extract": "Value at risk (VaR) is a measure of the risk of loss of investment/capital. It estimates how much a set of investments might lose, given normal market conditions, in a set time period such as a day. VaR is typically used by firms and regulators in the financial industry to gauge the amount of assets needed to cover possible losses.",
+    "slug": "Value_at_risk"
+  },
+  "capm": {
+    "title": "Capital asset pricing model",
+    "extract": "In finance, the capital asset pricing model (CAPM) is a model used to determine a theoretically appropriate required rate of return of an asset, to make decisions about adding assets to a well-diversified portfolio. The model takes into account the asset's sensitivity to non-diversifiable risk, often represented by the quantity beta (β) in the financial industry, as well as the expected return of the market and the expected return of a theoretical risk-free asset.",
+    "slug": "Capital_asset_pricing_model"
+  },
+  "black-scholes": {
+    "title": "Black–Scholes model",
+    "extract": "The Black–Scholes or Black–Scholes–Merton model is a mathematical model for the dynamics of a financial market containing derivative investment instruments. From the parabolic partial differential equation in the model, known as the Black–Scholes equation, one can deduce the Black–Scholes formula, which gives a theoretical estimate of the price of European-style options and shows that the option has a unique price given the risk of the security and its expected return. The equation and model are named after economists Fischer Black and Myron Scholes. Robert C. Merton, who first wrote an academic paper on the subject, is sometimes also credited.",
+    "slug": "Black%E2%80%93Scholes_model"
+  },
+  "financial-deepening": {
+    "title": "Financial deepening",
+    "extract": "Financial deepening is a term used by economists to refer to increasing provision of financial services. It can refer both a wider choice of services and better access for different socioeconomic groups. Financial deepening can have an effect on both individuals' and societies' economic situations.",
+    "slug": "Financial_deepening"
+  },
+  "microfinance": {
+    "title": "Microfinance",
+    "extract": "Microfinance is the provision of financial services to individuals and small businesses, particularly those with low incomes and limited access to conventional banking and related financial services. It encompasses services such as microcredit, savings, checking accounts, microinsurance, and payment systems.",
+    "slug": "Microfinance"
+  },
+  "cryptocurrency": {
+    "title": "Cryptocurrency",
+    "extract": "Cryptocurrency is a type of digital asset that uses distributed ledger, or blockchain, technology to enable a secure transaction.",
+    "slug": "Cryptocurrency"
+  },
+  "stablecoin": {
+    "title": "Stablecoin",
+    "extract": "A stablecoin is a type of cryptocurrency that aims to maintain a stable value relative to a specified asset, a pool or basket of assets. The specified asset might refer to fiat currency, commodity, or other cryptocurrencies. Despite the name, stablecoins are not necessarily stable. Stablecoins rely on stabilization tools such as reserve assets or algorithms that match supply and demand to try to maintain a stable value.",
+    "slug": "Stablecoin"
+  },
+  "cbdc": {
+    "title": "Central bank digital currency",
+    "extract": "A central bank digital currency (CBDC) is a digital version of an official currency, created by a central bank rather than by private companies. Unlike cryptocurrencies such as Bitcoin, CBDCs are issued by a state and may work alongside physical cash. As of 2024, the Bahamas, Jamaica, and Nigeria have launched CBDCs, and 134 countries are researching their own versions while other jurisdictions, such as Florida, have banned CBDCs citing privacy concerns.",
+    "slug": "Central_bank_digital_currency"
+  }
+}
