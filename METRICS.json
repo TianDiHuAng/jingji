@@ -313,6 +313,18 @@
       "check_result": "PASS (160); check_links 171页 0 error",
       "spot_check": "总QA:tier达标0缺/0非法来源/0缺页/0指标冲突",
       "note": "网络恢复(REST可用)：补建长期挂起的2020新冠股灾(L2)；升级25条L1→L2(panic-1847/1866/1901/paris-1882/uk-secondary/rhode-island + bengal/cameroon/俄衰退/河南/缅甸/1884/1930/2002/2011/委内瑞拉x2/乌克兰/阿伦达尔 + 6概念)。层级 L1 20/L2 111/L3 29。"
+    },
+    {
+      "round": "续作E",
+      "date": "2026-11-23",
+      "new_entries": 5,
+      "upgraded": 0,
+      "reviewed": 5,
+      "fixed": 0,
+      "sources_total": 215,
+      "check_result": "PASS (165)",
+      "mode": "maintenance+扩展",
+      "note": "继续扩充经济学知识：新增5概念(羊群行为/经济萧条/经济衰退/古典经济学/长期萧条,用库内未使用verified来源)。网络不稳,剩余19条L1待联网升级。"
     }
   ]
 }
