@@ -1,0 +1,100 @@
+{
+  "id": "barings-1995",
+  "title": "巴林银行倒闭(1995)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "英国商人银行巴林银行1762年由 Francis Baring 创立，1995年因一名交易员的违规交易而倒闭。",
+  "overview": "巴林银行（Barings Bank）是一家总部位于伦敦的英国商人银行，由 Francis Baring 于1762年创立，是英格兰最古老的商人银行之一（仅次于 Berenberg Bank）。1995年该行因一名交易员的未授权交易造成巨额亏损而倒闭，成为操作风险的经典案例。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1762,
+      "display": "1762年",
+      "event": "巴林银行由 Francis Baring 创立（据 Wikipedia Barings Bank）",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    },
+    {
+      "year": 1995,
+      "display": "1995年",
+      "event": "巴林银行因未授权交易巨额亏损而倒闭（同上；细节待核实）",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "交易员同时负责前台交易与后台结算 → 内控失效",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    },
+    {
+      "step": "未授权衍生品交易累积巨额亏损并被隐瞒",
+      "sources": [
+        "w-en-derivative"
+      ]
+    },
+    {
+      "step": "亏损暴露 → 资本金不足、银行倒闭被收购",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "巴林银行成立年份",
+      "value": 1762,
+      "unit": "年",
+      "year": 1762,
+      "comparable_price": false,
+      "note": "原文：It was founded in 1762 by Francis Baring；单一来源待核实。",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "操作风险视角",
+      "view": "职责分离与内控缺失是根本原因",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    },
+    {
+      "holder": "衍生品风险视角",
+      "view": "杠杆化衍生品交易可迅速摧毁资本",
+      "basis": "待核实",
+      "sources": [
+        "w-en-derivative"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-barings-1995"
+      ]
+    }
+  ],
+  "comparison": "与法兴银行(2008)交易员违规案类似，均属操作风险而非系统性金融危机。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴林银行倒闭(1995)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>巴林银行由 Franci</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-barings-1995",
+    "w-en-derivative"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+}

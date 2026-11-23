@@ -1,0 +1,47 @@
+{
+  "freddie-mac": {
+    "title": "Freddie Mac",
+    "extract": "The Federal Home Loan Mortgage Corporation (FHLMC), commonly known as Freddie Mac, is an American publicly traded, government-sponsored enterprise (GSE), headquartered in McLean, Virginia. The FHLMC was created in 1970 to expand the secondary market for mortgages in the US. Along with its sister organization, the Federal National Mortgage Association, Freddie Mac buys mortgages, pools them, and sells them as a mortgage-backed security (MBS) to private investors on the open market. This secondary mortgage market increases the supply of money available for mortgage lending and increases the money available for new home purchases. The name \"Freddie Mac\" is a variant of the FHLMC initialism of the company's full name that was adopted officially for ease of identification.",
+    "slug": "Freddie_Mac"
+  },
+  "indymac": {
+    "title": "IndyMac",
+    "extract": "IndyMac, a contraction of Independent National Mortgage Corporation, was an American bank based in California that failed in 2008 and was seized by the United States Federal Deposit Insurance Corporation (FDIC).",
+    "slug": "IndyMac"
+  },
+  "merrill-lynch": {
+    "title": "Merrill (company)",
+    "extract": "Merrill Lynch, Pierce, Fenner & Smith Incorporated, doing business as Merrill, and previously branded Merrill Lynch, is an American multinational investment management and wealth management division of Bank of America. Along with BofA Securities, the investment banking arm, both firms engage in prime brokerage and broker-dealer activities. The firm is headquartered in New York City, and once occupied the entire 34 stories of 250 Vesey Street, part of the Brookfield Place complex in Manhattan. Merrill employs over 14,000 financial advisors and manages $2.8 trillion in client assets. The company also operates Merrill Edge, an electronic trading platform that had $500 billion in assets from 4 million clients as of January 2025.",
+    "slug": "Merrill_Lynch"
+  },
+  "silicon-valley-bank": {
+    "title": "Silicon Valley Bank",
+    "extract": "Silicon Valley Bank (SVB) was an independent commercial bank that now operates as a division of First Citizens BancShares. In Q4 of 2026, First Citizens will fully integrate SVB and phase out the name entirely. The bank was previously the primary subsidiary of SVB Financial Group, a publicly traded bank holding company that had offices in 15 U.S. states and over a dozen international jurisdictions.",
+    "slug": "Silicon_Valley_Bank"
+  },
+  "first-republic": {
+    "title": "First Republic Bank",
+    "extract": "First Republic Bank was a commercial bank and provider of wealth management services headquartered in San Francisco, California, United States. It catered to high-net-worth individuals and operated 93 offices in 11 states, primarily in New York, California, Massachusetts, and Florida. On May 1, 2023, as part of the 2023 United States banking crisis, the FDIC announced that First Republic had been closed and sold to JPMorgan Chase.",
+    "slug": "First_Republic_Bank"
+  },
+  "signature-bank": {
+    "title": "Signature Bank",
+    "extract": "Signature Bank was an American full-service commercial bank headquartered in New York City and with 40 private client offices in the states of New York, Connecticut, California, Nevada, and North Carolina. In addition to banking products, specialty national businesses provided services specific to industries such as commercial real estate, private equity, mortgage servicing, and venture banking; subsidiaries of the bank provided equipment financing and investment services. At the end of 2022, the bank had total assets of US$110.4 billion and deposits of $82.6 billion; as of 2021, it had loans of $65.25 billion.",
+    "slug": "Signature_Bank"
+  },
+  "bcci": {
+    "title": "Bank of Credit and Commerce International",
+    "extract": "The Bank of Credit and Commerce International (BCCI) was an international bank founded in 1972 by Agha Hasan Abedi, a Pakistani financier. The bank was registered in Luxembourg with head offices in Karachi and London. A decade after opening, BCCI had more than 400 branches in 78 countries and assets in excess of US$20 billion, making it the seventh largest private bank in the world.",
+    "slug": "Bank_of_Credit_and_Commerce_International"
+  },
+  "drexel": {
+    "title": "Drexel Burnham Lambert",
+    "extract": "Drexel Burnham Lambert Inc. was an American multinational investment bank that was forced into bankruptcy in 1990 due to its involvement in illegal activities in the junk bond market, driven by senior executive Michael Milken. At its height, it was a Bulge Bracket bank, as the fifth-largest investment bank in the United States.",
+    "slug": "Drexel_Burnham_Lambert"
+  },
+  "barings-1995": {
+    "title": "Barings Bank",
+    "extract": "Barings Bank was a British merchant bank based in London. It was one of England's oldest merchant banks after Berenberg Bank, Barings' close collaborator and German representative. It was founded in 1762 by Francis Baring, a British-born member of the German–British Baring family of merchants and bankers.",
+    "slug": "Barings_Bank"
+  }
+}

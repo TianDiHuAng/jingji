@@ -1,0 +1,93 @@
+{
+  "id": "first-republic",
+  "title": "第一共和银行倒闭(2023)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "总部旧金山的美国商业银行与财富管理机构，服务高净值客户，2023年倒闭。",
+  "overview": "第一共和银行（First Republic Bank）是一家总部位于美国加利福尼亚州旧金山的商业银行与财富管理服务提供者，服务高净值个人，在11个州运营93个办公室。该行于2023年倒闭，是当年美国银行业危机的又一案例。具体规模待核实。",
+  "timeline": [
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "第一共和银行倒闭（据 Wikipedia First Republic Bank）",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "客户结构集中于高净值与未保险存款 → 脆弱性高",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
+      "step": "SVB倒闭后信心传染 → 存款大量流失",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    },
+    {
+      "step": "救助无效后被接管并出售",
+      "sources": [
+        "w-en-bank-failure"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "第一共和银行网点数",
+      "value": 93,
+      "unit": "个办公室（分布于11州）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：operated 93 offices in 11 states；单一来源待核实。",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "存款结构视角",
+      "view": "未保险存款占比高使挤兑更迅猛",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
+      "holder": "传染视角",
+      "view": "区域性银行间信心传染是关键",
+      "basis": "待核实",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    }
+  ],
+  "comparison": "与硅谷银行、签名银行同属2023年美国区域性银行危机。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>第一共和银行倒闭(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>第一共和银行倒闭（据 W</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-first-republic",
+    "w-en-2023-united-states-banking-crisis",
+    "w-en-bank-failure"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+}

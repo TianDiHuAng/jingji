@@ -1,0 +1,101 @@
+{
+  "id": "freddie-mac",
+  "title": "房地美(Freddie Mac)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "美洲",
+  "crisis_type": "制度",
+  "one_line": "美国联邦住房贷款抵押公司（FHLMC），1970年创建的政府支持企业，总部弗吉尼亚州麦克莱恩。",
+  "overview": "联邦住房贷款抵押公司（FHLMC），通称房地美（Freddie Mac），是一家美国上市交易的政府支持企业（GSE），总部位于弗吉尼亚州麦克莱恩。FHLMC 于1970年创建。它与房利美共同构成美国住房抵押贷款二级市场的两大支柱，2008年危机中被接管。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1970,
+      "display": "1970年",
+      "event": "房地美（FHLMC）创建（据 Wikipedia Freddie Mac）",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "危机中被政府接管（同上；具体安排待核实）",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "GSE 购买并证券化住房按揭 → 提供二级市场流动性",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    },
+    {
+      "step": "隐性政府担保下的高杠杆扩张 → 风险累积",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    },
+    {
+      "step": "房价下跌致损失剧增 → 2008年被接管",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "房地美成立年份",
+      "value": 1970,
+      "unit": "年",
+      "year": 1970,
+      "comparable_price": false,
+      "note": "原文：The FHLMC was created in 1970；单一来源待核实。",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "住房政策视角",
+      "view": "GSE 扩大住房融资可及性",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "隐性担保导致风险社会化",
+      "basis": "待核实",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-freddie-mac"
+      ]
+    }
+  ],
+  "comparison": "与房利美（Fannie Mae）同为美国两大住房 GSE，2008年同期被接管；房利美1938年成立、房地美1970年成立。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>房地美(Freddie Mac)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>房地美（FHLMC）创建</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-freddie-mac",
+    "w-en-moral-hazard",
+    "w-en-fannie-mae"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "drexel",
+  "title": "德崇证券破产(1990)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "美国跨国投资银行德崇证券因垃圾债券市场非法活动于1990年被迫破产，核心人物为 Michael Milken。",
+  "overview": "德崇证券（Drexel Burnham Lambert Inc.）是一家美国跨国投资银行，因涉入垃圾债券市场的非法活动、由高管 Michael Milken 主导，于1990年被迫破产。该案是1980年代杠杆收购与垃圾债券热潮的终结标志。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1990,
+      "display": "1990年",
+      "event": "德崇证券因垃圾债券市场非法活动被迫破产（据 Wikipedia Drexel Burnham Lambert）",
+      "sources": [
+        "w-en-drexel"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "主导垃圾债券承销与杠杆收购融资 → 高速扩张",
+      "sources": [
+        "w-en-drexel"
+      ]
+    },
+    {
+      "step": "内幕交易等违法行为被查处 → 声誉与业务崩塌",
+      "sources": [
+        "w-en-insider-trading"
+      ]
+    },
+    {
+      "step": "客户流失、融资中断 → 1990年破产",
+      "sources": [
+        "w-en-drexel"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "监管执法视角",
+      "view": "违法行为的执法终结了其商业模式",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-drexel"
+      ]
+    },
+    {
+      "holder": "市场结构视角",
+      "view": "垃圾债券市场过度扩张本身不可持续",
+      "basis": "待核实",
+      "sources": [
+        "w-en-leverage"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-drexel"
+      ]
+    }
+  ],
+  "comparison": "与1980年代储贷危机（savings-loan-1986）同期，共同标志美国1980年代金融扩张周期的终结。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>德崇证券破产(1990)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>德崇证券因垃圾债券市场非</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-drexel",
+    "w-en-insider-trading"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+}

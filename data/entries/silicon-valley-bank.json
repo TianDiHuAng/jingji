@@ -1,0 +1,89 @@
+{
+  "id": "silicon-valley-bank",
+  "title": "硅谷银行倒闭(2023)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "硅谷银行（SVB）原为独立商业银行，2023年倒闭，现为 First Citizens 旗下分部。",
+  "overview": "硅谷银行（Silicon Valley Bank, SVB）曾是一家独立商业银行，现作为 First Citizens BancShares 的分部运营；据维基条目，2026年第四季度 First Citizens 将完全整合 SVB 并停用该名称。SVB 于2023年倒闭，是当年美国银行业危机的起点。具体规模待核实。",
+  "timeline": [
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "硅谷银行倒闭，成为2023年美国银行业危机起点（据 Wikipedia Silicon Valley Bank）",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    },
+    {
+      "year": 2026,
+      "display": "2026年第四季度",
+      "event": "First Citizens 计划完全整合 SVB 并停用该名称（同上）",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "存款高度集中于科技企业 + 长期债券久期风险",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    },
+    {
+      "step": "利率急升致债券浮亏 + 存款集中提取 → 挤兑",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    },
+    {
+      "step": "银行倒闭、被收购 → 引发区域性银行连锁压力",
+      "sources": [
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "利率风险视角",
+      "view": "资产久期错配在加息中形成巨额浮亏",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    },
+    {
+      "holder": "数字化挤兑视角",
+      "view": "网络银行时代挤兑速度远超以往",
+      "basis": "待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    }
+  ],
+  "comparison": "与北岩银行(2007)、华盛顿互惠(2008)同属挤兑型倒闭，但SVB挤兑在数日内完成（数字化提款）。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>硅谷银行倒闭(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>硅谷银行倒闭，成为202</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-silicon-valley-bank",
+    "w-en-interest-rate",
+    "w-en-2023-united-states-banking-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+}
