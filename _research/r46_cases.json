@@ -1,0 +1,42 @@
+{
+  "lehman": {
+    "title": "Lehman Brothers",
+    "extract": "Lehman Brothers Holdings Inc. was an American global financial services firm founded in 1850. Before filing for bankruptcy in 2008, Lehman was the fourth-largest investment bank in the United States, with about 25,000 employees worldwide. It operated its business in investment banking, equity, fixed-income and derivatives sales and trading, research, investment management, private equity, and private banking. Lehman was operational for 158 years from its founding in 1850 until 2008.",
+    "slug": "Lehman_Brothers"
+  },
+  "bear-stearns": {
+    "title": "Bear Stearns",
+    "extract": "The Bear Stearns Companies, Inc. was an American holding company that had investment banking, securities trading, and brokerage firm operations. Its former headquarters were located at the Bear Stearns building in Manhattan, New York City.",
+    "slug": "Bear_Stearns"
+  },
+  "northern-rock": {
+    "title": "Northern Rock",
+    "extract": "Northern Rock, formerly the Northern Rock Building Society, was a British bank. Based at Regent Centre in Newcastle upon Tyne, United Kingdom, Northern Rock was originally a building society. It demutualised and became Northern Rock bank in 1997, when it floated on the London Stock Exchange with the ticker symbol NRK.",
+    "slug": "Northern_Rock"
+  },
+  "washington-mutual": {
+    "title": "Washington Mutual",
+    "extract": "Washington Mutual, Inc was an American savings bank holding company based in Seattle. It was the parent company of Washington Mutual Bank, which was the largest savings and loan association in the United States until its collapse in 2008.",
+    "slug": "Washington_Mutual"
+  },
+  "aig": {
+    "title": "American International Group",
+    "extract": "American International Group, Inc. (AIG) is a global insurer headquartered in New York City, with operations in more than 200 countries and jurisdictions. Founded in 1919, the company primarily provides commercial and personal insurance products, including property and casualty insurance, liability coverage, accident and health insurance, and specialty insurance products. The company also provides risk management, multinational, and related insurance services to businesses and individuals.",
+    "slug": "American_International_Group"
+  },
+  "fannie-mae": {
+    "title": "Fannie Mae",
+    "extract": "The Federal National Mortgage Association (FNMA), commonly known as Fannie Mae, is a United States government-sponsored enterprise (GSE) that has been a publicly traded company since 1968. Founded in 1938 during the Great Depression as part of the New Deal, the corporation was established to expand the secondary mortgage market. It does this by securitizing mortgage loans into mortgage-backed securities (MBS), which allows lenders to reinvest their assets into additional lending. This process effectively increases the number of mortgage lenders by reducing reliance on local savings and loan associations. Its sister organization is the Federal Home Loan Mortgage Corporation (FHLMC), better known as Freddie Mac.",
+    "slug": "Fannie_Mae"
+  },
+  "bernie-madoff": {
+    "title": "Bernie Madoff",
+    "extract": "Bernard Lawrence Madoff was an American financier, stock broker, and con artist who was the admitted mastermind of the largest-known Ponzi scheme in history, worth an estimated $65 billion. He was at one time chairman of the Nasdaq stock exchange. Madoff's firm had two basic units: a stock brokerage and an asset management business; the Ponzi scheme was centered in the asset management business.",
+    "slug": "Bernie_Madoff"
+  },
+  "arthur-andersen": {
+    "title": "Arthur Andersen",
+    "extract": "Arthur Andersen LLP was an American accounting firm based in Chicago that provided auditing, tax advising, consulting and other professional services to large corporations. By 2001, it had become one of the world's largest multinational corporations and was one of the \"Big Five\" accounting firms. The firm collapsed by mid-2002, as details of its questionable accounting practices for energy company Enron and telecommunications company WorldCom were revealed amid the two high-profile bankruptcies. The scandals were a factor in the enactment of the Sarbanes–Oxley Act of 2002.",
+    "slug": "Arthur_Andersen"
+  }
+}

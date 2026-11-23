@@ -1,0 +1,100 @@
+{
+  "id": "bernie-madoff",
+  "title": "麦道夫庞氏骗局",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "其他",
+  "one_line": "美国金融家麦道夫策划了史上已知最大的庞氏骗局，估计规模约650亿美元。",
+  "overview": "伯纳德·劳伦斯·麦道夫（Bernard Lawrence Madoff）是一位美国金融家、股票经纪人与诈骗者，他承认是历史上已知最大庞氏骗局的主谋，估计规模约650亿美元。他曾一度担任纳斯达克（Nasdaq）主席。该案成为投资者保护与监管失效的经典案例。具体判决待核实。",
+  "timeline": [
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "麦道夫庞氏骗局曝光（据 Wikipedia Bernie Madoff；具体日期待核实）",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "规模",
+      "event": "估计约650亿美元，为史上已知最大庞氏骗局（同上）",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "以稳定高回报为诱饵吸引投资者 → 资金持续流入",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    },
+    {
+      "step": "以新资金支付旧投资者\"收益\" → 维持假象",
+      "sources": [
+        "w-en-ponzi-scheme"
+      ]
+    },
+    {
+      "step": "赎回压力增大、资金链断裂 → 骗局暴露",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "麦道夫骗局规模(估计)",
+      "value": 65,
+      "unit": "十亿美元（约650亿美元，估计）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：worth an estimated $65 billion；单一来源待核实。",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "欺诈视角",
+      "view": "本质是资金链骗局，收益从未真实产生",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-ponzi-scheme"
+      ]
+    },
+    {
+      "holder": "监管失效视角",
+      "view": "监管机构长期未识别异常回报与账目问题",
+      "basis": "待核实",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    }
+  ],
+  "comparison": "是庞氏骗局（ponzi-scheme）概念的最大规模实例；与FTX等加密欺诈在机制上有相似性。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>麦道夫庞氏骗局：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>麦道夫庞氏骗局曝光（据 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-bernie-madoff",
+    "w-en-ponzi-scheme"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

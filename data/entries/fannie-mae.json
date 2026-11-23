@@ -1,0 +1,109 @@
+{
+  "id": "fannie-mae",
+  "title": "房利美(Fannie Mae)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "美洲",
+  "crisis_type": "制度",
+  "one_line": "美国联邦国民抵押贷款协会（FNMA），1938年大萧条期间成立，1968年起为上市公司，属政府支持企业。",
+  "overview": "联邦国民抵押贷款协会（FNMA），通称房利美（Fannie Mae），是一家美国政府支持企业（GSE），自1968年起为上市公司。它于1938年大萧条期间成立。房利美在美国住房抵押贷款二级市场中扮演核心角色，2008年危机后被接管。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1938,
+      "display": "1938年",
+      "event": "房利美在大萧条期间成立（据 Wikipedia Fannie Mae）",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    },
+    {
+      "year": 1968,
+      "display": "1968年",
+      "event": "房利美成为上市公司（同上）",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "危机中被政府接管（同上；具体安排待核实）",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "GSE 为住房按揭提供二级市场流动性 → 扩大住房融资",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    },
+    {
+      "step": "隐性政府担保 + 高风险敞口 → 道德风险累积",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    },
+    {
+      "step": "房价下跌致损失剧增 → 2008年被接管",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "房利美成立年份",
+      "value": 1938,
+      "unit": "年",
+      "year": 1938,
+      "comparable_price": false,
+      "note": "原文：Founded in 1938 during the Great Depression；单一来源待核实。",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "住房政策视角",
+      "view": "GSE 提升住房融资可及性",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "隐性担保鼓励过度冒险、私有化收益社会化损失",
+      "basis": "待核实",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
+    }
+  ],
+  "comparison": "与房地美（Freddie Mac）同为美国两大住房 GSE，2008年同期被接管。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>房利美(Fannie Mae)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>房利美在大萧条期间成立（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-fannie-mae",
+    "w-en-moral-hazard",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

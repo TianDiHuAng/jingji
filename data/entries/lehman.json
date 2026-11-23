@@ -1,0 +1,101 @@
+{
+  "id": "lehman",
+  "title": "雷曼兄弟破产(2008)",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "美国全球金融服务公司雷曼兄弟1850年成立，2008年破产前为美国第四大投行、约2.5万员工。",
+  "overview": "雷曼兄弟控股公司（Lehman Brothers Holdings Inc.）是一家美国全球金融服务公司，成立于1850年。在2008年申请破产之前，雷曼是美国第四大投资银行，拥有约25000名员工。其破产是2008年全球金融危机的标志性事件，引发系统性恐慌。具体资产负债规模与后续处置待核实。",
+  "timeline": [
+    {
+      "year": 1850,
+      "display": "1850年",
+      "event": "雷曼兄弟成立（据 Wikipedia Lehman Brothers）",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "雷曼申请破产，破产前为美国第四大投行、约2.5万员工（同上）",
+      "sources": [
+        "w-en-lehman"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "高杠杆与大量按揭相关资产 → 房价下跌中损失放大",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
+      "step": "融资市场信心丧失、流动性枯竭 → 无法续滚负债",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    },
+    {
+      "step": "2008年申请破产 → 引发全球金融体系系统性恐慌",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "雷曼破产前员工数",
+      "value": 25000,
+      "unit": "人（约）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：with about 25,000 employees；单一来源待核实。",
+      "sources": [
+        "w-en-lehman"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "杠杆/流动性视角",
+      "view": "高杠杆叠加短期融资依赖导致挤兑式崩塌",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "不救助的决策放大了全局传染",
+      "basis": "待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-lehman"
+      ]
+    }
+  ],
+  "comparison": "与贝尔斯登（被收购）、AIG（被救助）形成2008年三种处置路径的对照：破产、并购、救助。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>雷曼兄弟破产(2008)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>雷曼兄弟成立（据 Wik</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-lehman",
+    "w-en-credit-crunch",
+    "w-en-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

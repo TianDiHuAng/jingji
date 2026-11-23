@@ -1,0 +1,96 @@
+{
+  "id": "arthur-andersen",
+  "title": "安达信(Arthur Andersen)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "美洲",
+  "crisis_type": "制度",
+  "one_line": "美国芝加哥的会计师事务所，2001年已成为世界最大跨国专业服务机构之一，因安然案解体。",
+  "overview": "安达信（Arthur Andersen LLP）是一家总部位于芝加哥的美国会计师事务所，提供审计、税务咨询与其他专业服务。到2001年，它已成为世界最大的跨国（专业服务）机构之一。因安然审计失败，该事务所随后解体，五大会计师事务所变为四大。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1913,
+      "display": "20世纪初",
+      "event": "安达信作为会计师事务所成立（据 Wikipedia Arthur Andersen；具体年份待核实）",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    },
+    {
+      "year": 2001,
+      "display": "2001年",
+      "event": "已成为世界最大跨国专业服务机构之一（同上）",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    },
+    {
+      "year": 2002,
+      "display": "2002年",
+      "event": "因安然审计失败而解体（同上）",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "审计与咨询业务捆绑 → 独立性与利益冲突",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    },
+    {
+      "step": "安然造假未被揭示 → 审计失败暴露",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "step": "事务所信誉崩塌 → 解体，行业格局由五变四",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "审计独立性视角",
+      "view": "咨询收入依赖损害审计独立性",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    },
+    {
+      "holder": "声誉/信息中介视角",
+      "view": "声誉资本一旦崩塌即不可恢复",
+      "basis": "待核实",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-arthur-andersen"
+      ]
+    }
+  ],
+  "comparison": "与安永、德勤、毕马威、普华永道原并称\"五大\"，安达信解体后成为\"四大\"。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>安达信(Arthur Andersen)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>安达信作为会计师事务所成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-arthur-andersen",
+    "w-en-enron"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

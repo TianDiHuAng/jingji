@@ -183,6 +183,12 @@
 | enron | 安然公司丑闻(2001) | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
 | worldcom | 世通公司丑闻(2002) | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
 | defi | 去中心化金融(DeFi) | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
+| lehman | 雷曼兄弟破产(2008) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| bear-stearns | 贝尔斯登(Bear Stearns) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| northern-rock | 北岩银行挤兑(2007) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| washington-mutual | 华盛顿互惠银行倒闭(2008) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| aig | AIG 救助(2008) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| bernie-madoff | 麦道夫庞氏骗局 | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
 
 ## U6 理论与制度
 
@@ -363,3 +369,5 @@
 | global-debt | 全球债务 | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
 | riksbank | 瑞典央行(Sveriges Riksbank) | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
 | bank-of-england | 英格兰银行(Bank of England) | 见条目 | 见条目 | 见条目 | 重要 | 续作Z/AA |
+| fannie-mae | 房利美(Fannie Mae) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |
+| arthur-andersen | 安达信(Arthur Andersen) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AB |

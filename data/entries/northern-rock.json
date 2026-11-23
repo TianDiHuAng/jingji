@@ -1,0 +1,89 @@
+{
+  "id": "northern-rock",
+  "title": "北岩银行挤兑(2007)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "英国银行北岩（Northern Rock）原为建房互助社，2007年遭遇英国百余年来首次大规模挤兑。",
+  "overview": "北岩银行（Northern Rock，前身为 Northern Rock Building Society）是一家英国银行，总部位于纽卡斯尔。它最初是建房互助社，后改制为银行。2007年该行因批发融资中断而遭遇挤兑，成为英国现代银行史上的标志性事件。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1997,
+      "display": "1997年前后",
+      "event": "由建房互助社改制为银行（同上；具体年份待核实）",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年",
+      "event": "北岩银行遭遇挤兑，成为英国现代银行危机标志事件（据 Wikipedia Northern Rock；具体日期待核实）",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "依赖批发融资快速扩张按揭 → 负债端脆弱",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    },
+    {
+      "step": "批发市场冻结 → 融资中断，消息引发储户挤兑",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "step": "央行提供流动性支持、最终被国有化（待核实）",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "融资结构视角",
+      "view": "过度依赖批发融资使银行易受市场冻结冲击",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    },
+    {
+      "holder": "挤兑/存款保险视角",
+      "view": "存款保障不足放大零售挤兑",
+      "basis": "待核实",
+      "sources": [
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    }
+  ],
+  "comparison": "与1930年代美国银行挤兑、2023年硅谷银行同属\"融资结构脆弱+信心崩塌\"型挤兑。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>北岩银行挤兑(2007)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>北岩银行遭遇挤兑，成为英</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-northern-rock",
+    "w-en-bank-run",
+    "w-en-lender-of-last-resort"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

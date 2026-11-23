@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 340,
+  "total": 348,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -4421,6 +4421,110 @@
       "period": "21世纪",
       "region": "全球",
       "crisis_type": "货币"
+    },
+    {
+      "id": "lehman",
+      "level": "L2",
+      "tier": "核心",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "bear-stearns",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "northern-rock",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "washington-mutual",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "aig",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "fannie-mae",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "美洲",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "bernie-madoff",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "其他"
+    },
+    {
+      "id": "arthur-andersen",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "美洲",
+      "crisis_type": "制度"
     }
   ]
 }

@@ -1,0 +1,81 @@
+{
+  "id": "bear-stearns",
+  "title": "贝尔斯登(Bear Stearns)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "美国控股公司，经营投资银行、证券交易与经纪业务，2008年危机中被摩根大通收购。",
+  "overview": "贝尔斯登公司（The Bear Stearns Companies, Inc.）是一家美国控股公司，从事投资银行、证券交易与经纪业务，原总部位于纽约曼哈顿的贝尔斯登大楼。该公司在2008年危机中因流动性枯竭而被紧急收购。具体交易条款待核实。",
+  "timeline": [
+    {
+      "year": 2008,
+      "display": "2008年3月",
+      "event": "贝尔斯登在流动性危机中被摩根大通收购（据 Wikipedia Bear Stearns；具体日期与条款待核实）",
+      "sources": [
+        "w-en-bear-stearns"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大量持有按揭相关证券 → 抵押品价值下跌",
+      "sources": [
+        "w-en-bear-stearns"
+      ]
+    },
+    {
+      "step": "对手方撤资、回购融资中断 → 流动性迅速枯竭",
+      "sources": [
+        "w-en-repo"
+      ]
+    },
+    {
+      "step": "监管促成紧急收购 → 避免无序破产",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "流动性视角",
+      "view": "回购依赖使机构在信心逆转时迅速失血",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-repo"
+      ]
+    },
+    {
+      "holder": "太大不能倒视角",
+      "view": "系统性关联迫使当局促成并购",
+      "basis": "待核实",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bear-stearns"
+      ]
+    }
+  ],
+  "comparison": "与雷曼（破产）、AIG（救助）并列2008年三种处置模式：并购、破产、救助。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贝尔斯登(Bear Stearns)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>贝尔斯登在流动性危机中被</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-bear-stearns",
+    "w-en-repo",
+    "w-en-too-big-to-fail"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}

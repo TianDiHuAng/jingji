@@ -1,0 +1,101 @@
+{
+  "id": "aig",
+  "title": "AIG 救助(2008)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "银行",
+  "one_line": "全球保险公司AIG（1919年成立，业务遍及200多国家）在2008年因衍生品损失被美国政府救助。",
+  "overview": "美国国际集团（AIG）是一家总部位于纽约的全球保险公司，业务遍及200多个国家和地区，成立于1919年，主要提供商业与个人保险。2008年该集团因信用违约互换等衍生品巨额损失而濒临倒闭，最终获得美国政府大规模救助。具体金额待核实。",
+  "timeline": [
+    {
+      "year": 1919,
+      "display": "1919年",
+      "event": "AIG 成立（据 Wikipedia American International Group）",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "AIG 因衍生品损失濒临倒闭，获美国政府救助（同上；具体规模待核实）",
+      "sources": [
+        "w-en-aig"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "保险集团大量承保 CDS 等衍生品 → 隐性杠杆巨大",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "step": "次贷违约上升 → 抵押品追缴与评级下调",
+      "sources": [
+        "w-en-credit-default-swap"
+      ]
+    },
+    {
+      "step": "系统性关联迫使政府救助 → 避免连锁崩溃",
+      "sources": [
+        "w-en-sifi"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "AIG 成立年份",
+      "value": 1919,
+      "unit": "年",
+      "year": 1919,
+      "comparable_price": false,
+      "note": "原文：Founded in 1919；单一来源待核实。",
+      "sources": [
+        "w-en-aig"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "影子银行视角",
+      "view": "保险机构从事类银行衍生品业务，监管不足",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "与金融机构的对手方网络使救助成为必要",
+      "basis": "待核实",
+      "sources": [
+        "w-en-sifi"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-aig"
+      ]
+    }
+  ],
+  "comparison": "与雷曼（破产）形成对照：AIG 因对手方网络被视为不可破产，获得救助。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>AIG 救助(2008)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>AIG 成立（据 Wik</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-aig",
+    "w-en-credit-default-swap",
+    "w-en-sifi"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+}
