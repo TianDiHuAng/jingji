@@ -1,0 +1,62 @@
+{
+  "id": "liquidity-risk",
+  "title": "流动性风险",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "银行",
+  "one_line": "在某段时间内，某金融资产无法足够快速交易而不影响市场价格的风险。",
+  "overview": "流动性风险是一种金融风险：在特定时间段内，某金融资产、证券或商品无法在市场上足够快速地交易，而不影响其市场价格。它与市场风险、信用风险并列为主要金融风险类别，在压力时期尤为突出。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "市场深度不足或交易中断 → 难以快速成交",
+      "sources": [
+        "w-en-liquidity-risk"
+      ]
+    },
+    {
+      "step": "为快速出售须接受折价 → 造成损失",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    },
+    {
+      "step": "集中抛售 → 流动性螺旋与价格暴跌",
+      "sources": [
+        "w-en-credit-crunch"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "市场流动性视角",
+      "view": "流动性风险源于市场深度不足",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity-risk"
+      ]
+    },
+    {
+      "holder": "融资流动性视角",
+      "view": "机构无法续滚负债亦构成流动性风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-maturity-transformation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融技术/风险概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>流动性风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>市场深度不足或交易中断 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>为快速出售须接受折价 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中抛售 → 流动性螺旋</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-liquidity-risk",
+    "w-en-liquidity"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+}

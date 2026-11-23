@@ -435,3 +435,13 @@
 | odious-debt | 恶债 | 理论制度 | 全球 | 债务 | 重要 | 续作AG |
 | hot-money | 热钱 | 理论制度 | 全球 | 货币 | 重要 | 续作AG |
 | carry-trade | 套利交易(carry) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| sovereign-risk | 主权信用风险 | 理论制度 | 全球 | 债务 | 重要 | 续作AH |
+| country-risk | 国家风险 | 理论制度 | 全球 | 制度 | 重要 | 续作AH |
+| basis-point | 基点(bp) | 理论制度 | 全球 | 制度 | 重要 | 续作AH |
+| duration-finance | 久期 | 理论制度 | 全球 | 制度 | 重要 | 续作AH |
+| convexity | 凸性 | 理论制度 | 全球 | 制度 | 重要 | 续作AH |
+| money-creation | 货币创造 | 理论制度 | 全球 | 货币 | 重要 | 续作AH |
+| endogenous-money | 内生货币 | 理论制度 | 全球 | 货币 | 重要 | 续作AH |
+| loanable-funds | 可贷资金理论 | 理论制度 | 全球 | 理论 | 重要 | 续作AH |
+| liquidity-risk | 流动性风险 | 理论制度 | 全球 | 银行 | 重要 | 续作AH |
+| market-risk | 市场风险 | 理论制度 | 全球 | 制度 | 重要 | 续作AH |

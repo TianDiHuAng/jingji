@@ -1,0 +1,62 @@
+{
+  "id": "country-risk",
+  "title": "国家风险",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "在某国投资或放贷的风险，源于商业环境可能的不利变化。",
+  "overview": "国家风险指在某国投资或放贷的风险，它源于商业环境可能发生的不利变化，这些变化可能损害在该国的营业利润或资产价值。国家风险涵盖政治、经济、主权与转移（汇兑）风险等维度。具体评估方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政治或政策环境变化 → 商业环境恶化",
+      "sources": [
+        "w-en-country-risk"
+      ]
+    },
+    {
+      "step": "利润与资产价值受损",
+      "sources": [
+        "w-en-country-risk"
+      ]
+    },
+    {
+      "step": "跨境投资者要求更高回报或退出",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险溢价视角",
+      "view": "国家风险通过更高要求回报定价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-country-risk"
+      ]
+    },
+    {
+      "holder": "分散化视角",
+      "view": "跨国分散可降低特定国家风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-globalization"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融技术/风险概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国家风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政治或政策环境变化 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利润与资产价值受损</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>跨境投资者要求更高回报或</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-country-risk",
+    "w-en-capital-flight"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+}

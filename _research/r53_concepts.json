@@ -1,0 +1,77 @@
+{
+  "financial-repression-2": {
+    "title": "Financial repression",
+    "extract": "Financial repression refers to government implementation of policies to channel domestic funds to the public sector that in a deregulated market environment would go elsewhere. These policies are used to reduce the government's debt-to-GDP ratio.",
+    "slug": "Financial_repression"
+  },
+  "sovereign-risk": {
+    "title": "Sovereign credit risk",
+    "extract": "Sovereign credit risk is the risk of a government of a sovereign state becoming unwilling or unable to meet its loan or bond obligations leading to a sovereign default. Credit rating agencies will take into account the capital, interest, extraneous and procedural defaults, and failures to abide by the terms of bonds or other debt instruments when setting a country's credit rating.",
+    "slug": "Sovereign_risk"
+  },
+  "country-risk": {
+    "title": "Country risk",
+    "extract": "Country risk refers to the risk of investing or lending in a country, arising from possible changes in the business environment that may adversely affect operating profits or the value of assets in the country. For example, financial factors such as currency controls, devaluation or regulatory changes, or stability factors such as mass riots, civil war and other potential events contribute to companies' operational risks. This term is also sometimes referred to as political risk; however, country risk is a more general term that generally refers only to risks influencing all companies operating within or involved with a particular country.",
+    "slug": "Country_risk"
+  },
+  "basis-point": {
+    "title": "Basis point",
+    "extract": "A basis point is one hundredth of 1 percentage point. Changes of interest rates are often stated in basis points. For example, if an existing interest rate of 10 percent is increased by 1 basis point, the new interest rate would be 10.01 percent.",
+    "slug": "Basis_point"
+  },
+  "spread-finance": {
+    "title": "Spread",
+    "extract": "Spread may refer to:",
+    "slug": "Spread_(finance)"
+  },
+  "credit-spread": {
+    "title": "Credit spread",
+    "extract": "Credit spread may refer to:Credit spread (option)\nCredit spread (bond)",
+    "slug": "Credit_spread"
+  },
+  "duration-finance": {
+    "title": "Duration (finance)",
+    "extract": "\nIn finance, duration is a measure of how the price of a fixed-income instrument responds to a change in interest rates. It is used to compare rate risk across bonds and to construct hedges, and is often paired with convexity and the price value of a basis point. Duration-based estimates work best for small, parallel shifts in the yield curve.",
+    "slug": "Duration_(finance)"
+  },
+  "convexity": {
+    "title": "Convexity (finance)",
+    "extract": "In mathematical finance, convexity refers to non-linearities in a financial model. In other words, if the price of an underlying variable changes, the price of an output does not change linearly, but depends on the second derivative of the modeling function. Geometrically, the model is no longer flat but curved, and the degree of curvature is called the convexity.",
+    "slug": "Convexity_(finance)"
+  },
+  "securitisation-2": {
+    "title": "Securitization",
+    "extract": "Securitization is the financial practice of pooling contractual debt obligations and selling their associated cash flows to investors. The financial instruments sold in such transactions are known as securities, types of which include bonds, pass-through securities, and collateralized debt obligations (CDOs). \nInvestors are repaid from the principal and interest cash flows collected from the underlying debt and redistributed through the capital structure of the new financing. \nSecurities backed by mortgage receivables are called mortgage-backed securities (MBS), while those backed by other types of receivables are asset-backed securities (ABS).",
+    "slug": "Securitization"
+  },
+  "repo-2": {
+    "title": "Repurchase agreement",
+    "extract": "A repurchase agreement, also known as a repo, RP, or sale and repurchase agreement, is a form of secured short-term borrowing, usually, though not always, using government securities as collateral. A contracting party sells a security to a lender and, by agreement between the two parties, repurchases the security back shortly afterwards, at a slightly higher contracted price. The difference in the prices and the time interval between sale and repurchase creates an effective interest rate on the loan. The mirror transaction, a \"reverse repurchase agreement,\" is a form of secured contracted lending in which a party buys a security along with a concurrent commitment to sell the security back in the future at a specified time and price. Because this form of funding is often used by dealers, the convention is to reference the dealer's position in a transaction with a counterparty. Central banks also use repo and reverse repo transactions to manage banking system reserves. When the Federal Reserve borrows funds to drain reserves, it can do so by selling a government security from its inventory with a commitment to buy it back in the future; it calls the transaction a reverse repo because the dealer counterparty to the Fed is lending money. Similarly, when the Federal Reserve wishes to add to banking reserves, it can buy a government security with a forward commitment to sell it back. It calls this transaction a repo because the Fed counterparty is borrowing money.",
+    "slug": "Repurchase_agreement"
+  },
+  "money-creation": {
+    "title": "Money creation",
+    "extract": "Money creation, or money issuance, is the process by which the money supply of a country or economic region is increased. In most modern economies, both central banks and commercial banks create money. Central banks issue money as a liability, typically called reserve deposits, which is available only for use by central bank account holders. These account holders are generally large commercial banks and foreign central banks.",
+    "slug": "Money_creation"
+  },
+  "endogenous-money": {
+    "title": "Endogenous money",
+    "extract": "Endogenous money is an economy’s supply of money that is determined endogenously—that is, as a result of the interactions of other economic variables, rather than exogenously (autonomously) by an external authority such as a central bank.",
+    "slug": "Endogenous_money"
+  },
+  "loanable-funds": {
+    "title": "Loanable funds",
+    "extract": "In economics, the \"loanable funds theory\" is the theory that pictures bank loans as the intermediation of real savings, or loanable funds, between non-bank savers and non-bank borrowers.",
+    "slug": "Loanable_funds"
+  },
+  "liquidity-risk": {
+    "title": "Liquidity risk",
+    "extract": "Liquidity risk is a financial risk that for a certain period of time a given financial asset, security or commodity cannot be traded quickly enough in the market without impacting the market price.",
+    "slug": "Liquidity_risk"
+  },
+  "market-risk": {
+    "title": "Market risk",
+    "extract": "Market risk is the risk of losses in positions arising from movements in market variables like prices and volatility.\nThere is no unique classification as each classification may refer to different aspects of market risk. Nevertheless, the most commonly used types of market risk are:Equity risk, the risk that stock or stock indices prices or their implied volatility will change.\nInterest rate risk, the risk that interest rates or their implied volatility will change.\nCurrency risk, the risk that foreign exchange rates or their implied volatility will change.\nCommodity risk, the risk that commodity prices or their implied volatility will change.\nMargining risk results from uncertain future cash outflows due to margin calls covering adverse value changes of a given position.\nShape risk\nHolding period risk\nBasis risk",
+    "slug": "Market_risk"
+  }
+}

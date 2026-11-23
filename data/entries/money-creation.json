@@ -1,0 +1,62 @@
+{
+  "id": "money-creation",
+  "title": "货币创造",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "一国或经济区货币供给增加的过程。",
+  "overview": "货币创造（或货币发行）是一国或经济区货币供给增加的过程。在多数现代经济中，中央银行与商业银行都创造货币：央行创造基础货币，商业银行通过放贷派生存款。理解货币创造机制对分析通胀与信贷周期至关重要。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行投放基础货币 → 银行体系获得准备金",
+      "sources": [
+        "w-en-money-creation"
+      ]
+    },
+    {
+      "step": "银行放贷派生存款 → 广义货币扩张",
+      "sources": [
+        "w-en-money-creation"
+      ]
+    },
+    {
+      "step": "信贷扩张 → 总需求与物价压力",
+      "sources": [
+        "w-en-inflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "内生货币视角",
+      "view": "货币由信贷需求内生创造",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-endogenous-money"
+      ]
+    },
+    {
+      "holder": "外生视角",
+      "view": "央行可通过基础货币控制货币总量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-money-multiplier"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融技术/风险概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币创造：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行投放基础货币 → 银</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行放贷派生存款 → 广</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信贷扩张 → 总需求与物</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-money-creation",
+    "w-en-money-supply"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+}
