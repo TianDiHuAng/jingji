@@ -1,0 +1,62 @@
+{
+  "id": "off-balance-sheet",
+  "title": "表外（表外杠杆）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "未列示于公司资产负债表上的资产、债务或融资活动，亦称隐性杠杆。",
+  "overview": "在会计中，\"表外\"（OBS，或称隐性杠杆）通常描述未列示于公司资产负债表上的资产、债务或融资活动。总收益互换即为表外安排的一个例子。表外结构可掩盖真实杠杆，是安然事件与2008危机中的重要问题。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "通过特殊实体转移资产或负债 → 不列示于资产负债表",
+      "sources": [
+        "w-en-off-balance-sheet"
+      ]
+    },
+    {
+      "step": "真实杠杆被低估 → 风险隐蔽累积",
+      "sources": [
+        "w-en-off-balance-sheet"
+      ]
+    },
+    {
+      "step": "风险暴露后集中暴露 → 信任崩塌",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "透明视角",
+      "view": "表外结构损害信息可比性与监管有效性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-off-balance-sheet"
+      ]
+    },
+    {
+      "holder": "业务视角",
+      "view": "部分表外安排具有真实经济目的（如资产证券化）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-spv"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>表外（表外杠杆）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>通过特殊实体转移资产或负</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>真实杠杆被低估 → 风险</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>风险暴露后集中暴露 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-off-balance-sheet",
+    "w-en-spv"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

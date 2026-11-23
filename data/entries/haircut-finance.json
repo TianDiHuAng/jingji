@@ -1,0 +1,62 @@
+{
+  "id": "haircut-finance",
+  "title": "折扣(haircut)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "资产市值与其用于计算监管资本或贷款抵押时所计价值之间的差额。",
+  "overview": "在金融中，折扣（haircut）是资产当前市场价值与该资产在计算监管资本或作为贷款抵押时所被赋予价值之间的差额。折扣反映抵押品价格波动与流动性风险，压力时期折扣上升会收紧融资。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "抵押品存在价格与流动性风险 → 融资时打折计价",
+      "sources": [
+        "w-en-haircut-finance"
+      ]
+    },
+    {
+      "step": "折扣上升 → 同等抵押品可借资金减少",
+      "sources": [
+        "w-en-haircut-finance"
+      ]
+    },
+    {
+      "step": "压力期折扣骤升 → 强制去杠杆与贱卖",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "审慎视角",
+      "view": "折扣防范抵押品价值下跌损失",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-haircut-finance"
+      ]
+    },
+    {
+      "holder": "顺周期视角",
+      "view": "折扣在压力期上升、放大紧缩",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-leverage-cycle"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>折扣(haircut)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>抵押品存在价格与流动性风</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>折扣上升 → 同等抵押品</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压力期折扣骤升 → 强制</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-haircut-finance",
+    "w-en-repo"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

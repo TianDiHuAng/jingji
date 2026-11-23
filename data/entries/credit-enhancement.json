@@ -1,0 +1,62 @@
+{
+  "id": "credit-enhancement",
+  "title": "信用增级",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "改善结构化金融交易或其产品信用状况的方法。",
+  "overview": "信用增级是改善结构化金融交易信用状况、或用于改善此类产品与交易信用状况的方法。它是结构化金融的关键环节，常见手段包括超额抵押、次级分层、担保与保险。信用增级的效果依赖其真实性与相关性假设。具体方式待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以超额抵押/次级档/担保等方式 → 提升优先级信用",
+      "sources": [
+        "w-en-credit-enhancement"
+      ]
+    },
+    {
+      "step": "评级随之提高 → 吸引更多投资者",
+      "sources": [
+        "w-en-credit-enhancement"
+      ]
+    },
+    {
+      "step": "底层相关性上升 → 增级可能不足",
+      "sources": [
+        "w-en-collateralized-debt-obligation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "结构化视角",
+      "view": "信用增级扩大投资者基础",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-enhancement"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "模型低估尾部相关性使增级失效",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用增级：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以超额抵押/次级档/担保</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>评级随之提高 → 吸引更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>底层相关性上升 → 增级</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-credit-enhancement",
+    "w-en-tranche"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

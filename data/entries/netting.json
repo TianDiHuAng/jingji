@@ -1,0 +1,62 @@
+{
+  "id": "netting",
+  "title": "净额结算（抵销）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "在互有债权债务的双方之间以净头寸替代总头寸的法律技术。",
+  "overview": "在法律中，净额结算（或抵销，set-off）是应用于互有权利与负债的各方之间的一种法律技术：以净头寸替代总头寸。它允许（一方）以自身债权抵销负债。净额结算降低了衍生品市场的对手方敞口，是中央清算的基础。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "双方互有债权债务 → 以净额替代总额",
+      "sources": [
+        "w-en-netting"
+      ]
+    },
+    {
+      "step": "对手方敞口下降 → 系统性风险降低",
+      "sources": [
+        "w-en-netting"
+      ]
+    },
+    {
+      "step": "跨境净额可执行性存疑 → 危机中或失效",
+      "sources": [
+        "w-en-central-counterparty"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险缓释视角",
+      "view": "净额结算显著降低敞口",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-netting"
+      ]
+    },
+    {
+      "holder": "法律风险视角",
+      "view": "跨境破产中净额效力不确定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-counterparty"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>净额结算（抵销）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方互有债权债务 → 以</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>对手方敞口下降 → 系统</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>跨境净额可执行性存疑 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-netting",
+    "w-en-central-counterparty"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

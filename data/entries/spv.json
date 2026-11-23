@@ -1,0 +1,62 @@
+{
+  "id": "spv",
+  "title": "特殊目的实体(SPE/SPV)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "为实现狭窄、特定或临时目标而设立的法律实体。",
+  "overview": "特殊目的实体（SPE，亦称特殊目的载体 SPV 或金融载体公司 FVC）是为实现狭窄、特定或临时目标而设立的法律实体。SPE 常用于资产证券化、项目融资与风险隔离，但也可能被用于表外融资而掩盖风险。具体用法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "设立隔离实体持有特定资产 → 实现破产隔离",
+      "sources": [
+        "w-en-spv"
+      ]
+    },
+    {
+      "step": "发起人转移资产 → 可能形成表外融资",
+      "sources": [
+        "w-en-off-balance-sheet"
+      ]
+    },
+    {
+      "step": "若风险未被充分披露 → 危机中集中暴露",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险隔离视角",
+      "view": "SPE 实现破产隔离与定向融资",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-spv"
+      ]
+    },
+    {
+      "holder": "透明度视角",
+      "view": "SPE 易被用于隐藏杠杆",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-off-balance-sheet"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>特殊目的实体(SPE/SPV)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>设立隔离实体持有特定资产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>发起人转移资产 → 可能</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>若风险未被充分披露 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-spv",
+    "w-en-off-balance-sheet"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

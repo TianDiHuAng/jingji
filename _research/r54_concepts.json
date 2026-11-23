@@ -1,0 +1,82 @@
+{
+  "tranche": {
+    "title": "Tranche",
+    "extract": "In structured finance, a tranche is one of a number of related securities offered as part of the same transaction. In the financial sense of the word, each bond is a different slice of the deal's risk. Transaction documentation usually defines the tranches as different \"classes\" of notes, each identified by letter with different bond credit ratings.",
+    "slug": "Tranche"
+  },
+  "collateral": {
+    "title": "Collateral (finance)",
+    "extract": "In lending agreements, collateral is a borrower's pledge of specific property to a lender, to secure repayment of a loan. The collateral serves as a lender's protection against a borrower's default and so can be used to offset the loan if the borrower fails to pay the principal and interest satisfactorily under the terms of the lending agreement.",
+    "slug": "Collateral_(finance)"
+  },
+  "haircut-finance": {
+    "title": "Haircut (finance)",
+    "extract": "In finance, a haircut is the difference between the current market value of an asset and the value ascribed to that asset for purposes of calculating regulatory capital or loan collateral. The amount of the haircut reflects the perceived risk of the asset falling in value in an immediate cash sale or liquidation. The larger the risk or volatility of the asset price, the larger the haircut.",
+    "slug": "Haircut_(finance)"
+  },
+  "margin-call": {
+    "title": "Margin (finance)",
+    "extract": "In finance, margin is the collateral that a holder of a financial instrument has to deposit with a counterparty to cover some or all of the credit risk the holder poses for the counterparty. This risk can arise if the holder has done any of the following:Borrowed cash from the counterparty to buy financial instruments,\nBorrowed financial instruments to sell them short,\nEntered into a derivative contract.",
+    "slug": "Margin_call"
+  },
+  "fire-sale": {
+    "title": "Fire sale",
+    "extract": "A fire sale is the sale of goods at extremely discounted prices. The term originated in reference to the sale of goods at a heavy discount due to fire damage. It may or may not be defined as a closeout, the final sale of goods to zero inventory. They are said to occur in the financial markets when bidders who value assets highly are prevented from bidding on them, depressing the average selling price below what it otherwise would be. This lowering of the price can cause even further issues because it may be inaccurately perceived as signalling negative information.",
+    "slug": "Fire_sale"
+  },
+  "mark-to-market": {
+    "title": "Mark-to-market accounting",
+    "extract": "Mark-to-market or fair value accounting is accounting for the \"fair value\" of an asset or liability based on the current market price, or the price for similar assets and liabilities, or based on another objectively assessed \"fair\" value. Fair value accounting has been a part of Generally Accepted Accounting Principles (GAAP) in the United States since the early 1990s. Failure to use it is viewed as the cause of the Orange County Bankruptcy, even though its use is considered to be one of the reasons for the Enron scandal and the eventual bankruptcy of the company, as well as the closure of the accounting firm Arthur Andersen.",
+    "slug": "Mark-to-market_accounting"
+  },
+  "off-balance-sheet": {
+    "title": "Off-balance-sheet",
+    "extract": "In accounting, \"off-balance-sheet\" (OBS), or incognito leverage, usually describes an asset, debt, or financing activity not on the company's balance sheet. Total return swaps are an example of an off-balance-sheet item.",
+    "slug": "Off-balance-sheet"
+  },
+  "spv": {
+    "title": "Special-purpose entity",
+    "extract": "A special-purpose entity (SPE), also called a special-purpose vehicle (SPV) or a financial vehicle corporation (FVC), is a legal entity created to fulfill narrow, specific or temporary objectives. SPEs are typically used by companies to isolate the firm from financial risk. A formal definition is \"The Special Purpose Entity is a fenced organization having limited predefined purposes and a legal personality\".",
+    "slug": "Special_purpose_entity"
+  },
+  "rwa": {
+    "title": "Risk-weighted asset",
+    "extract": "Risk-weighted asset (RWA) is a bank's assets which includes retained tranches or off-balance-sheet exposures, weighted according to risk. This sort of asset calculation is used in determining the capital requirement or Capital Adequacy Ratio (CAR) for a financial institution. In the Basel I accord published by the Basel Committee on Banking Supervision, the Committee explains why using a risk-weight approach is the preferred methodology which banks should adopt for capital calculation:it provides an easier approach to compare banks across different geographies\noff-balance-sheet exposures can be easily included in capital adequacy calculations\nbanks are not deterred from carrying low risk liquid assets in their books",
+    "slug": "Risk-weighted_asset"
+  },
+  "seniority": {
+    "title": "Seniority (financial)",
+    "extract": "In finance, seniority refers to the order of repayment in the event of a sale or bankruptcy of the issuer. Seniority can refer to either debt or preferred stock. Senior debt must be repaid before subordinated debt is repaid. Each security, either debt or equity, that a company issues has a specific seniority or ranking. Bonds that have the same seniority in a company's capital structure are described as being pari passu. Preferred stock is senior to common stock in a sale when preferred shareholders must receive back their preference, typically their original investment amount, before the common shareholders receive anything.",
+    "slug": "Seniority_(finance)"
+  },
+  "credit-enhancement": {
+    "title": "Credit enhancement",
+    "extract": "Credit enhancement is the improvement of the credit profile of a structured financial transaction or the methods used to improve the credit profiles of such products or transactions. It is a key part of the securitization transaction in structured finance, and is important for credit rating agencies when rating a securitization.",
+    "slug": "Credit_enhancement"
+  },
+  "capital-structure": {
+    "title": "Capital structure",
+    "extract": "In corporate finance, capital structure refers to the mix of various forms of external funds, known as capital, used to finance a business. It consists of shareholders' equity, debt, and preferred stock, and is detailed in the company's balance sheet. The larger the debt component is in relation to the other sources of capital, the greater financial leverage the firm is said to have. Too much debt can increase the risk of the company and reduce its financial flexibility, which at some point creates concern among investors and results in a greater cost of capital. Company management is responsible for establishing a capital structure for the corporation that makes optimal use of financial leverage and holds the cost of capital as low as possible.",
+    "slug": "Capital_structure"
+  },
+  "netting": {
+    "title": "Set-off (law)",
+    "extract": "In law, set-off or netting is a legal technique applied between persons or businesses with mutual rights and liabilities, replacing gross positions with net positions. It permits the rights to be used to discharge the liabilities where cross claims exist between a plaintiff and a respondent, the result being that the gross claims of mutual debt produce a single net claim. The net claim is known as a net position. In other words, a set-off is the right of a debtor to balance mutual debts with a creditor.",
+    "slug": "Netting"
+  },
+  "clearing-house": {
+    "title": "Clearing house",
+    "extract": "Clearing house or Clearinghouse may refer to:",
+    "slug": "Clearing_house"
+  },
+  "central-counterparty": {
+    "title": "Central counterparty clearing",
+    "extract": "A central clearing counterparty (CCP), also referred to as a central counterparty, is a financial market infrastructure organization that takes on counterparty credit risk between parties to a transaction and provides clearing and settlement services for trades in foreign exchange, securities, options, and derivative contracts. CCPs are highly regulated institutions that specialize in managing counterparty credit risk. An extensive overview of the academic literature can be found in Berndsen (2021).",
+    "slug": "Central_counterparty"
+  },
+  "securitization-tranche": {
+    "title": "Securitization",
+    "extract": "Securitization is the financial practice of pooling contractual debt obligations and selling their associated cash flows to investors. The financial instruments sold in such transactions are known as securities, types of which include bonds, pass-through securities, and collateralized debt obligations (CDOs). \nInvestors are repaid from the principal and interest cash flows collected from the underlying debt and redistributed through the capital structure of the new financing. \nSecurities backed by mortgage receivables are called mortgage-backed securities (MBS), while those backed by other types of receivables are asset-backed securities (ABS).",
+    "slug": "Securitization"
+  }
+}

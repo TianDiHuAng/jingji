@@ -445,3 +445,16 @@
 | loanable-funds | 可贷资金理论 | 理论制度 | 全球 | 理论 | 重要 | 续作AH |
 | liquidity-risk | 流动性风险 | 理论制度 | 全球 | 银行 | 重要 | 续作AH |
 | market-risk | 市场风险 | 理论制度 | 全球 | 制度 | 重要 | 续作AH |
+| tranche | 分层(tranche) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| collateral | 抵押品 | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| haircut-finance | 折扣(haircut) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| fire-sale | 贱卖(fire sale) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| mark-to-market | 市值计价（公允价值会计） | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| off-balance-sheet | 表外（表外杠杆） | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| spv | 特殊目的实体(SPE/SPV) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| rwa | 风险加权资产(RWA) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| seniority | 优先级（清偿顺序） | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| credit-enhancement | 信用增级 | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| capital-structure | 资本结构 | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| netting | 净额结算（抵销） | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| central-counterparty | 中央对手方(CCP) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |

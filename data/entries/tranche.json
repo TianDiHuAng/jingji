@@ -1,0 +1,62 @@
+{
+  "id": "tranche",
+  "title": "分层(tranche)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "结构化金融中，同一笔交易下发行的若干相关证券之一，各代表该交易风险的不同切片。",
+  "overview": "在结构化金融中，分层（tranche）是作为同一交易的一部分而发行的若干相关证券之一。就金融意义而言，每一档债券都是该交易风险的不同切片：优先级先获偿付、次级先承担损失。分层是 CDO 与 MBS 的核心结构。具体结构待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "汇集底层资产现金流 → 按优先级切分为多档",
+      "sources": [
+        "w-en-tranche"
+      ]
+    },
+    {
+      "step": "优先级先获偿付、股权档先担损失",
+      "sources": [
+        "w-en-tranche"
+      ]
+    },
+    {
+      "step": "底层违约上升 → 次级各档依次受损",
+      "sources": [
+        "w-en-collateralized-debt-obligation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "结构化视角",
+      "view": "分层满足不同风险偏好",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-tranche"
+      ]
+    },
+    {
+      "holder": "风险放大视角",
+      "view": "分层与评级依赖掩盖了相关性风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>分层(tranche)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>汇集底层资产现金流 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>优先级先获偿付、股权档先</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>底层违约上升 → 次级各</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-tranche",
+    "w-en-collateralized-debt-obligation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}

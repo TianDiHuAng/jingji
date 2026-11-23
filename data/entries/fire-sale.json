@@ -1,0 +1,62 @@
+{
+  "id": "fire-sale",
+  "title": "贱卖(fire sale)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "以极低折扣价格出售商品或资产的行为。",
+  "overview": "贱卖（fire sale）是以极低折扣价格出售商品的行为，该词最初源于因火灾受损而以大折扣出售货物。在金融中，贱卖指机构在压力下被迫快速出售资产、接受远低于内在价值的价格，从而加剧价格下跌。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "流动性需求紧迫 → 被迫快速出售资产",
+      "sources": [
+        "w-en-fire-sale"
+      ]
+    },
+    {
+      "step": "买家稀少、须大幅折价成交",
+      "sources": [
+        "w-en-fire-sale"
+      ]
+    },
+    {
+      "step": "贱卖价格被用作估值基准 → 传染与螺旋",
+      "sources": [
+        "w-en-mark-to-market"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "流动性视角",
+      "view": "贱卖反映流动性溢价急剧上升",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fire-sale"
+      ]
+    },
+    {
+      "holder": "会计传染视角",
+      "view": "市值计价把贱卖价格传导至其他机构",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-mark-to-market"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "结构化金融/市场基础设施概念，与相关理论及2008危机案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贱卖(fire sale)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>流动性需求紧迫 → 被迫</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>买家稀少、须大幅折价成交</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>贱卖价格被用作估值基准 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-fire-sale",
+    "w-en-liquidity"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+}
