@@ -1,0 +1,80 @@
+{
+  "id": "ldi-strategy",
+  "title": "负债驱动投资(LDI)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "围绕已知负债的规模、时点与风险特征来设计资产组合的资产负债管理方法。",
+  "overview": "负债驱动投资（LDI）是一种资产负债管理方法：围绕已知义务的规模、时点与风险特征来设计资产组合。它被确定给付型养老金计划（DB）与保险公司用于降低融资波动性，并帮助确保在需要时有可用现金。LDI 常使用衍生品对冲利率与通胀风险，在利率剧变时可能引发保证金压力。具体机制待核实。",
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "现代实践",
+      "event": "确定给付型养老金计划与保险公司运用 LDI 降低融资波动（据 Wikipedia Liability-driven investment strategy）",
+      "sources": [
+        "w-en-ldi-strategy"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "养老金/保险有明确负债义务 → 需匹配资产现金流",
+      "sources": [
+        "w-en-ldi-strategy"
+      ]
+    },
+    {
+      "step": "以长债与衍生品对冲利率/通胀风险 → 降低融资波动",
+      "sources": [
+        "w-en-ldi-strategy"
+      ]
+    },
+    {
+      "step": "利率剧变时衍生品需追加保证金 → 被迫抛售资产（流动性风险）",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险管理视角",
+      "view": "LDI 可显著降低养老金融资缺口波动",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-ldi-strategy"
+      ]
+    },
+    {
+      "holder": "流动性风险视角",
+      "view": "杠杆化对冲在利率急升时引发保证金螺旋",
+      "basis": "待核实",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-ldi-strategy"
+      ]
+    }
+  ],
+  "comparison": "作为资产负债管理工具，其风险管理收益与流动性风险并存；与2022年英国国债市场动荡相关（具体关联待核实）。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>负债驱动投资(LDI)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>确定给付型养老金计划与保</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-ldi-strategy",
+    "w-en-margin-finance"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+}

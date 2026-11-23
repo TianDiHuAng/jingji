@@ -1,0 +1,88 @@
+{
+  "id": "spain-2008",
+  "title": "西班牙金融危机(2008–2014)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "2008—2014年西班牙金融危机（西班牙大衰退）：2012年因无力救助金融部门而成为欧元区危机的晚参与者。",
+  "overview": "2008—2014年西班牙金融危机（亦称西班牙大衰退或西班牙大萧条）始于2008年全球金融危机期间。2012年，由于该国无法自行救助其金融部门、不得不寻求外部支持，西班牙成为欧元区危机的较晚参与者。危机的核心是房地产泡沫破裂与银行体系坏账。具体数据待核实。",
+  "timeline": [
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "西班牙金融危机在经济危机期间开始（据 Wikipedia 2008–2014 Spanish financial crisis）",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年",
+      "event": "西班牙无力救助本国金融部门，成为欧元区危机的晚参与者（同上）",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "房地产泡沫破裂 → 银行不良贷款激增",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "step": "银行体系资本不足 → 主权无力独自救助",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "step": "2012年寻求外部支持 → 并入欧元区危机进程",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "房地产/银行视角",
+      "view": "地产泡沫与银行坏账是危机核心",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "holder": "主权-银行关联视角",
+      "view": "银行危机与主权风险相互强化（doom loop）",
+      "basis": "待核实",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    }
+  ],
+  "comparison": "与爱尔兰(2008)、希腊(2010)同属欧元区危机案例，但西班牙以房地产泡沫与银行坏账为主、主权压力次之。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>西班牙金融危机(2008–2014)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>西班牙金融危机在经济危机</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-spain-2008",
+    "w-en-euro-area-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+}

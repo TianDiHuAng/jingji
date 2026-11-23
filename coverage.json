@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 317,
+  "total": 321,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -4122,6 +4122,58 @@
       "period": "20世纪下半",
       "region": "全球",
       "crisis_type": "货币"
+    },
+    {
+      "id": "argentina-2018",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "spain-2008",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "ldi-strategy",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "creditanstalt",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "银行"
     }
   ]
 }

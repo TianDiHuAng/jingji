@@ -1,0 +1,72 @@
+{
+  "id": "creditanstalt",
+  "title": "奥地利 Creditanstalt 银行",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "1855年在维也纳成立的大型奥地利银行，全称 Österreichische Credit-Anstalt für Handel und Gewerbe。",
+  "overview": "Creditanstalt（全称原为 k. k. priv. Österreichische Credit-Anstalt für Handel und Gewerbe）是一家大型奥地利银行，于1855年在维也纳成立。它是奥匈帝国时期重要的金融机构。其后续发展与1931年中欧银行危机的关系有待核实补充。具体信息待核实。",
+  "timeline": [
+    {
+      "year": 1855,
+      "display": "1855年",
+      "event": "Creditanstalt 在维也纳成立（据 Wikipedia Creditanstalt）",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1855年于维也纳成立 → 服务贸易与工业融资",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    },
+    {
+      "step": "发展为奥匈帝国重要金融机构",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    },
+    {
+      "step": "后续危机演化（1931年中欧银行危机）待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "机构史视角",
+      "view": "大型综合性银行在中欧工业化中承担重要融资职能",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    }
+  ],
+  "comparison": "与Danat银行(1931)同属1931年中欧银行危机的相关机构；具体关联与影响待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>奥地利 Creditanstalt 银行：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>Creditanstal</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-creditanstalt",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+}
