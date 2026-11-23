@@ -395,6 +395,18 @@
       "check_result": "PASS (348); check_links 359页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "继续补充：Y(7条当代事件:Terra-LUNA/GameStop/中国2015-16/俄沙油价战/1994债市/瑞信/UBS/加密泡沫) + Z(4:埃及2023/巴西2014/债务陷阱外交/全球债务) + AA(8:安然/世通/牙买加协定/史密森协定/EMS/瑞典央行/英格兰银行/DeFi) + AB(8:雷曼/贝尔斯登/北岩/华盛顿互惠/AIG/房利美/麦道夫/安达信)."
+    },
+    {
+      "round": "续作AC-AD",
+      "date": "2026-11-23",
+      "new_entries": 25,
+      "upgraded": 0,
+      "reviewed": 25,
+      "fixed": 6,
+      "sources_total": 435,
+      "check_result": "PASS (373); check_links 384页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "AC(9条银行/机构案例:房地美/IndyMac/美林/硅谷银行/第一共和/签名银行/BCCI/德崇证券/巴林银行) + AD(16条基础经济学概念:流动性偏好/货币流速/费雪方程/格雷欣法则/机会成本/外部性/公共品/公地悲剧/边际效用/弹性/看不见的手/分工/自由放任/储蓄过剩/全球失衡/储备货币)。"
     }
   ]
 }
