@@ -371,6 +371,18 @@
       "check_result": "PASS (303); check_links 314页 0 error",
       "spot_check": "总QA：tier达标/0非法来源/0缺页/0指标冲突",
       "note": "继续补齐经济学与金融知识体系：新增78条概念(P:14宏观理论; Q:16金融市场/风险/数字资产; R:14经济史/发展; S:15贸易/思想/国际机构; T:16周期/机制/指标; U:16金融工具/市场/核算)。总307条，U6概念覆盖184条。"
+    },
+    {
+      "round": "续作V-X",
+      "date": "2026-11-23",
+      "new_entries": 18,
+      "upgraded": 0,
+      "reviewed": 18,
+      "fixed": 1,
+      "sources_total": 382,
+      "check_result": "PASS (321); check_links 332页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "继续补充：V(10条非传统政策工具:直升机撒钱/MMT/财政主导/YCC/美国债务上限/bailout-bailin/坏账银行/巴黎俱乐部/巴塞尔III/托宾税) + W(4条案例:挪威1988-92/Danat1931/土耳其2001/尼克松冲击1971) + X(4条:阿根廷2018/西班牙2008-14/LDI/Creditanstalt)。用Wikipedia搜索API定位正确页名。"
     }
   ]
 }
