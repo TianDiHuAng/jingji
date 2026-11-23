@@ -1,0 +1,81 @@
+{
+  "id": "global-debt",
+  "title": "全球债务",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "全球范围内所有部门（政府、企业与家庭）所欠货币的总量。",
+  "overview": "全球债务指全球范围内所有部门——包括政府、企业与家庭——所欠货币的总量。它是观察全球杠杆水平与金融脆弱性的总量指标，其构成（公共与私人、国内与跨境）对风险评估至关重要。具体规模数据待核实。",
+  "timeline": [
+    {
+      "year": 2020,
+      "display": "持续累积",
+      "event": "政府、企业与家庭部门债务在全球范围内持续累积（据 Wikipedia Global debt）",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "各部门借贷扩张 → 全球债务总量上升",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    },
+    {
+      "step": "利率上升或收入下降 → 偿付负担加重",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "step": "集中去杠杆 → 需求收缩与金融压力",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "杠杆累积视角",
+      "view": "债务总量上升提高金融脆弱性",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    },
+    {
+      "holder": "结构视角",
+      "view": "需区分公共/私人、本币/外币结构",
+      "basis": "待核实",
+      "sources": [
+        "w-en-government-debt"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    }
+  ],
+  "comparison": "与单一国家的债务问题相比，全球债务视角关注跨境联动与总杠杆水平。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全球债务：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府、企业与家庭部门债务</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-global-debt",
+    "w-en-debt-crisis",
+    "w-en-deleveraging"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+}

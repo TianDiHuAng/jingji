@@ -1,0 +1,88 @@
+{
+  "id": "egypt-2023",
+  "title": "埃及金融危机(2023–2024)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "中东",
+  "crisis_type": "货币",
+  "one_line": "2023年起埃及遭遇经济危机，政府与埃及央行被迫贬值埃镑，主因外汇持续短缺。",
+  "overview": "2023—2024年埃及金融危机是自2023年起冲击埃及的经济危机，导致埃及政府与埃及中央银行贬值埃及镑。危机的重要背景是持续的外汇短缺。埃及长期依赖外部融资与进口，外汇紧张使汇率与偿付承压。具体汇率、通胀与外债数据待核实。",
+  "timeline": [
+    {
+      "year": 2023,
+      "display": "2023年起",
+      "event": "埃及遭遇经济危机，政府与央行贬值埃及镑（据 Wikipedia 2023–2024 Egyptian financial crisis）",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "持续过程",
+      "event": "外汇持续短缺是危机的核心背景（同上）",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "外部融资紧张 + 外汇持续短缺 → 汇率承压",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "step": "央行与政府被迫贬值埃镑",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "step": "贬值推高进口成本与通胀 → 居民购买力受损",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "外部融资视角",
+      "view": "外汇短缺与外部融资紧张是核心约束",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "holder": "货币危机视角",
+      "view": "固定或管理浮动汇率在外汇枯竭时被迫调整",
+      "basis": "待核实",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    }
+  ],
+  "comparison": "与2016年埃及（此前贬值）、阿根廷2018、土耳其2021共享\"外汇短缺→被迫贬值→通胀上升\"机制。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>埃及金融危机(2023–2024)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>埃及遭遇经济危机，政府与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-egypt-2023",
+    "w-en-currency-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+}

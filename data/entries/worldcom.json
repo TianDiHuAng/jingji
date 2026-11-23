@@ -1,0 +1,88 @@
+{
+  "id": "worldcom",
+  "title": "世通公司丑闻(2002)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "其他",
+  "one_line": "2002年6月发现的美国世通公司重大会计丑闻，该公司当时为美国第二大长途电话公司。",
+  "overview": "世通丑闻是2002年6月在世通（WorldCom，当时美国第二大长途电话公司）被发现的重大会计丑闻。据维基条目，1999年至2002年间，由创始人兼首席执行官领导的高级管理人员参与其中。该案与安然并列，成为21世纪初美国公司治理危机的代表。具体金额与判决待核实。",
+  "timeline": [
+    {
+      "year": 2002,
+      "display": "2002年6月",
+      "event": "世通重大会计丑闻被揭露（据 Wikipedia WorldCom scandal）",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    },
+    {
+      "year": 2002,
+      "display": "1999—2002年",
+      "event": "高管层在此期间参与会计造假（同上）",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "管理层为维持业绩预期进行系统性会计造假",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    },
+    {
+      "step": "造假曝光 → 股价崩跌、公司破产",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    },
+    {
+      "step": "与安然案共同推动审计与披露监管强化",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "治理视角",
+      "view": "高管激励与内控失效导致系统性造假",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    },
+    {
+      "holder": "委托代理视角",
+      "view": "代理成本与监督缺位使管理层偏离股东利益",
+      "basis": "待核实",
+      "sources": [
+        "w-en-principal-agent"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    }
+  ],
+  "comparison": "与安然丑闻同属2001—2002年美国会计丑闻潮，均涉及高管层系统性造假。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>世通公司丑闻(2002)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>世通重大会计丑闻被揭露（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-worldcom",
+    "w-en-enron"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "bank-of-england",
+  "title": "英格兰银行(Bank of England)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "欧洲",
+  "crisis_type": "制度",
+  "one_line": "英国中央银行，1694年设立以充任英国政府的银行家与债务管理者，是现代多数央行的模板。",
+  "overview": "英格兰银行（BoE）是英国的中央银行，也是多数现代中央银行所效仿的模板。它于1694年设立，充任英国政府的银行家与债务管理者，至今仍是（重要的央行之一）。其在最后贷款人、货币政策与监管方面的实践影响深远。具体沿革待核实。",
+  "timeline": [
+    {
+      "year": 1694,
+      "display": "1694年",
+      "event": "英格兰银行设立，充任英国政府银行家与债务管理者（据 Wikipedia Bank of England）",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    },
+    {
+      "year": 1800,
+      "display": "19世纪",
+      "event": "在危机中逐步发展最后贷款人职能（具体时间待核实）",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1694年设立 → 为政府融资与发行银行券",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    },
+    {
+      "step": "在金融危机中演化为最后贷款人",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    },
+    {
+      "step": "成为现代央行的制度模板",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度演化视角",
+      "view": "央行职能在危机应对中逐步成型",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    },
+    {
+      "holder": "货币史视角",
+      "view": "其与金本位、货币学派争论密切相关",
+      "basis": "待核实",
+      "sources": [
+        "w-en-banking-school"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    }
+  ],
+  "comparison": "与瑞典央行(1668)并称现代央行源头；英格兰银行更是各国央行制度设计的直接模板。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>英格兰银行(Bank of Englan：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英格兰银行设立，充任英国</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-bank-of-england",
+    "w-en-lender-of-last-resort"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "enron",
+  "title": "安然公司丑闻(2001)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "其他",
+  "one_line": "2001年10月内部大规模欺诈曝光后美国能源公司安然申请破产引发的会计丑闻，并导致其审计机构解体。",
+  "overview": "安然丑闻是一起会计丑闻：在美国能源公司安然（Enron Corporation）于2001年10月内部大规模欺诈的消息公开后申请破产之际爆发，并导致其审计机构解散。该案成为公司治理、审计独立性与信息披露监管改革的标志性事件。具体规模与判决待核实。",
+  "timeline": [
+    {
+      "year": 2001,
+      "display": "2001年10月",
+      "event": "安然内部大规模欺诈消息公开，随后申请破产（据 Wikipedia Enron scandal）",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "year": 2002,
+      "display": "2001年后",
+      "event": "其审计机构随之解散，引发会计与治理监管改革（同上）",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "通过特殊目的实体与会计手法隐藏债务与亏损",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "step": "内部欺诈曝光 → 股价崩跌、评级下调、申请破产",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "step": "审计机构解体 → 引发审计独立性与披露监管改革",
+      "sources": [
+        "w-en-principal-agent"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "治理/审计视角",
+      "view": "审计独立性缺失与激励扭曲使欺诈长期隐藏",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "holder": "信息不对称视角",
+      "view": "复杂结构与表外安排加剧投资者信息劣势",
+      "basis": "待核实",
+      "sources": [
+        "w-en-information-asymmetry"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
+  "comparison": "与世通丑闻(2002)同期，共同推动美国公司治理与审计监管改革。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>安然公司丑闻(2001)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>安然内部大规模欺诈消息公</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-enron",
+    "w-en-principal-agent"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

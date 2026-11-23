@@ -1,0 +1,80 @@
+{
+  "id": "debt-trap-diplomacy",
+  "title": "债务陷阱外交",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "债权国或机构向借款国提供债务，部分或完全是为了增加贷款方的政治影响力。",
+  "overview": "债务陷阱外交是一种国际金融关系：债权国或机构向借款国提供债务，部分或全部目的是增加贷款方的政治杠杆。据说债权国借此扩大影响力，但这一概念在学界与政策界存在较大争议，具体案例的认定亦无共识。具体论述待核实。",
+  "timeline": [
+    {
+      "year": 2017,
+      "display": "概念提出",
+      "event": "债务陷阱外交作为分析概念被用于讨论债权国的政治杠杆（据 Wikipedia Debt-trap diplomacy；具体提出时间待核实）",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "债权国向借款国提供大额贷款 → 债务依存上升",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
+    },
+    {
+      "step": "借款国偿付困难 → 债权国获得谈判筹码",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
+    },
+    {
+      "step": "以资产或政策让步换取重组 → 政治杠杆兑现（争议概念）",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "地缘政治视角",
+      "view": "债务可作为施加政治影响的工具",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "经验证据薄弱，借款国多为主动借款",
+      "basis": "待核实",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
+    }
+  ],
+  "comparison": "与巴黎俱乐部式的协调重组（paris-club）形成对照：前者强调集体协商，后者被指双边杠杆。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债务陷阱外交：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务陷阱外交作为分析概念</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-debt-trap-diplomacy",
+    "w-en-sovereign-default"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+}

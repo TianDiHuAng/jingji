@@ -1,0 +1,118 @@
+{
+  "id": "brazil-2014",
+  "title": "巴西经济危机(2014–2016)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "其他",
+  "one_line": "2014年中至2016年末巴西经历严重经济危机：GDP在2015年下降3.5%、2016年下降3.3%。",
+  "overview": "从2014年中至2016年末，巴西经历了严重的经济危机。该国国内生产总值（GDP）在2015年下降3.5%，2016年下降3.3%，此后开始小幅经济复苏，该复苏持续至2020年。这是巴西历史上最深的衰退之一，兼具周期性下滑与结构性、政治因素。具体成因待核实。",
+  "timeline": [
+    {
+      "year": 2014,
+      "display": "2014年中",
+      "event": "巴西经济危机开始（据 Wikipedia 2014 Brazilian economic crisis）",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "year": 2015,
+      "display": "2015年",
+      "event": "巴西 GDP 下降 3.5%（同上）",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "year": 2016,
+      "display": "2016年",
+      "event": "巴西 GDP 再下降 3.3%，此后开始小幅复苏（同上）",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大宗商品价格下行 + 国内政策与政治不确定性 → 投资与消费收缩",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "step": "GDP 连续两年大幅负增长（-3.5%、-3.3%）",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "step": "2017年起小幅复苏，持续至2020年疫情前",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "巴西GDP增速(2015)",
+      "value": -3.5,
+      "unit": "%（巴西，2015年）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：GDP fell by 3.5% in 2015；单一来源待核实。",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "label": "巴西GDP增速(2016)",
+      "value": -3.3,
+      "unit": "%（巴西，2016年）",
+      "year": 2016,
+      "comparable_price": false,
+      "note": "原文：and 3.3% in 2016；单一来源待核实。",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "大宗商品/外部视角",
+      "view": "商品周期下行冲击资源出口型经济",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    },
+    {
+      "holder": "政策/政治视角",
+      "view": "国内政策失误与政治危机加剧衰退",
+      "basis": "待核实",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
+    }
+  ],
+  "comparison": "与其他新兴市场衰退相比，巴西本轮以国内因素与商品周期叠加为主，而非货币或银行危机。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴西经济危机(2014–2016)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>巴西经济危机开始（据 W</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-brazil-2014"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+}

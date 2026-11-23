@@ -1,0 +1,80 @@
+{
+  "id": "riksbank",
+  "title": "瑞典央行(Sveriges Riksbank)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "欧洲",
+  "crisis_type": "制度",
+  "one_line": "瑞典的中央银行，1668年由议会设立，为世界现存最古老的中央银行。",
+  "overview": "瑞典央行（Sveriges Riksbank，简称 Riksbank）是瑞典的中央银行。它于1668年由瑞典议会（Riksdag）设立，是世界上现存最古老的中央银行，也是持续经营时间第三长的银行。其历史为理解央行的起源与职能演变提供了重要案例。具体沿革待核实。",
+  "timeline": [
+    {
+      "year": 1668,
+      "display": "1668年",
+      "event": "瑞典议会设立 Riksbank，为世界现存最古老央行（据 Wikipedia Sveriges Riksbank）",
+      "sources": [
+        "w-en-riksbank"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1668年由议会设立 → 承担发钞与政府融资职能",
+      "sources": [
+        "w-en-riksbank"
+      ]
+    },
+    {
+      "step": "职能随时代扩展 → 货币政策、金融稳定",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    },
+    {
+      "step": "成为现代央行制度的早期范例",
+      "sources": [
+        "w-en-riksbank"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度起源视角",
+      "view": "央行最初源于政府融资与发钞需要",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-riksbank"
+      ]
+    },
+    {
+      "holder": "比较视角",
+      "view": "与1694年英格兰银行并列现代央行两大源头",
+      "basis": "待核实",
+      "sources": [
+        "w-en-bank-of-england"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-riksbank"
+      ]
+    }
+  ],
+  "comparison": "与英格兰银行(1694)并称现代中央银行的两大源头；瑞典央行历史更久。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>瑞典央行(Sveriges Riksba：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>瑞典议会设立 Riksb</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-riksbank",
+    "w-en-central-bank"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

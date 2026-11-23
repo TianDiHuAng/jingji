@@ -1,0 +1,88 @@
+{
+  "id": "ems",
+  "title": "欧洲货币体系(EMS)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "货币",
+  "one_line": "欧洲经济共同体多数国家将货币相互挂钩、以防相对价值大幅波动的多边可调整汇率协议。",
+  "overview": "欧洲货币体系（EMS）是一项多边可调整汇率协议，欧洲经济共同体（EEC）的多数国家将各自货币相互挂钩，以防止相对价值出现大幅波动。它是欧洲货币一体化的重要阶段，为后来的欧元奠定基础。具体机制与危机待核实。",
+  "timeline": [
+    {
+      "year": 1979,
+      "display": "1979年起",
+      "event": "EMS 建立，EEC 多数国家货币相互挂钩（据 Wikipedia European Monetary System；起始年份待核实）",
+      "sources": [
+        "w-en-ems"
+      ]
+    },
+    {
+      "year": 1992,
+      "display": "1990年代",
+      "event": "体系经历严重汇率危机（如1992年黑色星期三，见相关条目）",
+      "sources": [
+        "w-en-black-wednesday-1992"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "欧洲国家希望稳定汇率、推进一体化 → 建立多边可调整挂钩",
+      "sources": [
+        "w-en-ems"
+      ]
+    },
+    {
+      "step": "各国须协调货币政策、限制汇率波动区间",
+      "sources": [
+        "w-en-ems"
+      ]
+    },
+    {
+      "step": "资本流动下区间承压 → 1992年体系危机",
+      "sources": [
+        "w-en-black-wednesday"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "一体化视角",
+      "view": "EMS 是通向货币联盟的必要阶段",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-ems"
+      ]
+    },
+    {
+      "holder": "三元悖论视角",
+      "view": "固定区间+资本自由流动挤压货币政策独立性",
+      "basis": "待核实",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-ems"
+      ]
+    }
+  ],
+  "comparison": "是布雷顿森林之后最重要的区域汇率安排，其危机（1992）成为不可能三角的经典案例。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲货币体系(EMS)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>EMS 建立，EEC 多</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-ems",
+    "w-en-black-wednesday"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

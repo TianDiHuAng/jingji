@@ -1,0 +1,101 @@
+{
+  "id": "smithsonian-agreement",
+  "title": "史密森协定(1971)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "1971年12月宣布，建立新的美元本位，多国工业国货币钉住美元、允许波动2.25%。",
+  "overview": "史密森协定于1971年12月宣布，创建了一种新的美元本位：若干工业化国家的货币钉住美元，这些货币被允许相对美元波动2.25%。该协定是尼克松冲击后试图挽救固定汇率体系的短期安排，但未能持久。具体内容待核实。",
+  "timeline": [
+    {
+      "year": 1971,
+      "display": "1971年12月",
+      "event": "史密森协定宣布，建立新美元本位、波动区间2.25%（据 Wikipedia Smithsonian Agreement）",
+      "sources": [
+        "w-en-smithsonian-agreement"
+      ]
+    },
+    {
+      "year": 1973,
+      "display": "1971年后",
+      "event": "该安排未能维持，主要货币转向浮动（待核实）",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "尼克松冲击终止美元兑换黄金 → 固定汇率体系失锚",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "step": "史密森协定重设美元平价与2.25%波动区间",
+      "sources": [
+        "w-en-smithsonian-agreement"
+      ]
+    },
+    {
+      "step": "安排未能持久 → 最终由牙买加协定承认浮动汇率",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "史密森协定允许波动区间(1971)",
+      "value": 2.25,
+      "unit": "%（相对美元波动幅度）",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：These currencies were allowed to fluctuate by 2.25% against the dollar；单一来源待核实。",
+      "sources": [
+        "w-en-smithsonian-agreement"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "修补视角",
+      "view": "协定试图以调整平价挽救固定汇率",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-smithsonian-agreement"
+      ]
+    },
+    {
+      "holder": "不可持续视角",
+      "view": "根本失衡未解决，安排迅速失效",
+      "basis": "待核实",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
+  "comparison": "是布雷顿森林体系终结过程中的过渡安排，介于1971年尼克松冲击与1976年牙买加协定之间。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>史密森协定(1971)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>史密森协定宣布，建立新美</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-nixon-shock",
+    "w-en-smithsonian-agreement",
+    "w-en-jamaica-accords"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}

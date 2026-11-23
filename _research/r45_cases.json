@@ -1,0 +1,47 @@
+{
+  "madoff": {
+    "title": "Madoff investment scandal",
+    "extract": "The Madoff investment scandal, sometimes known as Madoffgate, was a financial scandal discovered in late 2008. In December of that year, Bernie Madoff, the former Nasdaq chairman and founder of the Wall Street firm Bernard L. Madoff Investment Securities LLC, admitted that the wealth management arm of his business was an elaborate multi-billion-dollar Ponzi scheme. Madoff founded Bernard L. Madoff Investment Securities LLC in 1960, and was its chairman until his arrest. The firm employed Madoff's brother Peter as senior managing director and chief compliance officer, Peter's daughter Shana Madoff as rules and compliance officer and attorney, and Madoff's sons Mark and Andrew. Peter was sentenced to 10 years in prison, and Mark died by suicide two years to the day after his father's arrest.",
+    "slug": "Madoff_investment_scandal"
+  },
+  "enron": {
+    "title": "Enron scandal",
+    "extract": "The Enron scandal was an accounting scandal sparked by American energy company Enron Corporation filing for bankruptcy after news of widespread internal fraud became public in October 2001, which led to the dissolution of its accounting firm, Arthur Andersen, previously one of the five largest in the world. The largest bankruptcy reorganization in U.S. history at that time, Enron was cited as the biggest audit failure.",
+    "slug": "Enron_scandal"
+  },
+  "worldcom": {
+    "title": "WorldCom scandal",
+    "extract": "\n\nThe WorldCom scandal was a major accounting scandal discovered in June 2002 at WorldCom, then the second-largest long-distance telephone company in the United States. Between 1999 and 2002, senior executives led by founder and CEO Bernard Ebbers engaged in accounting fraud to inflate earnings and maintain the company's stock price.",
+    "slug": "WorldCom_scandal"
+  },
+  "jamaica-accords": {
+    "title": "Jamaica Accords",
+    "extract": "The Jamaica Accords were a set of international agreements that ratified the end of the Bretton Woods monetary system. They took the form of recommendations to change the \"articles of agreement\" that the International Monetary Fund (IMF) was founded upon. The agreement was concluded after meetings by a committee of the board of governors of the IMF, held on 7–8 January 1976 at Kingston, Jamaica.",
+    "slug": "Jamaica_Accords"
+  },
+  "smithsonian-agreement": {
+    "title": "Smithsonian Agreement",
+    "extract": "The Smithsonian Agreement, announced in December 1971, created a new dollar standard, whereby the currencies of a number of industrialized states were pegged to the US dollar. These currencies were allowed to fluctuate by 2.25% against the dollar. The Smithsonian Agreement was created when the Group of Ten (G-10) states raised the price of gold to 38 dollars, an 8.5% increase over the previous price at which the US government had promised to redeem dollars for gold. In effect, the changing gold price devalued the dollar by 7.9%.",
+    "slug": "Smithsonian_Agreement"
+  },
+  "ems": {
+    "title": "European Monetary System",
+    "extract": "\nThe European Monetary System (EMS) was a multilateral adjustable exchange rate agreement in which most of the nations of the European Economic Community (EEC) linked their currencies to prevent large fluctuations in relative value. It was initiated in 1979 under then President of the European Commission Roy Jenkins as an agreement among the Member States of the EEC to foster monetary policy co-operation among their central banks for the purpose of managing inter-community exchange rates and financing exchange market interventions.",
+    "slug": "European_Monetary_System"
+  },
+  "riksbank": {
+    "title": "Sveriges Riksbank",
+    "extract": "Sveriges Riksbank, or simply the Riksbank, is the central bank of Sweden. Established in 1668 by the Riksdag, it is the world's oldest surviving central bank, and the third oldest bank in continuous operation.",
+    "slug": "Sveriges_Riksbank"
+  },
+  "bank-of-england": {
+    "title": "Bank of England",
+    "extract": "The Bank of England (BoE) is the central bank of the United Kingdom and the model on which most modern central banks have been based. Established in 1694 to act as the English Government's banker and debt manager, and still one of the bankers for the government of the United Kingdom, it is the world's second oldest central bank, after Sweden's (1668). It is considered to be one of the world's \"Big Four\" central banks.",
+    "slug": "Bank_of_England"
+  },
+  "defi": {
+    "title": "Decentralized finance",
+    "extract": "Decentralized finance provides financial instruments and services through smart contracts on a programmable, permissionless blockchain. This approach reduces the need for intermediaries such as brokerages, exchanges, or banks. DeFi platforms enable users to lend or borrow funds, speculate on asset price movements using derivatives, trade cryptocurrencies, insure against risks, and earn interest in savings-like accounts. The DeFi ecosystem is built on a layered architecture and highly composable building blocks. While some applications offer high interest rates, they carry high risks. Coding errors and hacks are a common challenge in DeFi. DeFi protocols exhibit varying degrees of decentralization, with truly decentralized protocols potentially acting as neutral infrastructure, while false decentralization leaves protocols open to manipulation and fraud or to being regulated as financial intermediaries.",
+    "slug": "Decentralized_finance"
+  }
+}

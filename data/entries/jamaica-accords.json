@@ -1,0 +1,89 @@
+{
+  "id": "jamaica-accords",
+  "title": "牙买加协定(1976)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "批准布雷顿森林货币体系终结的一组国际协议，形式为修改IMF协定条款的建议。",
+  "overview": "牙买加协定是一组国际协议，批准了布雷顿森林货币体系的终结。它们以向国际货币基金组织（IMF）\"协定条款\"提出修改建议的形式出现。该协定使浮动汇率合法化，奠定了战后第二阶段的国际货币秩序。具体条款待核实。",
+  "timeline": [
+    {
+      "year": 1976,
+      "display": "1976年",
+      "event": "牙买加协定达成，批准布雷顿森林体系终结（据 Wikipedia Jamaica Accords）",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    },
+    {
+      "year": 1976,
+      "display": "1976年后",
+      "event": "以修改IMF协定条款的形式确立新规则（同上）",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "布雷顿森林固定汇率体系在1971年后瓦解 → 需新的法律框架",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "step": "牙买加协定修改IMF协定条款 → 承认浮动汇率",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    },
+    {
+      "step": "形成战后第二阶段国际货币秩序",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "体系演化视角",
+      "view": "协定使既成的浮动汇率事实合法化",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-jamaica-accords"
+      ]
+    },
+    {
+      "holder": "制度视角",
+      "view": "IMF角色从平价管理转向监督与融资",
+      "basis": "待核实",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
+  "comparison": "与1944年布雷顿森林协定、1971年史密森协定共同构成国际货币体系演变的三步。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>牙买加协定(1976)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>牙买加协定达成，批准布雷</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-nixon-shock",
+    "w-en-jamaica-accords",
+    "w-en-imf"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+}
