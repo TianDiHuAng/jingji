@@ -1,7 +1,7 @@
 {
   "id": "kipper-wipper-1618",
   "title": "Kipper und Wipper货币危机(1618–1622)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U1 早期—17世纪",
   "period": "前17世纪",
@@ -9,13 +9,83 @@
   "crisis_type": "货币",
   "one_line": "Kipper und Wipper货币危机(1618–1622)：发生于前17世纪、地区欧洲的货币类案例（轮次12新条目，骨架）。",
   "overview": "Kipper und Wipper货币危机(1618–1622) 是经权威大纲（Wikipedia List of economic crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1618,
+      "display": "30年战争初期",
+      "event": "神圣罗马帝国各城邦为筹措军费大量降低铸币成色（据 Wikipedia Kipper und Wipper）",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    },
+    {
+      "year": 1620,
+      "display": "约1620—1623年",
+      "event": "贬值最严重时期；德意志王国出现饥荒（同上）",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    },
+    {
+      "year": 1623,
+      "display": "1623年后",
+      "event": "当局试图抑制通胀，宣布劣币非法并退出流通（同上）",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "30年战争爆发 → 军费激增",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    },
+    {
+      "step": "各城邦大量降低铸币成色以筹收入 → 货币贬值、通胀",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    },
+    {
+      "step": "约1620-23年贬值最烈并伴饥荒；其后当局禁劣币、回收",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "财政/铸币贬值视角",
+      "view": "战争财政压力导致系统性货币贬值",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    },
+    {
+      "holder": "货币纪律视角",
+      "view": "劣币驱逐良币、需以禁令与回收恢复信用",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
+  "comparison": "与罗马第三世纪危机同属战争财政引发的货币贬值；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Kipper und Wipper货币危：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>神圣罗马帝国各城邦为筹措</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-kipper-wipper-1618",
     "w-en-hyperinflation"
@@ -25,5 +95,5 @@
     "crisis-third-century"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。"
+  "pending_notes": " 【续作H】升L2(据REST摘要)。"
 }

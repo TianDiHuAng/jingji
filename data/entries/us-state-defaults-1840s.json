@@ -1,7 +1,7 @@
 {
   "id": "us-state-defaults-1840s",
   "title": "1840年代美国州政府违约",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,106 @@
   "crisis_type": "债务",
   "one_line": "1840年代美国州政府违约：发生于18—19世纪、地区为北美的债务类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=北美、危机类型=债务。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 1837,
+      "display": "1837年",
+      "event": "恐慌收紧信贷，英格兰银行收缩放贷（据 Wikipedia U.S. state defaults in the 1840s）",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "year": 1840,
+      "display": "1840年代",
+      "event": "阿肯色、伊利诺伊、印第安纳、路易斯安那、马里兰、密歇根、密西西比、宾夕法尼亚、佛罗里达等州违约；4州最终拒付全部或部分债务，3州大规模重组（同上）",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "year": 1841,
+      "display": "1841年",
+      "event": "26个美国州中19个及3个领地中的2个已发行债券、负有州债（同上）",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1834-39通胀期结束 + 1837恐慌 → 英格兰银行收紧对美信贷",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "step": "多州已大量举债(1841年19/26州) → 偿付困难",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "step": "多州违约；4州拒付、3州重组",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "1841年已发债州数",
+      "value": 19,
+      "unit": "个(美国26州中)",
+      "year": 1841,
+      "comparable_price": false,
+      "note": "原文：By 1841, nineteen of the twenty-six U.S. states ... had issued bonds；单一来源待核实。",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "label": "最终拒付州数",
+      "value": 4,
+      "unit": "个(全部或部分债务)",
+      "year": 1845,
+      "comparable_price": false,
+      "note": "原文：Four states ultimately repudiated all or part of their debts；单一来源待核实。",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "外部信贷视角",
+      "view": "英国信贷收缩触发州债偿付危机",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    },
+    {
+      "holder": "财政纪律视角",
+      "view": "州级过度举债与项目失败导致违约",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-us-state-defaults-1840s"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "comparison": "与1837恐慌直接相连，是美国州级主权违约的经典案例；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1840年代美国州政府违约：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>恐慌收紧信贷，英格兰银行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
     "w-en-financial-crisis"
@@ -26,5 +119,5 @@
     "danish-bankruptcy-1813"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作H】升L2(据REST摘要)。"
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 220,
+  "count": 221,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2637,6 +2637,18 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Panic_of_1910%E2%80%931911",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-us-state-defaults-1840s",
+      "title": "State defaults in the 1840s",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/U.S._state_defaults_in_the_1840s",
       "url2": null,
       "verified": true,
       "link_ok": true,
