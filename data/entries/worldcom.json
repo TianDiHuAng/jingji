@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "世通虚增资产规模",
+      "value": 11,
+      "unit": "十亿美元（超110亿，当时美国史上最大会计欺诈）",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：WorldCom had overstated its assets by over $11 billion；单一来源待核实。",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    },
+    {
+      "label": "内部审计发现的虚假分录",
+      "value": 3.8,
+      "unit": "十亿美元（超38亿）",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：identified over $3.8 billion in fraudulent balance sheet entries；单一来源待核实。",
+      "sources": [
+        "w-en-worldcom"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "治理视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。"
 }

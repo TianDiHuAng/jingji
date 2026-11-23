@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "阿根廷年通胀率(危机期)",
+      "value": 30,
+      "unit": "%（超过30%）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：the annual inflation rate was over 30 percent；单一来源待核实。",
+      "sources": [
+        "w-en-argentina-2018"
+      ]
+    },
+    {
+      "label": "政府预算赤字",
+      "value": -8,
+      "unit": "%（占GDP，赤字8%）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：The government budget balance had an 8% deficit；单一来源待核实。",
+      "sources": [
+        "w-en-argentina-2018"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币/通胀视角",
@@ -85,5 +108,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AQ】补关键数据（单源）。"
 }

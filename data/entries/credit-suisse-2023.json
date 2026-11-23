@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "瑞银收购瑞信对价",
+      "value": 3,
+      "unit": "十亿瑞郎（CHF 3bn ≈ US$3.2bn）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：agreed to buy Credit Suisse for CHF 3 billion (US$3.2 billion)；单一来源待核实。",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    },
+    {
+      "label": "被减记至零的AT1债券",
+      "value": 16,
+      "unit": "十亿瑞郎（CHF 16bn ≈ US$17.2bn）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：CHF 16 billion (US$17.2 billion) of Additional Tier 1 (AT1) bonds were written down to zero；单一来源待核实。",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "系统重要性视角",
@@ -85,5 +108,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

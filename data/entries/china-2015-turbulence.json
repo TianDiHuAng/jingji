@@ -55,7 +55,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "上证三周跌幅(至2015-07-09)",
+      "value": -30,
+      "unit": "%（1400家公司停牌，过半上市）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：the Shanghai stock market had fallen 30 percent over three weeks as 1,400 companies ... filed for a trading halt；单一来源待核实。",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    },
+    {
+      "label": "上证单日跌幅(2015-08-24)",
+      "value": -8.48,
+      "unit": "%（2007年以来最大）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：the Shanghai index fell again by 8.48 percent on 24 August, marking the largest fall since 2007；单一来源待核实。",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "杠杆/强制平仓视角",
@@ -92,5 +115,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

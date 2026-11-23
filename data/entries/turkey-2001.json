@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "外资撤离规模",
+      "value": 70,
+      "unit": "十亿美元（700亿）",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：they withdrew $70 billion worth of capital from the country；单一来源待核实。",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "label": "IMF 提供的贷款(2000年11月)",
+      "value": 11.4,
+      "unit": "十亿美元（114亿）",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "原文：In November 2000, the IMF provided Turkey with $11.4 billion in loans；单一来源待核实。",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "宏观失衡视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AQ】补关键数据（单源）。"
 }

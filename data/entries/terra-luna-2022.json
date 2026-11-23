@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "Anchor Protocol 提供的收益率",
+      "value": 19.45,
+      "unit": "%",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：Investors who deposited UST in the Anchor Protocol were receiving a 19.45% yield；单一来源待核实。",
+      "sources": [
+        "w-en-terra-luna-2022"
+      ]
+    },
+    {
+      "label": "LFG 崩盘前持有的比特币储备价值",
+      "value": 2.4,
+      "unit": "十亿美元（80,394枚BTC，约$2.4bn）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：LFG held reserves of 80,394 bitcoin worth approximately $2.4 billion；单一来源待核实。",
+      "sources": [
+        "w-en-terra-luna-2022"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "算法稳定币设计视角",
@@ -85,5 +108,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

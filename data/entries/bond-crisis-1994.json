@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "全球债券市值损失",
+      "value": 1.5,
+      "unit": "万亿美元（$1.5 trillion）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：About $1.5 trillion in lost market value across the globe；单一来源待核实。",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    },
+    {
+      "label": "美联储首次加息(1994)",
+      "value": 3.25,
+      "unit": "%（联邦基金利率目标，自3%上调）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：raise its federal funds rate target from 3% to 3.25%；单一来源待核实。",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "利率风险视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

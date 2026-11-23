@@ -55,7 +55,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "全球股市单日最大跌幅(2020-03-16)",
+      "value": -13,
+      "unit": "%（12—13%，\"黑色星期一II\"）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：the largest drop was on 16 March, nicknamed \"Black Monday II\" of 12–13%；单一来源待核实。",
+      "sources": [
+        "w-en-2020-stock-market-crash"
+      ]
+    },
+    {
+      "label": "10年期美债收益率(低位)",
+      "value": 1.54,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：the yields on 10-year and 30-year U.S. Treasury securities fell to 1.54% and 1.99%；单一来源待核实。",
+      "sources": [
+        "w-en-2020-stock-market-crash"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "外生冲击视角",
@@ -97,5 +120,5 @@
     "bankruptcy-ftx"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与疫情衰退机制据REST摘要；具体股指跌幅、熔断次数、政策规模(财政/货币)待核实补充。"
+  "pending_notes": "L2：时间线与疫情衰退机制据REST摘要；具体股指跌幅、熔断次数、政策规模(财政/货币)待核实补充。 【续作AQ】补关键数据（单源）。"
 }

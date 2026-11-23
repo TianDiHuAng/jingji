@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "与阿联酋的Ras el-Hekma开发协议",
+      "value": 35,
+      "unit": "十亿美元（另加IMF等220亿支持）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：A $35 billion deal with the United Arab Emirates ... along with $22 billion in support from the IMF；单一来源待核实。",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "label": "贸易逆差峰值(2014–2015)",
+      "value": 39.1,
+      "unit": "十亿美元（391亿）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：recording a peak trade deficit in 2014–2015 at US$39.1 billion；单一来源待核实。",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "外部融资视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】 【续作AQ】补关键数据（单源）。"
 }

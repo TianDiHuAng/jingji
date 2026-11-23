@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "油价季度跌幅(2020Q1)",
+      "value": -65,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：facilitated a 65% quarterly fall in the price of oil；单一来源待核实。",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "label": "美国油价跌幅(2020年3月头几周)",
+      "value": -34,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：US oil prices fell by 34%, crude oil fell by 26%, and Brent oil fell by 24%；单一来源待核实。",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "供给冲击视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "安然资产规模(破产时)",
+      "value": 63.4,
+      "unit": "十亿美元（当时美国最大企业破产）",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：Enron's $63.4 billion in assets made it the largest corporate bankruptcy in U.S.；单一来源待核实。",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "label": "股东诉讼索赔与获赔",
+      "value": 40,
+      "unit": "十亿美元（索赔；最终部分获赔72亿）",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：Shareholders filed a $40 billion lawsuit, for which they were eventually partially compensated $7.2 billion；单一来源待核实。",
+      "sources": [
+        "w-en-enron"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "治理/审计视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。"
 }

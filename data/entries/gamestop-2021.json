@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "做空比例(2021年1月)",
+      "value": 140,
+      "unit": "%（占流通股）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：Approximately 140 percent of GameStop's public float had been sold short；单一来源待核实。",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "label": "股价峰值(2021-01-28盘前)",
+      "value": 500,
+      "unit": "美元/股（拆股调整后125美元，近30倍）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：stock price to reach a pre-market value of over US$500 per share ($125 split-adjusted), nearly 30 ti...；单一来源待核实。",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "卖空风险视角",
@@ -84,5 +107,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

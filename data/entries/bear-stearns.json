@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "衍生品名义合约规模(2007)",
+      "value": 13.4,
+      "unit": "万亿美元（其中上市期货1.85万亿）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：notional contract amounts of approximately $13.40 trillion in derivative financial instruments；单一来源待核实。",
+      "sources": [
+        "w-en-bear-stearns"
+      ]
+    },
+    {
+      "label": "第3层资产 vs 净权益(2007财年末)",
+      "value": 28,
+      "unit": "十亿美元（level 3 资产>280亿；净权益仅111亿）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：carrying more than $28 billion in level 3 assets ... versus a net equity position of only $11.1 billion；单一来源待核实。",
+      "sources": [
+        "w-en-bear-stearns"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "流动性视角",
@@ -77,5 +100,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AQ】补关键数据（单源）。"
 }
