@@ -1,0 +1,62 @@
+{
+  "id": "public-choice",
+  "title": "公共选择理论",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "把经济方法（理性选择、博弈论、决策论、社会选择）应用于政治与社会的形式化理论。",
+  "overview": "公共选择（或公共选择理论）是一种政治科学与社会科学的形式化理论，它运用经济学方法——即理性选择理论、博弈论、决策论与社会选择（理论）——来（分析政治过程）。该理论把政治家与官僚视为追求自身利益的主体。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政治主体追求自身利益 → 政策未必服务公共利益",
+      "sources": [
+        "w-en-public-choice"
+      ]
+    },
+    {
+      "step": "寻租与选举周期 → 政策扭曲",
+      "sources": [
+        "w-en-public-choice"
+      ]
+    },
+    {
+      "step": "需规则约束财政与监管行为",
+      "sources": [
+        "w-en-fiscal-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "公共选择视角",
+      "view": "以自利模型分析政治与官僚",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-public-choice"
+      ]
+    },
+    {
+      "holder": "公共利益视角",
+      "view": "政策旨在纠正市场失灵",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-welfare-economics"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学流派/分支概念，与其他理论与概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>公共选择理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政治主体追求自身利益 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>寻租与选举周期 → 政策</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需规则约束财政与监管行为</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-public-choice",
+    "w-en-welfare-economics"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+}

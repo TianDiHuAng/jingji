@@ -1,0 +1,62 @@
+{
+  "id": "welfare-economics",
+  "title": "福利经济学",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "应用微观经济技术评估社会整体福祉的经济学领域。",
+  "overview": "福利经济学是经济学的一个领域，它应用微观经济学技术来评估一个社会的整体福祉（福利）。该领域为成本效益分析、外部性矫正与再分配政策提供规范基础（如帕累托效率与社会福利函数）。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资源配置影响个体与总体福利 → 需评估标准",
+      "sources": [
+        "w-en-welfare-economics"
+      ]
+    },
+    {
+      "step": "市场失灵使配置偏离最优 → 政策干预有据",
+      "sources": [
+        "w-en-externality"
+      ]
+    },
+    {
+      "step": "再分配与效率之间存在权衡",
+      "sources": [
+        "w-en-welfare-economics"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "帕累托视角",
+      "view": "以无人在不损他人的情况下变得更好为标准",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-welfare-economics"
+      ]
+    },
+    {
+      "holder": "社会选择视角",
+      "view": "以社会福利函数加总个体偏好",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-public-choice"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学流派/分支概念，与其他理论与概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>福利经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源配置影响个体与总体福</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场失灵使配置偏离最优 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>再分配与效率之间存在权衡</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-welfare-economics",
+    "w-en-externality"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+}

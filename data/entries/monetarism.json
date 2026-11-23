@@ -1,0 +1,62 @@
+{
+  "id": "monetarism",
+  "title": "货币主义",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "货币经济学中强调决策者控制货币流通量作用的流派。",
+  "overview": "货币主义是货币经济学中的一个思想流派，强调决策者在控制货币流通数量方面的作用。它在1970年代获得突出地位，但（此后）大体上（影响力下降）。货币主义主张通胀本质上是货币现象、反对相机抉择的积极干预。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "货币供给增速过快 → 通胀上升",
+      "sources": [
+        "w-en-monetarism"
+      ]
+    },
+    {
+      "step": "政策应设定货币增长规则 → 稳定预期",
+      "sources": [
+        "w-en-monetarism"
+      ]
+    },
+    {
+      "step": "（实践）货币流通速度不稳 → 货币目标制效果受限",
+      "sources": [
+        "w-en-velocity-of-money"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "通胀是货币现象，政策应遵循规则",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-monetarism"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "货币需求不稳定，应关注总需求与财政",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-keynesian-economics"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学流派/分支概念，与其他理论与概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币主义：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币供给增速过快 → 通</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政策应设定货币增长规则 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（实践）货币流通速度不稳</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-monetarism",
+    "w-en-quantity-theory-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+}

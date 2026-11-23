@@ -461,3 +461,14 @@
 | capital-structure | 资本结构 | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
 | netting | 净额结算（抵销） | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
 | central-counterparty | 中央对手方(CCP) | 理论制度 | 全球 | 制度 | 重要 | 续作AI |
+| monetarism | 货币主义 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| new-keynesian | 新凯恩斯主义 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| post-keynesian | 后凯恩斯主义 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| supply-side | 供给学派 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| institutional-economics | 制度经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| public-choice | 公共选择理论 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| game-theory | 博弈论 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| new-classical | 新古典宏观经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| development-economics | 发展经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| welfare-economics | 福利经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| political-economy | 政治经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |

@@ -1,0 +1,62 @@
+{
+  "id": "institutional-economics",
+  "title": "制度经济学",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "关注演化过程与制度如何塑造经济行为的 Economics 分支。",
+  "overview": "制度经济学关注理解演化过程的作用以及制度在塑造经济行为中的作用。其最初焦点在于托尔斯坦·凡勃伦（Thorstein Veblen）的（本能-习惯）分析。制度经济学强调产权、组织与文化对经济绩效的影响。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "制度（产权、规则、组织）塑造激励 → 影响行为",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    },
+    {
+      "step": "制度演化路径依赖 → 绩效差异持久",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    },
+    {
+      "step": "解释长期增长与国家间分化",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度视角",
+      "view": "制度是经济绩效的根本决定因素",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    },
+    {
+      "holder": "新古典视角",
+      "view": "以要素与技术解释增长",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-solow-model"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学流派/分支概念，与其他理论与概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>制度经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制度（产权、规则、组织）</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>制度演化路径依赖 → 绩</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>解释长期增长与国家间分化</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-institutional-economics",
+    "w-en-great-divergence"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+}

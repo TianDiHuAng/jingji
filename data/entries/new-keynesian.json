@@ -1,0 +1,62 @@
+{
+  "id": "new-keynesian",
+  "title": "新凯恩斯主义",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "致力于为凯恩斯经济学提供微观基础的宏观经济学流派。",
+  "overview": "新凯恩斯主义经济学是一个宏观经济学流派，致力于为凯恩斯经济学提供微观经济学基础。它部分地是对（对）凯恩斯宏观经济（理论）批评的回应而发展起来的。其核心包括名义刚性与不完全竞争等微观摩擦。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "引入名义刚性与不完全竞争 → 为凯恩斯结论提供微观基础",
+      "sources": [
+        "w-en-new-keynesian"
+      ]
+    },
+    {
+      "step": "价格粘性使货币政策短期有效",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    },
+    {
+      "step": "支持逆周期政策（有微观依据）",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "新凯恩斯视角",
+      "view": "微观摩擦使短期政策有效",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-new-keynesian"
+      ]
+    },
+    {
+      "holder": "新古典视角",
+      "view": "市场快速出清、政策无效",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-new-classical"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学流派/分支概念，与其他理论与概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新凯恩斯主义：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>引入名义刚性与不完全竞争</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格粘性使货币政策短期有</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持逆周期政策（有微观依</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-new-keynesian",
+    "w-en-sticky-prices"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+}

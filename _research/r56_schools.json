@@ -1,0 +1,62 @@
+{
+  "monetarism": {
+    "title": "Monetarism",
+    "extract": "Monetarism is a school of thought in monetary economics that emphasizes the role of policy-makers in controlling the amount of money in circulation. It gained prominence in the 1970s, but was mostly abandoned as a direct guidance to monetary policy during the following decade in favor of the rise of inflation targeting through movements of the official interest rate.",
+    "slug": "Monetarism"
+  },
+  "new-keynesian": {
+    "title": "New Keynesian economics",
+    "extract": "New Keynesian economics is a school of macroeconomics that strives to provide microeconomic foundations for Keynesian economics. It developed partly as a response to criticisms of Keynesian macroeconomics by adherents of new classical macroeconomics.",
+    "slug": "New_Keynesian_economics"
+  },
+  "post-keynesian": {
+    "title": "Post-Keynesian economics",
+    "extract": "Post-Keynesian economics is a school of economic thought with its origins in The General Theory of John Maynard Keynes, with subsequent development influenced to a large degree by Michał Kalecki, Joan Robinson, Nicholas Kaldor, Sidney Weintraub, Paul Davidson, Piero Sraffa, Jan Kregel, Basil J Moore, Marc Lavoie, and Tracy Mott. Historian Robert Skidelsky argues that the post-Keynesian school has remained closest to the spirit of Keynes' original work. It is a heterodox approach to economics based on a non-equilibrium approach.",
+    "slug": "Post-Keynesian_economics"
+  },
+  "supply-side": {
+    "title": "Supply-side economics",
+    "extract": "Supply-side economics is a macroeconomic theory postulating that economic growth can be most effectively fostered by lowering taxes, decreasing regulation, and allowing free trade. According to supply-side economics theory, consumers will benefit from greater supply of goods and services at lower prices, and employment will increase. Supply-side fiscal policies are designed to increase aggregate supply, as opposed to aggregate demand, thereby expanding output and employment while lowering prices. Such policies are of several general varieties:Investments in human capital, such as education, healthcare, and encouraging the transfer of technologies and business processes, to improve productivity. Encouraging globalized free trade via containerization is a major recent example.\nTax reduction, to provide incentives to work, invest and take risks. Lowering income tax rates and eliminating or lowering tariffs are examples of such policies.\nInvestments in new capital equipment and research and development (R&D), to further improve productivity. Allowing businesses to depreciate capital equipment more rapidly gives them an immediate financial incentive to invest in such equipment.\nReduction in government regulations, to encourage business formation and expansion.",
+    "slug": "Supply-side_economics"
+  },
+  "institutional-economics": {
+    "title": "Institutional economics",
+    "extract": "Institutional economics focuses on understanding the role of the evolutionary process and the role of institutions in shaping economic behavior. Its original focus lay in Thorstein Veblen's instinct-oriented dichotomy between technology on the one side and the \"ceremonial\" sphere of society on the other. Its name and core elements trace back to a 1919 American Economic Review article by Walton H. Hamilton. Institutional economics emphasizes a broader study of institutions and views markets as a result of the complex interaction of these various institutions. In general, the distinction of Institutional Economics is that, while Classical Economics focused on exchange between actors in markets or through macro level income flows and factors of production, Institution Economists placed their focus within productive units as organizations composed of people in societies. This gave Institutional Economics a broad purview within the social sciences, and an empirical focus on real world interactions to explain things abstract models based on homo economicus did not. The earlier tradition continues today as a leading heterodox approach to economics. Institutional Economics, particularly New Institutional Economics, also continues to contribute to a wide variety of disciplines, including Industrial Relations, Organizational Theory, Management Studies and Public Administration, among others.",
+    "slug": "Institutional_economics"
+  },
+  "public-choice": {
+    "title": "Public choice",
+    "extract": "Public choice, or public choice theory, is a formal theory of political and social science that applies economic methods—namely, rational choice theory, game theory, decision theory, and social choice theory—to study political agents and their interactions. Public choice research includes theories of political behaviour, political economics, public economy, and constitutional economics.",
+    "slug": "Public_choice_theory"
+  },
+  "game-theory": {
+    "title": "Game theory",
+    "extract": "Game theory is the field of applied mathematics that models strategic interactions between rational agents as \"games\" between \"players\". It is a scientific method of describing, predicting, evaluating, and selecting choices, often with the view of maximizing utility outcomes for one or more players.",
+    "slug": "Game_theory"
+  },
+  "new-classical": {
+    "title": "New classical macroeconomics",
+    "extract": "New classical macroeconomics is a school of thought in macroeconomics based on a neoclassical framework. It emphasizes the importance of foundations based on microeconomics, especially rational expectations.",
+    "slug": "New_classical_macroeconomics"
+  },
+  "behavioral-econ": {
+    "title": "Behavioral economics",
+    "extract": "Behavioral economics is the study of the psychological factors involved in the decisions of individuals or institutions, and how these decisions deviate from those implied by traditional economic theory.",
+    "slug": "Behavioral_economics"
+  },
+  "development-economics": {
+    "title": "Development economics",
+    "extract": "Development economics is a branch of economics that deals with economic aspects of the development process in low- and middle- income countries. Its focus is not only on methods of promoting economic development, economic growth and structural change but also on improving the potential for the mass of the population, for example, through health, education and workplace conditions, whether through public or private channels.",
+    "slug": "Development_economics"
+  },
+  "welfare-economics": {
+    "title": "Welfare economics",
+    "extract": "Welfare economics is a field of economics that applies microeconomic techniques to evaluate the overall well-being (welfare) of a society.",
+    "slug": "Welfare_economics"
+  },
+  "political-economy": {
+    "title": "Political economy",
+    "extract": "Political economy – sometimes referred to as comparative economy – is an interdisciplinary field in political science and economics that studies the relationship between political and economic systems, including how they influence each other.",
+    "slug": "Political_economy"
+  }
+}
