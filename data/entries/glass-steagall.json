@@ -1,0 +1,62 @@
+{
+  "id": "glass-steagall",
+  "title": "格拉斯-斯蒂格尔法案(1933)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "美国1933年银行法中分离商业银行与投资银行的四项条款。",
+  "overview": "格拉斯-斯蒂格尔立法指美国1933年《银行法》中分离商业银行与投资银行的四项条款。该法案在大萧条后建立了商业银行业务与投资银行业务之间的\"防火墙\"，后于1990年代被大幅废止，常被引为2008年危机的一个背景因素。具体条款待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "1929危机后 → 国会立法分离两类银行业务",
+      "sources": [
+        "w-en-glass-steagall"
+      ]
+    },
+    {
+      "step": "商业银行与投资银行分业经营 → 降低利益冲突与风险交叉",
+      "sources": [
+        "w-en-glass-steagall"
+      ]
+    },
+    {
+      "step": "1990年代放松/废止 → 混业重新扩张（争议）",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "分业视角",
+      "view": "防火墙降低存款机构承担证券风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-glass-steagall"
+      ]
+    },
+    {
+      "holder": "混业视角",
+      "view": "分业限制规模经济与多元化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>格拉斯-斯蒂格尔法案(1933)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1929危机后 → 国会</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>商业银行与投资银行分业经</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1990年代放松/废止 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-glass-steagall",
+    "w-en-bank-regulation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

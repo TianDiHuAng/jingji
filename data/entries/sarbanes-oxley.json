@@ -1,0 +1,62 @@
+{
+  "id": "sarbanes-oxley",
+  "title": "萨班斯-奥克斯利法案(2002)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "2002年7月30日颁布的美国联邦法律，规定公司财务记录与报告的特定做法。",
+  "overview": "《萨班斯-奥克斯利法案》（2002年）是一部美国联邦法律，强制要求公司在财务记录与报告中遵循特定做法。该法于2002年7月30日颁布，是对安然与世通等会计丑闻的立法回应，强化了内控、审计独立性与高管责任。具体条款待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "安然、世通等会计丑闻 → 投资者信心受损",
+      "sources": [
+        "w-en-sarbanes-oxley"
+      ]
+    },
+    {
+      "step": "2002年7月30日立法 → 强化内控与审计独立性",
+      "sources": [
+        "w-en-sarbanes-oxley"
+      ]
+    },
+    {
+      "step": "提高披露要求与高管责任",
+      "sources": [
+        "w-en-principal-agent"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "监管强化视角",
+      "view": "更严内控与审计提升信息可信度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sarbanes-oxley"
+      ]
+    },
+    {
+      "holder": "成本视角",
+      "view": "合规成本对小企业负担较重",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>萨班斯-奥克斯利法案(2002)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>安然、世通等会计丑闻 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2002年7月30日立法</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>提高披露要求与高管责任</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-sarbanes-oxley",
+    "w-en-enron"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

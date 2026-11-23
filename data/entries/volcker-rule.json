@@ -1,0 +1,62 @@
+{
+  "id": "volcker-rule",
+  "title": "沃尔克规则",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "多德-弗兰克法案第619条，限制银行以自有账户从事自营交易等高风险业务。",
+  "overview": "沃尔克规则是《多德-弗兰克华尔街改革与消费者保护法》第619条。该规则最初由美国经济学家、前美联储主席保罗·沃尔克（Paul Volcker）于2010年提出，用以限制（银行从事高风险自营交易等）。其具体实施与豁免存在争论。具体条款待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "银行以自有账户自营交易 → 承担高风险并可能获隐性担保",
+      "sources": [
+        "w-en-volcker-rule"
+      ]
+    },
+    {
+      "step": "规则限制自营交易与相关基金投资",
+      "sources": [
+        "w-en-volcker-rule"
+      ]
+    },
+    {
+      "step": "降低存款机构的风险承担与道德风险",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险隔离视角",
+      "view": "限制自营交易可保护存款与 taxpayer",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-volcker-rule"
+      ]
+    },
+    {
+      "holder": "流动性视角",
+      "view": "限制做市可能削弱市场流动性（有争议）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>沃尔克规则：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行以自有账户自营交易 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>规则限制自营交易与相关基</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>降低存款机构的风险承担与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-volcker-rule",
+    "w-en-dodd-frank"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "optimum-currency-area",
+  "title": "最优货币区",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "共享单一货币能使经济效率最大化的地理区域。",
+  "overview": "在经济学中，最优货币区（OCA）或最优货币区域（OCR）是这样一种地理区域：让整个区域共享单一货币将最大化经济效率。该理论用于评估货币联盟（如欧元区）的合理性，强调要素流动性、开放度与冲击对称性等条件。具体标准待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "区域内要素流动充分、冲击对称 → 单一货币效率最高",
+      "sources": [
+        "w-en-optimum-currency-area"
+      ]
+    },
+    {
+      "step": "缺乏这些条件时 → 单一货币带来调整成本",
+      "sources": [
+        "w-en-optimum-currency-area"
+      ]
+    },
+    {
+      "step": "构成评估货币联盟的理论基准",
+      "sources": [
+        "w-en-currency-union"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "最优货币区视角",
+      "view": "满足条件时共享货币提升效率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-optimum-currency-area"
+      ]
+    },
+    {
+      "holder": "主权/调整视角",
+      "view": "不满足条件时丧失汇率与货币政策工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>最优货币区：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>区域内要素流动充分、冲击</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>缺乏这些条件时 → 单一</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>构成评估货币联盟的理论基</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-optimum-currency-area",
+    "w-en-currency-union"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

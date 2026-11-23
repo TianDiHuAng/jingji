@@ -423,3 +423,15 @@
 | menu-cost | 菜单成本 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
 | monetary-transmission | 货币政策传导机制 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
 | adaptive-expectations | 适应性预期 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| optimum-currency-area | 最优货币区 | 理论制度 | 全球 | 货币 | 重要 | 续作AG |
+| glass-steagall | 格拉斯-斯蒂格尔法案(1933) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| dodd-frank | 多德-弗兰克法案(2010) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| volcker-rule | 沃尔克规则 | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| tarp | 问题资产救助计划(TARP) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| sarbanes-oxley | 萨班斯-奥克斯利法案(2002) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| financial-inclusion | 金融包容 | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| financial-disintermediation | 金融脱媒 | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
+| credit-rationing | 信贷配给 | 理论制度 | 全球 | 理论 | 重要 | 续作AG |
+| odious-debt | 恶债 | 理论制度 | 全球 | 债务 | 重要 | 续作AG |
+| hot-money | 热钱 | 理论制度 | 全球 | 货币 | 重要 | 续作AG |
+| carry-trade | 套利交易(carry) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |

@@ -1,0 +1,62 @@
+{
+  "id": "carry-trade",
+  "title": "套利交易(carry)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "资产的持有回报（carry）：持有它的收益或成本；常见为借低息货币买高息资产。",
+  "overview": "资产的 carry 是持有它所得的回报，或持有它的成本。例如商品通常是负 carry 资产，因为持有需承担仓储成本或可能贬值。在汇率语境中，carry trade 指借入低利率货币、投资高利率资产以赚取利差。该类交易在波动骤升时可能集中平仓。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "低利率货币借款 → 投资高利率资产",
+      "sources": [
+        "w-en-carry-trade"
+      ]
+    },
+    {
+      "step": "赚取利差（carry）→ 若汇率稳定则收益可观",
+      "sources": [
+        "w-en-carry-trade"
+      ]
+    },
+    {
+      "step": "波动骤升或汇率逆转 → 集中平仓、放大冲击",
+      "sources": [
+        "w-en-leverage"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "收益视角",
+      "view": "carry trade 提供利差收益与流动性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-carry-trade"
+      ]
+    },
+    {
+      "holder": "风险视角",
+      "view": "拥挤交易在逆转时引发踩踏式平仓",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-leverage-cycle"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>套利交易(carry)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>低利率货币借款 → 投资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>赚取利差（carry）→</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>波动骤升或汇率逆转 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-carry-trade",
+    "w-en-leverage"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

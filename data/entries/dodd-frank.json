@@ -1,0 +1,62 @@
+{
+  "id": "dodd-frank",
+  "title": "多德-弗兰克法案(2010)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "2010年7月21日颁布的美国联邦法律，是应对2007—2008年金融危机的主要立法。",
+  "overview": "《多德-弗兰克华尔街改革与消费者保护法》（通称多德-弗兰克法案）是一部美国联邦法律，于2010年7月21日颁布，作为对2007—2008年金融危机的主要立法回应。它涉及系统性风险监管、消费者保护、衍生品与处置机制等。具体条款待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "2007—2008 金融危机暴露监管缺口 → 立法回应",
+      "sources": [
+        "w-en-dodd-frank"
+      ]
+    },
+    {
+      "step": "2010年7月21日颁布 → 建立宏观审慎与消费者保护框架",
+      "sources": [
+        "w-en-dodd-frank"
+      ]
+    },
+    {
+      "step": "引入沃尔克规则、压力测试与处置规划等工具",
+      "sources": [
+        "w-en-volcker-rule"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "改革视角",
+      "view": "填补系统性风险与消费者保护缺口",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-dodd-frank"
+      ]
+    },
+    {
+      "holder": "负担视角",
+      "view": "合规成本上升、抑制信贷与做市",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>多德-弗兰克法案(2010)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2007—2008 金融</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2010年7月21日颁布</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>引入沃尔克规则、压力测试</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-dodd-frank",
+    "w-en-bank-regulation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

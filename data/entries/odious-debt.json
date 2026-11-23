@@ -1,0 +1,62 @@
+{
+  "id": "odious-debt",
+  "title": "恶债",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "国际法中的一种法律理论：专制政权所借国债不应被强制执行。",
+  "overview": "在国际法中，恶债（亦称非法债务）是一种法律理论，主张由专制政权所产生的国家债务不应具有可执行性。按此学说，此类债务被视为（不应由继任政府承担）。该理论在实践中的适用极具争议。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "专制政权借债用于非公益目的 → 债务合法性受质疑",
+      "sources": [
+        "w-en-odious-debt"
+      ]
+    },
+    {
+      "step": "继任政府主张债务不可执行 → 拒绝偿付",
+      "sources": [
+        "w-en-odious-debt"
+      ]
+    },
+    {
+      "step": "与主权债务重组、债权人协调相交织",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "恶债视角",
+      "view": "非代表人民利益的债务不应继承",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-odious-debt"
+      ]
+    },
+    {
+      "holder": "债权人视角",
+      "view": "广义适用会破坏债务契约的可预期性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>恶债：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>专制政权借债用于非公益目</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>继任政府主张债务不可执行</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与主权债务重组、债权人协</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-odious-debt",
+    "w-en-sovereign-default"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}

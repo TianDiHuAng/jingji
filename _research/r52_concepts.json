@@ -1,0 +1,72 @@
+{
+  "optimum-currency-area": {
+    "title": "Optimum currency area",
+    "extract": "In economics, an optimum currency area (OCA) or optimal currency region (OCR) is a geographical region in which it would maximize economic efficiency to have the entire region share a single currency.",
+    "slug": "Optimum_currency_area"
+  },
+  "glass-steagall": {
+    "title": "Glass–Steagall legislation",
+    "extract": "The Glass–Steagall legislation describes four provisions of the United States Banking Act of 1933 separating commercial and investment banking.",
+    "slug": "Glass%E2%80%93Steagall_Act"
+  },
+  "dodd-frank": {
+    "title": "Dodd–Frank Act",
+    "extract": "The Dodd–Frank Wall Street Reform and Consumer Protection Act, commonly referred to as the Dodd–Frank Act, is a United States federal law enacted on July 21, 2010, as the primary legislative response to the 2007–2008 financial crisis—the worst financial crisis since the Great Depression. Named for its sponsors, Senator Chris Dodd and Representative Barney Frank, the law was signed by President Barack Obama on July 21, 2010. Its stated purposes are to promote financial stability, end \"too big to fail,\" prevent taxpayer-funded bailouts, and protect consumers from abusive financial practices.",
+    "slug": "Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act"
+  },
+  "volcker-rule": {
+    "title": "Volcker Rule",
+    "extract": "The Volcker Rule is section 619 of the Dodd–Frank Wall Street Reform and Consumer Protection Act. The rule was originally proposed by American economist and former United States Federal Reserve chair Paul Volcker in 2010 to restrict United States banks from making certain kinds of speculative investments that do not benefit their customers. It was not implemented until July 2015.\nVolcker argued that such speculative activity played a key role in the 2008 financial crisis. The rule is often referred to as a ban on proprietary trading by commercial banks, whereby deposits are used to trade on the bank's own accounts, although a number of exceptions to this ban were included in the Dodd–Frank law.",
+    "slug": "Volcker_Rule"
+  },
+  "tarp": {
+    "title": "Troubled Asset Relief Program",
+    "extract": "\n\nThe Troubled Asset Relief Program (TARP) is a program of the United States government to purchase toxic assets and equity from financial institutions to strengthen its financial sector that was passed by Congress and signed into law by President George W. Bush. It was a component of the government's measures in 2008 to address the subprime mortgage crisis.",
+    "slug": "Troubled_Asset_Relief_Program"
+  },
+  "sarbanes-oxley": {
+    "title": "Sarbanes–Oxley Act",
+    "extract": "The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations. The act, Pub. L. 107–204 (text) (PDF), 116 Stat. 745, enacted July 30, 2002, also known as the \"Public Company Accounting Reform and Investor Protection Act\" and \"Corporate and Auditing Accountability, Responsibility, and Transparency Act\" and commonly abbreviated SOX or Sarbox, contains eleven sections that place requirements on all American public company boards of directors and management and public accounting firms. A number of provisions of the act also apply to privately held companies, such as the willful destruction of evidence to impede a federal investigation.",
+    "slug": "Sarbanes%E2%80%93Oxley_Act"
+  },
+  "financial-inclusion": {
+    "title": "Financial inclusion",
+    "extract": "Financial inclusion is the availability and equality of opportunities to access financial services. It refers to processes by which individuals and businesses can access appropriate, affordable, and timely financial products and services—which include banking, loan, equity, and insurance products. It provides paths to enhance inclusiveness in economic growth by enabling the unbanked population to access the means for savings, investment, and insurance towards improving household income and reducing income inequality.",
+    "slug": "Financial_inclusion"
+  },
+  "financial-disintermediation": {
+    "title": "Disintermediation",
+    "extract": "Disintermediation is the removal of intermediaries in economics from a supply chain, or \"cutting out the middlemen\" in connection with a transaction or a series of transactions. Instead of going through traditional distribution channels, which had some type of intermediary, companies deal with customers directly and vice versa, for example via the Internet.",
+    "slug": "Disintermediation"
+  },
+  "credit-rationing": {
+    "title": "Credit rationing",
+    "extract": "Credit rationing by definition is limiting the lenders of the supply of additional credit to borrowers who demand funds at a set quoted rate by the financial institution. It is an example of market failure, as the price mechanism fails to bring about equilibrium in the market. It should not be confused with cases where credit is simply \"too expensive\" for some borrowers, that is, situations where the interest rate is deemed too high. With credit rationing, the borrower would like to acquire the funds at the current rates, and the imperfection is the absence of supply from the financial institutions, despite willing borrowers. In other words, at the prevailing market interest rate, demand exceeds supply, but lenders are willing neither to lend enough additional funds to satisfy demand, nor to raise the interest rate they charge borrowers because they are already maximising profits, or are using a cautious approach to continuing to meet their capital reserve requirements.",
+    "slug": "Credit_rationing"
+  },
+  "odious-debt": {
+    "title": "Odious debt",
+    "extract": "In international law, odious debt, also known as illegitimate debt, is a legal theory that says that the national debt incurred by a despotic regime should not be enforceable. Such debts are, thus, considered by this doctrine to be personal debts of the government that incurred them and not debts of the state. In some respects, the concept is analogous to the invalidity of contracts signed under coercion. Whether or not it is possible to discharge debts in this manner is a matter of dispute.",
+    "slug": "Odious_debt"
+  },
+  "hot-money": {
+    "title": "Hot money",
+    "extract": "In economics, hot money is the flow of funds from one country to another in order to earn a short-term profit on interest rate differences and/or anticipated exchange rate shifts. These speculative capital flows are called \"hot money\" because they can move very quickly in and out of markets, potentially leading to market instability.",
+    "slug": "Hot_money"
+  },
+  "carry-trade": {
+    "title": "Carry (investment)",
+    "extract": "The carry of an asset is the return obtained from holding it, or the cost of holding it. For instance, commodities are usually negative carry assets, as they incur storage costs or may suffer from depreciation. But in some circumstances, appropriately hedged commodities can be positive carry assets if the forward/futures market is willing to pay sufficient premium for future delivery. An example of high carry asset is gold during a financial crisis, due to its safe haven quality.",
+    "slug": "Carry_(investment)"
+  },
+  "debt-moratorium": {
+    "title": "Moratorium (law)",
+    "extract": "A moratorium is a delay or suspension of an activity or a law. In a legal context, it may refer to the temporary suspension of a law to allow a legal challenge to be carried out.",
+    "slug": "Moratorium_(law)"
+  },
+  "shadow-bank": {
+    "title": "Shadow banking system",
+    "extract": "The shadow banking system is the collection of non-bank financial intermediaries (NBFIs), or nondepository financial institutions (NDFIs) that legally provide services similar to traditional commercial banks but outside normal banking regulations. S&P Global estimates that, at end-2022, shadow banking held about $63 trillion in financial assets in major jurisdictions around the world, representing 78% of global GDP, up from $28 trillion and 68% of global GDP in 2009.",
+    "slug": "Shadow_banking_system"
+  }
+}

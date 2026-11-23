@@ -1,0 +1,62 @@
+{
+  "id": "tarp",
+  "title": "问题资产救助计划(TARP)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "美国政府购买金融机构有毒资产与股权以强化金融部门的计划。",
+  "overview": "问题资产救助计划（TARP）是美国政府的一项计划，通过从金融机构购买有毒资产与股权来强化其金融部门，由国会通过并由（总统）签署成为法律。该计划是2008年危机中规模最大的直接干预之一，其成本与效果存在争议。具体规模待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "2008年危机中金融机构资产恶化 → 需要直接资本注入",
+      "sources": [
+        "w-en-tarp"
+      ]
+    },
+    {
+      "step": "政府购买有毒资产与股权 → 稳定金融部门",
+      "sources": [
+        "w-en-tarp"
+      ]
+    },
+    {
+      "step": "道德风险与纳税人成本引发争议",
+      "sources": [
+        "w-en-moral-hazard"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "救助视角",
+      "view": "直接注资阻止系统性崩溃",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-tarp"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "救助鼓励冒险、成本社会化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bailout"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融监管/市场概念，与相关法规和案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>问题资产救助计划(TARP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2008年危机中金融机构</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政府购买有毒资产与股权 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>道德风险与纳税人成本引发</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-tarp",
+    "w-en-bailout"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+}
