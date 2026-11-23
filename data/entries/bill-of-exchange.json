@@ -1,0 +1,62 @@
+{
+  "id": "bill-of-exchange",
+  "title": "可转让票据（汇票）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "保证支付特定金额、见票即付或定期支付、通常载明付款人的凭证。",
+  "overview": "可转让票据是一份保证支付特定金额的凭证，或见票即付、或在约定时间支付，付款人通常载明于票据之上。汇票是中世纪以来远程贸易融资的核心工具，可背书转让从而充当信用与支付手段。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "远程贸易需避免运送现金 → 以票据结算",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    },
+    {
+      "step": "票据可背书转让 → 形成信用流通",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    },
+    {
+      "step": "票据贴现与再贴现 → 早期货币市场与央行操作",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "信用工具视角",
+      "view": "票据扩展了信用与支付体系",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    },
+    {
+      "holder": "货币史视角",
+      "view": "票据是信用货币的早期形态",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>可转让票据（汇票）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>远程贸易需避免运送现金 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>票据可背书转让 → 形成</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>票据贴现与再贴现 → 早</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bill-of-exchange",
+    "w-en-credit-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

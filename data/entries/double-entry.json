@@ -1,0 +1,62 @@
+{
+  "id": "double-entry",
+  "title": "复式记账",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "每笔财务交易都以相等且相反的分录记录、从而\"平衡\"的记账方法。",
+  "overview": "复式记账（或称复式会计）是一种记账方法：每笔财务交易都以相等且相反的分录记录，从而\"平衡\"。该方法使资本、损益与资产负债关系清晰可查，被视为现代商业与金融核算的基础。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "每笔交易双分录记录 → 账目自动平衡",
+      "sources": [
+        "w-en-double-entry"
+      ]
+    },
+    {
+      "step": "资产负债与损益关系透明 → 便于审计与管理",
+      "sources": [
+        "w-en-double-entry"
+      ]
+    },
+    {
+      "step": "支撑股份公司与资本市场的信息基础",
+      "sources": [
+        "w-en-joint-stock"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "会计视角",
+      "view": "复式记账提升核算可靠性与可审计性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-double-entry"
+      ]
+    },
+    {
+      "holder": "经济史视角",
+      "view": "被视为资本主义核算理性的技术基础",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>复式记账：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>每笔交易双分录记录 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资产负债与损益关系透明 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支撑股份公司与资本市场的</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-double-entry",
+    "w-en-joint-stock"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

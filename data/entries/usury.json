@@ -1,0 +1,62 @@
+{
+  "id": "usury",
+  "title": "高利贷（重利）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "被视为不公平地使贷方获利的放贷行为；可从道德或法律意义理解。",
+  "overview": "高利贷是从事被视为不公平地使贷方获利的放贷行为。该词可用于道德意义——谴责利用他人不幸——或用于法律意义（设定利率上限）。历史上对利息的道德与法律态度深刻影响了金融发展。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "对利息的道德/宗教禁令 → 限制信贷供给",
+      "sources": [
+        "w-en-usury"
+      ]
+    },
+    {
+      "step": "或设定法定利率上限 → 影响信贷可及性",
+      "sources": [
+        "w-en-usury"
+      ]
+    },
+    {
+      "step": "金融创新绕开限制 → 票据与信用工具发展",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "道德/宗教视角",
+      "view": "收取过高利息有悖公正",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-usury"
+      ]
+    },
+    {
+      "holder": "金融视角",
+      "view": "利率是资金的价格与风险补偿",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>高利贷（重利）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>对利息的道德/宗教禁令 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>或设定法定利率上限 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>金融创新绕开限制 → 票</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-usury",
+    "w-en-interest-rate"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

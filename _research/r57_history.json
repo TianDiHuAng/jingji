@@ -1,0 +1,77 @@
+{
+  "bill-of-exchange": {
+    "title": "Negotiable instrument",
+    "extract": "A negotiable instrument is a document guaranteeing the payment of a specific amount of money, either on demand, or at a set time, whose payer is usually named on the document. More specifically, it is a document contemplated by or consisting of a contract, which promises the payment of money without condition, which may be paid either on demand or at a future date. The term has different meanings, depending on its use in the application of different laws and depending on countries and contexts. The word \"negotiable\" refers to transferability, and \"instrument\" refers to a document giving legal effect by the virtue of the law.",
+    "slug": "Negotiable_instrument"
+  },
+  "double-entry": {
+    "title": "Double-entry bookkeeping",
+    "extract": "Double-entry bookkeeping, also known as double-entry accounting, is a method of bookkeeping in which every financial transaction is recorded with equal and opposite entries - thus \"balancing the books\". The purpose of double-entry bookkeeping is to maintain accuracy in financial records and allow detection of errors or fraud.",
+    "slug": "Double-entry_bookkeeping"
+  },
+  "joint-stock": {
+    "title": "Joint-stock company",
+    "extract": "A joint-stock company (JSC) is a business entity in which shares of the company's stock can be bought and sold by shareholders. Each shareholder owns company stock in proportion, evidenced by their shares. Shareholders are able to transfer their shares to others without any effects to the continued existence of the company.",
+    "slug": "Joint-stock_company"
+  },
+  "bourse": {
+    "title": "Bourse",
+    "extract": "Bourse may refer to:Exchange or bourse\nStock exchange or bourse",
+    "slug": "Bourse"
+  },
+  "usury": {
+    "title": "Usury",
+    "extract": "Usury is the practice of making loans that are seen as unfairly enriching the lender. The term may be used in a moral sense—condemning taking advantage of others' misfortunes—or in a legal sense, where an interest rate is charged in excess of the maximum rate that is allowed by law. A loan may be considered usurious because of excessive or abusive interest rates or other factors defined by the laws of a state. Someone who practises usury can be called a usurer, but in modern colloquial English may be called a loan shark.",
+    "slug": "Usury"
+  },
+  "bimetallism": {
+    "title": "Bimetallism",
+    "extract": "Bimetallism, also known as the bimetallic standard, is a monetary standard in which the value of the monetary unit is defined as equivalent to certain quantities of two metals, creating a fixed rate of exchange between them. In all known historical cases, the metals are gold and silver.",
+    "slug": "Bimetallism"
+  },
+  "silver-standard": {
+    "title": "Silver standard",
+    "extract": "The silver standard is a monetary system in which the standard economic unit of account is a fixed weight of silver. Silver was far more widespread than gold as the monetary standard worldwide, from the Sumerians c. 3000 BC until 1873. Following the discovery in the 16th century of large deposits of silver at the Cerro Rico in Potosí, Bolivia, an international silver standard came into existence in conjunction with the Spanish pieces of eight. These silver dollar coins were an international trading currency for nearly four hundred years.",
+    "slug": "Silver_standard"
+  },
+  "fiat-money": {
+    "title": "Fiat money",
+    "extract": "Fiat money or fiat currency is a type of government-issued currency, generally created by a central bank, authorized by government regulation to be legal tender but not backed by a precious metal, such as gold or silver, nor by any other tangible asset or commodity. Since the end of the Bretton Woods system in 1976 by the Jamaica Accords, all the major government currencies in the world are fiat money.",
+    "slug": "Fiat_money"
+  },
+  "legal-tender": {
+    "title": "Legal tender",
+    "extract": "Legal tender is a form of money that the law recognises as valid for the discharge of a monetary debt in a jurisdiction. What constitutes legal tender varies between jurisdictions.",
+    "slug": "Legal_tender"
+  },
+  "commodity-money": {
+    "title": "Commodity money",
+    "extract": "Commodity money is money whose value comes from a commodity of which it is made. Commodity money consists of objects having value or use in themselves as well as their value in buying goods. This is in contrast to representative money, which has no intrinsic value but represents something of value such as gold or silver, for which it can be exchanged, and fiat money, which derives its value from having been established as money by government regulation. While intimately related, commodity money is not to be confused with commodity-backed money.",
+    "slug": "Commodity_money"
+  },
+  "representative-money": {
+    "title": "Representative money",
+    "extract": "Representative money or receipt money is any medium of exchange, physical or digital, that represents something of value, but has little or no value of its own.",
+    "slug": "Representative_money"
+  },
+  "credit-money": {
+    "title": "Credit theory of money",
+    "extract": "Credit theories of money, also called debt theories of money, are monetary economic theories concerning the relationship between credit and money. Proponents of these theories, such as Alfred Mitchell-Innes, sometimes emphasize that money and credit/debt are the same thing, seen from different points of view. Proponents assert that the essential nature of money is credit (debt), at least in eras where money is not backed by a commodity such as gold. Two common strands of thought within these theories are the idea that money originated as a unit of account for debt, and the position that money creation involves the simultaneous creation of debt. Some proponents of credit theories of money argue that money is best understood as debt even in systems often understood as using commodity money. Others hold that money equates to credit only in a system based on fiat money, where they argue that all forms of money including cash can be considered as forms of credit money.",
+    "slug": "Credit_money"
+  },
+  "token-money": {
+    "title": "Token money",
+    "extract": "Token money, or token, is a form of money that has a lesser intrinsic value compared to its face value. Token money is anything that is accepted as money, not due to its intrinsic value but instead because of custom or legal enactment. Token money costs less to produce than its face value. A banknote, e.g. a five-pound note, is token money because despite its value being five pounds it only costs significantly less to produce. A gold coin is not considered token money. Token money is similar to fiat money which also has little intrinsic value, however they differ in that token money is a limited legal tender.",
+    "slug": "Token_money"
+  },
+  "stock-exchange": {
+    "title": "Stock exchange",
+    "extract": "A stock exchange, securities exchange, or bourse is an exchange where stockbrokers and traders can buy and sell securities, such as shares of stock, bonds and other financial instruments. Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. Stock exchanges often function as \"continuous auction\" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic system to process financial transactions.",
+    "slug": "Stock_exchange"
+  },
+  "insurance-history": {
+    "title": "History of insurance",
+    "extract": "The history of insurance traces the development of the modern business of insurance against risks, especially regarding cargo, property, death, automobile accidents, and medical treatment.",
+    "slug": "History_of_insurance"
+  }
+}

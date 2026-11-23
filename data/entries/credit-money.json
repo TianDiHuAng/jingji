@@ -1,0 +1,62 @@
+{
+  "id": "credit-money",
+  "title": "信用货币理论",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "关于信用与货币之间关系的货币经济理论，亦称债务货币理论。",
+  "overview": "信用货币理论（或称债务货币理论）是关于信用与货币之间关系的货币经济理论。该理论的支持者主张货币本质上源于债权债务关系，而非商品。这一视角与商品货币论、金属主义形成对照，并影响内生货币与现代货币理论。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "债权债务关系先于货币 → 货币是信用记账",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    },
+    {
+      "step": "银行信贷创造存款 → 货币供给内生",
+      "sources": [
+        "w-en-endogenous-money"
+      ]
+    },
+    {
+      "step": "危机中信用链条断裂 → 货币收缩",
+      "sources": [
+        "w-en-debt-deflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "信用/债务视角",
+      "view": "货币本质是信用与债务关系",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    },
+    {
+      "holder": "商品货币视角",
+      "view": "货币价值源于其商品属性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用货币理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债权债务关系先于货币 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行信贷创造存款 → 货</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机中信用链条断裂 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-credit-money",
+    "w-en-endogenous-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

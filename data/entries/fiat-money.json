@@ -1,0 +1,62 @@
+{
+  "id": "fiat-money",
+  "title": "法定货币（法币）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "由政府发行、一般由央行创造、经法规授权为法定清偿但不以贵金属为支撑的货币。",
+  "overview": "法定货币（法币）是一种政府发行的货币，一般由中央银行创造，经政府法规授权成为法定清偿手段，但不以贵金属作为支撑。法币的价值依赖政府信用与货币政策纪律，因而与通胀控制密切相关。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "脱离贵金属支撑 → 货币价值依赖政府信用",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    },
+    {
+      "step": "发行纪律决定物价稳定",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    },
+    {
+      "step": "过度发行 → 通胀乃至恶性通胀",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "法币视角",
+      "view": "信用货币可提供政策弹性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    },
+    {
+      "holder": "硬通货视角",
+      "view": "缺乏约束易导致通胀与贬值",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法定货币（法币）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>脱离贵金属支撑 → 货币</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>发行纪律决定物价稳定</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>过度发行 → 通胀乃至恶</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-fiat-money",
+    "w-en-hyperinflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

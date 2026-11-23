@@ -472,3 +472,17 @@
 | development-economics | 发展经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
 | welfare-economics | 福利经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
 | political-economy | 政治经济学 | 理论制度 | 全球 | 理论 | 重要 | 续作AK |
+| bill-of-exchange | 可转让票据（汇票） | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| double-entry | 复式记账 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| joint-stock | 股份公司 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| usury | 高利贷（重利） | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| bimetallism | 复本位制 | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| silver-standard | 银本位 | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| fiat-money | 法定货币（法币） | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| legal-tender | 法定清偿地位 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| commodity-money | 商品货币 | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| representative-money | 代表货币 | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| credit-money | 信用货币理论 | 理论制度 | 全球 | 理论 | 重要 | 续作AL |
+| token-money | 名目货币（代币） | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
+| stock-exchange | 证券交易所 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| insurance-history | 保险史 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |

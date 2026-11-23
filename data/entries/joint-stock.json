@@ -1,0 +1,62 @@
+{
+  "id": "joint-stock",
+  "title": "股份公司",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "股份可由股东买卖的商业实体，每位股东按比例持有公司股份。",
+  "overview": "股份公司（JSC）是一种商业实体，其公司股份可由股东买卖，每位股东按比例持有公司股份并以（股票）为凭证。股份公司实现了资本集中与风险分担，是东印度公司等早期殖民贸易企业与现代资本市场的基础。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "需大规模长期资本 → 以股份募集并分担风险",
+      "sources": [
+        "w-en-joint-stock"
+      ]
+    },
+    {
+      "step": "股份可转让 → 形成二级市场与价格发现",
+      "sources": [
+        "w-en-stock-exchange"
+      ]
+    },
+    {
+      "step": "有限责任与股份流通 → 催生投机泡沫",
+      "sources": [
+        "w-en-south-sea-company"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "资本动员视角",
+      "view": "股份公司集中资本、分散风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-joint-stock"
+      ]
+    },
+    {
+      "holder": "投机视角",
+      "view": "股份可交易也带来泡沫与欺诈",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>股份公司：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>需大规模长期资本 → 以</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股份可转让 → 形成二级</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>有限责任与股份流通 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-joint-stock",
+    "w-en-stock-exchange"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

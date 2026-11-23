@@ -1,0 +1,62 @@
+{
+  "id": "insurance-history",
+  "title": "保险史",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "针对货物、财产、死亡、汽车事故与医疗等风险的现代保险业务的发展历程。",
+  "overview": "保险史追溯针对风险的现代保险业务的发展，尤其涉及货物、财产、死亡、汽车事故与医疗等（领域）。海上保险是早期最发达的险种，与远程贸易和金融创新相互促进。保险业的发展为风险管理与资本市场提供了重要工具。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "远程贸易风险 → 催生海上保险",
+      "sources": [
+        "w-en-insurance-history"
+      ]
+    },
+    {
+      "step": "精算与风险分散技术发展 → 保险品种扩展",
+      "sources": [
+        "w-en-insurance-history"
+      ]
+    },
+    {
+      "step": "保险与再保险网络 → 风险跨机构传导",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险管理视角",
+      "view": "保险将个体风险分散至集合",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-insurance-history"
+      ]
+    },
+    {
+      "holder": "系统性视角",
+      "view": "再保险与衍生品使风险高度互联（如AIG案例）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aig"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保险史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>远程贸易风险 → 催生海</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>精算与风险分散技术发展 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>保险与再保险网络 → 风</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-insurance-history",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

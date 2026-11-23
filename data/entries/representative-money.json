@@ -1,0 +1,62 @@
+{
+  "id": "representative-money",
+  "title": "代表货币",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "代表某物价值、但自身几乎无价值的交换媒介（可为实物或数字）。",
+  "overview": "代表货币（或称收据货币）是任何代表某种有价值之物、但自身几乎没有价值的交换媒介，可为实物或数字形式。例如以金银为储备发行的可兑换凭证。代表货币是可兑换性与法币之间的过渡形态。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以储备资产为支撑发行凭证 → 代表货币",
+      "sources": [
+        "w-en-representative-money"
+      ]
+    },
+    {
+      "step": "凭证可兑换为储备 → 维持平价",
+      "sources": [
+        "w-en-representative-money"
+      ]
+    },
+    {
+      "step": "停止兑换 → 转为法币",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "可兑换视角",
+      "view": "代表货币兼顾便利与硬约束",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-representative-money"
+      ]
+    },
+    {
+      "holder": "法币视角",
+      "view": "脱离兑换后依赖政策纪律",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>代表货币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以储备资产为支撑发行凭证</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>凭证可兑换为储备 → 维</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>停止兑换 → 转为法币</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-representative-money",
+    "w-en-fiat-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

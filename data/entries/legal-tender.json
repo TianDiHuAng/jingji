@@ -1,0 +1,62 @@
+{
+  "id": "legal-tender",
+  "title": "法定清偿地位",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "法律承认可用于清偿货币债务的货币形式；具体规定因司法辖区而异。",
+  "overview": "法定清偿是一种货币形式，法律承认其在该辖区内可用于清偿货币债务。何种货币构成法定清偿因司法辖区而异。法定清偿地位与\"必须接受\"并非完全等同，其与合同约定之间的关系在实践中较为复杂。具体规定待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "法律赋予某货币法定清偿地位 → 债权人须接受",
+      "sources": [
+        "w-en-legal-tender"
+      ]
+    },
+    {
+      "step": "强化该货币的流通与接受度",
+      "sources": [
+        "w-en-legal-tender"
+      ]
+    },
+    {
+      "step": "与合同货币选择、外币债务产生交互",
+      "sources": [
+        "w-en-dollarization"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "法律视角",
+      "view": "法定清偿界定债务清偿的有效手段",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-legal-tender"
+      ]
+    },
+    {
+      "holder": "货币竞争视角",
+      "view": "实际接受度取决于信心而非仅法律",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法定清偿地位：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>法律赋予某货币法定清偿地</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>强化该货币的流通与接受度</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与合同货币选择、外币债务</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-legal-tender",
+    "w-en-fiat-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

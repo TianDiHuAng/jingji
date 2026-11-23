@@ -1,0 +1,62 @@
+{
+  "id": "bimetallism",
+  "title": "复本位制",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "货币单位的价值被定义为两种金属特定数量的货币本位，形成固定比价。",
+  "overview": "复本位制（或称双金属本位）是一种货币本位，其中货币单位的价值被定义为等同于特定数量的两种金属，从而形成（两者之间的）固定比价。复本位制在19世纪引发关于金银比价与货币供给的长期争论（如美国的\"自由银币\"运动）。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "法定金银固定比价 → 形成复本位",
+      "sources": [
+        "w-en-bimetallism"
+      ]
+    },
+    {
+      "step": "市场比价偏离法定比价 → 劣币驱逐良币",
+      "sources": [
+        "w-en-greshams-law"
+      ]
+    },
+    {
+      "step": "转向金本位 → 白银需求与价格剧变",
+      "sources": [
+        "w-en-silver-standard"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "复本位视角",
+      "view": "双金属可增加货币供给弹性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bimetallism"
+      ]
+    },
+    {
+      "holder": "金本位视角",
+      "view": "单一金属本位更稳定可信",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>复本位制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>法定金银固定比价 → 形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场比价偏离法定比价 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>转向金本位 → 白银需求</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bimetallism",
+    "w-en-greshams-law"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}

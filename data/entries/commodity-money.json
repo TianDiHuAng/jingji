@@ -1,0 +1,62 @@
+{
+  "id": "commodity-money",
+  "title": "商品货币",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "价值来自其所由商品的货币；该物自身有价值或用途。",
+  "overview": "商品货币是其价值来自所由商品的货币。商品货币由本身具有价值或用途、同时也具有购买商品价值的物品构成（如金银、贝壳、盐、牲畜）。商品货币的供给受商品生产约束，这是其稳定性的来源与局限。具体沿革待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "商品本身具有价值 → 可充当交换媒介",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    },
+    {
+      "step": "供给受开采/生产约束 → 货币增长有限",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    },
+    {
+      "step": "产量冲击（如美洲白银）→ 物价剧烈变动",
+      "sources": [
+        "w-en-kipper-wipper-1618"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "商品货币视角",
+      "view": "内在价值提供可信锚",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    },
+    {
+      "holder": "信用货币视角",
+      "view": "货币本质是信用关系而非商品",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "货币史/金融制度史概念，与相关案例互补；具体沿革待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>商品货币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品本身具有价值 → 可</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>供给受开采/生产约束 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产量冲击（如美洲白银）→</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-commodity-money",
+    "w-en-credit-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+}
