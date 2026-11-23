@@ -1,7 +1,7 @@
 {
   "id": "panic-1847",
   "title": "1847年恐慌",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "银行",
   "one_line": "1847年恐慌：发生于18—19世纪、地区为欧洲的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=欧洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1847,
+      "display": "1847年3月",
+      "event": "英国政府宣布举债以资助爱尔兰大饥荒救济，成为危机诱因（据 Wikipedia Panic of 1847）",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    },
+    {
+      "year": 1847,
+      "display": "1840年代末",
+      "event": "与铁路热潮结束、商人破产相关联；酿成重大商业与银行危机（同上）",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "政府为救济爱尔兰大饥荒举债 + 铁路热潮见顶 → 市场与信贷承压",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    },
+    {
+      "step": "商人破产与银行收紧 → 重大商业与银行危机",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    },
+    {
+      "step": "经济与金融受创",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "政策/外部冲击视角",
+      "view": "饥荒救济举债与铁路热潮退潮共同触发",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    },
+    {
+      "holder": "信贷周期视角",
+      "view": "信贷扩张后收缩放大危机",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "与1825、1866年英国危机同属19世纪商业/银行恐慌；诱因各有不同。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1847年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英国政府宣布举债以资助爱</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-panic-of-1847"
@@ -26,5 +88,5 @@
     "panic-1792"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1847替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1847替换兜底，待核实。 【续作】升L2(据REST摘要)。"
 }

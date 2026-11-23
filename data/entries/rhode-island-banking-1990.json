@@ -1,7 +1,7 @@
 {
   "id": "rhode-island-banking-1990",
   "title": "罗得岛银行危机(1990–1992)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,13 +9,75 @@
   "crisis_type": "银行",
   "one_line": "罗得岛银行危机(1990–1992)：发生于20世纪下半、地区为北美的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=北美、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1990,
+      "display": "1990年代初",
+      "event": "普罗维登斯 Heritage Loan & Investment 因长期挪用而倒闭，引发罗得岛银行危机（据 Wikipedia Rhode Island banking crisis）",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1990年代初",
+      "event": "约三分之一罗得岛居民一度无法动用其银行存款（同上）",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "Heritage Loan & Investment 长期挪用 → 银行倒闭",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "step": "存款人无法取款 → 挤兑与存款保险基金压力",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "step": "约1/3州民一度失去存款使用权",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "欺诈/治理视角",
+      "view": "长期挪用导致机构倒闭",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "holder": "存款保险视角",
+      "view": "凸显存款保险与监管的重要性",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "与储贷危机同期美国银行业问题相关；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>罗得岛银行危机(1990–1992)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>普罗维登斯 Herita</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-rhode-island-banking-crisis"
@@ -26,5 +88,5 @@
     "savings-loan-1986"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-rhode-island-banking-crisis替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-rhode-island-banking-crisis替换兜底，待核实。 【续作】升L2(据REST摘要)。"
 }
