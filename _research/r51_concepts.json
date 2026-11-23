@@ -1,0 +1,77 @@
+{
+  "forward-guidance": {
+    "title": "Forward guidance",
+    "extract": "Forward guidance is a tool used by a central bank to exercise its power in monetary policy in order to influence, with their own forecasts, market expectations of future levels of interest rates.",
+    "slug": "Forward_guidance"
+  },
+  "austerity": {
+    "title": "Austerity",
+    "extract": "Austerity is a set of political-economic policies that aim to reduce government budget deficits through spending cuts, tax increases, or a combination of both. There are three primary types of austerity measures: higher taxes to fund spending, raising taxes while cutting spending, and lower taxes and lower government spending. Austerity measures are often used by governments that find it difficult to borrow or meet their existing obligations to pay back loans. The measures are meant to reduce the budget deficit by bringing government revenues closer to expenditures. Proponents of these measures state that this reduces the amount of borrowing required and may also demonstrate a government's fiscal discipline to creditors and credit rating agencies and make borrowing easier and cheaper as a result.",
+    "slug": "Austerity"
+  },
+  "structural-adjustment": {
+    "title": "Structural adjustment",
+    "extract": "Structural adjustment programs (SAPs) consist of loans provided by the International Monetary Fund (IMF) and the World Bank (WB) to countries that experience economic crises. Their stated purpose is to adjust the country's economic structure, improve international competitiveness, and restore its balance of payments.",
+    "slug": "Structural_adjustment"
+  },
+  "conditionality": {
+    "title": "Conditionality",
+    "extract": "In political economy and international relations, conditionality is the use of conditions attached to the provision of benefits such as a loan, debt relief or bilateral aid. These conditions are typically imposed by international financial institutions or regional organizations and are generally intended to enhance aid effectiveness.",
+    "slug": "Conditionality"
+  },
+  "debt-overhang": {
+    "title": "Debt overhang",
+    "extract": "Debt overhang is the condition of an organization that has existing debt so great that it cannot easily borrow more money, even when that new borrowing is actually a good investment that would more than pay for itself.",
+    "slug": "Debt_overhang"
+  },
+  "original-sin": {
+    "title": "Original sin (economics)",
+    "extract": "Original sin is a term in economics literature, proposed by Barry Eichengreen, Ricardo Hausmann, and Ugo Panizza in a series of papers to refer to a situation in which \"most countries are not able to borrow abroad in their domestic currency.\"",
+    "slug": "Original_sin_(economics)"
+  },
+  "fear-of-floating": {
+    "title": "Fear of floating",
+    "extract": "Fear of floating is the hesitancy of a country to follow a floating exchange rate regime, rather than a fixed exchange rate. This is more relevant in emerging economies, especially when they suffered from financial crisis in the last two decades. In foreign exchange markets of the emerging market economies, there is evidence showing that countries who claim they are floating their currency, are actually reluctant to let the nominal exchange rate fluctuate in response to macroeconomic shocks. In the literature, this is first convincingly documented by Calvo and Reinhart with \"fear of floating\" as the title of one of their papers in 2000. Since then, this widespread phenomenon of reluctance to adjust exchange rates in emerging markets is usually called \"fear of floating\". Most of the studies on \"fear of floating\" are closely related to literature on costs and benefits of different exchange rate regimes.",
+    "slug": "Fear_of_floating"
+  },
+  "rational-expectations": {
+    "title": "Rational expectations",
+    "extract": "Rational expectations is a set of modeling assumptions describing how macroeconomic agents form expectations about the future under uncertainty. Under these assumptions, agents are presumed to use all relevant and available information, making their expectations “model‑consistent”.",
+    "slug": "Rational_expectations"
+  },
+  "lucas-critique": {
+    "title": "Lucas critique",
+    "extract": "The Lucas critique argues that it is naive to try to predict the effects of a change in economic policy entirely on the basis of relationships observed in historical data, especially highly aggregated historical data. More formally, it states that the decision rules of Keynesian models—such as the consumption function—cannot be considered as structural in the sense of being invariant with respect to changes in government policy variables. It was named after American economist Robert Lucas's work on macroeconomic policymaking.",
+    "slug": "Lucas_critique"
+  },
+  "time-inconsistency": {
+    "title": "Dynamic inconsistency",
+    "extract": "In economics, dynamic inconsistency or time inconsistency is a situation in which a decision-maker's preferences change over time in such a way that a preference can become inconsistent at another point in time. This can be thought of as there being many different \"selves\" within decision makers, with each \"self\" representing the decision-maker at a different point in time; the inconsistency occurs when not all preferences are aligned.",
+    "slug": "Dynamic_inconsistency"
+  },
+  "sticky-prices": {
+    "title": "Nominal rigidity",
+    "extract": "In economics, nominal rigidity, also referred to as price stickiness or wage stickiness, describes a situation in which a nominal price is slow to adjust or resistant to change. Complete nominal rigidity occurs when a price remains fixed in nominal terms for a relevant period of time. For example, the price of a good may be contractually set at $10 per unit for an entire year, regardless of changes in supply and demand conditions. Partial nominal rigidity occurs when prices can adjust, but less than they would under conditions of perfect flexibility. For instance, in a regulated market, there may be legal or institutional limits on how much a price can change within a given year.",
+    "slug": "Nominal_rigidity"
+  },
+  "menu-cost": {
+    "title": "Menu cost",
+    "extract": "In economics, a menu cost is the cost incurred by a firm when changing its prices. The concept is one microeconomic explanation for the stickiness of prices in the macroeconomy, particularly emphasized by New Keynesian economists.",
+    "slug": "Menu_cost"
+  },
+  "monetary-transmission": {
+    "title": "Monetary transmission mechanism",
+    "extract": "The monetary transmission mechanism is the process by which monetary policy decisions affect the broader macroeconomy through multiple channels including asset prices, money markets, and general economic conditions. Such decisions are implemented through various tools including interest rates, money supply, and central bank balance sheet operations to influence aggregate demand, inflation, and overall economic performance. The transmission process operates through several key channels: the traditional interest rate channel, the credit channel, the money market channel, and various asset price channels including exchange rates and equity markets. These channels often work simultaneously and with varying importance across different economic conditions and institutional frameworks.",
+    "slug": "Monetary_transmission_mechanism"
+  },
+  "fiscal-consolidation": {
+    "title": "Consolidation",
+    "extract": "Consolidation may refer to:",
+    "slug": "Fiscal_consolidation"
+  },
+  "adaptive-expectations": {
+    "title": "Adaptive expectations",
+    "extract": "In economics, adaptive expectations is a hypothesized process by which people form their expectations about what will happen in the future based on what has happened in the past. For example, if people want to create an expectation of the inflation rate in the future, they can refer to past inflation rates to infer some consistencies and could derive a more accurate expectation the more years they consider.",
+    "slug": "Adaptive_expectations"
+  }
+}

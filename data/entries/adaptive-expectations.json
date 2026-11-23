@@ -1,0 +1,62 @@
+{
+  "id": "adaptive-expectations",
+  "title": "适应性预期",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "人们基于过去发生的情况来形成对未来的预期的一种假说过程。",
+  "overview": "在经济学中，适应性预期是一种假说过程：人们基于过去发生的情况来形成对未来的预期。与之相对的是理性预期。适应性预期意味着预期调整滞后，可能使通胀等变量呈现惯性。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "过去的结果 → 作为形成未来预期的依据",
+      "sources": [
+        "w-en-adaptive-expectations"
+      ]
+    },
+    {
+      "step": "预期调整滞后 → 变量呈现惯性",
+      "sources": [
+        "w-en-adaptive-expectations"
+      ]
+    },
+    {
+      "step": "（对比）理性预期则利用全部可得信息",
+      "sources": [
+        "w-en-rational-expectations"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "适应性视角",
+      "view": "预期基于历史、调整缓慢",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-adaptive-expectations"
+      ]
+    },
+    {
+      "holder": "理性预期视角",
+      "view": "主体利用全部信息、不犯系统错误",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-rational-expectations"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>适应性预期：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>过去的结果 → 作为形成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期调整滞后 → 变量呈</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（对比）理性预期则利用全</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-adaptive-expectations",
+    "w-en-rational-expectations"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

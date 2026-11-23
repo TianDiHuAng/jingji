@@ -1,0 +1,62 @@
+{
+  "id": "time-inconsistency",
+  "title": "动态不一致（时间不一致）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "决策者偏好随时间变化，使某一时点的偏好在另一时点变得不一致的情形。",
+  "overview": "在经济学中，动态不一致（时间不一致）是一种情形：决策者的偏好随时间发生变化，使某项偏好在另一个时点上变得不一致。这可解释为何政策制定者会违背先前承诺，从而损害信誉——这是央行独立性理论的核心论据之一。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "决策者事前宣布最优政策 → 事后有偏离的激励",
+      "sources": [
+        "w-en-time-inconsistency"
+      ]
+    },
+    {
+      "step": "公众预期到偏离 → 事前承诺失去可信度",
+      "sources": [
+        "w-en-time-inconsistency"
+      ]
+    },
+    {
+      "step": "需规则、独立机构或声誉机制约束",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "规则视角",
+      "view": "以规则约束相机抉择、提升可信度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-taylor-rule"
+      ]
+    },
+    {
+      "holder": "独立性视角",
+      "view": "授权独立央行可缓解通胀偏向",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>动态不一致（时间不一致）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>决策者事前宣布最优政策 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>公众预期到偏离 → 事前</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需规则、独立机构或声誉机</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-time-inconsistency",
+    "w-en-central-bank-independence"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

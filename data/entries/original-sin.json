@@ -1,0 +1,62 @@
+{
+  "id": "original-sin",
+  "title": "原罪（经济学）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "多数国家无法以本币在海外借款的情形；由 Eichengreen、Hausmann 与 Panizza 提出。",
+  "overview": "原罪是经济学文献中的一个术语，由 Barry Eichengreen、Ricardo Hausmann 与 Ugo Panizza 在一系列论文中提出，指\"多数国家无法以本国货币在海外借款\"的情形。货币错配使这些国家在贬值时承受资产负债表冲击。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "国际借贷多以少数储备货币计价 → 新兴市场难用本币借外债",
+      "sources": [
+        "w-en-original-sin"
+      ]
+    },
+    {
+      "step": "外币负债与本币收入错配 → 贬值时债务负担骤升",
+      "sources": [
+        "w-en-original-sin"
+      ]
+    },
+    {
+      "step": "加剧货币危机与\"浮动恐惧\"",
+      "sources": [
+        "w-en-fear-of-floating"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "原罪视角",
+      "view": "货币错配是新兴市场脆弱性的结构根源",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-original-sin"
+      ]
+    },
+    {
+      "holder": "政策视角",
+      "view": "积累储备或区域货币合作可部分缓解",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-foreign-exchange-reserves"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>原罪（经济学）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国际借贷多以少数储备货币</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>外币负债与本币收入错配 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>加剧货币危机与\"浮动恐惧</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-original-sin",
+    "w-en-fear-of-floating"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

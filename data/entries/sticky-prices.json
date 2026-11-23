@@ -1,0 +1,62 @@
+{
+  "id": "sticky-prices",
+  "title": "名义刚性（价格/工资粘性）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "名义价格调整缓慢或抗拒变化的情形，亦称价格粘性或工资粘性。",
+  "overview": "在经济学中，名义刚性（亦称价格粘性或工资粘性）描述名义价格调整缓慢或抗拒变化的情形。完全的名义刚性指价格完全不变。名义刚性是货币政策在短期能够影响实际产出的关键前提，也是新凯恩斯模型的核心假设。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "名义价格/工资调整缓慢 → 实际值随名义冲击变化",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    },
+    {
+      "step": "需求冲击在短期影响产出与就业",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    },
+    {
+      "step": "货币政策短期非中性",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "新凯恩斯视角",
+      "view": "粘性使短期政策有效",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    },
+    {
+      "holder": "新古典视角",
+      "view": "价格灵活、货币短期亦中性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-neutrality-of-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>名义刚性（价格/工资粘性）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>名义价格/工资调整缓慢 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>需求冲击在短期影响产出与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策短期非中性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-sticky-prices",
+    "w-en-menu-cost"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

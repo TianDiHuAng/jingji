@@ -409,3 +409,17 @@
 | credit-cycle | 信贷周期 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
 | leverage-cycle | 杠杆周期 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
 | currency-union | 货币联盟 | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
+| forward-guidance | 前瞻指引 | 理论制度 | 全球 | 制度 | 重要 | 续作AF |
+| austerity | 紧缩（财政紧缩） | 理论制度 | 全球 | 制度 | 重要 | 续作AF |
+| structural-adjustment | 结构调整计划(SAP) | 理论制度 | 全球 | 制度 | 重要 | 续作AF |
+| conditionality | 贷款条件性 | 理论制度 | 全球 | 制度 | 重要 | 续作AF |
+| debt-overhang | 债务积压 | 理论制度 | 全球 | 债务 | 重要 | 续作AF |
+| original-sin | 原罪（经济学） | 理论制度 | 全球 | 货币 | 重要 | 续作AF |
+| fear-of-floating | 浮动恐惧 | 理论制度 | 全球 | 货币 | 重要 | 续作AF |
+| rational-expectations | 理性预期 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| lucas-critique | 卢卡斯批判 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| time-inconsistency | 动态不一致（时间不一致） | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| sticky-prices | 名义刚性（价格/工资粘性） | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| menu-cost | 菜单成本 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| monetary-transmission | 货币政策传导机制 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
+| adaptive-expectations | 适应性预期 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |

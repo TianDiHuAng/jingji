@@ -1,0 +1,62 @@
+{
+  "id": "structural-adjustment",
+  "title": "结构调整计划(SAP)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "IMF与世界银行向遭遇经济危机的国家提供的贷款，旨在调整该国经济结构。",
+  "overview": "结构调整计划（SAP）由国际货币基金组织（IMF）与世界银行（WB）向经历经济危机的国家提供贷款构成。其宣称目的是调整该国的经济（结构）。这类计划通常附带政策条件，其效果与社会代价存在长期争议。具体内容待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "国家遭遇经济危机 → 向 IMF/世行求助",
+      "sources": [
+        "w-en-structural-adjustment"
+      ]
+    },
+    {
+      "step": "贷款附带结构调整与政策条件",
+      "sources": [
+        "w-en-conditionality"
+      ]
+    },
+    {
+      "step": "经济结构改变，但社会代价引发争议",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "调整视角",
+      "view": "结构改革纠正失衡、恢复可持续增长",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-structural-adjustment"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "条件苛刻、社会成本高、成效有限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>结构调整计划(SAP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国家遭遇经济危机 → 向</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款附带结构调整与政策条</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>经济结构改变，但社会代价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-structural-adjustment",
+    "w-en-conditionality"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

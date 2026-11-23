@@ -1,0 +1,62 @@
+{
+  "id": "menu-cost",
+  "title": "菜单成本",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "企业改变价格时所产生的成本；新凯恩斯经济学用以解释价格粘性。",
+  "overview": "在经济学中，菜单成本是企业改变其价格时所承担的成本。该概念是对宏观经济中价格粘性的一种微观解释，尤其被新凯恩斯主义经济学家强调。菜单成本的存在使企业不愿频繁调价，从而使名义冲击产生实际影响。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "调价需付出成本（重印菜单、通知客户等）",
+      "sources": [
+        "w-en-menu-cost"
+      ]
+    },
+    {
+      "step": "企业因此不频繁调价 → 价格呈粘性",
+      "sources": [
+        "w-en-menu-cost"
+      ]
+    },
+    {
+      "step": "名义冲击传导为产出波动",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "新凯恩斯视角",
+      "view": "小额菜单成本可产生显著的宏观粘性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-menu-cost"
+      ]
+    },
+    {
+      "holder": "灵活价格视角",
+      "view": "数字化降低调价成本、削弱粘性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sticky-prices"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>菜单成本：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>调价需付出成本（重印菜单</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>企业因此不频繁调价 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>名义冲击传导为产出波动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-menu-cost",
+    "w-en-sticky-prices"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}

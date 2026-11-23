@@ -1,0 +1,62 @@
+{
+  "id": "forward-guidance",
+  "title": "前瞻指引",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行运用自身预测影响市场对未来利率水平预期的货币政策工具。",
+  "overview": "前瞻指引是中央银行运用其货币政策权力、以自身预测来影响市场对未来利率水平预期的一种工具。它通过沟通未来政策路径来引导预期与长期利率，是零利率下限时期的重要非常规工具。其有效性存在讨论。具体实践待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行发布未来政策路径指引 → 影响市场预期",
+      "sources": [
+        "w-en-forward-guidance"
+      ]
+    },
+    {
+      "step": "预期变化传导至长期利率与资产价格",
+      "sources": [
+        "w-en-forward-guidance"
+      ]
+    },
+    {
+      "step": "支持需求（承诺\"更长时间保持低利率\"）",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "预期管理视角",
+      "view": "沟通可替代部分实际降息空间",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-forward-guidance"
+      ]
+    },
+    {
+      "holder": "可信度视角",
+      "view": "若不可信则指引无效（时间不一致性）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-time-inconsistency"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>前瞻指引：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行发布未来政策路径指引</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期变化传导至长期利率与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持需求（承诺\"更长时间</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-forward-guidance",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+}
