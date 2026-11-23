@@ -1,0 +1,82 @@
+{
+  "debt-deflation": {
+    "title": "Debt deflation",
+    "extract": "Debt deflation is a theory that recessions and depressions are due to the overall level of debt rising in real value because of deflation, causing people to default on their consumer loans and mortgages. Bank assets fall because of the defaults and because the value of their collateral falls, leading to a surge in bank insolvencies, a reduction in lending and by extension, a reduction in spending.",
+    "slug": "Debt_deflation"
+  },
+  "balance-sheet-recession": {
+    "title": "Balance sheet recession",
+    "extract": "A balance sheet recession is a type of economic recession that occurs when high levels of private sector debt cause individuals or companies to collectively focus on saving by paying down debt rather than spending or investing, causing economic growth to slow or decline. The term is attributed to economist Richard Koo and is related to the debt deflation concept described by economist Irving Fisher. Recent examples include Japan's recession that began in 1990 and the U.S. recession of 2007-2009.",
+    "slug": "Balance_sheet_recession"
+  },
+  "deleveraging": {
+    "title": "Deleveraging",
+    "extract": "At the micro-economic level, deleveraging refers to the reduction of the leverage ratio, or the percentage of debt in the balance sheet of a single economic entity, such as a household or a firm. It is the opposite of leveraging, which is the practice of borrowing money to acquire assets and multiply gains and losses.",
+    "slug": "Deleveraging"
+  },
+  "short-selling": {
+    "title": "Short (finance)",
+    "extract": "In finance, being short in an asset means investing in such a way that the investor will profit if the market value of the asset falls. This is the opposite of the more common long position, where the investor will profit if the market value of the asset rises. An investor that sells an asset short is, as to that asset, a short seller.",
+    "slug": "Short_selling"
+  },
+  "margin-finance": {
+    "title": "Margin (finance)",
+    "extract": "In finance, margin is the collateral that a holder of a financial instrument has to deposit with a counterparty to cover some or all of the credit risk the holder poses for the counterparty. This risk can arise if the holder has done any of the following:Borrowed cash from the counterparty to buy financial instruments,\nBorrowed financial instruments to sell them short,\nEntered into a derivative contract.",
+    "slug": "Margin_(finance)"
+  },
+  "otc": {
+    "title": "Over-the-counter (finance)",
+    "extract": "Over-the-counter (OTC) or off-exchange trading or pink sheet trading is done directly between two parties, without the supervision of an exchange. It is contrasted with exchange trading, which occurs via exchanges. A stock exchange has the benefit of facilitating liquidity, providing transparency, and maintaining the current market price. In an OTC trade, the price is not necessarily publicly disclosed.",
+    "slug": "Over-the-counter_(finance)"
+  },
+  "stress-test": {
+    "title": "Stress test (financial)",
+    "extract": "In finance, a stress test is an analysis or simulation designed to determine the ability of a given financial instrument or financial institution to deal with an economic crisis. Instead of doing financial projection on a \"best estimate\" basis, a company or its regulators may do stress testing where they look at how robust a financial instrument is in certain crashes, a form of scenario analysis. They may test the instrument under, for example, the following stresses:What happens if unemployment rate rises to v% in a specific year?\nWhat happens if equity markets crash by more than w% this year?\nWhat happens if GDP falls by x% in a given year?\nWhat happens if interest rates go up by at least y%?\nWhat if half the instruments in the portfolio terminate their contracts in the fifth year?\nWhat happens if oil prices rise by z%?\nWhat happens if there is a polar vortex event in a particular region?",
+    "slug": "Stress_test_(financial)"
+  },
+  "sifi": {
+    "title": "Systemically important financial institution",
+    "extract": "\nA systemically important financial institution (SIFI) is a bank, insurance company, or other financial institution whose failure might trigger a financial crisis. They are colloquially referred to as \"too big to fail\".",
+    "slug": "Systemically_important_financial_institution"
+  },
+  "money-market": {
+    "title": "Money market",
+    "extract": "The money market is a component of the economy that provides short-term funds. The money market deals in short-term loans, generally for a period of a year or less.",
+    "slug": "Money_market"
+  },
+  "interbank-lending": {
+    "title": "Interbank lending market",
+    "extract": "The interbank lending market is a market in which banks lend funds to one another for a specified term. Most interbank loans are for maturities of one week or less, the majority being overnight. Such loans are made at the interbank rate. A sharp decline in transaction volume in this market was a major contributing factor to the collapse of several financial institutions during the 2008 financial crisis.",
+    "slug": "Interbank_lending_market"
+  },
+  "cpi": {
+    "title": "Consumer price index",
+    "extract": "A consumer price index (CPI) is a statistical estimate of the level of prices of goods and services bought for consumption purposes by households. It is calculated as the weighted average price of a market basket of consumer goods and services.",
+    "slug": "Consumer_price_index"
+  },
+  "ppi": {
+    "title": "Producer price index",
+    "extract": "A producer price index (PPI) is a price index that measures the average changes in prices received by domestic producers for their output. Formerly known as the wholesale price index between 1902 and 1978, the index is made up of over 16,000 establishments providing approximately 64,000 price quotations that the U.S. Bureau of Labor Statistics (BLS) compiles each month to represent thousands of different goods and services.",
+    "slug": "Producer_price_index"
+  },
+  "pmi": {
+    "title": "Purchasing Managers' Index",
+    "extract": "Purchasing managers' indexes (PMI) are economic indicators derived from monthly surveys of private sector companies.",
+    "slug": "Purchasing_Managers%27_Index"
+  },
+  "kitchin-cycle": {
+    "title": "Kitchin cycle",
+    "extract": "The Kitchin cycle is a short business cycle of about 40 months, identified in the 1920s by Joseph Kitchin.",
+    "slug": "Kitchin_cycle"
+  },
+  "juglar-cycle": {
+    "title": "Juglar cycle",
+    "extract": "The Juglar cycle is a fixed investment cycle of 7 to 11 years identified in 1862 by Clément Juglar. Within the Juglar cycle one can observe oscillations of investments into fixed capital and not just changes in the level of employment of the fixed capital, as is observed with respect to Kitchin cycles. 2010 research employing spectral analysis confirmed the presence of Juglar cycles in world GDP dynamics.",
+    "slug": "Juglar_cycle"
+  },
+  "kondratiev": {
+    "title": "Kondratiev wave",
+    "extract": "In economics, Kondratiev waves are hypothesized cycle-like phenomena in the modern world economy. The phenomenon is closely connected with the technology life cycle.",
+    "slug": "Kondratiev_wave"
+  }
+}

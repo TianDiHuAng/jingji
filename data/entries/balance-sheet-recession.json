@@ -1,0 +1,62 @@
+{
+  "id": "balance-sheet-recession",
+  "title": "资产负债表衰退",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "私人部门高负债使其集体转向偿债储蓄、而非支出投资，从而导致增长放缓或下降的衰退类型。",
+  "overview": "资产负债表衰退是一种经济衰退：当私人部门债务水平很高时，个人或企业会集体转向储蓄、优先偿还债务，而非支出或投资，从而导致经济增长放缓或下降。该术语归功于经济学家辜朝明（Richard Koo）。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资产价格下跌 → 私人部门资不抵债、债务高企",
+      "sources": [
+        "w-en-balance-sheet-recession"
+      ]
+    },
+    {
+      "step": "企业与家庭集体转向偿债、减少支出与投资",
+      "sources": [
+        "w-en-balance-sheet-recession"
+      ]
+    },
+    {
+      "step": "需求持续不足 → 即使利率很低也难以复苏",
+      "sources": [
+        "w-en-liquidity-trap"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "资产负债表视角",
+      "view": "私人部门去杠杆使货币政策失效，需财政支持",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-balance-sheet-recession"
+      ]
+    },
+    {
+      "holder": "常规周期视角",
+      "view": "以利率与需求管理解释衰退",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资产负债表衰退：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产价格下跌 → 私人部</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>企业与家庭集体转向偿债、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需求持续不足 → 即使利</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-balance-sheet-recession",
+    "w-en-liquidity-trap"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+}

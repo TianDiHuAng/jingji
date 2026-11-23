@@ -1,0 +1,74 @@
+{
+  "id": "ppi",
+  "title": "生产者价格指数(PPI)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "衡量国内生产者就其产出所收到价格平均变化的指数。",
+  "overview": "生产者价格指数（PPI）是衡量国内生产者就其产出所收到价格平均变化的指数。该指数在1902年至1978年间曾称为批发价格指数，由16000多家机构提供约64000个价格报价构成。PPI 常被视为消费通胀的先行指标。具体编制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "采集生产者出厂价格 → 计算加权价格指数",
+      "sources": [
+        "w-en-ppi"
+      ]
+    },
+    {
+      "step": "衡量生产环节价格变化",
+      "sources": [
+        "w-en-ppi"
+      ]
+    },
+    {
+      "step": "成本变化向下游传导 → 影响消费通胀",
+      "sources": [
+        "w-en-cpi"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "调查机构数",
+      "value": 16000,
+      "unit": "家（提供约64,000个价格报价）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：made up of over 16,000 establishments providing approximately 64,000 price quotations；单一来源待核实。",
+      "sources": [
+        "w-en-ppi"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "先行指标视角",
+      "view": "PPI 变化常先于消费通胀",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-ppi"
+      ]
+    },
+    {
+      "holder": "传导视角",
+      "view": "传导程度取决于竞争与需求状况",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-cpi"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>生产者价格指数(PPI)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>采集生产者出厂价格 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>衡量生产环节价格变化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>成本变化向下游传导 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-ppi",
+    "w-en-inflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+}

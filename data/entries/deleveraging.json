@@ -1,0 +1,62 @@
+{
+  "id": "deleveraging",
+  "title": "去杠杆",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "降低杠杆比率，即减少单个经济实体资产负债表中债务占比的过程。",
+  "overview": "在微观经济层面，去杠杆指降低杠杆比率，即减少单个经济实体（如家庭或企业）资产负债表中债务所占的百分比。它是加杠杆的反向过程——加杠杆是借钱购买资产并放大头寸。去杠杆若集中发生，会收缩需求与资产价格。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "债务过高或资产价格下跌 → 实体被迫削减债务",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    },
+    {
+      "step": "偿债优先于支出 → 需求与资产价格承压",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    },
+    {
+      "step": "集中去杠杆 → 通缩压力与增长下滑",
+      "sources": [
+        "w-en-debt-deflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "微观视角",
+      "view": "单个主体的杠杆率调整是风险管理行为",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    },
+    {
+      "holder": "宏观视角",
+      "view": "集体去杠杆引发\"节俭悖论\"式收缩",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-balance-sheet-recession"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>去杠杆：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务过高或资产价格下跌 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>偿债优先于支出 → 需求</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中去杠杆 → 通缩压力</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-deleveraging",
+    "w-en-leverage"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+}

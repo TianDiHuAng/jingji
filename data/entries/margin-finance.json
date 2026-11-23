@@ -1,0 +1,62 @@
+{
+  "id": "margin-finance",
+  "title": "保证金交易",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "金融工具持有者向对手方缴存的抵押品，用以覆盖其带来的信用风险。",
+  "overview": "在金融中，保证金是金融工具持有者必须向对手方缴存的抵押品，用于覆盖持有者对对手方构成的部分或全部信用风险。该风险可能源于持有者向对手方借入现金购买金融工具等行为。保证金要求影响杠杆水平与强制平仓风险。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "借入资金购买证券 → 需缴存保证金作为抵押",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    },
+    {
+      "step": "价格下跌致保证金不足 → 追加保证金或强制平仓",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    },
+    {
+      "step": "集中平仓 → 放大价格下跌（保证金螺旋）",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险控制视角",
+      "view": "保证金限制杠杆、保护对手方",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    },
+    {
+      "holder": "顺周期视角",
+      "view": "保证金要求在压力下上升、加剧抛售",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-deleveraging"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保证金交易：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借入资金购买证券 → 需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格下跌致保证金不足 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中平仓 → 放大价格下</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-margin-finance",
+    "w-en-leverage"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+}
