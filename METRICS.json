@@ -383,6 +383,18 @@
       "check_result": "PASS (321); check_links 332页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "继续补充：V(10条非传统政策工具:直升机撒钱/MMT/财政主导/YCC/美国债务上限/bailout-bailin/坏账银行/巴黎俱乐部/巴塞尔III/托宾税) + W(4条案例:挪威1988-92/Danat1931/土耳其2001/尼克松冲击1971) + X(4条:阿根廷2018/西班牙2008-14/LDI/Creditanstalt)。用Wikipedia搜索API定位正确页名。"
+    },
+    {
+      "round": "续作Y-AB",
+      "date": "2026-11-23",
+      "new_entries": 27,
+      "upgraded": 0,
+      "reviewed": 27,
+      "fixed": 5,
+      "sources_total": 410,
+      "check_result": "PASS (348); check_links 359页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "继续补充：Y(7条当代事件:Terra-LUNA/GameStop/中国2015-16/俄沙油价战/1994债市/瑞信/UBS/加密泡沫) + Z(4:埃及2023/巴西2014/债务陷阱外交/全球债务) + AA(8:安然/世通/牙买加协定/史密森协定/EMS/瑞典央行/英格兰银行/DeFi) + AB(8:雷曼/贝尔斯登/北岩/华盛顿互惠/AIG/房利美/麦道夫/安达信)."
     }
   ]
 }
