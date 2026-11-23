@@ -1,0 +1,71 @@
+{
+  "id": "fiscal-military-state",
+  "title": "财政军事国家",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "以维持武装力量为经济模式基础的国家，通常在长期或严重冲突时期出现。",
+  "overview": "财政军事国家是一种把经济模式建立在维持武装力量之上的国家，通常出现在长期或严重冲突时期。其特征是为此对公民课以高额税收。该概念用于解释近代欧洲国家能力、公债与税收制度的形成，以及战争与国家建构的关系。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "长期战争压力 → 国家需持续动员资源",
+      "sources": [
+        "w-en-fiscal-military-state"
+      ]
+    },
+    {
+      "step": "建立高税负与公债体系 → 财政能力扩张",
+      "sources": [
+        "w-en-fiscal-military-state"
+      ]
+    },
+    {
+      "step": "财政-军事能力差异 → 影响国际竞争与国家兴衰",
+      "sources": [
+        "w-en-fiscal-capacity"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "国家建构视角",
+      "view": "战争需求驱动税收与官僚体系发展",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-military-state"
+      ]
+    },
+    {
+      "holder": "制度视角",
+      "view": "财政能力是长期增长与竞争的基础",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-fiscal-military-state"
+      ]
+    }
+  ],
+  "comparison": "与重商主义同属近代欧洲国家竞争的经济-政治安排；其公债体系亦为后世主权债市场的前身。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政军事国家：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>长期战争压力 → 国家需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>建立高税负与公债体系 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财政-军事能力差异 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-fiscal-military-state",
+    "w-en-fiscal-capacity"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
+}

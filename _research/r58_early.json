@@ -1,0 +1,22 @@
+{
+  "bardi-family": {
+    "title": "Bardi family",
+    "extract": "The House of Bardi was an influential Florentine family that started the powerful banking company Compagnia dei Bardi. In the 14th century, the Bardis lent Edward III of England 900,000 gold florins, a debt which he failed to repay along with 600,000 florins borrowed from the Peruzzi family, leading to the collapse of both families' banks. During the 15th century, the Bardi family continued to operate in various European centres, playing a notable role in financing some of the early voyages of discovery to the Americas including those by Christopher Columbus and John Cabot.",
+    "slug": "Bardi_family"
+  },
+  "medici-bank": {
+    "title": "Medici Bank",
+    "extract": "The Medici Bank was a financial institution created by the Medici family in Italy during the 15th century (1397–1494). It was the largest and most respected bank in Europe during its prime. There are some estimates that the Medici family was, for a period of time, the wealthiest family in Europe. With their monetary wealth, the family acquired political power initially in Florence, and later in the wider spheres of Italy and Europe.",
+    "slug": "Medici_Bank"
+  },
+  "fiscal-military-state": {
+    "title": "Fiscal-military state",
+    "extract": "A fiscal-military state is a state that bases its economic model on the sustainment of its armed forces, usually in times of prolonged or severe conflict. Characteristically, fiscal-military states will subject citizens to high taxation for this purpose.",
+    "slug": "Fiscal-military_state"
+  },
+  "fiscal-capacity": {
+    "title": "Fiscal capacity",
+    "extract": "Fiscal capacity is the ability of the state to extract revenues to provide public goods and carry out other functions of the state, given an administrative, fiscal accounting structure. In economics and political science, fiscal capacity may be referred to as tax capacity, extractive capacity or the power to tax, as taxes are a main source of public revenues. Nonetheless, though tax revenue is essential to fiscal capacity, taxes may not be the government's only source of revenue. Other sources of revenue include foreign aid and natural resources.",
+    "slug": "Fiscal_capacity"
+  }
+}

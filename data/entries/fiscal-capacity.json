@@ -1,0 +1,72 @@
+{
+  "id": "fiscal-capacity",
+  "title": "财政能力",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "国家在给定行政与财政核算结构下提取收入、以提供公共品并履行职能的能力。",
+  "overview": "财政能力是国家在给定行政与财政核算结构下提取收入、以提供公共品并履行其他职能的能力。在经济学与政治科学中，因税收是（主要手段），财政能力也可称为税收能力、提取能力或征税权力。财政能力是理解国家能力、债务可持续与发展差异的核心变量。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "行政与征管结构决定可提取收入 → 形成财政能力",
+      "sources": [
+        "w-en-fiscal-capacity"
+      ]
+    },
+    {
+      "step": "财政能力充足 → 可提供公共品、承受冲击",
+      "sources": [
+        "w-en-fiscal-space"
+      ]
+    },
+    {
+      "step": "能力薄弱 → 依赖铸币税或外债、易陷入危机",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "国家能力视角",
+      "view": "财政能力是国家能力的核心维度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-capacity"
+      ]
+    },
+    {
+      "holder": "发展视角",
+      "view": "财政能力差异解释长期发展分化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-fiscal-capacity"
+      ]
+    }
+  ],
+  "comparison": "与财政空间（短期余裕）相比，财政能力更偏结构性与长期；二者共同决定反周期与偿债能力。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政能力：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>行政与征管结构决定可提取</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财政能力充足 → 可提供</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>能力薄弱 → 依赖铸币税</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-fiscal-capacity",
+    "w-en-fiscal-space",
+    "w-en-hyperinflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
+}

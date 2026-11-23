@@ -27,6 +27,8 @@
 | dutch-stock-crashes | 荷兰共和国股市崩盘(c.1600–1760) | 前17世纪 | 欧洲 | 泡沫 | 补充 | S3 |
 | tulip-mania-1637 | 郁金香狂热(1637) | 前17世纪 | 欧洲 | 泡沫 | 核心 | S1,S2,S3 |
 | kipper-wipper-1618 | Kipper und Wipper货币危机(1618–1622) | 前17世纪 | 欧洲 | 货币 | 补充 | S3,轮次12 |
+| bardi-family | 巴尔迪家族银行崩溃(1340s) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
+| medici-bank | 美第奇银行(1397–1494) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
 
 ## U2 18—19世纪
 
@@ -486,3 +488,5 @@
 | token-money | 名目货币（代币） | 理论制度 | 全球 | 货币 | 重要 | 续作AL |
 | stock-exchange | 证券交易所 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
 | insurance-history | 保险史 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
+| fiscal-military-state | 财政军事国家 | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
+| fiscal-capacity | 财政能力 | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |

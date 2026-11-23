@@ -1,0 +1,88 @@
+{
+  "id": "medici-bank",
+  "title": "美第奇银行(1397–1494)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U1 早期—17世纪",
+  "period": "早期—17世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "15世纪意大利美第奇家族创办的金融机构，鼎盛期为欧洲最大最受尊敬的银行。",
+  "overview": "美第奇银行是15世纪（1397—1494年）由意大利美第奇家族创办的金融机构。在其鼎盛时期，它是欧洲规模最大、最受尊敬的银行；有估计认为美第奇家族一度是欧洲最富有的家族。该行以跨国分支网络与汇票业务著称，其衰落亦与主权债务人违约相关。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1397,
+      "display": "1397年",
+      "event": "美第奇银行创立（据 Wikipedia Medici Bank）",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    },
+    {
+      "year": 1494,
+      "display": "1494年",
+      "event": "美第奇银行结束（同上）",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "跨国分支网络 + 汇票业务 → 成为欧洲最大银行",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    },
+    {
+      "step": "与君主和政治权力深度绑定 → 承受主权违约与政治风险",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    },
+    {
+      "step": "1494年终结 → 家族银行模式衰落",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "金融创新视角",
+      "view": "分支网络与汇票推动跨境金融",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    },
+    {
+      "holder": "主权风险视角",
+      "view": "与君主绑定带来不可控信用风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sovereign-risk"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    }
+  ],
+  "comparison": "与巴尔迪家族银行同为意大利中世纪-文艺复兴银行业代表，均受主权债务人风险影响。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美第奇银行(1397–1494)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>跨国分支网络 + 汇票业</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>与君主和政治权力深度绑定</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1494年终结 → 家族</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-medici-bank",
+    "w-en-bill-of-exchange"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
+}

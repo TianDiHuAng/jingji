@@ -1,0 +1,111 @@
+{
+  "id": "bardi-family",
+  "title": "巴尔迪家族银行崩溃(1340s)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U1 早期—17世纪",
+  "period": "早期—17世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "14世纪佛罗伦萨巴尔迪家族银行因英王爱德华三世拒偿巨额贷款而崩溃，佩鲁齐家族同时倒闭。",
+  "overview": "巴尔迪家族（House of Bardi）是佛罗伦萨一个颇具影响力的家族，创办了实力雄厚的银行公司 Compagnia dei Bardi。14世纪，巴尔迪家族向英格兰国王爱德华三世贷出90万金弗罗林；连同佩鲁齐家族（Peruzzi）借出的60万弗罗林，爱德华三世均未偿还，导致两大家族（银行）双双崩溃。这是中世纪银行业危机的经典案例。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1340,
+      "display": "14世纪（约1340年代）",
+      "event": "巴尔迪与佩鲁齐家族向英王爱德华三世放贷（据 Wikipedia Bardi family）",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "year": 1345,
+      "display": "14世纪（约1340年代）",
+      "event": "爱德华三世未偿还贷款，两大家族银行崩溃（同上；具体年份待核实）",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "向君主大额放贷（Bardi 90万 + Peruzzi 60万金弗罗林）→ 信用高度集中于单一主权债务人",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "step": "英王爱德华三世拒付 → 银行资产巨额减值",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "step": "两大家族银行崩溃 → 佛罗伦萨金融体系受创",
+      "sources": [
+        "w-en-bank-failure"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "巴尔迪家族贷予爱德华三世",
+      "value": 900000,
+      "unit": "金弗罗林（golds florins）",
+      "year": 1340,
+      "comparable_price": false,
+      "note": "原文：lent Edward III of England 900,000 gold florins；单一来源待核实。",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "label": "佩鲁齐家族贷予爱德华三世",
+      "value": 600000,
+      "unit": "金弗罗林",
+      "year": 1340,
+      "comparable_price": false,
+      "note": "原文：600,000 florins borrowed from the Peruzzi family；单一来源待核实。",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "主权信用风险视角",
+      "view": "对君主的集中放贷缺乏可执行约束",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sovereign-risk"
+      ]
+    },
+    {
+      "holder": "集中度视角",
+      "view": "单一债务人违约即可摧毁银行",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-risk"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    }
+  ],
+  "comparison": "与近代主权违约（如西班牙16-17世纪多次破产）机制相同：君主赖账直接摧毁债权人。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴尔迪家族银行崩溃(1340s)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>向君主大额放贷（Bard</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>英王爱德华三世拒付 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>两大家族银行崩溃 → 佛</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-bardi-family",
+    "w-en-bank-failure"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
+}
