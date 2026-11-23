@@ -217,6 +217,24 @@ def render_entry(e):
     sec('来源', '<div class="src-list">' + ('<br>'.join('• '+src_link(s) for s in srcs) if srcs else '<span class="empty">暂无</span>') + '</div>')
     if e.get('related'):
         sec('相关条目', '<ul>'+''.join(f'<li><a href="{esc(r)}.html">{esc(entries.get(r,{}).get("title",r))}</a></li>' for r in e['related'])+'</ul>')
+    else:
+        # 无手工 related 时自动给出同类条目：优先共享来源，其次同危机类型
+        _t = e.get('crisis_type')
+        _mine = set(e.get('sources') or [])
+
+        def _score(x):
+            shared = len(_mine & set(x.get('sources') or []))
+            return (-shared, x.get('crisis_type') != _t, x.get('level') != 'L3',
+                    x.get('unit') != e.get('unit'), x.get('title') or '')
+
+        _sib = [x for x in entries.values() if x.get('id') != e.get('id')
+                and (x.get('crisis_type') == _t or (_mine & set(x.get('sources') or [])))]
+        _sib.sort(key=_score)
+        if _sib:
+            _links = ''.join(f'<li><a href="{esc(x["id"])}.html">{esc(x.get("title"))}</a>'
+                             f'<span class="src-list"> · {esc(x.get("crisis_type"))} · {esc(x.get("unit"))}</span></li>'
+                             for x in _sib[:6])
+            sec('同类条目（按共享来源与危机类型排序）', '<ul>' + _links + '</ul>')
     b.append('</div>')
     return ''.join(b)
 
