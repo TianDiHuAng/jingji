@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "GKO 国债利率(1998年6月)",
+      "value": 150,
+      "unit": "%",
+      "year": 1998,
+      "comparable_price": false,
+      "note": "原文：Kiriyenko hiked GKO interest rates to 150%；单一来源待核实。",
+      "sources": [
+        "w-en-1998-russian-financial-crisis"
+      ]
+    },
+    {
+      "label": "车臣战争花费与赤字",
+      "value": 5.5,
+      "unit": "十亿美元（战费；预算赤字近GDP10%）",
+      "year": 1996,
+      "comparable_price": false,
+      "note": "原文：the war in Chechnya cost Russia $5.5 billion, causing budget deficits close to 10% of their GDP；单一来源待核实。",
+      "sources": [
+        "w-en-1998-russian-financial-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "固定汇率/财政视角",
@@ -71,6 +94,7 @@
   "comparison": "与同为「货币」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1998年俄罗斯金融危机：机制示意（货币）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
+    "w-en-1998-russian-financial-crisis",
     "w-en-russian-1998",
     "w-en-latin-american-debt-crisis",
     "w-en-russian-financial-crisis-2014-2016"
@@ -81,5 +105,5 @@
     "mexican-peso-1994"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次4抽检优化】补入同国比较来源2014俄危机。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次4抽检优化】补入同国比较来源2014俄危机。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。"
 }

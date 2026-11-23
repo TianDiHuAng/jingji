@@ -30,7 +30,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "衰退持续时长(1920–1921)",
+      "value": 18,
+      "unit": "个月（1920年1月—1921年7月，NBER）",
+      "year": 1921,
+      "comparable_price": false,
+      "note": "原文：The recession lasted from January 1920 to July 1921, or 18 months, according to NBER；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "战后调整/货币政策视角",
@@ -67,5 +79,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AP】补关键数据（单源）。"
 }

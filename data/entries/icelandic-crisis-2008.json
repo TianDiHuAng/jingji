@@ -63,7 +63,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "冰岛外债/GDP(2008年二季度)",
+      "value": 7,
+      "unit": "倍（外债9.553万亿克朗≈500亿欧元，>7倍）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：external debt was 9.553 trillion Icelandic krónur (€50 billion), more than 7 times the GDP of Iceland in 2007；单一来源待核实。",
+      "sources": [
+        "w-en-icelandic-financial-crisis-2008"
+      ]
+    },
+    {
+      "label": "三大银行资产/GDP",
+      "value": 11,
+      "unit": "倍（14.437万亿克朗，>11倍）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：The assets of the three banks totaled 14.437 trillion krónur ... equal to more than 11 times the national GDP；单一来源待核实。",
+      "sources": [
+        "w-en-icelandic-financial-crisis-2008"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行规模/杠杆视角",
@@ -95,6 +118,7 @@
   "comparison": "与同为「银行」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>冰岛金融危机(2008–2011)：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
+    "w-en-icelandic-financial-crisis-2008",
     "w-en-icelandic-crisis-2008",
     "w-en-euro-area-crisis"
   ],
@@ -104,5 +128,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
+  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作AP】补关键数据（单源）。"
 }

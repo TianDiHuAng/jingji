@@ -47,7 +47,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "衰退持续时长(1937–1938)",
+      "value": 13,
+      "unit": "个月",
+      "year": 1938,
+      "comparable_price": false,
+      "note": "原文：lasting for 13 months through most of 1938；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    },
+    {
+      "label": "工业生产降幅",
+      "value": -30,
+      "unit": "%（近30%）",
+      "year": 1938,
+      "comparable_price": false,
+      "note": "原文：Industrial production declined almost 30 percent；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    },
+    {
+      "label": "失业率(1938年6月)",
+      "value": 19.0,
+      "unit": "%（自1937年5月14.3%上升）",
+      "year": 1938,
+      "comparable_price": false,
+      "note": "原文：Unemployment jumped from 14.3% in May 1937 to 19.0% in June 1938；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "政策失误视角",
@@ -87,5 +121,5 @@
     "panic-1837"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【续作】案例化（据本地维基语料）。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【续作】案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。"
 }

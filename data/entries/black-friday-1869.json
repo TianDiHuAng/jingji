@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "政府释放黄金规模(1869年9月)",
+      "value": 4,
+      "unit": "百万美元（400万）",
+      "year": 1869,
+      "comparable_price": false,
+      "note": "原文：ordering the release of $4 million in government gold on September；单一来源待核实。",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "市场操纵/逼空视角",
@@ -88,5 +100,5 @@
     "copper-panic-1789"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。"
 }

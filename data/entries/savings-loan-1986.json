@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "被关闭储贷机构数",
+      "value": 1043,
+      "unit": "家（持有5190亿美元资产）",
+      "year": 1995,
+      "comparable_price": false,
+      "note": "原文：The two agencies closed 1,043 banks that held $519 billion in assets；单一来源待核实。",
+      "sources": [
+        "w-en-savings-and-loan-crisis"
+      ]
+    },
+    {
+      "label": "纳税人总成本(至1999年底)",
+      "value": 123.8,
+      "unit": "十亿美元（另加储贷业291亿损失）",
+      "year": 1999,
+      "comparable_price": false,
+      "note": "原文：The total cost of taxpayers by the end of 1999 was $123.8 billion；单一来源待核实。",
+      "sources": [
+        "w-en-savings-and-loan-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行挤兑/恐慌视角",
@@ -88,5 +111,5 @@
     "rhode-island-banking-1990"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-savings-and-loan-crisis替换兜底，待核实。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-savings-and-loan-crisis替换兜底，待核实。 【续作AP】补关键数据（单源）。"
 }

@@ -71,7 +71,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "英国基准利率上调(1992-09-16)",
+      "value": 12,
+      "unit": "%（自10%上调）",
+      "year": 1992,
+      "comparable_price": false,
+      "note": "原文：announced an increase in the base interest rate, from an already high 10%, to 12%；单一来源待核实。",
+      "sources": [
+        "w-en-black-wednesday"
+      ]
+    },
+    {
+      "label": "英镑加入ERM的中心汇率(1990-10-08)",
+      "value": 2.95,
+      "unit": "德国马克/英镑",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：Thatcher entered the pound into the ERM at DM 2.95 to £1；单一来源待核实。",
+      "sources": [
+        "w-en-black-wednesday"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "固定汇率/不可能三角视角",
@@ -113,5 +136,5 @@
     "russian-1998"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。 【轮次6体检】补专属来源w-en-black-wednesday。 【轮次24】causal_chain/schools案例化（据本地维基语料）。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次5时间线深化】补入单源日期节点，待第二来源核实。 【轮次6体检】补专属来源w-en-black-wednesday。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。"
 }
