@@ -1,0 +1,62 @@
+{
+  "id": "currency-union",
+  "title": "货币联盟",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "两个或多个国家共享同一货币的政府间协议。",
+  "overview": "货币联盟是一项政府间协议，涉及两个或多个国家共享同一种货币；这些国家未必在其他方面有更深入的一体化。货币联盟使成员国放弃独立货币政策，因而缺乏对本国特定冲击的汇率与利率调节手段。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "多国协议共享同一货币 → 形成货币联盟",
+      "sources": [
+        "w-en-currency-union"
+      ]
+    },
+    {
+      "step": "成员国放弃独立货币政策与汇率工具",
+      "sources": [
+        "w-en-currency-union"
+      ]
+    },
+    {
+      "step": "面对非对称冲击时缺乏调节手段 → 需财政转移或调整",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "一体化视角",
+      "view": "共同货币降低交易成本、促进贸易",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-union"
+      ]
+    },
+    {
+      "holder": "最优货币区视角",
+      "view": "需要素流动与财政一体化配套",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融危机/国际收支理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币联盟：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>多国协议共享同一货币 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>成员国放弃独立货币政策与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>面对非对称冲击时缺乏调节</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-currency-union",
+    "w-en-euro-area-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+}

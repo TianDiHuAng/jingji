@@ -1,0 +1,62 @@
+{
+  "id": "current-account",
+  "title": "经常账户",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "记录一国商品与服务进出口及国际转移价值的账户，是国际收支两大组成部分之一。",
+  "overview": "在宏观经济学与国际金融中，一国经常账户记录商品与服务进出口的价值以及国际转移。它是国际收支的两个组成部分之一，另一个是资本（与金融）账户。经常账户差额反映储蓄与投资的缺口。具体口径待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "商品与服务贸易 + 国际转移 → 记录于经常账户",
+      "sources": [
+        "w-en-current-account"
+      ]
+    },
+    {
+      "step": "经常账户差额 = 储蓄 − 投资（恒等式）",
+      "sources": [
+        "w-en-current-account"
+      ]
+    },
+    {
+      "step": "持续逆差需由资本流入弥补 → 外部脆弱性",
+      "sources": [
+        "w-en-sudden-stop"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "收支视角",
+      "view": "经常账户反映实体贸易与转移",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-current-account"
+      ]
+    },
+    {
+      "holder": "储蓄-投资视角",
+      "view": "差额根源于国内储蓄与投资失衡",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-global-imbalances"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融危机/国际收支理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经常账户：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品与服务贸易 + 国际</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>经常账户差额 = 储蓄 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>持续逆差需由资本流入弥补</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-current-account",
+    "w-en-balance-of-payments"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+}

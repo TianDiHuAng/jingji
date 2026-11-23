@@ -1,0 +1,62 @@
+{
+  "id": "fiscal-space",
+  "title": "财政空间",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "政府在支出选择上的灵活性，更广义指政府的财政稳健程度。",
+  "overview": "财政空间是政府在支出选择上的灵活性，更一般地指政府的财政健康状况。Peter Heller（2005）将其定义为\"政府预算中的余裕，使其能够为预期需求提供资源\"。财政空间的大小取决于债务水平、利率、增长与市场信心。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "债务水平与利息负担 → 决定可动用的财政余裕",
+      "sources": [
+        "w-en-fiscal-space"
+      ]
+    },
+    {
+      "step": "财政空间充足 → 危机时可扩张支出",
+      "sources": [
+        "w-en-fiscal-space"
+      ]
+    },
+    {
+      "step": "空间耗尽 → 被迫紧缩、加剧下行",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "政策空间视角",
+      "view": "财政空间决定反周期能力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-space"
+      ]
+    },
+    {
+      "holder": "可持续性视角",
+      "view": "空间随市场信心与利率变化而收缩",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融危机/国际收支理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政空间：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务水平与利息负担 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财政空间充足 → 危机时</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>空间耗尽 → 被迫紧缩、</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-fiscal-space",
+    "w-en-government-debt"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+}

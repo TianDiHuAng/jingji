@@ -1,0 +1,62 @@
+{
+  "id": "devaluation",
+  "title": "贬值（法定贬值）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "固定汇率制下货币当局正式下调本币汇率的官方行为。",
+  "overview": "在宏观经济学与现代货币政策中，贬值指在固定汇率体系内官方下调一国货币的价值，即货币当局正式设定本币对外币更低的汇率。贬值可改善贸易竞争力，但会推高进口成本与外币债务负担。具体影响待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "国际收支持续逆差或储备流失 → 维持平价困难",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "step": "当局正式下调本币汇率 → 法定贬值",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "step": "出口竞争力改善、进口与外币债务负担上升",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "调整视角",
+      "view": "贬值是纠正汇率高估的必要调整",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "holder": "代价视角",
+      "view": "贬值推高通胀与外币债务负担",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "金融危机/国际收支理论概念，与其他概念互补；具体争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贬值（法定贬值）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国际收支持续逆差或储备流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>当局正式下调本币汇率 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>出口竞争力改善、进口与外</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-devaluation",
+    "w-en-currency-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+}

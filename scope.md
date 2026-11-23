@@ -396,3 +396,16 @@
 | savings-glut | 全球储蓄过剩 | 理论制度 | 全球 | 理论 | 重要 | 续作AD |
 | global-imbalances | 全球失衡 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |
 | reserve-currency | 储备货币 | 理论制度 | 全球 | 货币 | 重要 | 续作AD |
+| diamond-dybvig | 戴蒙德-迪布维格模型 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
+| speculative-attack | 投机攻击 | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
+| self-fulfilling | 自我实现的预言 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
+| fiscal-space | 财政空间 | 理论制度 | 全球 | 债务 | 重要 | 续作AE |
+| current-account | 经常账户 | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
+| twin-deficits | 双赤字假说 | 理论制度 | 全球 | 债务 | 重要 | 续作AE |
+| devaluation | 贬值（法定贬值） | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
+| capital-account | 资本账户 | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
+| financial-innovation | 金融创新 | 理论制度 | 全球 | 制度 | 重要 | 续作AE |
+| financial-fragility | 金融脆弱性 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
+| credit-cycle | 信贷周期 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
+| leverage-cycle | 杠杆周期 | 理论制度 | 全球 | 理论 | 重要 | 续作AE |
+| currency-union | 货币联盟 | 理论制度 | 全球 | 货币 | 重要 | 续作AE |
