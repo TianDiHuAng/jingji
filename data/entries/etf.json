@@ -1,0 +1,62 @@
+{
+  "id": "etf",
+  "title": "交易所交易基金(ETF)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "在证券交易所买卖、持有股票债券等金融资产的投资基金。",
+  "overview": "交易所交易基金（ETF）是一种既属投资基金、又属交易所交易产品的投资工具，即在证券交易所买卖。ETF 持有股票、债券、货币、加密货币、债务与期货合约等金融资产。其费用通常较低、可日内交易，但也可能带来流动性与跟踪误差问题。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "基金持有一篮子资产 → 份额在交易所挂牌",
+      "sources": [
+        "w-en-etf"
+      ]
+    },
+    {
+      "step": "投资者像股票一样买卖份额 → 获得分散化敞口",
+      "sources": [
+        "w-en-etf"
+      ]
+    },
+    {
+      "step": "套利机制使价格贴近净值（偏离时出现折溢价）",
+      "sources": [
+        "w-en-secondary-market"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "低成本分散视角",
+      "view": "ETF 提供便捷、低成本的分散化投资",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-etf"
+      ]
+    },
+    {
+      "holder": "风险视角",
+      "view": "流动性错配与跟踪误差、杠杆型产品放大风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-liquidity"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>交易所交易基金(ETF)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>基金持有一篮子资产 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>投资者像股票一样买卖份额</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>套利机制使价格贴近净值（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-etf",
+    "w-en-secondary-market"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

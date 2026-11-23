@@ -1,0 +1,62 @@
+{
+  "id": "risk-premium",
+  "title": "风险溢价",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "个人因承受更高风险而要求的超额回报。",
+  "overview": "风险溢价是个人因承受更高风险水平而要求的超额回报的度量，广泛用于金融与经济学，一般定义为预期风险回报减去无风险回报。风险溢价的大小反映市场对风险的定价与厌恶程度。具体测算待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "投资者厌恶风险 → 要求高于无风险利率的补偿",
+      "sources": [
+        "w-en-risk-premium"
+      ]
+    },
+    {
+      "step": "以预期风险回报减无风险回报衡量",
+      "sources": [
+        "w-en-risk-premium"
+      ]
+    },
+    {
+      "step": "风险厌恶上升 → 溢价扩大、资产价格下跌",
+      "sources": [
+        "w-en-financial-accelerator"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "资产定价视角",
+      "view": "风险溢价是风险定价的核心",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-risk-premium"
+      ]
+    },
+    {
+      "holder": "危机视角",
+      "view": "压力下溢价骤升、融资骤紧",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sudden-stop"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>风险溢价：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>投资者厌恶风险 → 要求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以预期风险回报减无风险回</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>风险厌恶上升 → 溢价扩</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-risk-premium",
+    "w-en-financial-accelerator"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

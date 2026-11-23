@@ -1,0 +1,62 @@
+{
+  "id": "swap",
+  "title": "掉期（互换）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "双方按约定公式交换两笔现金流序列的合约，属衍生品。",
+  "overview": "在金融中，掉期（互换）是双方约定按某一公式交换一笔现金流序列与另一笔现金流序列的合约，属于衍生品。最常见类型是利率互换：一方支付固定利率、另一方支付浮动利率。掉期用于管理利率、汇率与信用风险。具体品种待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "双方约定交换现金流公式 → 签订掉期合约",
+      "sources": [
+        "w-en-swap"
+      ]
+    },
+    {
+      "step": "利率互换：固定与浮动利率现金流互换",
+      "sources": [
+        "w-en-swap"
+      ]
+    },
+    {
+      "step": "用于对冲或调整资产负债的利率敏感度",
+      "sources": [
+        "w-en-derivative"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险管理视角",
+      "view": "掉期可精细调整利率与汇率敞口",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-swap"
+      ]
+    },
+    {
+      "holder": "对手方风险视角",
+      "view": "场外掉期存在不透明与对手方风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-otc"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>掉期（互换）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方约定交换现金流公式 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利率互换：固定与浮动利率</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于对冲或调整资产负债的</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-swap",
+    "w-en-derivative"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

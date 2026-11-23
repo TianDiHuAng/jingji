@@ -1,0 +1,62 @@
+{
+  "id": "primary-market",
+  "title": "一级市场",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "资本市场中由发行人直接向购买者发行并出售证券、发行人获得价款的部分。",
+  "overview": "一级市场是资本市场的一部分，处理由发行人直接向购买者发行并出售证券的事务，发行人是价款收取方。一级市场即新发行证券的市场，区别于已发行证券在投资者之间转手的二级市场。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "发行人直接向投资者发行新证券 → 募集资金",
+      "sources": [
+        "w-en-primary-market"
+      ]
+    },
+    {
+      "step": "发行人获得发行价款",
+      "sources": [
+        "w-en-primary-market"
+      ]
+    },
+    {
+      "step": "证券随后在二级市场流通交易",
+      "sources": [
+        "w-en-secondary-market"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "融资视角",
+      "view": "一级市场为企业与政府提供融资渠道",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-primary-market"
+      ]
+    },
+    {
+      "holder": "定价视角",
+      "view": "发行定价影响抑价与投资者认购意愿",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-initial-public-offering"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>一级市场：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发行人直接向投资者发行新</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>发行人获得发行价款</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>证券随后在二级市场流通交</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-primary-market",
+    "w-en-secondary-market"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

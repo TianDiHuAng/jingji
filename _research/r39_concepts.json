@@ -1,0 +1,82 @@
+{
+  "bond": {
+    "title": "Bond (finance)",
+    "extract": "In finance, a bond is a type of security under which the issuer (debtor) owes the holder (creditor) a debt, and is obliged to provide cash flow to the creditor. This usually consists of as interest over a specified amount of time, and repaying the principal at the maturity date. The timing and the amount of cash flow provided varies, thus giving rise to different types of bonds. The interest is usually payable at fixed intervals: semiannual, annual, and less often at other periods. Thus, a bond is a form of loan or IOU. Bonds provide the borrower with external funds to finance long-term investments or, in the case of government bonds, to finance current expenditure.",
+    "slug": "Bond_(finance)"
+  },
+  "stock": {
+    "title": "Stock",
+    "extract": "Stocks consist of all the shares by which ownership of a corporation or company is divided. A single share of the stock means fractional ownership of the corporation in proportion to the total number of shares. This typically entitles the shareholder (stockholder) to that fraction of the company's earnings, proceeds from liquidation of assets, or voting power, often dividing these up in proportion to the number of like shares each stockholder owns. Not all stock is necessarily equal, as certain classes of stock may be issued, for example, without voting rights, with enhanced voting rights, or with a certain priority to receive profits or liquidation proceeds before or after other classes of shareholders.",
+    "slug": "Stock"
+  },
+  "option": {
+    "title": "Option (finance)",
+    "extract": "In finance, an option is a contract which conveys to its owner, the holder, the right, but not the obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified strike price on or before a specified date, depending on the style of the option.",
+    "slug": "Option_(finance)"
+  },
+  "futures": {
+    "title": "Futures contract",
+    "extract": "In finance, a futures contract is a standardized legal contract to buy or sell something at a predetermined price for delivery at a specified time in the future, between parties not yet known to each other. The item transacted is usually a commodity or financial instrument. The predetermined price of the contract is known as the forward price or delivery price. The specified time in the future when delivery and payment occur is known as the delivery date. Because it derives its value from the value of the underlying asset, a futures contract is a derivative. Futures contracts are widely used for hedging price risk and for speculative trading in commodities, currencies, and financial instruments.",
+    "slug": "Futures_contract"
+  },
+  "swap": {
+    "title": "Swap (finance)",
+    "extract": "In finance, a swap is a contract in which two parties agree to exchange one stream of payments for another, using an agreed formula. Swaps are a type of derivative. The most common kind is the interest rate swap, in which one party pays a fixed interest rate and the other pays a floating rate, both worked out on the same notional amount. In most swaps the original loan amount is not exchanged.",
+    "slug": "Swap_(finance)"
+  },
+  "risk-premium": {
+    "title": "Risk premium",
+    "extract": "A risk premium is a measure of excess return that is required by an individual to compensate being subjected to an increased level of risk. It is used widely in finance and economics, the general definition being the expected risky return less the risk-free return, as demonstrated by the formula below.",
+    "slug": "Risk_premium"
+  },
+  "beta": {
+    "title": "Beta (finance)",
+    "extract": "In finance, the beta is a statistic that measures the expected increase or decrease of an individual stock price in proportion to movements of the stock market as a whole. Beta can be used to indicate the contribution of an individual asset to the market risk of a portfolio when it is added in small quantity. It refers to an asset's non-diversifiable risk, systematic risk, or market risk. Beta is not a measure of idiosyncratic risk.",
+    "slug": "Beta_(finance)"
+  },
+  "open-market-operation": {
+    "title": "Open market operation",
+    "extract": "In macroeconomics, an open market operation (OMO) is an activity by a central bank to exchange liquidity in its currency with a bank or a group of banks. The central bank can either transact government bonds and other financial assets in the open market or enter into a repurchase agreement or secured lending transaction with a commercial bank. The latter option, often preferred by central banks, involves them making fixed period deposits at commercial banks with the security of eligible assets as collateral.",
+    "slug": "Open_market_operation"
+  },
+  "discount-window": {
+    "title": "Discount window",
+    "extract": "The discount window is an instrument of monetary policy that allows eligible institutions to borrow money from the central bank, usually on a short-term basis, to meet temporary shortages of liquidity caused by internal or external disruptions.",
+    "slug": "Discount_window"
+  },
+  "primary-market": {
+    "title": "Primary market",
+    "extract": "The primary market is the part of the capital market that deals with the issuance and sale of securities to purchasers directly by the issuer, with the issuer being paid the proceeds. A primary market means the market for new issues of securities, as distinguished from the secondary market, where previously issued securities are bought and sold. A market is primary if the proceeds of sales go to the issuer of the securities sold. Buyers buy securities that were not previously traded.",
+    "slug": "Primary_market"
+  },
+  "secondary-market": {
+    "title": "Secondary market",
+    "extract": "The secondary market, also called the aftermarket, is the financial market in which previously issued financial instruments such as shares, bonds, options, and futures are bought and sold. The initial sale of the security by the issuer to a purchaser, who pays proceeds to the issuer, is the primary market. All sales after the initial sale of the security are sales in the secondary market. Whereas the term primary market refers to the market for new issues of securities, and \"[a] market is primary if the proceeds of sales go to the issuer of the securities sold,\" the secondary market in contrast is the market created by the later trading of such securities.",
+    "slug": "Secondary_market"
+  },
+  "gnp": {
+    "title": "Gross national income",
+    "extract": "Gross national income (GNI), formerly known as gross national product (GNP), is the total amount of factor incomes earned by the residents of a country. It is equal to gross domestic product (GDP), plus factor incomes received from non-residents by residents, minus factor income paid by residents to non-residents.",
+    "slug": "Gross_national_product"
+  },
+  "budget-balance": {
+    "title": "Government budget balance",
+    "extract": "The government budget balance, also referred to as the general government balance, public budget balance, or public fiscal balance, is the difference between government revenues and spending. For a government that uses accrual accounting the budget balance is calculated using only spending on current operations, with expenditure on new capital assets excluded. A positive balance is called a government budget surplus, and a negative balance is a government budget deficit. A government budget presents the government's proposed revenues and spending for a financial year.",
+    "slug": "Government_budget_balance"
+  },
+  "national-income": {
+    "title": "Measures of national income and output",
+    "extract": "\nA variety of measures of national income and output are used in economics to estimate total economic activity in a country or region, including gross domestic product (GDP), Gross national income (GNI), net national income (NNI), and adjusted national income. All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them.",
+    "slug": "Measures_of_national_income_and_output"
+  },
+  "etf": {
+    "title": "Exchange-traded fund",
+    "extract": "An exchange-traded fund (ETF) is a type of investment fund that is also an exchange-traded product; i.e., it is bought and sold on stock exchanges. ETFs own financial assets such as stocks, bonds, currencies, cryptocurrency, debt, and futures contracts, as well as commodities such as gold bars. ETFs provide more diversification than owning an individual stock and more market liquidity than owning an individual bond.",
+    "slug": "Exchange-traded_fund"
+  },
+  "convertible-bond": {
+    "title": "Convertible bond",
+    "extract": "In finance, a convertible bond, convertible note, or convertible  is a type of bond that the holder can convert into a specified number of shares of common stock in the issuing company or cash of equal value. It is a hybrid security with debt- and equity-like features. It originated in the mid-19th century, and was used by early speculators such as Jacob Little and Daniel Drew to counter market cornering.",
+    "slug": "Convertible_bond"
+  }
+}

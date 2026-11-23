@@ -1,0 +1,62 @@
+{
+  "id": "open-market-operation",
+  "title": "公开市场操作",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行与银行或银行群体交换本币流动性的活动。",
+  "overview": "在宏观经济学中，公开市场操作（OMO）是中央银行与某家银行或一组银行交换本币流动性的活动。央行可在公开市场买卖政府债券及其他金融资产，以调节银行体系流动性。它是货币政策最常用的日常工具。具体操作待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行在公开市场买入或卖出证券 → 投放或回笼流动性",
+      "sources": [
+        "w-en-open-market-operation"
+      ]
+    },
+    {
+      "step": "银行体系准备金变化 → 短期利率受影响",
+      "sources": [
+        "w-en-open-market-operation"
+      ]
+    },
+    {
+      "step": "传导至信贷与总需求",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "工具视角",
+      "view": "OMO 灵活、可日常微调流动性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-open-market-operation"
+      ]
+    },
+    {
+      "holder": "局限视角",
+      "view": "零利率下限时效果受限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>公开市场操作：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行在公开市场买入或卖出</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行体系准备金变化 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>传导至信贷与总需求</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-open-market-operation",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

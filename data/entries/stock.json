@@ -1,0 +1,62 @@
+{
+  "id": "stock",
+  "title": "股票",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "公司所有权被划分成的全部股份，单股代表按比例的 fractional 所有权。",
+  "overview": "股票由公司所有权被划分成的全部股份构成。单份股票意味着按总股数比例的 fractional 所有权，通常赋予股东相应权利（如分红与投票）。股票价格反映市场对公司未来现金流的预期，波动性高于债券。具体权利待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "公司发行股份 → 投资者获得所有权份额",
+      "sources": [
+        "w-en-stock"
+      ]
+    },
+    {
+      "step": "股东按比例享有分红与剩余索取权",
+      "sources": [
+        "w-en-stock"
+      ]
+    },
+    {
+      "step": "预期变化 → 股价波动，影响融资与财富",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "股权视角",
+      "view": "股票提供增长收益与风险分担",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-stock"
+      ]
+    },
+    {
+      "holder": "泡沫视角",
+      "view": "股价可因投机显著偏离基本面",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>股票：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>公司发行股份 → 投资者</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股东按比例享有分红与剩余</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>预期变化 → 股价波动，</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-stock",
+    "w-en-speculative-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}

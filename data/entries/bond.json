@@ -1,0 +1,62 @@
+{
+  "id": "bond",
+  "title": "债券",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "发行者（债务人）对持有人（债权人）负有债务、须提供现金流的证券。",
+  "overview": "在金融中，债券是一种证券：发行者（债务人）对持有人（债权人）负有债务，并有义务向债权人提供现金流。这通常包括在约定期限内支付利息，并在到期时偿还本金。债券价格与利率反向变动。具体品种待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "发行人借款 → 承诺按期付息、到期还本",
+      "sources": [
+        "w-en-bond"
+      ]
+    },
+    {
+      "step": "投资者购买债券 → 获得固定或浮动现金流",
+      "sources": [
+        "w-en-bond"
+      ]
+    },
+    {
+      "step": "利率上升 → 存量债券价格下跌",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "固定收益视角",
+      "view": "债券提供可预期现金流与分散化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bond"
+      ]
+    },
+    {
+      "holder": "利率风险视角",
+      "view": "久期越长对利率变动越敏感",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-yield-curve"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债券：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发行人借款 → 承诺按期</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>投资者购买债券 → 获得</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>利率上升 → 存量债券价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bond",
+    "w-en-interest-rate"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+}
