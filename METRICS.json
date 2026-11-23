@@ -301,6 +301,18 @@
       "check_result": "PASS (159); check_links 161页 0 error",
       "spot_check": "自检6条新概念:来源verified/L2/因果3/学派2/图齐",
       "note": "按用户要求补经济学与金融知识：新增24条概念条目(经济学:通胀/失业/货币政策/财政政策/QE/QT/真实经济周期/凯恩斯主义/创造性破坏/央行独立性/恶性通胀/货币危机/美联储; 金融:MBS/CDO/CDS/次级贷款/主权违约/信贷紧缩/银行倒闭/系统性风险/投机泡沫/债务危机/IPO)。均L2重要级，据库内verified来源(含凯恩斯/熊彼特著作)，不编造数字。"
+    },
+    {
+      "round": "续作D(网络恢复)",
+      "date": "2026-11-23",
+      "new_entries": 1,
+      "upgraded": 25,
+      "reviewed": 25,
+      "fixed": 5,
+      "sources_total": 215,
+      "check_result": "PASS (160); check_links 171页 0 error",
+      "spot_check": "总QA:tier达标0缺/0非法来源/0缺页/0指标冲突",
+      "note": "网络恢复(REST可用)：补建长期挂起的2020新冠股灾(L2)；升级25条L1→L2(panic-1847/1866/1901/paris-1882/uk-secondary/rhode-island + bengal/cameroon/俄衰退/河南/缅甸/1884/1930/2002/2011/委内瑞拉x2/乌克兰/阿伦达尔 + 6概念)。层级 L1 20/L2 111/L3 29。"
     }
   ]
 }
