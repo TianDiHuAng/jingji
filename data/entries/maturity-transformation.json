@@ -1,0 +1,62 @@
+{
+  "id": "maturity-transformation",
+  "title": "期限转换",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "银行",
+  "one_line": "金融机构以较短期限借入、以较长期限贷出的做法。",
+  "overview": "期限转换是金融机构以更短期限借入资金、而以更长期限贷出的做法。金融市场同样具有期限转换效应：股东与债券持有人可在二级市场随时卖出，而发行公司仍能作为长期借款方从短期资金市场中融资。这一功能带来流动性创造，也带来挤兑脆弱性。具体度量待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "短借长贷 → 为长期投资提供融资",
+      "sources": [
+        "w-en-maturity-transformation"
+      ]
+    },
+    {
+      "step": "负债端短期可撤回、资产端长期不可变现",
+      "sources": [
+        "w-en-maturity-transformation"
+      ]
+    },
+    {
+      "step": "信心动摇时易发生挤兑 → 需存款保险与央行支持",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "功能视角",
+      "view": "期限转换是社会融资与流动性创造的核心功能",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-maturity-transformation"
+      ]
+    },
+    {
+      "holder": "脆弱性视角",
+      "view": "期限错配使银行天然易受挤兑冲击",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>期限转换：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>短借长贷 → 为长期投资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>负债端短期可撤回、资产端</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心动摇时易发生挤兑 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-maturity-transformation",
+    "w-en-bank-run"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "information-asymmetry",
+  "title": "信息不对称",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "交易一方拥有比另一方更多或更好信息的情形。",
+  "overview": "信息不对称是契约理论、机制设计与经济学中的情形：一方拥有比另一方更多或更好的信息。它是逆向选择、道德风险与委托代理问题的共同根源，也是金融中介与监管存在的理由之一。具体应用待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "一方掌握更多信息 → 交易双方信息地位不对等",
+      "sources": [
+        "w-en-information-asymmetry"
+      ]
+    },
+    {
+      "step": "引发逆向选择与道德风险",
+      "sources": [
+        "w-en-adverse-selection"
+      ]
+    },
+    {
+      "step": "需要信号、筛选、抵押与监管等机制缓解",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "契约理论视角",
+      "view": "信息不对称是市场失灵与制度设计的核心",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-information-asymmetry"
+      ]
+    },
+    {
+      "holder": "金融中介视角",
+      "view": "银行与评级机构以信息生产缓解不对称",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信息不对称：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>一方掌握更多信息 → 交</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>引发逆向选择与道德风险</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需要信号、筛选、抵押与监</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-information-asymmetry",
+    "w-en-adverse-selection"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

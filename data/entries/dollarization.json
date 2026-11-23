@@ -1,0 +1,62 @@
+{
+  "id": "dollarization",
+  "title": "美元化（货币替代）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "使用外币与本国货币并行、或替代本国货币的现象。",
+  "overview": "货币替代（又称美元化）指使用外币与本国货币并行或替代本国货币的现象。常见于高通胀或货币信心崩溃的经济体，可缓解本币贬值与通胀，但会丧失独立货币政策与最后贷款人能力。具体程度与影响待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "本币信心崩溃/高通胀 → 居民与企业转持外币",
+      "sources": [
+        "w-en-dollarization"
+      ]
+    },
+    {
+      "step": "外币承担计价、交易与储藏职能",
+      "sources": [
+        "w-en-dollarization"
+      ]
+    },
+    {
+      "step": "货币政策自主性下降、铸币税流失",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币替代视角",
+      "view": "美元化是本币信用缺失的市场化应对",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-dollarization"
+      ]
+    },
+    {
+      "holder": "政策约束视角",
+      "view": "美元化削弱独立货币政策与汇率工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美元化（货币替代）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本币信心崩溃/高通胀 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>外币承担计价、交易与储藏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策自主性下降、铸币</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-dollarization",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

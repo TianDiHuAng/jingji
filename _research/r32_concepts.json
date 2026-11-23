@@ -1,0 +1,92 @@
+{
+  "liquidity-trap": {
+    "title": "Liquidity trap",
+    "extract": "A liquidity trap is a situation, described in Keynesian economics, in which, \"after the rate of interest has fallen to a certain level, liquidity preference may become virtually absolute in the sense that almost everyone prefers holding cash rather than holding a debt which yields so low a rate of interest.\"",
+    "slug": "Liquidity_trap"
+  },
+  "stagflation": {
+    "title": "Stagflation",
+    "extract": "Stagflation is the combination of high inflation, stagnant economic growth, and elevated unemployment. The term stagflation, a portmanteau of \"stagnation\" and \"inflation\", was popularized and probably coined by British politician Iain Macleod in the 1960s, during a period of economic distress in the United Kingdom. It gained broader recognition in the 1970s after a series of global economic shocks, such as the closure of the Suez Canal (1967–1975) and the 1973 oil crisis, which disrupted supply chains and led to rising prices and slowing growth. Stagflation challenges traditional economic theories, which suggest that inflation and unemployment are inversely related, as depicted by the Phillips Curve.",
+    "slug": "Stagflation"
+  },
+  "phillips-curve": {
+    "title": "Phillips curve",
+    "extract": "The Phillips curve is a representation of the relationship between unemployment and inflation in the macroeconomy, where a tradeoff between low unemployment and price stability exists. Identified by economist Bill Phillips, the curve shows a relationship between lowering unemployment with increasing wages in an economy. While Phillips did not directly link employment and inflation, this was a trivial deduction from his statistical findings. Classical economists Paul Samuelson and Robert Solow made the connection explicit, followed by the theoretical arguments developed by Milton Friedman and Edmund Phelps.",
+    "slug": "Phillips_curve"
+  },
+  "inflation-targeting": {
+    "title": "Inflation targeting",
+    "extract": "\nIn macroeconomics, inflation targeting is a monetary policy where a central bank follows an explicit target for the inflation rate for the medium-term and announces this inflation target to the public. The assumption is that the best that monetary policy can do to support long-term growth of the economy is to maintain price stability, and price stability is achieved by controlling inflation. The central bank uses short-term interest rates as its main monetary instrument.",
+    "slug": "Inflation_targeting"
+  },
+  "taylor-rule": {
+    "title": "Taylor rule",
+    "extract": "The Taylor rule is a monetary policy targeting rule. The rule was proposed in 1992 by American economist John B. Taylor for central banks to use to stabilize economic activity by appropriately setting short-term interest rates. The rule considers the federal funds rate, the price level and changes in real income. The Taylor rule computes the optimal federal funds rate based on the gap between the desired (targeted) inflation rate and the actual inflation rate; and the output gap between the actual and natural output level. According to Taylor, monetary policy is stabilizing when the nominal interest rate is higher/lower than the increase/decrease in inflation. Thus the Taylor rule prescribes a relatively high interest rate when actual inflation is higher than the inflation target.",
+    "slug": "Taylor_rule"
+  },
+  "information-asymmetry": {
+    "title": "Information asymmetry",
+    "extract": "In contract theory, mechanism design, and economics, an information asymmetry is a situation where one party has more or better information than the other.",
+    "slug": "Information_asymmetry"
+  },
+  "adverse-selection": {
+    "title": "Adverse selection",
+    "extract": "In economics, insurance, and risk management, adverse selection is a market situation where asymmetric information results in a party taking advantage of undisclosed information to benefit more from a contract or trade.",
+    "slug": "Adverse_selection"
+  },
+  "principal-agent": {
+    "title": "Principal–agent problem",
+    "extract": "The principal–agent problem refers to the conflict in interests and priorities that arises when one person or entity takes actions on behalf of another person or entity. The problem worsens when there is a greater discrepancy of interests and information between the principal and agent, as well as when the principal lacks the means to punish the agent. The deviation of the agent's actions from the principal's interest is called \"agency cost\".",
+    "slug": "Principal%E2%80%93agent_problem"
+  },
+  "maturity-transformation": {
+    "title": "Maturity transformation",
+    "extract": "Maturity transformation is the practice by financial institutions of borrowing money on shorter timeframes than they lend money out. Financial markets also have the effect of maturity transformation whereby investors such as shareholders and bondholders can sell their shares and bonds in the secondary market at any time without affecting the company that issued the shares or bonds. Thus the company can be a long-term borrower from a market of short-term lenders. The short-term lenders are simply buying and selling the ownership of the shares or bonds on the stock market. The company keeps a register of owners and changes the name whenever there is a sale.",
+    "slug": "Maturity_transformation"
+  },
+  "repo": {
+    "title": "Repurchase agreement",
+    "extract": "A repurchase agreement, also known as a repo, RP, or sale and repurchase agreement, is a form of secured short-term borrowing, usually, though not always, using government securities as collateral. A contracting party sells a security to a lender and, by agreement between the two parties, repurchases the security back shortly afterwards, at a slightly higher contracted price. The difference in the prices and the time interval between sale and repurchase creates an effective interest rate on the loan. The mirror transaction, a \"reverse repurchase agreement,\" is a form of secured contracted lending in which a party buys a security along with a concurrent commitment to sell the security back in the future at a specified time and price. Because this form of funding is often used by dealers, the convention is to reference the dealer's position in a transaction with a counterparty. Central banks also use repo and reverse repo transactions to manage banking system reserves. When the Federal Reserve borrows funds to drain reserves, it can do so by selling a government security from its inventory with a commitment to buy it back in the future; it calls the transaction a reverse repo because the dealer counterparty to the Fed is lending money. Similarly, when the Federal Reserve wishes to add to banking reserves, it can buy a government security with a forward commitment to sell it back. It calls this transaction a repo because the Fed counterparty is borrowing money.",
+    "slug": "Repurchase_agreement"
+  },
+  "capital-control": {
+    "title": "Capital control",
+    "extract": "\n\nCapital controls are residency-based measures such as transaction taxes, other limits, or outright prohibitions that a nation's government can use to regulate flows from capital markets into and out of the country's capital account. These measures may be economy-wide, sector-specific, or industry specific. They may apply to all flows, or may differentiate by type or duration of the flow.",
+    "slug": "Capital_control"
+  },
+  "dollarization": {
+    "title": "Currency substitution",
+    "extract": "Currency substitution, also known as dollarization, is the use of a foreign currency in parallel to or instead of a domestic currency.",
+    "slug": "Dollarization"
+  },
+  "currency-board": {
+    "title": "Currency board",
+    "extract": "In public finance, a currency board is a mechanism by which a monetary authority is required to maintain a fixed exchange rate with a foreign currency by fully backing the commitment with foreign holdings, or reserves. This policy objective requires the conventional objectives of a central bank to be subordinated to the exchange rate target.",
+    "slug": "Currency_board"
+  },
+  "debt-restructuring": {
+    "title": "Debt restructuring",
+    "extract": "Debt restructuring is a process that allows a private or public company or a sovereign entity facing cash flow problems and financial distress to reduce and renegotiate its delinquent debts to improve or restore liquidity so that it can continue its operations.",
+    "slug": "Debt_restructuring"
+  },
+  "fiscal-multiplier": {
+    "title": "Fiscal multiplier",
+    "extract": "In economics, the fiscal multiplier is the ratio of change in national income or revenue arising from a change in government spending. More generally, the exogenous spending multiplier is the ratio of change in national income arising from any autonomous change in spending. When this multiplier exceeds one, the enhanced effect on national income may be called the multiplier effect. The mechanism that can give rise to a multiplier effect is that an initial incremental amount of spending can lead to increased income and hence increased consumption spending, increasing income further and hence further increasing consumption, etc., resulting in an overall increase in national income greater than the initial incremental amount of spending. In other words, an initial change in aggregate demand may cause a change in aggregate output that is a multiple of the initial change.",
+    "slug": "Fiscal_multiplier"
+  },
+  "crowding-out": {
+    "title": "Crowding out (economics)",
+    "extract": "In economics, crowding out is a phenomenon that occurs when increased government involvement in a sector of the market economy substantially affects the remainder of the market, either on the supply or demand side of the market.",
+    "slug": "Crowding_out_(economics)"
+  },
+  "triffin-dilemma": {
+    "title": "Triffin dilemma",
+    "extract": "In international finance, the Triffin dilemma is the conflict of economic interests that arises between short-term domestic and long-term international objectives for countries whose currencies serve as global reserve currencies. This dilemma was identified in the 1960s by Belgian-American economist Robert Triffin. He noted that a country whose currency is the global reserve currency, held by other nations as foreign exchange (FX) reserves to support international trade, must somehow supply the world with its currency in order to fulfill world demand for these FX reserves. This supply function is nominally accomplished by international trade, with the country holding reserve currency status being required to run an inevitable trade deficit.",
+    "slug": "Triffin_dilemma"
+  },
+  "output-gap": {
+    "title": "Output gap",
+    "extract": "The GDP gap or the output gap is the difference between actual GDP or actual output and potential GDP, in an attempt to identify the current economic position over the business cycle. The measure of output gap is largely used in macroeconomic policy. The GDP gap is a highly criticized notion, in particular due to the fact that the potential GDP is not an observable variable, it is instead often derived from past GDP data, which could lead to systemic downward biases.",
+    "slug": "Output_gap"
+  }
+}

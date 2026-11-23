@@ -1,0 +1,62 @@
+{
+  "id": "inflation-targeting",
+  "title": "通胀目标制",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "中央银行公开宣布中期通胀目标并以其为货币政策框架的制度。",
+  "overview": "通胀目标制是一种货币政策框架：中央银行设定并公开宣布中期通胀目标，并以此约束政策。其假设是货币政策对长期经济增长的最好贡献是维持物价稳定，而物价稳定通过控制通胀实现；央行以短期利率作为主要货币政策工具。具体实施差异待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行公开宣布中期通胀目标 → 锚定公众预期",
+      "sources": [
+        "w-en-inflation-targeting"
+      ]
+    },
+    {
+      "step": "以短期利率为主要工具调节需求与物价",
+      "sources": [
+        "w-en-inflation-targeting"
+      ]
+    },
+    {
+      "step": "维持物价稳定以支持长期增长",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "目标制视角",
+      "view": "明确目标提升政策可信度与预期锚定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-inflation-targeting"
+      ]
+    },
+    {
+      "holder": "灵活目标制视角",
+      "view": "需兼顾产出与就业，允许一定灵活性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-taylor-rule"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>通胀目标制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行公开宣布中期通胀目标</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以短期利率为主要工具调节</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>维持物价稳定以支持长期增</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-inflation-targeting",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

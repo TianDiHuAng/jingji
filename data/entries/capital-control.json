@@ -1,0 +1,62 @@
+{
+  "id": "capital-control",
+  "title": "资本管制",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "一国政府基于居民身份对资本账户流入流出实施的限制措施。",
+  "overview": "资本管制是基于居民身份的措施，如交易税、其他限制或直接禁止，用于规范资本市场资金进出本国资本账户。这类措施可适用于整个经济、特定部门或行业，可针对全部资金流动，或按流动类型与期限区别对待。具体效果与争议待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "对跨境资本流动征税或设限 → 减少短期资本冲击",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    },
+    {
+      "step": "保留货币政策独立性（在固定汇率下）",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    },
+    {
+      "step": "可能降低资本配置效率、推高融资成本",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "审慎/稳定视角",
+      "view": "管制可遏制热钱冲击、维护金融稳定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    },
+    {
+      "holder": "自由化视角",
+      "view": "管制扭曲配置、提高融资成本",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-exchange-rate-regime"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资本管制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>对跨境资本流动征税或设限</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>保留货币政策独立性（在固</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>可能降低资本配置效率、推</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-capital-control",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

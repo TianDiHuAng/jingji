@@ -1,0 +1,62 @@
+{
+  "id": "stagflation",
+  "title": "滞胀",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "高通胀、增长停滞与高失业并存的经济状况。",
+  "overview": "滞胀指高通胀、经济增长停滞与失业率上升同时出现的状况，该词由 \"stagnation\" 与 \"inflation\" 合成，由英国政治家 Iain Macleod 在1960年代英国经济困难时期推广（很可能由其创造）。1970年代一系列全球冲击（如1967—1975年苏伊士运河关闭、1973年石油危机）后该现象获得更广泛关注。具体成因与案例待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "供给冲击（如油价飙升）→ 成本上升推高通胀",
+      "sources": [
+        "w-en-stagflation"
+      ]
+    },
+    {
+      "step": "同时产出停滞、失业上升 → 通胀与停滞并存",
+      "sources": [
+        "w-en-stagflation"
+      ]
+    },
+    {
+      "step": "传统需求管理政策陷入两难（抑通胀则加剧失业）",
+      "sources": [
+        "w-en-phillips-curve"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "供给冲击视角",
+      "view": "滞胀源于供给侧冲击而非单纯需求过热",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-stagflation"
+      ]
+    },
+    {
+      "holder": "政策困境视角",
+      "view": "菲利普斯曲线式权衡失效，政策面临两难",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-phillips-curve"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>滞胀：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>供给冲击（如油价飙升）→</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>同时产出停滞、失业上升 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>传统需求管理政策陷入两难</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-stagflation",
+    "w-en-phillips-curve"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}

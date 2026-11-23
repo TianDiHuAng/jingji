@@ -1,0 +1,62 @@
+{
+  "id": "triffin-dilemma",
+  "title": "特里芬难题",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "本币充当全球储备货币的国家在短期国内目标与长期国际目标之间的利益冲突。",
+  "overview": "特里芬难题是国际金融中的利益冲突：对本国货币充当全球储备货币的国家而言，其短期国内目标与长期国际目标之间存在矛盾。该难题由比利时裔美国经济学家 Robert Triffin 在1960年代提出——储备货币发行国须持续对外供给本币以满足全球储备需求，但这与其国内货币纪律相冲突。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "本币充当全球储备货币 → 全球需要其持续外流供给",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    },
+    {
+      "step": "长期对外供给与短期国内货币纪律冲突",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    },
+    {
+      "step": "储备体系内在不稳定性 → 最终引发调整或危机",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "国际货币视角",
+      "view": "储备货币国面临\"提供流动性\"与\"维持信心\"的两难",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    },
+    {
+      "holder": "体系改革视角",
+      "view": "超主权储备资产可缓解该难题",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>特里芬难题：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本币充当全球储备货币 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>长期对外供给与短期国内货</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备体系内在不稳定性 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-triffin-dilemma",
+    "w-en-bretton-woods-system"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+}
