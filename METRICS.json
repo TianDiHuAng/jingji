@@ -503,6 +503,17 @@
       "check_result": "PASS (467); check_links 480页 0 error",
       "spot_check": "数据均单源标注、保留needs_verification；未跨源核实",
       "note": "继续补数据：为13个案例(智利1982/巴西恶性通胀/中国1937/苏联1917/FTX/Danat/1931欧洲银行危机/EMS/尼克松冲击/1933紧急银行法/Baring 1890/西班牙2008/德崇)新增28条key_data。总key_data 183→211。案例有数据比例 58%→66%，重要级 65%→82%。"
+    },
+    {
+      "round": "续作AU",
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 7,
+      "fixed": 0,
+      "sources_total": 558,
+      "check_result": "PASS (467); check_links 480页 0 error",
+      "note": "AU: 为7个案例补充14条key_data(1914危机/罗马三世纪危机/上海橡胶1910/南美2002/1973-74股市/委内瑞拉/SVB)。总key_data 211→225。**重要级案例有数据比例达91%**，案例整体71%。"
     }
   ]
 }
