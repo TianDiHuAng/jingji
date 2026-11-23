@@ -1,7 +1,7 @@
 {
   "id": "panic-1910",
   "title": "1910–1911年恐慌",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U3 20世纪上半",
   "period": "20世纪上半",
@@ -9,13 +9,87 @@
   "crisis_type": "银行",
   "one_line": "1910–1911年恐慌：发生于20世纪上半、地区为北美的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪上半、地区=北美、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 1910,
+      "display": "1910—1911年",
+      "event": "谢尔曼反托拉斯法执行后的轻微萧条，持续约1年（据 Wikipedia Panic of 1910–11）",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    },
+    {
+      "year": 1910,
+      "display": "1910—1911年",
+      "event": "美国主要股指下跌约26%，主要受标准石油与美国烟草公司分拆影响（同上）",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "反托拉斯执法(标准石油、美国烟草分拆) → 投资者信心受挫",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    },
+    {
+      "step": "股市下跌约26%",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    },
+    {
+      "step": "短暂萧条约1年",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "美股主要指数跌幅(1910–11)",
+      "value": -26,
+      "unit": "%(美国主要股指,约)",
+      "year": 1911,
+      "comparable_price": false,
+      "note": "原文：led to a drop of the major U.S. stock market index by ~26%；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "政策/监管冲击视角",
+      "view": "反托拉斯执法冲击相关企业与市场情绪",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    },
+    {
+      "holder": "市场情绪视角",
+      "view": "\"trust buster\"行动引发抛售",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-panic-of-1910"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "comparison": "规模小于1907恐慌；属政策冲击型短暂萧条。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1910–1911年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>谢尔曼反托拉斯法执行后的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-bank-run",
     "w-en-financial-crisis"
@@ -26,5 +100,5 @@
     "panic-1907"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。"
 }

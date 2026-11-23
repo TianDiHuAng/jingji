@@ -1,7 +1,7 @@
 {
   "id": "venezuela-energy-2010",
   "title": "委内瑞拉能源危机(2010–)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,83 @@
   "crisis_type": "其他",
   "one_line": "委内瑞拉能源危机(2010–)：发生于21世纪、地区为拉美的其他类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=拉美、危机类型=其他。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 2009,
+      "display": "2009年12月21日",
+      "event": "委内瑞拉政府宣布\"电力紧急状态\"（据 Wikipedia Energy crisis in Venezuela）",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    },
+    {
+      "year": 2010,
+      "display": "2010年",
+      "event": "长期干旱致古里(Simón Bolívar)水电站水位极低，全国实施限电(首都加拉加斯除外)（同上）",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年5月14日",
+      "event": "经历两次全国性停电后，政府宣布临时限电计划并承认电力系统存在\"发电弱点\"（同上）",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "长期干旱 → 水电站水位极低、发电不足",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    },
+    {
+      "step": "政府实施全国限电(除首都)并宣布电力紧急状态",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    },
+    {
+      "step": "电力系统结构性弱点持续，2011年再现停电",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "气候/供给视角",
+      "view": "干旱致水电出力不足是直接原因",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    },
+    {
+      "holder": "投资/治理视角",
+      "view": "发电与电网投资不足导致结构性脆弱",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-energy-crisis-in-venezuela"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    }
+  ],
+  "comparison": "与委内瑞拉2013年经济危机同源（投资不足与治理问题），但属能源/基础设施危机。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委内瑞拉能源危机(2010–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>委内瑞拉政府宣布\"电力紧</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-economic-history",
     "w-en-financial-crisis"
@@ -26,5 +96,5 @@
     "oil-crisis-1973"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。"
 }

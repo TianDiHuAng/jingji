@@ -1,7 +1,7 @@
 {
   "id": "steel-crisis-1973",
   "title": "钢铁危机(1973–1982)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U4 20世纪下半",
   "period": "20世纪下半",
@@ -9,13 +9,75 @@
   "crisis_type": "其他",
   "one_line": "钢铁危机(1973–1982)：发生于20世纪下半、地区为全球的其他类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=全球、危机类型=其他。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1973,
+      "display": "1973—1975年及1980年代初",
+      "event": "全球钢铁市场长期低迷，发生在两次衰退期间，并由1973/1979石油危机加剧（据 Wikipedia Steel crisis）",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    },
+    {
+      "year": 1973,
+      "display": "延续至1980年代",
+      "event": "冲击北美\"锈带\"、英格兰中部、西德鲁尔区、瑞典贝里斯拉根等工业区（同上）",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "二战后扩张期结束 + 1973与1979石油危机 → 全球钢铁需求与产能失衡",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    },
+    {
+      "step": "钢铁市场长期低迷 → 工业区衰退",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    },
+    {
+      "step": "持续至1980年代，冲击多个工业地区",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "需求/能源冲击视角",
+      "view": "石油危机与需求放缓致钢铁长期过剩",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    },
+    {
+      "holder": "结构性/产业转移视角",
+      "view": "传统钢铁工业区面临结构性衰退",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-steel-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    }
+  ],
+  "comparison": "与1973石油危机同期，属产业结构性危机而非金融危机。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>钢铁危机(1973–1982)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>全球钢铁市场长期低迷，发</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-economic-history",
     "w-en-financial-crisis"
@@ -26,5 +88,5 @@
     "oil-crisis-1973"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。"
 }
