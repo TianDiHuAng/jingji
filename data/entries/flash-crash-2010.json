@@ -1,7 +1,7 @@
 {
   "id": "flash-crash-2010",
   "title": "2010年闪崩（Flash Crash）",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -21,13 +21,19 @@
   ],
   "causal_chain": [
     {
-      "step": "大额卖单 + 算法/高频交易相互触发 → 流动性瞬间消失、价格异常下挫",
+      "step": "大额卖单 + 高频/算法交易相互触发 → 流动性瞬间消失",
       "sources": [
         "w-en-flash-crash"
       ]
     },
     {
-      "step": "价格脱离基本面 → 随后快速反弹",
+      "step": "价格异常下挫、脱离基本面 → 随后快速反弹",
+      "sources": [
+        "w-en-flash-crash"
+      ]
+    },
+    {
+      "step": "事件引发对市场微观结构与熔断机制的监管检讨",
       "sources": [
         "w-en-financial-crisis"
       ]
@@ -38,9 +44,17 @@
     {
       "holder": "市场微观结构视角",
       "view": "高频与算法交易放大瞬时波动、流动性可突然枯竭",
-      "basis": "据维基Flash crash条目主题，待核实",
+      "basis": "据维基Flash crash主题；具体待核实",
       "sources": [
         "w-en-flash-crash"
+      ]
+    },
+    {
+      "holder": "监管/熔断视角",
+      "view": "需以熔断机制与市场结构改革防范瞬时失灵",
+      "basis": "具体措施待核实",
+      "sources": [
+        "w-en-financial-crisis"
       ]
     }
   ],
@@ -54,7 +68,7 @@
       ]
     }
   ],
-  "comparison": "与1987黑色星期一同为突发性暴跌，但闪崩在数分钟内自我修复，凸显现代电子化市场的特性；具体异同待核实。",
+  "comparison": "与1987黑色星期一同为突发暴跌，但闪崩在数分钟内自我修复，凸显电子化市场特性；具体异同待核实。",
   "svg": "",
   "sources": [
     "w-en-flash-crash",
@@ -65,5 +79,5 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：具体点位/百分比、官方调查(FBI/CFTC-SEC报告)结论、监管措施待核实补充。"
+  "pending_notes": "L1骨架：具体点位/百分比、官方调查(FBI/CFTC-SEC报告)结论、监管措施待核实补充。 【续作】升L2。"
 }
