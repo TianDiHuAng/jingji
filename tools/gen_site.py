@@ -83,6 +83,8 @@ def page(title, body, depth=0):
     nav = (f'<a href="{prefix}index.html">首页</a>'
            f'<a href="{prefix}index.html#units">单元</a>'
            f'<a href="{prefix}index-all.html">索引</a>'
+           f'<a href="{prefix}cases.html">案例</a>'
+           f'<a href="{prefix}concepts.html">概念</a>'
            f'<a href="{prefix}timeline.html">时间线</a>'
            f'<a href="{prefix}sources.html">来源</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
@@ -135,6 +137,8 @@ for u in units:
                 f'<p class="src-list">{len(by_unit[u])} 条</p></div>')
 home += ['</div>',
  '<h2>快速入口</h2><div class="grid">',
+ '<div class="card"><a href="cases.html"><strong>案例索引</strong></a><p class="src-list">按时期分组的全部危机案例，标注地区与类型</p></div>',
+ '<div class="card"><a href="concepts.html"><strong>概念索引</strong></a><p class="src-list">按类型分组的理论与制度概念，含定义摘要</p></div>',
  '<div class="card"><a href="index-all.html"><strong>全站条目索引</strong></a><p class="src-list">按标题与时期浏览全部条目</p></div>',
  '<div class="card"><a href="timeline.html"><strong>时间线</strong></a><p class="src-list">按年份排列的历史事件</p></div>',
  '<div class="card"><a href="sources.html"><strong>来源列表</strong></a><p class="src-list">来源库与核验状态</p></div>',
@@ -268,6 +272,58 @@ for line in matrix_html.splitlines():
     elif line.strip() and not line.startswith('>'):
         mbody.append(f'<p>{esc(line)}</p>')
 open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖矩阵',''.join(mbody)))
+
+# ---------- 概念索引页 ----------
+CONCEPT_ORDER = ['理论', '制度', '货币', '银行', '债务', '泡沫', '其他']
+concepts = [e for e in entries.values() if e.get('unit') == 'U6 理论与制度']
+by_type = {}
+for e in concepts:
+    by_type.setdefault(e.get('crisis_type') or '其他', []).append(e)
+cb = ['<h1>概念索引</h1>',
+      f'<p class="lead">共 {len(concepts)} 条理论与制度概念，按类型分组；每条给出定义摘要，点击进入详情。</p>',
+      '<p class="src-list">' + ' · '.join(
+          f'<a href="#t-{esc(t)}">{esc(t)}（{len(by_type[t])}）</a>'
+          for t in CONCEPT_ORDER if t in by_type) + '</p>']
+for t in CONCEPT_ORDER:
+    if t not in by_type:
+        continue
+    rows = sorted(by_type[t], key=lambda x: x.get('title') or '')
+    cb.append(f'<h2 id="t-{esc(t)}">{esc(t)}（{len(rows)} 条）</h2>')
+    cb.append('<table><tr><th>概念</th><th>定义摘要</th></tr>')
+    for e in rows:
+        cb.append(f'<tr><td><a href="{e["id"]}.html">{esc(e.get("title"))}</a></td>'
+                  f'<td>{esc(e.get("one_line"))}</td></tr>')
+    cb.append('</table>')
+open(os.path.join(SITE,'concepts.html'),'w',encoding='utf-8').write(page('概念索引',''.join(cb)))
+
+# ---------- 案例索引页 ----------
+UNIT_ORDER = ['U1 早期—17世纪', 'U2 18—19世纪', 'U3 20世纪上半', 'U4 20世纪下半', 'U5 21世纪']
+cases = [e for e in entries.values() if e.get('unit') != 'U6 理论与制度']
+by_unit = {}
+for e in cases:
+    by_unit.setdefault(e.get('unit') or '未归类', []).append(e)
+kb = ['<h1>案例索引</h1>',
+      f'<p class="lead">共 {len(cases)} 条历史与当代危机案例，按时期单元分组；标注地区与危机类型，便于横向比较。</p>',
+      '<p class="src-list">' + ' · '.join(
+          f'<a href="#u-{i}">{esc(u)}（{len(by_unit[u])}）</a>'
+          for i, u in enumerate(UNIT_ORDER) if u in by_unit) + '</p>']
+for i, u in enumerate(UNIT_ORDER):
+    if u not in by_unit:
+        continue
+    rows = by_unit[u]
+    # 按首个时间线年份排序（无年份者置于末尾）
+    def _key(e):
+        ys = [t.get('year') for t in e.get('timeline', []) if isinstance(t.get('year'), (int, float))]
+        return (min(ys) if ys else 99999, e.get('title') or '')
+    rows.sort(key=_key)
+    kb.append(f'<h2 id="u-{i}">{esc(u)}（{len(rows)} 条）</h2>')
+    kb.append('<table><tr><th>案例</th><th>地区</th><th>类型</th><th>层级</th></tr>')
+    for e in rows:
+        kb.append(f'<tr><td><a href="{e["id"]}.html">{esc(e.get("title"))}</a></td>'
+                  f'<td>{esc(e.get("region"))}</td><td>{esc(e.get("crisis_type"))}</td>'
+                  f'<td>{esc(e.get("level"))}</td></tr>')
+    kb.append('</table>')
+open(os.path.join(SITE,'cases.html'),'w',encoding='utf-8').write(page('案例索引',''.join(kb)))
 
 # ---------- CSS 文件 ----------
 open(os.path.join(SITE,'style.css'),'w',encoding='utf-8').write(CSS)
