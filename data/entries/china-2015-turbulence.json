@@ -1,0 +1,96 @@
+{
+  "id": "china-2015-turbulence",
+  "title": "中国股市动荡(2015–2016)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "亚洲",
+  "crisis_type": "泡沫",
+  "one_line": "2015年6月12日股市泡沫破裂引发动荡，至2016年2月初结束；上交所A股一月内损失三分之一市值。",
+  "overview": "2015—2016年中国股市动荡始于2015年6月12日股市泡沫的破裂，至2016年2月初结束。据维基条目，事件发生后的一个月内，上海证券交易所A股损失了三分之一的市值。此后出现重大后续影响。具体政策应对与影响待核实。",
+  "timeline": [
+    {
+      "year": 2015,
+      "display": "2015年6月12日",
+      "event": "股市泡沫破裂，动荡开始（据 Wikipedia 2015–2016 Chinese stock market turbulence）",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    },
+    {
+      "year": 2015,
+      "display": "泡沫破裂后一个月内",
+      "event": "上交所A股市值损失三分之一（同上）",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    },
+    {
+      "year": 2016,
+      "display": "2016年2月初",
+      "event": "动荡阶段结束（同上）",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "杠杆资金推动股市泡沫 → 估值脱离基本面",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    },
+    {
+      "step": "泡沫破裂 → 强制平仓与抛售螺旋",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    },
+    {
+      "step": "A股一月内损失三分之一市值 → 波及实体与全球市场",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "杠杆/强制平仓视角",
+      "view": "融资盘在下跌中触发平仓、放大跌幅",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    },
+    {
+      "holder": "泡沫破裂视角",
+      "view": "估值回归是主导机制",
+      "basis": "待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
+    }
+  ],
+  "comparison": "与1929、1987、2000年泡沫破裂共享\"杠杆—抛售—平仓\"螺旋，但中国市场以散户与融资盘为主。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中国股市动荡(2015–2016)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>股市泡沫破裂，动荡开始（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-china-2015-turbulence",
+    "w-en-margin-finance"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}

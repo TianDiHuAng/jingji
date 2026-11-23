@@ -1,0 +1,88 @@
+{
+  "id": "crypto-bubble",
+  "title": "加密货币泡沫",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "全球",
+  "crisis_type": "泡沫",
+  "one_line": "市场日益认为加密资产价格相对其假想价值被高估的现象；加密史上有多次投机泡沫。",
+  "overview": "加密货币泡沫是一种现象：市场日益认为加密资产当前价格相对其假想价值而言被高估。加密货币的历史以多次从繁荣到崩溃的投机泡沫为特征。其价格波动剧烈、缺乏内在现金流锚定，估值争议很大。具体案例与规模待核实。",
+  "timeline": [
+    {
+      "year": 2017,
+      "display": "2010年代起",
+      "event": "加密资产多次出现从繁荣到崩溃的投机泡沫（据 Wikipedia Cryptocurrency bubble）",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年",
+      "event": "Terra/LUNA 与多家加密机构崩盘，泡沫破裂的典型阶段（同上；细节待核实）",
+      "sources": [
+        "w-en-terra-luna-2022"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "叙事与资金涌入推高价格 → 估值脱离任何现金流基准",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    },
+    {
+      "step": "杠杆与散户参与放大涨幅 → 泡沫累积",
+      "sources": [
+        "w-en-leverage"
+      ]
+    },
+    {
+      "step": "信心逆转 → 价格崩塌与机构连锁违约",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "投机泡沫视角",
+      "view": "缺乏基本面锚定使价格易暴涨暴跌",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    },
+    {
+      "holder": "技术创新视角",
+      "view": "底层技术价值与代币价格未必一致",
+      "basis": "待核实",
+      "sources": [
+        "w-en-cryptocurrency"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
+    }
+  ],
+  "comparison": "与郁金香狂热、南海泡沫共享\"叙事驱动+杠杆+崩塌\"结构；但加密资产全球化、24小时交易、监管分散。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>加密货币泡沫：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>加密资产多次出现从繁荣到</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-crypto-bubble",
+    "w-en-leverage"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}

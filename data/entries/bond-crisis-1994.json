@@ -1,0 +1,88 @@
+{
+  "id": "bond-crisis-1994",
+  "title": "1994年债券市场危机",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "全球",
+  "crisis_type": "债务",
+  "one_line": "1994年发达国家债券价格突然下跌（“大债券屠杀”），始于日本与美国并蔓延全球。",
+  "overview": "1994年债券市场危机（或称\"大债券屠杀\"）是发达世界债券市场价格的突然下跌。它始于日本与美国，随后蔓延至世界其他地区。在1990年代初衰退之后，利率处于历史低位，美联储转向加息引发债市剧烈调整。具体幅度待核实。",
+  "timeline": [
+    {
+      "year": 1994,
+      "display": "1994年",
+      "event": "发达国家债券价格突然下跌，始于日本与美国（据 Wikipedia 1994 bond market crisis）",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    },
+    {
+      "year": 1994,
+      "display": "1994年",
+      "event": "下跌蔓延至全球债券市场（同上）",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1990年代初衰退后利率处历史低位 → 久期敞口集中",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    },
+    {
+      "step": "美联储转向加息 → 债券价格急跌",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    },
+    {
+      "step": "杠杆与久期风险暴露 → 全球债市连锁调整",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "利率风险视角",
+      "view": "低利率环境下的久期错配放大调整",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-interest-rate"
+      ]
+    },
+    {
+      "holder": "政策转向视角",
+      "view": "货币政策意外转向是直接触发",
+      "basis": "待核实",
+      "sources": [
+        "w-en-monetary-policy"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
+    }
+  ],
+  "comparison": "与2022年全球债市调整机制相似（加息引发久期损失），但1994年以发达国家为主。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1994年债券市场危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发达国家债券价格突然下跌</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-bond-crisis-1994",
+    "w-en-interest-rate"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}

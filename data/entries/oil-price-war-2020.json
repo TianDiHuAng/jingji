@@ -1,0 +1,88 @@
+{
+  "id": "oil-price-war-2020",
+  "title": "2020年俄沙油价战",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "2020年3月8日沙特对俄罗斯发起油价战，导致油价季度下跌65%。",
+  "overview": "2020年3月8日，沙特阿拉伯对俄罗斯发起石油价格战，促成了油价在该季度的65%跌幅。价格战由石油输出国组织（OPEC）与俄罗斯之间的对话破裂所引发。该事件与新冠疫情需求冲击叠加，造成油价历史性暴跌。具体影响待核实。",
+  "timeline": [
+    {
+      "year": 2020,
+      "display": "2020年3月8日",
+      "event": "沙特对俄发起石油价格战（据 Wikipedia 2020 Russia–Saudi Arabia oil price war）",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "year": 2020,
+      "display": "2020年第一季度",
+      "event": "油价季度下跌65%（同上）",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "OPEC 与俄罗斯减产谈判破裂 → 沙特发动价格战",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "step": "供给激增叠加疫情需求骤降 → 油价暴跌65%（季度）",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "step": "产油国财政与能源企业承压，市场剧烈波动",
+      "sources": [
+        "w-en-2020-stock-market-crash"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "供给冲击视角",
+      "view": "价格战造成的供给激增是主因",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "holder": "需求冲击视角",
+      "view": "疫情封锁致需求崩塌，与供给冲击叠加",
+      "basis": "待核实",
+      "sources": [
+        "w-en-2020-stock-market-crash"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    }
+  ],
+  "comparison": "与1973、1979年石油危机方向相反（前者为供给减少推高油价），本轮为供给激增叠加需求崩塌压低油价。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2020年俄沙油价战：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>沙特对俄发起石油价格战（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-oil-price-war-2020",
+    "w-en-2020-stock-market-crash"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}

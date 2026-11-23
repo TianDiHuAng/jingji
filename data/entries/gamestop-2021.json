@@ -1,0 +1,88 @@
+{
+  "id": "gamestop-2021",
+  "title": "GameStop 空头挤压(2021)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "美洲",
+  "crisis_type": "泡沫",
+  "one_line": "2021年1月美国游戏零售商 GameStop 等证券发生空头挤压，令部分对冲基金遭受重大损失。",
+  "overview": "2021年1月，美国电子游戏零售商 GameStop 的股票及其他证券发生空头挤压，对某些对冲基金造成重大财务后果，并使卖空者蒙受重大损失。据维基条目，GameStop 约140%的（流通股）被做空。该事件凸显散户协同交易与卖空风险。具体规模待核实。",
+  "timeline": [
+    {
+      "year": 2021,
+      "display": "2021年1月",
+      "event": "GameStop 等证券发生空头挤压，卖空者重大损失（据 Wikipedia GameStop short squeeze）",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年1月",
+      "event": "约140%的 GameStop 流通股被做空（同上）",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "做空比例极高（约140%）→ 轧空条件具备",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "step": "散户协同买入推高股价 → 卖空者被迫回补",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "step": "回补进一步推高价格 → 对冲基金重大损失",
+      "sources": [
+        "w-en-short-selling"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "卖空风险视角",
+      "view": "空头过度拥挤时回补会引发自我强化上涨",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-short-selling"
+      ]
+    },
+    {
+      "holder": "市场结构视角",
+      "view": "散户协同与社交平台改变博弈结构",
+      "basis": "待核实",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    }
+  ],
+  "comparison": "与1901年北太平洋铁路逼空（panic-1901）机制相似：空头拥挤+抢筹；但本轮由散户协同与社交平台驱动。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>GameStop 空头挤压(2021)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>GameStop 等证券</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-gamestop-2021",
+    "w-en-short-selling"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}

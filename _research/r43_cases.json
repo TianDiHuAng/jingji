@@ -1,0 +1,37 @@
+{
+  "terra-luna-2022": {
+    "title": "Terra (blockchain)",
+    "extract": "Terra is a blockchain protocol and payment platform used for algorithmic stablecoins. The project was created in 2018 by Terraform Labs, a startup co-founded by Do Kwon and Daniel Shin. It is best known for its Terra algorithmic stablecoin and the associated LUNA reserve asset cryptocurrency.",
+    "slug": "Terra_(blockchain)"
+  },
+  "gamestop-2021": {
+    "title": "GameStop short squeeze",
+    "extract": "In January 2021, a short squeeze of the stock of the American video game retailer GameStop and other securities took place, causing major financial consequences for certain hedge funds and large losses for short sellers. Approximately 140 percent of GameStop's public float had been sold short, and the rush to buy shares to cover those positions as the price rose caused it to rise even further.",
+    "slug": "GameStop_short_squeeze"
+  },
+  "china-2015-turbulence": {
+    "title": "2015–2016 Chinese stock market turbulence",
+    "extract": "The 2015-2016 Chinese stock market turbulence began with the popping of a stock market bubble on 12 June 2015 and ended in early February 2016. A third of the value of A-shares on the Shanghai Stock Exchange was lost within one month of the event. Major aftershocks occurred around 27 July and 24 August's \"Black Monday\". By 8–9 July 2015, the Shanghai stock market had fallen 30 percent over three weeks as 1,400 companies, or more than half listed, filed for a trading halt in an attempt to prevent further losses. Values of Chinese stock markets continued to drop despite efforts by the government to reduce the fall. After three stable weeks the Shanghai index fell again by 8.48 percent on 24 August, marking the largest fall since 2007.",
+    "slug": "2015%E2%80%932016_Chinese_stock_market_turbulence"
+  },
+  "oil-price-war-2020": {
+    "title": "2020 Russia–Saudi Arabia oil price war",
+    "extract": "On 8 March 2020, Saudi Arabia initiated a price war on oil with Russia, which facilitated a 65% quarterly fall in the price of oil. The price war was triggered by a break-up in dialogue between the Organization of the Petroleum Exporting Countries (OPEC) and Russia over proposed oil-production cuts in the midst of the COVID-19 pandemic. Russia walked out of the agreement, leading to the fall of the OPEC+ alliance.",
+    "slug": "2020_Russia%E2%80%93Saudi_Arabia_oil_price_war"
+  },
+  "bond-crisis-1994": {
+    "title": "1994 bond market crisis",
+    "extract": "The 1994 bond market crisis, or Great Bond Massacre, was a sudden drop in bond market prices across the developed world. It began in Japan and the United States (US), and spread through the rest of the world. After the recession of the early 1990s, historically low interest rates in many industrialized nations preceded an unexpectedly volatile year for bond investors, including those that held on to mortgage debts. Over 1994, a rise in rates, along with the relatively quick spread of bond market volatility across international borders, resulted in a mass sell-off of bonds and debt funds as yields rose beyond expectations. This was especially the case for instruments with comparatively longer maturities attached. Some financial observers argued that the plummet in bond prices was triggered by the Federal Reserve's decision to raise rates by 25 basis points in February, in a move to counter inflation. At about $1.5 trillion in lost market value across the globe, the crash has been described as the worst financial event for bond investors since 1927.",
+    "slug": "1994_bond_market_crisis"
+  },
+  "credit-suisse-2023": {
+    "title": "Acquisition of Credit Suisse by UBS",
+    "extract": "On 19 March 2023, Swiss bank UBS Group AG agreed to buy Credit Suisse for CHF 3 billion in an all-stock deal brokered by the government of Switzerland and the Swiss Financial Market Supervisory Authority. The Swiss National Bank supported the deal by providing more than CHF 100 billion in liquidity to UBS following its takeover of Credit Suisse's operations, while the Swiss government provided a guarantee to UBS to cover losses of up to CHF 9 billion over the short term. Additionally, CHF 16 billion of Additional Tier 1 (AT1) bonds were written down to zero.",
+    "slug": "Acquisition_of_Credit_Suisse_by_UBS"
+  },
+  "crypto-bubble": {
+    "title": "Cryptocurrency bubble",
+    "extract": "A cryptocurrency bubble is a phenomenon where the market increasingly considers the going price of cryptocurrency assets to be inflated against their hypothetical value. The history of cryptocurrency has been marked by several speculative bubbles on a boom to bust cycle.",
+    "slug": "Cryptocurrency_bubble"
+  }
+}

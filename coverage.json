@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 321,
+  "total": 328,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -4174,6 +4174,97 @@
       "period": "20世纪上半",
       "region": "欧洲",
       "crisis_type": "银行"
+    },
+    {
+      "id": "terra-luna-2022",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "gamestop-2021",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "美洲",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "china-2015-turbulence",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "亚洲",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "oil-price-war-2020",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "其他"
+    },
+    {
+      "id": "bond-crisis-1994",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "全球",
+      "crisis_type": "债务"
+    },
+    {
+      "id": "credit-suisse-2023",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "crypto-bubble",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "泡沫"
     }
   ]
 }

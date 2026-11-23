@@ -1,0 +1,89 @@
+{
+  "id": "credit-suisse-2023",
+  "title": "瑞信被瑞银收购(2023)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "2023年3月19日瑞银同意以30亿瑞郎全股票收购瑞信，由瑞士政府与FINMA促成、瑞士央行支持。",
+  "overview": "2023年3月19日，瑞士银行瑞银集团（UBS）同意以30亿瑞郎（CHF 3 billion）的全股票交易收购瑞信（Credit Suisse），该交易由瑞士政府与瑞士金融市场监管局（FINMA）促成，瑞士国家银行通过提供支持协助完成。这是2008年以来最大的银行并购之一。具体条款与影响待核实。",
+  "timeline": [
+    {
+      "year": 2023,
+      "display": "2023年3月19日",
+      "event": "瑞银同意以30亿瑞郎全股票收购瑞信（据 Wikipedia Acquisition of Credit Suisse by UBS）",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月",
+      "event": "交易由瑞士政府与FINMA促成，瑞士央行提供支持（同上）",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "瑞信信誉与资本受一系列丑闻与亏损侵蚀 → 存款与股价流失",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    },
+    {
+      "step": "信心崩塌加速 → 监管促成紧急并购以避免无序倒闭",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    },
+    {
+      "step": "瑞银以30亿瑞郎收购 → 系统重要性银行整合",
+      "sources": [
+        "w-en-sifi"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "系统重要性视角",
+      "view": "SIFI 无序倒闭风险迫使当局促成并购",
+      "basis": "据维基摘要归纳；待核实",
+      "sources": [
+        "w-en-sifi"
+      ]
+    },
+    {
+      "holder": "处置/信心视角",
+      "view": "信心流失速度超过资本缓冲消耗",
+      "basis": "待核实",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    }
+  ],
+  "comparison": "与2023年硅谷银行事件同期，同属\"存款快速流失+监管紧急处置\"模式；瑞士以跨境并购而非破产处置。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>瑞信被瑞银收购(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>瑞银同意以30亿瑞郎全股</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-credit-suisse-2023",
+    "w-en-bank-regulation",
+    "w-en-sifi"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】"
+}
