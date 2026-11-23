@@ -1,7 +1,7 @@
 {
   "id": "blue-monday-2009",
   "title": "2009蓝色星期一崩盘",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,95 @@
   "crisis_type": "泡沫",
   "one_line": "2009蓝色星期一崩盘：发生于21世纪、地区为全球的泡沫类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=全球、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2009,
+      "display": "2009年1月19日（周一）",
+      "event": "苏格兰皇家银行(RBS)宣布英国史上最大企业亏损后，英国银行股遭抛售崩跌（据 Wikipedia Blue Monday Crash 2009）",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年1月19日",
+      "event": "银行股单日跌幅超过67%；英国其他银行股亦重挫（同上）",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年1月20日",
+      "event": "劳埃德银行集团与巴克莱再度大跌，RBS与汇丰继续下跌（同上）",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "RBS宣布英国史上最大企业亏损 → 市场对英国银行业资本状况信心崩塌",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "step": "英国银行股遭恐慌性抛售，单日跌幅超过67%；其他银行股同步重挫",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "step": "次日劳埃德、巴克莱续跌，抛压蔓延至整个英国银行板块",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "英国银行股单日跌幅(2009-01-19)",
+      "value": -67,
+      "unit": "%（单日，跌超67%，取67）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：The shares fell over 67% in a single day；单一来源待核实。",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "信用/资本充足视角",
+      "view": "巨额亏损暴露资本缺口，引发对整个银行板块偿付能力的重估",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "holder": "恐慌传染视角",
+      "view": "单家银行公告触发板块性抛售，恐慌跨机构蔓延",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    }
+  ],
+  "comparison": "与大萧条1930年代银行恐慌、2008年雷曼冲击同属银行信心危机；但本次以单家银行公告为触发点、表现为股价崩跌。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2009蓝色星期一崩盘：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>苏格兰皇家银行(RBS)</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
     "w-en-financial-crisis"
@@ -26,5 +108,5 @@
     "dotcom-bubble-2000"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。"
 }

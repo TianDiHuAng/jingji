@@ -1,7 +1,7 @@
 {
   "id": "dutch-collapse-1780",
   "title": "荷兰共和国金融崩溃(c.1780–1795)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,91 @@
   "crisis_type": "债务",
   "one_line": "荷兰共和国金融崩溃(c.1780–1795)：发生于18—19世纪、地区为欧洲的债务类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=欧洲、危机类型=债务。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1585,
+      "display": "1585—1620年",
+      "event": "荷兰起义后经济快速发展、储蓄大量积累，产生获利投资需求（据 Wikipedia Financial history of the Dutch Republic）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "year": 1602,
+      "display": "17世纪",
+      "event": "公共债券、承兑信用、保险、VOC股票及其衍生品等现代投资工具发展；阿姆斯特丹证交所与阿姆斯特丹银行居中媒介（同上）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "year": 1700,
+      "display": "17世纪末",
+      "event": "荷兰经济结构性问题使国内投资机会不足，资本大量转向海外主权债、外国股票债券与基建（同上）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "year": 1780,
+      "display": "18世纪末",
+      "event": "系列危机导致荷兰共和国衰亡，其国际资本市场主导地位终结（同上）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "经济快速发展与储蓄积累 → 需要可获利的投资渠道，催生现代金融工具与机构",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "step": "17世纪末国内投资机会枯竭 → 资本大规模转向海外主权债与外国证券",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "step": "18世纪末系列危机爆发、海外资产受损 → 共和国金融地位崩溃并走向衰亡",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "金融发展/储蓄中介视角",
+      "view": "储蓄积累与金融创新（债券、股票、衍生品、银行）支撑了荷兰的资本市场主导地位",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "holder": "结构性/资本外流视角",
+      "view": "国内投资机会枯竭迫使资本外流，海外风险暴露最终引发18世纪末危机",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "comparison": "与英国1720南海泡沫、法国密西西比泡沫同期但形态不同：荷兰以成熟的多层次资本市场与对外贷款为主，危机源于海外资产质量。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>荷兰共和国金融崩溃(c.1780–179：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>荷兰起义后经济快速发展、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
     "w-en-financial-crisis"
@@ -26,5 +104,5 @@
     "danish-bankruptcy-1813"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。"
 }

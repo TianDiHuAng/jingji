@@ -1,23 +1,110 @@
 {
   "id": "syrian-crisis-2011",
   "title": "叙利亚经济危机(2011–)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
   "region": "中东",
   "crisis_type": "其他",
-  "one_line": "叙利亚经济危机(2011–)：发生于21世纪、地区为中东的其他类案例（条目骨架，详细内容待补充）。",
-  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=中东、危机类型=其他。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "one_line": "2011年3月叙利亚内战爆发后经济持续恶化；2019年《凯撒法案》等外部制裁进一步施压，该法案于2025年12月被废除。",
+  "overview": "叙利亚经济在早期以农业为主，属于发展中混合经济；2011年3月内战爆发后经济状况恶化（据 Wikipedia Economy of Syria）。美国《2019年凯撒叙利亚平民保护法》（Caesar Act）以战争罪为由制裁叙利亚政府及相关人员，2019年12月由特朗普总统签署、2020年6月17日生效；在阿萨德政权倒台一年多后，2026财年国防授权法于2025年12月18日废除了该法案（据 Wikipedia Caesar Syria Civilian Protection Act）。关于产出、汇率、通胀与经济规模的具体数据待核实补充。",
+  "timeline": [
+    {
+      "year": 2011,
+      "display": "2011年3月",
+      "event": "叙利亚内战爆发，经济状况随之恶化（据 Wikipedia Economy of Syria）",
+      "sources": [
+        "w-en-economy-of-syria"
+      ]
+    },
+    {
+      "year": 2019,
+      "display": "2019年12月",
+      "event": "美国《凯撒叙利亚平民保护法》由特朗普总统签署成为法律（据 Wikipedia Caesar Act）",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    },
+    {
+      "year": 2020,
+      "display": "2020年6月17日",
+      "event": "《凯撒法案》生效，对叙利亚政府及相关人员实施制裁（同上）",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    },
+    {
+      "year": 2025,
+      "display": "2025年12月18日",
+      "event": "阿萨德政权倒台一年多后，2026财年国防授权法废除《凯撒法案》（同上）",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "2011年3月内战爆发 → 生产、贸易与基础设施受损，经济持续恶化",
+      "sources": [
+        "w-en-economy-of-syria"
+      ]
+    },
+    {
+      "step": "外部制裁叠加（《凯撒法案》2020年6月生效）→ 进一步限制对外经济往来",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    },
+    {
+      "step": "2025年12月制裁废除 → 外部约束解除，经济恢复程度待观察",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "内部冲突视角",
+      "view": "内战导致的生产与基础设施破坏是经济恶化的主因",
+      "basis": "据维基Economy of Syria主题归纳；具体量化待核实",
+      "sources": [
+        "w-en-economy-of-syria"
+      ]
+    },
+    {
+      "holder": "外部制裁视角",
+      "view": "外部制裁叠加冲突，进一步压缩对外经济空间",
+      "basis": "据维基Caesar Act条目；影响程度待核实",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "美国（制裁方）",
+      "view": "以《凯撒法案》制裁叙利亚政府及相关人员，2025年12月废除",
+      "basis": "据维基Caesar Act条目",
+      "sources": [
+        "w-en-caesar-act"
+      ]
+    },
+    {
+      "holder": "叙利亚当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-economy-of-syria"
+      ]
+    }
+  ],
+  "comparison": "与同期的委内瑞拉危机类似，均为\"内部治理/冲突 + 外部制裁\"叠加型经济困境；但叙利亚以战争破坏为主、制裁于2025年底解除，委内瑞拉以石油与政策失灵为主。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>叙利亚经济危机(2011–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2011内战</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>制裁叠加</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>2025解除</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-economic-history",
+    "w-en-economy-of-syria",
+    "w-en-caesar-act",
     "w-en-financial-crisis"
   ],
   "related": [
@@ -26,5 +113,5 @@
     "oil-crisis-1973"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L2：时间线（2011内战/2019凯撒法案签署/2020-06-17生效/2025-12-18废除）据维基摘要；内战破坏的具体程度、GDP/汇率/通胀等数值、制裁的实际经济影响待核实补充。【续作L】升L2(据REST摘要)。"
 }

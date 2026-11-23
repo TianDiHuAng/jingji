@@ -1,7 +1,7 @@
 {
   "id": "dutch-stock-crashes",
   "title": "荷兰共和国股市崩盘(c.1600–1760)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U1 早期—17世纪",
   "period": "前17世纪",
@@ -9,13 +9,83 @@
   "crisis_type": "泡沫",
   "one_line": "荷兰共和国股市崩盘(c.1600–1760)：发生于前17世纪、地区为欧洲的泡沫类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=前17世纪、地区=欧洲、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1602,
+      "display": "1602年起",
+      "event": "荷兰东印度公司(VOC)股票公开交易，为最早的可交易股份之一（据 Wikipedia Financial history of the Dutch Republic）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "year": 1610,
+      "display": "17世纪",
+      "event": "阿姆斯特丹证交所、阿姆斯特丹银行与商人银行家共同媒介投资，衍生品等工具同步发展（同上）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "year": 1680,
+      "display": "17世纪末",
+      "event": "资本市场高度成熟、资本存量巨大并产生自身收益流；国内投资机会随后枯竭（同上）",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "VOC等公开交易公司出现 → 股票与衍生品市场形成，阿姆斯特丹证交所成为交易中心",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "step": "资本存量膨胀并产生收益流 → 市场深度与工具复杂度提升",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "step": "国内投资机会枯竭 → 资本转向海外，市场脆弱性随之转移",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "金融创新视角",
+      "view": "荷兰创造了股票、衍生品、债券与中央银行等现代金融要素的早期形态",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    },
+    {
+      "holder": "市场脆弱性视角",
+      "view": "复杂的交易工具与对外敞口也带来投机与波动风险",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-history-of-the-dutch-republic"
+      ]
+    }
+  ],
+  "comparison": "被视为现代证券市场与投机交易的起源之一，早于伦敦与纽约市场；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>荷兰共和国股市崩盘(c.1600–176：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>荷兰东印度公司(VOC)</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
     "w-en-financial-crisis"
@@ -26,5 +96,5 @@
     "blue-monday-2009"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。"
 }

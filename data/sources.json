@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 222,
+  "count": 226,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2661,6 +2661,54 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Financial_crisis_of_33",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-blue-monday-crash-2009",
+      "title": "Blue Monday Crash 2009",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Blue_Monday_Crash_2009",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-financial-history-of-the-dutch-republic",
+      "title": "Financial history of the Dutch Republic",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Financial_history_of_the_Dutch_Republic",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-economy-of-syria",
+      "title": "Economy of Syria",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Syria",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-caesar-act",
+      "title": "Caesar Syria Civilian Protection Act",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Caesar_Syria_Civilian_Protection_Act",
       "url2": null,
       "verified": true,
       "link_ok": true,
