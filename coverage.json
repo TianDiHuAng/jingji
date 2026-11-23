@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 159,
+  "total": 160,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -2068,6 +2068,19 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "制度"
+    },
+    {
+      "id": "covid-crash-2020",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "泡沫"
     }
   ]
 }

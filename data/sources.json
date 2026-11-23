@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 213,
+  "count": 215,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2557,6 +2557,30 @@
       "verified": true,
       "link_ok": true,
       "note": "本地已抓取全文(_research/l1_amsterdam-crisis-1763.txt)核对；此前以通用来源兜底，现补专属来源"
+    },
+    {
+      "id": "w-en-2020-stock-market-crash",
+      "title": "2020 stock market crash",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/2020_stock_market_crash",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话成功抓取)；摘要:\"On 20 February 2020, stock markets across the world suddenly\""
+    },
+    {
+      "id": "w-en-covid-19-recession",
+      "title": "COVID-19 recession",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_recession",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话成功抓取)；摘要:\"The COVID-19 recession was a global economic recession cause\""
     }
   ]
 }
