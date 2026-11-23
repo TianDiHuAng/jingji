@@ -1,0 +1,62 @@
+{
+  "id": "ricardian-equivalence",
+  "title": "李嘉图等价",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "认为前瞻性消费者会内化政府预算约束、使赤字融资与税收融资效果等价的假说。",
+  "overview": "李嘉图等价命题是一种经济假说：消费者是前瞻性的，因而在作消费决策时会内化政府的预算约束。其结果是，对给定的政府支出路径，以债务融资还是以税收融资对总需求的影响相同。该假说在现实中受到广泛质疑。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政府以借债替代征税 → 消费者预期未来增税",
+      "sources": [
+        "w-en-ricardian-equivalence"
+      ]
+    },
+    {
+      "step": "前瞻性消费者增加储蓄、抵消需求刺激",
+      "sources": [
+        "w-en-ricardian-equivalence"
+      ]
+    },
+    {
+      "step": "财政政策的净效果被削弱（假说推论）",
+      "sources": [
+        "w-en-crowding-out"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "新古典视角",
+      "view": "理性前瞻主体使债务与税收等价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-ricardian-equivalence"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "流动性约束与短视使减税确有刺激作用",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-multiplier"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>李嘉图等价：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府以借债替代征税 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>前瞻性消费者增加储蓄、抵</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财政政策的净效果被削弱（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-ricardian-equivalence",
+    "w-en-fiscal-multiplier"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

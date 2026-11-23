@@ -1,0 +1,74 @@
+{
+  "id": "imf",
+  "title": "国际货币基金组织(IMF)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "总部位于华盛顿的国际金融机构与联合国专门机构，致力于促进全球货币合作与金融稳定。",
+  "overview": "国际货币基金组织（IMF）是一个国际金融机构、联合国专门机构，总部设于华盛顿特区。它由191个成员国组成，其宣称的使命是\"促进全球货币合作、保障金融稳定\"等。IMF 在危机中提供贷款与政策条件。具体职能与争议待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "成员国出资形成资金池 → 向国际收支困难国提供贷款",
+      "sources": [
+        "w-en-imf"
+      ]
+    },
+    {
+      "step": "附带政策条件 → 影响借款国宏观政策",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    },
+    {
+      "step": "监督全球与国别经济、促进货币合作",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "成员国数量",
+      "value": 191,
+      "unit": "个（IMF成员国）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：It consists of 191 member countries；单一来源待核实（成员国数随时间变化）。",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "稳定/合作视角",
+      "view": "IMF 提供流动性、促进协调",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-imf"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "贷款条件被指加重紧缩与社会代价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国际货币基金组织(IMF)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>成员国出资形成资金池 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>附带政策条件 → 影响借</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>监督全球与国别经济、促进</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-imf",
+    "w-en-washington-consensus"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

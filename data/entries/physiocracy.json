@@ -1,0 +1,62 @@
+{
+  "id": "physiocracy",
+  "title": "重农学派",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "18世纪法国启蒙经济学家提出的、认为国民财富唯一来自土地农业的经济理论。",
+  "overview": "重农学派是18世纪启蒙时代一批法国经济学家发展出的经济理论。他们认为国民财富完全来自\"土地农业\"或\"土地开发\"的价值，并主张农产品应保持高价。重农学派被视为最早的系统性经济思想流派之一。具体主张待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "认为只有农业创造净产出 → 土地是财富唯一来源",
+      "sources": [
+        "w-en-physiocracy"
+      ]
+    },
+    {
+      "step": "主张农产品高价与减轻农业税负",
+      "sources": [
+        "w-en-physiocracy"
+      ]
+    },
+    {
+      "step": "反对重商主义的管制，倾向自然秩序",
+      "sources": [
+        "w-en-mercantilism"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "重农视角",
+      "view": "农业是唯一生产性部门",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-physiocracy"
+      ]
+    },
+    {
+      "holder": "古典视角",
+      "view": "工业与服务业同样创造价值",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "bk-the-wealth-of-nations"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>重农学派：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>认为只有农业创造净产出 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>主张农产品高价与减轻农业</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反对重商主义的管制，倾向</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-physiocracy",
+    "bk-the-wealth-of-nations"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

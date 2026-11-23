@@ -1,0 +1,62 @@
+{
+  "id": "protectionism",
+  "title": "保护主义",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "通过关税、进口配额与其他政府管制限制进口的经济政策。",
+  "overview": "保护主义（或称贸易保护主义）是通过对进口商品征收关税、设置进口配额以及其他各种政府管制来限制从其他国家进口的经济政策。支持者认为保护主义政策可保护本国产业与就业；批评者强调效率损失与报复风险。具体争论待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以关税与配额限制进口 → 国内产业受保护",
+      "sources": [
+        "w-en-protectionism"
+      ]
+    },
+    {
+      "step": "国内产出与就业受支撑，但价格上升",
+      "sources": [
+        "w-en-tariff"
+      ]
+    },
+    {
+      "step": "可能引发贸易伙伴报复、降低总体福利",
+      "sources": [
+        "w-en-free-trade"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "保护视角",
+      "view": "保护幼稚产业、维护就业与安全",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-protectionism"
+      ]
+    },
+    {
+      "holder": "自由贸易视角",
+      "view": "保护降低效率、抬高成本并招致报复",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-free-trade"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保护主义：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以关税与配额限制进口 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>国内产出与就业受支撑，但</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>可能引发贸易伙伴报复、降</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-protectionism",
+    "w-en-tariff"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

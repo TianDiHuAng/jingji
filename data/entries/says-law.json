@@ -1,0 +1,62 @@
+{
+  "id": "says-law",
+  "title": "萨伊定律",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "古典经济学中\"生产创造需求\"的主张：产品的生产为其他产品提供可交换的价值。",
+  "overview": "在古典经济学中，萨伊定律（或市场定律）主张：一种产品的生产会为另一种产品创造需求，因为生产提供了可用于交换其他产品的价值——即生产是需求的来源。该定律以让-巴蒂斯特·萨伊命名。凯恩斯对其提出根本性质疑。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "生产创造收入 → 收入形成对其他产品的需求",
+      "sources": [
+        "w-en-says-law"
+      ]
+    },
+    {
+      "step": "供给自动创造相应需求 → 不存在普遍生产过剩",
+      "sources": [
+        "w-en-says-law"
+      ]
+    },
+    {
+      "step": "（凯恩斯反驳）需求可能不足，导致失业与过剩",
+      "sources": [
+        "bk-the-general-theory-of-employment-interest-and-mo"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "古典视角",
+      "view": "供给创造需求，市场自动出清",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-says-law"
+      ]
+    },
+    {
+      "holder": "凯恩斯视角",
+      "view": "总需求可能不足，需政策干预",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "bk-the-general-theory-of-employment-interest-and-mo"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>萨伊定律：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>生产创造收入 → 收入形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>供给自动创造相应需求 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（凯恩斯反驳）需求可能不</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-says-law",
+    "bk-the-general-theory-of-employment-interest-and-mo"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

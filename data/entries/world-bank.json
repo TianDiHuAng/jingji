@@ -1,0 +1,74 @@
+{
+  "id": "world-bank",
+  "title": "世界银行集团",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "由五个国际组织组成、向发展中国家提供贷款的最大发展银行家族。",
+  "overview": "世界银行集团（WBG）是由五个国际组织组成的家族，向发展中国家提供杠杆化贷款，是全球最大的发展银行，总部设于美国华盛顿特区。其宣称使命涉及消除贫困与促进共享繁荣。具体机构构成与业务待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "成员国出资与市场融资 → 形成贷款能力",
+      "sources": [
+        "w-en-world-bank"
+      ]
+    },
+    {
+      "step": "向发展中国家提供项目与政策贷款",
+      "sources": [
+        "w-en-world-bank"
+      ]
+    },
+    {
+      "step": "支持基础设施、减贫与制度改革（效果有争论）",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "组成机构数量",
+      "value": 5,
+      "unit": "个国际组织（世界银行集团）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：a family of five international organizations；单一来源待核实。",
+      "sources": [
+        "w-en-world-bank"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "发展融资视角",
+      "view": "世行填补发展融资缺口、提供技术援助",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-world-bank"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "贷款条件与发展模式受质疑",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-washington-consensus"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>世界银行集团：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>成员国出资与市场融资 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>向发展中国家提供项目与政</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持基础设施、减贫与制度</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-world-bank",
+    "w-en-washington-consensus"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

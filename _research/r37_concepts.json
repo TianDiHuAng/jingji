@@ -1,0 +1,82 @@
+{
+  "mercantilism": {
+    "title": "Mercantilism",
+    "extract": "Mercantilism is an economic system and type of nationalist economic policy that is designed to maximize exports and minimize imports of an economy. It seeks to maximize the accumulation of resources within the country and use those resources for one-sided trade. Mercantilist policies have contributed to armed conflict and motivated colonial expansion. Economic intervention – especially in industrializing countries – is seen as modern mercantilism.",
+    "slug": "Mercantilism"
+  },
+  "physiocracy": {
+    "title": "Physiocracy",
+    "extract": "Physiocracy is an economic theory developed by a group of 18th-century Age of Enlightenment French economists. They believed that the wealth of nations derived solely from the value of \"land agriculture\" or \"land development\" and that agricultural products should be highly priced. Their theories originated in France and were most popular during the second half of the 18th century. Physiocracy became one of the first well-developed theories of economics. Physiocratic governments made significant positive influence on national economies by developing land for agricultural use, building roads and canals for agricultural trade and utilizing trade as a mechanism for benefiting from surplus agricultural produce; strengthening currencies and balance of payments. It is thus today known as an unintended means to an end.",
+    "slug": "Physiocracy"
+  },
+  "quantity-theory-money": {
+    "title": "Quantity theory of money",
+    "extract": "The quantity theory of money (QTM) is a hypothesis within monetary economics which states that the general price level of goods and services is directly proportional to the amount of money in circulation, and that the causality runs from money to prices. This implies that the theory potentially explains inflation. It originated in the 16th century and has been proclaimed the oldest surviving theory in economics.",
+    "slug": "Quantity_theory_of_money"
+  },
+  "says-law": {
+    "title": "Say's law",
+    "extract": "In classical economics, Say's law, or the law of markets, is the claim that the production of a product creates demand for another product by providing something of value which can be exchanged for that other product. So, production is the source of demand. It is named after Jean-Baptiste Say. In his principal work, A Treatise on Political Economy \"A product is no sooner created, than it, from that instant, affords a market for other products to the full extent of its own value.\" And also, \"As each of us can only purchase the productions of others with his/her own productions – as the value we can buy is equal to the value we can produce, the more men can produce, the more they will purchase.\"",
+    "slug": "Say%27s_law"
+  },
+  "ricardian-equivalence": {
+    "title": "Ricardian equivalence",
+    "extract": "The Ricardian equivalence proposition is an economic hypothesis holding that consumers are forward-looking and so internalize the government's budget constraint when making their consumption decisions. This leads to the result that, for a given pattern of government spending, the method of financing such spending does not affect agents' consumption decisions, and thus, it does not change aggregate demand.",
+    "slug": "Ricardian_equivalence"
+  },
+  "comparative-advantage": {
+    "title": "Comparative advantage",
+    "extract": "Comparative advantage is an economic principle that explains why people, firms, and countries can often benefit from trade even when one party is more productive at producing every good or service. The principle states that greater gains from trade arise when each participant devotes a larger share of its labor and other productive resources to the activities with the lowest opportunity cost and obtains other goods and services through trade. Comparative advantage differs from absolute advantage, which concerns being more productive overall, and competitive advantage, which concerns outperforming rivals in a marketplace.",
+    "slug": "Comparative_advantage"
+  },
+  "tariff": {
+    "title": "Tariff",
+    "extract": "A tariff, or import tax, is a duty imposed by a national government, customs territory, or supranational union on imports of goods and is paid by the importer. Exceptionally, an export tax may be levied on exports of goods or raw materials and is paid by the exporter. Besides being a source of revenue, import duties can also be a form of regulation of foreign trade and policy that burden foreign products to encourage or safeguard domestic industry. Protective tariffs are among the most widely used instruments of protectionism, along with import quotas and export quotas and other non-tariff barriers to trade.",
+    "slug": "Tariff"
+  },
+  "protectionism": {
+    "title": "Protectionism",
+    "extract": "Protectionism, sometimes referred to as trade protectionism, is the economic policy of restricting imports from other countries through methods such as tariffs on imported goods, import quotas, and a variety of other government regulations. Proponents argue that protectionist policies shield the producers, businesses, and workers of the import-competing sector in the country from foreign competitors and raise government revenue. Opponents argue that protectionist policies reduce trade, and adversely affect consumers in general as well as the producers and workers in export sectors, both in the country implementing protectionist policies and in the countries against which the protections are implemented.",
+    "slug": "Protectionism"
+  },
+  "free-trade": {
+    "title": "Free trade",
+    "extract": "Free trade is a trade policy that does not restrict imports or exports through legal barriers. In government, free trade is predominantly advocated by political parties that hold economically liberal positions, while economic nationalist political parties generally support protectionism, the opposite of free trade.",
+    "slug": "Free_trade"
+  },
+  "globalization": {
+    "title": "Globalization",
+    "extract": "Globalization is the process of increasing interdependence and integration among the economies, markets, societies, and cultures of different countries worldwide. It can be attributed to a series of factors, including the reduction of barriers to international trade, the liberalization of capital movements, the development of transportation infrastructure, and the advancement of information and communication technologies. The term globalization first appeared in the early 20th century, but came into popular use in the 1990s to describe the growing international connectivity of the post–Cold War world.",
+    "slug": "Globalization"
+  },
+  "sdr": {
+    "title": "Special drawing rights",
+    "extract": "Special drawing rights are a supplementary foreign exchange reserve asset defined and maintained by the International Monetary Fund (IMF). SDRs are the units of account for the IMF, and not a currency; rather, SDR value is based on a basket of currencies, the specific composition of which is reviewed every five years. SDRs represent a claim to currency held by IMF member countries for which they may be exchanged. When SDRs were created in 1969, they were each worth 0.888671 grams of gold, roughly the equivalent of one US dollar at the time. In 1974, the IMF redefined the SDR as equivalent to the value of a specific selection of world currencies.",
+    "slug": "Special_drawing_rights"
+  },
+  "imf": {
+    "title": "International Monetary Fund",
+    "extract": "The International Monetary Fund (IMF) is an international financial institution and a specialized agency of the United Nations, headquartered in Washington, D.C. It consists of 191 member countries, and its stated mission is \"working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world\". The IMF acts as a lender of last resort to its members experiencing actual or potential balance of payments crises.",
+    "slug": "International_Monetary_Fund"
+  },
+  "world-bank": {
+    "title": "World Bank Group",
+    "extract": "The World Bank Group (WBG) is a family of five international organizations that make leveraged loans to developing countries. The group is the largest development bank in the world. It is headquartered in Washington, D.C., United States. The bank's stated mission is to achieve the twin goals of ending extreme poverty and building shared prosperity. Historically, within the group, the IBRD and IDA were collectively known as the World Bank due to their emphasis on global lending.",
+    "slug": "World_Bank"
+  },
+  "wto": {
+    "title": "World Trade Organization",
+    "extract": "The World Trade Organization (WTO) is an intergovernmental organization that regulates and facilitates international trade. Established on 1 January 1995, pursuant to the 1994 Marrakesh Agreement, it succeeded the General Agreement on Tariffs and Trade (GATT), which was created in 1948. As the world's largest international economic organization, the WTO has 166 members, representing over 98% of global trade and global GDP. It is headquartered in Geneva, Switzerland.",
+    "slug": "World_Trade_Organization"
+  },
+  "twin-crises": {
+    "title": "Twin crises",
+    "extract": "In economics, twin crises, also called a balance of payments crisis, are simultaneous crises in banking and currency. The term was introduced in the late 1990s by economists Graciela Kaminsky and Carmen Reinhart after several such crises worldwide.",
+    "slug": "Twin_crises"
+  },
+  "banking-crisis": {
+    "title": "Bank run",
+    "extract": "A bank run or run on the bank occurs when many clients withdraw their money from a bank, because they believe the bank may fail in the near future. It may occur when, in a fractional-reserve banking system, a large volume of customers seek to withdraw a greater amount of cash from deposit accounts with a financial institution in a short space of time than the institution has cash on-hand, because the customers believe that the institution is, or might become, insolvent. When they transfer funds to another institution, it may be characterized as a capital flight. As a bank run progresses, it may become a self-fulfilling prophecy: as more people withdraw cash, the likelihood of default increases, triggering further withdrawals. This can destabilize the bank to the point where it runs out of cash and thus faces sudden bankruptcy. To combat a bank run, a bank may acquire more cash from other banks or from the central bank, or limit the amount of cash customers may withdraw, either by imposing a hard limit or by scheduling quick deliveries of cash, encouraging high-return term deposits to reduce on-demand withdrawals, or suspending withdrawals altogether.",
+    "slug": "Banking_crisis"
+  }
+}

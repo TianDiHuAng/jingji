@@ -1,0 +1,62 @@
+{
+  "id": "comparative-advantage",
+  "title": "比较优势",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "解释即使一方在所有产品上都更高效、各方仍可从贸易中获益的经济学原理。",
+  "overview": "比较优势是一条经济学原理，解释为何个人、企业与国家即使在一方生产每种商品或服务都更具生产效率时，仍常能从贸易中获益。该原理指出：当每个参与者专注于其放弃机会成本较低的生产时，贸易收益更大。它是国际贸易理论的基石。具体推导待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "各方机会成本不同 → 专业化于相对成本较低的产品",
+      "sources": [
+        "w-en-comparative-advantage"
+      ]
+    },
+    {
+      "step": "专业化与交换 → 总产出与双方福利提升",
+      "sources": [
+        "w-en-comparative-advantage"
+      ]
+    },
+    {
+      "step": "构成自由贸易的理论基础",
+      "sources": [
+        "w-en-free-trade"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "古典贸易视角",
+      "view": "比较优势使贸易互利，非零和",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-comparative-advantage"
+      ]
+    },
+    {
+      "holder": "保护主义视角",
+      "view": "关注分配、战略产业与调整成本",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-protectionism"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>比较优势：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>各方机会成本不同 → 专</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>专业化与交换 → 总产出</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>构成自由贸易的理论基础</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-comparative-advantage",
+    "w-en-free-trade"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

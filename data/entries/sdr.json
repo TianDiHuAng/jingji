@@ -1,0 +1,62 @@
+{
+  "id": "sdr",
+  "title": "特别提款权(SDR)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "由国际货币基金组织定义与维持的补充性外汇储备资产。",
+  "overview": "特别提款权是由国际货币基金组织（IMF）定义与维持的补充性外汇储备资产。SDR 是 IMF 的记账单位，而非一种货币；其价值基于一篮子货币，具体构成由 IMF 规定。SDR 可用于补充成员国储备、缓解流动性压力。具体构成与分配待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "IMF 创设并分配 SDR → 补充成员国储备资产",
+      "sources": [
+        "w-en-sdr"
+      ]
+    },
+    {
+      "step": "价值按一篮子货币定值 → 相对稳定",
+      "sources": [
+        "w-en-sdr"
+      ]
+    },
+    {
+      "step": "用于缓解全球储备流动性不足",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "超主权储备视角",
+      "view": "SDR 可缓解对单一主权货币的依赖",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sdr"
+      ]
+    },
+    {
+      "holder": "现实约束视角",
+      "view": "SDR 规模有限、非直接交易货币",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-triffin-dilemma"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>特别提款权(SDR)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>IMF 创设并分配 SD</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价值按一篮子货币定值 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于缓解全球储备流动性不</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-sdr",
+    "w-en-triffin-dilemma"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}

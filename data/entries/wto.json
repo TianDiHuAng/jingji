@@ -1,0 +1,74 @@
+{
+  "id": "wto",
+  "title": "世界贸易组织(WTO)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "规范与促进国际贸易的政府间组织，1995年1月1日成立。",
+  "overview": "世界贸易组织（WTO）是规范与促进国际贸易的政府间组织。它依据1994年《马拉喀什协定》于1995年1月1日成立，接替了更早创设的关税与贸易总协定（GATT）。WTO 提供贸易规则框架与争端解决机制。具体职能待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "GATT 谈判成果 → 1994马拉喀什协定",
+      "sources": [
+        "w-en-wto"
+      ]
+    },
+    {
+      "step": "1995年1月1日 WTO 成立并接替 GATT",
+      "sources": [
+        "w-en-wto"
+      ]
+    },
+    {
+      "step": "以规则与争端解决促进贸易自由化",
+      "sources": [
+        "w-en-free-trade"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "成立年份",
+      "value": 1995,
+      "unit": "年（1995年1月1日）",
+      "year": 1995,
+      "comparable_price": false,
+      "note": "原文：Established on 1 January 1995, pursuant to the 1994 Marrakesh Agreement；单一来源待核实。",
+      "sources": [
+        "w-en-wto"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "规则体系视角",
+      "view": "WTO 以多边规则降低贸易不确定性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-wto"
+      ]
+    },
+    {
+      "holder": "批判视角",
+      "view": "规则被认为限制政策空间、争端机制受阻",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-protectionism"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>世界贸易组织(WTO)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>GATT 谈判成果 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1995年1月1日 WT</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以规则与争端解决促进贸易</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-wto",
+    "w-en-free-trade"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+}
