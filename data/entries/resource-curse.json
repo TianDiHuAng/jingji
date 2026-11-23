@@ -1,0 +1,62 @@
+{
+  "id": "resource-curse",
+  "title": "资源诅咒",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "自然资源丰富的国家反而增长更慢、发展结果更差的假说。",
+  "overview": "资源诅咒（又称丰裕悖论）是一种假说：自然资源丰富的国家，其经济增长率、民主程度或发展结果反而低于资源较少的国家。关于其成因与例外存在大量理论与学术争论。具体机制与证据待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资源出口带来租金 → 可能挤压其他产业与制度质量",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    },
+    {
+      "step": "租金分配冲突、治理弱化 → 增长与发展受损",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    },
+    {
+      "step": "结构性依赖 → 抵御商品价格冲击能力弱",
+      "sources": [
+        "w-en-dutch-disease"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度视角",
+      "view": "制度质量决定资源是祝福还是诅咒",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    },
+    {
+      "holder": "经济结构视角",
+      "view": "资源繁荣挤出制造业、加剧波动",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-dutch-disease"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资源诅咒：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源出口带来租金 → 可</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>租金分配冲突、治理弱化 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>结构性依赖 → 抵御商品</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-resource-curse",
+    "w-en-dutch-disease"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

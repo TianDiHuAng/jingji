@@ -1,0 +1,62 @@
+{
+  "id": "wage-price-spiral",
+  "title": "工资-价格螺旋",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "工资上涨引发价格上涨、价格上涨再推高工资的正反馈式通胀解释。",
+  "overview": "工资-价格螺旋是宏观经济学中对通胀的一种解释：工资上涨导致价格上涨，价格上涨又导致工资上涨，形成正反馈循环。曼昆（Greg Mankiw）指出，某一时点这种工资与价格不断上升的螺旋将会放缓；长期来看，经济会回到总需求曲线与长期总供给曲线相交之处。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "工资上涨 → 企业成本上升、提价",
+      "sources": [
+        "w-en-wage-price-spiral"
+      ]
+    },
+    {
+      "step": "物价上涨 → 工人要求更高工资",
+      "sources": [
+        "w-en-wage-price-spiral"
+      ]
+    },
+    {
+      "step": "正反馈循环；长期随总需求与长期总供给相交而收敛",
+      "sources": [
+        "w-en-inflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "成本推动视角",
+      "view": "工资-价格互动是持续性通胀的机制之一",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-wage-price-spiral"
+      ]
+    },
+    {
+      "holder": "货币视角",
+      "view": "若无货币扩张，螺旋难以持续",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-money-supply"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>工资-价格螺旋：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>工资上涨 → 企业成本上</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>物价上涨 → 工人要求更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>正反馈循环；长期随总需求</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-wage-price-spiral",
+    "w-en-inflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

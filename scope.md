@@ -245,3 +245,17 @@
 | crowding-out | 挤出效应 | 理论制度 | 全球 | 理论 | 重要 | 续作N |
 | triffin-dilemma | 特里芬难题 | 理论制度 | 全球 | 货币 | 重要 | 续作N |
 | output-gap | 产出缺口 | 理论制度 | 全球 | 理论 | 重要 | 续作N |
+| basel-accords | 巴塞尔银行监管委员会 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| macroprudential | 宏观审慎监管 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| reserve-requirement | 存款准备金要求 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| sudden-stop | 突然停止（资本流动） | 理论制度 | 全球 | 货币 | 重要 | 续作O |
+| dutch-disease | 荷兰病 | 理论制度 | 全球 | 其他 | 重要 | 续作O |
+| resource-curse | 资源诅咒 | 理论制度 | 全球 | 其他 | 重要 | 续作O |
+| middle-income-trap | 中等收入陷阱 | 理论制度 | 全球 | 其他 | 重要 | 续作O |
+| great-moderation | 大缓和 | 理论制度 | 全球 | 理论 | 重要 | 续作O |
+| foreign-exchange-reserves | 外汇储备 | 理论制度 | 全球 | 货币 | 重要 | 续作O |
+| sovereign-wealth-fund | 主权财富基金 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| capital-flight | 资本外逃 | 理论制度 | 全球 | 货币 | 重要 | 续作O |
+| financial-repression | 金融抑制 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| bank-regulation | 银行监管 | 理论制度 | 全球 | 制度 | 重要 | 续作O |
+| wage-price-spiral | 工资-价格螺旋 | 理论制度 | 全球 | 理论 | 重要 | 续作O |

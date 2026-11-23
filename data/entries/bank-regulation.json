@@ -1,0 +1,62 @@
+{
+  "id": "bank-regulation",
+  "title": "银行监管",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "对银行施加特定要求、限制与指引的金融监管形式，由监管机构执行。",
+  "overview": "银行监管与监督是对银行施加特定要求、限制与指引的金融监管形式，由金融监管当局执行，具体表述因司法辖区而异。总体而言，银行监管旨在确保银行业的稳定，并促进银行与个人之间的透明度。具体规则与架构待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "监管当局设定资本、流动性与业务规则 → 约束银行行为",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    },
+    {
+      "step": "监督检查与信息披露 → 提升透明度",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    },
+    {
+      "step": "降低银行失败与系统性风险",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "稳定视角",
+      "view": "监管通过资本与流动性要求降低失败概率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    },
+    {
+      "holder": "成本/效率视角",
+      "view": "监管合规成本可能抑制信贷与创新",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行监管：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>监管当局设定资本、流动性</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>监督检查与信息披露 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>降低银行失败与系统性风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bank-regulation",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

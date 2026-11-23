@@ -1,0 +1,77 @@
+{
+  "basel-accords": {
+    "title": "Basel Committee on Banking Supervision",
+    "extract": "\nThe Basel Committee on Banking Supervision is a body that brings together bank supervisory authorities to set common prudential standards and policy. It relies on a permanent secretariat hosted by the Bank for International Settlements in Basel, Switzerland.",
+    "slug": "Basel_Accords"
+  },
+  "macroprudential": {
+    "title": "Macroprudential regulation",
+    "extract": "\nMacroprudential regulation is the approach to financial regulation that aims to mitigate risk to the financial system as a whole. After the 2008 financial crisis, there has been a growing consensus among policymakers and economic researchers about the need to re-orient the regulatory framework towards a macroprudential perspective.",
+    "slug": "Macroprudential_regulation"
+  },
+  "reserve-requirement": {
+    "title": "Reserve requirement",
+    "extract": "Reserve requirements are central bank regulations that set the minimum amount that a commercial bank must hold in liquid assets. This minimum amount, commonly referred to as the commercial bank's reserve, is generally determined by the central bank on the basis of a specified proportion of deposit liabilities of the bank. This rate is commonly referred to as the cash reserve ratio or shortened as reserve ratio. Though the definitions vary, the commercial bank's reserves normally consist of cash held by the bank and stored physically in the bank vault, plus the amount of the bank's balance in that bank's account with the central bank. A bank is at liberty to hold in reserve sums above this minimum requirement, commonly referred to as excess reserves.",
+    "slug": "Reserve_requirement"
+  },
+  "sudden-stop": {
+    "title": "Sudden stop (economics)",
+    "extract": "A sudden stop in capital flows is defined as a sudden slowdown in private capital inflows into emerging market economies, and a corresponding sharp reversal from large current account deficits into smaller deficits or small surpluses. Sudden stops are usually followed by a sharp decrease in output, private spending and credit to the private sector, and real exchange rate depreciation. The term \"sudden stop\" was inspired by a banker's comment on a paper by Rüdiger Dornbusch and Alejandro Werner about Mexico, that \"it is not speed that kills, it is the sudden stop.\"",
+    "slug": "Sudden_stop_(economics)"
+  },
+  "dutch-disease": {
+    "title": "Dutch disease",
+    "extract": "In economics, Dutch disease is the apparent causal relationship between the increase in the economic development of a specific sector and a decline in other sectors. The term was coined in 1977 by The Economist to describe the decline of the manufacturing sector in the Netherlands after the discovery of the large Groningen gas field in 1959.",
+    "slug": "Dutch_disease"
+  },
+  "resource-curse": {
+    "title": "Resource curse",
+    "extract": "The resource curse, also known as the paradox of plenty or the poverty paradox, is the hypothesis that countries with an abundance of natural resources have lower economic growth, lower rates of democracy, or poorer development outcomes than countries with fewer natural resources. There are many theories and much academic debate about the reasons for and exceptions to the adverse outcomes. Most experts believe the resource curse is not universal or inevitable but affects certain types of countries or regions under certain conditions. As of at least 2023, there is no academic consensus on the effect of resource abundance on economic development.",
+    "slug": "Resource_curse"
+  },
+  "middle-income-trap": {
+    "title": "Middle income trap",
+    "extract": "In development economics, the middle income trap is a situation where a country has developed until GDP per capita has reached a middle level of income, but the country does not develop further and does not attain high income country status. The term was introduced by the World Bank in 2007 who defined it as the \"middle-income range\" countries with gross national product per capita that has remained between $1,000 to $12,000 at constant (2011) prices.",
+    "slug": "Middle_income_trap"
+  },
+  "great-moderation": {
+    "title": "Great Moderation",
+    "extract": "The Great Moderation was a period of macroeconomic stability in the United States coinciding with the rise of central bank independence, beginning with the Volcker shock in 1980 and continuing through the 21st century. It is characterized by generally milder business cycle fluctuations in developed nations, compared with decades before. Throughout this period, major economic variables such as real GDP growth, industrial production, unemployment, and price levels have become less volatile, while average inflation has fallen and recessions have become less common.",
+    "slug": "Great_Moderation"
+  },
+  "foreign-exchange-reserves": {
+    "title": "Foreign exchange reserves",
+    "extract": "Foreign exchange reserves are cash and other reserve assets such as gold and silver held by a central bank or other monetary authority that are primarily available to balance payments of the country, influence the foreign exchange rate of its currency, and to maintain confidence in financial markets. Reserves are held in one or more reserve currencies, mostly the United States dollar and to a lesser extent the euro.",
+    "slug": "Foreign_exchange_reserves"
+  },
+  "sovereign-wealth-fund": {
+    "title": "Sovereign wealth fund",
+    "extract": "A sovereign wealth fund (SWF), or sovereign investment fund, is a state-owned investment fund that invests in real and financial assets such as stocks, bonds, real estate, precious metals, or in alternative investments such as private equity funds or hedge funds. Sovereign wealth funds invest globally. Most SWFs are funded by revenues from commodity exports or from foreign exchange reserves held by the central bank.",
+    "slug": "Sovereign_wealth_fund"
+  },
+  "capital-flight": {
+    "title": "Capital flight",
+    "extract": "Capital flight, in economics, is the rapid flow of assets or money out of a country, due to an event of economic consequence or as the result of a political event such as regime change. Such events could be erratic or untrustworthy behavior by leadership, an increase in taxes on capital or capital holders or the government of the country defaulting on its debt that disturbs investors and causes them to lower their valuation of the assets in that country, or otherwise to lose confidence in its economic strength.",
+    "slug": "Capital_flight"
+  },
+  "financial-repression": {
+    "title": "Financial repression",
+    "extract": "Financial repression refers to government implementation of policies to channel domestic funds to the public sector that in a deregulated market environment would go elsewhere. These policies are used to reduce the government's debt-to-GDP ratio.",
+    "slug": "Financial_repression"
+  },
+  "bank-regulation": {
+    "title": "Bank regulation and supervision",
+    "extract": "Bank regulation and supervision refers to a form of financial regulation which subjects banks to certain requirements, restrictions and guidelines, enforced by a financial supervisory authority or supervisor, with semantic variations across jurisdictions. By and large, bank regulation and supervision aims at ensuring the stability of the banking sector and at fostering transparency between banks and the individuals and other counterparts with whom they conduct business.",
+    "slug": "Bank_regulation"
+  },
+  "inflation-expectations": {
+    "title": "Inflation",
+    "extract": "In economics, inflation is an increase in the average price of goods and services in terms of money, though it originally referred to the increase of the money supply that can cause such a universal shift. This increase is measured using a price index, typically a consumer price index (CPI). When the general price level rises, each unit of currency buys fewer goods and services; consequently, inflation corresponds to a reduction in the purchasing power of money. The opposite of inflation is deflation, a decrease in the general price level of goods and services. The common measure of inflation is the inflation rate, the annualized percentage change in a general price index.",
+    "slug": "Inflation_expectations"
+  },
+  "wage-price-spiral": {
+    "title": "Wage–price spiral",
+    "extract": "In macroeconomics, a wage–price spiral is an explanation for inflation, in which wage increases cause price increases, which in turn cause wage increases, in a positive feedback loop. Greg Mankiw writes, \"At some point, this spiral of ever-rising wages and prices will slow... In the long run, the economy returns to [the point] where the aggregate-demand curve crosses the long-run aggregate-supply curve.\"",
+    "slug": "Price/wage_spiral"
+  }
+}

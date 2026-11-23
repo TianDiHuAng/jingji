@@ -1,0 +1,62 @@
+{
+  "id": "capital-flight",
+  "title": "资本外逃",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "因经济或政治事件导致资产或资金迅速流出某国的现象。",
+  "overview": "资本外逃是经济学中的现象：由于具有经济后果的事件，或政权更迭等政治事件，资产或资金迅速流出某国。此类事件可能包括领导层行为反复或不可信、对资本或资本持有者加税、政府债务违约等，令投资者降低对该国的信心。具体案例待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政策或政治风险上升 → 投资者信心下降",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    },
+    {
+      "step": "资产与资金迅速外流、本币承压",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    },
+    {
+      "step": "储备流失、融资成本上升 → 危机加深",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "信心/风险视角",
+      "view": "制度与政策可信度决定资本去留",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    },
+    {
+      "holder": "管制视角",
+      "view": "资本管制可短期遏制外流但代价高",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资本外逃：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政策或政治风险上升 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资产与资金迅速外流、本币</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备流失、融资成本上升 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-capital-flight",
+    "w-en-currency-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

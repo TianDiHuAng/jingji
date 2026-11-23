@@ -1,0 +1,62 @@
+{
+  "id": "macroprudential",
+  "title": "宏观审慎监管",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "旨在缓解整个金融体系风险（而非单个机构）的监管方式。",
+  "overview": "宏观审慎监管是旨在缓解金融体系整体风险的监管方式。2008年金融危机后，政策制定者与经济研究者之间逐渐形成共识：监管框架需要转向宏观审慎视角。其工具包括逆周期资本缓冲、贷款价值比限制等。具体工具与效果待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "识别系统性风险累积（信贷过快、杠杆上升）",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    },
+    {
+      "step": "运用逆周期资本等工具抑制风险积累",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    },
+    {
+      "step": "降低系统性危机概率与强度",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "系统性视角",
+      "view": "个体稳健不等于体系稳健，需整体视角",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    },
+    {
+      "holder": "微观审慎视角",
+      "view": "侧重单家机构的资本与合规",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>宏观审慎监管：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>识别系统性风险累积（信贷</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>运用逆周期资本等工具抑制</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>降低系统性危机概率与强度</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-macroprudential",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

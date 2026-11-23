@@ -1,0 +1,62 @@
+{
+  "id": "basel-accords",
+  "title": "巴塞尔银行监管委员会",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "汇集各国银行监管当局、制定共同审慎标准与政策的机构，秘书处设于国际清算银行。",
+  "overview": "巴塞尔银行监管委员会是一个汇集银行监管当局、制定共同审慎标准与政策的机构，依托设于瑞士巴塞尔国际清算银行（BIS）的常设秘书处运作。其发布的标准（通称巴塞尔协议）成为各国银行资本与风险管理的重要参照。具体标准内容与实施差异待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "各国监管当局汇聚 → 协商共同审慎标准",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    },
+    {
+      "step": "发布标准（如资本与风险管理要求）",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    },
+    {
+      "step": "各国转化为国内监管 → 影响银行资本与经营",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "国际协调视角",
+      "view": "统一标准减少跨境监管套利、提升可比性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    },
+    {
+      "holder": "主权与适用性视角",
+      "view": "统一标准可能不适配各国金融结构",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴塞尔银行监管委员会：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>各国监管当局汇聚 → 协</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>发布标准（如资本与风险管</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>各国转化为国内监管 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-basel-accords",
+    "w-en-bank-regulation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

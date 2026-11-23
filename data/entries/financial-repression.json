@@ -1,0 +1,62 @@
+{
+  "id": "financial-repression",
+  "title": "金融抑制",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "政府将国内资金导向公共部门的政策，用以降低政府债务占GDP比率。",
+  "overview": "金融抑制指政府实施政策，把国内资金导向公共部门——这些资金在放开的市场环境下会流向别处。此类政策被用于降低政府的债务对GDP比率。常见手段包括利率上限、强制配置国债与资本管制。具体手段与影响待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "政府施加利率上限与配置要求 → 资金流向公共部门",
+      "sources": [
+        "w-en-financial-repression"
+      ]
+    },
+    {
+      "step": "实际利率偏低 → 储蓄者向政府转移购买力",
+      "sources": [
+        "w-en-financial-repression"
+      ]
+    },
+    {
+      "step": "政府债务/GDP比率下降，但储蓄配置效率受损",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "财政视角",
+      "view": "金融抑制是隐性债务削减工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-repression"
+      ]
+    },
+    {
+      "holder": "金融发展视角",
+      "view": "抑制损害储蓄回报与金融深化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融抑制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府施加利率上限与配置要</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际利率偏低 → 储蓄者</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政府债务/GDP比率下降</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-financial-repression",
+    "w-en-capital-control"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "sovereign-wealth-fund",
+  "title": "主权财富基金",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "国有投资基​​金，投资于股票、债券、房地产等实际与金融资产。",
+  "overview": "主权财富基金（或称主权投资基金）是国有投资基金，投资于股票、债券、房地产、贵金属等实际与金融资产，或私募股权基金、对冲基金等另类投资，并在全球范围投资。多数主权财富基金的资金来自商品出口收入或中央银行持有的外汇储备。具体规模与治理待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "商品出口收入或外汇储备积累 → 形成可投资资金池",
+      "sources": [
+        "w-en-sovereign-wealth-fund"
+      ]
+    },
+    {
+      "step": "全球配置股票、债券、地产与另类资产",
+      "sources": [
+        "w-en-sovereign-wealth-fund"
+      ]
+    },
+    {
+      "step": "实现跨代储蓄与资产多元化",
+      "sources": [
+        "w-en-foreign-exchange-reserves"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "储蓄/多元化视角",
+      "view": "主权基金实现跨代储蓄与资产多元化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sovereign-wealth-fund"
+      ]
+    },
+    {
+      "holder": "治理/透明度视角",
+      "view": "国有属性带来治理与透明度关切",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>主权财富基金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品出口收入或外汇储备积</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>全球配置股票、债券、地产</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>实现跨代储蓄与资产多元化</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-sovereign-wealth-fund",
+    "w-en-foreign-exchange-reserves"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}

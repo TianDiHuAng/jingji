@@ -1,0 +1,62 @@
+{
+  "id": "great-moderation",
+  "title": "大缓和",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "美国（及发达国家）宏观经济波动显著趋缓的时期，与央行独立性上升同时出现。",
+  "overview": "大缓和是美国一段宏观经济稳定时期，与中央银行独立性的上升同时出现，始于1980年的沃尔克冲击并延续至21世纪。其特征是发达国家经济周期波动总体较此前数十年更为温和，实际GDP增长、工业生产等主要经济变量波动下降。其成因存在争论。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "货币政策框架改进与央行独立性上升 → 通胀与预期更稳定",
+      "sources": [
+        "w-en-great-moderation"
+      ]
+    },
+    {
+      "step": "经济周期波动幅度下降 → 产出与通胀更平稳",
+      "sources": [
+        "w-en-great-moderation"
+      ]
+    },
+    {
+      "step": "（争论）结构性变化或\"好运气\"亦可能贡献",
+      "sources": [
+        "w-en-great-moderation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "政策改进视角",
+      "view": "货币政策与独立性提升降低了波动",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-moderation"
+      ]
+    },
+    {
+      "holder": "运气/结构视角",
+      "view": "冲击变小或结构变化是主因",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-business-cycle"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>大缓和：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币政策框架改进与央行独</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>经济周期波动幅度下降 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（争论）结构性变化或\"好</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-great-moderation",
+    "w-en-business-cycle"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+}
