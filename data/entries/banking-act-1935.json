@@ -1,0 +1,88 @@
+{
+  "id": "banking-act-1935",
+  "title": "1935年银行法",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "美洲",
+  "crisis_type": "制度",
+  "one_line": "1935年8月19日通过、8月23日签署的美国联邦法律，改变美联储体系的结构与权力分配。",
+  "overview": "《1935年银行法》由美国国会于1935年8月19日通过，富兰克林·D·罗斯福总统于8月23日签署成为法律。这是一部改变美联储体系结构与权力分配（的立法），其变革始于1933年银行法。该法包含三个标题。具体内容待核实。",
+  "timeline": [
+    {
+      "year": 1935,
+      "display": "1935年8月19日",
+      "event": "美国国会通过《1935年银行法》（据 Wikipedia Banking Act of 1935）",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    },
+    {
+      "year": 1935,
+      "display": "1935年8月23日",
+      "event": "罗斯福总统签署成为法律，改变美联储结构与权力分配（同上）",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1933年银行法启动改革 → 需进一步完善央行架构",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    },
+    {
+      "step": "1935年立法调整美联储结构与权力分配",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    },
+    {
+      "step": "强化中央集权与政策工具 → 影响后续货币政策运作",
+      "sources": [
+        "w-en-federal-reserve"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度设计视角",
+      "view": "权力集中于理事会提升政策协调",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    },
+    {
+      "holder": "制衡视角",
+      "view": "储备银行与地区利益的影响力调整（有争论）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-central-bank-independence"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    }
+  ],
+  "comparison": "与1913年《联邦储备法》创设美联储、1933年银行法分业经营构成美国央行制度演进三步。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1935年银行法：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美国国会通过《1935年</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-banking-act-1935",
+    "w-en-federal-reserve"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】"
+}

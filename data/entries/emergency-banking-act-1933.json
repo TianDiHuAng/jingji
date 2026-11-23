@@ -1,0 +1,88 @@
+{
+  "id": "emergency-banking-act-1933",
+  "title": "1933年紧急银行法",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "美洲",
+  "crisis_type": "制度",
+  "one_line": "1933年3月美国国会通过的法案，旨在稳定银行体系（配合\"银行假日\"）。",
+  "overview": "《紧急银行救助法》（E.B.R.A.）是美国国会于1933年3月通过的一项法案，旨在稳定银行体系。该法案与罗斯福宣布的全国\"银行假日\"配套，通过对银行进行审查与择优复业来恢复公众信心。它是1933年银行业改革的第一步。具体条款待核实。",
+  "timeline": [
+    {
+      "year": 1933,
+      "display": "1933年3月",
+      "event": "美国国会通过《紧急银行救助法》，旨在稳定银行体系（据 Wikipedia Emergency Banking Act of 1933）",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "year": 1933,
+      "display": "1933年3月后",
+      "event": "与\"银行假日\"配套，审查后择优复业（同上；细节待核实）",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大萧条中银行大规模倒闭与挤兑 → 体系信心崩溃",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "step": "宣布银行假日并立法审查银行 → 隔离不稳健机构",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "step": "择优复业、恢复信心 → 为后续改革铺路",
+      "sources": [
+        "w-en-glass-steagall"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "危机处置视角",
+      "view": "假日+审查是快速止血的必要手段",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "holder": "制度视角",
+      "view": "为1933年银行法（分业经营）与存款保险奠基",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    }
+  ],
+  "comparison": "与2008年TARP、2023年SVB处置同为危机中的紧急干预，但1933年以\"停业审查\"为主而非注资。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1933年紧急银行法：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美国国会通过《紧急银行救</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-emergency-banking-act-1933",
+    "w-en-glass-steagall"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 435,
+  "total": 438,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -5655,6 +5655,45 @@
       "unit": "U6 理论与制度",
       "period": "理论制度",
       "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "european-banking-1931",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "emergency-banking-act-1933",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "美洲",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "banking-act-1935",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-23",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "美洲",
       "crisis_type": "制度"
     }
   ]

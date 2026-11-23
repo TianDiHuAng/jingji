@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 497,
+  "count": 500,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -5961,6 +5961,42 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Central_counterparty",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-european-banking-1931",
+      "title": "European banking crisis of 1931",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/European_banking_crisis_of_1931",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-emergency-banking-act-1933",
+      "title": "Emergency Banking Act of 1933",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Emergency_Banking_Act_of_1933",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-banking-act-1935",
+      "title": "Banking Act of 1935",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Banking_Act_of_1935",
       "url2": null,
       "verified": true,
       "link_ok": true,
