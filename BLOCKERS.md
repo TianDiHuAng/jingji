@@ -40,8 +40,16 @@
 - 按"同一问题连续失败3次，记BLOCKERS并跳过，不要死磕"→ 正式跳过，不再作为活动缺口。
 - 影响：库缺2020新冠股灾一条；其余所有权威大纲/读者问题/矩阵缺口均已覆盖。若日后网络出口恢复，可补建以满足"完整"。
 
-## 剩余4条L1无独立维基页（轮次续作F-J）
+## ~~剩余4条L1无独立维基页~~ **已解除（续作K/L）**
 - 条目：blue-monday-2009、dutch-collapse-1780、dutch-stock-crashes、syrian-crisis-2011
 - 经多轮 REST/API 核对，均无对应独立维基页面（或页面不存在/重定向到不相关主题）。
 - 按 TASK"补充层条目可保持L1"，维持 L1 骨架并标注待核实，不硬凑内容。
 - 若后续找到权威来源（学术著作/专业百科），可再升级。
+
+### 解除说明（续作K/L）
+- 经 Wikipedia 搜索API定位正确页名后，4条全部升级为L2：
+  - blue-monday-2009 → 页名实为 **Blue Monday Crash 2009**（RBS宣布英国史上最大企业亏损，银行股单日跌超67%）
+  - dutch-collapse-1780 → 用 **Financial history of the Dutch Republic**（储蓄积累→金融工具→资本外流→18世纪末危机）
+  - dutch-stock-crashes → 同上（VOC股票、阿姆斯特丹证交所、衍生品）
+  - syrian-crisis-2011 → 用 **Economy of Syria** + **Caesar Syria Civilian Protection Act**（2011内战/2020-06-17制裁生效/2025-12-18废除）
+- 结论：**L1 已清零**（全库165条均为L2或L3）。

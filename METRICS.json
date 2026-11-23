@@ -336,6 +336,17 @@
       "sources_total": 222,
       "check_result": "PASS (165)",
       "note": "网络间歇可用：批量升级19条L1→L2(英1772/铜1789/丹麦1813/德2022/希腊1941/以色列1983/钢铁1973/1896/1796/1910/委内瑞拉能源/Kipper-Wipper/1840s州违约/罗马33年/台湾泡沫等),含真实数值。L1从45降至4(仅剩无独立维基页者)。"
+    },
+    {
+      "round": "续作K/L",
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgraded": 4,
+      "reviewed": 4,
+      "fixed": 0,
+      "sources_total": 226,
+      "check_result": "PASS (165); check_links 176页 0 error",
+      "note": "**L1清零**：经Wikipedia搜索API定位正确页名后，最后4条L1全部升L2(blue-monday-2009→Blue Monday Crash 2009含RBS亏损/银行股单日跌超67%;dutch-collapse-1780+dutch-stock-crashes→Financial history of the Dutch Republic;syrian-crisis-2011→Economy of Syria+Caesar Act 2020-06-17生效/2025-12-18废除)。当前 L1 0/L2 136/L3 29。"
     }
   ]
 }

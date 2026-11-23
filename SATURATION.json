@@ -308,6 +308,14 @@
       "upgraded": 25,
       "result": "expanded-post-saturation",
       "notes": "网络恢复补2020股灾+25条L1→L2升级。层级L1 20/L2 111/L3 29。QA全清。"
+    },
+    {
+      "round": "续作K/L",
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgraded": 4,
+      "result": "L1-cleared",
+      "notes": "全部4条残余L1升L2 → 全库165条均为L2/L3(L1=0)。QA全清。"
     }
   ],
   "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件",
