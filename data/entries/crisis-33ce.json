@@ -1,7 +1,7 @@
 {
   "id": "crisis-33ce",
   "title": "公元33年金融危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U1 早期—17世纪",
   "period": "前17世纪",
@@ -9,13 +9,83 @@
   "crisis_type": "债务",
   "one_line": "公元33年金融危机：发生于前17世纪、地区为全球的债务类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=前17世纪、地区=全球、危机类型=债务。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 33,
+      "display": "公元33年",
+      "event": "罗马帝国提比略皇帝在位期间发生金融与经济危机（据 Wikipedia Financial crisis of 33）",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    },
+    {
+      "year": 33,
+      "display": "公元33年",
+      "event": "政府政策转向与一系列没收减少了罗马货币供给；旧法被援引致贷款提前召回（同上）",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    },
+    {
+      "year": 33,
+      "display": "公元33年",
+      "event": "危机最终以无息贷款形式注入流动性而化解（同上）",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "政策转向+没收 → 罗马货币供给减少",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    },
+    {
+      "step": "援引旧法致贷款被提前召回 → 信贷紧缩、房地产价格崩盘",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    },
+    {
+      "step": "以无息贷款注入流动性 → 危机化解",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "货币供给视角",
+      "view": "货币供给收缩是危机的根源",
+      "basis": "据维基摘要；待核实",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    },
+    {
+      "holder": "流动性救助视角",
+      "view": "以无息贷款注入流动性是有效解法",
+      "basis": "据维基摘要；待核实",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "罗马当局",
+      "view": "以无息贷款注入流动性化解危机（据维基摘要）",
+      "basis": "据维基摘要；细节待核实",
+      "sources": [
+        "w-en-crisis-33ce"
+      ]
+    }
+  ],
+  "comparison": "古代金融危机的著名案例，其\"货币收缩→信贷紧缩→资产崩盘→流动性救助\"链条与现代危机高度相似。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>公元33年金融危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币收缩</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信贷紧缩</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>流动性救助</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
     "w-en-financial-crisis"
@@ -26,5 +96,5 @@
     "cameroon-crisis-1987"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作I】升L2(据REST摘要)。"
 }

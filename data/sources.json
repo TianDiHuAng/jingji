@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 221,
+  "count": 222,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2649,6 +2649,18 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/U.S._state_defaults_in_the_1840s",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-crisis-33ce",
+      "title": "Financial crisis of 33",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Financial_crisis_of_33",
       "url2": null,
       "verified": true,
       "link_ok": true,
