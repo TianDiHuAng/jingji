@@ -419,6 +419,18 @@
       "check_result": "PASS (386); check_links 397页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "AE: 新增13条危机理论/国际收支概念(Diamond-Dybvig银行挤兑模型/投机攻击/自我实现的预言/财政空间/经常账户/双赤字假说/法定贬值/资本账户/金融创新/金融脆弱性/信贷周期/杠杆周期/货币联盟)。"
+    },
+    {
+      "round": "续作AF",
+      "date": "2026-11-23",
+      "new_entries": 14,
+      "upgraded": 0,
+      "reviewed": 14,
+      "fixed": 1,
+      "sources_total": 462,
+      "check_result": "PASS (400); check_links 411页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "AF: 新增14条宏观政策/预期概念(前瞻指引/紧缩/结构调整SAP/贷款条件性/债务积压/原罪/浮动恐惧/理性预期/卢卡斯批判/动态不一致/名义刚性/菜单成本/货币政策传导机制/适应性预期)。**总条目突破400**。"
     }
   ]
 }
