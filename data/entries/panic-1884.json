@@ -1,7 +1,7 @@
 {
   "id": "panic-1884",
   "title": "1884年恐慌",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "银行",
   "one_line": "1884年恐慌：发生于18—19世纪、地区为欧洲的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=欧洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1882,
+      "display": "1882—1885年",
+      "event": "美国处于1882-85年萧条期（据 Wikipedia Panic of 1884）",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
+      "year": 1884,
+      "display": "1884年",
+      "event": "恐慌在衰退末期而非初期爆发，造成信贷短缺、把衰退拖成萧条（同上）",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "在1882-85萧条末期爆发 → 信贷短缺",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
+      "step": "信贷紧缩 → 经济显著下滑",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
+      "step": "把衰退转为萧条",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "信贷紧缩视角",
+      "view": "恐慌造成信贷短缺、加深衰退",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
+      "holder": "周期时点视角",
+      "view": "在衰退末期爆发，冲击不同于常规",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "美国19世纪末多起恐慌之一(1873/1884/1893)；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1884年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美国处于1882-85年</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-panic-of-1884"
@@ -26,5 +88,5 @@
     "panic-1792"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。 【续作】升L2(据REST摘要)。"
 }

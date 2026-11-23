@@ -1,7 +1,7 @@
 {
   "id": "great-recession-russia",
   "title": "俄罗斯大衰退",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,87 @@
   "crisis_type": "银行",
   "one_line": "俄罗斯大衰退：发生于21世纪、地区为欧洲的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=欧洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2008,
+      "display": "2008—2009年",
+      "event": "俄罗斯金融市场危机与经济衰退，叠加格鲁吉亚战争后的政治担忧（据 Wikipedia Great Recession in Russia）",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "乌拉尔重质原油自7月4日峰值147美元跌逾70%（同上）",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "油价自147美元峰值暴跌逾70% + 格鲁吉亚战争政治担忧 → 资本外流与市场动荡",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "step": "金融市场危机 → 经济衰退",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "step": "2009年温和反弹",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "乌拉尔原油跌幅(2008)",
+      "value": 70,
+      "unit": "%（自147美元/桶峰值，2008年）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：lost more than 70% of its value since its record peak of US$147 on 4 July 2008；单一来源待核实。",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "大宗商品/油价视角",
+      "view": "油价暴跌是核心冲击",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "holder": "地缘政治视角",
+      "view": "战争与政治担忧放大资本外流",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "与2008全球金融危机同期；资源型经济体受油价冲击尤重。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>俄罗斯大衰退：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>俄罗斯金融市场危机与经济</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-great-recession-in-russia"
@@ -26,5 +100,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-great-recession-in-russia替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-great-recession-in-russia替换兜底，待核实。 【续作】升L2(据REST摘要)。"
 }

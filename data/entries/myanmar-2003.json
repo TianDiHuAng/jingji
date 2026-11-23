@@ -1,7 +1,7 @@
 {
   "id": "myanmar-2003",
   "title": "2003年缅甸银行危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,67 @@
   "crisis_type": "银行",
   "one_line": "2003年缅甸银行危机：发生于21世纪、地区为亚洲的银行类案例（轮次4新条目，骨架）。",
   "overview": "2003年缅甸银行危机 是经权威大纲（Wikipedia List of banking crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 2003,
+      "display": "2003年2月",
+      "event": "缅甸私营银行遭大规模挤兑，起于对私营金融机构信心下降与流动性谣言（据 Wikipedia 2003 Myanmar banking crisis）",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "小金融企业倒闭+关于大行流动性的谣言 → 信任下降",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    },
+    {
+      "step": "对Asia Wealth Bank挤兑 → 迅速蔓延至所有主要私营银行",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    },
+    {
+      "step": "银行业危机",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "信心/挤兑视角",
+      "view": "谣言与信心崩塌引发挤兑",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    },
+    {
+      "holder": "金融脆弱视角",
+      "view": "私营金融机构脆弱性放大传染",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    }
+  ],
+  "comparison": "新兴市场银行挤兑案例；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2003年缅甸银行危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>缅甸私营银行遭大规模挤兑</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-myanmar-2003",
     "w-en-bank-run"
@@ -26,5 +80,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【续作】升L2(据REST摘要)。"
 }

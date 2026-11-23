@@ -1,7 +1,7 @@
 {
   "id": "henan-2022",
   "title": "2022年河南银行危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,79 @@
   "crisis_type": "银行",
   "one_line": "2022年河南银行危机：发生于21世纪、地区为亚洲的银行类案例（轮次4新条目，骨架）。",
   "overview": "2022年河南银行危机 是经权威大纲（Wikipedia List of banking crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "2022年",
+      "event": "河南四家村镇银行储户因资金问题示威，涉及约400亿元存款（据 Wikipedia 2022 Henan banks protests）",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "涉事村镇银行资金/治理问题 → 储户取款困难",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    },
+    {
+      "step": "储户维权示威 → 引发关注",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    },
+    {
+      "step": "暴露出村镇银行风险与监管问题(待核实)",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "涉事银行存款规模",
+      "value": 400,
+      "unit": "亿元(约,河南四家村镇银行)",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：Deposits totaling around 40 billion yuan；单一来源待核实。",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "治理/欺诈视角",
+      "view": "涉金融腐败与资金问题",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    },
+    {
+      "holder": "监管/存款保障视角",
+      "view": "凸显中小银行监管与存款保障重要性",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-henan-2022"
+      ]
+    }
+  ],
+  "comparison": "中国村镇银行风险事件；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2022年河南银行危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>河南四家村镇银行储户因资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-henan-2022",
     "w-en-bank-run"
@@ -26,5 +92,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【续作】升L2(据REST摘要)。"
 }

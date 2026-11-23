@@ -1,7 +1,7 @@
 {
   "id": "ukrainian-crisis-2008",
   "title": "2008–2009乌克兰金融危机",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,90 @@
   "crisis_type": "货币",
   "one_line": "2008–2009乌克兰金融危机：发生于21世纪、地区欧洲的货币类案例（轮次5新条目，骨架）。",
   "overview": "2008–2009乌克兰金融危机 是经权威大纲对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
-  "timeline": [],
-  "causal_chain": [],
-  "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "timeline": [
+    {
+      "year": 2008,
+      "display": "2008—2009年",
+      "event": "乌克兰受全球衰退重创；世界银行预计2009年经济萎缩15%、通胀16.4%（据 Wikipedia 2008-09 Ukrainian financial crisis）",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "全球金融危机 → 外部融资与出口受冲击",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "step": "经济急剧萎缩、货币与银行承压",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "step": "世行预计2009年萎缩约15%",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "2009经济萎缩(世行预计)",
+      "value": -15,
+      "unit": "%(乌克兰,2009,世行预计)",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：World Bank expected Ukraine's economy to shrink 15% in 2009；单一来源待核实。",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "label": "通胀率(2009)",
+      "value": 16.4,
+      "unit": "%(乌克兰,2009)",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：inflation having been 16.4%；单一来源待核实。",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "外部冲击视角",
+      "view": "高度依赖外部融资与出口，受全球危机重创",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "holder": "宏观失衡视角",
+      "view": "通胀与外部失衡放大脆弱性",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    }
+  ],
+  "comparison": "东欧转型经济体在2008危机中的案例；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2008–2009乌克兰金融危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>乌克兰受全球衰退重创；世</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-ukrainian-crisis-2008",
     "w-en-russian-financial-crisis-2014-2016"
@@ -26,5 +103,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。"
+  "pending_notes": " 【续作】升L2(据REST摘要)。"
 }

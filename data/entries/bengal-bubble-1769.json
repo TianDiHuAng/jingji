@@ -1,7 +1,7 @@
 {
   "id": "bengal-bubble-1769",
   "title": "孟加拉泡沫(1769–1784)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U2 18—19世纪",
   "period": "18—19世纪",
@@ -9,13 +9,75 @@
   "crisis_type": "泡沫",
   "one_line": "孟加拉泡沫(1769–1784)：发生于18—19世纪、地区为亚洲的泡沫类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=18—19世纪、地区=亚洲、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 1757,
+      "display": "1757年",
+      "event": "东印度公司在克莱武率领下征服孟加拉（据 Wikipedia Bengal Bubble of 1769）",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    },
+    {
+      "year": 1769,
+      "display": "1757—1769年",
+      "event": "东印度公司股票被持续高估形成泡沫，1769年崩盘(\"大东印度崩盘\")（同上）",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "东印度公司征服孟加拉后权势与收益预期上升 → 股票估值持续走高",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    },
+    {
+      "step": "1757—1769年估值不断高估形成泡沫 → 1769年\"大东印度崩盘\"",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    },
+    {
+      "step": "重大金融危机并冲击市场",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "基本面/殖民收益视角",
+      "view": "征服孟加拉带来的收益预期推动股价",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    },
+    {
+      "holder": "投机泡沫视角",
+      "view": "估值脱离基本面最终崩盘",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-bengal-bubble-of-1769"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "comparison": "18世纪早期殖民贸易泡沫案例，与南海/密西西比泡沫同期相继。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>孟加拉泡沫(1769–1784)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>东印度公司在克莱武率领下</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
     "w-en-bengal-bubble-of-1769",
@@ -27,5 +89,5 @@
     "panic-1825"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-bengal-bubble-of-1769。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-bengal-bubble-of-1769。 【续作】升L2(据REST摘要)。"
 }

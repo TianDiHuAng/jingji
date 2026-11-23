@@ -1,7 +1,7 @@
 {
   "id": "venezuelan-banking-2009",
   "title": "委内瑞拉银行危机(2009–2010)",
-  "level": "L1",
+  "level": "L2",
   "tier": "补充",
   "unit": "U5 21世纪",
   "period": "21世纪",
@@ -9,13 +9,67 @@
   "crisis_type": "银行",
   "one_line": "委内瑞拉银行危机(2009–2010)：发生于21世纪、地区为拉美的银行类案例（条目骨架，详细内容待补充）。",
   "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=21世纪、地区=拉美、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
-  "timeline": [],
-  "causal_chain": [],
+  "timeline": [
+    {
+      "year": 2009,
+      "display": "2009—2010年",
+      "event": "委内瑞拉政府接管多家银行，因与查韦斯支持者相关的机构经营困难暴露（据 Wikipedia Venezuelan banking crisis of 2009–2010）",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "关联政治支持者的银行从事可疑业务 → 资本不足/挪用",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    },
+    {
+      "step": "问题暴露 → 政府接管多家银行",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    },
+    {
+      "step": "银行业危机",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    }
+  ],
   "key_data": [],
-  "schools": [],
-  "policy_response": [],
-  "comparison": "",
-  "svg": "",
+  "schools": [
+    {
+      "holder": "治理/关联交易视角",
+      "view": "银行向高管放贷、资本不足等治理问题",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    },
+    {
+      "holder": "政治经济视角",
+      "view": "与政治关联的机构风险积累",
+      "basis": "据维基摘要归纳；具体表述待核实",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施及效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "comparison": "委内瑞拉2009-10银行危机；具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委内瑞拉银行危机(2009–2010)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>委内瑞拉政府接管多家银行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
     "w-en-venezuelan-banking-crisis-of-2009-2010"
@@ -26,5 +80,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。 【续作】升L2(据REST摘要)。"
 }
