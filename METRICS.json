@@ -1246,6 +1246,18 @@
       "check_result": "PASS (592); check_quality 606页 0 problem",
       "spot_check": "发现4个概念缺口；数据合理性0异常；新检查工具通过",
       "note": "维基第25轮不可达。EQ/ER两项：①**新增检查方法**：把\"条目文本中的英文术语引用\"与\"站内 id 集合\"做差集，系统发现概念缺口。39个引用中8个站内不存在，逐一核对上下文后：4个属英文术语标注（residency-based/mini-crash/de-risking/originate-to-distribute，应保留原文），4个是真正的概念缺口（bank-resolution银行处置、leverage-ratio杠杆率、ring-fencing圈护、inflation-tax通胀税），已记入BACKLOG。方法脚本固化为 _research/EQ_refcheck.py，每次新增内容后可重跑。②**数据合理性检查全部通过**：key_data 极端值仅2个且均为真实历史数据（魏玛1923年汇率4.2万亿马克/美元、南斯拉夫1992年月通胀3.13亿%）；timeline 546事件年份范围 -300 至 2026，唯一\"异常\"是公元前300年罗马铸币（合理）；key_data 7个字段357条**无空值**。③**新增 tools/check_quality.py**：把round 39-43发现的10类HTML结构问题固化为一键检查工具，首跑606页全部通过（唯一description 606、唯一title 606）。README 已更新。"
+    },
+    {
+      "round": "续作ES-EV",
+      "date": "2026-11-24",
+      "new_entries": 18,
+      "upgraded": 18,
+      "reviewed": 29,
+      "fixed": 2,
+      "sources_total": 712,
+      "check_result": "PASS (610); 三道检查全绿",
+      "spot_check": "总条目 592→610；comparison/related 双 100%",
+      "note": "**维基百科恢复**（前25轮全部不可达）。ES/ET/EU/EV四步完成首批补建：①抓取29个BACKLOG概念摘要（26成功+3修正slug），逐一核对内容匹配度，发现10个维基无独立条目（重定向到宽泛条目：bank-resolution→bank failure、clearage-ratio→leverage、ring-fencing→hypothecation、taper-tantrum→QE、term-premium→yield curve、originate-to-distribute→securitization等），**未强建以免用错误来源**；②为19个内容匹配者中18个新建条目（externality已存在），涵盖长期缺失的**基础概念地基**：经济增长、衰退、效用、市场失灵、寻租、预期、有效需求、收敛、莫迪利亚尼-米勒定理、股权溢价之谜、对手方风险、部分准备金银行、次级化、自营交易、共同基金、纳斯达克、欧洲美元、股息。这直接回应了round 37的判断——本站概念覆盖偏向\"金融专门术语\"而基础地基不完整；③每个新条目均含摘要来源、对照辨析、语义关联，comparison与related重回100%；④新增17个维基来源（695→712）。总条目592→610、站点606→624页。三道检查全绿。"
     }
   ]
 }

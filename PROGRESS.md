@@ -622,6 +622,27 @@
 - 续作ER：**新增 `tools/check_quality.py`**——把 round 39–43 陆续发现的 **10 类 HTML 结构问题**固化为一键检查工具（标题跳级／重复 id／表格缺 th／缺 description／重复 description／重复 title／锚点不存在／h1 数量／重复 style／必需 head 元素）。首跑 606 页**全部通过**（唯一 description 606、唯一 title 606）。README 已更新。
 - 现状：**总592条，来源695，站点606页**；comparison 与 related 双 100%。三道检查（check / check_links / check_quality）全绿。
 
+- **维基百科恢复**（前 25 轮全部不可达）。本轮完成首批概念补建，总条目 **592 → 610**。
+- 步骤：抓取 29 个 BACKLOG 概念摘要 → 逐一核对内容匹配度 → 建条目 → 补辨析与关联。
+- **关键判断：10 个概念维基无独立条目，未强建**。它们都重定向到了宽泛条目：
+
+  | 概念 | 重定向到 |
+  |---|---|
+  | `bank-resolution` | Bank failure |
+  | `leverage-ratio` | Leverage (finance) |
+  | `ring-fencing` | Hypothecation (tax) |
+  | `taper-tantrum` | Quantitative easing |
+  | `term-premium` | Yield curve |
+  | `originate-to-distribute` | Securitization |
+  | 另 4 个 | 同类 |
+
+  用错误的上位条目做来源，等于让"银行处置"条目引用"银行倒闭"的内容——内容对不上。宁可留空。
+- **新建 18 个条目**，正是 round 37 指出的"基础概念地基"：
+  经济增长、衰退、效用、市场失灵、寻租、预期、有效需求、收敛、莫迪利亚尼-米勒定理、股权溢价之谜、对手方风险、部分准备金银行、次级化、自营交易、共同基金、纳斯达克、欧洲美元、股息。
+- 每个新条目均含：摘要来源、对照辨析（如衰退 vs 萧条、市场失灵 vs 政府失灵、效用 vs 价值、收敛 vs 分化）、语义关联。
+- `comparison` 与 `related` 重回 **100%（610/610）**；来源 **695 → 712**；站点 **606 → 624 页**。
+- 三道检查（check / check_links / check_quality）**全绿**。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
