@@ -7,34 +7,46 @@
   "period": "理论制度",
   "region": "全球",
   "crisis_type": "制度",
-  "one_line": "IMF与世界银行向遭遇经济危机的国家提供的贷款，旨在调整该国经济结构。",
-  "overview": "结构调整计划（SAP）由国际货币基金组织（IMF）与世界银行（WB）向经历经济危机的国家提供贷款构成。其宣称目的是调整该国的经济（结构）。这类计划通常附带政策条件，其效果与社会代价存在长期争议。具体内容待核实。",
+  "one_line": "IMF与世界银行向遭遇经济危机的国家提供的结构调整贷款，以调整其经济结构为条件。",
+  "overview": "结构调整计划（SAP）由国际货币基金组织（IMF）和世界银行（WB）向遭遇经济危机的国家提供的贷款（结构调整贷款，SAL）构成。其公开目的是调整该国的经济结构（以恢复增长与国际收支平衡），通常附带财政紧缩、私有化与贸易自由化等条件。批评者指出，1980—1992年间因价格下跌，发展中国家损失了52%的出口收入，且伴随社会代价。具体争论待核实。",
   "timeline": [],
   "causal_chain": [
     {
-      "step": "国家遭遇经济危机 → 向 IMF/世行求助",
+      "step": "发展中国家陷入债务与国际收支危机 → 求助于 IMF/世行",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    },
+    {
+      "step": "以结构调整贷款为条件 → 推动紧缩、私有化与自由化",
       "sources": [
         "w-en-structural-adjustment"
       ]
     },
     {
-      "step": "贷款附带结构调整与政策条件",
+      "step": "1980–1992 初级产品价格下跌 → 发展中国家损失52%出口收入",
       "sources": [
-        "w-en-conditionality"
-      ]
-    },
-    {
-      "step": "经济结构改变，但社会代价引发争议",
-      "sources": [
-        "w-en-washington-consensus"
+        "w-en-structural-adjustment"
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "发展中国家出口收入损失(1980–1992)",
+      "value": -52,
+      "unit": "%（因价格下跌）",
+      "year": 1992,
+      "comparable_price": false,
+      "note": "原文：developing countries lost 52% of their revenues from exports between 1980 and 1992 because of the decline in prices；单一来源待核实。",
+      "sources": [
+        "w-en-structural-adjustment"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "调整视角",
-      "view": "结构改革纠正失衡、恢复可持续增长",
+      "view": "结构调整恢复宏观平衡与增长潜力",
       "basis": "据来源/标准口径归纳；具体表述待核实",
       "sources": [
         "w-en-structural-adjustment"
@@ -42,21 +54,30 @@
     },
     {
       "holder": "批判视角",
-      "view": "条件苛刻、社会成本高、成效有限",
+      "view": "条件性加重社会代价、且外部价格冲击抵消调整效果",
       "basis": "据来源/标准口径归纳；具体表述待核实",
       "sources": [
         "w-en-washington-consensus"
       ]
     }
   ],
-  "policy_response": [],
-  "comparison": "宏观经济政策/预期理论概念，与其他概念互补；具体争论待核实。",
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>结构调整计划(SAP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国家遭遇经济危机 → 向</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款附带结构调整与政策条</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>经济结构改变，但社会代价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
+  "comparison": "与\"华盛顿共识\"高度重叠；拉美债务危机后与亚洲1997年后均有大规模应用。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>结构调整计划(SAP)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发展中国家陷入债务与国际</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以结构调整贷款为条件 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1980–1992 初级</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-structural-adjustment",
-    "w-en-conditionality"
+    "w-en-debt-crisis",
+    "w-en-structural-adjustment"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "L2：结构与数据据维基全文，单源待核实。【续作BO】"
 }

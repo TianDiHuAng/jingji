@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 530,
+  "total": 531,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -6891,6 +6891,19 @@
       "period": "21世纪",
       "region": "非洲",
       "crisis_type": "其他"
+    },
+    {
+      "id": "nz-finance-collapse",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "大洋洲",
+      "crisis_type": "银行"
     }
   ]
 }
