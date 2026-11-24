@@ -562,6 +562,18 @@
       "check_result": "PASS (509); check_links 522页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "BA: 新增5条1930年代货币制度案例(三方货币协定1936-09美法英/金集团法比卢荷意波瑞7国/英镑区/外汇平准账户EEA/美国黄金储备法1934-01-30)，填补矩阵「20世纪上半×货币」空白0→5。总509条，来源598。"
+    },
+    {
+      "round": "续作BB",
+      "date": "2026-11-24",
+      "new_entries": 3,
+      "upgraded": 0,
+      "reviewed": 3,
+      "fixed": 1,
+      "sources_total": 602,
+      "check_result": "PASS (512); check_links 525页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "BB: 新增3条罗马货币史(戴克里先价格敕令301年/罗马货币体系金币银币铜币黄铜/货币成色贬损debasement)，填补矩阵「早期—17世纪×恶性通胀」空白0→1。总512条，来源601。矩阵主要格子已全部有内容。"
     }
   ]
 }
