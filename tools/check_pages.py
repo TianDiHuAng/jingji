@@ -14,6 +14,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from kdclass import counts as _kdcounts
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, 'site')
 
@@ -60,8 +63,8 @@ def main():
         return (any(str(x).startswith(('owid-', 'org-')) for x in s)
                 and not any(str(x).startswith('fed-') for x in s))
 
-    conf = sum(1 for e in es for k in (e.get('key_data') or []) if _conf(k))
-    stat = sum(1 for e in es for k in (e.get('key_data') or []) if _stat(k))
+    _c = _kdcounts(es)
+    conf, stat = _c['confirmed'], _c['statview']
 
     expect = {
         '条目总数': len(es),

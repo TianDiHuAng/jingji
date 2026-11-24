@@ -3,6 +3,9 @@ import re
 """阶段5生成器：data/ + coverage + sources → site/ 纯HTML+CSS（零JS）。
 页面：首页、单元页×6、条目页×106、索引、时间线、来源列表、覆盖矩阵。"""
 import json, os, glob, re, html
+import sys as _sys
+_sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from kdclass import counts as _kdcounts
 from collections import defaultdict, Counter
 
 UNIT_INTRO = {
@@ -243,20 +246,9 @@ lv_count = Counter(e.get('level') for e in entries.values())
 ver_count = sum(1 for s in src['sources'] if s['verified'])
 kd_total = sum(len(e.get('key_data', []) or []) for e in entries.values())
 # 独立机构印证：仅限 fed-*（美联储历史站等独立撰写的史学研究），与验证页判据一致
-conf_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or [])
-                 if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
-                     or '完全一致' in (k.get('note') or ''))
-                 and any(str(x).startswith('fed-') for x in (k.get('sources') or []))
-                 and not any(w in (k.get('note') or '') for w in
-                             ('两源差异', '存在差异', '数据分歧', '口径不同')))
-# 统计口径对照：OWID／世界银行等（与维基数字同源于各国官方统计，独立性有限）
-stat_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or [])
-                 if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
-                     or '完全一致' in (k.get('note') or ''))
-                 and any(str(x).startswith(('owid-', 'org-')) for x in (k.get('sources') or []))
-                 and not any(str(x).startswith('fed-') for x in (k.get('sources') or []))
-                 and not any(w in (k.get('note') or '') for w in
-                             ('两源差异', '存在差异', '数据分歧', '口径不同')))
+_c_kd = _kdcounts(entries)
+conf_total = _c_kd['confirmed']
+stat_total = _c_kd['statview']
 # 跨语言对照：条目引用 >=2 种语言的维基
 def _nlang(e):
     ls = {str(x).split('-')[1] for x in (e.get('sources') or [])
@@ -500,6 +492,14 @@ open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖�
 
 # ---------- 数据核实状态页 ----------
 OFFICIAL_PREFIX = ('fed-', 'owid-')
+# 机构独立撰写的文献（独立撰写链条，非汇总各国统计）
+INDEP_DOC_IDS = {'org-imf-glossary', 'org-bis', 'org-fsb',
+                 'org-fed-history', 'org-fed-essay-1907', 'org-fed-essay-greatdep',
+                 'org-ecb'}
+# 汇总各国官方统计的数据源（与维基数字常同源）
+STAT_DATA_IDS = {'owid-dataset', 'owid-inflation', 'owid-gdp', 'owid-real-gdp',
+                 'owid-unemployment', 'owid-population', 'org-imf-data',
+                 'org-worldbank', 'org-fred', 'org-bea', 'org-ourworldindata'}
 vb = ['<h1>数据核实状态</h1>',
       '<p class="src-list">本页由数据自动生成：列出已被<b>两个独立来源印证</b>的关键数据，'
       '以及<b>两个来源存在差异、已如实并列</b>的数据。全站条目默认保持 need-verification 诚实标注，'
@@ -513,6 +513,8 @@ for _id, e in entries.items():
         _diffkw = ('两源差异','存在差异','差异显著','数据分歧','分歧较大','口径不同','不宜直接比较','相差')
         _confkw = ('双源印证','完全一致','印证')
         _is_diff = any(w in note for w in _diffkw) and not ('方向与量级一致' in note)
+        # 若 note 明示非独立来源或系转引，则不计入独立印证
+        _not_indep = any(w in note for w in ('不构成独立', '不构成相互独立', '原始出处', '系转引'))
         # 维基语种集合：该数据行 + 所属条目引用的全部 wiki 来源
         _allsrc = set(srcs) | set(e.get('sources', []) or [])
         _langs = {str(x).split('-')[1] for x in _allsrc
@@ -520,9 +522,13 @@ for _id, e in entries.items():
         _multilang = len({l for l in _langs if l in ('en', 'zh', 'de', 'fr', 'es', 'ja')}) >= 2
         if _is_diff:
             discrepant.append((e, k, has_official))
-        elif any(str(x).startswith('fed-') for x in srcs) and any(w in note for w in _confkw):
+        elif (any(str(x).startswith('fed-') for x in srcs)
+              or any(str(x) in INDEP_DOC_IDS for x in srcs)) \
+             and any(w in note for w in _confkw) and not _not_indep:
             confirmed.append((e, k, has_official))       # 独立撰写（美联储历史研究）
-        elif any(str(x).startswith(('owid-', 'org-')) for x in srcs) and any(w in note for w in _confkw):
+        elif (any(str(x).startswith('owid-') for x in srcs)
+              or any(str(x) in STAT_DATA_IDS for x in srcs)) \
+             and any(w in note for w in _confkw):
             statview.append((e, k, has_official))        # 不同统计口径对照
         elif _multilang:
             crosslang.append((e, k, has_official))       # 真正的跨语言维基对照

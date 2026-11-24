@@ -1750,6 +1750,18 @@
       "check_result": "PASS; 十一道检查全绿",
       "spot_check": "危机理论 16/20 覆盖；original-sin 补充并移除定义性 key_data",
       "note": "维基第68轮可用。IC-ID：**核查危机理论类，补充 original-sin，并自我纠正一处\"定义充数据\"**。①核查 20 个危机理论概念，**16 项已覆盖**（minsky-theory／debt-deflation／balance-sheet-recession／sudden-stop／self-fulfilling／contagion／original-sin／twin-crises／bank-run／liquidity-trap／debt-overhang／credit-crunch／fire-sale／asset-liability-mismatch／procyclicality／financial-accelerator）。②剩余的 `currency-mismatch` 经查**已被 `original-sin` 覆盖**（后者概述即\"货币错配使这些国家在贬值时承受资产负债表冲击\"），不另建；`doom-loop`／`disclosure`／`bank-resolution` 的维基页均无专属页面或为通用页，不作专属来源。③**补充 `original-sin`**：抓取其专属页全文（12,562 字符），补 timeline 3 条（1999 Eichengreen-Hausmann 提出／2001 与 Panizza 扩展为 OSIN1-3／2003 转向\"原罪的赎免\"），并把概述扩写为包含三个指标定义与**六个决定因素**（发展水平／货币可信度／债务负担／汇率制度／收益率曲线斜率／投资者基础规模）。④**自我纠正**：起初把\"OSIN 取值范围 0—1\"\"3 个指标\"\"6 个决定因素\"写成 3 条 key_data，随后意识到这些是**概念定义而非具体数值数据**，放进 key_data 会让读者误以为该条目有量化证据；已全部移除（key_data 3 → 0），并在 pending_notes 注明\"具体国别指标值待补来源后再录\"。同时修正 timeline 中一处中英混杂错字。⑤现状：**635 条**（案例 207／概念 428）、来源 733、页面 649、timeline 623、key_data 422。**十一道检查全绿**。"
+    },
+    {
+      "round": "续作IE-II",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 635,
+      "fixed": 2,
+      "sources_total": 734,
+      "check_result": "PASS; 十一道检查全绿（判据统一为共享模块）",
+      "spot_check": "首次用 IMF 一手文献补 sdr；修复 NBER 回归；抽取 kdclass 共享判据",
+      "note": "维基第69轮可用。IE-II：**突破\"仅依赖维基\"的来源边界，并根治\"两处代码算同一指标\"的结构问题**。①**来源边界突破**：测试发现 **IMF／BIS／FSB** 的官方页面均可访问，其中 **IMF Glossary**（9,535 字符）含监督、全球失衡、储备、SDR 的一手定义。这打破了 round 86/87 遇到的\"无专属维基页面即无法建条目\"的限制。②**首次使用国际机构一手文献**：注册 `org-imf-glossary` 并补 `sdr` 条目——篮子由**人民币／欧元／日元／英镑／美元**五种货币构成；最近一次审查 **2015 年 11 月**完成、新权重 **2016 年 10 月 1 日**生效；SDR 利率为篮子市场短期利率的**每周加权平均**、下限 **0.050%**。并新增 key_data 2 条、timeline 2 条。③**判据细化**：原判据简单按前缀（fed-* 独立、owid-*/org-* 统计汇总），但 `org-imf-glossary`／`org-bis`／`org-fsb` 是**机构独立撰写的文献**，不应归入\"统计汇总\"。已建立两份白名单分别标注。④**发现并修复回归 bug**：细化判据时把 `org-nber` 加入独立文献白名单，导致两条衰退条目（其 note 早已写明\"**NBER 为原始出处、维基为转引，不构成独立双源**\"）被重新算进\"独立印证\"（2→4 条）。已从白名单移除，并在判据中加入**否定词排除**（note 含\"不构成独立/原始出处/系转引\"者一律不计入印证类）。⑤**结构性根治**：把核实等级判据抽为共享模块 **`tools/kdclass.py`**，由 `gen_site.py` 与 `check_pages.py` **import 同一函数**——这才是 round 83 教训（两处代码算同一指标必然矛盾）的彻底解法。当前：独立机构印证 **2** 条、统计口径对照 **13** 条、差异并列 **12** 条，三处（首页/验证页/检查脚本）完全一致。⑥现状：**635 条**（案例 207／概念 428）、来源 734、页面 649、timeline 625、key_data 424。**十一道检查全绿**。"
     }
   ]
 }

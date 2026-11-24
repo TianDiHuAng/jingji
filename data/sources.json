@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 733,
+  "count": 734,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8763,6 +8763,18 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "org-imf-glossary",
+      "title": "IMF Glossary（国际货币基金组织术语表）",
+      "author": "International Monetary Fund",
+      "year": "2026",
+      "type": "权威机构",
+      "url": "https://www.imf.org/en/About/Glossary",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "IMF 官方术语表；含监督、全球失衡、储备、SDR 等条目的一手定义。注意：部分段落为较早快照（如提及\"下次审查2011年\"），引用时须核对时点"
     }
   ]
 }
