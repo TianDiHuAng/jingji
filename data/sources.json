@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 730,
+  "count": 731,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8727,6 +8727,18 @@
       "verified": true,
       "link_ok": true,
       "note": "中文维基百科 API 核对（跨语言对照来源）"
+    },
+    {
+      "id": "w-en-leading-indicator",
+      "title": "Economic indicator",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economic_indicator",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
     }
   ]
 }

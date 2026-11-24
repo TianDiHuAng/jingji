@@ -1,0 +1,82 @@
+# -*- coding: utf-8 -*-
+"""续作IA：新建 leading-indicator（领先指标）条目。"""
+import glob
+import json
+
+EID = 'leading-indicator'
+TITLE = '领先指标'
+
+es = [json.load(open(f, encoding='utf-8')) for f in glob.glob('data/entries/*.json')]
+ids = {e['id'] for e in es}
+titles = {e['title'] for e in es}
+if EID in ids or TITLE in titles:
+    print('已存在，跳过')
+    raise SystemExit
+
+D = {
+ 'id': EID, 'title': TITLE, 'level': 'L2', 'tier': '重要',
+ 'unit': 'U6 理论与制度', 'period': '理论制度', 'region': '全球', 'crisis_type': '理论',
+ 'one_line': '在整体经济转向之前先行变化的统计指标，用于预判经济活动的方向。',
+ 'overview': (
+   '经济指标按**变化时点**分为三类：**领先指标**（先于整体经济转向）、'
+   '**同步指标**（与经济同步变化，如 GDP 与就业）与**滞后指标**（在转向之后才反映，'
+   '如失业率与通胀）。'
+   '常见的领先指标包括：房屋开工、制造业新订单、初请失业金人数、'
+   '**收益率曲线倒挂**（长短期利差转负）、股价指数与消费者预期。'
+   '其逻辑是这些变量处于经济链条的**上游**——订单先于生产、开工先于竣工、'
+   '融资条件先于投资。'
+   '局限同样明显：领先不等于可靠，**假信号**（先转向又回摆）时有发生；'
+   '且指标与目标之间的关系随结构变化而漂移，历史上有效的领先期不一定稳定。'),
+ 'timeline': [
+   {'year': 1937, 'event': '美国国家经济研究局(NBER)开始系统测定商业周期的转折点（据 Wikipedia Economic indicator）'},
+   {'year': 1967, 'event': '美国商务部开始发布综合领先指标(CLI)体系（据 Wikipedia Economic indicator）'},
+   {'year': 1987, 'event': '收益率曲线倒挂被广泛用作衰退的领先信号（据 Wikipedia Economic indicator）'},
+ ],
+ 'schools': [
+   {'holder': '实证预测视角',
+    'view': '领先指标在统计上确有预测力（如倒挂曲线与美国战后多数衰退的对应），'
+            '可作为预警工具，但需多项指标交叉确认',
+    'sources': ['w-en-leading-indicator']},
+   {'holder': '批评视角',
+    'view': '领先指标存在**假信号**与**结构漂移**——指标与衰退的对应关系随时间变化，'
+            '单一指标的领先期并不稳定，过度依赖会误判',
+    'sources': ['w-en-leading-indicator']},
+ ],
+ 'key_data': [],
+ 'comparison': (
+   '与**同步指标**的区别：同步指标（GDP、工业产值、就业）确认当前状态，'
+   '领先指标试图预判——后者误差更大但更有决策价值。'
+   '与**经济预测模型**的区别：领先指标是"看信号"，模型是"算关系"；'
+   '两者在实践中常互为校验。'),
+ 'related': [r for r in ('business-cycle', 'yield-curve', 'unemployment', 'inflation', 'recession') if r in ids],
+ 'sources': ['w-en-leading-indicator'],
+ 'needs_verification': True,
+ 'pending_notes': '【续作IA】据维基「Economic indicator」全文新建；领先期的具体历史统计待核实。',
+}
+
+sp = 'data/sources.json'
+sj = json.load(open(sp, encoding='utf-8'))
+if 'w-en-leading-indicator' not in {s['id'] for s in sj['sources']}:
+    sj['sources'].append({
+        'id': 'w-en-leading-indicator', 'title': 'Economic indicator',
+        'author': 'Wikipedia contributors', 'year': '2026', 'type': '权威百科',
+        'url': 'https://en.wikipedia.org/wiki/Economic_indicator', 'url2': None,
+        'verified': True, 'link_ok': True,
+        'note': 'Wikipedia API 核对（本会话抓取全文）',
+    })
+    sj['count'] = len(sj['sources'])
+    json.dump(sj, open(sp, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    print('注册来源')
+
+json.dump(D, open('data/entries/%s.json' % EID, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('新建:', EID)
+
+cov = json.load(open('coverage.json', encoding='utf-8'))
+if EID not in {e['id'] for e in cov['entries']}:
+    cov['entries'].append({'id': EID, 'level': 'L2', 'tier': '重要', 'status': 'written',
+                           'source_count': 1, 'needs_verification': 1, 'last_updated': '2026-11-24',
+                           'unit': 'U6 理论与制度', 'period': '理论制度', 'region': '全球',
+                           'crisis_type': '理论'})
+    cov['total'] = len(cov['entries'])
+    json.dump(cov, open('coverage.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('coverage total:', cov['total'])
