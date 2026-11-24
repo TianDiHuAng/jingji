@@ -1030,6 +1030,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "案例policy_response覆盖 4%→19%；站点606页全部可达",
       "note": "维基第7轮不可达。DO两项:①站点可达性分析:606页全部从首页BFS可达,无入链页面0;②补写policy_response——首版宽关键词生成103条,抽验发现多篇把成因当政策,全部撤回;严格版(须同时含政策主体+动作)生成39条,逐条核验后再撤回8条仍属成因/背景者,最终保留31条合格项。教训:关键词匹配无法区分\"政策作为成因\"与\"政策作为应对\",须人工核验。policy_response总项数40。"
+    },
+    {
+      "round": "续作DP-DQ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 10,
+      "reviewed": 20,
+      "fixed": 0,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "案例政策覆盖 19%→24%",
+      "note": "维基第8轮不可达。DP/DQ延续人工核验方式,逐条阅读overview判断是否有政策依据,为10条案例补写policy_response:bank-crisis-2023(全额保护未保险存款+BTFP)、argentina-crisis-2001(终结兑换制+2006还清IMF)、assignat-1790s(法定清偿→1796废止)、banking-act-1935(立法改组美联储)、archegos-2021(无救助,仅刑事追责判18年)、albania-pyramid-1997(国际干预重建)、black-friday-1869(财政部抛售400万美元黄金)、black-monday-1987(引入熔断机制)、brazil-hyper-1980(四轮稳定计划+1994雷亚尔计划)、cameroon-crisis-1987(SAP结构调整+CFA贬值50%)。每条均标注\"政策主体+动作\"依据并剔除成因表述。案例覆盖19%→24%(50/205)。"
     }
   ]
 }
