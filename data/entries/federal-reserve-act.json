@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "改革前全国硬币与纸币总额",
+      "value": 3.8,
+      "unit": "十亿美元",
+      "year": 1913,
+      "comparable_price": false,
+      "note": "原文：the roughly $3.8 billion in coins and banknotes did not provide an adequate money supply；单一来源待核实。",
+      "sources": [
+        "w-en-federal-reserve-act"
+      ]
+    },
+    {
+      "label": "会员银行在联邦储备银行享有的年度股息率",
+      "value": 6,
+      "unit": "%",
+      "year": 1913,
+      "comparable_price": false,
+      "note": "原文：a 6% annual dividend in their Federal Reserve；单一来源待核实。",
+      "sources": [
+        "w-en-federal-reserve-act"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "制度补缺视角",
@@ -72,5 +95,5 @@
     "panic-1907"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FS】补充 key_data。"
 }

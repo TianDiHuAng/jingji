@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "英王欠美第奇银行的款项（14世纪）",
+      "value": 10500,
+      "unit": "英镑",
+      "year": 1400,
+      "comparable_price": false,
+      "note": "原文：the English king owed 10,500 pounds sterling (equivalent to £10.5 million in 2025)；单一来源待核实。",
+      "sources": [
+        "w-en-medici-bank"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "金融创新视角",
@@ -80,5 +92,5 @@
     "history-of-banking"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】 【续作FS】补充 key_data。"
 }

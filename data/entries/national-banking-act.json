@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "1862年法定货币法授权发行额",
+      "value": 150,
+      "unit": "百万美元",
+      "year": 1862,
+      "comparable_price": false,
+      "note": "原文：Congress approved the Legal Tender Act of 1862, allowing the issue of $150 million；单一来源待核实。",
+      "sources": [
+        "w-en-national-bank-act"
+      ]
+    },
+    {
+      "label": "第二次法定货币法后的发行额",
+      "value": 450,
+      "unit": "百万美元",
+      "year": 1862,
+      "comparable_price": false,
+      "note": "原文：The Second Legal Tender Act, enacted July 11, 1862；单一来源待核实。",
+      "sources": [
+        "w-en-national-bank-act"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "制度缺陷视角",
@@ -80,5 +103,5 @@
     "second-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FS】补充 key_data。"
 }
