@@ -2722,6 +2722,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "cross-ref 全净（0 未知id）；发现远程仓库停在 2026-11-22、约 415 提交未备份，记 BACKLOG",
       "note": "维基第149轮可用。PH：交叉引用完整性核查（干净）+ 发现并记录备份风险。\n①**交叉引用核查**：comparison 字段引用未知 id = **0**、过短(<20字) = **0**；**全域（overview/comparison/policy/schools/causal/timeline）backtick id 引用未知 = 0**——所有内联 id 均指向真实条目或来源。\n②**备份风险（新发现）**：用可达的 GitHub API 查远程 `TianDiHuAng/jingji`（public）——`pushed_at = 2026-11-22`（约 round 25），此后本地 **约 415 提交（round 26–169）未推送**；本会话**无 GitHub token**，无法自动推送。已记入 BACKLOG「备份风险」，建议有凭证时 `git push origin main`。\n③十一道检查全绿、自测 34/34。\n④现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
+    },
+    {
+      "round": "续作PI",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 3,
+      "fixed": 1,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
+      "spot_check": "3 条缺全文条目诚实性合格（无编造）；REPORT 遗留补备份风险与网络诊断",
+      "note": "维基第150轮可用。PI：核查 3 条缺全文条目的诚实性（均无编造）+ 更新 REPORT 遗留（含备份风险）。\n①**DBpedia 摘要端点彻底不可用**（对 Berlin 等也返回 0 行，非仅目标资源），放弃该绕行。\n②**核查 3 条缺全文条目**（south-sea-bubble-1720／bear-stearns／bcci）：均 needs_verification=True、概述注明\"暂缺维基全文…待补\"、无编造的价格/人物细节。bear-stearns 的两条 key_data（$13.40T 衍生品名义额、$28B level-3 资产 vs $11B 净权益）均有\"原文\"引述、系真实数据（仅本地无缓存），非编造。**诚实性合格**。\n③**更新 REPORT.md 遗留节**：新增\"成果未备份到 GitHub\"（远程 pushed_at 停在 2026-11-22、约 415 提交未推、无 token 无法自动推）与网络白名单式诊断说明。\n④十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
     }
   ]
 }

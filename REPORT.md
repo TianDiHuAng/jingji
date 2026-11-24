@@ -41,8 +41,11 @@
 1. **3 条案例缺专属维基全文**：`south-sea-bubble-1720`／`bear-stearns`／`bcci`——本会话网络持续超时，其概述仅据条目内已核事实与机制撰写，**具体细节待补**。
 2. **6 条缓存为通用页**：`dutch-stock-crashes`／`panic-1896`／`panic-1910`／`us-video-game-crash-1983`／`yemen-currency-divergence`（另 `recession` 属正常）——条目内容与引用正确，仅本地无法逐数核对。
 3. **部分数字仅弱匹配**：多为 OWID/机构数据（不在维基全文）或推导值，**不代表错误**，需人工判断。
+4. **成果未备份到 GitHub（需人工处理）**：远程仓库 `TianDiHuAng/jingji` 的 `pushed_at` 停在 2026-11-22（约 round 25），此后本地约 415 个提交未推送；本会话无 GitHub token，无法自动推送。**建议有凭证时 `git push origin main`。** 详见 `BACKLOG.md`。
 
-以上均已在 `BACKLOG.md`／各条目 `pending_notes` 标注，网络恢复即可补齐。
+以上 1–3 均已在 `BACKLOG.md`／各条目 `pending_notes` 标注，网络恢复即可补齐。
+
+> 网络诊断（round 167–168）：出网为**白名单式**——github／baidu 等少数可达，维基被 DNS 污染 + TLS 黑洞双重拦截，archive.org 与各种 CORS 代理均不可用，DBpedia 摘要端点返回空。故维基内容在本会话无法取回。
 
 ## 五、下一步
 
