@@ -1928,6 +1928,24 @@
 - **round 94 的接线检查再次生效**，批量修复并对称化 **37 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 620 字**；含换行 **0**；**ERRORS 0**、WARNINGS 136（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 101 轮可用（round 120）**。**扩写 21 条（WARNINGS 136 → 115）**。
+- **第一批 12 条**：public-choice／reserve-currency／reserve-requirement／short-selling／time-inconsistency／wto／yield-curve／capital-flight／credit-risk／demographic-dividend／import-substitution／netting。
+- **第二批 9 条**：optimum-currency-area／says-law／tobin-tax／aggregate-supply／derivative／esrb／nairu／sarbanes-oxley／credit-rating。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `time-inconsistency` | 讲清「**为什么监管要提前设计**」——事前最优是「绝不救助」，但事后必然救助，故承诺不可信；**解决办法不是更坚定的承诺，而是改变事后的激励结构** |
+  | `credit-rating` | 「评级依赖」是核心问题——当规则直接引用评级，评级就从「一种意见」变成「**具有法律效力的开关**」，降级触发被动抛售（cliff effect） |
+  | `sarbanes-oxley` | 纠正常见误解——**它并未阻止 2008 年危机**，因为危机主体是不受该法约束的金融机构的风险承担；教训是「**针对上一次丑闻的改革，未必能防住下一次危机的形态**」 |
+  | `nairu` | 坦承「该概念是**有用的组织框架，但不是可靠的数值目标**」 |
+  | `esrb` | 点出宏观审慎的普遍困境——**成功是不可见的（没有发生的危机），成本是可见的** |
+  | `netting` | 区分三种层次，并指出**终止净额**在雷曼破产中的关键作用 |
+
+- 沿用三引号 + 保存前换行规范化，两批**语法与渲染均一次通过**。
+- **round 94 的接线检查再次生效**，批量修复并对称化 **29 条**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 680 字**；**ERRORS 0**、WARNINGS 115（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

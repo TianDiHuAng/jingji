@@ -61,7 +61,8 @@
     "behavioral-finance",
     "contagion",
     "coordination-games",
-    "speculative-bubble"
+    "speculative-bubble",
+    "tobin-tax"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作EC】补写概念辨析。 【续作KQ】overview 扩写 83 → 363 字。"

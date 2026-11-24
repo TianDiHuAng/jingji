@@ -66,6 +66,7 @@
     "otc",
     "put-option",
     "risk-management",
+    "short-selling",
     "speculation"
   ],
   "needs_verification": true,

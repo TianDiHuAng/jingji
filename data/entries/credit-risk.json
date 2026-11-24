@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "借款人未能偿还贷款或履行债务义务的可能性。",
-  "overview": "信用风险是借款人未能偿还贷款或履行贷款义务的可能性。对贷款方而言，该风险包括利息与本金的延迟或损失，导致现金流中断与催收成本上升；损失可能是全部或部分的。在有效市场中，较高信用风险将对应更高的风险溢价。具体度量待核实。",
+  "overview": "信用风险(credit risk) 指**交易对手未能按约定履行偿付义务**而使一方遭受损失的风险，包括**违约风险**（本金或利息未付）与**信用迁移风险**（评级下调导致市值损失，即使未违约）。**它与市场风险的分工**（见 market-risk）：**市场风险**是\"价格变了\"；**信用风险**是\"对方不还钱\"。**度量方法**：**违约概率(PD)**、**违约损失率(LGD)**、**违约敞口(EAD)**，以及三者的组合（**预期损失 = PD × LGD × EAD**）；**信用评级**（见 credit-rating）与**信用利差**（见 risk-premium）是市场的实时度量；**压力测试**（见 stress-test）则评估极端情景下的损失。**与危机的关系（四层）**：①**信用风险的\"突然重估\"是危机的触发点**——当市场意识到某类资产的违约率远高于模型假设时，价格会瞬间重估；②**它是顺周期的**——繁荣期低估、危机中高估（见 procyclicality）；③**信用风险可以转移但不能消灭**——通过 CDS（见 credit-default-swap）、证券化（见 securitization）与担保（见 credit-enhancement），风险被重新分配，但**总敞口仍在系统中**；④**信息不对称使信用风险难以评估**——这正是金融中介与监管存在的理由（见 information-asymmetry）。",
   "timeline": [],
   "causal_chain": [
     {
@@ -60,12 +60,17 @@
     "bond",
     "counterparty-risk",
     "credit-default-swap",
+    "credit-enhancement",
     "credit-rating",
     "credit-rationing",
+    "information-asymmetry",
     "junk-bond",
     "market-risk",
-    "risk-premium"
+    "procyclicality",
+    "risk-premium",
+    "securitization",
+    "stress-test"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作DY】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作DY】补写概念辨析。 【续作LH】overview 扩写 109 → 636 字。"
 }

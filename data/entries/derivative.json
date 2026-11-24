@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "买卖双方之间以未来标的交易为内容的合约。",
-  "overview": "金融衍生品是买方与卖方之间的合约，形式多样，但都包含四个要素：可或必须买卖的标的、必须发生的未来行为、未来交易必须执行的价格，以及该行为必须完成的未来日期。衍生品用于对冲与投机，其对手方与杠杆风险受关注。具体品种待核实。",
+  "overview": "金融衍生品(derivative) 指**价值来源于标的资产（股票、债券、商品、利率、汇率或信用事件）价格变动的合约**，包括期货、期权（见 futures、option）、掉期（见 swap）、远期（见 forward-contract）与信用违约互换（见 credit-default-swap）。**四大类用途**：①**套期保值**(hedging)——转移价格、利率或汇率风险；②**投机**（见 speculation）——承担风险以获取收益；③**套利**（见 arbitrage）——锁定无风险价差；④**结构化设计**——把风险切分、重组后出售（见 securitization、collateralized-debt-obligation）。**它的正当功能是明确的**：衍生品使风险可以被**单独定价与转移**，从而提高经济效率——农民可以锁定粮价、出口商可以锁定汇率、银行可以转移利率风险。**但它有三条通向危机的路径**：①**杠杆**——衍生品只需少量保证金即可控制大额头寸（见 margin-finance）；②**不透明**——尤其在场外市场（见 otc），**没人知道总敞口与对手方网络**；③**风险的集中**——风险在转移中可能集中到少数机构（如 AIG 的 CDS 业务），使\"分散\"变成\"集中\"。**一个根本的判断标准**：**衍生品是否让风险落到更有能力承担它的人手里**——若是，它提高效率；**若只是让风险变得更不可见，它就是在积累脆弱性。**",
   "timeline": [],
   "causal_chain": [
     {
@@ -57,6 +57,7 @@
     "w-en-systemic-risk"
   ],
   "related": [
+    "arbitrage",
     "black-scholes",
     "credit-default-swap",
     "forward-contract",
@@ -64,10 +65,13 @@
     "hedge-fund",
     "hedging",
     "interest-rate-swap",
+    "margin-finance",
     "option",
     "otc",
+    "securitization",
+    "speculation",
     "swap"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作ED】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作ED】补写概念辨析。 【续作LI】overview 扩写 110 → 646 字。"
 }
