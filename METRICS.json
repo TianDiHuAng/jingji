@@ -1510,6 +1510,18 @@
       "check_result": "PASS; 九道检查全绿；PROGRESS.md 已恢复（1012行）",
       "spot_check": "修复误删979行历史记录的事故",
       "note": "维基第48轮可用。**本轮主要处理一起自己造成的事故**：round 66 用正则替换 PROGRESS.md 顶部状态区块时，误删 **979 行**历史记录。原因：PROGRESS.md 是**追加型**文档——40 多轮的记录都堆在\"## 当前状态\"区块内部（用 `- ` 列表项而非 `## ` 标题分隔），因此\"到下一个 `## `\"的非贪婪匹配吞掉了全部历史。处理：①先 `git show 4805ede` 取回未受损版本（997 行）；②按**行号区间**重建文档结构为 当前状态（自动生成）／历史记录（轮次 1—65，981 行）／轮次记录／状态文件，现 1012 行、**41 条轮次记录全部保留**；③教训记入 DECISIONS.md：修改追加型文档须用行号区间替换或先备份，删除超过 10 行须先 `git diff --stat` 确认影响范围。④SATURATION.json 经查仍标 saturated=true（135 条时设定），未改动——因其为历史判定的存档，而 PROGRESS.md 顶部已明确当前非饱和。当前：625 条、来源 732、案例政策 146/205、key_data 410 条。九道检查全绿。"
+    },
+    {
+      "round": "续作GN-GP",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 13,
+      "reviewed": 16,
+      "fixed": 0,
+      "sources_total": 732,
+      "check_result": "PASS; 九道检查全绿（check_docs 新增完整性项）",
+      "spot_check": "13 个薄弱条目已补；缺 timeline/schools 由 16 降至 4",
+      "note": "维基第49轮可用。GN-GP：**为 13 个薄弱条目补充内容**，缺 timeline/schools 的条目由 **16 降至 4**。①为 8 个补充：equity-premium（1985 年 Mehra-Prescott 提出谜题，历史溢价 **5%—8%** 高得难以置信，罕见灾难假说）、fractional-reserve（**1668 年瑞典 Riksbank** 为首家央行、挤兑脆弱性）、inequality（乐施会 2026 报告：亿万富翁 **3,000 人**、财富 **18.3 万亿**创纪录；过去 30 年国内不平等显著上升）、investment（可追溯至公元前 1700 年汉谟拉比法典）、eurodollar（1949 年首例）、modigliani-miller（基准含义）、payment-system（系统重要性）、proprietary-trading（与做市边界）。②再为 5 个补充：property-rights（1689 洛克自然权利、2013 年产权保护与发展研究）、specialization（1714 曼德维尔、1776 斯密扣针工厂）、mutual-fund（**1774 年 van Ketwich** 设信托、2023 年全球资产 **69 万亿美元**）、nasdaq（2024 年底 **4,075** 家上市公司）、labour-market（1990—2010 搜寻匹配框架）。③check_docs.py 新增**文档完整性检查**（行数下限／关键章节／轮次记录条数），防止 round 67 的误删重演。剩余 4 个（expectations／nasdaq／population／subordination）来源内容较少，属来源边界。当前：timeline 586 条、schools 1215 条、key_data 416 条。"
     }
   ]
 }
