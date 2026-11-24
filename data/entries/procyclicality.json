@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**顺周期**相关的还有\"**金融加速器**\"与\"**资产负债表效应**\"，三者常被混用但侧重不同：顺周期性是**现象**（金融变量随周期同向波动）；金融加速器是**机制**（外部融资溢价随净值反向变动，放大冲击）；资产负债表效应是**渠道**（资产价格影响抵押品价值与借贷能力）。三者叠加构成\"金融体系放大实体波动\"的完整链条，也是宏观审慎政策（逆周期资本缓冲、LTV上限）的理论依据。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>顺周期性与逆周期变量：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信贷、杠杆与抵押品价值随</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>下行时抵押品贬值 → 追</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以逆周期资本缓冲等工具反</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-procyclicality",
@@ -62,5 +62,5 @@
     "macroprudential"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】 【续作DK】补写概念辨析。"
 }

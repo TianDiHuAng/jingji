@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**三元悖论**（同名概念的另一种表述）一致，但需与\"**二元悖论**\"区分：后者认为在资本自由流动下，即便浮动汇率也无法保证货币政策独立性（因为全球金融周期会主导国内利率）。这一修正的意义很大：若二元悖论成立，则新兴市场要获得政策自主，只能靠**资本流动管理**而非汇率弹性。实证上，全球金融周期（美元周期与风险偏好）对新兴市场利率的解释力确实很强。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>不可能三角（三难困境）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>固定汇率+资本自由流动+</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>须放弃其一(如牺牲汇率稳</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>制度选择影响货币危机风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-impossible-trinity",
@@ -66,5 +66,5 @@
     "mundell-fleming"
   ],
   "needs_verification": true,
-  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。"
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。 【续作DK】补写概念辨析。"
 }

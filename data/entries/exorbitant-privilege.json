@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**特里芬难题**是\"收益与代价\"的两面：嚣张的特权是储备货币国的**收益**（低成本融资、免于货币错配、以本币计价债务、制裁能力）；特里芬难题是其**代价**（必须输出流动性，长期削弱币值信心）。这一对照解释了储备货币国的政策困境：既要维持币值可信（紧缩倾向），又要提供全球流动性（扩张倾向）。近年\"去美元化\"讨论（见 de-dollarization）正是对这一特权可持续性的质疑。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>过高特权：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美元充当储备货币 → 全</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>美国获得低成本融资与本币</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>同时承担对外供给流动性之</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-exorbitant-privilege",
@@ -63,5 +63,5 @@
     "triffin-dilemma"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】 【续作DK】补写概念辨析。"
 }

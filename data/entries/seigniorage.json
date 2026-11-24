@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**通胀税**(inflation-tax) 密切相关但口径不同：铸币税是**政府从货币发行中获得的实际资源**（发行面值减生产成本，或铸币收入）；通胀税是**公众因持有货币贬值而损失的实际购买力**，在没有利息补偿的货币持有上，二者大致相等。这一区分在危机中很关键：政府常把铸币税当作\"不需立法即可获得的收入\"，但其规模受**货币需求**约束——通胀越高，人们持有本币越少，铸币税收入反而下降（拉弗曲线式关系），这正是恶性通胀中财政崩溃的机制。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>铸币税：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府发行货币 → 获得面</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以发行收入弥补财政缺口</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>过度依赖 → 货币超发与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-seigniorage",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DK】补写概念辨析。"
 }

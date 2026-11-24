@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资产支持证券**(ABS/MBS) 是\"过程与产物\"的关系：证券化是把不流动资产（贷款）打包、分层、转化为可交易证券的**过程**；ABS/MBS 是这一过程的**产物**。其经济功能是分散风险与扩大融资来源，但2008年暴露的缺陷是\"**发起—分销**\"链条中的激励扭曲：放贷方不再承担违约后果，评级机构依赖发行方付费，投资者无法评估底层资产（见 lemons-market）。危机后的改革集中在风险自留要求（skin in the game）与信息披露。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>证券化：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>汇集多笔债务（贷款/应收</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>按资本结构发行证券、以底</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>底层违约上升 → 证券分</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-securitization",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作DK】补写概念辨析。"
 }

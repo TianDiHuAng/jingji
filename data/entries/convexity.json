@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**久期**是\"一阶与二阶\"的关系：久期衡量价格对利率变动的**线性**敏感度；凸性衡量这一敏感度的**变化率**（弯曲程度）。对普通债券，凸性为正（利率下降时涨得比久期预测更多，利率上升时跌得比预测更少）——这是持有者的优势；但对**MBS**，凸性可能为负（利率下降时提前还款使上涨受限，利率上升时久期反而拉长、跌幅扩大），这一\"负凸性\"是2008年与2023年银行债券组合亏损的机制之一。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>凸性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>标的变量变动 → 价格非</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>久期仅为一阶近似 → 需</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>大幅利率变动时估计误差更</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-convexity",
@@ -62,5 +62,5 @@
     "interest-rate-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】 【续作DK】补写概念辨析。"
 }

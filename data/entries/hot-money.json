@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本外逃**(capital-flight) 的差别在动机与合法性：热钱是**追逐短期利差与汇率升值**的跨境资金（合法、可逆、对风险极度敏感）；资本外逃是**居民/非居民因恐惧而转移资产**（可能合法也可能违规，多为不可逆）。两者的市场含义不同：热钱流入推高资产价格与汇率，其**突然撤离**（见 sudden-stop）是新兴市场危机的典型触发器；资本外逃则更多反映对制度与产权的信心丧失。政策上，前者靠宏观审慎与资本流动管理，后者靠产权保护与政治稳定。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>热钱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>两国利差或预期升值 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>短期大规模流入 → 推高</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>情绪逆转时迅速流出 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-hot-money",
@@ -63,5 +63,5 @@
     "sudden-stop"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作DK】补写概念辨析。"
 }

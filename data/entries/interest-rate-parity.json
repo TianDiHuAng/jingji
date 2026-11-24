@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**购买力平价**(PPP) 是\"金融与实体\"的对应：利率平价讲两国**利差**与**汇率预期**的关系（资产市场视角）；购买力平价讲两国**物价水平**与**汇率**的关系（商品市场视角）。两者的共同点是\"无套利\"逻辑，但在短期，资本流动主导汇率（利率平价更相关）；在长期，贸易与物价主导（PPP更相关）。危机中两国常常同时失效——资本管制、风险溢价跳升、以及\"安全资产\"偏好都会打破平价关系。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>利率平价：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>两国利差 + 即期/远期</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>抛补套利使远期汇率偏离被</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>资产负债表约束或管制 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-interest-parity",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作CN】已用更完整的版本更新正文。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作CN】已用更完整的版本更新正文。 【续作DK】补写概念辨析。"
 }

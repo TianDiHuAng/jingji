@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本外逃**的差别在触发点与规模：sudden stop 指资本流入**骤然停止甚至逆转**（往往是外生冲击或信心突变导致），其特点是\"急刹车\"而非\"长期流失\"；资本外逃可能是渐进的、长期的。sudden stop 的宏观后果是**被迫的经常账户逆转**：必须迅速收缩进口、压缩内需，因此产出与就业急剧下滑。它常与货币危机、银行危机同时发生（\"双重危机\"），对策主要是流动性支持与外部融资，而非单纯加息。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>突然停止（资本流动）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>私人资本流入突然放缓 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>经常账户由大赤字急剧逆转</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产出、私人支出与信贷急剧</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sudden-stop",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DK】补写概念辨析。"
 }

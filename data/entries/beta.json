@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**波动率**(volatility) 的区别是\"相对与绝对\"：波动率衡量资产自身的价格波动幅度（标准差）；beta 衡量资产相对**市场**的敏感度（系统性风险）。一个高波动但低相关的资产可能低beta；一个低波动但高相关的资产可能高beta。这一区分在组合管理中是核心：分散化能消除**非系统性**风险（个股特有问题），但beta代表的**系统性**风险无法通过分散化消除——这正是CAPM的结论，也是危机中\"所有资产同时下跌\"的原因。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贝塔系数：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以个股收益对市场收益回归</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贝塔大于1 → 波动放大</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于估计要求回报率与系统</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-beta",
@@ -62,5 +62,5 @@
     "volatility"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DK】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**不可能三角**是\"模型与推论\"的关系：Mundell-Fleming 模型（IS-LM 的开放经济版本）推导出在资本完全流动下，固定汇率使货币政策失效、浮动汇率使财政政策失效；不可能三角则是这一结论的一般化表达。其局限在于假设价格粘性、风险溢价不变、资本完全流动——现实中这三个假设都常被违反，因此模型更像\"基准\"而非\"预测\"。危机中的应用（如IMF的条件性设计）常需考虑风险溢价与预期。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>蒙代尔-弗莱明模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>小型开放经济 → 引入外</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>在固定/浮动汇率下政策效</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与不可能三角的政策权衡直</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-mundell-fleming",
@@ -63,5 +63,5 @@
     "monetary-policy"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DK】补写概念辨析。"
 }

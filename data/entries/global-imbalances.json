@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**经常账户失衡**的差别在规模与结构：经常账户失衡是任何国家的双边或多边贸易差额；全球失衡特指2000年代形成的**系统性格局**——美国巨额逆差对应东亚与石油出口国的巨额顺差，并通过资本回流（购买美国国债）形成循环。这一格局的解释分歧很大：\"储蓄过剩\"论认为顺差国的高储蓄压低全球利率；\"美元特权\"论认为美国的储备货币地位使其能长期维持逆差。2008年危机后失衡有所收窄，但结构性因素未变。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全球失衡：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>部分国家长期经常账户顺差</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>顺差国资本流向逆差国 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>调整过程可能伴随汇率与资</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-global-imbalances",
@@ -63,5 +63,5 @@
     "reserve-currency"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DK】补写概念辨析。"
 }

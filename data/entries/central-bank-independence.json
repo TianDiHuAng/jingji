@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**规则vs相机抉择**的争论相关但不同：央行独立性讲的是**谁做决定**（政治家还是技术官僚）；规则vs相机抉择讲的是**如何做决定**（预设公式还是逐次判断）。两者都旨在解决**时间不一致性**问题（政治家有动机在大选前放松），但独立性是制度安排，规则是操作约束。实践中二者互补：独立的央行通常也更倾向规则化（如通胀目标制）。危机中的张力在于：非常规操作（QE、救助）模糊了独立性的边界，使央行不可避免地被政治化。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>央行独立性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>赋予央行法定独立授权 → 减</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>独立设定货币政策 → 稳定通</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>配合问责与透明度</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-central-bank-independence",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作DK】补写概念辨析。"
 }

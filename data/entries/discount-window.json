@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**最后贷款人**是\"工具与职能\"的关系：贴现窗口是央行提供流动性的**具体工具**（以合格抵押品放贷）；最后贷款人是**职能与原则**（危机中对有偿付能力的机构提供流动性，按白芝浩原则：自由放贷、惩罚性利率、良好抵押品）。二者的差别在危机中显现：贴现窗口存在**污名效应**（stigma）——使用它会被视为虚弱信号，因此危机中机构宁愿从市场融资，迫使央行创设新工具（如TAF、各类便利）以绕开污名。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贴现窗口：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构遭遇临时流动性短缺 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以合格抵押品获得短期资金</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>发挥最后贷款人功能、遏制</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-discount-window",
@@ -63,5 +63,5 @@
     "open-market-operation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DK】补写概念辨析。"
 }
