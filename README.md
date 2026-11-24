@@ -21,7 +21,8 @@
 │   ├── gen_site.py       静态站点生成器
 │   ├── check_links.py    站点终检（链接/SVG/图片禁用）
 │   ├── check_quality.py  HTML结构检查（标题层次/重复id/meta/表格th等10项）
-│   └── check_kd.py       key_data 数值可核对性（对照来源全文）
+│   ├── check_kd.py       key_data 数值可核对性（对照来源全文）
+│   └── check_polnum.py   policy_response 数字核对（含亿/万换算）
 └── site/
     ├── index.html        首页
     ├── style.css         浅/深双模式样式（CSS变量）
@@ -38,6 +39,7 @@ python tools/gen_site.py      # 生成 site/，自动核验站内断链
 python tools/check_links.py   # 站点终检：0 error
 python tools/check_quality.py # HTML结构检查：0 problem
 python tools/check_kd.py      # key_data 数值核对：对照来源全文
+python tools/check_polnum.py  # 政策段数字核对：392个全部可溯源
 ```
 
 ## 设计原则
