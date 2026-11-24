@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**流动性转换**的关系是\"手段与结果\"：期限转换指以短期负债支持长期资产（银行的核心功能，也是其脆弱性来源）；流动性转换指把流动性差的资产转化为流动性好的负债（存款可随时提取）。两者常同时发生，构成\"部分准备金银行\"的本质。这一功能的代价是**挤兑风险**，因此需要存款保险与最后贷款人；而影子银行做同样的事却缺乏这些保护（2008年回购市场的教训）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>期限转换：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>短借长贷 → 为长期投资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>负债端短期可撤回、资产端</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心动摇时易发生挤兑 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-maturity-transformation",
@@ -63,5 +63,5 @@
     "liquidity-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作EB】补写概念辨析。"
 }

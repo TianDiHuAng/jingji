@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**NAIRU**多同义，但强调角度不同：自然失业率强调**长期均衡**（由匹配效率、制度、技能结构决定）；NAIRU 强调**操作性**（不使通胀加速的失业率）。两者的共同问题是**不可直接观测**，只能估算，且会随结构变化移动。危机后的\"滞后效应\"(hysteresis) 更进一步：长期失业会**抬高**自然失业率本身（技能退化、失去劳动市场联系），使短期冲击变成永久损失。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自然失业率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>摩擦与结构性因素 → 形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际失业围绕自然率波动（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期无法以需求政策持续压</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-natural-rate-unemployment",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作EB】补写概念辨析。"
 }

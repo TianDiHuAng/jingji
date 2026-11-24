@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**重商主义→自由贸易**的演化：重商主义主张**贸易顺差即财富**（以金银积累衡量国力），因此鼓励出口、限制进口；斯密与李嘉图指出这混淆了\"财富\"与\"货币\"，自由贸易通过比较优势可提高双方福利。但重商主义的逻辑并未消失：当代的\"出口导向增长\"战略、外汇储备积累与贸易顺差偏好，常被称为\"新重商主义\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>重商主义：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>追求贸易顺差与贵金属积累</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>国家干预贸易与殖民扩张 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>被视为零和贸易观，后被自</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-mercantilism",
@@ -62,5 +62,5 @@
     "free-trade"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EB】补写概念辨析。"
 }

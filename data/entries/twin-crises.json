@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**双赤字**的区别在\"危机与赤字\"：双危机指**银行危机与货币危机**同时发生（1994墨西哥、1997亚洲），机制是\"贬值恶化银行资产负债表→银行挤兑→资本外逃→进一步贬值\"的恶性循环；双赤字指**财政赤字与经常账户赤字**并存，是结构性问题而非危机。两者常被混淆但完全不同：一个描述危机的同步性，一个描述失衡的组合。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>双危机：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>外部冲击或脆弱性 → 货</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>货币危机与银行危机相互强</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产出损失通常大于单一危机</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-twin-crises",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EB】补写概念辨析。"
 }

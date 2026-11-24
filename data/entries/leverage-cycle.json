@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**信贷周期**的关系是\"一体两面\"：信贷周期描述信贷总量的扩张与收缩；杠杆周期强调**风险偏好的同步变化**（繁荣时杠杆上升、资产价格上涨、抵押品要求放松；萧条时反向）。两者的自我强化机制相同，但杠杆周期更强调**金融中介的资产负债表**（尤其非银机构），因此对\"影子银行\"时代的分析更适用。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>杠杆周期：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产价格上涨 → 抵押价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>杠杆顺周期扩张 → 进一</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>价格下跌 → 抵押品贬值</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-leverage-cycle",
@@ -63,5 +63,5 @@
     "procyclicality"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作EB】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**古典/新古典经济学**的分野在\"市场能否自我修复\"：凯恩斯认为工资与价格存在刚性、投资受动物精神驱动，因此**需求不足可以持续**，需政府干预；古典立场相信价格灵活、市场自动出清（萨伊定律）。与**货币主义**的分野在工具：两者都接受干预，但货币主义主张规则化的货币政策、质疑财政乘数。三者的实践轮替很清晰：1930s凯恩斯、1970s货币主义、2008后凯恩斯回归。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>凯恩斯主义：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>总需求不足 → 非自愿失业与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财政/货币政策扩张 → 提振</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>乘数效应 → 产出与就业回升</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "bk-the-general-theory-of-employment-interest-and-mo",
@@ -63,5 +63,5 @@
     "liquidity-preference"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作EB】补写概念辨析。"
 }

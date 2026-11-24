@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**CBDC**的区别在发行主体：稳定币是**私人发行**、以储备资产（美元、国债）维持锚定；CBDC 是**央行发行**的数字法币。与**加密货币**的区别在波动性：稳定币设计目标是价格稳定（1币≈1美元），加密货币则剧烈波动。其风险在于**储备透明度与挤兑**：若储备不足或遭挤兑，稳定币可能脱锚（Terra/UST 2022即因算法机制崩溃），并可能通过储备资产抛售传导至国债市场。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>稳定币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以法币/商品/资产篮子作</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通过储备、算法或抵押维持</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备不足或挤兑 → 脱锚</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-stablecoin",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作EB】补写概念辨析。"
 }

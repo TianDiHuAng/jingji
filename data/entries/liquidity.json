@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "需区分三种含义，混用会造成严重误判：①**市场流动性**（能以合理价格快速成交，如\"市场干涸\"）；②**融资流动性**（能借到钱，如\"融资断裂\"）；③**货币流动性**（货币供给的宽松程度，如\"流动性充裕\"）。2008年的教训正是三者的**相互强化**：市场流动性枯竭→抵押品难变现→融资流动性断裂→央行注入货币流动性。因此\"流动性\"一词必须明确指哪一层。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>市场流动性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>买卖双方深度充足 → 大</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>流动性不足 → 快速出售</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压力下流动性骤降 → 抛</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-liquidity",
@@ -63,5 +63,5 @@
     "money-market"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作EB】补写概念辨析。"
 }

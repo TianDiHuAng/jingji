@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**普通抛售**的区别在\"针对政策承诺\"：投机攻击是**针对固定汇率或政策承诺**的集中做空，目的是迫使当局放弃承诺（耗尽储备或加息至不可承受）；普通抛售则是对基本面的反应。这一区分很重要：若平价确实不可持续，攻击是\"发现真相\"（如1992年英镑）；若平价可持续但预期被击垮，攻击就是\"自我实现\"（需靠可信承诺与充足储备抵御）。两种情形对应不同政策（贬值 vs 坚守）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>投机攻击：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>某货币或资产被视为不可信</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>集中抛售该资产、换入硬通</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>当局耗尽储备 → 被迫贬</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-speculative-attack",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作EB】补写概念辨析。"
 }

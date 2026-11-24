@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币乘数模型**的解释不同：乘数模型认为央行控制基础货币、银行按准备金率\"乘出\"存款（外生货币观）；货币创造的内生观认为**银行放贷创造存款**，央行事后被动提供准备金，货币供给由信贷需求驱动。危机中的证据支持后者：2008年后基础货币激增而广义货币增长缓慢（乘数崩塌），说明\"央行推绳子\"的局限。这一分歧直接决定\"央行能否控制货币供给\"的判断。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币创造：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行投放基础货币 → 银</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行放贷派生存款 → 广</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信贷扩张 → 总需求与物</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-money-creation",
@@ -63,5 +63,5 @@
     "money-supply"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】 【续作EB】补写概念辨析。"
 }

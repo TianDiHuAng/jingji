@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币数量论**的区别在\"路径的有无\"：货币数量论只关心 M 与 P 的总量关系；传导机制研究 M 如何通过**具体渠道**影响产出与物价：利率渠道（借贷成本）、信贷渠道（银行放贷意愿与资本）、资产价格渠道（财富效应、抵押品价值）、汇率渠道、以及预期渠道。这一区分在危机中极其重要：2008年后基础货币暴增而信贷未扩张，正是**信贷渠道堵塞**（银行资本受损）——总量关系仍在，但传导断了。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币政策传导机制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行调整政策利率 → 货</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>经利率、信贷、资产价格与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>影响投资、消费与净出口 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-monetary-transmission",
@@ -65,5 +65,5 @@
     "money-creation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EB】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**传统银行**的区别在\"无抵押与小额\"：微型金融向无抵押、无信用记录的贫困人口提供小额贷款，常以**小组联保**替代抵押（利用社会资本作为担保）。与**普惠金融**的关系是\"子集\"：微型金融是信贷端的实践，普惠金融还包括储蓄、保险、支付。争议在于：小额信贷是否真能减缓贫困，还是把穷人的债务负担转给了更穷的借款人（印度安得拉邦2010年微型金融危机即由此引发）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>微型金融：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>低收入群体缺乏抵押与信用</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以小额信贷、储蓄与小额保</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持微型经营与平滑消费（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-microfinance",
@@ -63,5 +63,5 @@
     "poverty-trap"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作EB】补写概念辨析。"
 }

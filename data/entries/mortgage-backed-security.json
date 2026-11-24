@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**CDO**是\"被分层与被再打包\"的关系：MBS 把房贷打包成证券；CDO 把 MBS 或其他债券**再打包分层**（优先级/中间级/权益级，损失先由权益级承担）。再证券化的目的是创造更多高评级资产，但代价是风险不透明：投资者买的\"AAA\"可能建立在底层次级贷款上，而**相关性在房价下跌时同时恶化**，分层保护瞬间失效。2008年CDO崩塌正源于此。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>抵押贷款支持证券(MBS)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行发放房贷 → 打包成资产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以池内现金流为支撑发行证券给</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>房价下跌/违约上升 → 证券</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-mortgage-backed-security",
@@ -63,5 +63,5 @@
     "securitization"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。"
 }

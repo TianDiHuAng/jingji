@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**新凯恩斯主义**的分野在\"价格是否粘性\"：新古典（理性预期学派、真实经济周期）假设市场**连续出清**、货币中性，因此系统性政策无效；新凯恩斯主义接受理性预期与微观基础，但引入**价格粘性**（菜单成本、交错合约），因此短期货币非中性、政策有效。两者共享方法论（微观基础、一般均衡），分歧在\"摩擦的设定\"——这也使现代主流宏观成为两者的综合（新新古典综合）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新古典宏观经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>主体具有理性预期 → 系</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场快速出清 → 政策难</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形成政策无效性命题</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-new-classical",
@@ -63,5 +63,5 @@
     "rational-expectations"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】 【续作EB】补写概念辨析。"
 }

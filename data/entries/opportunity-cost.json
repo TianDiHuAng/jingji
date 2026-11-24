@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**会计成本**的区别在\"是否含放弃的收益\"：会计成本只记录实际支出；机会成本还包括**放弃的最佳替代用途的价值**。这一区分在危机决策中很关键：救助银行的成本不只是财政支出，还包括**道德风险与资源错配**的机会成本（未救助的替代方案）；而\"不救助\"的成本则是系统性崩溃的风险。政策争论本质上是两种机会成本的比较，而非\"花钱 vs 不花钱\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>机会成本：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源有限且用途互斥 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>放弃的最佳替代方案价值即</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>构成比较优势与专业化决策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-opportunity-cost",
@@ -63,5 +63,5 @@
     "marginal-utility"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作EB】补写概念辨析。"
 }

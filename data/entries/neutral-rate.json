@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**自然利率**(natural rate, 维克塞尔) 概念同源但用法不同：维克塞尔的自然利率是使储蓄与投资均衡的利率（与市场利率对比判断松紧）；现代 r*（中性利率）是在充分就业、通胀稳定时使经济平衡的**实际**利率，作为货币政策基准。两者的共同点是**不可观测**、只能估算，且估算值随模型与时期差异很大。近年发达经济体 r* 估计下移，是\"长期停滞\"假说的重要依据。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中性利率(r*)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>储蓄与投资的结构性因素决</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际政策利率相对 r* </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>r* 不可观测且估算不稳</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-neutral-rate",
@@ -62,5 +62,5 @@
     "secular-stagnation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】 【续作EB】补写概念辨析。"
 }

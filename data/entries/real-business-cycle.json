@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**凯恩斯主义**的对立在\"波动的来源\"：真实经济周期理论认为波动源于**技术冲击**（生产率变化），市场始终出清、货币中性，因此衰退是\"最优反应\"而非失灵，不需要干预；凯恩斯主义认为波动源于**需求**，市场不能自动出清，需要政策。该理论在方法上影响深远（把宏观建立在微观基础上），但在政策上极端（否认衰退需要干预），实践影响有限。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>真实经济周期理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>技术/生产率冲击 → 相对价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>理性主体跨期替代劳动与消费</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产出与就业随之波动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-real-business-cycle-theory",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。"
 }

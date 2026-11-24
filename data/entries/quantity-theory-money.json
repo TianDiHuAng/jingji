@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**费雪方程式**的关系是\"主张与恒等式\"：MV=PT 是恒等式（定义），本身不预测任何东西；货币数量论进一步主张 **V（流通速度）与 T 相对稳定**，因此 M 的变动决定 P——这是一个**经验命题**。该命题在长期大致成立（高通胀必伴随货币高增长），但短期失效（V 会剧烈波动：2008年与2020年V骤降）。这一\"长期成立、短期失效\"正是货币政策操作的困难所在。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币数量论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币量增加 → 名义需求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>一般价格水平与货币量同比</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期实际产出不受影响（货</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-quantity-theory-money",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EB】补写概念辨析。"
 }

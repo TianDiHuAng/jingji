@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**财政政策**的区别在决策速度与传导：货币政策由央行**独立、快速**决定，通过利率与流动性**间接**影响投资消费（传导有滞后）；财政政策需**立法程序**、见效快且可定向，但受政治约束。危机中的分工是\"央行管流动性、财政管损失与需求\"。零利率下限时货币空间耗尽，财政乘数变大——这是\"财政主导\"讨论升温的背景。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行调整政策利率 → 市场利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>总需求与汇率、资产价格随之调</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>最终影响通胀与产出</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-monetary-policy",
@@ -67,5 +67,5 @@
     "open-market-operation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。"
 }

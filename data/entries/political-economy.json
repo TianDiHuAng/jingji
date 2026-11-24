@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**纯经济分析**的区别在\"纳入权力与制度\"：政治经济学研究经济政策如何被**政治过程**塑造（利益集团、选举周期、制度约束）；纯经济分析则把政策当作外生选择。这一视角解释了为何\"经济学上最优\"的政策常不被采纳（罗德里加索1975、希腊紧缩的社会反弹、贸易自由化的政治阻力）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>政治经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政治制度塑造政策选择 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利益集团与选举约束 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政治不稳定 → 危机概率</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-political-economy",
@@ -62,5 +62,5 @@
     "public-choice"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】 【续作EB】补写概念辨析。"
 }

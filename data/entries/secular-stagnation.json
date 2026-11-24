@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**周期衰退**的区别在\"时间尺度\"：周期衰退是几年内的产出下滑，政策可对冲；长期停滞是**多年乃至数十年**的低增长、低通胀、低利率并存，源于结构性因素（人口老龄化、投资需求疲弱、不平等上升）。这一区分决定政策思路：周期衰退用需求管理；长期停滞需要结构性政策（提高生产率、改善分配）与更宽松的财政立场（因为货币政策已触底）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>长期停滞：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>人口与投资需求长期偏弱 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政策利率易触及下限 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>低增长、低通胀、低利率并</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-secular-stagnation",
@@ -62,5 +62,5 @@
     "neutral-rate"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】 【续作EB】补写概念辨析。"
 }

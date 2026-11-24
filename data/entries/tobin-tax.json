@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本管制**的区别在\"价格 vs 数量\"与\"对象\"：托宾税是对**外汇交易**征收的小额税（如0.1%），旨在抑制短期投机、属价格型工具，不区分交易者身份；资本管制是基于**居留身份**的数量或行政限制（限额、禁令、审批）。托宾税理论上不阻碍长期投资（一次交易成本小、反复投机成本高），但实践中易被规避（衍生品、离岸市场），且全球协调困难。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>托宾税：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>短期外汇往返投机 → 加</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>对即期兑换征税 → 提高</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>抑制热钱、但也降低市场流</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-tobin-tax",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作EB】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**做空**广义同义，但需与\"裸卖空\"区分：普通卖空需先借入证券（有券可借）；裸卖空则在未借入的情况下卖出（交割时可能违约）。卖空的经济功能是**价格发现与流动性提供**（让坏消息进入价格），但在危机中会被指为\"落井下石\"而遭限制（2008年多国禁止金融股卖空）。实证上，卖空限制往往损害流动性、扩大买卖价差，效果存疑。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>卖空：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借入资产并卖出 → 建立</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格下跌后买回归还 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中卖空或逼空 → 加剧</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-short-selling",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EB】补写概念辨析。"
 }

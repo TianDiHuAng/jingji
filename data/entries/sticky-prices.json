@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**灵活价格**的区别在调整速度：粘性价格指名义价格调整缓慢（菜单成本、交错合约、长期合同），因此**名义冲击会转化为实际产出波动**；灵活价格下名义冲击只改变物价、不影响产出。这一假设是新凯恩斯主义的**核心微观基础**，也是\"为什么货币政策短期内有效\"的解释。其反面是真实经济周期理论的\"价格灵活\"假设。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>名义刚性（价格/工资粘性）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>名义价格/工资调整缓慢 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>需求冲击在短期影响产出与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策短期非中性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sticky-prices",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EB】补写概念辨析。"
 }

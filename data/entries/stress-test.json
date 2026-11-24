@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**VaR**的区别在情景设定：压力测试直接设定**极端但可能的情景**（GDP-5%、失业12%、房价-30%）并计算损失与资本充足性；VaR 则估计**正常市场**下的最大损失，不覆盖尾部。2008年后的改革使压力测试成为监管核心（美国SCAP、欧洲EBA测试），其价值不仅在结果，更在**迫使银行审视自身脆弱性**与提升透明度。批评是：情景可能被\"设计成能通过\"，且成本高。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>压力测试：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>设定不利情景（衰退、失业</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>评估资本与流动性是否充足</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>据结果要求补充资本或调整</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-stress-test",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EB】补写概念辨析。"
 }

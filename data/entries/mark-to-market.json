@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**历史成本**的区别在\"是否反映当前价值\"：按市值计价(mark-to-market) 每日按市场价格重估资产，透明但**顺周期**（价格下跌→减记→抛售→价格再跌）；历史成本法（或摊余成本）不随市价波动，稳定但**掩盖风险**。这一取舍在危机中极其尖锐：2008年与2023年（硅谷银行）都出现\"按市价已资不抵债，按摊余成本仍显示健康\"的争议，而后者在挤兑面前一触即溃。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>市值计价（公允价值会计）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>按市价计量资产 → 价格</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资本受侵蚀 → 被动抛售</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>抛售压低价格 → 进一步</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-mark-to-market",
@@ -62,5 +62,5 @@
     "procyclicality"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】 【续作EB】补写概念辨析。"
 }

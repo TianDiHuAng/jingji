@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**债务重组**的区别在\"是否违约\"：主权违约是不履行偿付义务；重组是与债权人协商修改条件（可发生在违约前，预防性）。与**地方债违约**的区别在\"无破产法\"：主权债缺乏超国家强制执行机制，债权人只能靠市场准入、贸易与法律管辖施压；地方债（如美国市政债）则有破产法框架（波多黎各用 PROMESA 特别程序）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>主权违约：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字与外债累积 → 偿付</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>融资成本上升/收入下降 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>违约或重组 → 债权人损失与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-sovereign-default",
@@ -63,5 +63,5 @@
     "odious-debt"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。 【续作EB】补写概念辨析。"
 }

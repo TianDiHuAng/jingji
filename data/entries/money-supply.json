@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**基础货币**的区别在范围：基础货币（M0）是央行负债（流通现金＋银行准备金）；货币供给（M1/M2）包含银行创造的存款，是基础货币的**倍数**（货币乘数）。这一区分是危机分析的关键：央行可以直接扩大基础货币（QE），但**无法直接决定广义货币**——后者取决于银行放贷与公众持币意愿。2008年与2020年的经验都显示：基础货币暴增与广义货币增长之间可以长期脱节。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币供应量：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>中央银行与银行体系创造货</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>按定义范围形成 M1/M</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币量变化影响物价与经济</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-money-supply",
@@ -63,5 +63,5 @@
     "money-multiplier"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作EB】补写概念辨析。"
 }

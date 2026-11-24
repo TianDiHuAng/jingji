@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**单体风险**的区别在\"关联与溢出\"：单体风险是某机构自身的失败概率；系统性风险是整个体系同时或连锁失效的风险，源于**相互关联、共同敞口与信心传染**。这一区分决定监管架构：微观审慎管单体（资本、流动性），宏观审慎管体系（逆周期资本、系统重要性附加资本、集中度限制）。2008年的教训是：单体都合规，体系仍可能崩。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>系统性风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构关联/共同暴露 → 局部</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信心传染与去杠杆 → 系统性</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>系统性危机 → 广泛经济损害</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-systemic-risk",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作EB】补写概念辨析。"
 }

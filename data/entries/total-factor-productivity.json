@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**劳动/资本生产率**的区别在\"余量\"：劳动生产率＝产出/劳动投入，资本生产率＝产出/资本投入；全要素生产率(TFP) 是**扣除要素投入增长后的余量**（索洛余值），通常被解释为技术、组织与制度效率。其问题是\"度量剩余\"——所有未解释的部分都算进去，包括测量误差与资源错配。长期增长分析中，TFP 是人均收入差异的主要解释变量。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全要素生产率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>产出增长中扣除要素投入贡</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>TFP 提升 → 相同投</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期人均增长主要依赖TF</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-total-factor-productivity",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作EB】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**无风险利率**的关系是\"补偿与基准\"：无风险利率是时间偏好的价格（如国债收益率）；风险溢价是投资者承担额外风险所要求的**额外回报**（信用利差、股票风险溢价）。危机中风险溢价的**急剧扩大**是核心传导机制：利差飙升使融资成本骤增、抵押品价值下跌、再融资断裂（2008年、2020年3月）。因此\"利差\"是危机监测最灵敏的指标之一。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>风险溢价：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>投资者厌恶风险 → 要求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以预期风险回报减无风险回</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>风险厌恶上升 → 溢价扩</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-risk-premium",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作EB】补写概念辨析。"
 }

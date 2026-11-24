@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "需区分**三种类型**：摩擦性（换工作的正常间隙）、结构性（技能与岗位不匹配）、周期性（需求不足）。三者的政策含义完全不同：摩擦性无需干预；结构性需教育培训与劳动力流动；周期性需需求管理。危机中三者会同时恶化，且短期失业可能通过**滞后效应**转为结构性失业——这是\"衰退的伤痕\"最持久的来源。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>失业：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>总需求不足 → 周期性失业上</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>结构与技能错配 → 结构性失</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策（财政/货币）刺激 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-unemployment",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。"
 }

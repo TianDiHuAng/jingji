@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**套利**的区别在是否有对冲：套利同时建立多空、理论上无净风险（赚价差）；投机只建立单边头寸、承担方向性风险。与**投资**的区别在\"收益来源\"：投资依赖资产的**现金流**（股息、利息、租金）；投机依赖**价格变动**（博取差价）。实践中三者边界模糊——\"无风险套利\"在融资断裂时会变成有风险（LTCM），而\"投资\"在泡沫中也会变成投机。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>投机：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>预期价格短期上涨 → 买</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>买盘推高价格 → 吸引更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>预期逆转 → 价格崩跌</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-speculation",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EB】补写概念辨析。"
 }
