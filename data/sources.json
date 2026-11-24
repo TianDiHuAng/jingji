@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 731,
+  "count": 733,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8735,6 +8735,30 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Economic_indicator",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-capital-adequacy",
+      "title": "Capital requirement",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Capital_requirement",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-liquidity-coverage-ratio",
+      "title": "Basel III",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Basel_III",
       "url2": null,
       "verified": true,
       "link_ok": true,

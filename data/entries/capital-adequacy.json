@@ -1,0 +1,69 @@
+{
+  "id": "capital-adequacy",
+  "title": "资本充足率",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "银行自有资本相对风险加权资产的比率要求，是审慎监管的核心工具。",
+  "overview": "资本充足率要求指银行必须持有的**自有资本**相对于**风险加权资产**的最低比率，是当代银行审慎监管框架的核心。其功能是让**股东而非存款人或纳税人**承担损失的第一道缓冲：资本越厚，银行吸收亏损而不至倒闭的能力越强。监管资本按质量分层：**一级资本(Tier 1)** 以普通股与留存收益为主（能在持续经营中吸收损失），**二级资本(Tier 2)** 包括次级债等（主要在清算时吸收损失）。**巴塞尔协议**体系将此国际标准化：Basel I（1988）确立 8% 的最低资本要求，Basel II（2004）引入内部评级与三大支柱，Basel III（2010 年后）大幅提高核心一级资本要求并新增杠杆率与流动性指标。**根本局限**在于风险权重由模型或规则确定：若权重低估真实风险（如次贷危机前对按揭证券的权重），资本充足率可以**看起来达标而实际脆弱**。",
+  "timeline": [
+    {
+      "year": 1988,
+      "event": "巴塞尔委员会发布 Basel I，确立 8% 的最低资本充足率（据 Wikipedia Capital requirement）"
+    },
+    {
+      "year": 2004,
+      "event": "Basel II 引入内部评级法与三大支柱框架（据 Wikipedia Capital requirement）"
+    },
+    {
+      "year": 2010,
+      "event": "Basel III 大幅提高核心一级资本要求并新增杠杆率与流动性指标（据 Wikipedia Capital requirement）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "缓冲视角",
+      "view": "资本是吸收损失的缓冲，要求越严则银行越能承受冲击；危机后各国普遍提高核心一级资本要求即基于此（据 Wikipedia Capital requirement）",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
+    },
+    {
+      "holder": "成本与规避视角",
+      "view": "更高的资本要求抬高融资成本、可能抑制信贷；且银行会通过**调整风险权重模型**或把资产移出表外来规避，使名义充足率改善而实际风险未减（据 Wikipedia Capital requirement）",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "Basel I 确立的最低资本充足率",
+      "value": 8,
+      "unit": "%（资本/风险加权资产）",
+      "year": 1988,
+      "comparable_price": false,
+      "note": "原文：the 8% minimum capital requirement established under Basel I；单一来源待核实。",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
+    }
+  ],
+  "comparison": "与**杠杆率**的区别：资本充足率的分母是**风险加权**资产（可被模型调低），杠杆率的分母是**未加权**的总暴露（无法通过权重规避）——后者正是为了约束前者的计量操纵而引入。与**流动性比率**的区别：资本是\"能吸收多少损失\"，流动性是\"能撑多久的现金流出\"，两者不可互相替代——危机中常见\"资本充足但流动性枯竭\"的银行。",
+  "related": [
+    "basel-accords",
+    "basel-iii",
+    "liquidity-coverage-ratio",
+    "macroprudential",
+    "bank-regulation"
+  ],
+  "sources": [
+    "w-en-capital-adequacy"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作IB】据维基全文新建；监管细则与各国实施差异待核实。"
+}

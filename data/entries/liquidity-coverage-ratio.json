@@ -1,0 +1,65 @@
+{
+  "id": "liquidity-coverage-ratio",
+  "title": "流动性覆盖率(LCR)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "要求银行持有足够高质量流动资产，覆盖压力情景下30天净现金流出的监管指标。",
+  "overview": "流动性覆盖率(LCR) 是 **Basel III** 引入的流动性监管指标，要求银行持有足够的**高质量流动资产(HQLA)**，以覆盖**压力情景下 30 天的净现金流出**。其结构是一个简单比值：分子为 HQLA 的价值，分母为压力情景下的净现金流出总额。引入这一指标的直接理由是：2008 年危机中**一些资本充足的银行仍因流动性管理不善而陷入困境**——资本指标衡量的是\"能吸收多少损失\"，而流动性衡量的是\"能撑多久\"。Basel III 同时引入的另一个流动性指标是**净稳定资金比率(NSFR)**，关注一年期的结构性资金匹配；LCR 关注短期的压力承受力，两者一短一长。**局限**在于\"高质量\"与\"压力情景\"的定义由监管设定：若被认定为 HQLA 的资产在真实压力下同样难以变现（如某些主权债），该指标会高估韧性。",
+  "timeline": [
+    {
+      "year": 2010,
+      "event": "Basel III 框架发布，首次引入 LCR 与 NSFR 两项流动性要求（据 Wikipedia Basel III）"
+    },
+    {
+      "year": 2013,
+      "event": "LCR 按原定时间表开始分阶段实施（据 Wikipedia Basel III）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "流动性独立于资本",
+      "view": "资本充足不能保证流动性安全——危机中多家资本达标的银行因短期融资断档而倒闭，故需单独设立流动性指标（据 Wikipedia Basel III）",
+      "sources": [
+        "w-en-liquidity-coverage-ratio"
+      ]
+    },
+    {
+      "holder": "资产可替代性质疑",
+      "view": "HQLA 的界定依赖\"压力下仍可变现\"的假设；若被认定的高流动性资产在系统性压力中同时失去流动性，指标会低估真实风险（据 Wikipedia Basel III 相关讨论；具体批评出处待核实）",
+      "sources": [
+        "w-en-liquidity-coverage-ratio"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "LCR 覆盖的压力情景期限",
+      "value": 30,
+      "unit": "天",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：to cover its total net cash outflows over 30 days under a stressed scenario；单一来源待核实。",
+      "sources": [
+        "w-en-liquidity-coverage-ratio"
+      ]
+    }
+  ],
+  "comparison": "与**资本充足率**的区别：前者管\"损失吸收能力\"，后者管\"短期现金流韧性\"；一家银行可以资本充足而 LCR 不达标（资产长期、负债短期）。与**净稳定资金比率(NSFR)** 的区别：LCR 看 30 天的压力，NSFR 看一年期的结构性匹配。与**存款准备金**的区别：准备金要求针对存款负债设固定比率，LCR 针对**压力情景下的净流出**，是风险敏感的。",
+  "related": [
+    "basel-iii",
+    "basel-accords",
+    "capital-adequacy",
+    "bank-run",
+    "lender-of-last-resort"
+  ],
+  "sources": [
+    "w-en-liquidity-coverage-ratio"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作IB】据维基全文新建；监管细则与各国实施差异待核实。"
+}
