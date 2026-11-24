@@ -2686,6 +2686,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "渲染核查(lehman 页 12 章节完整)+验证页诚实性审计(2 条独立印证真实)，无数据改动",
       "note": "维基第146轮可用。PE：渲染与\"验证页诚实性\"核查，均通过（无数据改动）。\n①**网络**：仍 URLError。\n②**渲染核查**：抽查 site/lehman.html —— 12 个章节（概述/时间线/触发机制/关键数据/各方解释/政策/比较/一图示意/L3深度说明/L3深度图/待核实/来源）齐全，style.css 挂载、内联 SVG 与来源外链均在，title 规范。最终产物渲染正常。\n③**验证页诚实性审计**：`gen_site` 分类逻辑严谨——\"独立机构印证\"须有 `fed-*` 或机构独立文献 + \"印证\"关键词，且排除\"不构成独立/系转引\"；\"统计口径对照\"\"跨语言对照\"均带诚实免责声明（明示不构成独立互证）。实际 **2 条独立机构印证**经核实均为真·独立：`black-monday-1987`（fed-stock-crash-1987）、`wall-street-1929`（fed-stock-crash-1929）——均有美联储历史站独立文献佐证，非仅维基。\n④本轮无数据改动；十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 34/34。"
+    },
+    {
+      "round": "续作PF",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 0,
+      "fixed": 1,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
+      "spot_check": "网络精化诊断：TCP通/github TLS通/维基被DNS+TLS阻断，多种绕过失败，记入 BLOCKERS",
+      "note": "维基第147轮可用。PF：网络出口精化诊断——并非全断网，而是维基被针对性阻断；尝试多种绕过均失败，记入 BLOCKERS。\n①**探测**：TCP 层通（8.8.8.8:53、github:443、维基IP:443 均 OPEN）；TLS 到 github.com **成功**；\n但 DNS 把 en.wikipedia.org／wikiwand／google 解析到 Facebook/Twitter IP（污染），直连维基真实 IP 则 **TLS 握手被黑洞**（:80 RST）。\n②**尝试绕过**：DoH（1.1.1.1/dns.google）超时；CORS 代理 allorigins/codetabs 取维基 API **HTTP 522**；corsproxy 401；DBpedia 可达但目标资源 `dbo:abstract` **SPARQL 返回 0 行**。\n③**结论**：通用 HTTPS 可用、**唯维基被 DNS+TLS 针对性阻断**，现有免费代理无法绕过；3 条缺全文 + 5 条缓存缺口本会话仍无法补齐。已把精化诊断表记入 BLOCKERS。\n④本轮无数数据改动；十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 34/34。"
     }
   ]
 }

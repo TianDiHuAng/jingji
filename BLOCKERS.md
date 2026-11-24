@@ -1,5 +1,24 @@
 # BLOCKERS.md — 阻塞与质量问题记录
 
+## 网络出口精化诊断（round 167 复测）
+
+**结论：并非全断网，而是"维基被针对性阻断 + DNS 污染"。**
+
+| 探测 | 结果 |
+|---|---|
+| TCP 连接 8.8.8.8:53 / github.com:443 / 维基IP:443 | **均通** |
+| TLS 到 github.com（140.82.112.4） | **成功** |
+| DNS 解析 en.wikipedia.org / wikiwand.com / google.com | **被污染**→解析到 Facebook/Twitter IP（31.13.x / 157.240.x / 104.244.x），TCP 超时 |
+| 直连维基真实 IP（208.80.154.224 / 198.35.26.96 / 103.102.166.224）:443 | TCP 通，但 **TLS 握手超时**（SNI 被黑洞）；:80 直接 RST |
+| DoH（1.1.1.1 / dns.google 的 /resolve） | URLError 超时（外部 HTTPS 部分受限） |
+| CORS 代理 api.allorigins.win / api.codetabs.com 取维基 API | **HTTP 522**（代理侧亦无法快速到达维基） |
+| corsproxy.io | 401（需 key） |
+| DBpedia（dbpedia.org:443 TLS 通） | 可达，但 `dbo:abstract` SPARQL 对目标资源（Bear_Stearns / BCCI / South_Sea_*）**返回 0 行**，无法取摘要 |
+
+**含义**：通用 HTTPS（如 github.com）可用，**唯独维基被 DNS 污染 + TLS 层面针对性阻断**；现有免费代理均无法绕过；DBpedia 摘要不可得。
+故 3 条缺全文 + 5 条缓存缺口**在本会话仍无法补齐**。**若网络策略解除（或可用 VPN/镜像），可立即补齐。**
+
+
 ## 当前阻塞快照（round 145 复核，优先看此节）
 
 - **唯一实际阻塞：维基网络出口不可用**（DNS 污染 + 直连超时，本会话多次重试失败）。
