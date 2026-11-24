@@ -101,6 +101,79 @@ def m_nav():
 
 case('文案与导航一致性', m_nav, ['tools/check_pages.py'], '文案与导航一致性', [TGT])
 
+# ── 扩展：核心数据规则 ──
+def _w(path, d):
+    json.dump(d, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+def _r(path):
+    return json.load(open(path, encoding='utf-8'))
+
+
+def m_r1():
+    d = _r(TGT)
+    d.pop('one_line', None)
+    _w(TGT, d)
+
+
+case('R1 必填字段缺失', m_r1, ['tools/check.py'], 'R1', [TGT])
+
+TGT2 = os.path.join(ENT, 'capital-adequacy.json')
+
+
+def m_r7():
+    d = _r(TGT2)
+    d['id'] = 'bank-resolution'     # 与既有条目撞 id
+    d['title'] = '一个不重复的测试标题'
+    _w(TGT2, d)
+
+
+case('R7 重复id', m_r7, ['tools/check.py'], 'R7', [TGT2])
+
+
+def m_r8():
+    d = _r(TGT)
+    d['timeline'] = [{'year': 2020, 'event': 'x', 'sources': [d['sources'][0]]},
+                     {'year': 1900, 'event': 'y', 'sources': [d['sources'][0]]}]
+    _w(TGT, d)
+
+
+case('R8 timeline年份乱序', m_r8, ['tools/check.py'], 'R8', [TGT])
+
+
+def m_r9():
+    d = _r(TGT)
+    d['key_data'] = [{'label': '测试指标', 'value': '十二', 'unit': '项', 'year': 2011,
+                      'comparable_price': False, 'note': '测试', 'sources': [d['sources'][0]]}]
+    _w(TGT, d)
+
+
+case('R9 key_data值非数值', m_r9, ['tools/check.py'], 'R9', [TGT])
+
+
+def m_r10():
+    d = _r(TGT)
+    d['deep_svg'] = '<svg viewBox="0 0 10 10"><foreignObject></foreignObject></svg>'
+    _w(TGT, d)
+
+
+case('R10 SVG非法元素', m_r10, ['tools/check.py'], 'R10', [TGT])
+
+COV = os.path.join(ROOT, 'coverage.json')
+
+
+def m_r12():
+    d = _r(COV)
+    d['entries'].append({'id': 'zzz-not-exist', 'level': 'L1', 'tier': '补充',
+                         'status': 'planned', 'source_count': 0, 'needs_verification': 0,
+                         'last_updated': '2026-01-01', 'unit': 'U6 理论与制度',
+                         'period': '理论制度', 'region': '全球', 'crisis_type': '制度'})
+    _w(COV, d)
+
+
+case('R12 coverage含不存在条目', m_r12, ['tools/check.py'], 'R12', [COV])
+
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)

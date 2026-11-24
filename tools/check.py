@@ -193,6 +193,10 @@ def check_entry(e, path, all_ids=None):
         check_sources_refs(st.get('sources',[]), f'{where} causal_chain[{i}]')
     # R10 SVG
     check_svg(e.get('svg',''), where)
+    # R10b deep_svg（L3 机制图）同样须校验
+    _dsvg = e.get('deep_svg')
+    if _dsvg:
+        check_svg(_dsvg, where + ' [deep_svg]')
     # R11 内部链接
     if all_ids is not None:
         for rid in e.get('related',[]):
