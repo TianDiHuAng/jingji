@@ -2458,6 +2458,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
       "spot_check": "44 弱匹配 key_data 均假阴性；层级达标 0 违规；加 R23；自测 27→28",
       "note": "维基第127轮可用。OH-OI：网络仍不可用；完成两项内容核查并把层级达标固化为 R23。\n①**网络复测**：en/zh wikipedia 均 URLError 超时，仍不可用——3 条缺全文 + 5 条缓存缺口无法在本轮解决。\n②**key_data 弱匹配核查**：check_kd 的 44 条\"弱匹配\"逐条阅读——**note 均含与数值一致的原文引述**，系格式差（如 900,000 逗号、单位词未入关键词表）造成的假阴性，**内容准确、无实错**。\n③**层级达标核查**：tier×level 交叉表 **完全一致**——核心 34 全 L3、重要 502 全 L2、补充 105 全 L2，**0 违规**。\n④**固化为检查**：`check.py` 新增 **R23**——核心须 L3、重要须 L2/L3，否则 error。注入测试（核心改 L2）确认能捕获。\n⑤**纳入自测**：新增\"R23 核心未达L3\"用例，自测 27 → **28 项**，全通过；同步更新 HEALTH_CHECK（R1–R23、自测 28）。\n⑥现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
+    },
+    {
+      "round": "续作OJ-OK",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 4,
+      "reviewed": 24,
+      "fixed": 4,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "补 3 条 policy_response（政策覆盖 146→149）+ 修 finnish 残留未核实 20%",
+      "note": "维基第128轮可用。OJ-OK：网络仍不可用；据本地缓存**补 3 条 case 的 policy_response**，并**修一处残留未核实数字**。\n①**找候选**：筛出\"有专属富缓存、缺 policy_response、缓存含政策词\"的 case 24 条；逐条读缓存政策段落，选事实充分者。\n②**补 3 条 policy_response**（事实均取自其已引专属来源的本地缓存，未引入外部事实）：\nnixon-shock（正文补\"90天/10%\"精确值后提炼：工资物价冻结+10%进口附加税+取消美元兑金）、\ncreditanstalt（原 overview 为 stub\"待核实补充\"，据 w-en-creditanstalt 缓存改写并加\"恩德尔救助/否决国有化/1934合并\"）、\ndrexel（补\"监管与结局\"句并加\"SECK/NYSE/纽联储存疑→和解→第11章破产、救助未落实\"）。\n案例 policy_response 覆盖 146 → **149**。\n③**发现并修复残留**：check_polnum 报 `finnish-banking-1990` \"20%\" 完全找不到——查系 **round 131 只改了 overview 的免责声明、却漏改 policy_response 仍断言\"失业率从近零升至近20%\"**（来源未载）。已把 policy_response 改为\"失业率大幅上升（具体峰值待核实）\"。check_polnum 现\"完全找不到 0\"。\n④**教训**：一处\"未核实数字\"往往在多个字段重复出现——**改一处要全字段搜同款**（overview/one_line/policy_response/…）。\n⑤现状：641 条、来源 742、页面 655；案例政策 149 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }

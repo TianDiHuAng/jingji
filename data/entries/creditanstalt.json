@@ -8,7 +8,7 @@
   "region": "欧洲",
   "crisis_type": "银行",
   "one_line": "1855年在维也纳成立的大型奥地利银行，全称 Österreichische Credit-Anstalt für Handel und Gewerbe。",
-  "overview": "Creditanstalt（全称原为 k. k. priv. Österreichische Credit-Anstalt für Handel und Gewerbe）是一家大型奥地利银行，于1855年在维也纳成立。它是奥匈帝国时期重要的金融机构。其后续发展与1931年中欧银行危机的关系有待核实补充",
+  "overview": "Creditanstalt（k. k. priv. Österreichische Credit-Anstalt für Handel und Gewerbe）1855 年创立于维也纳，长期由罗斯柴尔德家族主导，是奥匈帝国时期的重要银行。**1931 年它的失败具有历史性后果，被视为引发大萧条的首批重大银行倒闭之一**，并成为中欧银行危机的引爆点。**政策应对**：奥地利总理奥托·恩德尔(Otto Ender)组织救助，由**奥地利政府、奥地利国家银行(Oesterreichische Nationalbank)与罗斯柴尔德家族**共同分担成本，并**否决了社会民主党主张的国有化方案**；1933 年末由多爾富斯(Dollfuß)下令、1934 年该行与维也纳银行协会(Wiener Bankverein)及下奥地利贴现公司(Niederösterreichische Escompte-Gesellschaft)的健全部分合并。此后 1938 年并入德意志银行体系，1945 年国有化，1997 年被 Bank Austria 收购。**与危机的关系**：它展示了\"单一重要银行的失败如何经同业敞口与信心渠道传导为区域性乃至全球性危机\"，是 1931 年中欧连锁银行危机的起点。",
   "timeline": [
     {
       "year": 1855,
@@ -58,7 +58,16 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "奥地利政策当局",
+      "view": "1931 年危机中，总理恩德尔组织救助，由奥地利政府、奥地利国家银行与罗斯柴尔德家族共同分担成本，否决了社会民主党主张的国有化；1934 年该行与维也纳银行协会及下奥地利贴现公司的健全部分合并。",
+      "basis": "据本条目正文与专属来源提炼；救助规模/效果待核实",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    }
+  ],
   "comparison": "与Danat银行(1931)同属1931年中欧银行危机的相关机构；具体关联与影响待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>奥地利 Creditanstalt 银行：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>Creditanstal</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -72,5 +81,5 @@
     "gold-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。 【续作OK｜round148】原 overview 为 stub，据 w-en-creditanstalt 缓存改写并加 policy_response。"
 }
