@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 741,
+  "count": 742,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8893,6 +8893,18 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-animal-spirits",
+      "title": "Animal spirits (Keynes)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Animal_spirits_(Keynes)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文 7590 字符）"
     }
   ]
 }
