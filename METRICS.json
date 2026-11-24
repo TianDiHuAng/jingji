@@ -766,6 +766,18 @@
       "check_result": "PASS (545); check_links 559页 0 error",
       "spot_check": "新增5条概念;3条与既有条目标题重复者改为\"合并内容\"而非另建",
       "note": "CN新增5条概念:中性利率r*/债权人减记bail-in/J曲线/马歇尔-勒纳条件/黑市与影子经济。**处理重复**:capital-controls/interest-parity/special-drawing-rights三条与既有的capital-control/interest-rate-parity/sdr标题重复,改为把更完整的内容合并进既有条目并删除新条目——避免同一概念两套页面。同时改进3条既有条目的正文深度。总545条,来源654,key_data 308条。"
+    },
+    {
+      "round": "续作CO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 545,
+      "fixed": 356,
+      "sources_total": 654,
+      "check_result": "PASS (545); check_links 559页 0 error",
+      "spot_check": "**四类字段模板化全部归零**：因果链0、学派观点0、comparison 0、policy_response 0",
+      "note": "发现comparison字段严重模板化——140条共用\"经济学/金融概念条目,与其他概念互补;具体适用与争论待核实\",合计351条涉及重复;policy_response同样有83条重复(61条为\"危机应对措施及其效果存在分歧\")。分批清理:删除300条空洞comparison与204条空泛policy_response,保留194条有实质比较内容的。**现因果链、学派观点、comparison、policy_response 四类字段的重复组均为0**。"
     }
   ]
 }
