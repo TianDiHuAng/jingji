@@ -57,11 +57,43 @@ def variants(num_str, next_ctx):
     return out
 
 
+
+def _ctx_ok(txt, txt_raw, idx, length, hints):
+    """数字附近须出现单位提示词，才视为强匹配。"""
+    win = txt[max(0, idx - 60):idx + length + 60]
+    raw = txt_raw[max(0, idx - 60):idx + length + 60]
+    if not hints:
+        return False
+    return any(h.lower() in win for h in hints)
+
+
+UNIT_HINT = {
+    '%': ['%', 'percent', 'per cent'],
+    '亿': ['billion', 'million', '亿'],
+    '万': ['million', 'thousand', '万'],
+    '年': ['year', '年'],
+    '月': ['month', '月'],
+    '日': ['day', '日', 'december', 'november', 'october', 'january', 'august', 'july', 'june'],
+    '点': ['points', 'point'],
+    '倍': ['times', 'fold'],
+}
+
+
+def _hints(after):
+    out = []
+    a = str(after or '')
+    for k, vs in UNIT_HINT.items():
+        if k in a:
+            out.extend(vs)
+    return list(dict.fromkeys(out))
+
 def main():
     entries = [json.load(open(f, encoding='utf-8'))
                for f in glob.glob(os.path.join(ROOT, 'data', 'entries', '*.json'))]
     NUM = re.compile(r'(\d[\d,]*\.?\d*)')
     checked = 0
+    missing = 0
+    weak = 0
     suspect = []
     for e in entries:
         pr = e.get('policy_response') or []
@@ -82,9 +114,38 @@ def main():
                 after = view[m.end():m.end() + 4]
                 checked += 1
                 cands = variants(num, after)
-                if not any(c and c in txt for c in cands):
+                hints = _hints(after)
+                found = False
+                strong = False
+                for c in cands:
+                    if not c:
+                        continue
+                    start = 0
+                    while True:
+                        j = txt.find(c, start)
+                        if j < 0:
+                            break
+                        start = j + 1
+                        found = True
+                        # 排除被更长数字包含（如 8 命中 12.7 的 8）
+                        b = txt[j - 1] if j > 0 else ' '
+                        a2 = txt[j + len(c)] if j + len(c) < len(txt) else ' '
+                        if b.isdigit() or a2.isdigit() or a2 == '.':
+                            continue
+                        if _ctx_ok(txt, txt, j, len(c), hints):
+                            strong = True
+                            break
+                    if strong:
+                        break
+                if not found:
                     suspect.append((e['id'], num, after, view[max(0, m.start() - 25):m.end() + 30]))
+                    missing += 1
+                elif not strong:
+                    weak += 1
     print('检查 policy_response 中的数字: %d 个' % checked)
+    print('  ★ 强匹配（数字+单位提示）: %d' % (checked - missing - weak))
+    print('  ○ 弱匹配（仅数字出现，上下文无单位提示，需人工判断）: %d' % weak)
+    print('  × 完全找不到: %d' % missing)
     if suspect:
         print('未能在来源全文中匹配: %d 个' % len(suspect))
         seen = set()
@@ -95,7 +156,7 @@ def main():
             print('  %-26s %-8s 后接"%-4s" | %s' % (eid, num, after, ctx[:60]))
         print('\n结果：需人工判断（多为单位换算或月份写法差异）')
         return 1
-    print('\n结果：全部数字均可在来源全文中找到（含亿/万换算与月份换算）')
+    print('\n结果：未发现「完全找不到」的数字；但**弱匹配不视为通过**，仍需人工抽查。')
     return 0
 
 
