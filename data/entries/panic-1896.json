@@ -94,10 +94,11 @@
     "w-en-financial-crisis"
   ],
   "related": [
-    "black-friday-1869",
-    "black-wednesday-1992",
-    "bretton-woods"
+    "bimetallism",
+    "panic-1893",
+    "panic-1901",
+    "sherman-silver-purchase"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
 }

@@ -1,0 +1,32 @@
+{
+  "second-bank": {
+    "title": "Second Bank of the United States",
+    "extract": "The Second Bank of the United States was the second federally authorized national bank in the United States, chartered under the Madison administration. Located in Philadelphia, Pennsylvania, the bank was authorized from February 1816 to January 1836. The bank's formal name, according to section 9 of its charter as passed by Congress, was \"The President, Directors, and Company, of the Bank of the United States\". While other banks in the United States were chartered by and only allowed to have branches in a single state, it was authorized to have branches in multiple states and lend money to the U.S. Government.",
+    "slug": "Second_Bank_of_the_United_States"
+  },
+  "free-banking": {
+    "title": "Free banking",
+    "extract": "Free banking is a monetary arrangement where banks are free to issue their own paper currency (banknotes) while also being subject to no special regulations beyond those applicable to most enterprises.",
+    "slug": "Free_banking"
+  },
+  "sherman-silver-purchase": {
+    "title": "Sherman Silver Purchase Act",
+    "extract": "The Sherman Silver Purchase Act was a United States federal law enacted on July 14, 1890, which increased the amount of silver the government was required to purchase on a recurrent monthly basis to 4.5 million ounces, roughly the entirety of the American output.",
+    "slug": "Sherman_Silver_Purchase_Act"
+  },
+  "national-banking-act": {
+    "title": "National Bank Act",
+    "extract": "The National Banking Acts of 1863 and 1864 were two United States federal banking acts that established a system of national banks chartered at the federal level, and created the United States National Banking System. They encouraged development of a national fiat currency backed by bank holdings of U.S. Treasury securities and established the Office of the Comptroller of the Currency as part of the United States Department of the Treasury. The acts shaped today's national banking system and its support of a uniform U.S. banking policy.",
+    "slug": "National_Banking_Acts"
+  },
+  "clearing-house": {
+    "title": "Clearing house",
+    "extract": "Clearing house or Clearinghouse may refer to:",
+    "slug": "Clearing_house"
+  },
+  "federal-reserve-act": {
+    "title": "Federal Reserve Act",
+    "extract": "The Federal Reserve Act was passed by the 63rd United States Congress and signed into law by President Woodrow Wilson on December 23, 1913. The law created the Federal Reserve System, the central banking system of the United States.",
+    "slug": "Federal_Reserve_Act"
+  }
+}

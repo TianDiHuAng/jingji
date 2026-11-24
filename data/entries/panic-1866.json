@@ -74,10 +74,10 @@
     "w-en-panic-of-1866"
   ],
   "related": [
-    "amsterdam-crisis-1763",
-    "australian-banking-1893",
-    "panic-1792"
+    "bill-of-exchange",
+    "panic-1857",
+    "panic-1873"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1866替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1866替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
 }

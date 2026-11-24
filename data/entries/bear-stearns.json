@@ -89,7 +89,12 @@
     "w-en-repo",
     "w-en-too-big-to-fail"
   ],
-  "related": [],
+  "related": [
+    "lehman",
+    "northern-rock",
+    "subprime-crisis-2007",
+    "too-big-to-fail"
+  ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AQ】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AQ】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。"
 }

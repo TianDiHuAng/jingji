@@ -1,0 +1,71 @@
+{
+  "id": "federal-reserve-act",
+  "title": "联邦储备法(1913)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "制度",
+  "one_line": "1913年12月23日签署的法律，创设美国联邦储备体系作为常设中央银行。",
+  "overview": "《联邦储备法》(Federal Reserve Act) 由**美国第63届国会**通过，并于 **1913 年 12 月 23 日** 由伍德罗·威尔逊总统签署成为法律。该法**创设了联邦储备体系**——美国的常设中央银行。其直接动因是 1907 年恐慌（见 panic-1907）暴露的制度缺陷：在国民银行法体系下缺乏最后贷款人，恐慌时只能靠私人（摩根等人）协调救市。联储的核心设计是：以联邦储备券提供**弹性货币**、以贴现窗口履行**最后贷款人**职能、并通过地区储备银行形成分权结构以平衡政治顾虑。历史评价存在两面：它在之后百年成为危机应对的核心机构，但 1929—1933 年间的政策失误（未能阻止货币供给收缩）也成为货币政策研究中最常被检讨的案例（见 great-depression）。具体条款与分权设计待核实。",
+  "timeline": [
+    {
+      "year": 1907,
+      "display": "1907年",
+      "event": "恐慌暴露缺乏最后贷款人的制度缺陷（见 panic-1907）",
+      "sources": [
+        "w-en-panic-of-1907"
+      ]
+    },
+    {
+      "year": 1913,
+      "display": "1913年12月23日",
+      "event": "威尔逊总统签署联邦储备法，创设联邦储备体系",
+      "sources": [
+        "w-en-federal-reserve-act"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1907年恐慌中只能靠私人救市 → 制度性最后贷款人缺位",
+      "sources": [
+        "w-en-panic-of-1907"
+      ]
+    },
+    {
+      "step": "1913年立法创设联邦储备体系 → 弹性货币与贴现窗口",
+      "sources": [
+        "w-en-federal-reserve-act"
+      ]
+    },
+    {
+      "step": "此后成为危机应对核心；1929—33年政策失误亦成经典检讨对象",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "制度补缺视角",
+      "view": "常设央行提供了弹性货币与最后贷款人，是必要进步",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>联邦储备法(1913)：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1907年恐慌中只能靠私</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1913年立法创设联邦储</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>此后成为危机应对核心；1</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
+  "sources": [
+    "w-en-federal-reserve-act",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+}

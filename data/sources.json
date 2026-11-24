@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 676,
+  "count": 681,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8109,6 +8109,66 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Stabilization_policy",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-second-bank",
+      "title": "Second Bank of the United States",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-free-banking",
+      "title": "Free banking",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Free_banking",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-national-bank-act",
+      "title": "National Bank Act",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/National_Banking_Acts",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-sherman-silver-purchase",
+      "title": "Sherman Silver Purchase Act",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Sherman_Silver_Purchase_Act",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-federal-reserve-act",
+      "title": "Federal Reserve Act",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
       "url2": null,
       "verified": true,
       "link_ok": true,

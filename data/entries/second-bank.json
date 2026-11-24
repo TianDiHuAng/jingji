@@ -1,0 +1,79 @@
+{
+  "id": "second-bank",
+  "title": "美国第二合众国银行",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "北美",
+  "crisis_type": "制度",
+  "one_line": "美国第二家联邦特许的国家银行（麦迪逊政府时期特许），其存废之争塑造了美国早期货币格局。",
+  "overview": "美国第二合众国银行(Second Bank of the United States) 是美国**第二家经联邦授权**的国家银行，在**麦迪逊政府**时期获得特许。它与第一合众国银行同属\"国家银行\"模式：兼具商业银行职能与代理国库、约束州银行纸币发行的准中央银行角色。其特许权到期后的存废之争（\"银行战\"）是美国早期政治经济史的核心冲突之一：反对者认为它集中了过大的私人权力且不受民主问责。该行特许失效后，美国进入**自由银行时代**（见 free-banking），州银行数量激增、纸币发行混乱，成为此后频繁银行恐慌（1837、1857、1873…）的制度背景。直到 1913 年联邦储备法（见 federal-reserve-act）才重新建立常设的中央银行。该线索是理解\"美国为何长期没有中央银行、因而危机频发\"的关键。具体年份与条款待核实。",
+  "timeline": [
+    {
+      "year": 1816,
+      "display": "1816年",
+      "event": "第二合众国银行在麦迪逊政府时期获联邦特许（年份待核实）",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "year": 1832,
+      "display": "1832年前后",
+      "event": "特许续期之争（\"银行战\"），最终未能延续（细节待核实）",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "联邦特许的国家银行兼具商业与准央行职能 → 引发权力集中争议",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "step": "特许失效 → 进入自由银行时代，州银行与纸币发行失序",
+      "sources": [
+        "w-en-free-banking"
+      ]
+    },
+    {
+      "step": "失序与频繁恐慌 → 1913年以联邦储备法重建中央银行",
+      "sources": [
+        "w-en-federal-reserve-act"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "中央银行必要性视角",
+      "view": "缺乏最后贷款人与统一纸币是恐慌频发的制度根源",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    },
+    {
+      "holder": "权力制衡视角",
+      "view": "集中的金融权力与民主问责冲突，反对有其道理",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国第二合众国银行：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>联邦特许的国家银行兼具商</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>特许失效 → 进入自由银</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>失序与频繁恐慌 → 19</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
+  "sources": [
+    "w-en-second-bank",
+    "w-en-free-banking"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+}

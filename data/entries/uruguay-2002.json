@@ -75,9 +75,9 @@
   ],
   "related": [
     "argentina-crisis-2001",
-    "bank-crisis-2023",
-    "china-liquidity-2013"
+    "contagion",
+    "south-america-2002"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
 }

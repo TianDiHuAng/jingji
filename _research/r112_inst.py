@@ -1,0 +1,28 @@
+import urllib.request, ssl, json, time, os
+c = ssl._create_unverified_context()
+h = {'User-Agent': 'Mozilla/5.0 EconCrisisBot/1.0'}
+cands = [
+ ('second-bank', 'Second_Bank_of_the_United_States'),
+ ('free-banking', 'Free_banking'),
+ ('sherman-silver-purchase', 'Sherman_Silver_Purchase_Act'),
+ ('national-banking-act', 'National_Banking_Acts'),
+ ('clearing-house', 'Clearing_house'),
+ ('federal-reserve-act', 'Federal_Reserve_Act'),
+]
+out = {}
+for eid, slug in cands:
+    if os.path.exists('data/entries/' + eid + '.json'):
+        print('SKIP', eid); continue
+    try:
+        d = json.loads(urllib.request.urlopen(urllib.request.Request(
+            'https://en.wikipedia.org/api/rest_v1/page/summary/' + slug, headers=h), timeout=8, context=c).read())
+        if d.get('extract'):
+            out[eid] = {'title': d.get('title'), 'extract': d['extract'], 'slug': slug}
+            print('OK', eid, '|', d.get('title')[:44])
+    except Exception as e:
+        print('FAIL', eid, type(e).__name__)
+    time.sleep(0.4)
+json.dump(out, open('_research/r112_inst.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('抓到', len(out))
+for k, v in out.items():
+    print('==='+k+'===', v['extract'][:160])

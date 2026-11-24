@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 572,
+  "total": 577,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7436,6 +7436,71 @@
       "unit": "U6 理论与制度",
       "period": "理论制度",
       "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "second-bank",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "free-banking",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "national-banking-act",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "sherman-silver-purchase",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "federal-reserve-act",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "北美",
       "crisis_type": "制度"
     }
   ]
