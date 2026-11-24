@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 732,
+  "count": 729,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -1131,18 +1131,6 @@
       "link_ok": true
     },
     {
-      "id": "w-en-venezuelan-economic-crisis",
-      "title": "Venezuelan crisis (disambiguation)",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Venezuelan_crisis_%28disambiguation%29",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=43574510），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
       "id": "w-en-rhode-island-banking-crisis",
       "title": "Rhode Island banking crisis",
       "author": "Wikipedia contributors",
@@ -1440,18 +1428,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=57499639），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-zh-001",
-      "title": "经济史",
-      "author": "维基百科贡献者",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%8F%B2",
-      "url2": null,
-      "verified": true,
-      "note": "中文维基 API 核对：页面存在（pageid=5613）",
       "link_ok": true
     },
     {
@@ -2040,18 +2016,6 @@
       "url2": null,
       "verified": true,
       "note": "机构页 HTTP 200 抓取核对：标题 \"Data Home\"（322559 字节）",
-      "link_ok": true
-    },
-    {
-      "id": "org-georgetown",
-      "title": "IMF Data",
-      "author": "IMF",
-      "year": null,
-      "type": "官方机构",
-      "url": "https://www.imf.org/en/Data",
-      "url2": null,
-      "verified": true,
-      "note": "机构页 HTTP 200 抓取核对：标题 \"IMF Data\"（9002 字节）",
       "link_ok": true
     },
     {
@@ -8331,18 +8295,6 @@
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
     },
     {
-      "id": "owid-dataset",
-      "title": "Our World in Data（世界银行 WDI 衍生数据集）",
-      "author": "Our World in Data / World Bank",
-      "year": "2026",
-      "type": "统计数据",
-      "url": "https://ourworldindata.org/grapher/",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "CSV 端点抓取核对：unemployment-rate / inflation-of-consumer-prices / gdp-worldbank / real-gdp-growth"
-    },
-    {
       "id": "w-en-convergence",
       "title": "Convergence (economics)",
       "author": "Wikipedia contributors",
@@ -8748,6 +8700,14 @@
       "url2": null,
       "verified": true,
       "note": "REST summary API 核对：页面存在并返回摘要（435 字符）。也门内战（2014—）"
+    },
+    {
+      "id": "owid-dataset",
+      "url": "https://ourworldindata.org/grapher/",
+      "type": "dataset",
+      "publisher": "Our World in Data",
+      "note": "OWID grapher 数据集总入口；具体序列按 slug 逐条引用",
+      "verified": true
     }
   ]
 }

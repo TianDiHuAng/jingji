@@ -54,7 +54,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>恶性通货膨胀：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字货币化/供给崩溃 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通胀预期失控 → 货币流通速</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币失序 → 货币改革或美元</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-hyperinflation",
-    "w-en-inflation"
+    "w-en-inflation",
+    "w-zh-013"
   ],
   "related": [
     "debasement",
@@ -66,5 +67,5 @@
     "seigniorage"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作EC】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作EC】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-013。"
 }

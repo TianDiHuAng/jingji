@@ -54,7 +54,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府增减支出/税收 → 总需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>乘数效应传导至产出与就业</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>债务与利率的可持续性约束</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-fiscal-policy",
-    "w-en-monetary-policy"
+    "w-en-monetary-policy",
+    "w-zh-019"
   ],
   "related": [
     "austerity",
@@ -72,5 +73,5 @@
     "twin-deficits"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作DZ】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作DZ】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-019。"
 }

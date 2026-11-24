@@ -84,7 +84,8 @@
   "sources": [
     "w-en-bank-run",
     "w-en-financial-crisis",
-    "w-en-shanghai-rubber-stock-market-crisis"
+    "w-en-shanghai-rubber-stock-market-crisis",
+    "w-en-panic-of-1910"
   ],
   "related": [
     "crisis-1914",
@@ -93,5 +94,5 @@
     "shanghai-rubber-1910"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作GS】补上已注册但未引用的来源 w-en-panic-of-1910。"
 }
