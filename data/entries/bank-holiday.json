@@ -81,11 +81,11 @@
   ],
   "comparison": "与现代**处置制度**（见 bank-resolution）的区别：1933 年的做法是**全国性临时停业 + 择优复业**，没有区分\"系统重要性\"与\"非系统重要性\"，也没有自救债券；现代处置强调按机构分级、由股东与债权人承担损失。与**存款保险**的关系：银行假日是**应急止血**，FDIC 是**长期制度**——两者在同一年先后出现，正好构成\"先救火、再防火\"的完整序列。",
   "related": [
-    "crisis-33ce",
-    "great-depression",
-    "bank-run",
-    "deposit-insurance",
     "bank-resolution",
+    "bank-run",
+    "crisis-33ce",
+    "deposit-insurance",
+    "great-depression",
     "panic-1930"
   ],
   "sources": [

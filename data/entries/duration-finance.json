@@ -60,6 +60,7 @@
     "asset-liability-mismatch",
     "bond",
     "convexity",
+    "interest-rate",
     "interest-rate-risk"
   ],
   "needs_verification": true,

@@ -35,11 +35,11 @@
   "key_data": [],
   "comparison": "与**购买保险**的区别：保险把风险转移给第三方（支付保费换取确定性），自我保险在内部留存资金（省下保费但承担波动）。与**资本缓冲**的关系：银行资本在功能上就是对其资产风险的自我保险。与**存款保险**的区别：后者是行业共同出资的强制安排，非个体自主选择。",
   "related": [
-    "deposit-insurance",
-    "risk-pooling",
     "capital-adequacy",
+    "deposit-insurance",
+    "insurance-history",
     "moral-hazard",
-    "insurance-history"
+    "risk-pooling"
   ],
   "sources": [
     "w-en-self-insurance"

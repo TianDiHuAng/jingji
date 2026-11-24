@@ -43,8 +43,8 @@
   "key_data": [],
   "comparison": "与**股份制保险公司**的区别：后者的股东责任以出资额为限，劳合社的成员（1980年代前）承担无限责任。与**再保险**的区别：劳合社是市场平台，本身不承担风险；再保险公司是风险的最终承担者。与**交易所**的区别：交易所撮合标准化合约，劳合社承保定制化风险。",
   "related": [
-    "insurance-history",
-    "counterparty-risk"
+    "counterparty-risk",
+    "insurance-history"
   ],
   "sources": [
     "w-en-lloyds",

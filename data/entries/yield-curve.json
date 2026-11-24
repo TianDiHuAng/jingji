@@ -60,6 +60,7 @@
     "basis-point",
     "bond",
     "interest-rate",
+    "leading-indicator",
     "yield-curve-control"
   ],
   "needs_verification": true,

@@ -55,11 +55,12 @@
   ],
   "comparison": "与**杠杆率**的区别：资本充足率的分母是**风险加权**资产（可被模型调低），杠杆率的分母是**未加权**的总暴露（无法通过权重规避）——后者正是为了约束前者的计量操纵而引入。与**流动性比率**的区别：资本是\"能吸收多少损失\"，流动性是\"能撑多久的现金流出\"，两者不可互相替代——危机中常见\"资本充足但流动性枯竭\"的银行。",
   "related": [
+    "bank-regulation",
     "basel-accords",
     "basel-iii",
     "liquidity-coverage-ratio",
     "macroprudential",
-    "bank-regulation"
+    "self-insurance"
   ],
   "sources": [
     "w-en-capital-adequacy"

@@ -32,8 +32,10 @@
   "key_data": [],
   "comparison": "与**政府失灵**的区别在\"失灵主体\"：市场失灵指自由市场配置未达帕累托效率（外部性、公共品、信息不对称、垄断、协调失败）；政府失灵指干预本身因激励扭曲（寻租、信息不足、政治周期）而未能改善（见 public-choice）。两者必须一起看：论证监管必要性时，只指出市场失灵不够，还须证明干预的收益大于政府失灵的成本——这是2008年后\"监管改革\"争论的核心框架。",
   "related": [
+    "common-pool",
     "externality",
     "information-asymmetry",
+    "pigouvian-tax",
     "property-rights",
     "public-choice",
     "public-good",

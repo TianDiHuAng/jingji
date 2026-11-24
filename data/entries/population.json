@@ -15,6 +15,7 @@
   "key_data": [],
   "comparison": "与**劳动人口**的区别在\"范围\"：人口是全体居民；劳动人口是其中处于劳动年龄且参与劳动市场者（劳动参与率×适龄人口）。这一区分在增长分析中很关键：人口红利来自**劳动人口占比**高（抚养比低），而非人口总量大；人口老龄化通过抚养比上升、储蓄下降与财政压力影响增长（见 secular-stagnation）。危机中，人口结构决定调整的承受力（年轻社会更易消化失业冲击）。",
   "related": [
+    "demographic-dividend",
     "growth",
     "labour-market",
     "lewis-turning-point",

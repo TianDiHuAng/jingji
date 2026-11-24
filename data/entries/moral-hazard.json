@@ -57,6 +57,7 @@
     "w-en-deposit-insurance"
   ],
   "related": [
+    "actuarial",
     "adverse-selection",
     "bailout",
     "credit-enhancement",
@@ -64,6 +65,8 @@
     "game-theory",
     "information-asymmetry",
     "principal-agent",
+    "risk-pooling",
+    "self-insurance",
     "time-inconsistency",
     "too-big-to-fail",
     "tragedy-commons"

@@ -44,9 +44,10 @@
   "comparison": "与**风险管理(VaR)** 的区别：精算关注长期（数十年）保险负债的分布与准备金，VaR 关注短期（1日—1年）交易组合的损失阈值。与**会计计提**的区别：精算准备金基于概率模型，会计计提遵循准则规定，两者的差距在危机中常成为争议焦点。",
   "related": [
     "deposit-insurance",
-    "risk-management",
     "insurance-history",
-    "moral-hazard"
+    "moral-hazard",
+    "risk-management",
+    "risk-pooling"
   ],
   "sources": [
     "w-en-actuarial",

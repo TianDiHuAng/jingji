@@ -66,12 +66,12 @@
     "w-en-systemic-risk"
   ],
   "related": [
+    "basel-iii",
     "market-risk",
+    "procyclicality",
     "risk-management",
     "stress-test",
-    "volatility",
-    "basel-iii",
-    "procyclicality"
+    "volatility"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作EA】补写概念辨析。 【续作HI】并入 var 的内容（重复条目，已删除）。"

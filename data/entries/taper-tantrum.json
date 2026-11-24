@@ -65,11 +65,11 @@
   ],
   "comparison": "与**实际加息冲击**的区别：缩减恐慌中联邦基金利率**未变**，冲击完全来自预期与期限溢价；这使它成为\"沟通即政策\"的教科书案例。与**1994 年债券大屠杀**的相似处：两者都是长端利率在政策转向预期下急升；差别在于 2013 年的传导渠道更偏跨境资本流动。与**2018 年新兴市场动荡**的关系：后者同样由美元利率上行触发，机制一脉相承。",
   "related": [
-    "quantitative-easing",
-    "monetary-transmission",
     "capital-control",
-    "sudden-stop",
-    "federal-reserve-act"
+    "federal-reserve-act",
+    "monetary-transmission",
+    "quantitative-easing",
+    "sudden-stop"
   ],
   "sources": [
     "w-en-quantitative-easing"

@@ -43,10 +43,10 @@
   "comparison": "与**同步指标**的区别：同步指标（GDP、工业产值、就业）确认当前状态，领先指标试图预判——后者误差更大但更有决策价值。与**经济预测模型**的区别：领先指标是\"看信号\"，模型是\"算关系\"；两者在实践中常互为校验。",
   "related": [
     "business-cycle",
-    "yield-curve",
-    "unemployment",
     "inflation",
-    "recession"
+    "recession",
+    "unemployment",
+    "yield-curve"
   ],
   "sources": [
     "w-en-leading-indicator"

@@ -54,13 +54,14 @@
   ],
   "comparison": "与**救助(bailout)** 的区别：救助用公共资金维持机构存续、保住股东与债权人；处置让机构退出、由股东与债权人承担损失（如通过 bail-in）。与**破产清算**的区别：普通破产程序以债权人受偿最大化为目标，处置还要兼顾**金融稳定**与**关键业务连续性**，因此可动用行政权力（临时接管、强制转移资产）。与**存款保险**的区别：后者保护小额存款人，前者处理机构本身的存续与退出。",
   "related": [
-    "bail-in",
     "bad-bank",
-    "too-big-to-fail",
+    "bail-in",
+    "bailout",
+    "bank-crisis-2023",
     "bank-failure",
     "deposit-insurance",
-    "bank-crisis-2023",
-    "lender-of-last-resort"
+    "lender-of-last-resort",
+    "too-big-to-fail"
   ],
   "sources": [
     "org-fsb-key-attributes"

@@ -43,10 +43,10 @@
   "key_data": [],
   "comparison": "与**金本位**的区别：金本位是一种**货币制度安排**（本币可兑换固定量黄金），金银块是**实物商品**；金本位可以废除，金银块的价值不会归零。与**外汇储备**的区别：后者是他人负债，前者是无对手方风险的实物资产。",
   "related": [
-    "gold-standard",
-    "gold-bloc",
-    "exchange-equalisation",
     "commodity-price-index",
+    "exchange-equalisation",
+    "gold-bloc",
+    "gold-standard",
     "seigniorage"
   ],
   "sources": [

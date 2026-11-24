@@ -51,10 +51,10 @@
   ],
   "comparison": "与**资本充足率**的区别：前者管\"损失吸收能力\"，后者管\"短期现金流韧性\"；一家银行可以资本充足而 LCR 不达标（资产长期、负债短期）。与**净稳定资金比率(NSFR)** 的区别：LCR 看 30 天的压力，NSFR 看一年期的结构性匹配。与**存款准备金**的区别：准备金要求针对存款负债设固定比率，LCR 针对**压力情景下的净流出**，是风险敏感的。",
   "related": [
-    "basel-iii",
-    "basel-accords",
-    "capital-adequacy",
     "bank-run",
+    "basel-accords",
+    "basel-iii",
+    "capital-adequacy",
     "lender-of-last-resort"
   ],
   "sources": [

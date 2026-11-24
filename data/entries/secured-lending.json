@@ -34,11 +34,12 @@
   "key_data": [],
   "comparison": "与**无担保贷款**的区别：后者仅凭借款人信誉，违约时无特定资产可主张，因此利率更高、额度更小。与**担保债券(covered bond)** 的区别：后者是银行以资产池为担保发行的债券，债权人仍对发行银行有追索权（双重追索）；担保贷款是借贷双方之间的安排。与**资产证券化**的区别：证券化把大量担保贷款打包出售，使\"谁承担最终信用风险\"从原始银行转移到投资者。",
   "related": [
-    "subprime-lending",
+    "asset-liability-mismatch",
+    "bond",
     "collateralized-debt-obligation",
     "margin-call",
-    "asset-liability-mismatch",
     "procyclicality",
+    "subprime-lending",
     "taiwan-bubble"
   ],
   "sources": [

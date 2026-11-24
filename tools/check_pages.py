@@ -98,6 +98,18 @@ def main():
         if val is not None and int(m.group(1)) != val:
             problems.append(('verification.html', label, int(m.group(1)), val))
 
+    # ── 文案与导航一致性：comparison 提到的条目应出现在 related 中 ──
+    _ids = {e['id'] for e in es}
+    for e in es:
+        comp = e.get('comparison') or ''
+        if not comp:
+            continue
+        mentioned = {i for i in _ids if i != e['id'] and i in comp}
+        missing = mentioned - set(e.get('related', []))
+        if missing:
+            problems.append(('data/' + e['id'] + '.json', '文案与导航一致性',
+                             '提到但未在related中', ','.join(sorted(missing)[:3])))
+
     print('期望值:', expect)
     print('页面数:', pages)
     print()
