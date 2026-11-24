@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 637,
+  "count": 644,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7645,6 +7645,90 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-yemeni-rial",
+      "title": "Yemeni rial",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Yemeni_rial",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-redenomination",
+      "title": "Redenomination",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Redenomination",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-angolan-kwanza",
+      "title": "Angolan kwanza",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Angolan_kwanza",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-zambian-kwacha",
+      "title": "Zambian kwacha",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Zambian_kwacha",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-new-zealand-property-bubble",
+      "title": "New Zealand property bubble",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_property_bubble",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-iranian-economic-crisis",
+      "title": "Iranian economic crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Iranian_economic_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-syrian-pound",
+      "title": "Syrian pound",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Syrian_pound",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
     }
   ]
 }

@@ -217,6 +217,12 @@
 | angola-oil-dependence | 安哥拉石油依赖型经济波动 | 见条目 | 见条目 | 其他 | 见条目 | 续作BN |
 | nz-finance-collapse | 新西兰金融公司倒闭潮(2006–2012) | 21世纪 | 大洋洲 | 银行 | 重要 | 续作BO |
 | dubai-debt-2009 | 迪拜债务危机(2009) | 21世纪 | 中东 | 债务 | 重要 | 续作BP |
+| yemen-currency-divergence | 也门货币分裂与里亚尔贬值(2015–) | 见条目 | 中东 | 货币 | 见条目 | 续作CI-CK |
+| angolan-kwanza-devaluation | 安哥拉宽扎贬值与货币更替 | 见条目 | 非洲 | 货币 | 见条目 | 续作CI-CK |
+| zambian-kwacha-reform | 赞比亚克瓦查重定面值(2013) | 见条目 | 非洲 | 货币 | 见条目 | 续作CI-CK |
+| nz-property-bubble | 新西兰房地产泡沫(1990s–) | 见条目 | 大洋洲 | 泡沫 | 见条目 | 续作CI-CK |
+| iranian-economic-crisis | 伊朗经济危机与高通胀(2018–) | 见条目 | 中东 | 恶性通胀 | 见条目 | 续作CI-CK |
+| syrian-pound-crisis | 叙利亚镑贬值与汇率分裂(2011–) | 见条目 | 中东 | 货币 | 见条目 | 续作CI-CK |
 
 ## U6 理论与制度
 
@@ -555,3 +561,4 @@
 | ebrd | 欧洲复兴开发银行(EBRD) | 理论制度 | 全球 | 制度 | 补充 | 续作BL |
 | idb | 美洲开发银行(IDB) | 理论制度 | 全球 | 制度 | 补充 | 续作BL |
 | afdb | 非洲开发银行(AfDB) | 理论制度 | 全球 | 制度 | 补充 | 续作BL |
+| redenomination | 货币重定面值(redenomination) | 见条目 | 全球 | 货币 | 见条目 | 续作CI-CK |

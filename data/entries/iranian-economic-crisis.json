@@ -1,0 +1,151 @@
+{
+  "id": "iranian-economic-crisis",
+  "title": "伊朗经济危机与高通胀(2018–)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "中东",
+  "crisis_type": "恶性通胀",
+  "one_line": "制裁、石油依赖与汇率贬值叠加，伊朗年通胀达88.6%—200%，为半个世纪以来全球最高。",
+  "overview": "伊朗经济危机是制裁、石油依赖与宏观管理失衡叠加的结果。伊朗财政高度依赖油气：例如 **2009财年，油气部门占政府预算的60%**。制裁压缩石油出口与外汇收入后，里亚尔大幅贬值、进口成本飙升，通胀迅速攀升——据伊朗统计组织报告，年通胀率达 **88.6%至200%**，为**半个世纪以来全球最高**。民生冲击显著：基本商品价格涨幅高达 **400%**（例如鸡蛋由每枚70,000里亚尔涨至200,000，约三倍）；实际最低工资降至每月不足 **100美元**，家庭食品支出占比常达 **70%**；2024年劳工与社会福利部报告称 **57%** 的人口存在营养不良。**口径提示**：上述为年通胀率。是否达到 Cagan 式恶性通胀的严格标准（月率>50%、年率约>13,000%）尚有争议，本条目按\"高通胀/接近恶性通胀\"处理，具体界定待核实。",
+  "timeline": [
+    {
+      "year": 2009,
+      "display": "2009财年",
+      "event": "油气部门占政府预算60%",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "year": 2018,
+      "display": "2018年起",
+      "event": "制裁强化，里亚尔贬值、通胀攀升（细节待核实）",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年",
+      "event": "57%人口营养不良；基本商品涨幅达400%",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "制裁压缩石油出口与外汇收入 → 里亚尔贬值、进口成本上升",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "step": "油气占预算60%的财政结构 → 收入冲击直接转为赤字与货币扩张",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "step": "年通胀88.6%—200%、基本商品涨400% → 实际工资与营养状况恶化",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "伊朗年通胀率(下限)",
+      "value": 88.6,
+      "unit": "%",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：Iran's Statistics Organization reported an annual inflation rate between 88.6% and 200%；单一来源待核实。",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "label": "伊朗年通胀率(上限)",
+      "value": 200,
+      "unit": "%（半个世纪以来全球最高）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：between 88.6% and 200%—the highest recorded globally in half a century；单一来源待核实。",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "label": "油气占政府预算比重(2009财年)",
+      "value": 60,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：During the 2009 fiscal year ... the oil and gas sector accounted for 60% of the government's budget；单一来源待核实。",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "label": "基本商品价格涨幅",
+      "value": 400,
+      "unit": "%（高达；鸡蛋由70,000涨至200,000里亚尔/枚）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：Basic goods saw price increases of up to 400%; the cost of eggs ... tripled from 70,000 to 200,000 rials each；单一来源待核实。",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "label": "营养不良人口比例(2024)",
+      "value": 57,
+      "unit": "%",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：In 2024, the Ministry ... reported that 57% of the population suffered from malnourishment；单一来源待核实。",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "制裁-汇率视角",
+      "view": "外部制裁通过汇率与进口成本传导为通胀",
+      "basis": "据通胀与汇率数据归纳",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    },
+    {
+      "holder": "财政结构视角",
+      "view": "石油依赖使财政对油价与出口冲击极度敏感",
+      "basis": "据油气占预算60%归纳",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-iranian-economic-crisis"
+      ]
+    }
+  ],
+  "comparison": "与委内瑞拉、津巴布韦等恶性通胀相比，伊朗的通胀尚未进入\"月率>50%\"的极端区间，但持续时间长、制裁为外生约束，性质更接近\"长期高通胀+货币贬值\"。具体界定待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伊朗经济危机与高通胀(2018–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制裁压缩石油出口与外汇收</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>油气占预算60%的财政结</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>年通胀88.6%—200</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-iranian-economic-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。伊朗条目已注明\"是否构成严格恶性通胀待核实\"。【续作CK】"
+}

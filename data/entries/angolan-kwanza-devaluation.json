@@ -1,0 +1,111 @@
+{
+  "id": "angolan-kwanza-devaluation",
+  "title": "安哥拉宽扎贬值与货币更替",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "非洲",
+  "crisis_type": "货币",
+  "one_line": "安哥拉宽扎自独立以来经历多次更替与大幅贬值，2023年5—6月对美元贬值近40%至825宽扎。",
+  "overview": "安哥拉宽扎(Kz) 在安哥拉独立后引入，平价替代了此前的埃斯库多，并细分为100 lwei。该货币此后经历多次更替与大幅贬值：**2023年5月至6月，宽扎对美元贬值近40%，创下825宽扎兑1美元的历史低点**。安哥拉作为高度依赖石油出口的经济体（2017年石油占出口价值90%以上），油价与产量波动直接决定外汇收入，进而决定汇率压力（见 angola-oil-dependence）。历史上安哥拉曾多次更换货币单位（kwanza→new kwanza→kwanza reajustado→现行宽扎），这与长期通胀与计价单位过小有关（参见 redenomination）。具体更替年份待核实。",
+  "timeline": [
+    {
+      "year": 1977,
+      "display": "1977年",
+      "event": "第一次宽扎(AOK)引入，平价替代埃斯库多",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年5—6月",
+      "event": "宽扎对美元贬值近40%，创825宽扎/美元低点",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "石油出口收入波动 → 外汇供给与财政同步恶化",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "step": "汇率承压 → 宽扎大幅贬值（2023年5—6月近40%）",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    },
+    {
+      "step": "长期通胀与计价单位过小 → 多次更替货币单位",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "宽扎单月贬值幅度(2023年5—6月)",
+      "value": -40,
+      "unit": "%（近40%）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：The currency suffered a devaluation of nearly 40% against the US dollar between May and June 2023；单一来源待核实。",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    },
+    {
+      "label": "宽扎汇率低点(2023)",
+      "value": 825,
+      "unit": "宽扎/美元（纪录低点）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：to a record low of 825 kwanzas to the US dollar；单一来源待核实。",
+      "sources": [
+        "w-en-angolan-kwanza"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "资源依赖视角",
+      "view": "石油单一依赖使汇率成为油价冲击的传导器",
+      "basis": "据出口结构归纳",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "holder": "货币更替视角",
+      "view": "更换货币单位不能替代宏观稳定，否则通胀在新单位下延续",
+      "basis": "据多次更替史归纳；因果待核实",
+      "sources": [
+        "w-en-redenomination"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-angolan-econ"
+      ]
+    }
+  ],
+  "comparison": "与尼日利亚、委内瑞拉等石油依赖经济体同型：油价冲击→外汇短缺→贬值。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>安哥拉宽扎贬值与货币更替：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>石油出口收入波动 → 外</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率承压 → 宽扎大幅贬</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期通胀与计价单位过小 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-angola-econ",
+    "w-en-angolan-kwanza"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】"
+}

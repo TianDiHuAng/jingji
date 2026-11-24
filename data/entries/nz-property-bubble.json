@@ -1,0 +1,140 @@
+{
+  "id": "nz-property-bubble",
+  "title": "新西兰房地产泡沫(1990s–)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "大洋洲",
+  "crisis_type": "泡沫",
+  "one_line": "新西兰房价自1990年代初以来远超收入增长，2002—2008年实际涨80%，住房自有率由74%降至65%。",
+  "overview": "新西兰的房地产泡沫是该国重大的经济与社会议题。自1990年代初以来，新西兰房价上涨速度远超收入，使公共住房供给方压力上升、能通过私人市场获得住房的家庭减少。规模上：**2002至2008年间，全国房价实际上涨80%**；部分区域出现过约 **9%** 的（回调）幅度——尽管是从极高水平回落。社会后果显著：**1986至2013年，住房自有率由74%降至65%**，并被认为加剧了收入不平等（新西兰现为发达国家中不平等程度较高者之一）。政策与制度的角色受关注：有分析认为1970年代某法案使1977—2018年间人口每增长1%推高房价约2%，而此前仅约0.5%。此外，1987年股灾中 NZSE 指数自峰值下跌约 **60%**，恢复所需时间也长于多数发达市场。具体数据待核实。",
+  "timeline": [
+    {
+      "year": 1987,
+      "display": "1987年",
+      "event": "NZSE 指数自峰值下跌约60%（黑色星期一）",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2002—2008年",
+      "event": "全国房价实际上涨80%",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "year": 2013,
+      "display": "1986—2013年",
+      "event": "住房自有率由74%降至65%",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "长期低利率、移民流入与土地/规划约束 → 住房供给弹性不足",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "step": "信贷扩张推动房价远超收入（2002—2008实际+80%）→ 住房自有率下降（74%→65%）",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "step": "财富与债务集中于房地产 → 加剧不平等并放大金融体系对房价的敏感度",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "新西兰房价实际上涨(2002—2008)",
+      "value": 80,
+      "unit": "%（实际值）",
+      "year": 2008,
+      "comparable_price": true,
+      "note": "原文：Nationwide, property prices increased 80% in real terms between 2002 and 2008；单一来源待核实。",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "label": "住房自有率(1986)",
+      "value": 74,
+      "unit": "%",
+      "year": 1986,
+      "comparable_price": false,
+      "note": "原文：Between 1986 and 2013, home ownership dropped from 74% to 65%；单一来源待核实。",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "label": "住房自有率(2013)",
+      "value": 65,
+      "unit": "%",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "原文：home ownership dropped from 74% to 65%；单一来源待核实。",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "label": "NZSE指数自峰值跌幅(1987)",
+      "value": -60,
+      "unit": "%（约）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：The NZSE dropped around 60% from its peak；单一来源待核实。",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "供给约束视角",
+      "view": "规划与土地供给限制是房价长期偏高的主因",
+      "basis": "据人口与房价弹性测算归纳；因果待核实",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    },
+    {
+      "holder": "信贷与利率视角",
+      "view": "低利率与信贷扩张放大了需求端",
+      "basis": "据房价与信贷周期归纳",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
+    }
+  ],
+  "comparison": "与澳大利亚、加拿大等移民型经济体房价长期偏高相似；但新西兰的住房自有率下降与不平等恶化证据更完整。与日本1990年泡沫不同，新西兰房价未曾出现同等量级的崩跌。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新西兰房地产泡沫(1990s–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>长期低利率、移民流入与土</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信贷扩张推动房价远超收入</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财富与债务集中于房地产 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-new-zealand-property-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】"
+}

@@ -1,0 +1,36 @@
+{
+  "iranian-crisis": {
+    "title": "Iranian economic crisis",
+    "len": 13367,
+    "hits": [
+      "During the 2009 fiscal year, for example, the oil and gas sector accounted for 60% of the government's budget.",
+      "Iran's Statistics Organization reported an annual inflation rate between 88.6% and 200%—the highest recorded globally in half a century.",
+      "In 2024, the Ministry of Cooperatives, Labour, and Social Welfare reported that 57% of the population suffered from malnourishment.",
+      "Basic goods saw price increases of up to 400%; the cost of eggs, for example, tripled from 70,000 to 200,000 rials each.",
+      "As the real minimum wage dropped below $100 a month, families frequently spent up to 70% of their income on food alone.",
+      "The CBI facilitated this by opening 90 million digital \"Iran wallet\" BNPL accounts linked to National ID cards, though it simultaneously raised electronic banking transaction fees by 60%.",
+      "Around the same time, leaked documents controversially revealed that Bank Pasargad had issued loans of 1,000 billion tomans to select elite customers.",
+      "The Statistical Centre of Iran reported an 11% drop in the birth rate for second children.",
+      "The government responded by forming the National Housing Committee, which froze rent increases at a 25% cap and created an online portal for tenants to report non-compliant landlords.",
+      "Addiction treatment clinics faced closures after the cost of necessary medications rose by 30%."
+    ],
+    "extract": "The Iranian economic crisis is an ongoing period of severe financial instability in Iran that intensified in 2024. The downturn is rooted in long-standing issues such as domestic mismanagement, systemic corruption, and strict international sanctions. These structural problems were severely compounded by a United States naval blockade in mid-2026, which heavily restricted the country's oil exports and its integration with global markets.\nPrimary indicators of the crisis include hyperinflation, a historic depreciation of the Iranian rial, extensive energy and food shortages, and rising poverty. The deteriorating economic environment has driven widespread social unrest, culminating in nationwide protests, labour strikes, and a political crisis within the Iranian government. By late 2025, inte"
+  },
+  "syrian-pound": {
+    "title": "Syrian pound",
+    "len": 12301,
+    "hits": [
+      "dollar at LS 2.19148 = US$1, a rate which was maintained until 1961.",
+      "By 4 May, 56% of the old currency had been replaced.",
+      "By 1 June, 63% had been replaced, and by 30 July, 95% had been replaced, which ended the replacement of the Syrian pound.",
+      "== Exchange rate ==\nOn 5 December 2005, the selling rate quoted by the Commercial Bank of Syria was LS 48.4 = US$1.",
+      "A rate of about LS 50 to US$1 was usual in the early 2000s, but the rate is subject to fluctuations.",
+      "It was LS 47 = US$1 in March 2011 and LS 515 in July 2017.",
+      "The black-market rate fell to LS 950 on 2 December 2019, another 25% decrease, while the official rate set by the central bank was LS 434 = US$1.",
+      "On 13 January 2020, the currency deteriorated further, as more than LS 1,000 was traded for US$1 in the black market, despite being valued at LS 434 = US$1 by the Syrian Central Bank.",
+      "dollar in the black market, where US$1 equaled more than LS 1,600 in May 2020.",
+      "On 31 December 2022, the Syrian pound hit a new record low again on the black market, where each US$1 cost LS 7,150, twice as much as a year before."
+    ],
+    "extract": "The Syrian pound, known locally as the Syrian lira, (Arabic: الليرة السورية, romanized: al-Līra as-Sūriyyah; abbreviation: LS or SP in Latin, ل.س in Arabic, historically also £S, and £Syr;  ISO code: SYP) is the official currency of Syria. It is issued by the Central Bank of Syria. The pound is nominally divided into 100 piastres (قرش qirsh, plural قروش qurūsh in Arabic, abbreviated to p.). Only banknotes are currently issued.\nBefore 1947, the Arabic inscription of the word \"qirsh\" was spelled with the initial Arabic letter غ, after which the word began with ق. Until 1958, banknotes were issued with Arabic on the obverse and French on the reverse. Since 1958, English has been used on the reverses, hence the three different names for this currency. Coins used both Arabic and French until in"
+  }
+}

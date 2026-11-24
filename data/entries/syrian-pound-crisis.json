@@ -1,0 +1,138 @@
+{
+  "id": "syrian-pound-crisis",
+  "title": "叙利亚镑贬值与汇率分裂(2011–)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "中东",
+  "crisis_type": "货币",
+  "one_line": "叙利亚镑自2011年战争爆发后大幅贬值，官方与市场汇率分化，2017年已达515镑/美元。",
+  "overview": "叙利亚镑(SYP) 是叙利亚的官方货币，由叙利亚中央银行发行，名义上分为100皮阿斯特，目前仅发行纸币。历史上其汇率长期稳定：1947年之前与（某货币挂钩）；对美元汇率 LS 2.19148 = US$1 的平价一直维持到 **1961年**。2000年代初常见汇率约为 LS 50 = US$1；2005年12月5日商业叙利亚银行报价为 LS 48.4 = US$1。2011年3月内战爆发前为 LS 47 = US$1，到 **2017年7月已贬至 LS 515 = US$1**。战时经济下官方汇率与黑市汇率严重分化，外汇短缺、制裁与产出崩溃使货币持续承压。2025年前后叙利亚政权更迭后，货币安排与汇率统一问题成为重建议题之一（细节待核实）。",
+  "timeline": [
+    {
+      "year": 1961,
+      "display": "至1961年",
+      "event": "对美元平价 LS 2.19148 = US$1 维持至此",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "year": 2005,
+      "display": "2005年12月5日",
+      "event": "商业叙利亚银行卖出价 LS 48.4 = US$1",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年3月",
+      "event": "内战爆发前 LS 47 = US$1",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "year": 2017,
+      "display": "2017年7月",
+      "event": "贬至 LS 515 = US$1",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "内战爆发 → 产出崩溃、外汇收入锐减与制裁",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "step": "外汇短缺 + 财政货币化 → 里亚尔（镑）持续贬值",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "step": "官方与黑市汇率分化 → 多重汇率、支付与物价区域化",
+      "sources": [
+        "w-en-yemeni-rial"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "叙利亚镑汇率(2011-03)",
+      "value": 47,
+      "unit": "镑/美元",
+      "year": 2011,
+      "comparable_price": false,
+      "note": "原文：It was LS 47 = US$1 in March 2011 and LS 515 in July 2017；单一来源待核实。",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "label": "叙利亚镑汇率(2017-07)",
+      "value": 515,
+      "unit": "镑/美元",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：LS 515 in July 2017；单一来源待核实。",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "label": "叙利亚镑汇率(2005-12-05)",
+      "value": 48.4,
+      "unit": "镑/美元（商业叙利亚银行卖出价）",
+      "year": 2005,
+      "comparable_price": false,
+      "note": "原文：On 5 December 2005, the selling rate quoted by the Commercial Bank of Syria was LS 48.4 = US$1；单一来源待核实。",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "战争经济视角",
+      "view": "汇率贬值是产出崩溃与外汇短缺的直接反映",
+      "basis": "据汇率数据归纳",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    },
+    {
+      "holder": "多重汇率视角",
+      "view": "官方与市场汇率分化本身会扭曲资源配置并滋生寻租",
+      "basis": "据多重汇率通行分析归纳",
+      "sources": [
+        "w-en-yemeni-rial"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
+    }
+  ],
+  "comparison": "与也门里亚尔(内战致货币分裂)、黎巴嫩镑(多重汇率)同属\"战时/危机中的多重汇率\"样本。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>叙利亚镑贬值与汇率分裂(2011–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内战爆发 → 产出崩溃、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>外汇短缺 + 财政货币化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>官方与黑市汇率分化 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-syrian-pound",
+    "w-en-yemeni-rial"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。伊朗条目已注明\"是否构成严格恶性通胀待核实\"。【续作CK】"
+}
