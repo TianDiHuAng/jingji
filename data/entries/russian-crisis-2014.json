@@ -45,21 +45,21 @@
   ],
   "causal_chain": [
     {
-      "step": "外汇市场抛售或固定汇率承压 → 本币贬值预期形成",
+      "step": "油价自2014年6月高点至12月跌近50% + 西方制裁 → 出口收入与融资同时收缩",
       "sources": [
-        "w-en-currency-crisis"
+        "w-en-russian-financial-crisis-2014"
       ]
     },
     {
-      "step": "资本外流与本币贬值 → 进口价格与债务负担上升",
+      "step": "资本外流1540亿美元 → 卢布承压、通胀上升",
       "sources": [
-        "w-en-currency-devaluation"
+        "w-en-russian-financial-crisis-2014"
       ]
     },
     {
-      "step": "货币当局应激反应（加息/干预/放弃钉住）→ 经济收缩或通胀",
+      "step": "央行加息至17%、动用1075亿美元储备、转向浮动 → 2015年GDP收缩3.7%",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-russian-financial-crisis-2014"
       ]
     }
   ],
@@ -111,19 +111,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "认为是货币供给与汇率政策失当的结果",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "外部冲击视角",
+      "view": "油价与制裁是直接触发因素",
+      "basis": "据油价与资本流动数据归纳",
       "sources": [
-        "w-en-monetary-policy"
+        "w-en-russian-financial-crisis-2014"
       ]
     },
     {
-      "holder": "传染视角",
-      "view": "强调资本流动与市场预期的国际传导",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "政策应对视角",
+      "view": "浮动汇率+高利率的组合较快恢复了稳定",
+      "basis": "据2015—16年稳定过程归纳；代价待核实",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-russian-financial-crisis-2014"
       ]
     }
   ],
@@ -152,5 +152,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。 【续作BG】2015年GDP增速已并列两源（−3.7% vs 世行 −1.97%），差异待核实。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。 【续作BG】2015年GDP增速已并列两源（−3.7% vs 世行 −1.97%），差异待核实。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。"
 }

@@ -21,40 +21,40 @@
   ],
   "causal_chain": [
     {
-      "step": "资产质量恶化或挤兑冲击 → 银行资产负债表受损",
+      "step": "系统性冲击下，有偿付能力的机构也面临挤兑与资产贱卖的流动性风险",
       "sources": [
-        "w-en-bank-run"
+        "w-en-lender-of-last-resort"
       ]
     },
     {
-      "step": "信贷收缩 → 实体经济融资中断、企业违约上升",
+      "step": "央行以良好抵押品为担保、按惩罚性利率自由放贷（白芝浩原则）",
       "sources": [
-        "w-en-credit-crunch"
+        "w-en-lender-of-last-resort"
       ]
     },
     {
-      "step": "信心危机扩散 → 系统性风险上升",
+      "step": "阻止健康的机构被流动性问题拖垮，但须区分\"流动性不足\"与\"无偿付能力\"",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-lender-of-last-resort"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "银行挤兑/恐慌视角",
-      "view": "危机源于存款人信心崩塌引发的挤兑与信贷收缩",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "白芝浩原则",
+      "view": "自由放贷、惩罚性利率、良好抵押品，且只针对市场整体",
+      "basis": "据《伦巴第街》传统归纳",
       "sources": [
-        "w-en-bank-run"
+        "w-en-lender-of-last-resort"
       ]
     },
     {
-      "holder": "系统性风险视角",
-      "view": "强调机构关联与传染导致的整体不稳定",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "边界模糊视角",
+      "view": "流动性不足与无偿付能力在危机中难以区分，实践中救助范围不断扩大",
+      "basis": "据2008/2023年案例归纳；争议待核实",
       "sources": [
-        "w-en-systemic-risk"
+        "w-en-lender-of-last-resort"
       ]
     }
   ],
@@ -80,5 +80,5 @@
     "australian-banking-1893"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作BX】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作CF】因果链与学派观点已按本条目史实定制，替换通用母版。"
 }

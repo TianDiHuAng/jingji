@@ -29,21 +29,21 @@
   ],
   "causal_chain": [
     {
-      "step": "举债扩张 + 偿付能力假设 → 债务累积",
+      "step": "\"三条红线\"融资约束 + 预售制下的高杠杆扩张 → 开发商资金链断裂",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-china-realestate-2020"
       ]
     },
     {
-      "step": "利率上升/收入下降/信心逆转 → 偿付困难暴露",
+      "step": "恒大等违约（涉资约2万亿元人民币）→ 项目停工与供应商、购房者受损",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-china-realestate-2020"
       ]
     },
     {
-      "step": "违约或重组 → 债权人损失与传染",
+      "step": "政策以\"保交楼\"、项目纾困与需求端放松应对 → 地方土地财政承压（细节待核实）",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-china-realestate-2020"
       ]
     }
   ],
@@ -73,19 +73,19 @@
   ],
   "schools": [
     {
-      "holder": "债务周期视角",
-      "view": "过度负债与通缩相互强化的动态过程",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "杠杆与预售视角",
+      "view": "预售制+高杠杆使开发商对销售回款极度敏感",
+      "basis": "据恒大案例归纳",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-china-realestate-2020"
       ]
     },
     {
-      "holder": "主权违约视角",
-      "view": "强调偿付意愿与制度安排的作用",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "土地财政视角",
+      "view": "地方财政对土地出让的依赖放大了调整的宏观影响",
+      "basis": "据政策应对归纳；量化待核实",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-china-realestate-2020"
       ]
     }
   ],
@@ -113,5 +113,5 @@
     "pakistan-crisis-2021"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-real-estate-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-real-estate-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。"
 }

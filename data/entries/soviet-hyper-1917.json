@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "财政赤字货币化/供给冲击 → 货币供给过快增长",
+      "step": "内战与\"战时共产主义\"使工业产出崩溃（1920年远低于战前60.59亿金卢布）→ 税基瓦解",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-soviet-hyperinflation"
       ]
     },
     {
-      "step": "通胀预期固化 → 货币流通速度上升、价格加速",
+      "step": "财政缺口全靠发行纸币 → 货币职能丧失（\"唯一繁荣的产业是纸币生产\"）",
       "sources": [
-        "w-en-inflation"
+        "w-en-soviet-hyperinflation"
       ]
     },
     {
-      "step": "货币体系失序 → 币值崩溃与新货币改革",
+      "step": "1921年转向新经济政策 → 1922—1924年以切尔文(chevronets)金本位货币稳定币值",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-soviet-hyperinflation"
       ]
     }
   ],
@@ -70,19 +70,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "通胀无论何时何地都是货币现象，源于货币超发",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "战争共产主义视角",
+      "view": "产出崩溃+税基瓦解使印钞成为唯一财源",
+      "basis": "据工业产出数据归纳",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-soviet-hyperinflation"
       ]
     },
     {
-      "holder": "财政视角",
-      "view": "赤字货币化与财政失衡是根源",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "制度转轨视角",
+      "view": "切尔文改革的关键是重建税收与预算约束，而非仅更换货币",
+      "basis": "据NEP与币改时序归纳",
       "sources": [
-        "w-en-inflation"
+        "w-en-soviet-hyperinflation"
       ]
     }
   ],
@@ -109,5 +109,5 @@
     "hungarian-hyper-1945"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AS】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AS】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。"
 }

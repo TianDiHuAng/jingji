@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "举债扩张 + 偿付能力假设 → 债务累积",
+      "step": "欧元区统一货币但财政各自为政 → 边缘国家以低利率累积债务与竞争力失衡",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-eurozone-crisis"
       ]
     },
     {
-      "step": "利率上升/收入下降/信心逆转 → 偿付困难暴露",
+      "step": "希腊赤字由\"6—8%\"修正为12.7% → 市场拒绝融资、主权利差飙升",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-eurozone-crisis"
       ]
     },
     {
-      "step": "违约或重组 → 债权人损失与传染",
+      "step": "救助+紧缩+银行-主权循环 → 希腊与西班牙失业率升至27%",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-eurozone-crisis"
       ]
     }
   ],
@@ -104,35 +104,19 @@
   ],
   "schools": [
     {
-      "holder": "债务周期视角",
-      "view": "过度负债与通缩相互强化的动态过程",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "制度设计视角",
+      "view": "货币统一而财政分散，缺少调整与转移机制",
+      "basis": "据危机演进归纳",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-eurozone-crisis"
       ]
     },
     {
-      "holder": "主权违约视角",
-      "view": "强调偿付意愿与制度安排的作用",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "银行-主权循环视角",
+      "view": "银行持有本国国债使二者风险相互放大",
+      "basis": "据西班牙、爱尔兰案例归纳",
       "sources": [
-        "w-en-sovereign-default"
-      ]
-    },
-    {
-      "holder": "Nouriel Roubini（Crisis Economics）",
-      "view": "高债务与宏观失衡叠加时，危机风险上升；债务累积常先于危机（据 Crisis Economics 主题归纳）",
-      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
-      "sources": [
-        "bk-crisis-economics"
-      ]
-    },
-    {
-      "holder": "Barry Eichengreen（Golden Fetters）",
-      "view": "国际货币制度约束影响债务国调整空间",
-      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
-      "sources": [
-        "bk-the-golden-fetters"
+        "w-en-eurozone-crisis"
       ]
     }
   ],
@@ -160,7 +144,7 @@
     "pakistan-crisis-2021"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BE】失业率已用 OWID/世界银行-ILO 数据双源印证。 【续作BR】已用抓取事实重写正文与时间线，替换原骨架占位。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BE】失业率已用 OWID/世界银行-ILO 数据双源印证。 【续作BR】已用抓取事实重写正文与时间线，替换原骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

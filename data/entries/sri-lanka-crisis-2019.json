@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "举债扩张 + 偿付能力假设 → 债务累积",
+      "step": "大规模减税 + 旅游受创 + 长期经常账户赤字 → 外汇储备枯竭（2022年3月19亿美元）",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-sri-lankan-economic-crisis"
       ]
     },
     {
-      "step": "利率上升/收入下降/信心逆转 → 偿付困难暴露",
+      "step": "2022年到期偿还86亿美元（含7月主权债10亿）→ 无力偿付，宣布暂停外债",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-sri-lankan-economic-crisis"
       ]
     },
     {
-      "step": "违约或重组 → 债权人损失与传染",
+      "step": "IMF谈判与债务重组（印度提供40亿美元信贷额度曾使储备回升至27亿）",
       "sources": [
-        "w-en-financial-contagion"
+        "w-en-sri-lankan-economic-crisis"
       ]
     }
   ],
@@ -81,19 +81,19 @@
   ],
   "schools": [
     {
-      "holder": "债务周期视角",
-      "view": "过度负债与通缩相互强化的动态过程",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "政策失误视角",
+      "view": "大幅减税与汇率僵化加剧了外储枯竭",
+      "basis": "据政策时序归纳",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-sri-lankan-economic-crisis"
       ]
     },
     {
-      "holder": "主权违约视角",
-      "view": "强调偿付意愿与制度安排的作用",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "外债结构视角",
+      "view": "到期集中与外币债务占比高使再融资风险陡增",
+      "basis": "据2022年偿还数据归纳",
       "sources": [
-        "w-en-sovereign-default"
+        "w-en-sri-lankan-economic-crisis"
       ]
     }
   ],
@@ -121,5 +121,5 @@
     "greek-debt-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-sri-lankan-economic-crisis-2019-2024。 【续作AP】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-sri-lankan-economic-crisis-2019-2024。 【续作AP】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。"
 }

@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "财政赤字货币化/供给冲击 → 货币供给过快增长",
+      "step": "战后赔偿负担、生产设施破坏与财政赤字 → 以中央银行融资弥补",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-hungarian-pengo"
       ]
     },
     {
-      "step": "通胀预期固化 → 货币流通速度上升、价格加速",
+      "step": "货币供给爆炸性扩张 → 价格约每15小时翻倍，pengő约4天内失去90%价值",
       "sources": [
-        "w-en-inflation"
+        "w-en-hungarian-pengo"
       ]
     },
     {
-      "step": "货币体系失序 → 币值崩溃与新货币改革",
+      "step": "1945年12月曾以75%资本税等手段抑制未果 → 1946年以福林(forint)改革收场",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-hungarian-pengo"
       ]
     }
   ],
@@ -93,34 +93,18 @@
   "schools": [
     {
       "holder": "货币主义视角",
-      "view": "通胀无论何时何地都是货币现象，源于货币超发",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "view": "史上最严重恶性通胀源于纯粹的赤字货币化",
+      "basis": "据Cagan传统归纳",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-hungarian-pengo"
       ]
     },
     {
-      "holder": "财政视角",
-      "view": "赤字货币化与财政失衡是根源",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "战后赔偿视角",
+      "view": "赔款负担是外生约束，使财政调整空间极小",
+      "basis": "据战后赔款安排归纳；规模待核实",
       "sources": [
-        "w-en-inflation"
-      ]
-    },
-    {
-      "holder": "Peter Bernholz 的财政—货币框架（转引自 Wikipedia Hyperinflation）",
-      "view": "恶性通胀的必要条件是财政赤字通过中央银行融资",
-      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
-      "sources": [
-        "w-en-hyperinflation"
-      ]
-    },
-    {
-      "holder": "货币主义解释",
-      "view": "通胀无论何时何地都是货币现象，货币供给增速决定物价",
-      "basis": "基于来源库中已核对著作/百科的框架性归纳；本案例的具体适用待核实原文",
-      "sources": [
-        "w-en-inflation"
+        "w-en-hungarian-pengo"
       ]
     }
   ],
@@ -148,7 +132,7 @@
     "soviet-hyper-1917"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-hungarian-peng。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-hungarian-peng。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

@@ -37,21 +37,21 @@
   ],
   "causal_chain": [
     {
-      "step": "财政赤字货币化/供给冲击 → 货币供给过快增长",
+      "step": "南斯拉夫解体战争 + 国际制裁 → 产出崩溃与税收瓦解",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-yugoslav-hyperinflation"
       ]
     },
     {
-      "step": "通胀预期固化 → 货币流通速度上升、价格加速",
+      "step": "赤字货币化 → 1994年1月月通胀达3.13亿%、日均62%、时均2.03%",
       "sources": [
-        "w-en-inflation"
+        "w-en-yugoslav-hyperinflation"
       ]
     },
     {
-      "step": "货币体系失序 → 币值崩溃与新货币改革",
+      "step": "持续22个月后以\"阿夫拉莫维奇计划\"稳定（史上第三严重恶性通胀）",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-yugoslav-hyperinflation"
       ]
     }
   ],
@@ -92,19 +92,19 @@
   ],
   "schools": [
     {
-      "holder": "货币主义视角",
-      "view": "通胀无论何时何地都是货币现象，源于货币超发",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "战争财政视角",
+      "view": "战争与制裁使税收瓦解，印钞成为唯一融资方式",
+      "basis": "据危机过程归纳",
       "sources": [
-        "w-en-hyperinflation"
+        "w-en-yugoslav-hyperinflation"
       ]
     },
     {
-      "holder": "财政视角",
-      "view": "赤字货币化与财政失衡是根源",
-      "basis": "基于类型学框架的概括；本案例具体表述待核实原文",
+      "holder": "稳定计划视角",
+      "view": "阿夫拉莫维奇计划以汇率锚+财政约束成功终结通胀",
+      "basis": "据稳定过程归纳；可持续性待核实",
       "sources": [
-        "w-en-inflation"
+        "w-en-yugoslav-hyperinflation"
       ]
     }
   ],
@@ -132,5 +132,5 @@
     "greek-hyper-1941"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-hyperinflation-in-serbia-and-montenegro。 【续作AR】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-hyperinflation-in-serbia-and-montenegro。 【续作AR】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。"
 }
