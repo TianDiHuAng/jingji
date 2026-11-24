@@ -11,7 +11,18 @@
   "overview": "（据 Wikipedia「High-yield debt」摘要归纳）In finance, a high-yield bond is a bond that is rated below investment grade by credit rating agencies. These bonds have a higher risk of default or other adverse credit events but offer higher yields than investment-grade bonds to compensate for the increased risk. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "违约风险视角",
+      "view": "高收益债的低评级反映更高的违约可能，投资者因此要求更高的收益率作为补偿（据 Wikipedia High-yield debt）",
+      "src": "w-en-junk-bond"
+    },
+    {
+      "holder": "再打包视角",
+      "view": "高收益债可被打包成 **CDO**，使其优先级分层的评级**高于原始债务**，从而满足养老金等机构投资者的最低评级要求——这扩大了风险的市场分布（据 Wikipedia High-yield debt）",
+      "src": "w-en-junk-bond"
+    }
+  ],
   "key_data": [],
   "comparison": "与**投资级债券**的区别在信用评级：垃圾债评级低于投资级（标普BB+及以下），违约概率更高、利差更宽；投资级债券（BBB-及以上）违约率低。与**困境债务**(distressed debt) 的区别在\"是否已接近违约\"：垃圾债是\"高风险但正常付息\"，困境债是\"已在违约边缘、折价交易\"。这一区分在危机中很关键：垃圾债利差骤扩是信用周期转向的早期信号，而困境债市场的深度决定了重组的可行路径。",
   "related": [
@@ -24,5 +35,5 @@
     "w-en-junk-bond"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 schools。"
 }

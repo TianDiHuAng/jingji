@@ -9,10 +9,31 @@
   "crisis_type": "制度",
   "one_line": "价值大幅下跌或已无法合理估值的金融资产；危机中常成为处置与救助的核心对象。",
   "overview": "（据 Wikipedia「Toxic asset」摘要归纳）A toxic asset is a financial asset that has significantly decreased in value and for which there is no longer a functioning market. These assets cannot be sold at a satisfactory price for the holder. Because assets are offset against liabilities and frequently leveraged, this decline in price may be quite dangerous to the holder. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 2006,
+      "event": "该词至少早在 2006 年已有限使用；可能由 Countrywide Financial 创始人 Angelo Mozilo 在当年春季的邮件中首创或推广（经 SEC 文件披露）（据 Wikipedia Toxic asset）"
+    },
+    {
+      "year": 2009,
+      "event": "3月23日美国财长盖特纳宣布\"公私合营投资计划\"(PPIP) 以购买银行的有毒资产（据 Wikipedia Toxic asset）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "PPIP 宣布当日美股主要指数涨幅（以上）",
+      "value": 6,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：The major stock market indexes in the United States rallied on the day of the announcement, rising by over six percent；单一来源待核实。",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
+    }
+  ],
   "comparison": "与**不良贷款**的区别在\"资产形态\"：有毒资产多指已证券化、市场冻结、无法定价的资产（次级MBS、CDO）；不良贷款是银行账上逾期或减值的贷款。这一区分决定处置工具：不良贷款靠催收、核销或出售；有毒资产因缺乏市场价格，需要**坏账银行**(bad bank) 或担保定价（如美国TARP的\"公私合营投资计划\"）。定价难题是核心——价格过低则银行资不抵债，过高则纳税人承担损失。",
   "related": [
     "bad-bank",
@@ -24,5 +45,15 @@
     "w-en-toxic-assets"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。",
+  "policy_response": [
+    {
+      "holder": "美国财政部（2009）",
+      "view": "2009年3月23日财长盖特纳宣布**公私合营投资计划(PPIP)** 以从银行购买有毒资产。宣布当日美国主要股指上涨**超过 6%**，银行股领涨。该计划的核心难题是**定价**：价格过低会使银行资不抵债，过高则由纳税人承担损失。",
+      "basis": "据 Wikipedia「Toxic asset」Geithner attempt at bail-out 章节；效果评价待核实",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
+    }
+  ]
 }

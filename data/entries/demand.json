@@ -11,7 +11,13 @@
   "overview": "（据 Wikipedia「Demand」摘要归纳）In economics, demand is the quantity of a good consumers are willing and able to purchase at various prices over a given period. In economics, \"demand\" for a commodity is not the same thing as \"desire\" for it. It refers to both the desire to purchase and the ability to pay for a commodity. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "互补品效应",
+      "view": "完全互补品表现为单一商品；互补品价格上升会使另一商品的需求量下降（据 Wikipedia Demand）",
+      "src": "w-en-demand"
+    }
+  ],
   "key_data": [],
   "comparison": "与**需求**与**需求量**的区别在\"曲线与点\"：需求是整条曲线（各价格下的购买意愿）；需求量是某一价格下的具体数量。这一区分在政策讨论中常被忽略：\"抑制需求\"（移动曲线，如加税、限购）与\"减少需求量\"（沿曲线移动，如涨价）是不同的事。在危机分析中，\"需求不足\"指整条需求曲线左移（信心崩塌、收入下降），因此需要财政或货币扩张来移动曲线，而非仅调价。",
   "related": [
@@ -24,5 +30,5 @@
     "w-en-demand"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。"
 }

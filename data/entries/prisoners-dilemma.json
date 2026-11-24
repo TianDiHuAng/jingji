@@ -9,7 +9,16 @@
   "crisis_type": "理论",
   "one_line": "两个自利主体在缺乏信任与约束时选择\"背叛\"、结果双双更差的博弈结构。",
   "overview": "（据 Wikipedia「Prisoner's dilemma」摘要归纳）In game theory, the prisoner's dilemma is a thought experiment involving two rational agents, each of whom can either cooperate for mutual benefit or betray their partner (\"defect\") for individual gain. The dilemma arises from the fact that while defecting is rational for each agent, cooperation yields a higher payoff for each. The puzzle was designed by Merrill Flood and Melvin Dresher in 1950 during their work at the RAND Corporation. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1950,
+      "event": "囚徒困境由梅里尔·弗勒德与梅尔文·德雷希尔提出，后由塔克形式化（据 Wikipedia Prisoner's dilemma）"
+    },
+    {
+      "year": 1984,
+      "event": "阿克塞尔罗德在《合作的演化》中报告重复囚徒困境锦标赛，\"针锋相对\"(tit-for-tat) 表现突出（据 Wikipedia Prisoner's dilemma）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +33,5 @@
     "w-en-prisoners-dilemma"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline。"
 }

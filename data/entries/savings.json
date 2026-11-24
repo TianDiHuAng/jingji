@@ -11,7 +11,18 @@
   "overview": "（据 Wikipedia「Saving」摘要归纳）Saving is income not spent, or deferred consumption. In economics, a broader definition is any income not used for immediate consumption. Saving also involves reducing expenditures, such as recurring costs. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "凯恩斯视角",
+      "view": "储蓄是漏出：个体增储在总量上压低需求，可能使储蓄目标无法实现（节约悖论）（据 Wikipedia Saving 与凯恩斯主义通行表述；具体出处待核实）",
+      "src": "w-en-savings"
+    },
+    {
+      "holder": "新古典视角",
+      "view": "储蓄是可贷资金的供给，通过利率与投资自动均衡（据 Wikipedia Saving；具体出处待核实）",
+      "src": "w-en-savings"
+    }
+  ],
   "key_data": [],
   "comparison": "与**投资**的区别在\"主体与用途\"：储蓄是收入中未消费的部分（可持有现金、存款、证券）；投资在宏观上指**资本形成**（设备、建筑、存货）。两者在会计上必然相等（储蓄＝投资，通过收入恒等式），但**决策主体不同**：储蓄由家庭决定，投资由企业决定。这一区分是凯恩斯\"节约悖论\"的基础：所有人同时增加储蓄会压低总需求，反而使储蓄无法实现（收入下降）。",
   "related": [
@@ -24,5 +35,5 @@
     "w-en-savings"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。"
 }

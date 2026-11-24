@@ -9,10 +9,37 @@
   "crisis_type": "制度",
   "one_line": "交易对手在己方已履约后未按约定交割证券或支付现金的风险，亦称结算风险。",
   "overview": "（据 Wikipedia「Settlement risk」摘要归纳）Settlement risk, also known as delivery risk or counterparty risk, is the risk that a counterparty fails to deliver a security or its value in cash as per agreement after the first party has delivered the security or cash value. The term covers factors incidental to the settlement process that may suspend or prevent a trade from completing, even should the parties themselves be in agreement, act in good faith, and are otherwise competent to perform. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1974,
+      "event": "赫斯塔特银行(Herstatt)被德国监管机构吊销牌照，因时区错配导致对手方在马克已付、美元未收时暴露损失（据 Wikipedia Settlement risk）"
+    },
+    {
+      "year": 1990,
+      "event": "德崇证券(Drexel)关闭未引发同类问题——英格兰银行设立专门安排确保支付完成（据 Wikipedia Settlement risk）"
+    }
+  ],
   "causal_chain": [],
-  "schools": [],
-  "key_data": [],
+  "schools": [
+    {
+      "holder": "监管视角",
+      "view": "结算风险源于流程而非当事人意愿——即便双方同意，结算环节本身也可能中断交易，因此需中央对手方与净额结算等机制（据 Wikipedia Settlement risk）",
+      "src": "w-en-counterparty-risk"
+    }
+  ],
+  "key_data": [
+    {
+      "label": "赫斯塔特银行牌照被吊销的日期",
+      "value": 1974,
+      "unit": "年6月26日",
+      "year": 1974,
+      "comparable_price": false,
+      "note": "原文：On 26 June 1974, the bank's license was withdrawn by German regulators at the end of the banking day；单一来源待核实。",
+      "sources": [
+        "w-en-counterparty-risk"
+      ]
+    }
+  ],
   "comparison": "与**市场风险**的区别在\"违约与价格\"：对手方风险是交易对手不履约（不交割、不支付）的风险；市场风险是价格波动导致的损失。与**结算风险**的关系是\"同义\"（结算风险亦称交割风险或对手方风险），但严格说结算风险特指**时区错配**造成的本金暴露（Herstatt 风险）。这一风险在危机中会集中爆发：当一家机构违约，其所有对手方同时受损——这正是中央对手方(CCP)与净额结算存在的理由，也是它们成为系统重要性节点的原因。",
   "related": [
     "settlement-risk",
@@ -24,5 +51,5 @@
     "w-en-counterparty-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。"
 }

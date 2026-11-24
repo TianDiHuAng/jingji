@@ -1,0 +1,44 @@
+Proprietary trading (also known as prop trading) occurs when a trader trades stocks, bonds, currencies, commodities, their derivatives, or other financial instruments with the firm's own money (instead of using customer funds) to make a profit for itself.
+Proprietary traders may use strategies such as arbitrage, which seeks to profit when the prices of related instruments move away from their expected relationship, including merger arbitrage, as well as long and short positions in equities, currencies, interest rates, credit and commodities. A significant share of this kind of trading is carried out by hedge funds and principal trading firms.
+
+
+== Structure and operation ==
+Proprietary trading firms typically allocate capital to traders under defined risk management rules, including position limits, maximum drawdowns, and loss thresholds. Traders are generally compensated through performance-based arrangements, in which profits are shared between the firm and the trader according to contractual terms. Unlike hedge funds, proprietary trading firms usually trade only the firm’s own capital and do not manage external investor funds. As a result, proprietary trading firms focus primarily on internal risk controls and capital efficiency rather than asset gathering or client reporting.
+
+
+== Regulation ==
+Following the 2008 financial crisis, some jurisdictions introduced restrictions on proprietary trading by banks. In the United States, the Volcker Rule prohibits deposit-taking banks and their affiliates from engaging in certain kinds of short-term proprietary trading. Independent proprietary trading firms, which do not take customer deposits, are generally not subject to these prohibitions.
+
+
+== Business models ==
+Proprietary trading can be carried out under several organizational and operational models, including independent trading firms and regulated banks, with differences largely driven by regulation, market access, and risk controls. Retail proprietary trading firms charge traders a fee to take an evaluation, usually on a simulated account, and share profits with those who pass.
+
+
+== Retail proprietary trading firms ==
+A separate, retail-oriented business model also uses the term "proprietary trading". These firms sell individual traders access to evaluation programs, often called challenges, in which the participant trades a simulated account under fixed rules including a profit target and loss limits. Traders who pass the evaluation are designated "funded" and enter a profit sharing arrangement with the prop firm. Traders can be paid up to 100% of the profits made on the simulated account depending on the firm's terms, while those who fail the evaluation may pay again to retry. The firms disclose that the trading is simulated but market the service as proprietary trading. As of December 2025, FPFX Technologies, a software supplier to the industry, estimated that more than 400 companies offered such programs, up from about ten five years earlier.
+
+
+=== Disruptions (2023–2025) ===
+In August 2023 the U.S. Commodity Futures Trading Commission (CFTC) filed a fraud complaint against Traders Global Group, operator of the retail prop firm My Forex Funds. In May 2025 a federal judge dismissed the case with prejudice, sanctioned the CFTC over its conduct in the litigation and awarded the defendants legal fees. In early 2024, MetaQuotes, the developer of the MetaTrader platforms, cut off platform access for a number of prop firms and the brokers supplying them, reportedly because the firms were serving U.S. customers. Several firms stopped accepting U.S. clients or moved to other platforms. FTMO halted new U.S. sign-ups and migrated to DXtrade. Finance Magnates estimated that up to 100 retail prop firms closed between early 2024 and late 2025.
+
+
+=== Brokerage and regulation ===
+Some retail prop firms have since moved into regulated brokerage. FTMO completed its acquisition of the broker OANDA in December 2025, and in the United States Topstep has registered as an introducing broker with the CFTC, while Tradeify has launched a registered introducing-broker unit. Retail prop trading is not covered by a dedicated regulatory framework. In June 2026 the chair of the Cyprus Securities and Exchange Commission said that the European Securities and Markets Authority was not engaged in substantive discussions on the subject.
+
+
+=== Criticism ===
+Customers have complained about high fees and the low chance of receiving a payout, while the firms say the programs give traders useful experience without risking their own savings. Finance Magnates, citing data from FPFX Technologies, reported that only about 7% of traders who buy a challenge go on to receive a payout, and that many firms rely on fees from unsuccessful participants to cover payouts and operating costs.
+
+
+== Demographics and market trends ==
+By the mid-2020s, the demographic profile of proprietary traders shifted significantly toward younger generations. The accessibility of remote funding programs and the gamification of trading challenges have driven a surge in participation among Gen Z and Millennials. 
+
+
+== Notable proprietary trading firms ==
+
+
+== See also ==
+Flow trading
+
+
+== References ==

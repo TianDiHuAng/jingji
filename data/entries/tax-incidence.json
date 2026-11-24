@@ -11,7 +11,18 @@
   "overview": "（据 Wikipedia「Tax incidence」摘要归纳）In economics, the tax incidence measures who actually pays for a tax. Economists distinguish between the entities who ultimately bear the burden of a tax and those who the tax is originally collected from. The tax burden measures the true economic effect of the tax, measured by the difference between real incomes before and after imposing the tax, and taking into account how the tax causes prices to change. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "弹性决定归宿（一般规则）",
+      "view": "需求曲线越**陡**、供给曲线越**平**，消费者承担的税负越多；反之则生产者承担更多（据 Wikipedia Tax incidence）",
+      "src": "w-en-tax-incidence"
+    },
+    {
+      "holder": "供给无弹性、需求有弹性",
+      "view": "生产者无论价格如何都生产相同数量，消费者对价格高度敏感——此时税负主要落在**生产者**身上（据 Wikipedia Tax incidence）",
+      "src": "w-en-tax-incidence"
+    }
+  ],
   "key_data": [],
   "comparison": "与**法定纳税人**的区别在\"名义与实质\"：法定纳税人由法律指定；税负归宿是**经济负担**的实际承担者（取决于供需弹性）。一般规律是：**弹性小的一方承担更多税负**——需求缺乏弹性（如必需品）时消费者承担更多；供给缺乏弹性（如土地）时卖方承担更多。这一区分在政策争论中常被忽略：对银行征税（如金融交易税）的名义纳税人是机构，实际归宿可能转嫁给客户或股东。",
   "related": [
@@ -24,5 +35,5 @@
     "w-en-tax-incidence"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 schools。"
 }

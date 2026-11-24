@@ -9,9 +9,29 @@
   "crisis_type": "理论",
   "one_line": "达成与执行交易所需的成本（搜寻、议价、监督、履约）；是解释制度为何存在的核心概念。",
   "overview": "（据 Wikipedia「Transaction cost」摘要归纳）In economics, a transaction cost is a cost incurred when making an economic trade when participating in a market. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1931,
+      "event": "制度经济学家 John R. Commons 提出以\"交易\"而非商品或个人作为经济理论的基础（据 Wikipedia Transaction cost）"
+    },
+    {
+      "year": 1996,
+      "event": "威廉姆森在《治理机制》中系统列出交易成本经济学与新古典微观经济学的分歧（据 Wikipedia Transaction cost）"
+    }
+  ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "交易成本经济学（威廉姆森）",
+      "view": "拒绝\"工具理性\"假设及其对行为的预测含义，认为有限理性与机会主义使治理结构（市场/企业/混合）成为关键变量（据 Wikipedia Transaction cost）",
+      "src": "w-en-transaction-cost"
+    },
+    {
+      "holder": "新古典微观经济学",
+      "view": "以工具理性与完全信息为基准，把交易本身视为无摩擦，因此不把治理结构作为分析对象（据 Wikipedia Transaction cost）",
+      "src": "w-en-transaction-cost"
+    }
+  ],
   "key_data": [],
   "comparison": "与**生产成本**的区别在\"交易而非制造\"：生产成本是制造商品的投入（劳动、原料、机器）；交易成本是**达成与执行交易**的成本（搜寻、议价、监督、履约）。这一区分是制度经济学的核心：企业之所以存在，是因为在某些情形下用内部指令替代市场交易更省成本（科斯）；而金融中介（银行、评级、交易所）本质上也是降低交易成本的制度。危机中交易成本骤升（信息不对称加剧、信任崩塌），是市场冻结的直接原因。",
   "related": [
@@ -24,5 +44,5 @@
     "w-en-transaction-cost"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/schools。"
 }

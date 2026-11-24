@@ -9,7 +9,16 @@
   "crisis_type": "制度",
   "one_line": "公司买回自家股份的行为；可减少股本、提升每股收益，亦常被用作向股东返还现金的手段。",
   "overview": "（据 Wikipedia「Share repurchase」摘要归纳）Share repurchase, also known as share buyback or stock buyback, is the reacquisition by a company of its own shares. It is an alternative way of returning money to shareholders than dividends. After a repurchase event, the company's stock price is now proportionally higher because of the smaller number of shares outstanding. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1934,
+      "event": "美国《证券交易法》第 9(a)(2) 与 10(b) 条成为反操纵的法律基础（据 Wikipedia Share repurchase）"
+    },
+    {
+      "year": 1981,
+      "event": "此前所有要约回购均采用固定价格要约；此后引入荷兰式拍卖等方式（据 Wikipedia Share repurchase）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +33,5 @@
     "w-en-buyback"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 timeline。"
 }
