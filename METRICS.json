@@ -646,6 +646,18 @@
       "check_result": "PASS (526); check_links 540页 0 error",
       "spot_check": "**全面数据体检**：无重复标题/无timeline或key_data类型错误/无overview过短/无因果链<2步/无timeline未排序；仅2条schools<2已补足。key_data全部含原文或口径说明，pending_notes无空值。",
       "note": "BM: ①全面数据体检通过(526条仅2处schools<2已修：creditanstalt补系统性风险视角、dawes-plan-1924补国际资本循环视角)②为4个历史案例补7条key_data(阿姆斯特丹1763/孟加拉1769/铜恐慌1789/阿伦达尔1886)。案例有数据比例71%，key_data 254→261。"
+    },
+    {
+      "round": "续作BN-BO",
+      "date": "2026-11-24",
+      "new_entries": 5,
+      "upgraded": 0,
+      "reviewed": 535,
+      "fixed": 21,
+      "sources_total": 635,
+      "check_result": "PASS (531); check_links 545页 0 error",
+      "spot_check": "发现并修复region=\"美洲\"混用21条（此前未被矩阵B统计）",
+      "note": "BN(4条):新西兰Rogernomics/尼日利亚债务36.63%/南非债务77.4%/安哥拉石油依赖。BO(1新增+1改进):新西兰金融公司倒闭潮(67家/损失30亿美元/15-20万存款人)填补大洋洲21世纪空白;结构调整计划补52%出口收入损失。**重要修复**:region=\"美洲\"21条拆分为北美19+拉美2,此前这21条在矩阵B中被漏统计。非洲3→6、大洋洲1→3。"
     }
   ]
 }
