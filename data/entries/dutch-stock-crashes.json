@@ -7,31 +7,31 @@
   "period": "早期—17世纪",
   "region": "欧洲",
   "crisis_type": "泡沫",
-  "one_line": "荷兰共和国股市崩盘(c.1600–1760)：发生于前17世纪、地区为欧洲的泡沫类案例（条目骨架，详细内容待补充）。",
-  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=前17世纪、地区=欧洲、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
+  "one_line": "荷兰共和国股市崩盘(c.1600–1760)：以荷兰东印度公司(VOC)股票为核心的早期股市周期。",
+  "overview": "荷兰共和国在17世纪建立了世界上最早的活跃二级市场之一，交易核心是荷兰东印度公司(VOC)的股票与债券。阿姆斯特丹的交易所（1611年起有专门建筑）出现了卖空、期权、期货等现代交易技术。从约1600年至1760年间，VOC 股票与相关证券经历了多次投机性上涨与崩盘，并与郁金香狂热(1637)、英荷战争、法国入侵(1672)等外部冲击交织。这些早期经验构成了\"泡沫\"\"卖空\"\"做市\"等金融概念的历史源头。具体各次崩盘的年份与幅度待核实。",
   "timeline": [
     {
       "year": 1602,
-      "display": "1602年起",
-      "event": "荷兰东印度公司(VOC)股票公开交易，为最早的可交易股份之一（据 Wikipedia Financial history of the Dutch Republic）",
+      "display": "1602年",
+      "event": "荷兰东印度公司(VOC)成立，股份可转让，形成二级市场",
       "sources": [
-        "w-en-financial-history-of-the-dutch-republic"
+        "w-en-dutch-stock-crashes"
       ]
     },
     {
-      "year": 1610,
-      "display": "17世纪",
-      "event": "阿姆斯特丹证交所、阿姆斯特丹银行与商人银行家共同媒介投资，衍生品等工具同步发展（同上）",
+      "year": 1611,
+      "display": "1611年",
+      "event": "阿姆斯特丹证券交易所建筑落成（早期制度化交易）",
       "sources": [
-        "w-en-financial-history-of-the-dutch-republic"
+        "w-en-dutch-stock-crashes"
       ]
     },
     {
-      "year": 1680,
-      "display": "17世纪末",
-      "event": "资本市场高度成熟、资本存量巨大并产生自身收益流；国内投资机会随后枯竭（同上）",
+      "year": 1637,
+      "display": "1637年",
+      "event": "郁金香狂热崩盘（同期荷兰投机周期的高潮）",
       "sources": [
-        "w-en-financial-history-of-the-dutch-republic"
+        "w-en-tulip-mania"
       ]
     }
   ],
@@ -96,5 +96,5 @@
     "blue-monday-2009"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。"
 }
