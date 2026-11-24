@@ -610,6 +610,18 @@
       "check_result": "PASS (512); check_links 526页 0 error",
       "spot_check": "新增verification.html页面；严格区分独立机构印证/跨语言维基对照/差异并列三类",
       "note": "**透明性建设**：新增「数据核实状态」页面(verification.html)，自动生成并严格区分三类：①独立机构双源印证8条(维基外部机构:美联储历史站/世界银行OWID)②跨语言维基对照8条(明确标注中英文维基同属维基体系、非严格独立机构互证)③两源差异并列6条。同时修正6条原标注为\"双源印证\"但实为中英文维基对照的条目。站点526页。"
+    },
+    {
+      "round": "续作BJ-BK",
+      "date": "2026-11-24",
+      "new_entries": 8,
+      "upgraded": 0,
+      "reviewed": 10,
+      "fixed": 3,
+      "sources_total": 621,
+      "check_result": "PASS (520); check_links 534页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "BJ: 用OWID人口数据核对——委内瑞拉2018->2021常住人口2981万->2824万(-157万,-5.3%)，与维基\"540万离开\"口径不同已并列说明；希腊人口2009->2017减35万(-3.2%)。BK: 新增8条国际金融治理机构(BIS/GATT/OECD/FSB/ESFS/ESRB/IOSCO/FATF)。总520条，来源621。"
     }
   ]
 }
