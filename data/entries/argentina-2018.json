@@ -54,9 +54,10 @@
       "unit": "%（超过30%）",
       "year": 2018,
       "comparable_price": false,
-      "note": "原文：the annual inflation rate was over 30 percent；单一来源待核实。",
+      "note": "原文：the annual inflation rate was over 30 percent；单一来源待核实。 【两源差异·DL】OWID为 34.277。阿根廷2018年通胀：维基/本条目取约30%，世界银行/OWID口径为34.28%。差异可能源于口径（年均 vs 年末）与统计修订。两说并列。",
       "sources": [
-        "w-en-argentina-2018"
+        "w-en-argentina-2018",
+        "owid-dataset"
       ]
     },
     {
@@ -116,5 +117,5 @@
     "turkey-2001"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AQ】补关键数据（单源）。 【续作BF】2018年通胀已由世界银行/OWID数据印证（34.3% vs \"超过30%\"）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AQ】补关键数据（单源）。 【续作BF】2018年通胀已由世界银行/OWID数据印证（34.3% vs \"超过30%\"）。 【续作DL】含两源差异项，已并列。"
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 694,
+  "count": 695,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8329,6 +8329,18 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "owid-dataset",
+      "title": "Our World in Data（世界银行 WDI 衍生数据集）",
+      "author": "Our World in Data / World Bank",
+      "year": "2026",
+      "type": "统计数据",
+      "url": "https://ourworldindata.org/grapher/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "CSV 端点抓取核对：unemployment-rate / inflation-of-consumer-prices / gdp-worldbank / real-gdp-growth"
     }
   ]
 }

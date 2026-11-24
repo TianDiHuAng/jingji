@@ -70,9 +70,10 @@
       "unit": "%",
       "year": 2015,
       "comparable_price": false,
-      "note": "原文：Russian GDP contracted 3.7% in 2015；单一来源待核实。",
+      "note": "原文：Russian GDP contracted 3.7% in 2015；单一来源待核实。 【两源差异·DL】OWID为 -1.973。俄罗斯2015年GDP：本条目取−3.7%，世界银行/OWID口径为−1.97%。差异较大，疑因数据修订版本不同。两说并列，不代为取舍。",
       "sources": [
-        "w-en-russian-financial-crisis-2014"
+        "w-en-russian-financial-crisis-2014",
+        "owid-dataset"
       ]
     },
     {
@@ -146,5 +147,5 @@
     "russian-1998"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。 【续作BG】2015年GDP增速已并列两源（−3.7% vs 世行 −1.97%），差异待核实。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。 【续作BG】2015年GDP增速已并列两源（−3.7% vs 世行 −1.97%），差异待核实。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。 【续作DL】含两源差异项，已并列。"
 }

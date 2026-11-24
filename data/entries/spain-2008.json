@@ -76,9 +76,10 @@
       "unit": "%",
       "year": 2009,
       "comparable_price": false,
-      "note": "原文：The economy contracted 3.7% in 2009 and again in 2010 by 0.1%；单一来源待核实。",
+      "note": "原文：The economy contracted 3.7% in 2009 and again in 2010 by 0.1%；单一来源待核实。 【双源印证·DL】世界银行/OWID口径同项为 -3.768（Spain 2009），与本值一致。",
       "sources": [
-        "w-en-spain-2008"
+        "w-en-spain-2008",
+        "owid-dataset"
       ]
     },
     {
@@ -125,5 +126,5 @@
     "irish-banking-2008"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作DL】部分数据经OWID二次核对。"
 }

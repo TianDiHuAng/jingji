@@ -1,0 +1,40 @@
+{
+  "unemployment": {
+    "n": 6986,
+    "cols": [
+      "entity",
+      "code",
+      "year",
+      "sl_uem_totl_zs"
+    ]
+  },
+  "inflation": {
+    "n": 9795,
+    "cols": [
+      "entity",
+      "code",
+      "year",
+      "fp_cpi_totl_zg"
+    ]
+  },
+  "gdp": {
+    "n": 7445,
+    "cols": [
+      "entity",
+      "code",
+      "year",
+      "ny_gdp_mktp_pp_kd"
+    ]
+  },
+  "growth": {
+    "n": 9804,
+    "cols": [
+      "entity",
+      "code",
+      "year",
+      "gross_domestic_product__gdp__constant_prices__percent_change_observation",
+      "gross_domestic_product__gdp__constant_prices__percent_change_forecast__projected",
+      "gross_domestic_product__gdp__constant_prices__percent_change_observation__annotations"
+    ]
+  }
+}
