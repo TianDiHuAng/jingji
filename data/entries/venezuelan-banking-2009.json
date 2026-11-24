@@ -39,7 +39,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "2009年11—12月被政府接管的银行数",
+      "value": 7,
+      "unit": "家",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：In November and December 2009 seven banks were taken over, accounting for around 12% of total deposits；单一来源待核实。",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    },
+    {
+      "label": "被接管银行占总存款比例",
+      "value": 12,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：around 12% of total deposits；单一来源待核实。",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    },
+    {
+      "label": "被逮捕的银行家人数(至少)",
+      "value": 16,
+      "unit": "人",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：The government arrested at least 16 bankers；单一来源待核实。",
+      "sources": [
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "治理/关联交易视角",
@@ -84,5 +118,5 @@
     "venezuela-crisis-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【清理】原概述结尾含「具体接管机构数量与成本待核实」，已移入此处。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【清理】原概述结尾含「具体接管机构数量与成本待核实」，已移入此处。 【续作OZ｜round161】据 w-en-venezuelan-banking-crisis-of-2009-2010 缓存补 key_data（7家/12%/16人）。"
 }

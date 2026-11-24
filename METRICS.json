@@ -2614,6 +2614,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
       "spot_check": "showa/merrill 补 key_data（450→453）；check_kd 强匹配 339→342；验证 check_docs 修复生效",
       "note": "维基第140轮可用。OY：继续为有缓存的案例补 key_data（showa/merrill），key_data 450→453。\n①**网络**：仍 URLError。\n②**补 2 条案例 key_data**（据各自专属缓存）：\n`showa-crisis-1927`（1927 昭和金融危机：三周银行假日 + 紧急贷款，据 w-en-sh-wa-financial-crisis）、\n`merrill-lynch`（2007-11 次贷相关减记 8.4 十亿美元、2025 年等值 12.5 十亿美元，据 w-en-merrill-lynch）。\n③**验证 check_docs 修复生效**：key_data 由 450→453，check_docs **成功报出** REPORT 的 `key_data` 450 需更新为 453（上轮加反引号后该项已纳入核对），同步 REPORT/HEALTH。\n④check_kd 强匹配 339 → **342**（3 条新增均 strong）；十一道检查全绿。\n⑤现状：641 条、来源 742、页面 655；key_data 453 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
+    },
+    {
+      "round": "续作OZ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 6,
+      "fixed": 0,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
+      "spot_check": "stock-downturn/venezuelan 补 5 条 key_data（453→458）；check_kd 强匹配 342→346",
+      "note": "维基第141轮可用。OZ：继续为有缓存的案例补 key_data（stock-downturn-2002 / venezuelan-banking-2009），key_data 453→458。\n①**网络**：仍 URLError。\n②**补 5 条 key_data**（据各自专属缓存）：\n`stock-downturn-2002`：道指自 2001-01-01 高点跌 27%、市值损失约 5 万亿美元；\n`venezuelan-banking-2009`：2009 年 11—12 月接管 7 家银行、约占总存款 12%、至少逮捕 16 名银行家。\n③check_kd 强匹配 342 → **346**；key_data 453 → **458**（案例有数据 188/209）。\n④check_docs 再次成功报出 REPORT 的 key_data 计数需更新（453→458），同步 REPORT/HEALTH。\n⑤现状：641 条、来源 742、页面 655；key_data 458 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
     }
   ]
 }

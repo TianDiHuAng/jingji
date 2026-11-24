@@ -55,7 +55,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "道指自2001-01-01高点跌幅(至2002-09-24)",
+      "value": 27,
+      "unit": "%",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：As of September 24, 2002, the Dow Jones Industrial Average had lost 27% of the value it held on January 1, 2001；单一来源待核实。",
+      "sources": [
+        "w-en-stock-market-downturn-of-2002"
+      ]
+    },
+    {
+      "label": "股市市值损失(2001初—2002-09)",
+      "value": 5,
+      "unit": "万亿美元",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：a total loss of 5 trillion (dollars)；单一来源待核实。",
+      "sources": [
+        "w-en-stock-market-downturn-of-2002"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "泡沫破裂视角",
@@ -89,5 +112,5 @@
     "worldcom"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-stock-market-downturn-of-2002。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【清理】原概述结尾含「具体数据待核实」，已移入此处。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-stock-market-downturn-of-2002。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【清理】原概述结尾含「具体数据待核实」，已移入此处。 【续作OZ｜round161】据 w-en-stock-market-downturn-of-2002 缓存补 key_data（-27%、5万亿损失）。"
 }
