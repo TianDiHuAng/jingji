@@ -2050,6 +2050,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 335 均为 R22 提示 + 自测 18/18",
       "spot_check": "清理 201 条套话；扩写 10 条核心概念；新增 R22",
       "note": "维基第93轮可用。KK-KO：清理「待核实」套话 201 条，并由此发现内容单薄的系统性掩盖。①清理：564 个条目的 overview 以「具体XX待核实」结尾（占 88%），这不是纯套话（诚实声明），但它是无信息量的模板化尾巴，且让每条概述结尾雷同。已移除 **201 条**（其内容并入 pending_notes），另 **358 条因移除后不足 150 字而保留**——避免把内容不足掩盖成「已清理」。②由此发现第 10 个系统性问题：那些「待核实」的尾巴一直在掩盖内容单薄。358 条中 **326 条是概念/理论类**，多为「通货膨胀」「失业」「系统性风险」这类基础概念（66—90 字）。③加入 R22（核心/重要条目 overview 应 ≥150 字）作为 warning：实际捕获 **335 条**（3 核心 + 332 重要）。④本轮扩写最核心的 10 条（80—91 字 → 380—488 字）：leverage／inflation／deflation／systemic-risk／currency-crisis／creative-destruction／fiscal-policy／unemployment／opportunity-cost／balance-of-payments，每一条都补上了机制细节与「与危机的具体关联」。例如 systemic-risk 点明「个体审慎的加总未必等于系统稳健」这一合成谬误；balance-of-payments 指出「赤字好坏取决于融资结构，1997 年亚洲危机前赤字并不高，但短期外币外债占比高」；deflation 区分「好的通缩」（生产率推动）与「坏的通缩」（需求崩溃）。⑤**R22 保留为 warning 而非 error**：335 条不可能也不应一次性拉齐——「贝塔系数」「久期」这类工具性概念，简短定义即是完整，强行注水反而降低质量。真正需要扩写的是其中约三分之一的机制类核心概念，已列入 BACKLOG 分批处理。⑥现状：641 条、来源 742、页面 655；**ERRORS 0**、WARNINGS 335（均为 R22 提示）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作KP-KT",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 30,
+      "reviewed": 345,
+      "fixed": 35,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 305（R22）+ 自测 18/18",
+      "spot_check": "扩写 30 条机制类核心概念；批量修复 5 处未接线",
+      "note": "维基第94轮可用。KP-KT：扩写 30 条机制类核心概念（WARNINGS 335 → 305）。①本轮选择**机制类**而非工具类：跳过 beta（贝塔系数）这类纯统计指标，优先处理对理解危机有实质作用的条目。②第一批 15 条（74—92 字 → 363—478 字）：herd-behavior／bank-failure／collateralized-debt-obligation／new-classical／adaptive-expectations／resource-curse／credit-default-swap／quantitative-tightening／risk-premium／fear-of-floating／information-asymmetry／central-bank-independence／global-imbalances／federal-reserve／duration-finance。③第二批 15 条（82—93 字 → 406—501 字）：initial-public-offering／stock-exchange／discount-window／fx-intervention／mortgage-backed-security／primary-market／capital-requirement／country-risk／dollarization／keynesian-economics／market-maker／market-risk／marginal-utility／bill-of-exchange／kondratiev。④**扩写的重点不是字数，是补上「机制」与「易错点」**。例：**discount-window** 点明「污名」问题——银行怕被解读为出问题而不敢申请，使该工具在最需要时反而不被使用；**market-maker** 指出做市商「没有义务在压力下继续做市」，于是流动性在最需要的时刻蒸发；**country-risk** 区分「主权风险」与「国家风险」——后者包括外汇管制等「债务人有能力但国家让它付不出去」的情形；**dollarization** 指出它把危机形态从汇率危机转为银行与债务危机，且失去最后贷款人能力；**kondratiev** 明确记为「描述性假说而非可操作预测工具」，并声明本库不据此作周期判断（守住「不作预测」规则）；**duration-finance** 直接连到 2023 年硅谷银行——长久期债券在加息后的浮亏。⑤过程中又遇两处引号笔误导致语法错误，按报错定位修正。⑥**round 94 的接线检查再次生效**：30 条扩写引入 5 处「见 xxx」引用未入 related，被 check_pages 报出；用 round 94 的扫描逻辑批量修复（补入 15 条 related、对称化 20 条）。⑦现状：641 条、来源 742、页面 655；overview 平均 210 字；ERRORS 0、WARNINGS 305（R22 提示）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }
