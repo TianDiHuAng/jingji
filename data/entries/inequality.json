@@ -18,6 +18,13 @@
       "sources": [
         "w-en-inequality"
       ]
+    },
+    {
+      "holder": "效率／增长权衡视角",
+      "view": "一定程度的不平等提供工作与投资激励、有利于资本积累与增长；库兹涅茨假说进一步认为不平等随经济发展先升后降。该视角主张关注\"机会不平等\"而非结果均等（据 Wikipedia Economic inequality 相关讨论）",
+      "sources": [
+        "w-en-inequality"
+      ]
     }
   ],
   "key_data": [
@@ -56,5 +63,5 @@
     "w-en-inequality"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools/key_data。 【续作KE】overview 由英文摘要改写为中文（原 565 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools/key_data。 【续作KE】overview 由英文摘要改写为中文（原 565 字）。 【续作NO｜round136】补 schools 第二派观点（据现有来源）。"
 }

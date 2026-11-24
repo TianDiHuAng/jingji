@@ -18,6 +18,13 @@
       "sources": [
         "w-en-demand"
       ]
+    },
+    {
+      "holder": "需求定律视角",
+      "view": "在其他条件不变时，价格上升则需求量下降（需求定律）；这是需求曲线向下倾斜的根据，也与\"需求量变化\"（沿曲线）和\"需求变化\"（曲线移动）的区分相关（据 Wikipedia Demand）",
+      "sources": [
+        "w-en-demand"
+      ]
     }
   ],
   "key_data": [],
@@ -33,5 +40,5 @@
     "w-zh-demand"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 329 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 329 字）。 【续作NO｜round136】补 schools 第二派观点（据现有来源）。"
 }

@@ -2314,6 +2314,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
       "spot_check": "核验两源差异 12 条（全部诚实）；刷新 HEALTH_CHECK.md",
       "note": "维基第115轮可用。NL-NM：核验\"两源差异并列\"区块 + 刷新陈旧体检报告。\n①**核验验证页\"两源差异并列\"12 条**：逐一检查——german-crisis-2022（-0.5% vs OWID 0.007%）、russian-crisis-2014（-3.7% vs -1.97%）、venezuela-hyper-2016（69% vs 62.17%；254.95% vs 800%）、zimbabwe（255.31% vs 175%）、argentina-2018（30% vs 34.28%）、subprime（13万亿 vs 约11万亿）等——**全部真实并列两组冲突数值或明确标注口径不同（如委内瑞拉累计出境 vs 常住人口存量）**。验证页内核诚实可靠。\n②**发现并刷新陈旧文档**：`HEALTH_CHECK.md` 停留在 round 80（条目 632/来源 720/comparison 569），已 55 轮未更新。按 **round 135 实际状态**重写：641 条（案例 209/概念 432）、来源 742、页面 655、key_data 445、timeline 657、schools 1279、comparison 641/641、单来源 26 条、check.py 已 R1–R22+R4b、自测 18/18；并如实记录 3 条缺全文 + 6 条缓存缺口两项遗留。\n③现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作NO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 10,
+      "fixed": 3,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
+      "spot_check": "3 条重要概念补第二派 schools，两派对照 625→628",
+      "note": "维基第116轮可用。NO：为 3 条单观点的重要概念补第二派，两派对照 625→628。\n①核验验证页\"两源差异并列\"（上轮已做，本轮再列 schools/comparison 数字扫描，207 条多为\"其他事件年份\"的对比引用，属正常，判据噪声大，不再追）。\n②**为 3 条单观点的\"重要\"概念补第二派**（均据其现有来源）：\neffective-demand（萨伊定律／古典视角：供给创造需求、不存在持续有效需求不足 vs 凯恩斯有效需求不足）、\ninequality（效率／增长权衡与库兹涅茨假说 vs 不平等上升）、\ndemand（需求定律视角 vs 互补品效应）。\n③结果：schools 分布 {0:5, 1:2, 2:628, 4:6}——**两派对照 628 条**；剩 2 条单观点均为案例（federal-reserve-act／sherman-silver-purchase），案例单观点属正常，不强补；5 条 0 schools 为机构类（nasdaq／mutual-fund／dividend／buyback／population），保持留空。\n④现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
     }
   ]
 }
