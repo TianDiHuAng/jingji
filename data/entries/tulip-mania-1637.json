@@ -136,11 +136,35 @@
     "south-sea-bubble-1720"
   ],
   "needs_verification": true,
-  "pending_notes": "具体价格数值与统计口径、引入年份的精确值、Peter Garber 修正观点的原文出处与学者归属待核实；不罗列未经双源核实的具体数字。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作GX】移除占位型数据项「常见品种价格峰值（简述）」（原 value=1 为归一化示意口径，非史料原值）；史料未载可核实的绝对数值，故本条目不设\"关键数据\"区块。 【续作MA】据来源全文扩写 110 → 742 字。",
+  "pending_notes": "具体价格数值与统计口径、引入年份的精确值、Peter Garber 修正观点的原文出处与学者归属待核实；不罗列未经双源核实的具体数字。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作GX】移除占位型数据项「常见品种价格峰值（简述）」（原 value=1 为归一化示意口径，非史料原值）；史料未载可核实的绝对数值，故本条目不设\"关键数据\"区块。 【续作MA】据来源全文扩写 110 → 742 字。 【续作MU】补 key_data（数字据来源全文）。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
     "framework_type": "泡沫"
   },
-  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img' aria-label='机制与反馈回路深度图'><text x='20' y='26' class='ttl'>郁金香狂热(1637)：机制与反馈回路（类型：泡沫）</text><g><rect x='30' y='60' width='160' height='56' rx='7' class='box'/><text x='39' y='84' class='lbl'>冲击/触发</text><text x='39' y='103' class='sub'>外部或内生冲击</text></g><g><rect x='215' y='60' width='160' height='56' rx='7' class='box'/><text x='224' y='84' class='lbl'>放大机制</text><text x='224' y='103' class='sub'>信贷/预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='56' rx='7' class='box'/><text x='409' y='84' class='lbl'>临界转折</text><text x='409' y='103' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='56' rx='7' class='box'/><text x='594' y='84' class='lbl'>后果</text><text x='594' y='103' class='sub'>违约/贬值/收缩</text></g><line x1='190' y1='88' x2='215' y2='88' class='ar'/><line x1='375' y1='88' x2='400' y2='88' class='ar'/><line x1='560' y1='88' x2='585' y2='88' class='ar'/><path d='M665 116 L665 175 L295 175 L295 116' fill='none' class='ar' stroke-dasharray='5,4'/><text x='400' y='168' class='sub'>反馈：后果反过来强化放大机制</text><line x1='30' y1='215' x2='745' y2='215' class='axis'/><circle cx='40' cy='215' r='4' class='dot'/><text x='24' y='240' class='sub'>1593年</text><circle cx='215' cy='215' r='4' class='dot'/><text x='199' y='240' class='sub'>1634年</text><circle cx='390' cy='215' r='4' class='dot'/><text x='374' y='240' class='sub'>1636年</text><circle cx='565' cy='215' r='4' class='dot'/><text x='549' y='240' class='sub'>1637年2月</text><text x='20' y='275' class='note'>学者解释见本页「各方解释」；箭头为机制方向，虚线为反馈回路。图示为分析框架，非精确数据图。</text></svg>"
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img' aria-label='机制与反馈回路深度图'><text x='20' y='26' class='ttl'>郁金香狂热(1637)：机制与反馈回路（类型：泡沫）</text><g><rect x='30' y='60' width='160' height='56' rx='7' class='box'/><text x='39' y='84' class='lbl'>冲击/触发</text><text x='39' y='103' class='sub'>外部或内生冲击</text></g><g><rect x='215' y='60' width='160' height='56' rx='7' class='box'/><text x='224' y='84' class='lbl'>放大机制</text><text x='224' y='103' class='sub'>信贷/预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='56' rx='7' class='box'/><text x='409' y='84' class='lbl'>临界转折</text><text x='409' y='103' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='56' rx='7' class='box'/><text x='594' y='84' class='lbl'>后果</text><text x='594' y='103' class='sub'>违约/贬值/收缩</text></g><line x1='190' y1='88' x2='215' y2='88' class='ar'/><line x1='375' y1='88' x2='400' y2='88' class='ar'/><line x1='560' y1='88' x2='585' y2='88' class='ar'/><path d='M665 116 L665 175 L295 175 L295 116' fill='none' class='ar' stroke-dasharray='5,4'/><text x='400' y='168' class='sub'>反馈：后果反过来强化放大机制</text><line x1='30' y1='215' x2='745' y2='215' class='axis'/><circle cx='40' cy='215' r='4' class='dot'/><text x='24' y='240' class='sub'>1593年</text><circle cx='215' cy='215' r='4' class='dot'/><text x='199' y='240' class='sub'>1634年</text><circle cx='390' cy='215' r='4' class='dot'/><text x='374' y='240' class='sub'>1636年</text><circle cx='565' cy='215' r='4' class='dot'/><text x='549' y='240' class='sub'>1637年2月</text><text x='20' y='275' class='note'>学者解释见本页「各方解释」；箭头为机制方向，虚线为反馈回路。图示为分析框架，非精确数据图。</text></svg>",
+  "key_data": [
+    {
+      "label": "最贵品种 Semper Augustus 顶峰售价",
+      "value": 10000,
+      "unit": "荷兰盾",
+      "year": 1637,
+      "comparable_price": false,
+      "note": "原文：at its peak sold for ƒ10,000；单一来源，待第二来源核实。",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    },
+    {
+      "label": "顶峰球茎价格相当于熟练工匠年收入的倍数（超过）",
+      "value": 10,
+      "unit": "倍",
+      "year": 1637,
+      "comparable_price": false,
+      "note": "原文：certain tulip bulbs sold for more than 10 times the annual income of a skilled artisan；单一来源，待第二来源核实。",
+      "sources": [
+        "w-en-tulip-mania"
+      ]
+    }
+  ]
 }

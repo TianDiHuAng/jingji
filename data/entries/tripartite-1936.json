@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "协定签署国数",
+      "value": 3,
+      "unit": "国（美／法／英）",
+      "year": 1936,
+      "comparable_price": false,
+      "note": "原文：entered into by the United States, France, and Great Britain；单一来源，待第二来源核实。",
+      "sources": [
+        "w-en-tripartite-1936"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "合作视角",
@@ -84,5 +96,5 @@
     "london-econ-1933"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作FN】基于维基全文补写policy_response。 【续作LR】据来源全文扩写 113 → 597 字。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作FN】基于维基全文补写policy_response。 【续作LR】据来源全文扩写 113 → 597 字。 【续作MU】补 key_data（数字据来源全文）。"
 }

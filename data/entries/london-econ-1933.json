@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "参会国数",
+      "value": 66,
+      "unit": "国",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：a meeting of representatives of 66 nations；单一来源，待第二来源核实。",
+      "sources": [
+        "w-en-london-economic-conference"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "协调失败视角",
@@ -83,5 +95,5 @@
     "tripartite-1936"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作DO】policy_response 由概述提炼。 【续作DU】policy_response 人工核验撰写。 【清理】原概述结尾含「具体细节待核实」，已移入此处。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作DO】policy_response 由概述提炼。 【续作DU】policy_response 人工核验撰写。 【清理】原概述结尾含「具体细节待核实」，已移入此处。 【续作MU】补 key_data（数字据来源全文）。"
 }

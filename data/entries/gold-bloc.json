@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "金集团国家数",
+      "value": 7,
+      "unit": "国（以法国为首）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：The gold bloc were seven countries led by France；单一来源，待第二来源核实。",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "金本位约束视角",
@@ -95,5 +107,5 @@
     "tripartite-1936"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DT】policy_response 人工核验撰写。 【续作LR】据来源全文扩写 122 → 742 字。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DT】policy_response 人工核验撰写。 【续作LR】据来源全文扩写 122 → 742 字。 【续作MU】补 key_data（数字据来源全文）。"
 }
