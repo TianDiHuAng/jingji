@@ -1474,6 +1474,18 @@
       "check_result": "PASS; 八道检查全绿（check_quality 新增Markdown渲染检查）",
       "spot_check": "核心34条全为L3；修复125页Markdown粗体未渲染",
       "note": "维基第45轮可用。GC-GF 三件事：①**核心 34 条全部升级 L3**——此前 growth/recession/utility/market-failure 四个基础概念标为 tier=核心 却只有 L2，违反\"核心→L3\"规则。已补齐 deep_svg 机制图、l3_detail（content＋data_caveat＋controversy_summary）、key_data（索洛\"技术80%/资本20%\"、2013年60%消费支出用于1869年不存在的商品、衰退判定三套门槛 1.5%／15%／75%／10%）、timeline 思想演化、policy_response。②发现 gen_site.py 只渲染 l3_detail 的 data_caveat 与 controversy_summary，新增的 content 字段未被渲染，已支持。③**本轮最重要的发现：全站 125 个页面的 Markdown 粗体 ** 从未渲染**——round 39 只修了单元导语，条目页的 overview／timeline／schools／policy_response／key_data／pending_notes 一直显示字面 **。新增 mdesc() 辅助函数（转义后把 **x** 转 <strong>）并替换全部长文本渲染点，修复后 **0 页面残留**；check_quality.py 加入第 11 项检查（未渲染 Markdown）。当前：L3 34 条（五项全备 26）、核心 34 条全为 L3、案例政策 71%、案例数据 85%、key_data 406 条。"
+    },
+    {
+      "round": "续作GG-GJ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 13,
+      "reviewed": 29,
+      "fixed": 0,
+      "sources_total": 732,
+      "check_result": "PASS (625); 八道检查全绿",
+      "spot_check": "13个薄弱条目已补充；timeline 576 条、schools 1205 条",
+      "note": "维基第46轮可用。GG-GJ：**为 13 个\"内容薄弱\"的概念条目补充实质内容**。①先抓取 29 个\"仅 5 个区块\"条目的维基全文（均 5千—7万字符），说明来源充足，此前只是建条目时仅取了 REST 摘要（几百字符）。②为 7 个补充：counterparty-risk（赫斯塔特银行 1974.6.26 牌照吊销、德崇 1990 未引发同类问题、英央行专设安排）、dividend（VOC 1602—1800 年付约 **18%** 股息、1902 年\"不干预\"原则判例）、convergence（Sachs-Warner 111国 1970—89 研究、绝对 vs 条件收敛）、buyback（1934 证券交易法 10b-18 安全港、1981 年前均为固定价格要约）、savings／demand／effective-demand（学术分歧条目化）。③再为 6 个补充：toxic-assets（2006 年 Mozilo 邮件首创该词、2009.3.23 盖特纳 **PPIP**、当日股指涨超 **6%**）、rent-seeking（1817 李嘉图地租→1967 塔洛克→1980s 批评、塔洛克悖论）、transaction-cost（1931 Commons→1996 Williamson 分歧）、tax-incidence（弹性决定归宿）、junk-bond（再打包成 CDO 提升优先级评级）、prisoners-dilemma（1950 提出→1984 Axelrod 锦标赛）。效果：timeline 事件 576 条、schools 1205 条、key_data 410 条；仍缺 timeline/schools 的条目由 29 降至 16。案例政策 71%。"
     }
   ]
 }
