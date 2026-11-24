@@ -116,7 +116,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "1790年4月17日指券被宣布为法定清偿手段（利率降至3%）；1790年8月27日制宪议会决定再发行19亿指券；其后持续超发导致恶性通胀，最终于1796年被废止。",
+      "basis": "据本条目正文（主体：制宪议会；动作：法定清偿、再发行、废止）；具体措施细节与效果评价待核实",
+      "sources": [
+        "w-en-assignat",
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
   "comparison": "与魏玛(1921–23)、匈牙利(1945–46)恶性通胀同属财政赤字货币化型；但指券以土地为名义担保，属早期纸币试验。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法国指券通胀(1789–1796)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>革命政府财政危机 + 没</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>持续超发（1789年40</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>指券丧失货币职能 → 恶</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -125,5 +135,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】"
+  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DP】policy_response 人工核验撰写。"
 }

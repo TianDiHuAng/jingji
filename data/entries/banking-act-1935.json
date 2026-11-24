@@ -66,7 +66,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "该法由国会于1935年8月19日通过、8月23日签署，改变美联储体系的结构与权力分配（变革始于1933年银行法）。",
+      "basis": "据本条目正文（主体：国会/总统；动作：立法改组央行体系）；具体措施细节与效果评价待核实",
+      "sources": [
+        "w-en-banking-act-1935",
+        "w-en-federal-reserve"
+      ]
+    }
+  ],
   "comparison": "与1913年《联邦储备法》创设美联储、1933年银行法分业经营构成美国央行制度演进三步。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1935年银行法：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美国国会通过《1935年</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -80,5 +90,5 @@
     "glass-steagall"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作DP】policy_response 人工核验撰写。"
 }

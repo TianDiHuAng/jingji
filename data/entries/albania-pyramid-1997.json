@@ -78,7 +78,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "骗局崩盘后秩序崩溃、武装抢劫军械库、大规模移民外流，最终由国际干预介入并推动重建。",
+      "basis": "据本条目正文（主体：国际社会；动作：干预与重建）；具体措施细节与效果评价待核实",
+      "sources": [
+        "w-en-albania-pyramid-schemes",
+        "w-en-ponzi-scheme"
+      ]
+    }
+  ],
   "comparison": "与2008年马多夫庞氏骗局相比，阿尔巴尼亚案的特点是**规模相对GDP极高**且**直接引发国家动乱**；马多夫案虽绝对金额更大，但集中于机构与富裕投资者。与苏克阿尔马纳克(1982)同属\"非正规金融链条断裂\"样本。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>阿尔巴尼亚金字塔骗局与1997年动乱：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>转轨初期金融监管真空 +</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以新入资金支付旧\"利息\"</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>资金链断裂 → 储户损失</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -91,5 +101,5 @@
     "ponzi-scheme"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。 【续作DP】policy_response 人工核验撰写。"
 }
