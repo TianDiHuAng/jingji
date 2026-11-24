@@ -352,6 +352,22 @@ def m_r27():
 
 case('R27 案例缺因果链', m_r27, ['tools/check.py'], 'R27', [BH_ENT])
 
+SRCJSON = os.path.join(ROOT, 'data', 'sources.json')
+
+
+def m_r28():
+    d = json.load(open(SRCJSON, encoding='utf-8'))
+    # 复制一个已有来源、改 id 但保留同 url → 触发 R28
+    import copy
+    s = copy.deepcopy(d['sources'][0])
+    s['id'] = 'zz-dup-url-test'
+    d['sources'].append(s)
+    d['count'] = len(d['sources'])
+    json.dump(d, open(SRCJSON, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R28 来源URL重复', m_r28, ['tools/check.py'], 'R28', [SRCJSON])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 

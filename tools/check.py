@@ -353,6 +353,11 @@ def main():
                 and _e.get('tier') in ('核心', '重要')
                 and not _e.get('causal_chain')):
             warn('R27', _e.get('id', '?'), '核心/重要案例缺 causal_chain（因果链）')
+    # R28 来源 URL 不得重复（同一页面只应登记一次）
+    _urlc = Counter(s.get('url') for s in sources.values() if s.get('url'))
+    for _u, _c in _urlc.items():
+        if _c > 1:
+            warn('R28', 'sources.json', 'URL 重复 %d 次: %s' % (_c, _u))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

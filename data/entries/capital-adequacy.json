@@ -14,21 +14,21 @@
       "year": 1988,
       "event": "巴塞尔委员会发布 Basel I，确立 8% 的最低资本充足率（据 Wikipedia Capital requirement）",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     },
     {
       "year": 2004,
       "event": "Basel II 引入内部评级法与三大支柱框架（据 Wikipedia Capital requirement）",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     },
     {
       "year": 2010,
       "event": "Basel III 大幅提高核心一级资本要求并新增杠杆率与流动性指标（据 Wikipedia Capital requirement）",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     }
   ],
@@ -38,14 +38,14 @@
       "holder": "缓冲视角",
       "view": "资本是吸收损失的缓冲，要求越严则银行越能承受冲击；危机后各国普遍提高核心一级资本要求即基于此（据 Wikipedia Capital requirement）",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     },
     {
       "holder": "成本与规避视角",
       "view": "更高的资本要求抬高融资成本、可能抑制信贷；且银行会通过**调整风险权重模型**或把资产移出表外来规避，使名义充足率改善而实际风险未减（据 Wikipedia Capital requirement）",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     }
   ],
@@ -58,7 +58,7 @@
       "comparable_price": false,
       "note": "原文：the 8% minimum capital requirement established under Basel I；单一来源待核实。",
       "sources": [
-        "w-en-capital-adequacy"
+        "w-en-capital-requirement"
       ]
     }
   ],
@@ -75,7 +75,7 @@
     "self-insurance"
   ],
   "sources": [
-    "w-en-capital-adequacy"
+    "w-en-capital-requirement"
   ],
   "needs_verification": true,
   "pending_notes": "【续作IB】据维基全文新建；监管细则与各国实施差异待核实。"

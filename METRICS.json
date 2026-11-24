@@ -2650,6 +2650,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
       "spot_check": "随机 4 条整体核对全准确；oil-price-war 补 2 条 key_data（460→462）",
       "note": "维基第143轮可用。PB：随机抽 4 条有缓存案例做整体内容核对（全部准确），并为 oil-price-war-2020 补 2 条 key_data。\n①**网络**：仍 URLError。\n②**随机抽查 4 条**（recession-1937-1938／spain-2008／oil-price-war-2020／sherman-silver-purchase）：概述关键数字逐一与缓存核对——**全部准确**（\"30 percent\"\"8 March\" 等只是我的 grep 格式差异：日为\"8 March\"、数为\"30 percent\"）。4 条均已有较完善 key_data。\n③**为 oil-price-war-2020 补 2 条 key_data**（据 w-en-oil-price-war-2020 缓存）：战前油价自 2020 年初因需求下降跌 **30%**；布伦特原油 2020-03-09 单日跌 **30%**（海湾战争以来最大）。key_data 460 → **462**；check_kd 强匹配 348 → **350**。\n④check_docs 报出 key_data 460→462 需同步，已更新 REPORT/HEALTH。\n⑤现状：641 条、来源 742、页面 655；key_data 462 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
+    },
+    {
+      "round": "续作PC",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 4,
+      "reviewed": 641,
+      "fixed": 3,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 33/33",
+      "spot_check": "数据卫生干净；合并 2 组重复 URL 来源（742→740）+ R28，自测 33",
+      "note": "维基第144轮可用。PC：数据卫生扫描干净；来源库结构审计发现并合并 2 组同 URL 重复来源；加 R28。\n①**网络**：仍 URLError。\n②**数据卫生扫描（全 641 条）**：重复 key_data label **0**、重复 schools holder **0**、重复 timeline 事件 **0**、空字段 **0**——数据内部一致。\n③**来源库结构审计**：count 742=实际、无重复 id、无缺字段、verified/link_ok 全 true、type 均合法；**发现 2 组同 URL 重复来源**（同一维基页登记了两个 id）：\n`w-en-capital-adequacy`→`w-en-capital-requirement`（同 Capital_requirement）、`w-en-bank-holiday`→`w-en-emergency-banking-act-1933`（同 EBRA）。\n④**合并**：递归重映射 entries 全部 sources/src 字段、去重、删重复来源，**来源库 742 → 740**；无残留引用、无重复 URL、check 0/0。\n⑤**固化 R28**：来源 URL 不得重复。自测 32 → **33 项**；同步 REPORT/HEALTH（来源 740、R1–R28、自测 33）。\n⑥现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 33/33。"
     }
   ]
 }

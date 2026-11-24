@@ -14,28 +14,28 @@
       "year": 1933,
       "event": "2月14日密歇根州率先宣布八天银行假日，挤兑恐慌向其他州蔓延（据 Wikipedia Emergency Banking Act of 1933）",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "year": 1933,
       "event": "3月9日国会通过《紧急银行救济法》，授权联邦储备银行以良好资产发行额外货币（据 Wikipedia Emergency Banking Act of 1933）",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "year": 1933,
       "event": "3月13日银行复业，储户排队存回现金；3月15日华尔街复市，道指涨8.26点（据 Wikipedia Emergency Banking Act of 1933）",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "year": 1933,
       "event": "同年《1933年银行法》通过，设立联邦存款保险公司(FDIC)（据 Wikipedia Emergency Banking Act of 1933）",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     }
   ],
@@ -43,19 +43,19 @@
     {
       "step": "1933-02-14 起密歇根州率先宣布 8 天银行假日，其他州相继跟进 → 挤兑从一州蔓延至全国",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "step": "罗斯福于 1933 年 3 月宣布全国银行假日，暂停全部银行营业以止住挤兑",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "step": "国会通过《紧急银行法》(EBRA, 1933-03-09)，授权美联储增发钞票、银行经审核后择优复业",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     }
   ],
@@ -64,14 +64,14 @@
       "holder": "\"关门整顿\"视角",
       "view": "停业给当局争取了核查银行偿付能力的时间，并以\"资产担保发钞\"消除复业银行的流动性疑虑——挤兑因此停止，存款回流",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
       "holder": "\"信心与信号\"视角",
       "view": "止住挤兑的关键不只是资金，而是**公开的择优复业名单**这一信号：被批准复业的银行获得隐性认证，未被批准者则被市场淘汰",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     }
   ],
@@ -84,7 +84,7 @@
       "comparable_price": false,
       "note": "原文：Michigan ... declared an eight-day bank holiday；单一来源待核实。",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
@@ -95,7 +95,7 @@
       "comparable_price": false,
       "note": "原文：the Dow Jones Industrial Average, gaining 8.26 point；单一来源待核实。",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     },
     {
@@ -106,7 +106,7 @@
       "comparable_price": false,
       "note": "原文：Within two weeks, Americans had redeposited more than half of the currency that they had legally withdrawn before the bank suspension；单一来源待核实。",
       "sources": [
-        "w-en-bank-holiday"
+        "w-en-emergency-banking-act-1933"
       ]
     }
   ],
@@ -120,7 +120,7 @@
     "panic-1930"
   ],
   "sources": [
-    "w-en-bank-holiday"
+    "w-en-emergency-banking-act-1933"
   ],
   "needs_verification": true,
   "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。 【续作OW｜round158】据正文机制与已引来源补 causal_chain。"

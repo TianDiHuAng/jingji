@@ -2385,6 +2385,14 @@
 - check_docs 报出 key_data 460→462 需同步，已更新 REPORT/HEALTH。
 - 现状：**641 条**、来源 **742**、页面 **655**；key_data **462** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
 
+- **维基百科第 144 轮可用（round 164）**。**数据卫生扫描干净；来源库结构审计发现并合并 2 组同 URL 重复来源；加 R28**。
+- **网络**：仍 URLError。
+- **数据卫生扫描（全 641 条）**：重复 key_data label **0**、重复 schools holder **0**、重复 timeline 事件 **0**、空字段 **0**。
+- **来源库结构审计**：count 742=实际、无重复 id、无缺字段、verified/link_ok 全 true、type 均合法；**发现 2 组同 URL 重复来源**（同一维基页登记了两个 id）：`w-en-capital-adequacy`→`w-en-capital-requirement`（Capital_requirement）、`w-en-bank-holiday`→`w-en-emergency-banking-act-1933`（EBRA）。
+- **合并**：递归重映射 entries 全部 sources/src 字段、去重、删重复来源，**来源库 742 → 740**；无残留引用、无重复 URL、check 0/0。
+- **固化 R28**：来源 URL 不得重复。自测 32 → **33 项**；同步 REPORT/HEALTH（来源 740、R1–R28、自测 33）。
+- 现状：**641 条**、来源 **740**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 33/33。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
