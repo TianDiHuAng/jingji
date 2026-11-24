@@ -1812,6 +1812,24 @@
 - **round 94 的接线检查再次生效**：30 条扩写引入 5 处「见 xxx」未入 `related`，被 `check_pages` 报出；用 round 94 的扫描逻辑批量修复（补入 15 条、对称化 20 条）。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 390 字**；**ERRORS 0**、WARNINGS 305（R22 提示）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 95 轮可用（round 114）**。**扩写 30 条核心概念（WARNINGS 305 → 275）**。
+- **第一批 16 条**（95—96 字 → 411—512 字）：adverse-selection／austerity／behavioral-finance／bond／classical-economics／core-inflation／fiat-money／hot-money／odious-debt／representative-money／speculation／capital-structure／collateral／debt-restructuring／haircut-finance／quantitative-easing。
+- **第二批 14 条**（94—97 字 → 414—567 字）：tragedy-commons／velocity-of-money／volatility／arbitrage／cryptocurrency／currency-union／division-of-labour／exchange-rate-regime／exorbitant-privilege／hyperinflation／insider-trading／liquidity-risk／convertible-bond／world-bank。
+- **本轮出现几处特别有价值的「易错点」**：
+
+  | 条目 | 关键判断 |
+  |---|---|
+  | `velocity-of-money` | 解释「**为什么量化宽松没引发高通胀**」——M 上升而 V 骤降；并点明若信心恢复、V 回升，积累的货币可能迅速转为通胀 |
+  | `volatility` | **风险的度量本身会改变风险**——低波动率诱发加杠杆，波动率骤升强制减仓 |
+  | `liquidity-risk` | 把**融资流动性**与**市场流动性**拆开，说明两者如何互相强化 |
+  | `haircut-finance` | **haircut 上调等于在不改变价格的情况下抽走流动性** |
+  | `tragedy-commons` | 把系统性风险类比为「**金融的公地**」，直接支撑宏观审慎监管的正当性 |
+  | `odious-debt` | **不对具体国家的债务性质作判断**（守住边界） |
+  | `cryptocurrency` | FTX 的教训：**同样的金融活动若处在监管边界之外，失败将由客户全额承担** |
+
+- **round 94 的接线检查再次生效**：30 条扩写引入多处「见 xxx」未入 `related`，用既定脚本批量修复（补入 21 条、对称化 16 条）。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 430 字**；**ERRORS 0**、WARNINGS 275（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

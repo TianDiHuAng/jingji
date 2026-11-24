@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "货币",
   "one_line": "由政府发行、一般由央行创造、经法规授权为法定清偿但不以贵金属为支撑的货币。",
-  "overview": "法定货币（法币）是一种政府发行的货币，一般由中央银行创造，经政府法规授权成为法定清偿手段，但不以贵金属作为支撑。法币的价值依赖政府信用与货币政策纪律，因而与通胀控制密切相关。具体论述待核实。",
+  "overview": "法定货币(fiat money) 指**不以任何实物商品（黄金、白银）为支撑**、而**依靠法律规定与公众信任**流通的货币。**\"fiat\" 的含义是\"法令\"**：它的价值来自政府宣布其为**法定清偿手段**（见 legal-tender），以及市场对该货币购买力的信心。**与商品货币的根本区别**：商品货币（见 commodity-money）的供给受实物开采约束；法定货币的供给**由央行决定**——这既赋予政策灵活性（危机中可迅速扩张流动性），也带来**通胀与财政滥用**的风险。**历史转折**：1971 年尼克松宣布停止美元兑换黄金（见 nixon-shock），布雷顿森林体系瓦解，全球主要货币全面转为法定货币——这是货币史上最根本的制度变化之一。**与危机的关系是双面的**：①**正面**——法定货币使央行能在危机中充当最后贷款人、阻止流动性危机演变为偿付危机；②**负面**——它移除了名义锚，长期通胀风险与\"财政主导\"（见 fiscal-dominance）成为新的隐忧。",
   "timeline": [],
   "causal_chain": [
     {
@@ -60,9 +60,11 @@
     "commodity-money",
     "credit-money",
     "cryptocurrency",
+    "fiscal-dominance",
     "helicopter-money",
     "history-of-money",
     "legal-tender",
+    "nixon-shock",
     "redenomination",
     "representative-money",
     "riksbank",
@@ -70,5 +72,5 @@
     "token-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作ED】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作ED】补写概念辨析。 【续作KU】overview 扩写 95 → 448 字。"
 }

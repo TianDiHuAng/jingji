@@ -34,7 +34,8 @@
     "bank-run",
     "deposit-insurance",
     "money-creation",
-    "money-multiplier"
+    "money-multiplier",
+    "representative-money"
   ],
   "sources": [
     "w-en-fractional-reserve"

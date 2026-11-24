@@ -61,7 +61,8 @@
     "basel-accords",
     "basel-iii",
     "capital-adequacy",
-    "lender-of-last-resort"
+    "lender-of-last-resort",
+    "liquidity-risk"
   ],
   "sources": [
     "w-en-liquidity-coverage-ratio"

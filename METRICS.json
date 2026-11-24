@@ -2062,6 +2062,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 305（R22）+ 自测 18/18",
       "spot_check": "扩写 30 条机制类核心概念；批量修复 5 处未接线",
       "note": "维基第94轮可用。KP-KT：扩写 30 条机制类核心概念（WARNINGS 335 → 305）。①本轮选择**机制类**而非工具类：跳过 beta（贝塔系数）这类纯统计指标，优先处理对理解危机有实质作用的条目。②第一批 15 条（74—92 字 → 363—478 字）：herd-behavior／bank-failure／collateralized-debt-obligation／new-classical／adaptive-expectations／resource-curse／credit-default-swap／quantitative-tightening／risk-premium／fear-of-floating／information-asymmetry／central-bank-independence／global-imbalances／federal-reserve／duration-finance。③第二批 15 条（82—93 字 → 406—501 字）：initial-public-offering／stock-exchange／discount-window／fx-intervention／mortgage-backed-security／primary-market／capital-requirement／country-risk／dollarization／keynesian-economics／market-maker／market-risk／marginal-utility／bill-of-exchange／kondratiev。④**扩写的重点不是字数，是补上「机制」与「易错点」**。例：**discount-window** 点明「污名」问题——银行怕被解读为出问题而不敢申请，使该工具在最需要时反而不被使用；**market-maker** 指出做市商「没有义务在压力下继续做市」，于是流动性在最需要的时刻蒸发；**country-risk** 区分「主权风险」与「国家风险」——后者包括外汇管制等「债务人有能力但国家让它付不出去」的情形；**dollarization** 指出它把危机形态从汇率危机转为银行与债务危机，且失去最后贷款人能力；**kondratiev** 明确记为「描述性假说而非可操作预测工具」，并声明本库不据此作周期判断（守住「不作预测」规则）；**duration-finance** 直接连到 2023 年硅谷银行——长久期债券在加息后的浮亏。⑤过程中又遇两处引号笔误导致语法错误，按报错定位修正。⑥**round 94 的接线检查再次生效**：30 条扩写引入 5 处「见 xxx」引用未入 related，被 check_pages 报出；用 round 94 的扫描逻辑批量修复（补入 15 条 related、对称化 20 条）。⑦现状：641 条、来源 742、页面 655；overview 平均 210 字；ERRORS 0、WARNINGS 305（R22 提示）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作KU-KV",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 30,
+      "reviewed": 305,
+      "fixed": 37,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 275（R22）+ 自测 18/18",
+      "spot_check": "扩写 30 条核心概念；批量修复接线",
+      "note": "维基第95轮可用。KU-KV：扩写 30 条核心概念（WARNINGS 305 → 275）。①第一批 16 条（95—96 字 → 411—512 字）：adverse-selection／austerity／behavioral-finance／bond／classical-economics／core-inflation／fiat-money／hot-money／odious-debt／representative-money／speculation／capital-structure／collateral／debt-restructuring／haircut-finance／quantitative-easing。②第二批 14 条（94—97 字 → 414—567 字）：tragedy-commons／velocity-of-money／volatility／arbitrage／cryptocurrency／currency-union／division-of-labour／exchange-rate-regime／exorbitant-privilege／hyperinflation／insider-trading／liquidity-risk／convertible-bond／world-bank。③**本轮扩写中出现几处特别有价值的「易错点」**：**velocity-of-money** 解释了「为什么量化宽松没引发高通胀」——M 上升而 V 骤降，且点明「若信心恢复、V 回升，前期积累的货币存量可能迅速转化为通胀」；**volatility** 指出「风险的度量本身会改变风险」——低波动率诱发加杠杆、波动率骤升强制减仓；**liquidity-risk** 把融资流动性与市场流动性拆开，并说明两者如何**互相强化**；**haircut-finance** 点出「haircut 上调等于在不改变价格的情况下抽走流动性」；**tragedy-commons** 把系统性风险类比为「金融的公地」，直接支撑宏观审慎监管的正当性；**odious-debt** 与 **cryptocurrency** 两处明确守住本库边界——前者「不对具体国家的债务性质作判断」，后者指出 FTX 的教训是「同样的金融活动若处在监管边界之外，失败将由客户全额承担」。④**round 94 的接线检查再次生效**：30 条扩写引入多处「见 xxx」未入 related，用既定脚本批量修复（补入 21 条、对称化 16 条）。⑤现状：641 条、来源 742、页面 655；overview 平均 227 字、related 平均 6.0 条；ERRORS 0、WARNINGS 275（R22）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "18—19世纪以市场自发调节、劳动价值论等为特征的经济学传统（斯密、李嘉图、马歇尔等）。",
-  "overview": "古典经济学是18世纪后期至19世纪的经济学传统，以亚当·斯密《国富论》为奠基，强调分工、市场与\"看不见的手\"的自发协调，并发展出劳动价值论等。后经马歇尔等综合为新古典经济学。具体论述待核实。",
+  "overview": "古典经济学(classical economics) 指**亚当·斯密至 19 世纪末**的主流经济学传统，代表人物包括斯密、李嘉图、密尔等。**核心主张**：**市场通过价格机制自我调节**——价格与工资的灵活变动会使供给与需求趋于均衡；**分工与自由贸易**提高效率（见 specialization、comparative-advantage）；**政府应限于产权保护、契约执行与国防**（见 laissez-faire）。**与凯恩斯的分歧是根本性的**：古典观点认为**储蓄会自动转化为投资**（通过利率调整），因此不存在持续的有效需求不足，也不会长期失业；凯恩斯指出利率未必能完成这一调节，因此需要财政干预（见 keynesian-economics）。**与危机的关系**：①古典派对**危机是否\"自然出清\"** 的信念影响政策——1920—21 年的放任与 1930 年代的迟缓干预都与此有关；②但古典传统中的**货币数量论**（见 quantity-theory-money）仍是理解通胀的基础工具；③现代**新古典宏观**继承了理性人与市场出清的假设，并把它推进到极限（见 new-classical）。",
   "timeline": [],
   "causal_chain": [
     {
@@ -65,10 +65,13 @@
     "marxist-theory",
     "monetarism",
     "neutrality-of-money",
+    "new-classical",
     "physiocracy",
     "political-economy",
-    "says-law"
+    "quantity-theory-money",
+    "says-law",
+    "specialization"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作DJ】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作DJ】补写概念辨析。 【续作KU】overview 扩写 95 → 512 字。"
 }
