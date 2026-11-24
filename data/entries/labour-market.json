@@ -26,6 +26,13 @@
       "sources": [
         "w-en-labour-market"
       ]
+    },
+    {
+      "holder": "竞争性市场视角",
+      "view": "若无摩擦，工资由**劳动的边际生产率**决定、劳动市场趋于出清；该视角把失业更多归因于工资刚性与制度约束，而非搜寻摩擦（据 Wikipedia Labour economics）",
+      "sources": [
+        "w-en-labour-market"
+      ]
     }
   ],
   "key_data": [],
@@ -42,5 +49,5 @@
     "w-en-labour-market"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作KG】overview 由英文摘要改写为中文（原 267 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作KG】overview 由英文摘要改写为中文（原 267 字）。 【续作MW】补 schools 第二派观点（据现有来源）。"
 }

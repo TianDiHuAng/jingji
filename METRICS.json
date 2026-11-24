@@ -2242,6 +2242,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
       "spot_check": "多维度一致性审计（结论干净）；5 条核心案例补 key_data",
       "note": "维基第109轮可用。MN-MU：多维度数据一致性审计（结论：数据干净）+ 为 5 条核心案例补 key_data。\n①timeline 年份与所属时期：初查 24 条越界，逐一核对后全部为合法的背景年表（如 AIG 1919 年成立、巴林 1762 年创立，作为危机前史）；改用严格 XXXX年 匹配后剩 13 条，亦全为合法引用年（对比年份、通胀调整、公元前写法）。时间线数据准确。\n②crisis_type 分布：制度 189／理论 152／货币 92／银行 76／泡沫 41／其他 39／债务 37／恶性通胀 15——分布合理。\n③近重复标题：仅 2 对，且带不同年份（土耳其 2001 vs 2018、委内瑞拉 1994 vs 2009），非重复。\n④region 一致性：标题地名与 region 不符仅 2 条（均为土耳其标中东）——土耳其地跨欧亚，两条一致标中东，可辩护，非错误。\n⑤key_data value 非数值：0；timeline year 非整数：0；schools.view 为空：0；one_line/overview 为空：0。\n⑥预测性/投资建议语言：仅 3 处含下一轮，均为正确用法（鼓励下一轮冒险描述机制、而非下一轮何时到来明确拒绝预测）；26 条单来源条目全部已标 needs_verification=True——铁律遵守。\n⑦验证页分类审计：核对 gen_site 五分类逻辑——跨语言对照是条目级判据（条目引用多语种维基），页面已明确声明多语种同属维基体系、不构成独立互证，设计诚实，无需改。\n⑧补 key_data 6 条（数字均来自来源全文）：london-econ-1933（66 国）、panic-1825（倒闭 12 家银行）、gold-bloc（7 国）、tripartite-1936（3 签约国）、tulip-mania-1637（Semper Augustus 顶峰 10000 盾；超工匠年收入 10 倍）。check_kd 强匹配 333 → 336。\n⑨现状：641 条、来源 742、页面 655；key_data 445、overview 平均 424 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作MV-MW",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 6,
+      "reviewed": 16,
+      "fixed": 6,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
+      "spot_check": "6 条补第二派 schools；两派对照 619→625 条",
+      "note": "维基第110轮可用。MV-MW：为 6 条单观点条目补第二派 schools，使两派对照达 625 条。\n①审计发现 schools 条数分布为 {0:5, 1:11, 2:619, 4:6}——11 条只有单条观点、未构成两派对照。\n②为其中确有真实争论的 6 条补第二派（均据其现有来源）：fractional-reserve（信贷中介功能 vs 100% 准备金的奥地利学派）、modigliani-miller（权衡理论：税盾与破产成本→最优资本结构 vs MM 无关性）、labour-market（竞争性市场：边际生产率决定工资 vs 搜寻匹配摩擦）、counterparty-risk（市场自律 vs 监管与中央对手方）、payment-system（效率与竞争 vs 系统重要性监管）、proprietary-trading（风险承担与流动性效益 vs 沃尔克规则的限制）。\n③未为 definitional 条目强补——demand／effective-demand 是定义性概念、无所谓两派；inequality 与两条案例（federal-reserve-act／sherman-silver-purchase）保留单观点，宁缺毋编。\n④结果：schools 分布 {0:5, 1:5, 2:625, 4:6}——625 条已构成两派对照，单观点由 11 降至 5。\n⑤check_filler 通过（新增观点未触发跨条目重复句检测）。\n⑥现状：641 条、来源 742、页面 655；overview 平均 424 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

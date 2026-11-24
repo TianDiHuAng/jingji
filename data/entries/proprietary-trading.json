@@ -18,6 +18,13 @@
       "sources": [
         "w-en-proprietary-trading"
       ]
+    },
+    {
+      "holder": "风险承担／效益视角",
+      "view": "自营交易为公司提供利润来源，并在一定程度上为市场**提供流动性**；限制自营的批评者认为，全面禁止可能损失这些收益、并可能将业务推向监管更松的领域（据 Wikipedia Proprietary trading 及沃尔克规则的相关争论）",
+      "sources": [
+        "w-en-proprietary-trading"
+      ]
     }
   ],
   "key_data": [],
@@ -32,5 +39,5 @@
     "w-en-proprietary-trading"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作KG】overview 由英文摘要改写为中文（原 246 字）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作KG】overview 由英文摘要改写为中文（原 246 字）。 【续作MW】补 schools 第二派观点（据现有来源）。"
 }

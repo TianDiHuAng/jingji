@@ -33,6 +33,13 @@
       "sources": [
         "w-en-settlement-risk"
       ]
+    },
+    {
+      "holder": "市场自律视角",
+      "view": "交易双方可通过**抵押品、交易限额、双边净额协议与信用评估**自行管理结算敞口，监管与中央对手方并非唯一手段；强制集中清算也会带来新的集中风险（据 Wikipedia Settlement risk）",
+      "sources": [
+        "w-en-settlement-risk"
+      ]
     }
   ],
   "key_data": [
@@ -65,5 +72,5 @@
     "w-en-settlement-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。 【续作KC】overview 由英文摘要改写为中文（原 503 字）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。 【续作KC】overview 由英文摘要改写为中文（原 503 字）。 【续作MW】补 schools 第二派观点（据现有来源）。"
 }

@@ -18,6 +18,13 @@
       "sources": [
         "w-en-payment-system"
       ]
+    },
+    {
+      "holder": "效率与竞争视角",
+      "view": "支付系统的技术演进降低了交易成本、促进了竞争与金融普惠；监管需在**稳定性与创新**之间平衡，过度审慎可能抑制效率改进（据 Wikipedia Payment system）",
+      "sources": [
+        "w-en-payment-system"
+      ]
     }
   ],
   "key_data": [],
@@ -32,5 +39,5 @@
     "w-en-payment-system"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools。 【续作KE】overview 由英文摘要改写为中文（原 443 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools。 【续作KE】overview 由英文摘要改写为中文（原 443 字）。 【续作MW】补 schools 第二派观点（据现有来源）。"
 }

@@ -18,6 +18,13 @@
       "sources": [
         "w-en-modigliani-miller"
       ]
+    },
+    {
+      "holder": "权衡理论视角",
+      "view": "现实中存在**税盾（利息抵税）与破产成本**，二者随杠杆此消彼长，因此**存在最优资本结构**——这恰是 MM 定理标出\"理想条件\"后被用来解释现实偏离的方向（据 Wikipedia Modigliani–Miller theorem）",
+      "sources": [
+        "w-en-modigliani-miller"
+      ]
     }
   ],
   "key_data": [],
@@ -33,5 +40,5 @@
     "w-zh-modigliani-miller"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 483 字）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 483 字）。 【续作MW】补 schools 第二派观点（据现有来源）。"
 }
