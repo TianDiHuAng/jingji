@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "戴克里先于301年颁布《价格敕令》：谴责贪婪，并为所有重要物品与服务设定最高价格与工资，试图以行政限价抑制通胀；但因普遍规避与供给萎缩而难以奏效。",
+      "basis": "据本条目正文（主体：戴克里先；动作：颁布限价敕令，含价格与工资上限）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-debasement",
+        "w-en-edict-maximum-prices"
+      ]
+    }
+  ],
   "comparison": "与后世价格管制（如1971年美国价格管制、战时管制）机制相似：均试图以行政手段压制货币性通胀。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>罗马价格敕令(301)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>罗马货币长期贬损（成色下</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>301年价格敕令 → 以</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>限价致商品退出市场/规避</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -68,5 +78,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】 【续作DS】policy_response 人工核验撰写。"
 }

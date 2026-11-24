@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "设立外汇平准账户(EEA) 作为英国财政部的一项基金，持有 SDR、外币与黄金储备，用于在外汇市场干预——使英国能在不直接改变货币政策的情况下影响汇率。",
+      "basis": "据本条目正文（主体：英国财政部；动作：设立平准基金、干预外汇市场）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-exchange-equalisation",
+        "w-en-fx-intervention"
+      ]
+    }
+  ],
   "comparison": "与当代各国央行/财政部的汇率稳定基金同类；是\"冲销式干预\"制度化的重要先例。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>外汇平准账户(EEA)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英国退出金本位后需管理汇</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以基金买卖外汇/黄金 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备资产（SDR、外币、</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -68,5 +78,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作DS】policy_response 人工核验撰写。"
 }

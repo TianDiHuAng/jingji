@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "2013年3月的救助协议规定：10万欧元以下的保险存款不受影响，超过10万欧元的存款被征收47.5%（即存款减记/bail-in），以此换取外部救助。",
+      "basis": "据本条目正文（主体：救助方与塞浦路斯当局；动作：存款减记协议）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-cypriot-financial-crisis",
+        "w-en-cypriot-2013"
+      ]
+    }
+  ],
   "comparison": "塞浦路斯是欧元区危机中**唯一以存款减记(bail-in)为核心**的案例（见 bail-in），与希腊、爱尔兰、葡萄牙的外部救助形成对照：那些国家赌的是主权偿付能力，塞浦路斯赌的是**银行体系规模超过国家救助能力**（与冰岛2008年、见 icelandic-crisis-2008 同型）。其独特性在于把损失直接分配到**超过存款保险限额的存款人**，这在欧元区是首次，也使\"存款是否安全\"成为此后银行危机中反复出现的信任问题。与2013年之后的处置框架（BRRD）相比，塞浦路斯是\"先行个案\"而非有规则约束的操作。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2012–2013塞浦路斯金融危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -115,5 +125,5 @@
     "icelandic-crisis-2008"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作AP】补关键数据（单源）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作AP】补关键数据（单源）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DR】policy_response 人工核验撰写。"
 }

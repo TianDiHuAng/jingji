@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "清算安排：1790年代美国宪法批准后，大陆币可按面值的1%兑换国债（即以极低比率折算为联邦债务）。",
+      "basis": "据本条目正文（主体：美国联邦政府；动作：按1%面值兑换国债）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-early-american-currency",
+        "w-en-fiat-money"
+      ]
+    }
+  ],
   "comparison": "与法国指券同期（18世纪末），同为战争财政驱动的纸币通胀；美国案例以战后极低兑换率收场。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>大陆币通胀(1775–1780s)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>独立战争军费激增 + 无</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>累计发行约2亿美元、缺乏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>战后按面值1%兑换国债 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -106,5 +116,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DO】policy_response 由概述提炼。 【续作DR】policy_response 人工核验撰写。"
 }
