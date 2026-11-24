@@ -1,0 +1,62 @@
+{
+  "commercial-revolution": {
+    "title": "Commercial revolution",
+    "extract": "In European history, the commercial revolution saw the development of a European economy – based on trade – which began in the 11th century AD and operated until the advent of the Industrial Revolution in the mid-18th century. The Crusades from around 1100 exposed Europeans to spices, silks, and other commodities then rare in Europe. Consumer demand fostered the expansion of trade. Newly forming European states, through voyages of discovery, investigated alternative trade routes in the 15th and 16th centuries, which allowed European powers to build vast international trade networks. Nations also sought new sources of wealth and practiced mercantilism and colonialism. The Commercial Revolution is marked by an increase in general commerce, and in the growth of financial services such as banking, insurance, and investing.",
+    "slug": "Commercial_Revolution"
+  },
+  "price-revolution": {
+    "title": "Price revolution",
+    "extract": "\nThe Price Revolution, sometimes known as the Spanish Price Revolution, was a series of economic events that occurred in the second half of the 16th century, and most specifically linked to the high rate of inflation that occurred during this period across Western Europe. Prices rose on average roughly sixfold over 150 years. This level of inflation amounts to 1.2% per year compounded, a relatively low inflation rate for modern-day standards, but rather high given the monetary policy in place in the 16th century.",
+    "slug": "Price_revolution"
+  },
+  "history-of-money": {
+    "title": "History of money",
+    "extract": "The history of money is the development over time of systems for the exchange of goods and services. Money is a means of fulfilling these functions indirectly and in general rather than directly, as with barter.",
+    "slug": "History_of_money"
+  },
+  "history-of-banking": {
+    "title": "History of banking",
+    "extract": "The history of banking began with the first prototype banks, that is, the merchants of the world, who gave grain loans to farmers and traders who carried goods between cities. This was around 2000 BCE in Assyria, India, and Sumer. Later, in ancient Greece and during the Roman Empire, lenders based in temples gave loans, while accepting deposits and providing currency exchange services. Archaeological findings from this period in ancient China and India also include evidence of money lending.",
+    "slug": "History_of_banking"
+  },
+  "economic-history": {
+    "title": "Economic history",
+    "extract": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods, and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity, and providing insights into how it is structured and conceived.",
+    "slug": "Economic_history"
+  },
+  "financial-history": {
+    "title": "Finance",
+    "extract": "Finance refers to the management, movement, investment, and raising of money.\n\"Finance\" also refers to the academic discipline that studies these.\nBased on the scope of financial activities, the discipline can be divided into the three primary branches personal, corporate, and public finance.",
+    "slug": "Financial_history"
+  },
+  "great-depression-concept": {
+    "title": "Great Depression",
+    "extract": "The Great Depression was a severe global economic downturn from 1929 to 1939. The period was marked by high rates of unemployment and poverty, drastic reductions in industrial production and international trade, and widespread bank and business failures around the world. The economic contagion began in 1929 in the United States, the largest economy in the world, with the devastating Wall Street crash of 1929 often considered the beginning of the Depression. Among the countries with the most unemployed were the U.S., the United Kingdom, and Germany.",
+    "slug": "Great_Depression"
+  },
+  "stock-market-crash": {
+    "title": "Stock market crash",
+    "extract": "A stock market crash is a sudden dramatic decline of stock prices across a major cross-section of a stock market, resulting in a significant loss of paper wealth. Crashes are driven by panic selling and underlying economic factors. They often follow speculation and economic bubbles.",
+    "slug": "Stock_market_crash"
+  },
+  "boom-and-bust": {
+    "title": "Business cycle",
+    "extract": "Business cycles are intervals of general expansion followed by recession in economic performance. The changes in economic activity that characterize business cycles have important implications for the welfare of the general population, government institutions, and private sector firms.",
+    "slug": "Boom_and_bust"
+  },
+  "trade-cycle": {
+    "title": "Business cycle",
+    "extract": "Business cycles are intervals of general expansion followed by recession in economic performance. The changes in economic activity that characterize business cycles have important implications for the welfare of the general population, government institutions, and private sector firms.",
+    "slug": "Trade_cycle"
+  },
+  "financial-crisis-theory": {
+    "title": "Financial crisis",
+    "extract": "A financial crisis is any of a broad variety of situations in which some financial assets suddenly lose a large part of their nominal value. A broader reduction of economic activity affecting the whole economy is known as an economic crisis. In the 19th and early 20th centuries, many financial crises were associated with banking panics, and many recessions coincided with these panics. Other situations that are often called financial crises include stock market crashes and the bursting of other financial bubbles, currency crises, and sovereign defaults. Financial crises directly result in a loss of paper wealth but do not necessarily result in significant changes in the real economy.",
+    "slug": "Financial_crisis"
+  },
+  "debt-crisis-history": {
+    "title": "Debt crisis",
+    "extract": "\nA debt crisis is a situation in which a government loses the ability of paying back its governmental debt. When the expenditures of a government are more than its tax revenues for a prolonged period, the government may enter into a debt crisis. Various forms of governments finance their expenditures primarily by raising money through taxation. When tax revenues are insufficient, the government can make up the difference by issuing debt.",
+    "slug": "Debt_crisis"
+  }
+}

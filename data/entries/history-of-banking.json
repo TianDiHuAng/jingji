@@ -1,0 +1,62 @@
+{
+  "id": "history-of-banking",
+  "title": "银行史",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "银行制度的起源与演变，最早的原型银行可追溯至约公元前2000年的亚述、印度与苏美尔。",
+  "overview": "银行史始于最早的原型银行——即各地的商人，他们向农民与在城市间运送货物的商人提供谷物贷款；时间约为公元前2000年的亚述、印度与苏美尔。此后经历神庙银行、私人银行、汇票与分支网络、中央银行与近代商业银行体系。具体阶段待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "商人提供谷物贷款 → 出现原型银行",
+      "sources": [
+        "w-en-history-of-banking"
+      ]
+    },
+    {
+      "step": "汇票与分支网络 → 跨境银行与信用扩张",
+      "sources": [
+        "w-en-bill-of-exchange"
+      ]
+    },
+    {
+      "step": "中央银行与监管体系形成 → 现代银行制度",
+      "sources": [
+        "w-en-central-bank"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "演进视角",
+      "view": "银行由贸易融资需求逐步演化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-history-of-banking"
+      ]
+    },
+    {
+      "holder": "制度视角",
+      "view": "银行制度与产权、法律环境共同演进",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济史/危机总论概念，与具体案例互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商人提供谷物贷款 → 出</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇票与分支网络 → 跨境</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>中央银行与监管体系形成 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-history-of-banking",
+    "w-en-bill-of-exchange"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+}

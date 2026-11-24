@@ -1,0 +1,62 @@
+{
+  "id": "history-of-money",
+  "title": "货币史",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "商品与服务交换体系随时间的发展历程。",
+  "overview": "货币史是商品与服务交换体系随时间发展的历程。货币是间接、一般性地实现这些职能的手段，而不同于以物易物的直接交换。货币史涵盖商品货币、铸币、纸币、法币到数字货币的演变。具体阶段待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "以物易物的局限 → 出现一般等价物",
+      "sources": [
+        "w-en-history-of-money"
+      ]
+    },
+    {
+      "step": "商品货币 → 铸币 → 纸币与法币的演进",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    },
+    {
+      "step": "信用与银行体系发展 → 信用货币",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "商品起源视角",
+      "view": "货币源于交换媒介的商品属性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-commodity-money"
+      ]
+    },
+    {
+      "holder": "信用起源视角",
+      "view": "货币源于债权债务记账关系",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-money"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济史/危机总论概念，与具体案例互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以物易物的局限 → 出现</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>商品货币 → 铸币 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信用与银行体系发展 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-history-of-money",
+    "w-en-commodity-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+}

@@ -502,3 +502,10 @@
 | arbitrage | 套利 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
 | market-maker | 做市商 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
 | bid-ask | 买卖价差 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| financial-crisis | 金融危机（总论） | 理论制度 | 全球 | 其他 | 重要 | 续作AW |
+| stock-market-crash | 股市崩盘 | 理论制度 | 全球 | 泡沫 | 重要 | 续作AW |
+| commercial-revolution | 商业革命 | 理论制度 | 全球 | 其他 | 重要 | 续作AW |
+| price-revolution | 价格革命 | 理论制度 | 全球 | 其他 | 重要 | 续作AW |
+| history-of-money | 货币史 | 理论制度 | 全球 | 货币 | 重要 | 续作AW |
+| history-of-banking | 银行史 | 理论制度 | 全球 | 制度 | 重要 | 续作AW |
+| economic-history | 经济史 | 理论制度 | 全球 | 理论 | 重要 | 续作AW |

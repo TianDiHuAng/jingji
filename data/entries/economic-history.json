@@ -1,0 +1,62 @@
+{
+  "id": "economic-history",
+  "title": "经济史",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "运用经济学方法工具、或特别关注经济现象的历史研究。",
+  "overview": "经济史是运用经济学的方​​法工具、或特别关注经济现象的历史研究。其研究结合历史方法、统计方法与（经济学）应用。经济史为检验经济理论、理解制度变迁与长期增长提供经验基础。具体方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "历史资料与经济理论结合 → 解释长期经济变迁",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    },
+    {
+      "step": "统计与计量方法 → 量化历史证据",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    },
+    {
+      "step": "为政策与理论提供长期视角",
+      "sources": [
+        "w-en-institutional-economics"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "历史学派视角",
+      "view": "强调历史特殊性与制度演化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-economic-history"
+      ]
+    },
+    {
+      "holder": "计量史学视角",
+      "view": "以统计与模型检验历史假说",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-divergence"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济史/危机总论概念，与具体案例互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经济史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>历史资料与经济理论结合 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>统计与计量方法 → 量化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为政策与理论提供长期视角</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-economic-history",
+    "w-en-institutional-economics"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "financial-crisis",
+  "title": "金融危机（总论）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "各类金融资产突然大幅丧失名义价值的情形；若波及整体经济则成为经济危机。",
+  "overview": "金融危机是各类情形中的一种：某些金融资产突然丧失大部分名义价值。若经济活动的更广泛下降影响到整个经济，则称为经济危机。金融危机可按类型分为银行危机、货币危机、债务危机与资产泡沫破裂等，是多条具体案例的共同上位概念。具体分类待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "资产价格或机构偿付能力恶化 → 名义价值大幅丧失",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    },
+    {
+      "step": "恐慌性抛售与信心崩塌 → 冲击扩散",
+      "sources": [
+        "w-en-bank-run"
+      ]
+    },
+    {
+      "step": "波及实体经济活动 → 演变为经济危机",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "类型学视角",
+      "view": "按银行/货币/债务/泡沫等类型划分危机",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    },
+    {
+      "holder": "传染视角",
+      "view": "危机通过贸易金融渠道跨境扩散",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "经济史/危机总论概念，与具体案例互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融危机（总论）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产价格或机构偿付能力恶</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>恐慌性抛售与信心崩塌 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>波及实体经济活动 → 演</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-financial-crisis",
+    "w-en-financial-contagion"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+}
