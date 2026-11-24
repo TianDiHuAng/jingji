@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 740,
+  "count": 741,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8843,6 +8843,18 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Self-insurance",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-secured-lending",
+      "title": "Secured loan",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Secured_loan",
       "url2": null,
       "verified": true,
       "link_ok": true,

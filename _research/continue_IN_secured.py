@@ -1,0 +1,88 @@
+# -*- coding: utf-8 -*-
+"""续作IN：新建 secured-lending（担保贷款）。"""
+import glob
+import json
+
+EID = 'secured-lending'
+es = [json.load(open(f, encoding='utf-8')) for f in glob.glob('data/entries/*.json')]
+ids = {e['id'] for e in es}
+titles = {e['title'] for e in es}
+if EID in ids or '担保贷款' in titles:
+    print('已存在，跳过')
+    raise SystemExit
+
+SID = 'w-en-secured-lending'
+sp = 'data/sources.json'
+sj = json.load(open(sp, encoding='utf-8'))
+if SID not in {s['id'] for s in sj['sources']}:
+    sj['sources'].append({'id': SID, 'title': 'Secured loan', 'author': 'Wikipedia contributors',
+                          'year': '2026', 'type': '权威百科',
+                          'url': 'https://en.wikipedia.org/wiki/Secured_loan', 'url2': None,
+                          'verified': True, 'link_ok': True,
+                          'note': 'Wikipedia API 核对（本会话抓取全文）'})
+    sj['count'] = len(sj['sources'])
+    json.dump(sj, open(sp, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    print('注册来源:', SID)
+
+D = {
+ 'id': EID, 'title': '担保贷款', 'level': 'L2', 'tier': '重要',
+ 'unit': 'U6 理论与制度', 'period': '理论制度', 'region': '全球', 'crisis_type': '制度',
+ 'one_line': '借款人以特定资产作抵押的贷款；违约时债权人可取得该资产。',
+ 'overview': (
+   '担保贷款指借款人**以某项资产（如车辆、房产）作为抵押**的贷款，由此形成的债务即为担保债务：'
+   '若借款人违约，债权人可**取得该资产的所有权**以抵偿。'
+   '担保安排有**双向的目的**：'
+   '对**债权人**而言，抵押大幅降低了其承担的财务风险——不必完全依赖借款人的偿付能力与信誉；'
+   '对**借款人**而言，正因为债权人风险下降，其可以以**更优惠的条件**（更低利率、更大额度）获得贷款。'
+   '**主要类型**：**抵押贷款**（以房产等不动产作抵押）；'
+   '**无追索权贷款(nonrecourse loan)**——抵押物是债权人**唯一**的求偿对象，'
+   '在止赎后若仍有差额，债权人**不得**再向借款人追索；'
+   '与之相对的**有追索权**安排则允许债权人对差额继续追讨。'
+   '担保债权的**产生方式**有三种：合同协议、法定留置权、判决留置权。'
+   '合同方式又可分为**购入款担保权益(PMSI)**（对用贷款购入的物品设押）'
+   '与**非购入款担保权益(NPMSI)**（对借款人已有财产设押）。'
+   '担保结构在危机中会放大顺周期：抵押物价格下跌→抵押不足→追加担保或被止赎→'
+   '更多资产被抛售→价格进一步下跌。'),
+ 'timeline': [
+   {'year': 2007, 'event': '8月雷曼兄弟关闭其次贷机构 BNC Mortgage；9月 Southern Pacific Personal Loans '
+                           '与 London Mortgage Company 相继关闭，Kensington Mortgages 随后退出担保贷款市场'
+                           '（据 Wikipedia Secured loan — 英国市场时间线）'},
+ ],
+ 'schools': [
+   {'holder': '降低信息不对称视角',
+    'view': '抵押品是对借款人信誉的替代性保障：当债权人难以评估借款人风险时，'
+            '要求抵押可降低逆向选择与道德风险',
+    'sources': [SID]},
+   {'holder': '顺周期视角',
+    'view': '担保结构把信贷可得性与**抵押物价格**绑定，'
+            '在资产价格上涨时放大信贷扩张、下跌时通过止赎与追加担保放大收缩',
+    'sources': [SID]},
+ ],
+ 'key_data': [],
+ 'comparison': (
+   '与**无担保贷款**的区别：后者仅凭借款人信誉，违约时无特定资产可主张，'
+   '因此利率更高、额度更小。'
+   '与**担保债券(covered bond)** 的区别：后者是银行以资产池为担保发行的债券，'
+   '债权人仍对发行银行有追索权（双重追索）；担保贷款是借贷双方之间的安排。'
+   '与**资产证券化**的区别：证券化把大量担保贷款打包出售，'
+   '使"谁承担最终信用风险"从原始银行转移到投资者。'),
+ 'related': [r for r in ('subprime-lending', 'collateralized-debt-obligation', 'margin-call',
+                         'asset-liability-mismatch', 'procyclicality', 'taiwan-bubble')
+             if r in ids],
+ 'sources': [SID],
+ 'needs_verification': True,
+ 'pending_notes': '【续作IN】据维基专属页全文新建；无追索权与 PMSI/NPMSI 的法律细节因法域而异，待核实。',
+}
+
+json.dump(D, open('data/entries/%s.json' % EID, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('新建:', EID)
+
+cov = json.load(open('coverage.json', encoding='utf-8'))
+if EID not in {e['id'] for e in cov['entries']}:
+    cov['entries'].append({'id': EID, 'level': 'L2', 'tier': '重要', 'status': 'written',
+                           'source_count': 1, 'needs_verification': 1, 'last_updated': '2026-11-24',
+                           'unit': 'U6 理论与制度', 'period': '理论制度', 'region': '全球',
+                           'crisis_type': '制度'})
+    cov['total'] = len(cov['entries'])
+    json.dump(cov, open('coverage.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('coverage total:', cov['total'])

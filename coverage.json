@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "total": 639,
+  "total": 641,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -8308,6 +8308,32 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "制度"
+    },
+    {
+      "id": "secured-lending",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "taper-tantrum",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U5 21世纪",
+      "period": "21世纪",
+      "region": "全球",
+      "crisis_type": "货币"
     }
   ]
 }
