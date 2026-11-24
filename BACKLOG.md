@@ -53,3 +53,18 @@
 `bank-holiday`、`bullion`、`var`（风险价值）、`common-pool`、`pigouvian-tax`、`lloyds`
 
 **注**：`credit-anstalt` 实际 id 为 `creditanstalt`；`clearing` 无独立条目，相关机制见 `netting`。
+
+## 续作EF 新发现的 19 个基础概念（round 37）
+
+建立关联时发现以下概念被引用但不存在，**多为经济学最基础的概念**：
+
+`growth`（增长）、`expectations`（预期）、`utility`（效用）、`recession`（衰退）、
+`market-failure`（市场失灵）、`rent-seeking`（寻租）、`externalities`（外部性）、
+`disclosure`（信息披露）、`dividend`（股息）、`equity-premium`（股权溢价）、
+`term-premium`（期限溢价）、`convergence`（收敛）、`counterparty-risk`（对手方风险）、
+`effective-demand`（有效需求）、`proprietary-trading`（自营交易）、
+`regulatory-arbitrage`（监管套利）、`subordination`（次级化）、
+`taper-tantrum`（缩减恐慌）、`special-drawing-rights`（特别提款权，实际有 `sdr`）
+
+**观察**：本站概念覆盖偏向"金融专门术语"，而基础经济学地基不完整。补建时应优先处理
+`growth`／`expectations`／`utility`／`recession`／`market-failure`／`rent-seeking` 六项。

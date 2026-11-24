@@ -557,6 +557,14 @@
 - 当前覆盖：`comparison` **592/592**、`related` 416、`key_data` 357、案例政策 **85/205（41%）**。
 - 现状：**总592条，来源695，站点606页**。QA全清。
 
+- **维基百科第 19 轮不可达**。
+- 续作EF：**为 90 条条目按六个主题建立关联**（国际金融与汇率、货币政策、金融工具与结构、风险与监管、危机史与制度、基础概念），`related` 覆盖 **416 → 504 条（85%）**。
+- **又发现 19 个基础概念缺失**：`convergence`／`counterparty-risk`／`disclosure`／`dividend`／`effective-demand`／`equity-premium`／`expectations`／`externalities`／`growth`／`market-failure`／`proprietary-trading`／`recession`／`regulatory-arbitrage`／`rent-seeking`／`subordination`／`taper-tantrum`／`term-premium`／`utility`／`special-drawing-rights`。
+  - 其中 `growth`（增长）、`expectations`（预期）、`utility`（效用）、`recession`（衰退）、`market-failure`（市场失灵）、`rent-seeking`（寻租）**都是经济学最基础的概念**。
+  - 这再次印证此前判断：本站概念覆盖偏向"金融专门术语"（巴塞尔III、CDO、LDI…），而**基础经济学的地基并不完整**。已记入 `BACKLOG.md`。
+- 当前覆盖：`comparison` **592/592（100%）**、`related` **504/592（85%）**、`key_data` 357、案例政策 85/205（41%）。
+- 现状：**总592条，来源695，站点606页**。QA全清。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

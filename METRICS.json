@@ -1162,6 +1162,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "**comparison 100% 全覆盖（592/592）**",
       "note": "维基第18轮不可达。ED/EE两批共补72条概念辨析，**comparison达成100%全覆盖（592/592）**——全站每个条目（案例与概念）现在都有与其他条目的对照分析。ED重点：汇票与贴现业务的起源、银行学派vs通货学派（1844年法案在三次危机中被暂停，实践支持灵活性）、信用货币vs商品货币（弹性vs纪律）、金融加速器vs金融脆弱性（放大机制vs累积机制）、财政主导vs财政空间（货币是否被迫配合财政）、马歇尔-勒纳弹性条件、刘易斯拐点与中等收入陷阱的联动、ALM（主动管理）vs资产负债错配（风险状态）——2023年SVB并非不懂ALM，而是未对利率风险对冲。EE补最后10条：总供给vs总需求（供给冲击制造滞胀）、bailout vs bail-in（纳税人vs债权人）、国际收支（流量）vs国际投资头寸（存量）、黑市vs非正规经济（非法vs未监管）。现状：592/592 comparison、416 related、357 key_data、案例政策覆盖85/205。"
+    },
+    {
+      "round": "续作EF",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 90,
+      "reviewed": 90,
+      "fixed": 0,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "related 416→504条(85%)",
+      "note": "维基第19轮不可达。EF为90条条目按六个主题建立关联（国际金融与汇率、货币政策、金融工具与结构、风险与监管、危机史与制度、基础概念），related覆盖 416→504条（85%）。过程中又发现19个基础概念缺失：convergence/counterparty-risk/disclosure/dividend/effective-demand/equity-premium/expectations/externalities/growth/market-failure/proprietary-trading/recession/regulatory-arbitrage/rent-seeking/subordination/taper-tantrum/term-premium/utility/special-drawing-rights，**多为经济学最基础的概念**（增长、预期、效用、衰退、市场失灵、寻租），再次印证此前判断：本站概念覆盖偏向\"金融专门术语\"，而基础经济学地基不完整。已记入BACKLOG。当前：comparison 592/592、related 504/592、key_data 357。"
     }
   ]
 }
