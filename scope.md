@@ -563,3 +563,8 @@
 | idb | 美洲开发银行(IDB) | 理论制度 | 全球 | 制度 | 补充 | 续作BL |
 | afdb | 非洲开发银行(AfDB) | 理论制度 | 全球 | 制度 | 补充 | 续作BL |
 | redenomination | 货币重定面值(redenomination) | 见条目 | 全球 | 货币 | 见条目 | 续作CI-CK |
+| neutral-rate | 中性利率(r*) | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
+| bail-in | 债权人减记(bail-in) | 理论制度 | 全球 | 制度 | 重要 | 续作CN |
+| j-curve | J曲线效应 | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
+| marshall-lerner | 马歇尔-勒纳条件 | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
+| black-market | 黑市与影子经济 | 理论制度 | 全球 | 其他 | 重要 | 续作CN |

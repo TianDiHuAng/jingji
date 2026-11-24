@@ -1,0 +1,62 @@
+{
+  "id": "black-market",
+  "title": "黑市与影子经济",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "在特定法域内具有非法成分、或不符合监管要求的 clandestine 市场与交易。",
+  "overview": "黑市是一种**隐秘的市场或一系列交易**，其在特定法域内带有某种非法性成分；也可能不符合（监管）要求。在宏观经济与国际金融语境中，黑市最常表现为：**外汇黑市**（管制下形成的平行汇率）、商品黑市（价格管制下的短缺品）与影子经济活动（未纳入统计的产出与就业）。其经济意义在于：多重汇率与价格管制的普遍存在，会催生平行市场，使官方统计失真、政策传导受阻，并成为寻租与腐败的温床。委内瑞拉、黎巴嫩、叙利亚等国的外汇黑市与官方汇率长期并存，即为典型（见 venezuela-crisis-2013、lebanese-liquidity-2019、syrian-pound-crisis）。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "价格/汇率管制或高税负 → 交易转入地下",
+      "sources": [
+        "w-en-black-market"
+      ]
+    },
+    {
+      "step": "形成平行汇率与平行价格 → 官方统计与政策传导失真",
+      "sources": [
+        "w-en-black-market"
+      ]
+    },
+    {
+      "step": "寻租与执法成本上升 → 管制本身趋于不可持续",
+      "sources": [
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "管制后果视角",
+      "view": "黑市是管制的结果，规模可反映管制的严厉与失效程度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-black-market"
+      ]
+    },
+    {
+      "holder": "治理视角",
+      "view": "需以制度与执法能力而非单纯加码管制来压缩黑市",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/国际金融概念，与相关理论与案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>黑市与影子经济：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格/汇率管制或高税负 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>形成平行汇率与平行价格 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>寻租与执法成本上升 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-black-market",
+    "w-en-currency-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+}

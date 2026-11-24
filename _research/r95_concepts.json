@@ -1,0 +1,62 @@
+{
+  "neutral-rate": {
+    "title": "Neutral rate of interest",
+    "extract": "The neutral or natural rate of interest, also called r-star (r*), is the real interest rate that supports the economy at full employment/maximum output while keeping inflation constant. It cannot be observed directly. Rather, policy makers and economic researchers aim to estimate the neutral rate of interest as a guide to monetary policy, usually using various economic models to help them do so.",
+    "slug": "Natural_rate_of_interest"
+  },
+  "bank-resolution": {
+    "title": "Bank regulation and supervision",
+    "extract": "Bank regulation and supervision refers to a form of financial regulation which subjects banks to certain requirements, restrictions and guidelines, enforced by a financial supervisory authority or supervisor, with semantic variations across jurisdictions. By and large, bank regulation and supervision aims at ensuring the stability of the banking sector and at fostering transparency between banks and the individuals and other counterparts with whom they conduct business.",
+    "slug": "Bank_resolution"
+  },
+  "bail-in": {
+    "title": "Bailout",
+    "extract": "A bailout is the provision of financial help to a corporation or country which otherwise would undergo bankruptcy. A bailout differs from the term bail-in under which the bondholders or depositors of global systemically important financial institutions (G-SIFIs) are forced to participate in the recapitalization process but taxpayers are not. Some governments also have the power to participate in the insolvency process; for instance, the U.S. government intervened in the General Motors bailout of 2009–2013. A bailout can, but does not necessarily, avoid an insolvency process. The term bailout is maritime in origin and describes the act of removing water from a sinking vessel using a bucket.",
+    "slug": "Bail-in"
+  },
+  "leverage-ratio": {
+    "title": "Leverage (finance)",
+    "extract": "In finance, leverage, also known as gearing, is any technique involving borrowing funds to buy an investment.",
+    "slug": "Leverage_ratio"
+  },
+  "liquidity-coverage-ratio": {
+    "title": "Basel III",
+    "extract": "Basel III is a framework published by the Basel Committee on Banking Supervision (BCBS) in response to the deficiencies in financial regulation revealed by the 2008 financial crisis. It sets international standards and recommendations for bank capital requirements, stress tests, liquidity regulations, and leverage, with the goal of mitigating the risk of bank runs and bank failures. Basel III builds upon the standards of Basel II, introduced in 2004, and Basel I, introduced in 1988.",
+    "slug": "Liquidity_coverage_ratio"
+  },
+  "capital-controls": {
+    "title": "Capital control",
+    "extract": "\n\nCapital controls are residency-based measures such as transaction taxes, other limits, or outright prohibitions that a nation's government can use to regulate flows from capital markets into and out of the country's capital account. These measures may be economy-wide, sector-specific, or industry specific. They may apply to all flows, or may differentiate by type or duration of the flow.",
+    "slug": "Capital_control"
+  },
+  "special-drawing-rights": {
+    "title": "Special drawing rights",
+    "extract": "Special drawing rights are a supplementary foreign exchange reserve asset defined and maintained by the International Monetary Fund (IMF). SDRs are the units of account for the IMF, and not a currency; rather, SDR value is based on a basket of currencies, the specific composition of which is reviewed every five years. SDRs represent a claim to currency held by IMF member countries for which they may be exchanged. When SDRs were created in 1969, they were each worth 0.888671 grams of gold, roughly the equivalent of one US dollar at the time. In 1974, the IMF redefined the SDR as equivalent to the value of a specific selection of world currencies.",
+    "slug": "Special_drawing_rights"
+  },
+  "currency-substitution": {
+    "title": "Currency substitution",
+    "extract": "Currency substitution, also known as dollarization, is the use of a foreign currency in parallel to or instead of a domestic currency.",
+    "slug": "Currency_substitution"
+  },
+  "shadow-economy": {
+    "title": "Black market",
+    "extract": "A black market is a clandestine market or series of transactions that has some aspect of illegality within a legal jurisdiction; it may also not be compliant with an institutional set of rules. If the rule defines the set of goods and services whose production and distribution are prohibited or restricted by law, non-compliance with the rule constitutes a black-market trade since the transaction itself is illegal. Such transactions include the illegal drug trade, prostitution, illegal currency transactions, and human trafficking.",
+    "slug": "Shadow_economy"
+  },
+  "j-curve": {
+    "title": "J curve",
+    "extract": "A J curve is any of a variety of J-shaped diagrams where a curve initially falls, then steeply rises above the starting point.",
+    "slug": "J_curve"
+  },
+  "marshall-lerner": {
+    "title": "Marshall–Lerner condition",
+    "extract": "The Marshall–Lerner condition is satisfied if the absolute sum of a country's export and import demand elasticities is greater than one. If it is satisfied, then if a country begins with a zero trade deficit then when the country's currency depreciates, its balance of trade will improve. \nThe country's imports become more expensive and exports become cheaper due to the change in relative prices, and the Marshall-Lerner condition implies that the indirect effect on the quantity of trade will exceed the direct effect of the country having to pay a higher price for its imports and receive a lower price for its exports.",
+    "slug": "Marshall%E2%80%93Lerner_condition"
+  },
+  "interest-parity": {
+    "title": "Interest rate parity",
+    "extract": "Interest rate parity is a no-arbitrage condition representing an equilibrium state under which investors compare interest rates available on bank deposits in two countries. The fact that this condition does not always hold allows for potential opportunities to earn riskless profits from covered interest arbitrage. Two assumptions central to interest rate parity are capital mobility and perfect substitutability of domestic and foreign assets. Given foreign exchange market equilibrium, the interest rate parity condition implies that the expected return on domestic assets will equal the exchange rate-adjusted expected return on foreign currency assets. Investors then cannot earn arbitrage profits by borrowing in a country with a lower interest rate, exchanging for foreign currency, and investing in a foreign country with a higher interest rate, due to gains or losses from exchanging back to their domestic currency at maturity. Interest rate parity takes on two distinctive forms: uncovered interest rate parity refers to the parity condition in which exposure to foreign exchange risk is uninhibited, whereas covered interest rate parity refers to the condition in which a forward contract has been used to cover exchange rate risk. Each form of the parity condition demonstrates a unique relationship with implications for the forecasting of future exchange rates: the forward exchange rate and the future spot exchange rate.",
+    "slug": "Interest_rate_parity"
+  }
+}

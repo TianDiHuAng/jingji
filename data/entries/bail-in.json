@@ -1,0 +1,71 @@
+{
+  "id": "bail-in",
+  "title": "债权人减记(bail-in)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "让银行股东与债权人（含部分存款人）承担损失、而非由纳税人出资救助的处置方式。",
+  "overview": "债权人减记(bail-in) 是与\"救助\"(bailout) 相对的一种银行处置方式：在机构无法持续经营时，**由股东与债权人（在塞浦路斯案例中包括超过保险限额的存款人）承担损失或转换为股权**，而不用纳税人的钱注资。与之相对，bailout 是向本会破产的公司或国家提供财务援助（通常由公共资金承担）。2008年危机后，bail-in 被写入多数辖区的处置框架（如欧盟的 BRRD、以及全球的 TLAC/总损失吸收能力要求），目的在于**打破\"太大而不能倒\"与纳税人兜底**。塞浦路斯2013年是 bail-in 最著名的实践（超10万欧元存款被征47.5%，见 cypriot-2013）。争议在于：bail-in 可能引发对其他银行债权人的传染性恐慌。具体机制待核实。",
+  "timeline": [
+    {
+      "year": 2013,
+      "display": "2013年3月",
+      "event": "塞浦路斯以存款减记(bail-in)换取救助",
+      "sources": [
+        "w-en-cypriot-financial-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "机构无法持续经营且公共资金不宜再兜底 → 转向内部承担损失",
+      "sources": [
+        "w-en-bailout"
+      ]
+    },
+    {
+      "step": "股东与债权人（含超限额存款）减记或转股 → 由市场承担损失",
+      "sources": [
+        "w-en-cypriot-financial-crisis"
+      ]
+    },
+    {
+      "step": "副作用：可能引发对其他银行债权人的传染性恐慌",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "市场约束视角",
+      "view": "bail-in 恢复\"风险自担\"、抑制道德风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bailout"
+      ]
+    },
+    {
+      "holder": "传染视角",
+      "view": "bail-in 的可信度不足时反而加速挤兑与资本外逃",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-contagion"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/国际金融概念，与相关理论与案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债权人减记(bail-in)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构无法持续经营且公共资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股东与债权人（含超限额存</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>副作用：可能引发对其他银</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-bailout",
+    "w-en-cypriot-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+}

@@ -7,56 +7,56 @@
   "period": "理论制度",
   "region": "全球",
   "crisis_type": "货币",
-  "one_line": "一国政府基于居民身份对资本账户流入流出实施的限制措施。",
-  "overview": "资本管制是基于居民身份的措施，如交易税、其他限制或直接禁止，用于规范资本市场资金进出本国资本账户。这类措施可适用于整个经济、特定部门或行业，可针对全部资金流动，或按流动类型与期限区别对待。具体效果与争议待核实。",
+  "one_line": "基于居留身份的、用于调节跨境资本流动的税收、限额或禁令等措施。",
+  "overview": "资本管制是**基于居留身份**（residency-based）的措施，例如交易税、其他限制或直接的禁令，一国政府可用以调节资本跨境流动。常见形式包括：对短期流入征税（如托宾税式）、对流出设限、强制结汇或留存要求、以及区分居民与非居民的账户管理。在\"不可能三角\"框架下，资本管制被视为在保留货币政策独立性的同时维持汇率稳定的一种手段。IMF 的官方立场在2008年后由\"一概反对\"转向\"在特定情形下可有序使用\"（机构观点）。其效果与副作用（扭曲、规避、治理成本）长期存在争论。具体实践待核实。",
   "timeline": [],
   "causal_chain": [
     {
-      "step": "对跨境资本流动征税或设限 → 减少短期资本冲击",
+      "step": "跨境资本流动剧烈波动 → 汇率与金融稳定承压",
       "sources": [
         "w-en-capital-control"
       ]
     },
     {
-      "step": "保留货币政策独立性（在固定汇率下）",
+      "step": "以居留身份为基础的税收/限额/禁令 → 抑制特定资本流动",
+      "sources": [
+        "w-en-capital-control"
+      ]
+    },
+    {
+      "step": "代价是扭曲与规避 → 需与宏观审慎、汇率弹性配合",
       "sources": [
         "w-en-impossible-trinity"
-      ]
-    },
-    {
-      "step": "可能降低资本配置效率、推高融资成本",
-      "sources": [
-        "w-en-capital-control"
       ]
     }
   ],
   "key_data": [],
   "schools": [
     {
-      "holder": "审慎/稳定视角",
-      "view": "管制可遏制热钱冲击、维护金融稳定",
+      "holder": "三难困境视角",
+      "view": "资本管制可换取汇率稳定与货币政策独立性",
       "basis": "据来源/标准口径归纳；具体表述待核实",
       "sources": [
-        "w-en-capital-control"
+        "w-en-impossible-trinity"
       ]
     },
     {
-      "holder": "自由化视角",
-      "view": "管制扭曲配置、提高融资成本",
+      "holder": "效率视角",
+      "view": "管制扭曲配置、催生规避渠道，长期成本高",
       "basis": "据来源/标准口径归纳；具体表述待核实",
       "sources": [
-        "w-en-exchange-rate-regime"
+        "w-en-capital-flight"
       ]
     }
   ],
   "policy_response": [],
-  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资本管制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>对跨境资本流动征税或设限</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>保留货币政策独立性（在固</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>可能降低资本配置效率、推</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "comparison": "宏观/国际金融概念，与相关理论与案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资本管制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>跨境资本流动剧烈波动 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以居留身份为基础的税收/</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>代价是扭曲与规避 → 需</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-capital-control",
-    "w-en-monetary-policy"
+    "w-en-impossible-trinity"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作CN】已用更完整的版本更新正文。"
 }

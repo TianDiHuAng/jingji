@@ -1,0 +1,62 @@
+{
+  "id": "neutral-rate",
+  "title": "中性利率(r*)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "在充分就业/最大产出下、且通胀稳定时使经济保持平衡的实际利率。",
+  "overview": "中性利率（natural rate of interest，又称 r-star 或 r*）是在**充分就业/最大产出**下、同时保持（通胀稳定）的实际利率。它是货币政策判断\"松紧\"的基准：实际政策利率低于 r* 属宽松，高于 r* 属紧缩。r* 不可直接观测，只能通过模型估算，估算值随时间与模型差异很大——这使\"政策是否足够宽松\"的判断带有相当大的不确定性。近年发达经济体对 r* 的估计普遍下移，被用于解释长期低利率与\"长期停滞\"假说。具体估算方法与数值待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "储蓄与投资的结构性因素决定均衡实际利率 → 形成 r*",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    },
+    {
+      "step": "实际政策利率相对 r* 的位置 → 决定政策松紧",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    },
+    {
+      "step": "r* 不可观测且估算不稳 → 政策判断存在不确定性",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "实际因素视角",
+      "view": "r* 由储蓄-投资与生产率等实际因素决定",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    },
+    {
+      "holder": "货币/金融视角",
+      "view": "金融周期与危机可长期改变 r*",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiscal-dominance"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/国际金融概念，与相关理论与案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中性利率(r*)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>储蓄与投资的结构性因素决</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际政策利率相对 r* </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>r* 不可观测且估算不稳</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-neutral-rate",
+    "w-en-monetary-policy"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+}

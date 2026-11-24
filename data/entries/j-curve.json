@@ -1,0 +1,62 @@
+{
+  "id": "j-curve",
+  "title": "J曲线效应",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "本币贬值后贸易收支先恶化、后改善的J形调整路径。",
+  "overview": "J曲线（J curve）泛指曲线先下降、再陡升超过起点的J形图；在国际经济学中，它特指**本币贬值后贸易收支的调整路径**：贬值初期，由于进出口数量在短期难以调整（合同、产能与习惯），以本币计的进口成本上升而出口收入增加有限，贸易收支反而**先恶化**；随着数量逐步调整，收支才**转为改善**，整体呈J形。其成立条件与马歇尔-勒纳条件相关（见该条目）：若弹性不足，贬值可能长期无效。该概念常用于评估汇率调整政策的时间维度与耐心要求。具体实证待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "本币贬值 → 进口本币成本立即上升，出口数量短期难增",
+      "sources": [
+        "w-en-j-curve"
+      ]
+    },
+    {
+      "step": "贸易收支先恶化（J的下行段）",
+      "sources": [
+        "w-en-j-curve"
+      ]
+    },
+    {
+      "step": "数量逐步调整后改善（J的上行段），前提是弹性条件满足",
+      "sources": [
+        "w-en-marshall-lerner"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "弹性视角",
+      "view": "只要满足马歇尔-勒纳条件，贬值最终改善贸易收支",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-marshall-lerner"
+      ]
+    },
+    {
+      "holder": "短期视角",
+      "view": "短期弹性低，贬值可能先带来输入型通胀与收支恶化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-j-curve"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/国际金融概念，与相关理论与案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>J曲线效应：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本币贬值 → 进口本币成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贸易收支先恶化（J的下行</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>数量逐步调整后改善（J的</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-j-curve",
+    "w-en-marshall-lerner"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+}
