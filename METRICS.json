@@ -1210,6 +1210,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "标题层次跳级 0 处；缺 th 的表格 0 个",
       "note": "维基第22轮不可达。EJ/EK修复两类HTML语义与可访问性缺陷：①**标题层次跳级**：条目页分节标题原用 h3，而页面只有 h1——h1 直接跳到 h3，屏幕阅读器无法正确解析结构。已改为 h2 并同步 CSS（视觉不变），全站606页现无标题跳级（0处）。②**覆盖矩阵页结构缺陷**：原 Markdown→HTML 转换对每个表格行生成**独立的 <table>**，且全部单元格用 <td>、无 <th> 表头——结果矩阵A/B/C 各自散成26个单行表格，屏幕阅读器与复制粘贴都会错乱。已重写：合并连续行为单一表格、首行用 <th>，并过滤 Markdown 分隔行（此前被误当作段落输出）。修复后：6个表格、60个 th、26行；全站缺 th 的表格 0 个。③可访问性其他项核查通过：lang 属性 100%、SVG 均有 role=\"img\"、viewport 100%。站点规模：CSS 3.6KB、平均页 6KB、全站 3MB/606页、零 JS。"
+    },
+    {
+      "round": "续作EL-EO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 606,
+      "fixed": 3,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error（含SVG XML解析）",
+      "spot_check": "重复id 0/606；重复style 0；SVG XML解析0错误",
+      "note": "维基第23轮不可达。EL-EO修复同页多SVG的重复id与重复属性问题，过程经历三次迭代：①发现：28页有重复 id=\"arrowhead\"——原 fix_svg 给每个含箭头的 SVG 注入同名 marker 定义，而条目页有2个SVG（机制图+L3深度图），导致 id 重复（HTML 要求 id 唯一）。②第一版改为\"单页只注入一次\"，但造成第二个 SVG 依赖跨SVG引用 marker（浏览器兼容风险）。③第二版改为每SVG唯一id + 内联 marker-end 引用，但替换逻辑对已有 style 属性的元素**新增**了一个 style（duplicate attribute），且自闭合标签 <x/> 的处理把 / 放错位置，导致 check_links 的 SVG XML 解析在 581 页失败。④最终版：已有 style 则把 marker-end 合并进去；自闭合标签在 /> 之前插入。结果：重复id 0/606、重复style 0、SVG XML 解析 0 错误、check.py 0 error。教训：生成逻辑的修改必须由检查脚本验证——若无 check_links 的 SVG XML 解析检查，这类\"页面能显示但结构非法\"的问题不会暴露。"
     }
   ]
 }
