@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "对银行施加特定要求、限制与指引的金融监管形式，由监管机构执行。",
-  "overview": "银行监管与监督是对银行施加特定要求、限制与指引的金融监管形式，由金融监管当局执行，具体表述因司法辖区而异。总体而言，银行监管旨在确保银行业的稳定，并促进银行与个人之间的透明度。具体规则与架构待核实。",
+  "overview": "银行监管(bank regulation) 指**规范银行行为与结构的规则体系**，与\"银行 supervision（监管执行）\"配合运作：**regulation** 是规则本身，**supervision** 是执行与检查。**监管的四个目标**：①**偿付能力**——资本要求（见 capital-adequacy）；②**流动性**——流动性覆盖率与准备金要求（见 liquidity-coverage-ratio、reserve-requirement）；③**风险集中与关联**——大额暴露限制、对关联交易的约束；④**行为与消费者保护**——信息披露、公平对待客户。**为什么银行业需要专门监管（而不是靠市场纪律）**：**存款人无法有效监督银行**（信息不对称、且存款本身有保险与隐性担保）；**银行倒闭具有负外部性**（传染与系统性风险）；**救助预期造成道德风险**（见 moral-hazard）。**监管的固有难题**：**顺周期性**——资本与抵押品要求在经济下行时自动收紧，放大周期（这是引入逆周期缓冲的理由）；**监管套利**——规则差异使业务流向监管更宽松的领域或法域；**监管俘获**——长期互动可能使监管者与被监管者利益趋同。",
   "timeline": [],
   "causal_chain": [
     {
@@ -63,9 +63,11 @@
     "capital-requirement",
     "deposit-insurance",
     "dodd-frank",
+    "liquidity-coverage-ratio",
     "macroprudential",
+    "moral-hazard",
     "prudential-regulation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。 【续作KY】overview 扩写 99 → 531 字。"
 }

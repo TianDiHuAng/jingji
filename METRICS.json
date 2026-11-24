@@ -2086,6 +2086,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 245（R22）+ 自测 18/18",
       "spot_check": "扩写 30 条（含 beta）；批量修复接线并对称化 34 条",
       "note": "维基第96轮可用。KW-KX：扩写 30 条（WARNINGS 275 → 245）。①第一批 17 条：token-money／double-entry／history-of-money／economic-history／iosco／kitchin-cycle／money-market／put-option／real-business-cycle／usury／bid-ask／current-account／de-dollarization／depression-economics／economic-recession／minsky-moment／monetary-policy。②第二批 13 条：monetary-transmission／option／prudential-regulation／welfare-economics／financial-inclusion／fiscal-dominance／free-trade／futures／gatt／legal-tender／leverage-cycle／loanable-funds／beta（连纯工具指标也一并补齐）。③**几处值得单列的判断**：**double-entry** 指出危机中的会计根源几乎从不是「算错」，而是「**该记的没记进去**」（表外、估值假设、合并范围）；**bid-ask** 强调价差扩大可在**价格几乎不变**时发生——它衡量的不是「资产值多少」而是「**现在还能不能交易**」；**minsky-moment** 明确澄清明斯基**未给出「何时」的公式**，该概念是描述机制的、不是择时信号；**beta** 点出危机中「**所有相关性都变成 1**」，使基于 β 的对冲同时失效；**loanable-funds** 指出可贷资金是「流量」框架而现代银行是「内生货币」，因此「储蓄池决定可贷资金」在有银行体系的经济中并不成立；**financial-inclusion** 把「包容与稳定的张力」讲清——问题不在「穷人获得信贷」，而在**掠夺性条款与审慎标准的放弃**；**kitchin／kondratiev 两类周期**均注明统计基础有争议、本库不据周期位置作预测。④**round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 34 条。⑤现状：641 条、来源 742、页面 655；overview 平均 246 字；ERRORS 0、WARNINGS 245（R22）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作KY-KZ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 29,
+      "reviewed": 245,
+      "fixed": 29,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 216（R22）+ 自测 18/18",
+      "spot_check": "扩写 29 条；批量修复接线并对称化 30 条",
+      "note": "维基第97轮可用。KY-KZ：扩写 29 条（WARNINGS 245 → 216）。①第一批 14 条：pmi／potential-output／poverty-trap／twin-deficits／bank-regulation／call-option／commodity-money／currency-board／financial-repression／game-theory／interest-rate／risk-management／sovereign-risk／sterilization。②第二批 15 条：automatic-stabilizer／bad-bank／budget-balance／crowding-out／forward-guidance／mercantilism／money-multiplier／self-fulfilling／credit-rationing／financial-disintermediation／forward-contract／market-manipulation／new-keynesian／open-market-operation／commercial-revolution。③**本轮几处关键判断**：**potential-output** 指出危机会降低潜在产出本身，因此**危机后的产出缺口可能被高估**（分母已下移）；**money-multiplier** 强调乘数「不是常数而是结果」，危机中乘数与流通速度同时下降，这解释了为何「基础货币大增而通胀未现」；**credit-rationing** 用斯蒂格利茨-韦斯逻辑说明「加息会先赶走低风险借款人、银行预期收益反而下降」，故银行宁可配给而不加息；**self-fulfilling** 指出若危机是自我实现的，则**改变预期**（存款保险、最后贷款人、暂停兑换）即可阻止危机——但也提醒「基本面确实恶化的危机靠喊话无法解决」；**sovereign-risk** 点出主权债务与私人债务的三个根本差别（无破产程序、「不愿」与「不能」难分、资产难扣押）；**currency-board** 指出它把货币危机转化为银行与债务危机，且无法充当最后贷款人；**bad-bank** 的经验结论是「分拆＋政府担保」的折中优于直接定价。④过程中出现两处字符串未闭合的语法错误，用 ast.parse 定位并修正——比逐个读报错更快。⑤**round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 30 条。⑥现状：641 条、来源 742、页面 655；overview 平均 264 字；ERRORS 0、WARNINGS 216（R22）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }
