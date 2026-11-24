@@ -58,12 +58,23 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**宣布破产并设立新国家银行**：**1813年1月5日**丹麦-挪威宣布破产，并设立新的国家银行 **Rigsbank** 以带领经济走出困境。Rigsbank 的两大目标是：**稳定经济**、建立**统一的全州货币体系**；它是第一个负责通过**重构货币**来稳定经济的政府机构。**1818 年**成立**私营**的 **Nationalbank**，向公民与企业提供信贷以助经济复苏，目标是恢复**白银**为丹麦经济的核心货币、并恢复对中央银行体系的信心。",
+      "basis": "据 Wikipedia「Danish state bankruptcy of 1813」Bankruptcy declared 与相关章节；政策主体：丹麦-挪威政府/Rigsbank/Nationalbank；动作：设新国家银行、重构货币、恢复银本位；效果评价待核实",
+      "sources": [
+        "w-en-debt-crisis",
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "comparison": "拿破仑战争时期的欧洲国家破产案例；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>丹麦国家破产(1813)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>丹麦国家破产开始，影响延</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "w-en-danish-state-bankruptcy-of-1813"
   ],
   "related": [
     "baring-crisis-1890",
@@ -71,5 +82,5 @@
     "dutch-collapse-1780"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FM】基于维基全文补写policy_response。"
 }

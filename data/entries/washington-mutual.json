@@ -92,7 +92,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**接管后的处置**：2008 年华盛顿互惠银行被置入**接管(receivership)**后，其分支机构被 FDIC 出售给摩根大通(Chase)；2009 年内，所有被购买的原 WaMu 分行被**重新冠名为 Chase 或关闭**，所有 WaMu 发出的财务文件改为带有 Chase 标识，WaMu 与 Providian 发行的信用卡与借记卡也改为 Chase 标识。",
+      "basis": "据 Wikipedia「Washington Mutual」Post receivership bank operations 章节；政策主体：FDIC/摩根大通；动作：接管并出售、品牌与业务整合；效果评价待核实",
+      "sources": [
+        "w-en-washington-mutual",
+        "w-en-bank-run"
+      ]
+    }
+  ],
   "comparison": "与IndyMac等2008年美国银行倒闭同属储贷机构在次贷危机中的失败。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>华盛顿互惠银行倒闭(2008)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>华盛顿互惠银行倒闭，此前</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -107,5 +117,5 @@
     "subprime-crisis-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AR】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AR】补关键数据（单源）。 【续作FM】基于维基全文补写policy_response。"
 }

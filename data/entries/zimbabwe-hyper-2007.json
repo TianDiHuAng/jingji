@@ -108,7 +108,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**货币重定值(Redenomination)**：1980 年独立时津巴布韦元成为通用货币；随着支付小额款项需要更大面额，津巴布韦储备银行计划印制并发行高达 Z$10、20、50、100 **万亿** 的面额。**最终方案——采用外币为官方货币**：津巴布韦实际采纳的解决办法是**将某些外币定为官方货币**。为便利商业，采用**哪一种**货币并不如\"政府统一到**单一货币**\"重要；候选为美元、欧元与南非兰特，其中**美元**最具可信度、在津巴布韦境内也最为广泛流通。",
+      "basis": "据 Wikipedia「Hyperinflation in Zimbabwe」Redenomination 与 Solutions 章节；政策主体：津巴布韦储备银行/政府；动作：货币重定值、采用外币为法定货币（美元化）；效果评价待核实",
+      "sources": [
+        "w-en-hyperinflation",
+        "w-en-hyperinflation-in-zimbabwe"
+      ]
+    }
+  ],
   "comparison": "与同为「恶性通胀」类的其他案例共享相似传导机制，差异在于时期（21世纪）、地区（非洲）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>津巴布韦恶性通胀(2007–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
@@ -125,7 +135,7 @@
     "zambian-kwacha-reform"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-hyperinflation-in-zimbabwe。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BF】2019年通胀已并列两组数值（175% vs 255.3%），差异待核实。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-hyperinflation-in-zimbabwe。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BF】2019年通胀已并列两组数值（175% vs 255.3%），差异待核实。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作FM】基于维基全文补写policy_response。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

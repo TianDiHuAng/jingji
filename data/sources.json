@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 727,
+  "count": 732,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8693,6 +8693,61 @@
       "url2": null,
       "verified": true,
       "note": "REST summary API 核对：页面返回摘要（581 字符）。"
+    },
+    {
+      "id": "w-en-fourth-anglo-dutch-war",
+      "title": "Fourth Anglo-Dutch War",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面存在并返回摘要（299 字符）。第四次英荷战争"
+    },
+    {
+      "id": "w-en-dutch-east-india-company",
+      "title": "Dutch East India Company",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面存在并返回摘要（883 字符）。荷兰东印度公司"
+    },
+    {
+      "id": "w-en-crisis-of-1772",
+      "title": "British credit crisis of 1772–1773",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/British_credit_crisis_of_1772%E2%80%931773",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面存在并返回摘要（592 字符）。1772—1773年英国信用危机（专属条目）"
+    },
+    {
+      "id": "w-en-economy-of-yemen",
+      "title": "Economy of Yemen",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Yemen",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面存在并返回摘要（1302 字符）。也门经济"
+    },
+    {
+      "id": "w-en-yemeni-civil-war-2014-present",
+      "title": "Yemeni civil war (2014–present)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present)",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面存在并返回摘要（435 字符）。也门内战（2014—）"
     }
   ]
 }

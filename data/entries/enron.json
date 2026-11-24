@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**财务重述与监管调查**：**2001年10月16日**安然宣布须重述 1997—2000 年财务报表以纠正会计违规。重述使该期间**利润减少 6.13 亿美元**（约占所报利润的 **23%**）、使 2000 年末**负债增加 6.28 亿美元**（约占所报负债的 6%、权益的 5.5%），并降低了权益。此后美国证交会(SEC) 展开调查；该案最终促成**萨班斯-奥克斯利法**(2002) 的通过。",
+      "basis": "据 Wikipedia「Enron scandal」Restructuring losses and SEC investigation 与相关章节；政策主体：SEC/美国国会；动作：财务重述、监管调查、立法改革；效果评价待核实",
+      "sources": [
+        "w-en-enron",
+        "w-en-principal-agent"
+      ]
+    }
+  ],
   "comparison": "与世通丑闻(2002)同期，共同推动美国公司治理与审计监管改革。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>安然公司丑闻(2001)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>安然内部大规模欺诈消息公</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -104,5 +114,5 @@
     "worldcom"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。 【续作FM】基于维基全文补写policy_response。"
 }
