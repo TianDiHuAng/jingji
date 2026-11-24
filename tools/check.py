@@ -347,6 +347,12 @@ def main():
             _y = _t.get('year')
             if isinstance(_y, int) and _y > _cy:
                 warn('R26', _e.get('id', '?'), 'timeline 含未来年份 %d（>当前年 %d，涉预测）' % (_y, _cy))
+    # R27 核心/重要案例应有 causal_chain（因果链，L2 十节之一）
+    for _e in entries:
+        if ((not (_e.get('unit') or '').startswith('U6'))
+                and _e.get('tier') in ('核心', '重要')
+                and not _e.get('causal_chain')):
+            warn('R27', _e.get('id', '?'), '核心/重要案例缺 causal_chain（因果链）')
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

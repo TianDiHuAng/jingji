@@ -84,5 +84,19 @@
     "w-en-quantitative-easing"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作IO】无专属维基页；内容据「Quantitative easing」页面中 tapering 章节归纳，**来源性质为通用页的相关章节**。市场反应的具体幅度（如 10 年期收益率升幅、新兴市场货币贬值幅度）待补权威数据后录入。"
+  "pending_notes": "【续作IO】无专属维基页；内容据「Quantitative easing」页面中 tapering 章节归纳，**来源性质为通用页的相关章节**。市场反应的具体幅度（如 10 年期收益率升幅、新兴市场货币贬值幅度）待补权威数据后录入。 【续作OW｜round158】据正文机制与已引来源补 causal_chain。",
+  "causal_chain": [
+    {
+      "step": "2013 年 FOMC 仅暗示将缩减(taper)资产购买、尚未真正收紧 → 市场预期长期利率上行",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    },
+    {
+      "step": "全球债券收益率急升 → 新兴市场资本外流、货币贬值",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
+    }
+  ]
 }

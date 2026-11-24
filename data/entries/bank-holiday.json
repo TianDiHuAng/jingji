@@ -39,7 +39,26 @@
       ]
     }
   ],
-  "causal_chain": [],
+  "causal_chain": [
+    {
+      "step": "1933-02-14 起密歇根州率先宣布 8 天银行假日，其他州相继跟进 → 挤兑从一州蔓延至全国",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    },
+    {
+      "step": "罗斯福于 1933 年 3 月宣布全国银行假日，暂停全部银行营业以止住挤兑",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    },
+    {
+      "step": "国会通过《紧急银行法》(EBRA, 1933-03-09)，授权美联储增发钞票、银行经审核后择优复业",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "\"关门整顿\"视角",
@@ -104,5 +123,5 @@
     "w-en-bank-holiday"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。"
+  "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。 【续作OW｜round158】据正文机制与已引来源补 causal_chain。"
 }

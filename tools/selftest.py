@@ -341,6 +341,17 @@ def m_r26():
 
 case('R26 未来年份事件', m_r26, ['tools/check.py'], 'R26', [RW_ENT])
 
+BH_ENT = os.path.join(ENT, 'bank-holiday.json')
+
+
+def m_r27():
+    d = json.load(open(BH_ENT, encoding='utf-8'))
+    d['causal_chain'] = []
+    json.dump(d, open(BH_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R27 案例缺因果链', m_r27, ['tools/check.py'], 'R27', [BH_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 

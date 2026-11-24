@@ -2343,6 +2343,14 @@
 - **固化 R26**：timeline 事件年份不得晚于当前年（防未来/预测性事件）。自测 30 → **31 项**；同步 REPORT/HEALTH 的 timeline 658。
 - 现状：**641 条**、来源 **742**、页面 **655**；timeline **658** 事件；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 31/31。
 
+- **维基百科第 138 轮可用（round 158）**。**区块覆盖度审计，补齐 4 条案例的 causal_chain；加 R27**。
+- **网络**：仍 URLError 不可用。
+- **单元页核对**：unit-u1..u6 列出的条目数与数据完全一致（10/37/34/50/78/432），无误。
+- **覆盖度审计**：案例 209 条 overview／one_line／timeline／comparison／related 全覆盖；key_data 183、policy 156、causal_chain 205、deep_svg 24。
+- **补齐 4 条 causal_chain**（据各自正文机制与已引来源，不引入新事实）：`bank-holiday`、`recession-1960-1961`、`recession-1969-1970`、`taper-tantrum`——**案例 causal_chain 覆盖 205 → 209（全覆盖）**。
+- **固化 R27**：核心/重要案例须有 causal_chain，否则 warning。自测 31 → **32 项**。
+- 现状：**641 条**、来源 **742**、页面 **655**；案例 causal_chain **209/209**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
