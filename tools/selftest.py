@@ -101,6 +101,19 @@ def m_nav():
 
 case('文案与导航一致性', m_nav, ['tools/check_pages.py'], '文案与导航一致性', [TGT])
 
+INDEXALL = os.path.join(ROOT, 'site', 'index-all.html')
+
+
+def m_complete():
+    t = open(INDEXALL, encoding='utf-8').read()
+    # 移除一个条目链接，应触发"未列全条目"
+    import re as _re
+    t2 = _re.sub(r'<a href="bank-run\.html">[^<]*</a>', '', t, count=1)
+    open(INDEXALL, 'w', encoding='utf-8').write(t2)
+
+
+case('站点完整性(未列全)', m_complete, ['tools/check_pages.py'], '未列全', [INDEXALL])
+
 # ── 扩展：核心数据规则 ──
 def _w(path, d):
     json.dump(d, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)

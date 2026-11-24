@@ -127,6 +127,23 @@ def main():
                     problems.append(('data/' + e['id'] + '.json', '见 xxx 引用未接线', field, r))
                     break
 
+    # ── 站点完整性：每条目有页、index-all 列全、timeline 页不截断 ──
+    _ids = {e['id'] for e in es}
+    _missing_page = [i for i in _ids if not os.path.exists(os.path.join(SITE, i + '.html'))]
+    if _missing_page:
+        problems.append(('site', '条目缺页面', str(len(_missing_page)), ','.join(sorted(_missing_page)[:3])))
+    _ia = os.path.join(SITE, 'index-all.html')
+    if os.path.exists(_ia):
+        _ialinks = set(re.findall(r'href="([a-z0-9\-]+)\.html"', open(_ia, encoding='utf-8').read())) & _ids
+        if len(_ialinks) != len(_ids):
+            problems.append(('index-all.html', '未列全条目', str(len(_ialinks)), str(len(_ids))))
+    _tl = os.path.join(SITE, 'timeline.html')
+    if os.path.exists(_tl):
+        _tl_have = open(_tl, encoding='utf-8').read().count('<tr>')
+        _tl_need = sum(len(e.get('timeline', [])) for e in es)
+        if _tl_have < _tl_need:      # 每事件至少 1 行（表头另计）
+            problems.append(('timeline.html', '事件行数不足', str(_tl_have), str(_tl_need)))
+
     print('期望值:', expect)
     print('页面数:', pages)
     print()

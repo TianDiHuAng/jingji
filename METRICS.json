@@ -2350,6 +2350,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 19/19",
       "spot_check": "修复 check_quality 孤立**漏检 + 自测新增用例（18→19）",
       "note": "维基第118轮可用。NR：把 round 137 的渲染扫描固化为永久检查——修复 check_quality 的\"孤立 **\"漏检。\n①**发现检查盲区**：round 137 手工扫描发现 3 页残留**，但 check_quality 当时报 0 problem——因其判据为正则 `\\*\\*[^*]+\\*\\*`（只抓**成对**的 **x**），\n而残留的是**孤立**的单个 **（如\"…指标**，但…\"），不被匹配。\n②**修复 check_quality**：改为\"页面中任意出现 `**` 即报错\"（正确渲染的 HTML 不应含任何字面 **）。已注入测试确认能捕获孤立 **，当前站 0 problem。\n③**纳入自测**：`selftest.py` 新增\"check_quality 孤立**\"用例，自测由 18 → **19 项**，全部通过。\n④这延续了既定模式：**发现→修复→加检查→加自测**，使同类问题不可复发。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 19/19。"
+    },
+    {
+      "round": "续作NS-NT",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 655,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 20/20",
+      "spot_check": "页面结构完整；check_pages 加站点完整性断言；自测 19→20",
+      "note": "维基第119轮可用。NS-NT：审计页面结构完整性并把\"站点完整性\"固化为检查。\n①**页面结构审计（全部 655 页）**：缺概述 **0**、空 tbody **0**、L3 缺 SVG **0**、有 key_data 却无关键数据表 **0**——条目页结构完整。\n②**聚合页与导航完整性**：timeline.html 658 行（表头+657 事件，与数据 657 一致）、sources.html 完整列出 742 来源；\n`index-all.html` 链接到 **641/641** 条目、`cases.html` **209**、`concepts.html` **432**——导航无遗漏；站点共 14 静态页 + 641 条目页 = 655。\n③**固化为检查**：`check_pages.py` 新增\"站点完整性\"三项断言——（a）每条目均有页面；（b）index-all 列全所有条目 id；（c）timeline 页行数不少于事件总数。防 gen_site 截断/漏生成。\n④**纳入自测**：`selftest.py` 新增\"站点完整性(未列全)\"用例（移除 index-all 一条链接应报\"未列全\"），自测 19 → **20 项**，全通过。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 20/20。"
     }
   ]
 }
