@@ -862,6 +862,18 @@
       "check_result": "PASS (562); check_links 576页 0 error",
       "spot_check": "U5 76→78；新增两类非银金融机构危机",
       "note": "CV新增2条非银行金融机构危机:①Archegos爆仓2021(家族办公室,管理资产峰值超360亿美元,2020年100亿;2021-03-26对瑞信/野村等追加保证金违约;WSJ报道Hwang 10天损失80亿美元;TRS使多家银行只见局部敞口;ViacomCBS强制平仓跌27%;2024年11月Hwang判18年)②英国LDI危机2022(LDI为围绕负债规模/时点/风险设计资产组合的资产负债管理方法;收益率飙升→互换亏损→追加抵押→被迫抛售金边债的抵押品螺旋;英央行临时购债193亿英镑;峰值折价7%-10%;池化基金额外抛售约13个百分点)。总562条,来源667,key_data 357。"
+    },
+    {
+      "round": "续作CW",
+      "date": "2026-11-24",
+      "new_entries": 5,
+      "upgraded": 0,
+      "reviewed": 5,
+      "fixed": 0,
+      "sources_total": 671,
+      "check_result": "PASS (567); check_links 581页 0 error",
+      "spot_check": "新增5条金融稳定概念；U6 364→369",
+      "note": "CW新增5条概念:顺周期性与逆周期变量、保证金与追加保证金(含\"保证金螺旋\"机制)、长期停滞(低增长+低通胀+低r*并存)、金融化(1980年以来债务权益比上升与金融部门份额扩大)、资产负债错配(期限/币种/利率错配,含货币错配与原罪)。这5条与已有的financial-accelerator/fire-sale/procyclicality/macroprudential形成完整机制链。总567条,来源671,key_data 357。"
     }
   ]
 }
