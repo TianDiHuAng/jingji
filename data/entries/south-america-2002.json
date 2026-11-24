@@ -62,9 +62,10 @@
       "unit": "%（2000年−0.8%、2001年−4.4%、1999年−3.4%）",
       "year": 2002,
       "comparable_price": false,
-      "note": "原文：GDP continued to decline: 0.8% in 2000, 4.4% in 2001, and 10.9% in 2002；单一来源待核实。",
+      "note": "原文：GDP continued to decline: 0.8% in 2000, 4.4% in 2001, and 10.9% in 2002；单一来源待核实。 【双源印证·DM】世界银行/OWID同项为 -10.894（Argentina 2002），方向与量级一致。",
       "sources": [
-        "w-en-south-america-2002"
+        "w-en-south-america-2002",
+        "owid-dataset"
       ]
     },
     {
@@ -113,5 +114,5 @@
     "greek-debt-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-south-american-economic-crisis-of-2002。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作AU】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作BX】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-south-american-economic-crisis-of-2002。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作AU】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作DM】新增OWID二次核对项。"
 }

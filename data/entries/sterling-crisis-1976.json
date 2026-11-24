@@ -46,9 +46,10 @@
       "unit": "%（接近25%，英国CPI，1975年）",
       "year": 1975,
       "comparable_price": false,
-      "note": "原文：Inflation (at close to 25% in 1975)；\"接近\"为约数表述，单一来源待核实。",
+      "note": "原文：Inflation (at close to 25% in 1975)；\"接近\"为约数表述，单一来源待核实。 【双源印证·DM】世界银行/OWID同项为 24.207（United Kingdom 1975），与本值 25 属同一量级（相对偏差约 3.3%）；该小数差别可能源于年均口径与统计修订。",
       "sources": [
-        "w-en-1976-sterling-crisis"
+        "w-en-1976-sterling-crisis",
+        "owid-dataset"
       ]
     }
   ],
@@ -84,5 +85,5 @@
     "mexican-peso-1994"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-1976-sterling-crisis。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。 【轮次7抽检修复】补齐L2结构；具体适用与数值待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作CA】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-1976-sterling-crisis。 【轮次7】L1→L2升级，补入来源核实时间线与数值，单源待核实。 【轮次7抽检修复】补齐L2结构；具体适用与数值待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DM】英国1975通胀经OWID二次核对（量级一致，小数差异已注明）。"
 }

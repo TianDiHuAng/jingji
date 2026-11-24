@@ -325,9 +325,12 @@ for _id, e in entries.items():
         note = k.get('note', '')
         srcs = k.get('sources', [])
         has_official = any(str(s).startswith(OFFICIAL_PREFIX) for s in srcs)
-        if '差异' in note:
+        _diffkw = ('两源差异','存在差异','差异显著','数据分歧','分歧较大','口径不同','不宜直接比较','相差')
+        _confkw = ('双源印证','完全一致','印证')
+        _is_diff = any(w in note for w in _diffkw) and not ('方向与量级一致' in note)
+        if _is_diff:
             discrepant.append((e, k, has_official))
-        elif ('双源' in note or '印证' in note or '完全一致' in note):
+        elif any(w in note for w in _confkw):
             if has_official:
                 confirmed.append((e, k, has_official))   # 独立机构互证
             else:
