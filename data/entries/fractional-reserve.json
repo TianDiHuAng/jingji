@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1668,
-      "event": "瑞典央行(Riksbank)成立，为世界第一家中央银行（据 Wikipedia Fractional-reserve banking）"
+      "event": "瑞典央行(Riksbank)成立，为世界第一家中央银行（据 Wikipedia Fractional-reserve banking）",
+      "sources": [
+        "w-en-fractional-reserve"
+      ]
     }
   ],
   "causal_chain": [],

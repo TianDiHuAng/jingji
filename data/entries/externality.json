@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1920,
-      "event": "庇古在《福利经济学》中系统分析外部性，提出征税/补贴的矫正思路（据 Wikipedia Externality）"
+      "event": "庇古在《福利经济学》中系统分析外部性，提出征税/补贴的矫正思路（据 Wikipedia Externality）",
+      "sources": [
+        "w-en-externality"
+      ]
     },
     {
       "year": 1960,
-      "event": "科斯《社会成本问题》提出：产权清晰且交易成本低时，当事人可自行议价解决外部性（据 Wikipedia Externality）"
+      "event": "科斯《社会成本问题》提出：产权清晰且交易成本低时，当事人可自行议价解决外部性（据 Wikipedia Externality）",
+      "sources": [
+        "w-en-externality"
+      ]
     }
   ],
   "causal_chain": [

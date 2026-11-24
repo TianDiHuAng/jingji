@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1689,
-      "event": "洛克《政府论二篇》提出最有影响的自然权利产权论述之一（据 Wikipedia Property rights (economics)）"
+      "event": "洛克《政府论二篇》提出最有影响的自然权利产权论述之一（据 Wikipedia Property rights (economics)）",
+      "sources": [
+        "w-en-property-rights"
+      ]
     },
     {
       "year": 2013,
-      "event": "一项研究发现更好的产权保护可影响多项发展结果，包括自然资源管理（据 Wikipedia Property rights (economics)）"
+      "event": "一项研究发现更好的产权保护可影响多项发展结果，包括自然资源管理（据 Wikipedia Property rights (economics)）",
+      "sources": [
+        "w-en-property-rights"
+      ]
     }
   ],
   "causal_chain": [],

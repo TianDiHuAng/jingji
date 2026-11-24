@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1945,
-      "event": "美国开始以 NBER 的多指标方法事后判定衰退起止（据 Wikipedia Recession）"
+      "event": "美国开始以 NBER 的多指标方法事后判定衰退起止（据 Wikipedia Recession）",
+      "sources": [
+        "w-en-recession"
+      ]
     },
     {
       "year": 1975,
-      "event": "奥肯法则被用于估计产出缺口与失业的关系（据 Wikipedia Recession）"
+      "event": "奥肯法则被用于估计产出缺口与失业的关系（据 Wikipedia Recession）",
+      "sources": [
+        "w-en-recession"
+      ]
     },
     {
       "year": 2008,
-      "event": "资产负债表衰退与流动性陷阱在危机后被广泛讨论（据 Wikipedia Recession）"
+      "event": "资产负债表衰退与流动性陷阱在危机后被广泛讨论（据 Wikipedia Recession）",
+      "sources": [
+        "w-en-recession"
+      ]
     }
   ],
   "causal_chain": [],

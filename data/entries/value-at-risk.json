@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1994,
-      "event": "摩根大通公开发布 RiskMetrics 方法，使 VaR 成为行业标准（据 Wikipedia Value at risk）"
+      "event": "摩根大通公开发布 RiskMetrics 方法，使 VaR 成为行业标准（据 Wikipedia Value at risk）",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
     },
     {
       "year": 1996,
-      "event": "巴塞尔委员会允许银行用内部模型（含 VaR）计量市场风险资本（据 Wikipedia Value at risk）"
+      "event": "巴塞尔委员会允许银行用内部模型（含 VaR）计量市场风险资本（据 Wikipedia Value at risk）",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
     }
   ],
   "causal_chain": [

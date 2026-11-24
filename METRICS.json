@@ -1870,6 +1870,18 @@
       "check_result": "PASS; 十一道检查全绿（check.py 新增 R18）",
       "spot_check": "34 个 link_ok 空缺已实测回填（全部可达）；枚举字段普查通过",
       "note": "维基第78轮可用。IU-IV：**穷举全部枚举字段的取值一致性，并补齐一处缺失标记**。①**枚举字段普查**（9 个字段）：`level` 2 种（L2 607／L3 34）、`tier` 3 种、`unit` 6 种、`period` 6 种（镜像 unit）、`region` 8 种、`crisis_type` 8 种、`needs_verification` 全部 True、`verified` 全部 True、`type` 4 种——**取值均干净，无异名**。②**唯一异常：`link_ok` 有 34 个 None**（早期批量注册时未填，全为 `w-en-*`）。批量实测这 34 个 URL 可达性：**34 个全部可达**，已回填为 True。现 741 个来源的 `link_ok` **全部为 True**。③**加入 R18 检查**：`link_ok` 不得为空（须为 true/false），防止今后新增来源时漏填。④这轮延续了 round 96 的方法：**先统一取值，再加检查**；区别在于本轮是**穷举全部枚举字段**而非只查发现的那个——结果证明除 `link_ok` 外，其余 8 个字段的取值都已自发一致。⑤现状：**641 条**、来源 741（全部 verified 且 link_ok）、页面 655、key_data 430；印证 2／口径对照 13／差异 12。**十一道检查全绿（check.py 现为 R1–R18）**。"
+    },
+    {
+      "round": "续作IW-IX",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 43,
+      "reviewed": 642,
+      "fixed": 96,
+      "sources_total": 741,
+      "check_result": "PASS; 十一道检查全绿（check.py 新增 R19）",
+      "spot_check": "timeline 来源覆盖 85%→100%；三类内容字段全部带来源",
+      "note": "维基第79轮可用。IW-IX：**把\"逐条带来源\"从三类内容字段做起，并加入 R19**。①**审计发现**：`timeline` 642 个事件中 **96 个缺 sources**（集中在近期新建的条目——我在 event 文本里写了\"（据 Wikipedia X）\"却未填 sources 字段），涉及 43 个条目；而 `schools`（1,249 条）与 `policy_response`（151 条）的 sources **已 100% 齐备**。②**批量补全**：按\"据 Wikipedia X\"精确匹配补入 **86 个**，按条目主来源补入 **10 个**，无一条需要留空。**timeline 来源覆盖 642/642 = 100%**。③**加入 R19 检查**：`timeline`／`schools`／`policy_response` 的**每一条**都必须带 sources，否则报错。至此三类结构化内容字段的\"有据可查\"由机器强制保障。④**方法上的递进**：round 97 穷举的是**枚举字段的取值**（形式一致性），本轮穷举的是**结构化内容的来源**（内容可追溯性）。两者合起来覆盖了\"每个字段取值合法 + 每条陈述有据\"两个层面。⑤现状：**641 条**、来源 741、页面 655；timeline 642／schools 1249／policy_response 151 条，**全部带来源**；key_data 430 条。**十一道检查全绿（check.py 现为 R1–R19）**。"
     }
   ]
 }

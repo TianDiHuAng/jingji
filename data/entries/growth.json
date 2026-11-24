@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1776,
-      "event": "斯密《国富论》讨论分工与市场范围对生产率的作用（据 Wikipedia Economic growth）"
+      "event": "斯密《国富论》讨论分工与市场范围对生产率的作用（据 Wikipedia Economic growth）",
+      "sources": [
+        "w-en-growth"
+      ]
     },
     {
       "year": 1956,
-      "event": "索洛增长模型把技术视为外生、以资本积累解释趋同（据 Wikipedia Economic growth）"
+      "event": "索洛增长模型把技术视为外生、以资本积累解释趋同（据 Wikipedia Economic growth）",
+      "sources": [
+        "w-en-growth"
+      ]
     },
     {
       "year": 1980,
-      "event": "内生增长理论把技术与人力资本内生化（据 Wikipedia Economic growth）"
+      "event": "内生增长理论把技术与人力资本内生化（据 Wikipedia Economic growth）",
+      "sources": [
+        "w-en-growth"
+      ]
     }
   ],
   "causal_chain": [],

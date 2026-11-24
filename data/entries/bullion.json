@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1717,
-      "event": "牛顿任皇家铸币厂长时确立金衡，英国事实上转向金本位（据 Wikipedia Bullion）"
+      "event": "牛顿任皇家铸币厂长时确立金衡，英国事实上转向金本位（据 Wikipedia Bullion）",
+      "sources": [
+        "w-en-bullion"
+      ]
     },
     {
       "year": 1919,
-      "event": "伦敦金银市场协会的前身开始每日\"定盘价\"定价（据 Wikipedia Bullion）"
+      "event": "伦敦金银市场协会的前身开始每日\"定盘价\"定价（据 Wikipedia Bullion）",
+      "sources": [
+        "w-en-bullion"
+      ]
     },
     {
       "year": 2015,
-      "event": "伦敦金银定盘价机制因操纵丑闻被电子拍卖取代（据 Wikipedia Bullion）"
+      "event": "伦敦金银定盘价机制因操纵丑闻被电子拍卖取代（据 Wikipedia Bullion）",
+      "sources": [
+        "w-en-bullion"
+      ]
     }
   ],
   "causal_chain": [],

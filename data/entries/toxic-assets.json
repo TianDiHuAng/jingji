@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 2006,
-      "event": "该词至少早在 2006 年已有限使用；可能由 Countrywide Financial 创始人 Angelo Mozilo 在当年春季的邮件中首创或推广（经 SEC 文件披露）（据 Wikipedia Toxic asset）"
+      "event": "该词至少早在 2006 年已有限使用；可能由 Countrywide Financial 创始人 Angelo Mozilo 在当年春季的邮件中首创或推广（经 SEC 文件披露）（据 Wikipedia Toxic asset）",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
     },
     {
       "year": 2009,
-      "event": "3月23日美国财长盖特纳宣布\"公私合营投资计划\"(PPIP) 以购买银行的有毒资产（据 Wikipedia Toxic asset）"
+      "event": "3月23日美国财长盖特纳宣布\"公私合营投资计划\"(PPIP) 以购买银行的有毒资产（据 Wikipedia Toxic asset）",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
     }
   ],
   "causal_chain": [],

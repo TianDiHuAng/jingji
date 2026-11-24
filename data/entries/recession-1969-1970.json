@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1968,
-      "event": "经济下滑已在年底开始，早于 NBER 判定的衰退起点（据 Wikipedia Recession of 1969–1970）"
+      "event": "经济下滑已在年底开始，早于 NBER 判定的衰退起点（据 Wikipedia Recession of 1969–1970）",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
     },
     {
       "year": 1969,
-      "event": "12月衰退开始，与财政紧缩及美联储加息同时（据 Wikipedia Recession of 1969–1970）"
+      "event": "12月衰退开始，与财政紧缩及美联储加息同时（据 Wikipedia Recession of 1969–1970）",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
     },
     {
       "year": 1970,
-      "event": "11月衰退结束（据 Wikipedia Recession of 1969–1970）"
+      "event": "11月衰退结束（据 Wikipedia Recession of 1969–1970）",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
     }
   ],
   "causal_chain": [],

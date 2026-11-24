@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1937,
-      "event": "美国国家经济研究局(NBER)开始系统测定商业周期的转折点（据 Wikipedia Economic indicator）"
+      "event": "美国国家经济研究局(NBER)开始系统测定商业周期的转折点（据 Wikipedia Economic indicator）",
+      "sources": [
+        "w-en-leading-indicator"
+      ]
     },
     {
       "year": 1967,
-      "event": "美国商务部开始发布综合领先指标(CLI)体系（据 Wikipedia Economic indicator）"
+      "event": "美国商务部开始发布综合领先指标(CLI)体系（据 Wikipedia Economic indicator）",
+      "sources": [
+        "w-en-leading-indicator"
+      ]
     },
     {
       "year": 1987,
-      "event": "收益率曲线倒挂被广泛用作衰退的领先信号（据 Wikipedia Economic indicator）"
+      "event": "收益率曲线倒挂被广泛用作衰退的领先信号（据 Wikipedia Economic indicator）",
+      "sources": [
+        "w-en-leading-indicator"
+      ]
     }
   ],
   "schools": [

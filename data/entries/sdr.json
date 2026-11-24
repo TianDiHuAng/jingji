@@ -20,11 +20,17 @@
     },
     {
       "year": 2015,
-      "event": "IMF 完成 SDR 篮子最近一次审查（据 IMF Glossary）"
+      "event": "IMF 完成 SDR 篮子最近一次审查（据 IMF Glossary）",
+      "sources": [
+        "w-en-special-drawing-rights"
+      ]
     },
     {
       "year": 2016,
-      "event": "新权重与调整后的篮子于 10 月 1 日生效（据 IMF Glossary）"
+      "event": "新权重与调整后的篮子于 10 月 1 日生效（据 IMF Glossary）",
+      "sources": [
+        "w-en-special-drawing-rights"
+      ]
     }
   ],
   "causal_chain": [

@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1714,
-      "event": "曼德维尔在《蜜蜂的寓言》第二卷讨论分工（据 Wikipedia Division of labour）"
+      "event": "曼德维尔在《蜜蜂的寓言》第二卷讨论分工（据 Wikipedia Division of labour）",
+      "sources": [
+        "w-en-division-of-labour"
+      ]
     },
     {
       "year": 1776,
-      "event": "斯密《国富论》开篇以扣针工厂说明分工提高生产率（据 Wikipedia Division of labour）"
+      "event": "斯密《国富论》开篇以扣针工厂说明分工提高生产率（据 Wikipedia Division of labour）",
+      "sources": [
+        "w-en-division-of-labour"
+      ]
     }
   ],
   "causal_chain": [],

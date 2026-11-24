@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1970,
-      "event": "大型企业开始普遍设立专属保险公司(captive insurer)处理自身风险（据 Wikipedia Self-insurance；具体年份待核实）"
+      "event": "大型企业开始普遍设立专属保险公司(captive insurer)处理自身风险（据 Wikipedia Self-insurance；具体年份待核实）",
+      "sources": [
+        "w-en-self-insurance"
+      ]
     }
   ],
   "causal_chain": [],

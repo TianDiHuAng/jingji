@@ -253,6 +253,13 @@ def main():
     for _s in (src_data or {}).get('sources', []):
         if _s.get('link_ok') is None:
             err('R18', _s.get('id', '?'), 'link_ok 未设置（须为 true/false）')
+    # R19 结构化内容字段必须逐条带来源
+    for _e in entries:
+        _wid = _e.get('id', '?')
+        for _f in ('timeline', 'schools', 'policy_response'):
+            for _i, _item in enumerate(_e.get(_f) or []):
+                if not (_item.get('sources') if isinstance(_item, dict) else None):
+                    err('R19', _wid, '%s[%d] 缺 sources' % (_f, _i))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

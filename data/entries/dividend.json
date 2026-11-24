@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1602,
-      "event": "荷兰东印度公司(VOC)成立，此后近两百年间支付约占股价 18% 的年度股息（据 Wikipedia Dividend）"
+      "event": "荷兰东印度公司(VOC)成立，此后近两百年间支付约占股价 18% 的年度股息（据 Wikipedia Dividend）",
+      "sources": [
+        "w-en-dividend"
+      ]
     },
     {
       "year": 1902,
-      "event": "加拿大 Burland v Earle 与英国 Bond v Barrow 判例确立\"不干预\"原则（据 Wikipedia Dividend）"
+      "event": "加拿大 Burland v Earle 与英国 Bond v Barrow 判例确立\"不干预\"原则（据 Wikipedia Dividend）",
+      "sources": [
+        "w-en-dividend"
+      ]
     }
   ],
   "causal_chain": [],

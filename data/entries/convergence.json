@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1970,
-      "event": "Sachs 与 Warner 以 111 国 1970—1989 年数据检验开放与增长的关系（据 Wikipedia Convergence (economics)）"
+      "event": "Sachs 与 Warner 以 111 国 1970—1989 年数据检验开放与增长的关系（据 Wikipedia Convergence (economics)）",
+      "sources": [
+        "w-en-convergence"
+      ]
     },
     {
       "year": 1992,
-      "event": "Barro 与 Sala-i-Martin 区分绝对收敛与条件收敛（据 Wikipedia Convergence (economics)）"
+      "event": "Barro 与 Sala-i-Martin 区分绝对收敛与条件收敛（据 Wikipedia Convergence (economics)）",
+      "sources": [
+        "w-en-convergence"
+      ]
     }
   ],
   "causal_chain": [],

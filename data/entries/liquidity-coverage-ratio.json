@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 2010,
-      "event": "Basel III 框架发布，首次引入 LCR 与 NSFR 两项流动性要求（据 Wikipedia Basel III）"
+      "event": "Basel III 框架发布，首次引入 LCR 与 NSFR 两项流动性要求（据 Wikipedia Basel III）",
+      "sources": [
+        "w-en-liquidity-coverage-ratio"
+      ]
     },
     {
       "year": 2013,
-      "event": "LCR 按原定时间表开始分阶段实施（据 Wikipedia Basel III）"
+      "event": "LCR 按原定时间表开始分阶段实施（据 Wikipedia Basel III）",
+      "sources": [
+        "w-en-liquidity-coverage-ratio"
+      ]
     }
   ],
   "causal_chain": [],

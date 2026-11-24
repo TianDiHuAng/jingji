@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1949,
-      "event": "一种说法认为第一个欧洲美元账户 1949 年设于法国、为当时的中国所设（据 Wikipedia Eurodollar History）"
+      "event": "一种说法认为第一个欧洲美元账户 1949 年设于法国、为当时的中国所设（据 Wikipedia Eurodollar History）",
+      "sources": [
+        "w-en-eurodollar"
+      ]
     }
   ],
   "causal_chain": [],

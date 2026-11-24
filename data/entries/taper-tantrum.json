@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 2012,
-      "event": "12月12日 FOMC 宣布把开放式资产购买从每月 400 亿增至 850 亿美元（据 Wikipedia Quantitative easing）"
+      "event": "12月12日 FOMC 宣布把开放式资产购买从每月 400 亿增至 850 亿美元（据 Wikipedia Quantitative easing）",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
     },
     {
       "year": 2013,
-      "event": "6月19日伯南克宣布有条件缩减 QE：若数据向好，9月会议可把购债从 850 亿降至 650 亿美元/月，并暗示 2014 年中期结束（据 Wikipedia Quantitative easing）"
+      "event": "6月19日伯南克宣布有条件缩减 QE：若数据向好，9月会议可把购债从 850 亿降至 650 亿美元/月，并暗示 2014 年中期结束（据 Wikipedia Quantitative easing）",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
     },
     {
       "year": 2013,
-      "event": "市场在政策未变的情况下提前反应——长期利率上行、资本从新兴市场流出（\"缩减恐慌\"由此得名）"
+      "event": "市场在政策未变的情况下提前反应——长期利率上行、资本从新兴市场流出（\"缩减恐慌\"由此得名）",
+      "sources": [
+        "w-en-quantitative-easing"
+      ]
     }
   ],
   "schools": [

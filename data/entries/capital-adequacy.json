@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1988,
-      "event": "巴塞尔委员会发布 Basel I，确立 8% 的最低资本充足率（据 Wikipedia Capital requirement）"
+      "event": "巴塞尔委员会发布 Basel I，确立 8% 的最低资本充足率（据 Wikipedia Capital requirement）",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
     },
     {
       "year": 2004,
-      "event": "Basel II 引入内部评级法与三大支柱框架（据 Wikipedia Capital requirement）"
+      "event": "Basel II 引入内部评级法与三大支柱框架（据 Wikipedia Capital requirement）",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
     },
     {
       "year": 2010,
-      "event": "Basel III 大幅提高核心一级资本要求并新增杠杆率与流动性指标（据 Wikipedia Capital requirement）"
+      "event": "Basel III 大幅提高核心一级资本要求并新增杠杆率与流动性指标（据 Wikipedia Capital requirement）",
+      "sources": [
+        "w-en-capital-adequacy"
+      ]
     }
   ],
   "causal_chain": [],

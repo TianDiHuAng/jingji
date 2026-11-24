@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 2010,
-      "event": "1990—2010 年间的重要研究进展是动态搜寻—匹配—议价框架的发展（据 Wikipedia Labour economics）"
+      "event": "1990—2010 年间的重要研究进展是动态搜寻—匹配—议价框架的发展（据 Wikipedia Labour economics）",
+      "sources": [
+        "w-en-labour-market"
+      ]
     }
   ],
   "causal_chain": [],

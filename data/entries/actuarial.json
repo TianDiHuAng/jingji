@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1693,
-      "event": "哈雷制作第一张以实证数据为基础的生命表，为寿险精算奠基（据 Wikipedia Actuarial science）"
+      "event": "哈雷制作第一张以实证数据为基础的生命表，为寿险精算奠基（据 Wikipedia Actuarial science）",
+      "sources": [
+        "w-en-actuarial"
+      ]
     },
     {
       "year": 1848,
-      "event": "伦敦成立精算师协会，精算成为独立职业（据 Wikipedia Actuarial science）"
+      "event": "伦敦成立精算师协会，精算成为独立职业（据 Wikipedia Actuarial science）",
+      "sources": [
+        "w-en-actuarial"
+      ]
     },
     {
       "year": 2016,
-      "event": "欧盟 Solvency II 生效，把基于风险的资本要求制度化（据 Wikipedia Actuarial science）"
+      "event": "欧盟 Solvency II 生效，把基于风险的资本要求制度化（据 Wikipedia Actuarial science）",
+      "sources": [
+        "w-en-actuarial"
+      ]
     }
   ],
   "causal_chain": [],

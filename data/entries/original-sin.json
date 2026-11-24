@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1999,
-      "event": "Eichengreen 与 Hausmann 提出\"原罪\"概念，并以本币银行借款与国际债券份额构建衡量指标（据 Wikipedia Original sin (economics)）"
+      "event": "Eichengreen 与 Hausmann 提出\"原罪\"概念，并以本币银行借款与国际债券份额构建衡量指标（据 Wikipedia Original sin (economics)）",
+      "sources": [
+        "w-en-original-sin"
+      ]
     },
     {
       "year": 2001,
-      "event": "与 Panizza 合作扩展，形成 OSIN1／OSIN2／OSIN3 三个指标（据 Wikipedia Original sin (economics)）"
+      "event": "与 Panizza 合作扩展，形成 OSIN1／OSIN2／OSIN3 三个指标（据 Wikipedia Original sin (economics)）",
+      "sources": [
+        "w-en-original-sin"
+      ]
     },
     {
       "year": 2003,
-      "event": "后续研究转向\"原罪的赎免\"——哪些国家、通过何种路径摆脱了原罪（据 Wikipedia Original sin (economics)）"
+      "event": "后续研究转向\"原罪的赎免\"——哪些国家、通过何种路径摆脱了原罪（据 Wikipedia Original sin (economics)）",
+      "sources": [
+        "w-en-original-sin"
+      ]
     }
   ],
   "causal_chain": [

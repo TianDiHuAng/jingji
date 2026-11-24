@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1789,
-      "event": "边沁提出功利主义，把效用与社会福利相联系（据 Wikipedia Utility）"
+      "event": "边沁提出功利主义，把效用与社会福利相联系（据 Wikipedia Utility）",
+      "sources": [
+        "w-en-utility"
+      ]
     },
     {
       "year": 1871,
-      "event": "边际革命：杰文斯、门格尔与瓦尔拉斯确立边际效用递减（据 Wikipedia Utility）"
+      "event": "边际革命：杰文斯、门格尔与瓦尔拉斯确立边际效用递减（据 Wikipedia Utility）",
+      "sources": [
+        "w-en-utility"
+      ]
     },
     {
       "year": 1944,
-      "event": "冯·诺依曼与摩根斯坦建立期望效用理论（据 Wikipedia Utility）"
+      "event": "冯·诺依曼与摩根斯坦建立期望效用理论（据 Wikipedia Utility）",
+      "sources": [
+        "w-en-utility"
+      ]
     }
   ],
   "causal_chain": [],

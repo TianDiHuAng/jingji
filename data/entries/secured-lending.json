@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 2007,
-      "event": "8月雷曼兄弟关闭其次贷机构 BNC Mortgage；9月 Southern Pacific Personal Loans 与 London Mortgage Company 相继关闭，Kensington Mortgages 随后退出担保贷款市场（据 Wikipedia Secured loan — 英国市场时间线）"
+      "event": "8月雷曼兄弟关闭其次贷机构 BNC Mortgage；9月 Southern Pacific Personal Loans 与 London Mortgage Company 相继关闭，Kensington Mortgages 随后退出担保贷款市场（据 Wikipedia Secured loan — 英国市场时间线）",
+      "sources": [
+        "w-en-secured-lending"
+      ]
     }
   ],
   "schools": [

@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1960,
-      "event": "4月衰退开始（据 Wikipedia Recession of 1960–1961）"
+      "event": "4月衰退开始（据 Wikipedia Recession of 1960–1961）",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
     },
     {
       "year": 1961,
-      "event": "2月衰退结束，随后进入美国史上第三长扩张期（据 Wikipedia Recession of 1960–1961）"
+      "event": "2月衰退结束，随后进入美国史上第三长扩张期（据 Wikipedia Recession of 1960–1961）",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
     },
     {
       "year": 1961,
-      "event": "5月失业率达到该周期高点，晚于衰退结束三个月（据 Wikipedia Recession of 1960–1961）"
+      "event": "5月失业率达到该周期高点，晚于衰退结束三个月（据 Wikipedia Recession of 1960–1961）",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
     }
   ],
   "causal_chain": [],

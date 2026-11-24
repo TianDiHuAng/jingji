@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1968,
-      "event": "哈丁发表\"公地悲剧\"，提出公共资源必然被过度使用的论断（据 Wikipedia Common-pool resource）"
+      "event": "哈丁发表\"公地悲剧\"，提出公共资源必然被过度使用的论断（据 Wikipedia Common-pool resource）",
+      "sources": [
+        "w-en-common-pool"
+      ]
     },
     {
       "year": 1990,
-      "event": "奥斯特罗姆《公共事物的治理之道》以大量案例证明社群自治理可行（据 Wikipedia Common-pool resource）"
+      "event": "奥斯特罗姆《公共事物的治理之道》以大量案例证明社群自治理可行（据 Wikipedia Common-pool resource）",
+      "sources": [
+        "w-en-common-pool"
+      ]
     }
   ],
   "causal_chain": [],

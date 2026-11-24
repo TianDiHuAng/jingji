@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 2011,
-      "event": "FSB 与 BCBS 及各国当局协商，开始识别全球系统重要性银行(G-SIBs)（据 FSB G-SIFIs 官方说明）"
+      "event": "FSB 与 BCBS 及各国当局协商，开始识别全球系统重要性银行(G-SIBs)（据 FSB G-SIFIs 官方说明）",
+      "sources": [
+        "w-en-sifi"
+      ]
     },
     {
       "year": 2011,
-      "event": "G-SIB 名单按\"分档\"(buckets)划分，各档对应不同附加损失吸收能力要求（据 FSB G-SIFIs 官方说明）"
+      "event": "G-SIB 名单按\"分档\"(buckets)划分，各档对应不同附加损失吸收能力要求（据 FSB G-SIFIs 官方说明）",
+      "sources": [
+        "w-en-sifi"
+      ]
     }
   ],
   "causal_chain": [

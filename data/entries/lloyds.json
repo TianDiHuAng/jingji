@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1688,
-      "event": "爱德华·劳埃德在伦敦开设咖啡馆，成为船东与承保人聚集地（据 Wikipedia Lloyd's of London）"
+      "event": "爱德华·劳埃德在伦敦开设咖啡馆，成为船东与承保人聚集地（据 Wikipedia Lloyd's of London）",
+      "sources": [
+        "w-en-lloyds"
+      ]
     },
     {
       "year": 1871,
-      "event": "首个《劳合社法》确立其法律地位（据 Wikipedia Lloyd's of London）"
+      "event": "首个《劳合社法》确立其法律地位（据 Wikipedia Lloyd's of London）",
+      "sources": [
+        "w-en-lloyds"
+      ]
     },
     {
       "year": 1996,
-      "event": "劳合社完成公司化改革：个人无限责任成员被有限责任公司取代（据 Wikipedia Lloyd's of London）"
+      "event": "劳合社完成公司化改革：个人无限责任成员被有限责任公司取代（据 Wikipedia Lloyd's of London）",
+      "sources": [
+        "w-en-lloyds"
+      ]
     }
   ],
   "causal_chain": [],

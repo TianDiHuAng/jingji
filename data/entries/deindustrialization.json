@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1970,
-      "event": "主要发达经济体的制造业就业占比开始持续下降（据 Wikipedia Deindustrialization）"
+      "event": "主要发达经济体的制造业就业占比开始持续下降（据 Wikipedia Deindustrialization）",
+      "sources": [
+        "w-en-deindustrialization"
+      ]
     },
     {
       "year": 1990,
-      "event": "全球化与离岸外包加速，制造业向低成本地区转移（据 Wikipedia Deindustrialization）"
+      "event": "全球化与离岸外包加速，制造业向低成本地区转移（据 Wikipedia Deindustrialization）",
+      "sources": [
+        "w-en-deindustrialization"
+      ]
     },
     {
       "year": 2008,
-      "event": "金融危机后\"再工业化\"成为多国政策议题（据 Wikipedia Deindustrialization）"
+      "event": "金融危机后\"再工业化\"成为多国政策议题（据 Wikipedia Deindustrialization）",
+      "sources": [
+        "w-en-deindustrialization"
+      ]
     }
   ],
   "causal_chain": [],

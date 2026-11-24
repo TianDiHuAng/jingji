@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1931,
-      "event": "制度经济学家 John R. Commons 提出以\"交易\"而非商品或个人作为经济理论的基础（据 Wikipedia Transaction cost）"
+      "event": "制度经济学家 John R. Commons 提出以\"交易\"而非商品或个人作为经济理论的基础（据 Wikipedia Transaction cost）",
+      "sources": [
+        "w-en-transaction-cost"
+      ]
     },
     {
       "year": 1996,
-      "event": "威廉姆森在《治理机制》中系统列出交易成本经济学与新古典微观经济学的分歧（据 Wikipedia Transaction cost）"
+      "event": "威廉姆森在《治理机制》中系统列出交易成本经济学与新古典微观经济学的分歧（据 Wikipedia Transaction cost）",
+      "sources": [
+        "w-en-transaction-cost"
+      ]
     }
   ],
   "causal_chain": [],

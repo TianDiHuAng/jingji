@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 2013,
-      "event": "FSB 与标准制定机构制定加强 NBFI 监督与监管的政策建议，获 G20 认可，聚焦五个领域（据 FSB NBFI 官方说明）"
+      "event": "FSB 与标准制定机构制定加强 NBFI 监督与监管的政策建议，获 G20 认可，聚焦五个领域（据 FSB NBFI 官方说明）",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
     },
     {
       "year": 2020,
-      "event": "COVID-19 疫情使全球金融体系承压：3 月关键融资市场出现剧烈压力，公共当局需采取广泛措施恢复市场功能——这凸显加强 NBFI 韧性的必要（据 FSB NBFI 官方说明）"
+      "event": "COVID-19 疫情使全球金融体系承压：3 月关键融资市场出现剧烈压力，公共当局需采取广泛措施恢复市场功能——这凸显加强 NBFI 韧性的必要（据 FSB NBFI 官方说明）",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
     }
   ],
   "causal_chain": [

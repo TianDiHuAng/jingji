@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1920,
-      "event": "庇古在《福利经济学》中提出以税收矫正负外部性的思路（据 Wikipedia Pigouvian tax）"
+      "event": "庇古在《福利经济学》中提出以税收矫正负外部性的思路（据 Wikipedia Pigouvian tax）",
+      "sources": [
+        "w-en-pigouvian-tax"
+      ]
     },
     {
       "year": 1990,
-      "event": "芬兰、瑞典等国开征碳税，成为庇古税的最大规模实践（据 Wikipedia Pigouvian tax）"
+      "event": "芬兰、瑞典等国开征碳税，成为庇古税的最大规模实践（据 Wikipedia Pigouvian tax）",
+      "sources": [
+        "w-en-pigouvian-tax"
+      ]
     }
   ],
   "causal_chain": [],

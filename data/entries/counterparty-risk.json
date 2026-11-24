@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1974,
-      "event": "赫斯塔特银行(Herstatt)被德国监管机构吊销牌照，因时区错配导致对手方在马克已付、美元未收时暴露损失（据 Wikipedia Settlement risk）"
+      "event": "赫斯塔特银行(Herstatt)被德国监管机构吊销牌照，因时区错配导致对手方在马克已付、美元未收时暴露损失（据 Wikipedia Settlement risk）",
+      "sources": [
+        "w-en-settlement-risk"
+      ]
     },
     {
       "year": 1990,
-      "event": "德崇证券(Drexel)关闭未引发同类问题——英格兰银行设立专门安排确保支付完成（据 Wikipedia Settlement risk）"
+      "event": "德崇证券(Drexel)关闭未引发同类问题——英格兰银行设立专门安排确保支付完成（据 Wikipedia Settlement risk）",
+      "sources": [
+        "w-en-settlement-risk"
+      ]
     }
   ],
   "causal_chain": [],

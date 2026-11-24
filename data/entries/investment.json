@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": -1700,
-      "event": "投资行为可追溯至约公元前 1700 年的《汉谟拉比法典》（据 Wikipedia Investment）"
+      "event": "投资行为可追溯至约公元前 1700 年的《汉谟拉比法典》（据 Wikipedia Investment）",
+      "sources": [
+        "w-en-investment"
+      ]
     }
   ],
   "causal_chain": [],

@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1774,
-      "event": "为应对 1772—73 年金融危机，阿姆斯特丹商人 van Ketwich 设立信托 Eendragt Maakt Magt（\"团结就是力量\"），被视为共同基金雏形（据 Wikipedia Mutual fund History）"
+      "event": "为应对 1772—73 年金融危机，阿姆斯特丹商人 van Ketwich 设立信托 Eendragt Maakt Magt（\"团结就是力量\"），被视为共同基金雏形（据 Wikipedia Mutual fund History）",
+      "sources": [
+        "w-en-mutual-fund"
+      ]
     }
   ],
   "causal_chain": [],

@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 1817,
-      "event": "李嘉图在\"地租\"的狭义上使用 rent 一词（据 Wikipedia Rent-seeking）"
+      "event": "李嘉图在\"地租\"的狭义上使用 rent 一词（据 Wikipedia Rent-seeking）",
+      "sources": [
+        "w-en-rent-seeking"
+      ]
     },
     {
       "year": 1967,
-      "event": "塔洛克发表论文，使寻租成为经济学与政治学的持续研究对象（据 Wikipedia Rent-seeking）"
+      "event": "塔洛克发表论文，使寻租成为经济学与政治学的持续研究对象（据 Wikipedia Rent-seeking）",
+      "sources": [
+        "w-en-rent-seeking"
+      ]
     },
     {
       "year": 1980,
-      "event": "学界开始批评寻租理论——质疑\"浪费资源\"概念的模糊性与假设的可靠性（据 Wikipedia Rent-seeking）"
+      "event": "学界开始批评寻租理论——质疑\"浪费资源\"概念的模糊性与假设的可靠性（据 Wikipedia Rent-seeking）",
+      "sources": [
+        "w-en-rent-seeking"
+      ]
     }
   ],
   "causal_chain": [],

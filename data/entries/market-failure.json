@@ -12,19 +12,31 @@
   "timeline": [
     {
       "year": 1776,
-      "event": "斯密提出\"看不见的手\"，为市场配置效率提供早期论证（据 Wikipedia Market failure）"
+      "event": "斯密提出\"看不见的手\"，为市场配置效率提供早期论证（据 Wikipedia Market failure）",
+      "sources": [
+        "w-en-market-failure"
+      ]
     },
     {
       "year": 1920,
-      "event": "庇古系统分析外部性，提出征税/补贴的矫正思路（据 Wikipedia Market failure）"
+      "event": "庇古系统分析外部性，提出征税/补贴的矫正思路（据 Wikipedia Market failure）",
+      "sources": [
+        "w-en-market-failure"
+      ]
     },
     {
       "year": 1954,
-      "event": "萨缪尔森给出公共品的正式定义（据 Wikipedia Market failure）"
+      "event": "萨缪尔森给出公共品的正式定义（据 Wikipedia Market failure）",
+      "sources": [
+        "w-en-market-failure"
+      ]
     },
     {
       "year": 1970,
-      "event": "阿克洛夫\"柠檬市场\"揭示信息不对称导致的市场萎缩（据 Wikipedia Market failure）"
+      "event": "阿克洛夫\"柠檬市场\"揭示信息不对称导致的市场萎缩（据 Wikipedia Market failure）",
+      "sources": [
+        "w-en-market-failure"
+      ]
     }
   ],
   "causal_chain": [],

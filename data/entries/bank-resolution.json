@@ -12,15 +12,24 @@
   "timeline": [
     {
       "year": 2011,
-      "event": "FSB 发布《金融机构有效处置制度的关键属性》，确立十二项关键属性（据 FSB Key Attributes）"
+      "event": "FSB 发布《金融机构有效处置制度的关键属性》，确立十二项关键属性（据 FSB Key Attributes）",
+      "sources": [
+        "org-fsb-key-attributes"
+      ]
     },
     {
       "year": 2014,
-      "event": "FSB 修订版本增补附件，十二项关键属性正文未改动（据 FSB Key Attributes）"
+      "event": "FSB 修订版本增补附件，十二项关键属性正文未改动（据 FSB Key Attributes）",
+      "sources": [
+        "org-fsb-key-attributes"
+      ]
     },
     {
       "year": 2023,
-      "event": "2023 年美国区域银行危机中，FDIC 以过桥银行方式处置硅谷银行与 Signature 银行（本库见 bank-crisis-2023）"
+      "event": "2023 年美国区域银行危机中，FDIC 以过桥银行方式处置硅谷银行与 Signature 银行（本库见 bank-crisis-2023）",
+      "sources": [
+        "org-fsb-key-attributes"
+      ]
     }
   ],
   "schools": [

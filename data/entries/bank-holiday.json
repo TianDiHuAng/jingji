@@ -12,19 +12,31 @@
   "timeline": [
     {
       "year": 1933,
-      "event": "2月14日密歇根州率先宣布八天银行假日，挤兑恐慌向其他州蔓延（据 Wikipedia Emergency Banking Act of 1933）"
+      "event": "2月14日密歇根州率先宣布八天银行假日，挤兑恐慌向其他州蔓延（据 Wikipedia Emergency Banking Act of 1933）",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
     },
     {
       "year": 1933,
-      "event": "3月9日国会通过《紧急银行救济法》，授权联邦储备银行以良好资产发行额外货币（据 Wikipedia Emergency Banking Act of 1933）"
+      "event": "3月9日国会通过《紧急银行救济法》，授权联邦储备银行以良好资产发行额外货币（据 Wikipedia Emergency Banking Act of 1933）",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
     },
     {
       "year": 1933,
-      "event": "3月13日银行复业，储户排队存回现金；3月15日华尔街复市，道指涨8.26点（据 Wikipedia Emergency Banking Act of 1933）"
+      "event": "3月13日银行复业，储户排队存回现金；3月15日华尔街复市，道指涨8.26点（据 Wikipedia Emergency Banking Act of 1933）",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
     },
     {
       "year": 1933,
-      "event": "同年《1933年银行法》通过，设立联邦存款保险公司(FDIC)（据 Wikipedia Emergency Banking Act of 1933）"
+      "event": "同年《1933年银行法》通过，设立联邦存款保险公司(FDIC)（据 Wikipedia Emergency Banking Act of 1933）",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
     }
   ],
   "causal_chain": [],

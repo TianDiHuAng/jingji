@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1934,
-      "event": "美国《证券交易法》第 9(a)(2) 与 10(b) 条成为反操纵的法律基础（据 Wikipedia Share repurchase）"
+      "event": "美国《证券交易法》第 9(a)(2) 与 10(b) 条成为反操纵的法律基础（据 Wikipedia Share repurchase）",
+      "sources": [
+        "w-en-buyback"
+      ]
     },
     {
       "year": 1981,
-      "event": "此前所有要约回购均采用固定价格要约；此后引入荷兰式拍卖等方式（据 Wikipedia Share repurchase）"
+      "event": "此前所有要约回购均采用固定价格要约；此后引入荷兰式拍卖等方式（据 Wikipedia Share repurchase）",
+      "sources": [
+        "w-en-buyback"
+      ]
     }
   ],
   "causal_chain": [],

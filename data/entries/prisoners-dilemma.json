@@ -12,11 +12,17 @@
   "timeline": [
     {
       "year": 1950,
-      "event": "囚徒困境由梅里尔·弗勒德与梅尔文·德雷希尔提出，后由塔克形式化（据 Wikipedia Prisoner's dilemma）"
+      "event": "囚徒困境由梅里尔·弗勒德与梅尔文·德雷希尔提出，后由塔克形式化（据 Wikipedia Prisoner's dilemma）",
+      "sources": [
+        "w-en-prisoners-dilemma"
+      ]
     },
     {
       "year": 1984,
-      "event": "阿克塞尔罗德在《合作的演化》中报告重复囚徒困境锦标赛，\"针锋相对\"(tit-for-tat) 表现突出（据 Wikipedia Prisoner's dilemma）"
+      "event": "阿克塞尔罗德在《合作的演化》中报告重复囚徒困境锦标赛，\"针锋相对\"(tit-for-tat) 表现突出（据 Wikipedia Prisoner's dilemma）",
+      "sources": [
+        "w-en-prisoners-dilemma"
+      ]
     }
   ],
   "causal_chain": [],

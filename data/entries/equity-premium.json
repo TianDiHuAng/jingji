@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1985,
-      "event": "Mehra 与 Prescott 发表《The Equity Premium: A Puzzle》，正式提出股权溢价之谜（据 Wikipedia Equity premium puzzle）"
+      "event": "Mehra 与 Prescott 发表《The Equity Premium: A Puzzle》，正式提出股权溢价之谜（据 Wikipedia Equity premium puzzle）",
+      "sources": [
+        "w-en-equity-premium"
+      ]
     }
   ],
   "causal_chain": [],

@@ -12,7 +12,10 @@
   "timeline": [
     {
       "year": 1752,
-      "event": "本杰明·富兰克林创立费城房屋火灾保险公司，为美国最早的互助式风险汇聚实践之一（据 Wikipedia Risk pool；具体年份待核实）"
+      "event": "本杰明·富兰克林创立费城房屋火灾保险公司，为美国最早的互助式风险汇聚实践之一（据 Wikipedia Risk pool；具体年份待核实）",
+      "sources": [
+        "w-en-risk-pooling"
+      ]
     }
   ],
   "causal_chain": [],
