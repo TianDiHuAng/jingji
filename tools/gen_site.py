@@ -242,10 +242,21 @@ for e in entries.values(): by_unit[e.get('unit','')].append(e)
 lv_count = Counter(e.get('level') for e in entries.values())
 ver_count = sum(1 for s in src['sources'] if s['verified'])
 kd_total = sum(len(e.get('key_data', []) or []) for e in entries.values())
+# 独立机构印证：仅限 fed-*（美联储历史站等独立撰写的史学研究），与验证页判据一致
 conf_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or [])
                  if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
                      or '完全一致' in (k.get('note') or ''))
-                 and any(str(x).startswith(('fed-', 'owid-')) for x in (k.get('sources') or [])))
+                 and any(str(x).startswith('fed-') for x in (k.get('sources') or []))
+                 and not any(w in (k.get('note') or '') for w in
+                             ('两源差异', '存在差异', '数据分歧', '口径不同')))
+# 统计口径对照：OWID／世界银行等（与维基数字同源于各国官方统计，独立性有限）
+stat_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or [])
+                 if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
+                     or '完全一致' in (k.get('note') or ''))
+                 and any(str(x).startswith(('owid-', 'org-')) for x in (k.get('sources') or []))
+                 and not any(str(x).startswith('fed-') for x in (k.get('sources') or []))
+                 and not any(w in (k.get('note') or '') for w in
+                             ('两源差异', '存在差异', '数据分歧', '口径不同')))
 # 跨语言对照：条目引用 >=2 种语言的维基
 def _nlang(e):
     ls = {str(x).split('-')[1] for x in (e.get('sources') or [])
@@ -263,7 +274,8 @@ home = [
  f'<div class="stat"><div class="n">{lv_count["L1"]}</div><div class="l">L1 骨架条目</div></div>'
  f'<div class="stat"><div class="n">{ver_count}</div><div class="l">可用来源</div></div>'
  f'<div class="stat"><div class="n">{kd_total}</div><div class="l">关键数据条数</div></div>'
- f'<div class="stat"><div class="n">{conf_total}</div><div class="l">已获第二来源印证</div></div>'
+ f'<div class="stat"><div class="n">{conf_total}</div><div class="l">独立机构双源印证</div></div>'
+ f'<div class="stat"><div class="n">{stat_total}</div><div class="l">统计口径对照</div></div>'
  f'<div class="stat"><div class="n">{_cross_total}</div><div class="l">多语种维基条目</div></div>'
  f'<div class="stat"><div class="n">{_pol_cases}/{len(_cases)}</div><div class="l">案例载有政策应对</div></div></div>',
  '<div class="note">本站所有数字除明确标注来源与口径外一律列为"待核实"；有争议观点并列各方说法，不替读者下结论。不做预测，不提供投资建议。</div>',
