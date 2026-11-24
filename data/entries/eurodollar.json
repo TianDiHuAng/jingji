@@ -9,7 +9,12 @@
   "crisis_type": "制度",
   "one_line": "存放于美国境外银行或其分支机构的美元计价存款负债。",
   "overview": "（据 Wikipedia「Eurodollar」摘要归纳）Eurodollars is a financial term used to describe certain U.S. dollar-denominated deposit liabilities held at banks or their branches outside the United States. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1949,
+      "event": "一种说法认为第一个欧洲美元账户 1949 年设于法国、为当时的中国所设（据 Wikipedia Eurodollar History）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +29,5 @@
     "w-en-eurodollar"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline。"
 }

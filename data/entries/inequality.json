@@ -11,8 +11,37 @@
   "overview": "（据 Wikipedia「Economic inequality」摘要归纳）Economic inequality is an umbrella term for three concepts: income inequality, how the total sum of money paid to people is distributed among them; wealth inequality, how the total sum of wealth owned by people is distributed among the owners; and consumption inequality, how the total sum of money spent by people is distributed among the spenders. Each of these can be measured between two or more nations, within a single nation, or between and within sub-populations, either from one or from multiple nations. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
-  "key_data": [],
+  "schools": [
+    {
+      "holder": "国内不平等的上升",
+      "view": "过去 30 年**多数国家内部**的不平等显著上升，尤其在发达国家（据 Wikipedia Economic inequality）",
+      "src": "w-en-inequality"
+    }
+  ],
+  "key_data": [
+    {
+      "label": "乐施会2026年报告：亿万富翁人数",
+      "value": 3000,
+      "unit": "人",
+      "year": 2026,
+      "comparable_price": false,
+      "note": "原文：the number of billionaires has increased to 3,000；单一来源待核实。",
+      "sources": [
+        "w-en-inequality"
+      ]
+    },
+    {
+      "label": "乐施会2026年报告：亿万富翁财富总额",
+      "value": 18.3,
+      "unit": "万亿美元",
+      "year": 2026,
+      "comparable_price": false,
+      "note": "原文：their wealth has increased to 18.3 trillion, breaking records；单一来源待核实。",
+      "sources": [
+        "w-en-inequality"
+      ]
+    }
+  ],
   "comparison": "与**贫困**的区别在\"相对与绝对\"：不平等是**相对**分布（差距大小）；贫困是**绝对**水平（是否低于某条线）。两者可以反向变动：增长可能同时降低贫困与提高不平等（顶端获益更多）。与**机会不平等**的区别在\"结果与起点\"：前者度量收入/财富分布，后者度量出身对结果的影响程度。这一区分在危机分析中很重要：危机后的不平等上升（资产价格反弹而工资停滞）与\"机会不平等固化\"是不同问题，处方也不同。",
   "related": [
     "gini",
@@ -24,5 +53,5 @@
     "w-en-inequality"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools/key_data。"
 }

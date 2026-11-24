@@ -9,7 +9,12 @@
   "crisis_type": "理论",
   "one_line": "为未来收益而投入资源的行为；宏观上指资本形成（固定投资与存货变动）。",
   "overview": "（据 Wikipedia「Investment」摘要归纳）Investment is traditionally defined as the \"commitment of resources into something expected to gain value over time\". If an investment involves money, then it can be defined as a \"commitment of money to receive more money later\". From a broader viewpoint, an investment can be defined as \"to tailor the pattern of expenditure and receipt of resources to optimise the desirable patterns of these flows\". 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": -1700,
+      "event": "投资行为可追溯至约公元前 1700 年的《汉谟拉比法典》（据 Wikipedia Investment）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +29,5 @@
     "w-en-investment"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 timeline。"
 }

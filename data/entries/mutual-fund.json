@@ -9,10 +9,27 @@
   "crisis_type": "制度",
   "one_line": "汇集众多投资者资金购买证券的投资基金；该称谓主要用于美国、加拿大与印度。",
   "overview": "（据 Wikipedia「Mutual fund」摘要归纳）A mutual fund is an investment fund that pools money from many investors to purchase securities. The term is typically used in the United States, Canada, and India. In Europe, UCITS funds, primarily registered in Luxembourg and Ireland, are considered mutual funds, while similar structures include the SICAV and the open-ended investment company (OEIC) in the UK. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1774,
+      "event": "为应对 1772—73 年金融危机，阿姆斯特丹商人 van Ketwich 设立信托 Eendragt Maakt Magt（\"团结就是力量\"），被视为共同基金雏形（据 Wikipedia Mutual fund History）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "全球开放式共同基金资产（2023年底）",
+      "value": 69,
+      "unit": "万亿美元",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：At the end of 2023, open-end mutual fund assets worldwide were $69.0 trillion；单一来源待核实。",
+      "sources": [
+        "w-en-mutual-fund"
+      ]
+    }
+  ],
   "comparison": "与**对冲基金**的区别在监管与投资者：共同基金面向**公众**、受严格披露与流动性约束（每日可赎回）；对冲基金面向合格投资者、策略自由（做空、杠杆）、通常有锁定期。与**ETF**的区别在交易方式：共同基金按每日净值申赎，ETF 在交易所实时交易。这一差别在危机中放大风险：共同基金的\"每日可赎回\"承诺使其在极端行情下面临**被迫抛售**（2020年3月债券基金），而对冲基金的锁定期反而限制了挤兑。",
   "related": [
     "hedge-fund",
@@ -24,5 +41,5 @@
     "w-en-mutual-fund"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GP】补充 timeline/key_data。"
 }

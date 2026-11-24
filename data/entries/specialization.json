@@ -9,7 +9,16 @@
   "crisis_type": "理论",
   "one_line": "个体或地区专注于特定生产环节；通过分工提高效率，是增长与贸易的基础。",
   "overview": "（据 Wikipedia「Division of labour」摘要归纳）The division of labour is the separation of the tasks in any economic system or organisation so that participants may specialise (specialisation). Individuals, organisations, and nations are endowed with, or acquire, specialised capabilities and either form combinations or trade to take advantage of others' capabilities. Specialised capabilities may include equipment, natural resources, and skills. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1714,
+      "event": "曼德维尔在《蜜蜂的寓言》第二卷讨论分工（据 Wikipedia Division of labour）"
+    },
+    {
+      "year": 1776,
+      "event": "斯密《国富论》开篇以扣针工厂说明分工提高生产率（据 Wikipedia Division of labour）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +33,5 @@
     "w-en-specialization"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline。"
 }

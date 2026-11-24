@@ -11,7 +11,13 @@
   "overview": "（据 Wikipedia「Payment system」摘要归纳）A payment system is any system used to settle financial transactions through the transfer of monetary value. This includes the institutions, payment instruments such as payment cards, people, rules, procedures, standards, and technologies that make its exchange possible. A payment system is an operational network which links bank accounts and provides for monetary exchange using bank deposits. 具体定义边界与争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "系统重要性",
+      "view": "支付与结算系统是金融体系的\"管道\"：其稳定性直接决定交易能否完成，因此被视为需专门监管的基础设施（据 Wikipedia Payment system）",
+      "src": "w-en-payment-system"
+    }
+  ],
   "key_data": [],
   "comparison": "与**结算系统**的区别在\"层次\"：支付系统是更广的概念（含零售支付、大额支付、卡组织、跨境汇款）；结算系统特指金融机构之间的最终清算（如Fedwire、TARGET2、CLS）。这一区分在危机中很重要：零售支付中断影响公众信心（塞浦路斯2013年的取现限制），而大额结算系统中断会立即冻结整个金融体系（\"管道\"失效）——因此后者被视为系统重要性基础设施，需专门监管（PFMI原则）。",
   "related": [
@@ -24,5 +30,5 @@
     "w-en-payment-system"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools。"
 }

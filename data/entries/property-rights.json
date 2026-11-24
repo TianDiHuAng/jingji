@@ -9,9 +9,29 @@
   "crisis_type": "理论",
   "one_line": "对资源使用、收益与转让的排他性权利；其界定与执行影响投资与交易的发生。",
   "overview": "（据 Wikipedia「Property rights (economics)」摘要归纳）Property rights are constructs in economics for determining how a resource or economic good is used and owned, which have developed over ancient and modern history, from Abrahamic law to Article 17 of the Universal Declaration of Human Rights. Resources can be owned by individuals, associations, collectives, or governments. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1689,
+      "event": "洛克《政府论二篇》提出最有影响的自然权利产权论述之一（据 Wikipedia Property rights (economics)）"
+    },
+    {
+      "year": 2013,
+      "event": "一项研究发现更好的产权保护可影响多项发展结果，包括自然资源管理（据 Wikipedia Property rights (economics)）"
+    }
+  ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "洛克式劳动理论",
+      "view": "产权源于对自己劳动成果的自然权利（据 Wikipedia Property rights (economics)）",
+      "src": "w-en-property-rights"
+    },
+    {
+      "holder": "发展与契约视角",
+      "view": "产权界定与执行影响投资激励；但不完全契约意味着产权无法穷尽所有情形，剩余控制权的配置本身成为关键（据 Wikipedia Property rights (economics)）",
+      "src": "w-en-property-rights"
+    }
+  ],
   "key_data": [],
   "comparison": "与**产权界定**的区别在\"权利与执行\"：产权是权利束（使用、收益、转让、排他）；产权界定是具体分配（谁拥有什么）与执行机制（法院、登记、治安）。这一区分在发展经济学中极其重要：仅有名义产权而无有效执行，等于没有产权（de Soto 的\"死资本\"论点）；而清晰的产权与低交易成本是市场交易的前提（科斯定理）。在危机中，产权不清会阻碍债务重组与资产处置（坏账银行的估值难题）。",
   "related": [
@@ -24,5 +44,5 @@
     "w-en-property-rights"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。"
 }

@@ -102,7 +102,40 @@ def main():
     if last.get('sources_total') and last['sources_total'] != act['来源']:
         bad.append(('METRICS.json', 0, '来源', last['sources_total'], act['来源'], '最后一条 sources_total'))
 
+    # 文档完整性：关键文档的最小规模与关键章节（防止误删）
+    integrity = []
+    checks = [
+        ('PROGRESS.md', 400, ['## 轮次记录', '## 当前状态']),
+        ('BLOCKERS.md', 50, ['##']),
+        ('BACKLOG.md', 30, ['##']),
+        ('DECISIONS.md', 20, ['##']),
+    ]
+    for name, min_lines, keys in checks:
+        fp = os.path.join(ROOT, name)
+        if not os.path.exists(fp):
+            integrity.append((name, '文件缺失', ''))
+            continue
+        txt = open(fp, encoding='utf-8').read()
+        n = len(txt.splitlines())
+        if n < min_lines:
+            integrity.append((name, '行数过少', '%d < %d' % (n, min_lines)))
+        for k in keys:
+            if k not in txt:
+                integrity.append((name, '缺关键章节', k))
+    # 轮次记录条数
+    pp = os.path.join(ROOT, 'PROGRESS.md')
+    if os.path.exists(pp):
+        cnt = len(re.findall(r'维基百科第\s*\d+\s*轮', open(pp, encoding='utf-8').read()))
+        if cnt < 20:
+            integrity.append(('PROGRESS.md', '轮次记录过少', '%d 条' % cnt))
+
     print()
+    if integrity:
+        print('文档完整性检查未通过 %d 项：' % len(integrity))
+        for x in integrity:
+            print('  %-14s %-12s %s' % x)
+        return 1
+    print('文档完整性：通过（规模与关键章节齐备）')
     if bad:
         print('文档与实际不一致 %d 处：' % len(bad))
         for b in bad:

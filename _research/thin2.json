@@ -1,0 +1,294 @@
+{
+  "equity-premium": {
+    "heads": [
+      "Description",
+      "Theory",
+      "Data",
+      "Possible explanations",
+      "The equity premium: a deeper puzzle",
+      "Rare events hypothesis",
+      "Myopic loss aversion",
+      "Individual characteristics"
+    ],
+    "years": [
+      "Prescott in a study published in 1985 titled \"The Equity Premium: A Puzzle\".",
+      "An earlier version of the paper was published in 1982 under the title \"A test of the intertemporal asset pricing model\".",
+      "Azeredo (2014) shows, however, that increasing the risk aversion level may produce a negative equity premium in an Arrow-Debreu economy constructed to mimic the persistence in U.S."
+    ],
+    "disputes": [
+      "However, the 5% to 8% premium is considered to be an implausibly high difference and the equity premium puzzle refers to the unexplained reasons driving this disparity.",
+      "Azeredo (2014) shows, however, that increasing the risk aversion level may produce a negative equity premium in an Arrow-Debreu economy constructed to mimic the persistence in U.S.",
+      "However, over any one decade, the premium shows great variability—from over 19% in the 1950s to 0.3% in the 1970s."
+    ]
+  },
+  "eurodollar": {
+    "heads": [
+      "History",
+      "Eurodollar futures contracts",
+      "See also",
+      "Notes"
+    ],
+    "years": [
+      "In one version, the first eurodollar account was created in France in favour of Communist China, which in 1949 managed to move almost all of its U.S.",
+      "In another version, the first eurodollar account was created by an English bank in favour of the Soviet Union during the Cold War, following the Hungarian Revolution of 1956, as the Soviet Union feared that its deposits in North American banks would be frozen as a sanction.",
+      "dollars held directly in North American banks to the Moscow Narodny Bank, an English limited liability company registered in London in 1919, whose shares were owned by the Soviet Union."
+    ],
+    "disputes": []
+  },
+  "expectations": {
+    "heads": [
+      "Expectations of well-being",
+      "\"Response-expectancies\"",
+      "Expectations impact on beliefs",
+      "Expectations elicitation",
+      "See also",
+      "References"
+    ],
+    "years": [],
+    "disputes": []
+  },
+  "fractional-reserve": {
+    "heads": [
+      "History",
+      "Regulatory framework",
+      "Economic function",
+      "Money creation process",
+      "Types of money",
+      "Money multiplier",
+      "Formula",
+      "Money supply"
+    ],
+    "years": [
+      "The Swedish Riksbank was the world's first central bank, created in 1668.",
+      "== Opposition to fractional-reserve banking == === Instability === In 1935, economist Irving Fisher proposed a system of full-reserve banking, where banks would not lend on demand deposits but would only lend from time deposits.",
+      "{{cite book}}: ISBN / Date incompatibility (help) Lanchester, John (12 August 2019)."
+    ],
+    "disputes": [
+      "However, banks may find themselves in a shortfall situation when depositors wish to withdraw more funds than the reserves held by the bank.",
+      "However, rather than directly controlling the money supply, contemporary central banks usually pursue an interest-rate target to control bank issuance of credit and the rate of inflation.",
+      "If creditors (note holders of gold originally deposited) lost faith in the ability of a bank to pay their notes, however, many would try to redeem their notes at the same time."
+    ]
+  },
+  "inequality": {
+    "heads": [
+      "Measurements",
+      "Income",
+      "Income distribution within individual countries",
+      "Wealth",
+      "Wealth distribution between countries",
+      "Wealth distribution within individual countries",
+      "Consumption",
+      "Factors proposed to affect economic inequality"
+    ],
+    "years": [
+      "Oxfam's 2026 report on economic inequality found that the number of billionaires has increased to 3,000, and their wealth has increased to 18.3 trillion, breaking records.",
+      "In 2016, the world's billionaires increased their combined global wealth to a record $6 trillion.",
+      "In 2017, they increased their collective wealth to $8.9 trillion."
+    ],
+    "disputes": [
+      "However, inequality within most nations has risen significantly in the last 30 years, particularly among advanced countries.",
+      "However, stock ownership favors higher income and education levels, thereby resulting in disparate investment income.",
+      "However, increases in education first increase and then decrease growth as well as income inequality."
+    ]
+  },
+  "investment": {
+    "heads": [
+      "Types of financial investments",
+      "Investment and risk",
+      "History",
+      "Investment strategies",
+      "Value investing",
+      "Growth investing",
+      "Momentum investing",
+      "Dollar cost averaging"
+    ],
+    "years": [
+      "== History == Investments can be traced back to as early as 1700 BCE during the Code of Hammurabi.",
+      "The start of a stock exchange can be contributed to Amsterdam in 1602 known as the Amsterdam Stock Exchange.",
+      "The start of the stock market in America can be traced back to May 17, 1792, when the Buttonwood Agreement was signed, setting rules for how stocks can be traded, and aimed to ensure that deals were done between trusted parties."
+    ],
+    "disputes": [
+      "However, in a bear market, momentum investing also involves short-selling securities of stocks that are experiencing a downward trend, because it is believed that these stocks will continue to decrease in value.",
+      "However, dollar-cost averaging is also generally characterized by more brokerage fees, which could decrease an investor's overall returns."
+    ]
+  },
+  "labour-market": {
+    "heads": [
+      "Macro and micro analysis of labour markets",
+      "Supply and demand",
+      "Labour supply",
+      "Labour demand",
+      "Equilibrium",
+      "Monopsony and oligopsony",
+      "Asymmetric information",
+      "Search models"
+    ],
+    "years": [
+      "=== Search models === One of the major research achievements of the 1990–2010 period was the development of a framework with dynamic search, matching, and bargaining.",
+      "== Further reading == Richard Blundell and Thomas MaCurdy, 2008.",
+      "\"labour supply,\" The New Palgrave Dictionary of Economics, 2nd Edition Freeman, R.B., 1987."
+    ],
+    "disputes": [
+      "However, they are constrained by the hours available to them.",
+      "The firm only employs however up to the point where MRP=MC, and not beyond, in neoclassical economic theory.",
+      "The port cleaner, however, requires relatively less training."
+    ]
+  },
+  "modigliani-miller": {
+    "heads": [
+      "Historical background",
+      "The theorem",
+      "Without taxes",
+      "Proposition I",
+      "Proposition II",
+      "With taxes",
+      "Proposition I",
+      "Proposition II"
+    ],
+    "years": [
+      "Modigliani was awarded the 1985 Nobel Prize in Economics for this and other contributions.",
+      "Miller was a professor at the University of Chicago when he was awarded the 1990 Nobel Prize in Economics, along with Harry Markowitz and William F."
+    ],
+    "disputes": [
+      "However, if we move to a world where there are taxes, when the interest on debt is tax-deductible, and ignoring other frictions, the value of the company increases in proportion to the amount of debt used.",
+      "The formula, however, has implications for the difference with the WACC."
+    ]
+  },
+  "mutual-fund": {
+    "heads": [
+      "Market size",
+      "History",
+      "Early history",
+      "Features",
+      "Advantages",
+      "Disadvantages",
+      "Expenses",
+      "Management fee"
+    ],
+    "years": [
+      "== Market size == At the end of 2023, open-end mutual fund assets worldwide were $69.0 trillion.",
+      "In response to the financial crisis of 1772–1773, Amsterdam-based businessman Abraham (or Adriaan) van Ketwich formed a trust named Eendragt Maakt Magt (\"unity creates strength\").",
+      "The first investment trust in the UK, the Scottish American Investment Trust formed in 1873, is considered the \"most obvious progenitor\" of the mutual fund, according to Diana B."
+    ],
+    "disputes": [
+      "similar to a modern mutual fund was the Boston Personal Property Trust, which was founded in 1893; however, its original intent was as a workaround to Massachusetts law restricting corporate real estate holdings rather than investing."
+    ]
+  },
+  "nasdaq": {
+    "heads": [
+      "History",
+      "1972–2000",
+      "Founding and origins",
+      "Market growth",
+      "Online trading",
+      "2000–2020",
+      "Public listing and market change",
+      "Acquisitions"
+    ],
+    "years": [
+      "As of December 31, 2024, 4,075 companies listed securities on Nasdaq, including 1,383 listings on Nasdaq Global Select Market, 1,366 on Nasdaq Global Market, and 1,326 on Nasdaq Capital Market.",
+      "== History == === 1972–2000 === ==== Founding and origins ==== Nasdaq, Inc.",
+      "was founded in 1971 by the National Association of Securities Dealers (NASD), now known as the Financial Industry Regulatory Authority (FINRA)."
+    ],
+    "disputes": [
+      "Nasdaq began in 1971 as the first exclusively electronic quotation system for OTC securities, displaying bid and ask prices from competing market makers on cathode-ray terminals; however, trades were still executed by telephone until electronic execution was introduced in 1984."
+    ]
+  },
+  "payment-system": {
+    "heads": [
+      "Domestic",
+      "International",
+      "See also",
+      "References",
+      "External links"
+    ],
+    "years": [
+      "Frequently, the systems become unstable or less reliable, for example, STEP2 (an upgrade from 2003), which processes only euros.",
+      "As of 2014, STEP2 is the only Pan-European automated clearing house (or PE-ACH system) in operation.",
+      "== See also == == References == == External links == A Guide to Replacing Legacy Payment Systems Archived 2013-11-06 at the Wayback Machine Inside National Payment Systems The end of a monopoly - New consumer payment systems."
+    ],
+    "disputes": []
+  },
+  "population": {
+    "heads": [
+      "See also"
+    ],
+    "years": [],
+    "disputes": []
+  },
+  "property-rights": {
+    "heads": [
+      "Conceptualizing property in economics vs. law",
+      "Types of property regimes",
+      "Theory",
+      "Economic development",
+      "Incomplete contracts",
+      "Real-world interconnectivity",
+      "Rent-seeking",
+      "Benefits of stronger property rights"
+    ],
+    "years": [
+      "In 2013 a study found that better protection of property rights can affect several development outcomes, including better management of natural resources.",
+      "==== Lockean labor theory ==== John Locke, in his Second Treatise of Government (1689), developed one of the most influential natural-rights accounts.",
+      "==== Nozick's entitlement theory ==== Robert Nozick extended Lockean ideas in Anarchy, State, and Utopia (1974) through his entitlement theory of justice in holdings."
+    ],
+    "disputes": [
+      "A common pool resource however is often managed the group of people that have access to that resource .",
+      "These authors argue that in the real world, contracts are incomplete and hence it is impossible to contractually specify what decisions will have to be taken in any conceivable state of the world.",
+      "=== Rent-seeking === North, Wallis and Weingast argue that property rights originate to facilitate elites' rent-seeking activities."
+    ]
+  },
+  "proprietary-trading": {
+    "heads": [
+      "Structure and operation",
+      "Regulation",
+      "Business models",
+      "Retail proprietary trading firms",
+      "Disruptions (2023–2025)",
+      "Brokerage and regulation",
+      "Criticism",
+      "Demographics and market trends"
+    ],
+    "years": [
+      "== Regulation == Following the 2008 financial crisis, some jurisdictions introduced restrictions on proprietary trading by banks.",
+      "As of December 2025, FPFX Technologies, a software supplier to the industry, estimated that more than 400 companies offered such programs, up from about ten five years earlier.",
+      "In May 2025 a federal judge dismissed the case with prejudice, sanctioned the CFTC over its conduct in the litigation and awarded the defendants legal fees."
+    ],
+    "disputes": [
+      "=== Criticism === Customers have complained about high fees and the low chance of receiving a payout, while the firms say the programs give traders useful experience without risking their own savings."
+    ]
+  },
+  "specialization": {
+    "heads": [
+      "Pre-modern theories",
+      "Plato",
+      "Xenophon",
+      "Augustine of Hippo",
+      "Medieval Muslim scholars",
+      "Modern theories",
+      "William Petty",
+      "Bernard de Mandeville"
+    ],
+    "years": [
+      "=== Bernard de Mandeville === Bernard de Mandeville discussed the matter in the second volume of The Fable of the Bees (1714).",
+      "=== Adam Smith === In the first sentence of An Inquiry into the Nature and Causes of the Wealth of Nations (1776), Adam Smith foresaw the essence of industrialism by determining that division of labour represents a substantial increase in productivity.",
+      "=== Henry David Thoreau and Ralph Waldo Emerson === Henry David Thoreau criticised the division of labour in Walden (1854), on the basis that it removes people from a sense of connectedness with society and with the world at large, including nature."
+    ],
+    "disputes": [
+      "Unlike Plato, Smith famously argued that the difference between a street porter and a philosopher was as much a consequence of the division of labour as its cause.",
+      "=== Karl Marx === Marx argued that increasing specialisation may also lead to workers with poorer overall skills and reduced enthusiasm for their work.",
+      "The worker then becomes \"depressed spiritually and physically to the condition of a machine.\" Additionally, Marx argued that the division of labour creates less-skilled workers."
+    ]
+  },
+  "subordination": {
+    "heads": [
+      "United States law",
+      "Subordination of debt",
+      "Subordination of security priority",
+      "Equitable subordination",
+      "See also"
+    ],
+    "years": [],
+    "disputes": []
+  }
+}

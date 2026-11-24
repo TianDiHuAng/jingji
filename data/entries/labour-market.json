@@ -9,9 +9,20 @@
   "crisis_type": "理论",
   "one_line": "劳动供给与需求相遇的场所与制度安排；工资、就业与失业在此决定。",
   "overview": "（据 Wikipedia「Labour economics」摘要归纳）Labour economics is the subfield of economics concerned with the study of labour as an input to economic production. Broadly, it surveys labor markets and the economic decisions of agents participating in such markets. 具体定义边界与争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 2010,
+      "event": "1990—2010 年间的重要研究进展是动态搜寻—匹配—议价框架的发展（据 Wikipedia Labour economics）"
+    }
+  ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "搜寻匹配视角",
+      "view": "劳动市场并非无摩擦的拍卖市场：岗位与工人需要相互搜寻、匹配并议价，因此摩擦性失业是常态而非异常（据 Wikipedia Labour economics）",
+      "src": "w-en-labour-market"
+    }
+  ],
   "key_data": [],
   "comparison": "与**资本市场**的区别在\"要素\"：劳动市场配置劳动（工资为价格），资本市场配置资本（利率为价格）。两者的调整速度差异是宏观分析的关键：工资调整慢（合约、制度、习惯），资本流动快——这一不对称使冲击主要通过就业数量而非工资来消化，因此衰退中失业上升远快于工资下降（这也是菲利普斯曲线存在的微观基础）。",
   "related": [
@@ -24,5 +35,5 @@
     "w-en-labour-market"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。"
 }

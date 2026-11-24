@@ -11,7 +11,13 @@
   "overview": "（据 Wikipedia「Proprietary trading」摘要归纳）Proprietary trading occurs when a trader trades stocks, bonds, currencies, commodities, their derivatives, or other financial instruments with the firm's own money to make a profit for itself. 具体定义边界与学术争议待核实。",
   "timeline": [],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "与做市的边界",
+      "view": "自营交易以自有资金为自己获利；做市则为客户提供流动性并赚取价差。沃尔克规则禁止前者、允许后者，边界模糊正是执行难点（据 Wikipedia Proprietary trading；具体条文待核实）",
+      "src": "w-en-proprietary-trading"
+    }
+  ],
   "key_data": [],
   "comparison": "与**做市**的区别在\"目的与客户\"：自营交易以公司自有资金为自己获利；做市则是为客户提供流动性、赚取买卖价差（虽有库存风险，但目的是服务客户）。与**代客交易**的区别在风险归属：自营风险归公司，代客风险归客户。这一区分是沃尔克规则的核心：该规则禁止银行从事自营交易（因有存款保险与央行支持作后盾），但允许做市与承销——边界模糊正是执行困难的原因。",
   "related": [
@@ -24,5 +30,5 @@
     "w-en-proprietary-trading"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。"
 }
