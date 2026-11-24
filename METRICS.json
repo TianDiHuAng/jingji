@@ -1222,6 +1222,18 @@
       "check_result": "PASS (592); check_links 606页 0 error（含SVG XML解析）",
       "spot_check": "重复id 0/606；重复style 0；SVG XML解析0错误",
       "note": "维基第23轮不可达。EL-EO修复同页多SVG的重复id与重复属性问题，过程经历三次迭代：①发现：28页有重复 id=\"arrowhead\"——原 fix_svg 给每个含箭头的 SVG 注入同名 marker 定义，而条目页有2个SVG（机制图+L3深度图），导致 id 重复（HTML 要求 id 唯一）。②第一版改为\"单页只注入一次\"，但造成第二个 SVG 依赖跨SVG引用 marker（浏览器兼容风险）。③第二版改为每SVG唯一id + 内联 marker-end 引用，但替换逻辑对已有 style 属性的元素**新增**了一个 style（duplicate attribute），且自闭合标签 <x/> 的处理把 / 放错位置，导致 check_links 的 SVG XML 解析在 581 页失败。④最终版：已有 style 则把 marker-end 合并进去；自闭合标签在 /> 之前插入。结果：重复id 0/606、重复style 0、SVG XML 解析 0 错误、check.py 0 error。教训：生成逻辑的修改必须由检查脚本验证——若无 check_links 的 SVG XML 解析检查，这类\"页面能显示但结构非法\"的问题不会暴露。"
+    },
+    {
+      "round": "续作EP",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 606,
+      "reviewed": 606,
+      "fixed": 1,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "description 606/606 唯一；重复title 0；h1全=1；锚点全部有效",
+      "note": "维基第24轮不可达。EP为全部606页补充 meta description——此前**606页全部缺失**。实施：page() 增加 desc 参数；条目页用 one_line + 时期/地区/危机类型 自动生成（例：雷曼=\"美国全球金融服务公司雷曼兄弟1850年成立，2008年破产前为美国第四大投行、约2.5万员工。 21世纪 · 北美 · 银行\"），9类索引页（首页/全站索引/时间线/来源/矩阵/概念/案例/单元）各有专门摘要，单元页复用 round 39 加入的时期导语。长度上限150字（超出截断加省略号），去除 Markdown 标记。结果：**606页零缺失、606个唯一 description**（无重复），check.py 与 check_links 均 0 error。同时核查通过：重复 title 0 个、h1 数量全部=1、页内锚点目标全部存在。"
     }
   ]
 }
