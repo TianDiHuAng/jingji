@@ -15,7 +15,7 @@
       "display": "2013年6月",
       "event": "银行间市场流动性紧张，隔夜利率飙升（\"钱荒\"）",
       "sources": [
-        "w-en-chinese-banking-liquidity-crisis-2013"
+        "w-en-liquidity"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "display": "2014年",
       "event": "监管加强同业业务约束（127号文等）（细节待核实）",
       "sources": [
-        "w-en-chinese-banking-liquidity-crisis-2013"
+        "w-en-liquidity"
       ]
     }
   ],

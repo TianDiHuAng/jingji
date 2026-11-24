@@ -15,7 +15,7 @@
       "display": "1985年7月30日",
       "event": "台湾加权股价指数636点",
       "sources": [
-        "w-en-taiwan-bubble"
+        "w-zh-taiwan-bubble"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "display": "1990年2月12日",
       "event": "指数见顶12682点",
       "sources": [
-        "w-en-taiwan-bubble"
+        "w-zh-taiwan-bubble"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "display": "1990年10月12日",
       "event": "指数跌至2485点；当年公告地价上涨103.05%",
       "sources": [
-        "w-en-taiwan-bubble"
+        "w-zh-taiwan-bubble"
       ]
     }
   ],
