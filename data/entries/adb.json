@@ -1,0 +1,62 @@
+{
+  "id": "adb",
+  "title": "亚洲开发银行(ADB)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "旨在促进亚洲社会与经济发展的区域开发银行，总部位于菲律宾马尼拉。",
+  "overview": "亚洲开发银行（ADB）是一家旨在促进亚洲社会与经济发展的区域开发银行。该行总部位于菲律宾马尼拉大都会的曼达卢永市。ADB 为成员国提供贷款、赠款与技术援助，是亚洲主要的多边发展融资来源。具体成立时间与规模待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "战后亚洲发展融资需求 → 设立区域开发银行",
+      "sources": [
+        "w-en-adb"
+      ]
+    },
+    {
+      "step": "提供贷款与技术援助 → 支持基础设施与减贫",
+      "sources": [
+        "w-en-adb"
+      ]
+    },
+    {
+      "step": "1997亚洲危机中发挥救助与协调作用",
+      "sources": [
+        "w-en-asian-financial-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "发展融资视角",
+      "view": "区域开发银行填补私人资本不足",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-adb"
+      ]
+    },
+    {
+      "holder": "条件性视角",
+      "view": "贷款条件与政策影响力受讨论",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与世行（全球）相比，ADB 聚焦亚洲；与 AIIB 业务重叠但历史更久。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>亚洲开发银行(ADB)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>战后亚洲发展融资需求 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>提供贷款与技术援助 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1997亚洲危机中发挥救</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-adb",
+    "w-en-asian-financial-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
+}

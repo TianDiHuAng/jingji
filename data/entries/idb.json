@@ -1,0 +1,62 @@
+{
+  "id": "idb",
+  "title": "美洲开发银行(IDB)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "总部位于华盛顿特区的国际发展金融机构，是拉美主要发展融资来源之一。",
+  "overview": "美洲开发银行（IDB）是一家国际发展金融机构，总部位于美国华盛顿特区。它是拉丁美洲与加勒比地区主要的发展融资来源之一。IDB 在拉美债务危机后的结构调整与后续发展融资中扮演重要角色。具体成立时间与规模待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "拉美发展融资需求 → 设立区域开发银行",
+      "sources": [
+        "w-en-idb"
+      ]
+    },
+    {
+      "step": "提供贷款与技术援助",
+      "sources": [
+        "w-en-idb"
+      ]
+    },
+    {
+      "step": "1980年代债务危机中参与调整融资",
+      "sources": [
+        "w-en-latin-american-debt-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "发展融资视角",
+      "view": "区域机构更贴近本地需求",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-idb"
+      ]
+    },
+    {
+      "holder": "条件性视角",
+      "view": "调整贷款的政策条件受讨论",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-imf"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与世行相比更聚焦拉美；与 ADB/AfDB 构成区域开发银行体系。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美洲开发银行(IDB)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>拉美发展融资需求 → 设</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>提供贷款与技术援助</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1980年代债务危机中参</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-idb",
+    "w-en-latin-american-debt-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
+}

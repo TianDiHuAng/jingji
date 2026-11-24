@@ -1,0 +1,62 @@
+{
+  "id": "aiib",
+  "title": "亚洲基础设施投资银行(AIIB)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "多边开发银行与国际金融机构，使命为共同改善亚洲经济与社会成果。",
+  "overview": "亚洲基础设施投资银行（AIIB）是一家多边开发银行与国际金融机构，其公开使命是共同改善亚洲的经济与社会成果。它聚焦基础设施投资，被视为现有多边开发体系之外新设的重要机构。具体成立时间与成员待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "亚洲基础设施融资缺口大 → 新设多边开发银行",
+      "sources": [
+        "w-en-aiib"
+      ]
+    },
+    {
+      "step": "以基础设施投资为主要业务方向",
+      "sources": [
+        "w-en-aiib"
+      ]
+    },
+    {
+      "step": "丰富多边开发金融供给（治理结构存讨论）",
+      "sources": [
+        "w-en-adb"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "补充视角",
+      "view": "增加开发融资供给",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-aiib"
+      ]
+    },
+    {
+      "holder": "治理视角",
+      "view": "与既有机构的治理与标准可比性存在讨论",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-adb"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与亚开行（ADB，1966年设立）业务领域重叠，但成立背景与治理结构不同。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>亚洲基础设施投资银行(AIIB)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>亚洲基础设施融资缺口大 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以基础设施投资为主要业务</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>丰富多边开发金融供给（治</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-aiib",
+    "w-en-adb"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
+}

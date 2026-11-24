@@ -1,0 +1,62 @@
+{
+  "id": "iais",
+  "title": "国际保险监督官协会(IAIS)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "由200多个辖区保险监管者组成的自愿会员组织，覆盖全球保费约97%。",
+  "overview": "国际保险监督官协会（IAIS）是一个自愿会员组织，成员为来自200多个辖区的保险监管者，这些辖区构成全球保险保费的97%。IAIS 制定保险监管核心原则，并自2008年危机后参与全球系统重要性保险机构（G-SII）的识别与监管。具体职能待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "保险业跨境经营 → 需监管协调",
+      "sources": [
+        "w-en-iais"
+      ]
+    },
+    {
+      "step": "IAIS 制定核心原则与共同框架",
+      "sources": [
+        "w-en-iais"
+      ]
+    },
+    {
+      "step": "与 BIS、IOSCO 并列构成三大金融标准制定机构",
+      "sources": [
+        "w-en-fsb"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "标准制定视角",
+      "view": "以共同原则推动监管趋同",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-iais"
+      ]
+    },
+    {
+      "holder": "自愿性视角",
+      "view": "无强制力，落实依赖成员意愿",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-iosco"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与巴塞尔委员会（银行）、IOSCO（证券）并列为三大金融业标准制定机构。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国际保险监督官协会(IAIS)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>保险业跨境经营 → 需监</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>IAIS 制定核心原则与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与 BIS、IOSCO </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-iais",
+    "w-en-fsb"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
+}

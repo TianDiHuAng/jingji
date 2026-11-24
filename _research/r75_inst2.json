@@ -1,0 +1,32 @@
+{
+  "iais": {
+    "title": "International Association of Insurance Supervisors",
+    "extract": "The International Association of Insurance Supervisors (IAIS) is a voluntary membership organization of insurance supervisors from more than 200 jurisdictions, constituting 97% of the world's insurance premiums. It is the international standard-setting body for the insurance sector.",
+    "slug": "International_Association_of_Insurance_Supervisors"
+  },
+  "aiib": {
+    "title": "Asian Infrastructure Investment Bank",
+    "extract": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank and international financial institution whose stated mission is to collectively improve economic and social outcomes in Asia. It is the world's second largest multi-lateral development institution. Headquartered in Beijing, China, the bank currently has 111 members, including 6 prospective members from around the world. The breakdown of the 111 members by continents are as follows: 42 in Asia, 26 in Europe, 22 in Africa, 10 in Oceania, 9 in South America, and 2 in North America. The bank started operation after the agreement entered into force on 25 December 2015, after ratifications were received from 10 member states holding a total number of 50% of the initial subscriptions of the Authorized Capital Stock.",
+    "slug": "Asian_Infrastructure_Investment_Bank"
+  },
+  "adb": {
+    "title": "Asian Development Bank",
+    "extract": "The Asian Development Bank (ADB) is a regional development bank to promote social and economic development in Asia. The bank is headquartered in the city of Mandaluyong, in Metro Manila, Philippines, and maintains 31 field offices around the world.",
+    "slug": "Asian_Development_Bank"
+  },
+  "ebrd": {
+    "title": "European Bank for Reconstruction and Development",
+    "extract": "The European Bank for Reconstruction and Development, is an international financial institution founded in 1991 in Paris. As a multilateral developmental investment bank, the EBRD uses investment as a tool to build market economies.",
+    "slug": "European_Bank_for_Reconstruction_and_Development"
+  },
+  "idb": {
+    "title": "Inter-American Development Bank",
+    "extract": "The Inter-American Development Bank is an international development finance institution headquartered in Washington, D.C., United States. It serves as one of the leading sources of development financing for the countries of Latin America and the Caribbean. Established in 1959, the IDB supports Latin American and Caribbean economic, social, and institutional development and regional integration by lending to governments and sub-national agencies, developing new financial tools, creating enabling conditions for private-sector-led growth, convening and aligning countries around common interests, and bridging the region with the rest of the world.",
+    "slug": "Inter-American_Development_Bank"
+  },
+  "afdb": {
+    "title": "African Development Bank",
+    "extract": "The African Development Bank Group is a multilateral development finance institution, headquartered in Abidjan, Ivory Coast, since September 2014. The AfDB is a financial provider to African governments and private companies investing in the regional member countries (RMC).",
+    "slug": "African_Development_Bank"
+  }
+}
