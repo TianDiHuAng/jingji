@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "丹麦木材市场降幅（1806→1808）",
+      "value": 99,
+      "unit": "%",
+      "year": 1808,
+      "comparable_price": false,
+      "note": "原文：reported a drop of 99% from 1806 to 1808；单一来源待核实。",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "战争财政视角",
@@ -82,5 +94,5 @@
     "dutch-collapse-1780"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FM】基于维基全文补写policy_response。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FM】基于维基全文补写policy_response。 【续作FP】补充 key_data（取自维基原文）。"
 }

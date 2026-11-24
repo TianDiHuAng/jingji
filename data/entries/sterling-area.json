@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "以英镑结算的全球贸易占比",
+      "value": 60,
+      "unit": "%以上",
+      "year": 1930,
+      "comparable_price": false,
+      "note": "原文：More than 60 percent of global trade was financed, invoiced, and settled in sterling；单一来源待核实。",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币集团视角",
@@ -73,5 +85,5 @@
     "reserve-currency"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作FP】补充 key_data（取自维基原文）。"
 }

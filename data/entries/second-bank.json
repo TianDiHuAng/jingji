@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "私人投资者持有第二合众国银行资本比例",
+      "value": 80,
+      "unit": "%",
+      "year": 1816,
+      "comparable_price": false,
+      "note": "原文：Four thousand private investors held 80 percent of the bank's capital；单一来源待核实。",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "中央银行必要性视角",
@@ -90,5 +102,5 @@
     "panic-1819"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作FG】基于维基全文补写policy_response。"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作FG】基于维基全文补写policy_response。 【续作FP】补充 key_data（取自维基原文）。"
 }

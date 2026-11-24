@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美国占全球产出份额（战后→1971）",
+      "value": 27,
+      "unit": "%（自35%降至）",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：share of global economic output dropped from 35% to 27%；单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "体系演化视角",
@@ -91,5 +103,5 @@
     "smithsonian-agreement"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作FE】基于维基全文补写policy_response。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作FE】基于维基全文补写policy_response。 【续作FP】补充 key_data（取自维基原文）。"
 }

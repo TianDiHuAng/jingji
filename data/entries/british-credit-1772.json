@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "阿姆斯特丹交易所银行营业额（1773年）",
+      "value": 30,
+      "unit": "百万荷兰盾",
+      "year": 1773,
+      "comparable_price": false,
+      "note": "原文：turnover with the Amsterdam Exchange Bank plummeted from more than 50 million guilders in 1772 to 30 million in 1773；单一来源待核实。",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "信贷扩张/投机视角",
@@ -80,5 +92,5 @@
     "dutch-collapse-1780"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FP】补充 key_data（取自维基原文）。"
 }

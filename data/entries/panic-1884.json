@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "从美国流出的黄金（19世纪末）",
+      "value": 150,
+      "unit": "百万美元以上",
+      "year": 1884,
+      "comparable_price": false,
+      "note": "原文：more than $150 million in gold was exported from the United States；单一来源待核实。",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "信贷紧缩视角",
@@ -71,5 +83,5 @@
     "panic-1893"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作FP】补充 key_data（取自维基原文）。"
 }

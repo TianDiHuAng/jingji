@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "DeFi 抵押品规模（2020年9月）",
+      "value": 9,
+      "unit": "十亿美元",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：DeFi collateral levels had reached $9 billion；单一来源待核实。",
+      "sources": [
+        "w-en-defi"
+      ]
+    },
+    {
+      "label": "加密资产总估值（监管讨论时）",
+      "value": 2.5,
+      "unit": "万亿美元",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：crypto-assets already valued at $2.5 trillion；单一来源待核实。",
+      "sources": [
+        "w-en-defi"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "效率/普惠视角",
@@ -90,5 +113,5 @@
     "terra-luna-2022"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作FF】基于维基全文补写policy_response。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作FF】基于维基全文补写policy_response。 【续作FP】补充 key_data（取自维基原文）。"
 }

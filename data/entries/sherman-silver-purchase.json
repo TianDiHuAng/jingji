@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "政府每月须购银量（1890年法）",
+      "value": 4.5,
+      "unit": "百万盎司",
+      "year": 1890,
+      "comparable_price": false,
+      "note": "原文：the US government was now required to purchase 4.5 million ounces of silver bullion monthly；单一来源待核实。",
+      "sources": [
+        "w-en-sherman-silver-purchase"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币扩张视角",
@@ -72,5 +84,5 @@
     "silver-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作FP】补充 key_data（取自维基原文）。"
 }

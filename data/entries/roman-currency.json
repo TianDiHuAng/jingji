@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "安东尼安银币含银量（3世纪后半）",
+      "value": 2,
+      "unit": "%",
+      "year": 260,
+      "comparable_price": false,
+      "note": "原文：the silver content of the antonianus fell to only 2%；单一来源待核实。",
+      "sources": [
+        "w-en-debasement"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "金属主义视角",
@@ -81,5 +93,5 @@
     "inflation"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】 【续作FP】补充 key_data（取自维基原文）。"
 }

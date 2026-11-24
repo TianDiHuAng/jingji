@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "被英国俘获的荷兰商船货物价值",
+      "value": 15,
+      "unit": "百万荷兰盾",
+      "year": 1780,
+      "comparable_price": false,
+      "note": "原文：more than 200 Dutch merchantmen, with cargo to the amount of 15 million guilders, had been captured；单一来源待核实。",
+      "sources": [
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "金融发展/储蓄中介视角",
@@ -81,5 +93,5 @@
     "danish-bankruptcy-1813"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FP】补充 key_data（取自维基原文）。"
 }

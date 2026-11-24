@@ -55,7 +55,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "第一合众国银行政府认购股本",
+      "value": 2,
+      "unit": "百万美元",
+      "year": 1791,
+      "comparable_price": false,
+      "note": "原文：government did not have $2 million, proposed that the government purchase the stock；单一来源待核实。",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    },
+    {
+      "label": "第一合众国银行公众认购股本",
+      "value": 8,
+      "unit": "百万美元",
+      "year": 1791,
+      "comparable_price": false,
+      "note": "原文：The remaining $8 million of stock would be available to the public；单一来源待核实。",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "汉密尔顿视角",
@@ -87,5 +110,5 @@
     "second-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。"
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。 【续作FP】补充 key_data（取自维基原文）。"
 }

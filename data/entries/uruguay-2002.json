@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美元化债务占GDP比重（2002）",
+      "value": 60,
+      "unit": "%以上",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：Uruguay's mostly dollar-dominated debt added up to more than 60 percent on the GDP in 2002；单一来源待核实。",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
+    },
+    {
+      "label": "银行存款流失（截至2002年3月）",
+      "value": 12,
+      "unit": "%",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：Uruguay lost approximately 12 percent of its bank deposits by March 2002；单一来源待核实。",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "美元化/外部脆弱视角",
@@ -89,5 +112,5 @@
     "south-america-2002"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FG】基于维基全文补写policy_response。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FG】基于维基全文补写policy_response。 【续作FP】补充 key_data（取自维基原文）。"
 }
