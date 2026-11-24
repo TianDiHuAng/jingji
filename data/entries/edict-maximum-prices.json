@@ -39,7 +39,63 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "银币(argenteus)折合第纳里",
+      "value": 100,
+      "unit": "第纳里(denarii)",
+      "note": "原文：The argenteus seems to have been set at 100 denarii；单一来源待核实。",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ],
+      "year": 301,
+      "comparable_price": false
+    },
+    {
+      "label": "银洗铜币(nummus)折合第纳里",
+      "value": 25,
+      "unit": "第纳里(denarii)",
+      "note": "原文：the silver-washed nummus at 25 denarii；单一来源待核实。",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ],
+      "year": 301,
+      "comparable_price": false
+    },
+    {
+      "label": "青铜币(radiate)折合第纳里",
+      "value": 4,
+      "unit": "第纳里(denarii)",
+      "note": "原文：the bronze radiate at 4 denarii；单一来源待核实。",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ],
+      "year": 301,
+      "comparable_price": false
+    },
+    {
+      "label": "金币(aureus)重估后折合第纳里(下限)",
+      "value": 1200,
+      "unit": "第纳里(denarii，至少)",
+      "note": "原文：The gold aureus was revalued at at least 1,200 denarii；单一来源待核实。",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ],
+      "year": 301,
+      "comparable_price": false
+    },
+    {
+      "label": "限价最高的商品：一磅紫染丝",
+      "value": 150000,
+      "unit": "第纳里(denarii)",
+      "note": "原文：The highest limit was on one pound of purple-dyed silk, which was set at 150,000 denarii；单一来源待核实。",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ],
+      "year": 301,
+      "comparable_price": false
+    }
+  ],
   "schools": [
     {
       "holder": "行政限价视角",
@@ -84,5 +140,5 @@
     "price-revolution"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】 【续作DS】policy_response 人工核验撰写。 【续作LR】据来源全文扩写 112 → 580 字。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】 【续作DS】policy_response 人工核验撰写。 【续作LR】据来源全文扩写 112 → 580 字。 【续作OX｜round159】据 w-en-edict-maximum-prices 缓存补 5 条 key_data（面额折算与限价）。"
 }

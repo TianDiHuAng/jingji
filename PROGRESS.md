@@ -2351,6 +2351,13 @@
 - **固化 R27**：核心/重要案例须有 causal_chain，否则 warning。自测 31 → **32 项**。
 - 现状：**641 条**、来源 **742**、页面 **655**；案例 causal_chain **209/209**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
 
+- **维基百科第 139 轮可用（round 159）**。**为 1 条重要案例补 5 条 key_data，并修复 check_docs 的 key_data 计数盲区**。
+- **审计无 key_data 的 26 条案例**：多数为补充/无量化或缓存缺失（核心 `south-sea-bubble-1720` 亦无 key_data 且无缓存，受网络所限）。
+- **为 `edict-maximum-prices`（重要，罗马价格敕令 301）补 5 条 key_data**（据 `w-en-edict-maximum-prices` 缓存原文）：argenteus=100 第纳里、nummus=25、radiate=4、aureus≥1200、紫染丝一磅限价 150000 第纳里。key_data 总 445 → **450**。
+- **踩坑即修**：新增 key_data 先报 R9（缺 year/comparable_price），已补 year=301、comparable_price=False。
+- **发现 check_docs 盲区**：REPORT 的「key_data 445 条」**未加反引号**，不匹配 check_docs 的 `` `key_data` `` 判据 → 陈旧不被发现。已把 REPORT 改为「`key_data` 450 条」（带反引号），使 key_data 计数纳入核对。
+- 现状：**641 条**、来源 **742**、页面 **655**；key_data **450** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

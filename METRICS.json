@@ -2590,6 +2590,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
       "spot_check": "补 4 条 causal_chain（205→209 全覆盖）+ R27，自测 32；单元页计数核对全一致",
       "note": "维基第138轮可用。OW：区块覆盖度审计，补齐 4 条案例的 causal_chain；加 R27。\n①**网络**：仍 URLError 不可用。\n②**单元页核对**：unit-u1..u6 列出的条目数与数据完全一致（10/37/34/50/78/432），无误。\n③**覆盖度审计**：案例 209 条 overview/one_line/timeline/comparison/related 全覆盖；key_data 183、policy 156、causal_chain 205、deep_svg 24。\n④**补齐 4 条 causal_chain**（据各自正文机制与已引来源，不引入新事实）：bank-holiday、recession-1960-1961、recession-1969-1970、taper-tantrum——**案例 causal_chain 覆盖 205 → 209（全覆盖）**。\n⑤**固化 R27**：核心/重要案例须有 causal_chain，否则 warning。自测 31 → **32 项**。\n⑥现状：641 条、来源 742、页面 655；案例 causal_chain 209/209；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
+    },
+    {
+      "round": "续作OX",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 26,
+      "fixed": 2,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
+      "spot_check": "edict-maximum-prices 补 5 条 key_data（445→450）；修 check_docs 的 key_data 计数盲区",
+      "note": "维基第139轮可用。OX：为 1 条重要案例补 5 条 key_data，并发现并修复 check_docs 的 key_data 计数盲区。\n①**审计无 key_data 的 26 条案例**：多数为补充/无量化或缓存缺失（核心 `south-sea-bubble-1720` 亦无 key_data 且无缓存，受网络所限）。\n②**为 `edict-maximum-prices`（重要，罗马价格敕令301）补 5 条 key_data**（据 w-en-edict-maximum-prices 缓存原文）：argenteus=100第纳里、nummus=25、radiate=4、aureus≥1200、紫染丝一磅限价150000第纳里。key_data 总 445 → **450**。\n③**踩坑即修**：新增 key_data 时先报 R9（缺 year/comparable_price），已补 year=301、comparable_price=False。\n④**发现 check_docs 盲区**：REPORT 的 \"key_data 445 条\" **未加反引号**，不匹配 check_docs 的 `` `key_data` `` 判据 → 陈旧不被发现。已把 REPORT 改为 \"`key_data` 450 条\"（带反引号），使 key_data 计数纳入核对；同步 HEALTH。\n⑤现状：641 条、来源 742、页面 655；key_data 450 行（案例有数据 184/209）；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
     }
   ]
 }
