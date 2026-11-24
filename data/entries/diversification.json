@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**对冲**(hedging) 的区别在\"是否消除风险\"：分散化通过持有不相关资产降低**非系统性风险**（个股特有问题），但无法消除**系统性风险**（市场整体涨跌）；对冲则是主动建立反向头寸以抵消特定风险（如用股指期货对冲市场敞口）。危机中的教训是：平时\"不相关\"的资产在压力下会**同时下跌**（相关性上升），分散化的保护大幅削弱——这正是2008年\"所有资产一起跌\"的原因。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>分散化：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>配置于多类资产 → 单一</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>非系统性风险被抵消 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机中相关性趋同 → 分</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-diversification",
@@ -62,5 +62,5 @@
     "capm"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作DY】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**刺激**(stimulus) 是相反取向，但争论的核心不是\"要不要平衡预算\"，而是**时机与乘数**：紧缩派认为高债务推高利率、损害信心，及早调整可恢复增长（\"扩张性紧缩\"假说）；刺激派认为衰退期乘数大、紧缩自我挫败（削减支出→收入下降→债务率反而上升）。希腊2010—2015年是这一争论的实证焦点：紧缩确实压低了赤字，但GDP收缩使债务/GDP由127%升至179%。这一结果支持\"衰退期紧缩代价高\"的判断，但也不证明紧缩在任何时点都错。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>紧缩（财政紧缩）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府削减支出或增税 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>总需求收缩 → 短期增长</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>债务/GDP 比率的走向</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-austerity",
@@ -63,5 +63,5 @@
     "stabilization-program"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作DY】补写概念辨析。"
 }

@@ -62,7 +62,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**预算平衡**(budget-balance) 的区别在\"约束对象\"：预算平衡是**流量**约束（每年收支相抵）；债务上限是**存量**约束（未偿债务总额不得超过法定数额）。债务上限的特殊性在于它是**立法程序**而非经济规则：触及上限后政府不能新增借款，只能削减支出或技术性腾挪，甚至面临技术性违约（美国多次因此引发市场波动与评级下调）。这在经济学上近乎自我施加的危机机制。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国债务上限：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>联邦支出与税收形成赤字 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>借款总额触及法定上限 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>僵局导致技术性违约风险与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-debt-ceiling",
@@ -75,5 +75,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作DY】补写概念辨析。"
 }

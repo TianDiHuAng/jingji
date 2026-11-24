@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**银行挤兑**(bank-run) 的区别在结果与性质：挤兑是**行为**（存款人集中提款），可能被流动性支持化解而不导致倒闭；银行倒闭是**结果**（机构被关闭、接管或清算），成因可能是挤兑、也可能是资产质量恶化（资不抵债）。这一区分决定处置方式：纯粹的流动性问题用最后贷款人（借它钱）；偿付能力问题用处置框架（接管、bail-in、出售）。混淆二者是危机应对的常见错误——给资不抵债的机构提供流动性只会扩大损失。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行倒闭：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产损失/挤兑 → 银行偿付</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>监管接管或清算 → 银行倒闭</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心传染 → 其他银行承压</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-bank-failure",
@@ -62,5 +62,5 @@
     "lender-of-last-resort"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作DY】补写概念辨析。"
 }

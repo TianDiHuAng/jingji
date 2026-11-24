@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**信用货币**(credit-money) 的区别是\"是否有内在价值\"：商品货币本身有价值（金银、盐、牛），其购买力受供给约束、不受政治直接操纵；信用货币（法币、银行存款）价值来自发行者信用与法律强制。历史演化是从商品货币走向信用货币，原因是**弹性**：商品货币在危机中无法扩张（金本位下的通缩），而信用货币可被央行创造（最后贷款人）。代价是通胀风险与对发行者纪律的依赖。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>商品货币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品本身具有价值 → 可</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>供给受开采/生产约束 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>产量冲击（如美洲白银）→</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-commodity-money",
@@ -63,5 +63,5 @@
     "history-of-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作DY】补写概念辨析。"
 }

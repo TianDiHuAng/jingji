@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**经济思想史**的区别在\"研究什么\"：经济史研究**过去的经济事实**（增长、危机、制度变迁），用经济学方法解释历史；经济思想史研究**经济学说本身的演变**（斯密、马克思、凯恩斯的思想脉络）。两者常结合：例如\"金本位为何导致大萧条\"既需要史实（各国退出时点），也需要思想史（当时决策者的理论框架）。本站的组织方式是经济史（按时期与危机类型），而非思想史。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经济史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>历史资料与经济理论结合 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>统计与计量方法 → 量化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为政策与理论提供长期视角</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-economic-history",
@@ -63,5 +63,5 @@
     "industrial-revolution"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作DY】补写概念辨析。"
 }

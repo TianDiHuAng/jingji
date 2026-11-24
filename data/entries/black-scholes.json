@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与 **CAPM** 的区别是\"定价对象\"：CAPM 给**资产**定价（预期收益与系统性风险的关系）；Black-Scholes 给**期权**定价（以标的资产价格、波动率、时间与利率推算期权价值）。两者共同的深层假设是\"无套利\"与\"可连续对冲\"。危机中的教训一致：两者都假设波动率稳定、流动性充足，而在极端情形下（1987年、2008年）波动率跳升与对冲失效使模型价格严重偏离实际——这不是数学错误，而是**模型假设与现实的结构性偏离**。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>布莱克-斯科尔斯模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>假设标的资产价格服从几何</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通过复制组合与无套利 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为衍生品定价与对冲提供基</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-black-scholes",
@@ -63,5 +63,5 @@
     "volatility"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作DY】补写概念辨析。"
 }

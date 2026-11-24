@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**债务积压**(debt-overhang) 的区别在\"是否已违约\"：债务积压是**事前**状态——负担过重使债务人放弃有利可图的投资（收益归债权人），经济陷入低投资僵局但尚未违约；债务危机是**事后**事件——已出现偿付困难、违约或重组。政策含义不同：积压可通过债务减免（haircut）恢复投资激励；危机则需要重组程序与外部融资。这一区分常被忽视，导致在\"积压\"阶段就采用\"危机\"方案（过度紧缩）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债务危机：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>举债扩张+偿付假设 → 债务</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利率上升/收入下降 → 偿付</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>违约或去杠杆 → 收缩与传染</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-debt-crisis",
@@ -63,5 +63,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。 【续作DY】补写概念辨析。"
 }

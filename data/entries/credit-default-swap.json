@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**保险**的区别在\"可保利益\"：保险要求投保人对标的拥有可保利益（不能给邻居的房子投保）；CDS 允许\"裸买\"——买入方不必持有标的债券，即可对他人违约下注。这一差别带来两个后果：①CDS 名义规模可远超标的债券存量（AIG 的 CDS 敞口即如此）；②它把信用风险从\"分散\"变为\"集中\"——风险最终聚到少数卖方（AIG、单一险种保险公司）。2008年AIG的救助核心即在于此。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用违约互换(CDS)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债权人购买CDS → 将违约</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>支付保费获得违约保护</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>违约时卖方赔付；集中持仓放大</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准经济学口径。</text></svg>",
   "sources": [
     "w-en-credit-default-swap",
@@ -62,5 +62,5 @@
     "derivative"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作DY】补写概念辨析。"
 }

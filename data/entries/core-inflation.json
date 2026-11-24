@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**整体通胀**(headline) 的差别是\"是否剔除波动项\"：核心通胀剔除食品与能源（价格波动大、易受供给冲击），旨在反映**趋势性**的价格压力；整体通胀则包含一切。这一区分对货币政策关键：若油价暴涨推高整体通胀而核心稳定，央行通常\"看穿\"(look through) 而不加息，以免对供给冲击过度反应、压制需求。但若核心也上行，则说明通胀已扩散，须收紧。代价是：长期忽视整体通胀可能损害央行公信力。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>核心通货膨胀：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>整体价格篮子包含短期剧烈</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>剔除这些项目 → 得到反</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>作为潜在长期通胀的指标与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-core-inflation",
@@ -63,5 +63,5 @@
     "ppi"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DY】补写概念辨析。"
 }

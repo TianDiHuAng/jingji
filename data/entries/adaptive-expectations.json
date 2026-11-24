@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**理性预期**(rational-expectations) 的关键区别是\"信息使用效率\"：适应性预期只用**过去**的通胀数据外推（\"去年5%，今年大概也5%\"），系统性地落后于现实；理性预期则假设经济主体会**用所有可得信息**（含政策规则）形成预期。这一差别决定政策有效性：在适应性预期下，通胀与失业存在短期权衡（可被系统性利用）；在理性预期下，被预期的政策无效（\"政策无效性命题\"）。现实介于两者之间：预期确有惯性，但也会对政策可信度作出反应。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>适应性预期：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>过去的结果 → 作为形成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期调整滞后 → 变量呈</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（对比）理性预期则利用全</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-adaptive-expectations",
@@ -63,5 +63,5 @@
     "rational-expectations"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作DY】补写概念辨析。"
 }

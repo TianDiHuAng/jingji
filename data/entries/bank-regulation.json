@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**审慎监管**(prudential-regulation) 的关系是\"整体与核心\"：银行监管涵盖市场准入、业务范围、消费者保护、反洗钱等广泛内容；审慎监管特指**以机构稳健性为目标**的那部分（资本、流动性、杠杆、风险集中度）。2008年后的转向是\"**宏观审慎**\"（macroprudential）的引入——从\"保证每家机构稳健\"扩展到\"保证体系整体稳健\"，关注相互关联与顺周期性。这一层次差别解释了为何2008年前\"每家银行都合规\"却仍爆发系统性危机。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行监管：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>监管当局设定资本、流动性</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>监督检查与信息披露 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>降低银行失败与系统性风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bank-regulation",
@@ -65,5 +65,5 @@
     "macroprudential"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。"
 }

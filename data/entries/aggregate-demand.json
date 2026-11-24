@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**总供给**(aggregate-supply) 是一枚硬币的两面：总需求是各价格水平下**需求总量**（消费＋投资＋政府支出＋净出口）；总供给是各价格水平下**产出总量**。两者的交点决定价格与产出。政策含义截然不同：需求冲击（信心崩塌、财政紧缩）使AD移动、造成衰退与失业；供给冲击（油价暴涨）使AS移动、造成\"滞胀\"（通胀与失业同时上升）——1970年代正是后者的典型，也是凯恩斯主义遭遇危机的时刻（需求管理无法同时解决通胀与失业）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>总需求：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>家庭消费、投资、政府支出</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>在各价格水平下确定需求量</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与总供给共同决定产出与价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-aggregate-demand",
@@ -63,5 +63,5 @@
     "output-gap"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DY】补写概念辨析。"
 }

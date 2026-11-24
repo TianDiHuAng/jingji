@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币局**(currency-board) 的区别是\"主权让渡程度\"：货币局是**单方面**把本币钉住某外币（保留本币符号、可退出，代价剧烈）；货币联盟是**多国共享**同一货币并设立共同央行（如欧元区），退出成本极高且需重新建立货币制度。欧元区的独特问题在于\"**统一货币＋分散财政**\"：没有跨国财政转移机制，成员国在不对称冲击下只能靠内部贬值调整。这就是2010—2012年欧债危机的结构性根源（最优货币区理论早已预警）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币联盟：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>多国协议共享同一货币 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>成员国放弃独立货币政策与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>面对非对称冲击时缺乏调节</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-currency-union",
@@ -62,5 +62,5 @@
     "optimum-currency-area"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作DY】补写概念辨析。"
 }

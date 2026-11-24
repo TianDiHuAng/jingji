@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**市场风险**(market-risk) 的区别在\"违约与价格\"：信用风险是**交易对手不履约**的风险（违约、评级下调、利差扩大）；市场风险是**价格波动**的风险（利率、汇率、股价）。两者在危机中相互强化：市场风险（抵押品价格下跌）触发追加保证金，进而暴露信用风险（对手方违约），而信用风险实现又加剧市场抛售。第三类是**操作风险**（内部欺诈、系统故障），巴林银行1995年倒闭即属此类。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借款人偿付能力或意愿不足</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款方遭受利息与本金损失</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以更高利率与抵押要求定价</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-credit-risk",
@@ -61,5 +61,5 @@
     "credit-rationing"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作DY】补写概念辨析。"
 }

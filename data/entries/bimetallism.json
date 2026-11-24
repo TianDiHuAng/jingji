@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**金本位**(gold-standard) 的区别是\"货币基础的宽窄\"：复本位制同时以金银两种金属定值，理论上货币供给更有弹性、物价更稳定；金本位只以黄金为锚，货币供给受黄金产量约束。19世纪后期的\"金银之争\"本质是**通货紧缩 vs 通货扩张**之争：白银派（农民、债务人）要求复本位以扩张货币、缓解债务负担；金本位派（债权人、金融中心）要求坚持黄金以维持币值。美国1890年谢尔曼购银法与1896年布赖恩竞选正是这场冲突的高潮。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>复本位制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>法定金银固定比价 → 形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场比价偏离法定比价 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>转向金本位 → 白银需求</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bimetallism",
@@ -63,5 +63,5 @@
     "sherman-silver-purchase"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作DY】补写概念辨析。"
 }

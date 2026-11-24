@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**普通债券**的区别是\"股债双重属性\"：可转债在约定条件下可转换为发行公司的股票，因此其价值＝纯债价值＋转股期权价值。对发行人，它降低票息成本（投资者为期权付费）；对投资者，它\"下有债底、上有股性\"。危机中的表现很有意思：股价大跌时可转债跌向债底（跌幅受限），但若发行人信用恶化，\"债底\"本身也会塌陷——这时可转债的表现更像股票而非债券，即所谓\"债底失效\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>可转换债券：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发行人发行债券 → 约定</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>持有人可择机转为股票或等</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>兼具债性与股性，降低发行</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-convertible-bond",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DY】补写概念辨析。"
 }

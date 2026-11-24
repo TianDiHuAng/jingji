@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**囚徒困境**的区别在均衡数量与性质：囚徒困境有唯一占优策略均衡（都背叛），且该均衡是**劣**的；协调博弈（如银行挤兑模型）有**多个**均衡（都不挤兑／都挤兑），且都是纳什均衡，区别在于预期。这一区别对政策极其重要：囚徒困境需要改变激励（惩罚/奖励）；协调博弈只需要**改变预期**（存款保险、最后贷款人承诺即可\"挑选好均衡\"）。戴蒙德-迪布维格模型的贡献正在于此。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>协调博弈与羊群模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>经济主体的选择相互依赖 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期与协调失灵 → 挤兑</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策/制度可促成好均衡</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -66,5 +66,5 @@
     "self-fulfilling"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-coordination-game，具体适用待核实。 【续作】升L2。 【续作CA】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-coordination-game，具体适用待核实。 【续作】升L2。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DY】补写概念辨析。"
 }

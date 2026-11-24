@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资源诅咒**(resource-curse) 的关系是\"机制与现象\"：荷兰病是**具体的经济机制**——资源出口带来外汇流入→本币升值→制造业与可贸易部门竞争力下降（\"去工业化\"）；资源诅咒是**更广的经验规律**——资源丰裕国家增长更慢、制度更差。荷兰病是资源诅咒的**一条传导渠道**（经济渠道），而资源诅咒还包括政治渠道（寻租、冲突、制度弱化）。对策也不同：荷兰病靠财政规则与主权基金（如挪威）；资源诅咒需制度建设的整体改善。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>荷兰病：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源部门繁荣（如发现大油</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>本币升值、国内成本上升 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>制造业等萎缩 → 结构性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-dutch-disease",
@@ -62,5 +62,5 @@
     "resource-curse"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。"
 }

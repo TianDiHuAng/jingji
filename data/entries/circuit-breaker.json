@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**最后贷款人**代表两类完全不同的稳定工具：熔断是**事前、行政性**的价格干预（在跌幅达阈值时暂停交易，打断顺周期抛售）；最后贷款人是**事中、市场化**的流动性供给（以抵押品放贷，让有偿付能力的机构活下去）。前者作用于**价格发现机制**，副作用是可能集中抛压、损害流动性；后者作用于**流动性供给**，副作用是道德风险。危机中两者常被同时使用（1987年、2020年3月）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>熔断机制（交易限制）：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>程序化抛售与流动性不足 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以价格限制或暂停交易打断</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>副作用：磁吸效应与价格发</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-trading-curb",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作DY】补写概念辨析。"
 }

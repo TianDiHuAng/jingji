@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币局**(currency-board) 的区别在\"是否保留本币\"：美元化直接放弃本币、以外币（通常是美元）作为法定货币；货币局保留本币符号但以外币储备支撑。美元化的收益是彻底消除汇率风险与货币危机可能（不再有本币可攻击），代价是**完全丧失货币政策与最后贷款人能力**（央行无法创造美元）。这一代价在危机中尤为严重：银行体系出问题时，没有本币央行可以注资。厄瓜多尔(2000)、萨尔瓦多(2001) 是主要案例。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美元化（货币替代）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本币信心崩溃/高通胀 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>外币承担计价、交易与储藏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策自主性下降、铸币</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-dollarization",
@@ -62,5 +62,5 @@
     "legal-tender"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作DY】补写概念辨析。"
 }

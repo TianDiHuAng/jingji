@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**银行挤兑**是\"模型与现象\"的关系：戴蒙德-迪布维格（1983）用多重均衡模型刻画了挤兑的**自我实现**逻辑：\"都不挤兑\"与\"都挤兑\"都是均衡，挤兑可由与基本面无关的事件触发（太阳黑子）。其政策含义是：存款保险、最后贷款人与流动性监管能通过**消除挤兑动机**来\"挑选好均衡\"。对该模型的批评主要在于：它假设资产收益外生、忽略了银行资产端的真实风险，而现实中很多危机是\"资产真的坏了\"而非\"纯粹协调失败\"。两种解释对应不同的处置方式（流动性支持 vs 资本重组）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>戴蒙德-迪布维格模型：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行以流动负债为长期非流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>存款人担忧他人提款 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>自我实现的挤兑 → 银行</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-diamond-dybvig",
@@ -63,5 +63,5 @@
     "maturity-transformation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作DY】补写概念辨析。"
 }
