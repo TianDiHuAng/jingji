@@ -1885,6 +1885,31 @@
 - **round 94 的接线检查再次生效**，批量修复并对称化 **35 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 530 字**；**ERRORS 0**、WARNINGS 188（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 99 轮可用（round 118）**。**扩写 27 条（WARNINGS 188 → 161），并发现修复一个渲染 bug**。
+- **第一批 14 条**：crypto-bubble／durable-goods／export-oriented／invisible-hand／macroprudential／microfinance／otc／protectionism／ricardian-equivalence／swap／balance-sheet-recession／financial-accelerator／financial-deepening／government-debt。
+- **第二批 13 条**：liquidity-trap／mmt／money-creation／off-balance-sheet／rational-expectations／spot-contract／sticky-prices／stock-market-crash／stock／supply-side／convexity／currency-internationalization／debt-deflation。
+- **方法改进**：上轮连续 4 处字符串未闭合，本轮改用**三引号字符串**写整段，两批**语法均一次通过**。
+- **但三引号引入了新的 bug**：
+
+  | 环节 | 问题 |
+  |---|---|
+  | 三引号 | 保留了段内换行（`\n`） |
+  | `mdesc()` 粗体正则 | `\*\*(.+?)\*\*` **默认不跨行匹配** |
+  | 结果 | 跨行的 `**...**` 无法渲染，页面残留 `**` |
+
+  **`check_quality` 立即抓到 13 项「未渲染粗体」**——这正是该检查存在的意义。
+
+- **修复两处**：
+  - **数据层**：把 overview／comparison／one_line／timeline／schools／policy_response 中的换行规范化（**27 条**），中文段落本不需要硬换行
+  - **渲染层**：给 `mdesc` 的粗体正则加 `re.S` 作为防御
+  - 修复后 `check_quality` 归零
+- **本轮的元教训**：
+
+  > **修一个问题的方法，可能就是下个问题的来源**——为避免拼接遗漏引号而改用三引号，却引进了换行导致渲染失败。
+
+  幸运的是检查体系接住了它——**检查的价值不在于预防所有错误，而在于让错误在发布前暴露**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 570 字**；含换行的 overview **0**；**ERRORS 0**、WARNINGS 161（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

@@ -63,6 +63,7 @@
     "forward-contract",
     "futures",
     "option",
+    "otc",
     "put-option",
     "risk-management",
     "speculation"

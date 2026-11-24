@@ -182,7 +182,7 @@ def esc(s): return html.escape(str(s or ''))
 def mdesc(s):
     """转义后把 Markdown 粗体 **x** 转为 <strong>（用于正文类长文本）。"""
     t = html.escape(str(s or ''))
-    return re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
+    return re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t, flags=re.S)
 
 _SVG_SEQ = {'n': 0}   # 单页内 SVG 计数，用于生成唯一 marker id
 

@@ -54,8 +54,10 @@
     "credit-risk",
     "lloyds",
     "netting",
+    "otc",
     "risk-pooling",
-    "settlement-risk"
+    "settlement-risk",
+    "swap"
   ],
   "sources": [
     "w-en-settlement-risk"

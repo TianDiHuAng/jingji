@@ -2110,6 +2110,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 188（R22）+ 自测 18/18",
       "spot_check": "扩写 28 条；批量修复接线并对称化 35 条",
       "note": "维基第98轮可用。LA-LB：扩写 28 条（WARNINGS 216 → 188）。①第一批 14 条：jamaica-accords／physiocracy／political-economy／price-revolution／silver-standard／alm／capital-account／competitive-devaluation／credit-enhancement／development-economics／diversification／elasticity／ems／hedge-fund。②第二批 14 条：seniority／tariff／basis-point／fire-sale／interbank-lending／joint-stock／menu-cost／oecd／smithsonian-agreement／speculative-attack／stablecoin／debt-overhang／endogenous-money／fisher-equation。③**本轮几处关键判断**：**credit-enhancement** 点破「增级只能重新分配风险、不能消灭风险」，且外部担保依赖担保方自身偿付能力——2008 年 monoline 被降级后担保反而把风险传导回被担保证券；**fire-sale** 提出「贱卖外部性」——卖出者自己承担的价格损失有一部分强加给同行，这正是宏观审慎监管的理由；**interbank-lending** 说明同业市场为何是最灵敏的体温计：**无抵押品保护、完全依赖对交易对手的信任**，一旦怀疑即瞬间关闭；**debt-overhang** 指出它与「资产替代」方向相反——濒临违约时倾向赌博、已经资不抵债时倾向躺平，两者可同时存在；**endogenous-money** 纠正教科书顺序「贷款创造存款而非存款创造贷款」，并解释为何央行控制的是利率而非货币数量；**fisher-equation** 提醒名义利率高不等于政策紧——1970 年代与 2021—22 年都出现过实际利率为负的「金融抑制」。④**教训（过程层面）**：本轮出现 4 处字符串未闭合的语法错误，全部由 `ast.parse` 定位修正；这已是连续两轮出现同类失误，原因是长文写作时跨行拼接遗漏引号。⑤**round 94 的接线检查再次生效**，批量修复并对称化 35 条。⑥现状：641 条、来源 742、页面 655；overview 平均 281 字；ERRORS 0、WARNINGS 188（R22）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作LC-LE",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 27,
+      "reviewed": 188,
+      "fixed": 28,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 161（R22）+ 自测 18/18",
+      "spot_check": "扩写 27 条；修复三引号引入的换行渲染 bug",
+      "note": "维基第99轮可用。LC-LE：扩写 27 条（WARNINGS 188 → 161），并在过程中发现并修复一个**渲染 bug**。①第一批 14 条：crypto-bubble／durable-goods／export-oriented／invisible-hand／macroprudential／microfinance／otc／protectionism／ricardian-equivalence／swap／balance-sheet-recession／financial-accelerator／financial-deepening／government-debt。②第二批 13 条：liquidity-trap／mmt／money-creation／off-balance-sheet／rational-expectations／spot-contract／sticky-prices／stock-market-crash／stock／supply-side／convexity／currency-internationalization／debt-deflation。③**方法改进**：上轮连续 4 处字符串未闭合，本轮改用**三引号字符串**写整段，两批**语法均一次通过**——拼接问题解决。④**但三引号引入了新的 bug**：它保留了段内换行（\\n），而 `mdesc()` 的粗体正则 `\\*\\*(.+?)\\*\\*` **默认不跨行匹配**，导致跨行的 `**...**` 无法渲染，页面上残留 `**`。**check_quality 立即抓到 13 项「未渲染粗体」**——这正是该检查存在的意义。⑤**修复两处**：（a）数据层——把 overview／comparison／one_line／timeline／schools／policy_response 中的换行规范化掉（共 27 条），因为中文段落本不需要硬换行；（b）渲染层——给 mdesc 的粗体正则加 `re.S` 作为防御，跨行也能渲染。修复后 check_quality 归零。⑥**本轮的元教训**：**修一个问题的方法，可能就是下个问题的来源**——为避免拼接遗漏引号而改用三引号，却引进了换行导致渲染失败。幸运的是检查体系接住了它——这说明**检查的价值不在于预防所有错误，而在于让错误在发布前暴露**。⑦现状：641 条、来源 742、页面 655；overview 平均 301 字；含换行的 overview: 0；ERRORS 0、WARNINGS 161（R22）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

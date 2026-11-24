@@ -61,6 +61,7 @@
     "bond",
     "interest-rate",
     "leading-indicator",
+    "spot-contract",
     "yield-curve-control"
   ],
   "needs_verification": true,

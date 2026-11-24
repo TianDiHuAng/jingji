@@ -61,7 +61,9 @@
     "credit-enhancement",
     "credit-risk",
     "derivative",
-    "forward-contract"
+    "forward-contract",
+    "otc",
+    "swap"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作DY】补写概念辨析。 【续作KQ】overview 扩写 89 → 442 字。"
