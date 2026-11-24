@@ -1,0 +1,11 @@
+The Kitchin cycle is a short business cycle of about 40 months, identified in the 1920s by Joseph Kitchin.
+This cycle is believed to be accounted for by time lags in information movement, affecting the decision making of commercial firms. Firms react to the improvement of commercial situation through the increase in output through the full employment of the extant fixed capital assets. As a result, within a certain period of time (ranging between a few months and two years) the market gets ‘flooded’ with commodities whose quantity becomes gradually excessive. The demand declines, prices drop, the produced commodities get accumulated in inventories, which informs entrepreneurs of the necessity to reduce output. However, this process takes some time. It takes some time for the information that supply significantly exceeds demand to get to the business people. As it takes entrepreneurs  time to check this information and to make the decision to reduce production, time is also necessary to materialize this decision (these are the time lags that generate the Kitchin cycles).  Another relevant time lag is the lag between the decision (causing the capital assets to work well below the level of their full employment) and the decrease of the excessive amounts of commodities accumulated in inventories.  Yet, after this decrease takes place one can observe the conditions for a new phase of growth of demand, prices, output, etc.
+For example, the volume of oil production on tight oil formations in the US depends significantly on the dynamics of the WTI oil price. About six months after the price change, drilling activity changes, and with it the volume of production. These changes and their expectations are so significant that they themselves affect the price of oil and hence the volume of production in the future.
+These regularities are described in mathematical language by a differential extraction equation.
+
+
+== See also ==
+Pork cycle
+
+
+== References ==

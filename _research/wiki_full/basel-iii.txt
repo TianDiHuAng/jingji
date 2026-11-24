@@ -1,0 +1,124 @@
+The Basel Committee on Banking Supervision (BCBS, often shortened as Basel Committee) is a body that brings together bank supervisory authorities to set common prudential standards and policy. It relies on a permanent secretariat hosted by the Bank for International Settlements in Basel, Switzerland. 
+The Basel Committee sets global standards for the prudential regulation and supervision of banks. It has no formal supranational authority, and its decisions do not have legal force; members commit to implementing and applying its standards in their domestic jurisdictions.
+The committee was established by the central bank governors of the Group of Ten (G10) countries in 1974. As such and despite the G10's name, it had twelve founding members, namely the respective authorities from Belgium, Canada, France, Germany, Italy, Japan, Luxembourg, the Netherlands, Sweden, Switzerland, the United Kingdom, and the United States. 
+
+
+== Name ==
+At its creation in 1974, the new body was formally named the Committee on Regulations and Supervisory Practices. It quickly became known as the Basle Committee, using a traditional English spelling for the city of Basel. It has used the current spelling to refer to itself since 1999.
+The BCBS is not the only committee hosted by the BIS in Basel, as it coexists with the Committee on the Global Financial System, Markets Committee, Committee on Payments and Market Infrastructures, and Irving Fisher Committee on Central Bank Statistics among others. Even so, the shorthand "Basel Committee" is widely used to refer exclusively to the BCBS. 
+
+
+== Publications ==
+Initially and in response to the vulnerabilities revealed by the failure of Herstatt Bank in June 1974, the BCBS focused on closing jurisdictional gaps in the supervision of internationally active banks. Its foundational document on the division of labor between so-called home and host countries, first issued in 1975 and known as the "Basel Concordat", was subsequently relabeled in 1983 as "Principles for the supervision of banks' foreign establishments".
+The second and ultimately dominant BCBS activity has been the formulation of bank prudential standards, initially focused on capital requirements and subsequently covering other prudential matters such as liquidity regulation, as in the successive rounds of "Basel Accords" known as Basel I (first issued in 1988), Basel II (first issued in 2004) and Basel III (first issued in 2010). 
+The BCBS subsequently developed its issuance of standards for effective banking supervision beyond the scope of the original Concordat as the "Basel core principles for effective banking supervision", first published under that headline in 1997. The Basel Accords and Core Principles together have been referred to as the "Basel Framework".
+In 1999, the Basel Committee first introduced an approach to capital regulation resting on three so-called pillar, respectively addressing general minimum capital requirements (Pillar 1), additional demands to be made by supervisors on a case-specific basis (Pillar 2), and disclosures by banks to foster market discipline (Pillar 3).
+Basel I, published in 1988, covered capital requirements for credit risk. The Accord was enforced by law in the Group of Ten (G-10) countries in 1992. It was augmented in 1996 with a framework for market risk, which included both a standardised approach and a modelled approach, the latter based on value at risk.
+The Basel Core Principles for Effective Banking Supervision was published in 1997.
+Basel II, first published in 2004, added capital requirements for operational risk for the first time. It was revised several times during subsequent years. Bank regulators in the United States took the position of requiring a bank to follow the set of rules (Basel I or Basel II) giving the more conservative approach for the bank. Because of this it was anticipated that only the few very largest US banks would operate under the Basel II rules, the others  being regulated under the Basel I framework. However Basel II standards were criticised by some for allowing banks to take on too much risk with too little capital. This was considered part of the cause of the US subprime mortgage crisis, which started in 2008.
+The so-called Basel 2.5 revisions introduced stressed VaR and IRC for modelled market risk in 2009-10.
+Basel III was published in September 2010, following the 2008 financial crisis. The standards set new definitions of capital, higher capital ratio requirements, and a leverage ratio requirement as a "back stop" measure. Risk-based capital requirements (RWAs) for credit valuation adjustment risk and interest rate risk in the banking book were introduced for the first time, along with a large exposures framework, a revised securitisation framework, and a standardised approach to counterparty credit risk (SA-CCR) to measure exposure to derivative transactions. A specific framework for exposures to central counterparty clearing was introduced. The BCBS also published regulatory standards for the Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR); 
+Further reforms of the framework were published by the Basel Committee in 2017 under the title "Basel III: Finalising post-crisis reforms".
+The Basel Committee updated the standards for market risk, based on a "Fundamental Review of the Trading Book". 
+
+
+== Operations ==
+The committee provides a forum for regular cooperation on banking supervisory matters. Its objective is to enhance understanding of key supervisory issues and improve the quality of banking supervision worldwide, mitigating both the capacity and information challenges of national financial supervisory authorities acting in isolation. The BCBS has no founding treaty and does not issue binding rules, but functions as an informal forum in which policy solutions and standards are developed.
+The BCBS's work is reported to the central bank governors of the G10, and cannot communicate conclusions, nor make proposals, to bodies outside the Bank for International Settlements without the general agreement and support of these governors. The Basel committee, along with the International Organization of Securities Commissions and International Association of Insurance Supervisors, participates in the Joint Forum of international financial regulators. 
+The committee's work is supported by specialized groups that focus on specific issues. As of mid-2026, these were the Risks and Vulnerabilities Assessment Group, Supervisory Cooperation Group, Policy and Standards Group, and Basel Consultative Group (detailed below).
+
+
+== Membership ==
+The committee's membership first expanded with the addition of Spain in 2001, then in 2009 and again in 2014. As of mid-2026, it had 45 members from 28 jurisdictions, consisting of central banks and authorities with responsibility of banking regulation.
+As of mid-2026, the Basel Committee's members were the following organizations, listed by alphabetical order of jurisdictions:
+
+ 
+In addition, the following entities participate in the Committee's meetings as observers:
+
+ 
+
+
+== Leadership ==
+
+
+=== Chair of the Governors and Heads of Supervision ===
+Jean-Claude Trichet (European Central Bank), 2010-2011
+Mervyn King (United Kingdom), 2011-2017
+Mario Draghi (European Central Bank), 2013-2019
+François Villeroy de Galhau (France), 2019-2022
+Tiff Macklem (Canada), since 2022
+
+
+=== Committee Chair ===
+George Blunden (United Kingdom), 1975-1977
+Peter Cooke (UK), 1977-1988
+Huib Muller (Netherlands), 1988-1991
+Stig Danielsson (Sweden, acting), 1991
+Gerald Corrigan (United States), 1991-1993
+Tommaso Padoa-Schioppa (Italy), 1993-1997
+Tom de Swaan (Netherlands), 1997-1998
+William McDonough (US), 1998-2003
+Jaime Caruana (Spain), 2003-2006
+Nout Wellink (Netherlands), 2006-2011
+Stefan Ingves (Sweden), 2011-2019
+Pablo Hernández de Cos (Spain), 2019-2024
+Erik Thedéen (Sweden), since May 2024
+
+
+=== Secretary General ===
+Michael Dealtry (United Kingdom), 1975-1984
+Chris Thompson (UK), 1984-1988
+Peter Hayward (UK), 1988-1992
+Erik Musch (Netherlands), 1992-1997
+Danièle Nouy (France), 1997-2003
+Ryozo Himino (Japan), 2003-2006
+Stefan Walter (Germany / United States), 2006-2011
+Wayne Byres (Australia), 2012-2014
+William Coen (US), 2014-2019
+Carolyn Rogers (Canada), 2019-2022
+Neil Esho (Australia), 2022-2026
+Ben Gully (Canada), starting 1 August 2026.
+
+
+== Basel Consultative Group ==
+The Basel Consultative Group was set up to improve liaisons with jurisdictions other than those directly represented in the Basel Committee. It beings together some (but not all) Basel Committee members with national authorities from other jurisdictions and some international groups and entities.
+
+
+=== Basel Committee members and observers in the Basel Consultative Group ===
+ 
+
+
+=== Other national authorities in the Basel Consultative Group ===
+ 
+
+
+=== Supervisory groups, international agencies and other bodies in the Basel Consultative Group ===
+ 
+
+
+== See also ==
+Bank regulation
+Basel IA
+BCBS 239
+Capital Requirements Directive
+Financial Stability Board
+Financial Stability Institute
+Joint Forum
+
+
+== References ==
+
+
+== Further reading ==
+Deventer, Donald R. Van; Mesler, Mark (2003). Credit Risk Models and the Basel Accords. Wiley. ISBN 978-0-470-82091-9.
+Elbannan, Mona (2011). Basel Accords Consequences. Lap Lambert Academic Publishing GmbH KG. ISBN 978-3-8443-8363-8.
+Eubanks, Walter W.; Division, Government and Finance (2006). The Basel Accords: The Implementation of II and the Modification of I. Congressional Research Service, the Library of Congress.
+Han, Yicheng (2020). Historical Capital Regulation of Banks. Standards and Influence of Basel Accords. GRIN Verlag. ISBN 978-3-346-30865-8.
+Liew, Venus Khim-Sen; Rahim, Rossazana Ab; Riaz, Samina (2019). Basel Accords, Bank Capital and Portfolio Risk Behavior. Cambridge Scholars Publishing. ISBN 978-1-5275-3889-4.
+Quillin, Bryce (2008). International Financial Co-Operation: Political Economics of Compliance with the 1988 Basel Accord. Routledge. ISBN 978-1-135-97959-1.
+Onyiriuba, Leo (2016). "Applications of Basel Accords in Emerging Economies". Emerging Market Bank Lending and Credit Risk Control. pp. 617–635. doi:10.1016/B978-0-12-803438-5.00036-2. ISBN 978-0-12-803438-5.
+Ong, Michael (2007). The Basel Handbook: A Guide for Financial Practitioners. Risk Books. ISBN 9781904339557.
+
+
+== External links ==
+Official website

@@ -1,0 +1,106 @@
+Liability-driven investment (LDI) is an asset–liability management approach that designs the asset portfolio around the size, timing, and risk profile of known obligations. It is used by defined benefit pension schemes and insurers to reduce funding volatility and to help ensure cash is available when benefits fall due. 
+LDI techniques include cash-flow matching and duration matching. Schemes may also use interest rate and inflation swaps, gilt repos, and other derivatives to hedge sensitivity to market moves.
+
+
+== LDI for individuals ==
+In personal retirement planning the approach first sets aside assets for essential spending. Investors then add return-seeking assets for discretionary goals, often using bond ladders or annuities to match near-term cash flows, with the remainder taking market risk to grow future income.
+
+
+== LDI for pension funds ==
+Defined benefit schemes use LDI to align asset behaviour with the present value of promised benefits. Portfolios hold gilts and investment-grade credit, plus overlays such as interest rate and inflation swaps, to hedge discount-rate and inflation risk. The focus is on stabilising the funding ratio rather than maximising absolute return.
+
+
+=== Objectives and liability benchmark ===
+Schemes choose a liability benchmark that reflects how they value obligations. The benchmark may reference gilt yields or swap curves. Inflation-linked liabilities are often hedged with index-linked gilts and inflation swaps. The discount rate under IAS 19 is based on high-quality corporate bond yields. Under US GAAP Statement No. 158 sponsors recognise the funded status on the balance sheet.
+
+
+=== Hedge design and measurement ===
+Managers measure asset and liability sensitivity to rates and inflation. Many schemes target a hedge ratio based on PV01 (the change in value for a one basis point move) or key rate duration (sensitivity at selected maturities). Duration matching reduces the effect of small rate moves on the funded status. Schemes use curve and key-rate hedges when sensitivity varies by maturity. Overlays allow hedging while keeping cash for expenses and collateral.
+
+
+=== Return-seeking assets and de-risking ===
+Most strategies include a return portfolio to close deficits and build surplus. Trustees often adopt journey plans that reduce growth exposure as funding improves. This is sometimes called de-risking or a glide path. The mix depends on covenant strength, time horizon, and risk appetite.
+
+
+=== Implementation models ===
+Schemes implement LDI through segregated mandates or pooled LDI funds. Pooled funds give smaller schemes access to hedging and operational support. Segregated mandates allow more tailoring of curve hedges and collateral processes. Reviews after 2022 discuss how pooled structures, rebalancing, and collateral movement affected outcomes in stress. Trustees are expected to document collateral waterfalls and run regular tests of resilience.
+
+
+== Techniques ==
+Cash-flow matching - Trustees buy bonds that replicate expected benefit payments as they fall due.
+Duration matching - Schemes set asset duration to offset liability duration so that small rate moves have a limited effect on the funded status.
+Inflation hedging - Many funds use index-linked gilts and inflation swaps to match inflation-linked benefits.
+Overlays and repo - Managers employ swaps, futures and gilt repo to obtain hedge exposure while keeping cash available for collateral and expenses.
+Schemes often combine these methods in segregated mandates or pooled LDI funds.
+
+
+== Risk management and collateral ==
+LDI managers and trustees manage rate, inflation and liquidity risk and hold collateral to meet margin calls. Policies cover collateral ladders, eligible assets and liquidity sources, with stress testing against rate and inflation shocks. International guidance after the 2022 episode emphasises liquidity preparedness for margin and collateral calls, robust stress testing, and operational processes for collateral management.
+
+
+== 2022 gilt market episode ==
+In late September 2022, UK Treasury gilt yields rose sharply and prices fell, with 30-year yields up by more than 100 basis points in four days. On 28 September 2022 the Bank of England announced temporary purchases of long-dated UK government bonds. The Bank stated it would carry out purchases “in a temporary and targeted way… to restore orderly market conditions.” Auctions ran until 14 October 2022 and purchases were later unwound. A Bank of England speech reported that the Bank ultimately bought £19.3 billion of gilts during the operation.
+On 10 October 2022 the Bank launched the Temporary Expanded Collateral Repo Facility (TECRF) to support market functioning by enabling banks to ease liquidity pressures facing their client LDI funds. It also widened gilt purchases to include index-linked gilts between 11 and 14 October.
+Subsequent analysis using trade-level data found that forced sales by LDI funds created price discounts on the order of 7% to 10% at the peak, and that pooled LDI funds sold more than segregated mandates due to recapitalisation frictions. The study reports pooled funds sold roughly 13 percentage points more of their gilt holdings and that discounts closed by the end of October.
+In March 2023 the Financial Policy Committee recommended that LDI funds be resilient to at least a 250 basis point yield shock, on top of day-to-day movements, and set out work for regulators to implement minimum steady-state standards. The IMF drew broader lessons for non-bank finance and stressed the need for stronger liquidity risk management and data on leverage.
+
+
+== Policy tools ==
+In October 2022 the Bank of England launched the Temporary Expanded Collateral Repo Facility (TECRF) to support market functioning and to help banks ease liquidity pressures facing their client LDI funds. The facility ran beyond the gilt purchase window and later closed. On 11 October 2022 the Bank widened purchases to include index-linked gilts until 14 October.
+In 2024 the Bank announced a contingent non-bank repo facility for periods of gilt market stress, aimed at insurers and pension funds and designed to be unattractive in normal conditions.
+
+
+== Regulatory and supervisory responses ==
+After 2022 United Kingdom authorities set clearer expectations for LDI resilience and monitoring. Guidance covers larger liquidity buffers, faster collateral processes, and testing against large rate shocks. Regulators also coordinate on pooled LDI funds where small and medium schemes invest.
+The House of Commons Work and Pensions Committee recommended minimum resilience standards for LDI, better data on leverage and collateral, faster progress on scheme consolidation, and stronger trustee standards. It also urged bringing investment consultants within the Financial Conduct Authority perimeter. International work highlights the need to improve visibility of non-bank leverage and liquidity risks.
+
+
+== History ==
+
+
+=== Origins ===
+The roots of liability-aware investing lie in fixed-income theory. Macaulay set out a duration measure in 1938 that describes how bond prices respond to interest rate moves. Redington’s 1952 paper for the Institute of Actuaries described immunization techniques for life office liabilities and influenced later pension practice. By the early 1980s the portfolio literature had developed cash-flow dedication and contingent immunization as practical methods for aligning assets with liabilities.
+
+
+=== Adoption and market structure ===
+Accounting and funding reforms raised the profile of liability values during the late 1990s and early 2000s. In the United Kingdom FRS 17 required recognition of the funded status of defined benefit schemes on the balance sheet, which increased attention on interest rate and inflation risk. A widely cited early case was the Boots pension scheme in 2001, which moved its assets into long-dated sterling bonds to reduce funding risk.
+Through the 2000s and 2010s LDI adoption widened among United Kingdom defined benefit schemes. Many trustees used segregated mandates. Others used pooled LDI funds to obtain hedging at scale. Central bank reviews after 2022 describe how pooled structures and collateral processes shaped outcomes in stress.
+Hedging often uses over-the-counter interest rate and inflation swaps. Market plumbing in the United Kingdom has been influenced by the clearing obligation and by exemptions for pension schemes. In 2025 the government made the pension fund clearing exemption permanent, removing the previous expiry date.
+
+
+=== Events since 2022 ===
+In September 2022 long-dated gilt yields rose quickly and prices fell. Leveraged LDI funds faced large collateral calls, which led to sales of long gilts and temporary dysfunction in parts of the market. The Bank of England undertook temporary and targeted purchases of long-dated gilts to restore market functioning. Later analysis documented fire-sale discounts during the episode and noted that pooled LDI funds sold more due to frictions and slower collateral movement.
+Parliament reviewed lessons for trustees, advisers, and regulators. The Work and Pensions Committee recommended minimum resilience standards for LDI, regular data on leverage and collateral, stronger trustee capability, and bringing investment consultants within the Financial Conduct Authority perimeter. Supervisors issued guidance in 2023 on buffers, collateral processes, and testing for leveraged LDI used by schemes. The Bank of England also developed a contingent repo option for periods of market stress to support orderly gilt markets.
+
+
+== Adoption and debates ==
+LDI is widely used by United Kingdom defined benefit pension schemes. Many schemes increased hedging during the 2000s and 2010s as funding rules and accounting raised the profile of liability risk.
+Many schemes implement LDI through segregated mandates and pooled LDI funds. Pooled vehicles allow smaller schemes to obtain hedging and operational support. The Bank of England reports that pooled structures became important for many trustees.
+Supporters state that LDI aligns assets with obligations and reduces funding volatility. They cite cash-flow matching, duration matching and inflation hedging as tools that reduce funding swings and help sponsors plan contributions.
+Critics highlight complexity, leverage and liquidity risk. Research after the 2022 gilt episode found that LDI selling created price discounts of about 7% at the peak and that pooled funds sold roughly 13 percentage points more of their gilt holdings than segregated mandates. The IMF notes that similar vulnerabilities can arise in other non-bank markets and that policy lessons apply beyond the United Kingdom.
+The United Kingdom Parliament’s House of Commons Work and Pensions Committee reviewed governance and regulation in June 2023. The Committee called for minimum resilience standards for LDI, regular data on leverage and collateral, and stronger trustee capability. It also recommended bringing investment consultants within the Financial Conduct Authority perimeter.
+The Pensions Regulator reported in September 2025 that schemes and managers had reduced hedge size and increased resilience since 2022. Day-to-day changes in LDI values are now smaller than in the past. The Regulator sets expectations on buffers, collateral processes and testing.
+
+
+== See also ==
+Immunization (finance)
+Bond duration
+Interest rate swap
+Inflation swap
+Pension fund
+
+
+== References ==
+
+
+== Notes ==
+
+In this article “schemes” refers to defined benefit pension plans in UK usage.
+
+
+== Bibliography ==
+Michael Ashton, "Maximizing Personal Surplus: Liability-Driven Investment for Individuals", October 28, 2010. Published in "Retirement Security in the New Economy: Paradigm Shifts, New Approaches, and Holistic Strategies", Society of Actuaries, 2011.
+Vincent Bazi & M. Nicolas J. Firzli, “1st annual World Pensions & Investments Forum”, Revue Analyse Financière, Q2 2011, pp. 7–8
+George Coats, ‘Dutch regulator blamed for pensions losses’, Financial News, Dec 14 2010
+Roy Hoevenaars, “Strategic Asset Allocation and Asset Liability Management”, University of Maastricht, 18 Jan. 2008
+Thomas P. Lemke and Gerald T. Lins, ERISA for Money Managers (Thomson West, 2013).

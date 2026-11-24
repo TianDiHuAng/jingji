@@ -1,0 +1,85 @@
+In monetary economics, redenomination is the process of changing the face value of banknotes and coins in circulation. It may be done because inflation has made the currency unit so small that only large denominations of the currency are in circulation. In such cases the name of the currency may change or the original name may be used with a temporary qualifier such as "new". Redenomination may be done for other reasons such as changing over to a new currency such as the Euro or during decimalisation. 
+Redenomination itself is considered symbolic as it does not have any impact on a country's exchange rate in relation to other currencies. It may, however, have a psychological impact on the population by suggesting that a period of hyperinflation is over, and is not a reminder of how much inflation has impacted them. The reduction in the number of zeros also improves the image of the country abroad.
+Inflation over time is the main cause for the purchasing power of the monetary unit decreasing; but there are a variety of political reasons for the government not reining in inflation or for not redenominating the currency when its value has depreciated significantly. There are some economic and social benefits of redenominating, including improved efficiency in processing routine transactions. Redenomination typically involves the substitution of new banknotes in place of the old ones, which usually cease being legal tender after the end of a short transition period.
+
+
+== Inflation ==
+In general, redenomination is implemented in response to hyperinflation, which progressively increases the nominal prices of products and services, decreasing the real value of the monetary unit in the local market. Over time, prices become excessively large, which can impede routine transactions because of the risk and inconvenience of carrying stacks of bills, or the strain on systems, e.g. automatic teller machines (ATMs), or because human psychology does not handle large numbers well. Authorities may alleviate this problem by redenomination: introducing a new unit that replaces the old unit, with a fixed number of old units being converted to 1 new unit. If inflation is the reason for redenomination, this ratio is much larger than 1, usually a positive integral power of 10 like 100, 1000 or 1 million, and the procedure can be referred to as "cutting zeroes".  Recent examples of redenominations include:
+
+Although the ratio is often a positive integral power of 10 (i.e., removing some zeros), sometimes it can be a×10n where a is a single-digit integer and n is a positive integer. Partial examples include:
+
+Occasionally, the ratio is defined in a way such that the new unit is equal to a hard currency. As a result, the ratio may not be based on an integer. Examples include:
+
+In the case of hyperinflation, the ratio can go as high as millions or billions, to a point where scientific notation is used for clarity or long and short scales are mentioned to disambiguate which kind of billion or trillion is meant.
+In the case of chronic inflation which is expected to continue, the authorities have a choice between a large redenomination ratio and a small redenomination ratio. If a small ratio is used, another redenomination may soon be required, which will entail costs in the financial, accounting, and computing industries. However a large ratio may result in inconveniently large or small prices at some point in the cycle.
+After a redenomination, the new unit often has the same name as the old unit, with the addition of the word new. The word new may or may not be dropped a few years after the change. Sometimes the new unit is a completely new name, or a "recycled" name from previous redenomination or from ancient times.
+
+
+== Decimalisation ==
+
+All countries that previously had currencies based on pounds-shillings-pence (£sd) system (£1 = 20 shillings = 240 pence) have now adopted decimal currencies (currencies related by powers of 10), with several changing the name of the main currency unit at the same time. As of 2020, only two currencies are non-decimal, being the Mauritanian ouguiya and Malagasy ariary, with one of each divided into five subdivisory units.
+
+
+== Currency union ==
+
+When countries form a currency union, redenomination may be required. The conversion ratio is often not a round number, and may be less than 1.
+
+
+=== List of Euro redenominations ===
+The most notable currency union today is the Eurozone. In 2002, euros in cash form were introduced.
+
+
+== List of currency redenominations ==
+This table lists various currency redenominations that have occurred, including currency renaming where the conversion rate is 1:1, but excluding decimalisation and joining the Eurozone, already listed on the table above.
+
+
+== Proposed ==
+
+
+=== Colombia ===
+Since 2018, there have been legislative efforts for redenomination.
+
+
+=== Indonesia ===
+A long-running proposal to redenominate the rupiah has yet to receive formal legislative consideration. Since 2010, Bank Indonesia, as the monetary authority of Indonesia, In 2015, the government submitted a rupiah redenomination bill to the House of Representatives, but it was put on ice for years. In 2017, the then-central bank governor Agus Martowardojo reiterated the call, saying that if redenomination started immediately, the process could be completed by 2024 or 2025.
+In 2025, the redenomination bill was included in the National Legislative Program of the House of Representatives as a government-initiated proposal following a submission from the central bank. Finance Minister Purbaya Yudhi Sadewa had also signed a ministerial regulation outlining the framework for the bill, which targeted completion by 2027.
+
+
+=== Iran ===
+This proposal was approved by the Iranian parliament in May 2020. The changeover is likely to be phased over a period of up to two years.
+
+
+=== Japan ===
+Numerous proposals have been made since the 1990s to redenominate the yen by introducing a new unit or new yen, equal to 100 yen, and nearly worth one U.S. dollar. This has not happened to date, since the yen remains trusted globally despite its low unit value, and due to the huge costs of reissuing new currency and updating currency-reading hardware. The negative impact of postponing upgrades to various computer software until redenomination occurs, in particular, was also cited.
+
+
+=== Lebanon ===
+Due to Lebanese liquidity crisis, the Lebanese Pound has collapsed to nearly 90,000 for one dollar.
+
+
+=== Nigeria ===
+Due to inflation Nigerian coins are all essentially worthless now, so there are propositions to redenominate.
+
+
+=== South Korea ===
+There have been recurring proposals in the South Korean National Assembly to redenominate the won by introducing a new won or new unit, equal to 1,000 old won, and worth nearly one U.S. dollar. While proponents cite a more valuable currency unit better projects the strength of the nation's economy, a majority remain opposed to the idea. Reasons cited are: economic harm if done immediately, no issues on public confidence in the won and its inflation rate, limited cost savings, and the presence of more urgent economic issues.
+
+
+=== Syria ===
+In August 2025, it was announced that the Syrian government would revalue the currency by removing two zeros.
+
+
+== Alternatives ==
+Japanese invasion money suffered from heavy inflation. At the end of World War II governments of liberated countries and territories opted to simply declare them worthless.
+In 2016, the Colombian peso was rated at around 3,000 per U.S. dollar, with banknotes up to 50,000 pesos. Instead of redenominating the currency, a new banknote design was introduced, with the last three zeroes replaced by the word "mil" (thousand), making the values easier to read.
+
+
+== See also ==
+
+Decimalisation
+Denomination (currency)
+Devaluation
+Dollarization
+
+
+== References ==
