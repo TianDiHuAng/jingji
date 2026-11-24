@@ -634,6 +634,18 @@
       "check_result": "PASS (526); check_links 540页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "BL: 新增6条区域开发银行与保险监管机构(IAIS 200+辖区占全球保费97%/AIIB亚投行/ADB亚开行总部马尼拉/EBRD 1991巴黎/IDB华府/AfDB 2014-09阿比让)。总526条，来源627。"
+    },
+    {
+      "round": "续作BM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 526,
+      "fixed": 2,
+      "sources_total": 630,
+      "check_result": "PASS (526); check_links 540页 0 error",
+      "spot_check": "**全面数据体检**：无重复标题/无timeline或key_data类型错误/无overview过短/无因果链<2步/无timeline未排序；仅2条schools<2已补足。key_data全部含原文或口径说明，pending_notes无空值。",
+      "note": "BM: ①全面数据体检通过(526条仅2处schools<2已修：creditanstalt补系统性风险视角、dawes-plan-1924补国际资本循环视角)②为4个历史案例补7条key_data(阿姆斯特丹1763/孟加拉1769/铜恐慌1789/阿伦达尔1886)。案例有数据比例71%，key_data 254→261。"
     }
   ]
 }
