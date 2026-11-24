@@ -78,7 +78,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**汇率与结构性改革**：1991年6月纳拉辛哈·拉奥出任总理并任命曼莫汉·辛格为财长，推行被称为\"自由化\"的改革。改革于 **1991年7月1日**正式启动——印度储备银行当日将卢比贬值 **9%**，7月3日再贬 **11%**（分两步以测试市场反应）。此后印度经历显著增长并成为全球经济的重要参与者，但学界对改革成效的分配后果仍有争论。",
+      "basis": "据 Wikipedia「1991 Indian economic crisis」Under the Narasimha Rao government 与 Aftermath 章节；政策主体：印度政府/央行；动作：卢比两步贬值、自由化改革；效果评价待核实",
+      "sources": [
+        "w-en-indian-1991",
+        "w-en-mexican-peso-crisis"
+      ]
+    }
+  ],
   "comparison": "与斯里兰卡2022年（见 sri-lanka-crisis-2019）、巴基斯坦（见 pakistan-crisis-2021）相比，印度1991年的外汇危机程度较轻，但**改革的政治经济条件不同**：印度在危机窗口内推行了系统性自由化（LPG），而斯里兰卡与巴基斯坦的调整更多是被动接受外部条件。与1997年亚洲危机（见 asian-financial-crisis-1997）相比，印度当时资本账户开放度低，因此未受区域传染——这反过来印证了\"资本账户开放度决定传染暴露\"的判断。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1991年印度经济危机：机制示意（货币）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -92,5 +102,5 @@
     "stabilization-program"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次9】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FE】基于维基全文补写policy_response。"
 }

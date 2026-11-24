@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**流动性支持**：2007年9月14日，北岩银行向英格兰银行寻求并获得流动性支持便利，以替代其无法从货币市场筹得的资金。**挤兑与国有化**：该消息的报道引发储户恐慌，形成英国**150年来首次**因挤兑而倒闭的银行；在无法找到商业买家、也未能获得进一步政府支持后，该行于 **2008 年被收归国有**（作为破产的替代方案）。此时政府已向其提供**数十亿英镑**的流动性支持。",
+      "basis": "据 Wikipedia「Northern Rock」2007 crisis and initial responses 章节；政策主体：英格兰银行/英国政府；动作：流动性支持、国有化；效果评价待核实",
+      "sources": [
+        "w-en-northern-rock",
+        "w-en-bank-run"
+      ]
+    }
+  ],
   "comparison": "与1930年代美国银行挤兑、2023年硅谷银行同属\"融资结构脆弱+信心崩塌\"型挤兑。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>北岩银行挤兑(2007)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>北岩银行遭遇挤兑，成为英</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -104,5 +114,5 @@
     "uk-ldi-crisis-2022"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作CT】补充关键数据。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作CT】补充关键数据。 【续作DA】related已按危机序列/同组语义重建。 【续作FE】基于维基全文补写policy_response。"
 }

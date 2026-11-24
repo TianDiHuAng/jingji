@@ -108,7 +108,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**政策反应**：罗斯福政府发起针对**垄断力量**的修辞攻势（把萧条归因于垄断），并在司法部反垄断部门任命瑟曼·阿诺德采取行动，但效果有限；**1938年2月**国会通过新的《农业调整法》(AAA) 法案。该次衰退的成因争论集中于过早的财政与货币紧缩（1937年削减支出、提高准备金要求、开征社会保障税）。",
+      "basis": "据 Wikipedia「Recession of 1937–1938」各章节；政策主体：罗斯福政府/国会；动作：反垄断行动、1938年新AAA法案；效果评价待核实",
+      "sources": [
+        "w-en-recession-1937-1938",
+        "w-en-great-depression"
+      ]
+    }
+  ],
   "comparison": "与同为「其他」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1937–1938年衰退：机制示意（其他）</text><g><rect x='20' y='60' width='210' height='52' rx='6' class='box'/><text x='29' y='83' class='lbl'>触发条件</text><text x='29' y='101' class='sub'>冲击来源</text></g><g><rect x='270' y='60' width='210' height='52' rx='6' class='box'/><text x='279' y='83' class='lbl'>传导过程</text><text x='279' y='101' class='sub'>风险扩散</text></g><g><rect x='520' y='60' width='210' height='52' rx='6' class='box'/><text x='529' y='83' class='lbl'>后果与应对</text><text x='529' y='101' class='sub'>结果与政策</text></g><line x1='230' y1='86' x2='265' y2='86' class='ar'/><line x1='480' y1='86' x2='515' y2='86' class='ar'/><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -120,5 +130,5 @@
     "panic-1837"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【续作】案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【续作】案例化（据本地维基语料）。 【续作AP】补关键数据（单源）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作FE】基于维基全文补写policy_response。"
 }
