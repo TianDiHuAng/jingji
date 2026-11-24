@@ -71,6 +71,7 @@
     "leverage",
     "liquidity-coverage-ratio",
     "macroprudential",
+    "rwa",
     "self-insurance"
   ],
   "sources": [

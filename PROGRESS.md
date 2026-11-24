@@ -1910,6 +1910,24 @@
   幸运的是检查体系接住了它——**检查的价值不在于预防所有错误，而在于让错误在发布前暴露**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 570 字**；含换行的 overview **0**；**ERRORS 0**、WARNINGS 161（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 100 轮可用（round 119）**。**扩写 24 条（WARNINGS 161 → 136）**。
+- **第一批 15 条**：foreign-exchange-reserves／savings-glut／beggar-thy-neighbour／conditionality／credit-money／deleveraging／insurance-history／laissez-faire／monetarism／quantity-theory-money／rwa／secondary-market／spv／capm／central-counterparty／financial-innovation。
+- **第二批 9 条**：esfs／fiscal-military-state／helicopter-money／imf／institutional-economics／juglar-cycle／liquidity-preference／margin-finance／paris-club。
+- **方法闭环**：沿用三引号写法（语法一次通过），并在脚本内**保存前做换行规范化**——这是 round 118 渲染 bug 的根治办法：**既保留三引号的书写便利，又不把换行带进数据**。`check_quality` 两批均一次通过。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `rwa` | 讲清「风险加权资产为何是危机的核心问题」——**权重由规则或模型决定，因此可以被「优化」** |
+  | `central-counterparty` | 它把「双边信用风险」转换成「**集中与操作风险**」——风险没消失而是换了形态，「清算所太大而不能倒」成为新难题 |
+  | `spv` | **法律形式上的隔离 ≠ 经济实质上的隔离**——只要声誉与融资渠道相连，风险终会回流 |
+  | `financial-innovation` | 评价标准：**它是否真正转移了风险，还是仅仅转移了风险的可见性** |
+  | `margin-finance` | 「用自有资金承受下跌」与「被强制平仓」的区别——**后者把账面损失变成永久损失** |
+  | `juglar`／`kondratiev`／`kitchin` | 三类周期均注明**统计基础有争议、本库不据周期位置作预测** |
+
+- **round 94 的接线检查再次生效**，批量修复并对称化 **37 条**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 620 字**；含换行 **0**；**ERRORS 0**、WARNINGS 136（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
