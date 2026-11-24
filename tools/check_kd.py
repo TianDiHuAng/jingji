@@ -1,15 +1,19 @@
 # -*- coding: utf-8 -*-
-"""key_data 数值可核对性检查。
+"""key_data 数值可核对性检查（两级判据）。
 
-对每条 key_data，检查其 value 能否在**同条目已抓取的来源全文**中找到
-（容忍负号表示跌幅；容忍千分位；容忍单位换算如 620 million ↔ 0.62 billion）。
+★ 强匹配：数字 + 单位提示词 / label 关键词 / 英文数字拼写 紧邻出现 → 高置信可核对
+○ 弱匹配：仅数字出现，无上下文佐证 → 需人工判断
+× 未匹配：全文找不到该数字
 
-用途：发现"数值抄错"或"来源标错"的问题。
-限制：来源为 OWID／美联储专文／中文维基的条目没有对应全文，会被列为"无法核对"，
-      这不是错误，需人工确认。
+**判据局限（务必知悉）**：
+纯字符串匹配无法同时避免假阳性与假阴性——
+  · 假阳性例：value=5 命中原文 "50 cents" 的 "5"；
+  · 假阴性例：原文用英文数字（eight-day）或文字表述（more than half），
+    或单位不同（400 million livres vs 0.4 百万里弗）。
+故本工具**只把强匹配作为可核对依据**，弱匹配列为需人工判断，不宣称"全部核对通过"。
 
 用法：python -X utf8 tools/check_kd.py
-退出码：0 = 无可核对性问题；1 = 发现可疑数值
+退出码：0 = 无强判据冲突；1 = 存在需关注项
 """
 import glob
 import json
@@ -20,9 +24,37 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FULL = os.path.join(ROOT, '_research', 'wiki_full')
 
+UNIT_PAT = {
+    '%': ['%', 'percent', 'per cent', 'percentage'],
+    '百分点': ['percentage point', 'points', 'pp'],
+    '倍': ['times', 'fold', '-fold'],
+    '万亿美元': ['trillion'], '十亿美元': ['billion'], '亿美元': ['billion'],
+    '百万美元': ['million'], '百万英镑': ['million'], '百万': ['million'],
+    '十亿': ['billion'], '人': ['people', 'persons', 'inhabitants', 'population'],
+    '年': ['year', 'years'], '个月': ['month', 'months'],
+    '天': ['day', 'days'], '点': ['points', 'point'],
+}
+EN_NUM = {'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'six': 6, 'seven': 7,
+          'eight': 8, 'nine': 9, 'ten': 10, 'eleven': 11, 'twelve': 12, 'fifteen': 15,
+          'twenty': 20, 'thirty': 30, 'fifty': 50}
 
-def num_variants(v):
-    """生成数值的多种文本写法，用于在原文中匹配。"""
+
+def unit_hints(u):
+    u = str(u or '')
+    out = []
+    for k, vs in UNIT_PAT.items():
+        if k in u:
+            out.extend(vs)
+    return list(dict.fromkeys(out))
+
+
+def label_kws(label):
+    zh = re.findall(r'[\u4e00-\u9fff]{2,}', str(label or ''))
+    en = [w.lower() for w in str(label or '').split() if len(w) >= 4 and w.isascii()]
+    return zh[:4], en[:3]
+
+
+def variants(v):
     out = set()
     vals = [v, abs(v)] if isinstance(v, (int, float)) and v < 0 else [v]
     for x in vals:
@@ -33,41 +65,73 @@ def num_variants(v):
         out.add(s.replace('.0', ''))
         if isinstance(x, (int, float)):
             out.add('{:,}'.format(x))
-            # 千分位不含小数
             if isinstance(x, float) and x == int(x):
                 out.add('{:,}'.format(int(x)))
     return out
 
 
+def classify(k, txt):
+    low = txt.lower()
+    hints = unit_hints(k.get('unit'))
+    zh, en = label_kws(k.get('label'))
+    weak = False
+    for c in variants(k['value']):
+        start = 0
+        while True:
+            i = txt.find(c, start)
+            if i < 0:
+                break
+            start = i + 1
+            before = txt[i - 1] if i > 0 else ' '
+            after = txt[i + len(c)] if i + len(c) < len(txt) else ' '
+            if before.isdigit() or after.isdigit() or after == '.':
+                continue
+            win = low[max(0, i - 60):i + len(c) + 60]
+            raw = txt[max(0, i - 60):i + len(c) + 60]
+            if hints and any(h.lower() in win for h in hints):
+                return 'strong'
+            if any(w in raw for w in zh) or any(w in win for w in en):
+                return 'strong'
+            weak = True
+    if isinstance(k['value'], (int, float)) and float(k['value']).is_integer():
+        for w, n in EN_NUM.items():
+            if n == int(k['value']) and w in low:
+                return 'strong'
+    return 'weak' if weak else None
+
+
 def main():
     entries = [json.load(open(f, encoding='utf-8'))
                for f in glob.glob(os.path.join(ROOT, 'data', 'entries', '*.json'))]
-    checked = unverifiable = 0
-    suspect = []
+    strong = weak = none = nofull = 0
+    weak_items = []
     for e in entries:
         p = os.path.join(FULL, e['id'] + '.txt')
         if not os.path.exists(p):
-            unverifiable += len(e.get('key_data', []))
+            nofull += len(e.get('key_data') or [])
             continue
         txt = open(p, encoding='utf-8').read()
-        for k in e.get('key_data', []):
-            checked += 1
-            if not any(c in txt for c in num_variants(k['value'])):
-                suspect.append({
-                    'id': e['id'], 'label': k.get('label'), 'value': k['value'],
-                    'unit': k.get('unit'), 'sources': k.get('sources'),
-                    'note': (k.get('note') or '')[:100],
-                })
-    print('可核对 key_data: %d | 无对应全文（无法核对）: %d' % (checked, unverifiable))
-    if suspect:
-        print('\n数值未在全文直接匹配 %d 条（需人工判断是单位换算还是抄错）：' % len(suspect))
-        for s in suspect:
-            print('  %-26s %-34s value=%s %s' % (
-                s['id'], (s['label'] or '')[:32], s['value'], (s['unit'] or '')[:12]))
-            print('       note: %s' % s['note'])
-        return 1
-    print('\n结果：全部可核对数值均在来源全文中找到')
-    return 0
+        for k in (e.get('key_data') or []):
+            r = classify(k, txt)
+            if r == 'strong':
+                strong += 1
+            elif r == 'weak':
+                weak += 1
+                weak_items.append((e['id'], k.get('label', '')[:28], k['value']))
+            else:
+                none += 1
+    total = strong + weak + none
+    print('可核对 key_data: %d（另有 %d 条无来源全文）' % (total, nofull))
+    if total:
+        print('  ★ 强匹配（数字+单位/关键词/英文数字）: %d (%.0f%%)' % (strong, strong * 100 / total))
+        print('  ○ 弱匹配（仅数字出现，需人工判断）: %d (%.0f%%)' % (weak, weak * 100 / total))
+        print('  × 未匹配: %d' % none)
+    if weak_items:
+        print('\n弱匹配示例（前 8，需人工判断）:')
+        for w in weak_items[:8]:
+            print('  %-26s %-28s v=%s' % w)
+    print('\n说明：本工具只把强匹配作为可核对依据；弱匹配不视为通过。')
+    return 0 if none == 0 and weak == 0 else 1
 
 
 if __name__ == '__main__':
