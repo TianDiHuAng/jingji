@@ -1,0 +1,102 @@
+{
+  "id": "franklin-national-1974",
+  "title": "Franklin National 银行倒闭(1974)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "银行",
+  "one_line": "美国第20大银行因外汇投机与欺诈损失倒闭，为当时美国史上最大银行倒闭案。",
+  "overview": "Franklin National Bank 是位于纽约长岛富兰克林广场的银行，曾是美国**第20大**银行。它于 **1974年10月8日** 在涉及**米凯莱·辛多纳**(Michele Sindona)——一位与黑手党有关联的银行家——的复杂情形中倒闭。关键事实链：辛多纳在外汇市场上遭受巨额亏损，遂决定**从银行诈取3000万美元**以弥补损失；**1974年中期**管理层披露巨额亏损，存款人开始大额提款，迫使该行向美联储借款超过 **10亿美元**。该行最终倒闭，在当时是美国历史上最大的银行倒闭案（此后被大陆伊利诺伊超越）。投资人劳伦斯·蒂施(Laurence Tisch) 曾持有 **22%** 股份并任副董事长。该案例的教训集中在**内控与治理**：单一控制人的外部投机损失可以通过关联交易与欺诈转嫁给银行；同时它也显示外汇交易风险如何迅速转化为流动性危机。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1974,
+      "display": "1974年中期",
+      "event": "披露巨额亏损，存款人大量提款，向美联储借款超10亿美元",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    },
+    {
+      "year": 1974,
+      "display": "1974年10月8日",
+      "event": "银行倒闭（当时美国史上最大银行倒闭案）",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "控股人辛多纳外汇投机巨亏 → 从银行诈取3000万美元弥补",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    },
+    {
+      "step": "1974年中期披露巨额亏损 → 存款人挤兑",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    },
+    {
+      "step": "向美联储借款超10亿美元仍不支 → 1974年10月8日倒闭",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "辛多纳从银行诈取金额",
+      "value": 30,
+      "unit": "百万美元（3000万）",
+      "year": 1974,
+      "comparable_price": false,
+      "note": "原文：decided to defraud the bank of $30,000,000 to cover his losses；单一来源待核实。",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    },
+    {
+      "label": "向美联储借款规模",
+      "value": 1,
+      "unit": "十亿美元以上（超10亿）",
+      "year": 1974,
+      "comparable_price": false,
+      "note": "原文：causing the bank to have to borrow over $1 billion from the F[ed]；单一来源待核实。",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "治理视角",
+      "view": "单一控制人可借关联交易将私人损失转嫁给银行",
+      "basis": "据欺诈与亏损过程归纳",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    },
+    {
+      "holder": "市场风险视角",
+      "view": "外汇敞口未经对冲，是流动性危机的直接触发",
+      "basis": "据外汇亏损归纳",
+      "sources": [
+        "w-en-franklin-national"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与巴林银行1995年倒闭（见 barings-1995）结构相似：单一交易员的未经授权交易摧毁一家老牌银行；但Franklin的特殊性在于**控制人本人的欺诈**而非下属违规。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Franklin National 银行：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>控股人辛多纳外汇投机巨亏</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1974年中期披露巨额亏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>向美联储借款超10亿美元</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-franklin-national",
+    "w-en-barings-1995"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
+}

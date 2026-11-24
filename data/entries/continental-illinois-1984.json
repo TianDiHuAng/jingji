@@ -1,0 +1,110 @@
+{
+  "id": "continental-illinois-1984",
+  "title": "伊利诺伊大陆银行救助(1984)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "银行",
+  "one_line": "美国第七大银行因不良能源贷款与挤兑濒临倒闭，监管首创\"太大而不能倒\"式全面保护。",
+  "overview": "伊利诺伊大陆银行(Continental Illinois National Bank and Trust Company) 1910年成立，鼎盛时期按存款计是美国**第七大**商业银行，资产约 **400亿美元**。1984年该行陷入危机：其不良能源贷款（大量来自对 Penn Square Bank 的贷款参与，见该条目）与批发存款的脆弱结构叠加，引发对它的挤兑——在当时，这是美国历史上最大的银行倒闭/救助案之一。其制度意义在于监管的应对方式：联邦存款保险公司(FDIC) 破例对**所有存款人（含超过保险限额者）**提供保护，并注入资本、更换管理层，实质上宣告了\"**太大而不能倒**\"(too big to fail) 的实践先例。该案例常与 Penn Square、储贷危机（见 savings-loan-1986）串联讨论，也成为此后\"系统性重要机构\"监管与处置框架讨论的起点。值得注意的内部治理问题：该行贷款官员 Lytle 后来承认诈骗该行 **225万美元**、并为批准高风险贷款收取 **58.5万美元**回扣。具体救助金额与结构待核实。",
+  "timeline": [
+    {
+      "year": 1910,
+      "display": "1910年",
+      "event": "两家银行合并为 Continental & Commercial National Bank of Chicago（存款1.75亿美元）",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    },
+    {
+      "year": 1982,
+      "display": "1982年",
+      "event": "Penn Square 倒闭暴露贷款参与损失",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "year": 1984,
+      "display": "1984年",
+      "event": "危机爆发，FDIC 全面保护存款人并注资",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大额能源贷款参与（含Penn Square）→ 资产质量恶化",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "step": "批发存款为主的结构 + 信心丧失 → 挤兑式资金外流",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    },
+    {
+      "step": "FDIC 对所有存款人（含超限额）提供保护 → 形成\"太大而不能倒\"先例",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "大陆伊利诺伊资产规模(鼎盛)",
+      "value": 40,
+      "unit": "十亿美元（约400亿）",
+      "year": 1984,
+      "comparable_price": false,
+      "note": "原文：at its peak the seventh-largest commercial bank in the United States as measured by deposits, with approximately $40 billion in assets；单一来源待核实。",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    },
+    {
+      "label": "贷款官员诈骗金额",
+      "value": 2.25,
+      "unit": "百万美元（另收回扣58.5万）",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：Lytle later pleaded guilty to a count of defrauding Continental of $2.25 million and receiving $585,000 in kickbacks；单一来源待核实。",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "系统性风险视角",
+      "view": "大型银行倒闭的溢出成本超过救助成本，全覆盖保护是不得已",
+      "basis": "据监管选择归纳",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    },
+    {
+      "holder": "道德风险视角",
+      "view": "全面保护削弱市场约束，为后续更大规模救助埋下伏笔",
+      "basis": "据后续危机经验归纳；因果待核实",
+      "sources": [
+        "w-en-bailout"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与2008年雷曼（被放任倒闭）形成对照：大陆伊利诺伊的\"全保\"与雷曼的\"不救\"是危机处置光谱的两端。与北岩银行(2007)同为批发融资依赖型银行的挤兑样本。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伊利诺伊大陆银行救助(1984)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大额能源贷款参与（含Pe</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>批发存款为主的结构 + </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>FDIC 对所有存款人（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-penn-square",
+    "w-en-continental-illinois"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 555,
+  "total": 560,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7216,6 +7216,71 @@
       "period": "20世纪下半",
       "region": "欧洲",
       "crisis_type": "银行"
+    },
+    {
+      "id": "continental-illinois-1984",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "北美",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "penn-square-1982",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "北美",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "franklin-national-1974",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "北美",
+      "crisis_type": "银行"
+    },
+    {
+      "id": "albania-pyramid-1997",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "欧洲",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "settlement-risk",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
     }
   ]
 }

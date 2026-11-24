@@ -1,0 +1,91 @@
+{
+  "id": "albania-pyramid-1997",
+  "title": "阿尔巴尼亚金字塔骗局与1997年动乱",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "泡沫",
+  "one_line": "金字塔集资规模达12亿美元、近GDP一半，崩盘后引发武装动乱与国家失序。",
+  "overview": "1997年阿尔巴尼亚的动乱在很大程度上由**多个金字塔集资骗局的失败**触发。这些骗局的规模相对该国经济达到**空前水平**，使大量阿尔巴尼亚人失去钱财与财产，最终演变为广泛抗议与武装动乱。规模数据触目惊心：**骗局负债的面值合计达 12亿美元，接近阿尔巴尼亚当时GDP的一半**。这一案例的独特之处在于**金融欺诈直接引发国家失序**：当庞氏结构无法支付\"利息\"时，储户（许多人卖房、卖地、甚至变卖牲畜参与）的损失转化为对政府的愤怒——政府此前未有效监管甚至被指默许。结果是秩序崩溃、武装抢劫军械库、大规模移民外流，直至国际干预与重建。该案例被广泛用于讨论\"转轨经济体金融监管真空\"与\"庞氏骗局的宏观规模阈值\"。具体骗局数量与破产时序待核实。",
+  "timeline": [
+    {
+      "year": 1996,
+      "display": "1990年代中期",
+      "event": "金字塔集资快速膨胀，规模达空前水平",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    },
+    {
+      "year": 1997,
+      "display": "1997年",
+      "event": "骗局崩盘（负债12亿美元≈GDP一半），引发武装动乱",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "转轨初期金融监管真空 + 高息承诺 → 金字塔集资迅速膨胀",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    },
+    {
+      "step": "以新入资金支付旧\"利息\"（庞氏结构）→ 负债累积至12亿美元≈GDP一半",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    },
+    {
+      "step": "资金链断裂 → 储户损失惨重、抗议升级为武装动乱与国家失序",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "金字塔骗局负债面值合计",
+      "value": 1.2,
+      "unit": "十亿美元（12亿），≈GDP一半",
+      "year": 1997,
+      "comparable_price": false,
+      "note": "原文：The face value of the schemes' liabilities totaled $1.2 billion, nearly half of Albania's GDP at the time；单一来源待核实。",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "监管真空视角",
+      "view": "转轨期缺乏金融监管与投资者教育是骗局规模化的前提",
+      "basis": "据骗局规模与监管状况归纳",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    },
+    {
+      "holder": "社会后果视角",
+      "view": "当损失波及多数家庭时，金融问题必然政治化",
+      "basis": "据动乱过程归纳；因果待核实",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与2008年马多夫庞氏骗局相比，阿尔巴尼亚案的特点是**规模相对GDP极高**且**直接引发国家动乱**；马多夫案虽绝对金额更大，但集中于机构与富裕投资者。与苏克阿尔马纳克(1982)同属\"非正规金融链条断裂\"样本。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>阿尔巴尼亚金字塔骗局与1997年动乱：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>转轨初期金融监管真空 +</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以新入资金支付旧\"利息\"</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>资金链断裂 → 储户损失</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-albania-pyramid-schemes",
+    "w-en-ponzi-scheme"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
+}

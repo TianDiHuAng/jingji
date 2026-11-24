@@ -1,0 +1,113 @@
+{
+  "id": "penn-square-1982",
+  "title": "Penn Square 银行倒闭(1982)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "银行",
+  "one_line": "俄克拉何马小银行以不审慎能源贷款并转售\"贷款参与\"，倒闭后拖累多家大银行。",
+  "overview": "Penn Square Bank 是位于俄克拉何马城的一家小型美国商业银行。它发放了大量**审慎不足的能源相关贷款**，并将这些贷款转售给其他银行（\"贷款参与\"）。这些贷款上的损失使买入方银行陷入严重问题——**该行常被认为部分导致了芝加哥伊利诺伊大陆银行(Continental Illinois)的崩溃**，后者不得不冲销相关损失。其扩张速度本身即是警示：**1974至1982年间，该行资产增长超过15倍至5.25亿美元，存款从2900万美元膨胀到4.5亿美元以上**；而为支撑这一切，它向全美其他银行出售了超过 **10亿美元** 的贷款参与。1982年该行倒闭。该案例是\"**发起—分销**\"(originate-to-distribute) 模式风险的早期样本：放贷机构因能把贷款卖出去而丧失审慎动机，风险则被传递给对其一无所知的买入方。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1982,
+      "display": "1974—1982年",
+      "event": "资产增长超15倍至5.25亿美元，存款由2900万增至4.5亿以上",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "year": 1982,
+      "display": "1982年",
+      "event": "银行倒闭，拖累买入贷款参与的多家银行",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "能源景气 + 可转售贷款 → 放贷标准放松",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "step": "向其他银行出售超10亿美元贷款参与 → 风险扩散至买入方",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "step": "能源价格回落 → 贷款损失，银行倒闭并拖累大银行",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "资产规模(1982)",
+      "value": 525,
+      "unit": "百万美元（增长超15倍）",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：Between 1974 and 1982, the bank's assets increased more than 15 times to $525 million；单一来源待核实。",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "label": "存款规模增长(1974→1982)",
+      "value": 450,
+      "unit": "百万美元以上（由2900万起）",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：its deposits swelled from $29 million to more than $450 million；单一来源待核实。",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "label": "出售给其他银行的贷款参与规模",
+      "value": 1,
+      "unit": "十亿美元以上（超10亿）",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：the sale of over $1 billion in \"loan participations\" to other banks throughout Ameri[ca]；单一来源待核实。",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "激励扭曲视角",
+      "view": "贷款可转售使发起方丧失审慎动机，是证券化风险的雏形",
+      "basis": "据贷款参与模式归纳",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    },
+    {
+      "holder": "集中度视角",
+      "view": "能源行业贷款的高度集中是损失放大的主因",
+      "basis": "据贷款结构归纳",
+      "sources": [
+        "w-en-penn-square"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与2000年代的次级按揭证券化链条机制同源：把贷款卖出去 → 丧失审慎动机 → 风险由信息劣势方承担。区别在于1982年的工具是\"贷款参与\"而非MBS/CDO。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Penn Square 银行倒闭(198：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>能源景气 + 可转售贷款</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>向其他银行出售超10亿美</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>能源价格回落 → 贷款损</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-penn-square",
+    "w-en-continental-illinois"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
+}

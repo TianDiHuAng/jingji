@@ -153,6 +153,10 @@
 | nz-1984-reform | 新西兰Rogernomics改革(1984–) | 见条目 | 见条目 | 其他 | 见条目 | 续作BN |
 | nyc-fiscal-1975 | 纽约市财政危机(1975) | 20世纪下半 | 北美 | 债务 | 重要 | 续作CS |
 | swedish-crisis-1990s | 瑞典金融危机(1990–1994) | 20世纪下半 | 欧洲 | 银行 | 重要 | 续作CS |
+| continental-illinois-1984 | 伊利诺伊大陆银行救助(1984) | 20世纪下半 | 北美 | 银行 | 重要 | 续作CU |
+| penn-square-1982 | Penn Square 银行倒闭(1982) | 20世纪下半 | 北美 | 银行 | 补充 | 续作CU |
+| franklin-national-1974 | Franklin National 银行倒闭(1974) | 20世纪下半 | 北美 | 银行 | 补充 | 续作CU |
+| albania-pyramid-1997 | 阿尔巴尼亚金字塔骗局与1997年动乱 | 20世纪下半 | 欧洲 | 泡沫 | 重要 | 续作CU |
 
 ## U5 21世纪
 
@@ -578,3 +582,4 @@
 | j-curve | J曲线效应 | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
 | marshall-lerner | 马歇尔-勒纳条件 | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
 | black-market | 黑市与影子经济 | 理论制度 | 全球 | 其他 | 重要 | 续作CN |
+| settlement-risk | 结算风险(Herstatt风险) | 理论制度 | 全球 | 制度 | 补充 | 续作CU |
