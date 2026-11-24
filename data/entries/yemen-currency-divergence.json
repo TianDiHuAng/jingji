@@ -79,9 +79,10 @@
   "comparison": "与津巴布韦2009年美元化、南斯拉夫1990s货币崩溃相比，也门的特殊性在于**一国之内并存两套货币安排**；与黎巴嫩的多重汇率并存亦有相似处（见 lebanese-liquidity-2019）。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>也门货币分裂与里亚尔贬值(2015–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内战导致税收与外汇收入瓦</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>南部持续印钞 → 里亚尔</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>南北分裂的货币当局 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-yemeni-rial"
+    "w-en-yemeni-rial",
+    "w-en-currency-crisis"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】"
+  "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】 【续作CM】补充第二参考来源。"
 }

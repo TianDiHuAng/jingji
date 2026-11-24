@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 645,
+  "count": 648,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7741,6 +7741,42 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-money-laundering",
+      "title": "Money laundering",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Money_laundering",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(extract intro)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-housing-bubble",
+      "title": "Housing bubble",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Housing_bubble",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(extract intro)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-neoliberalism",
+      "title": "Neoliberalism",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Neoliberalism",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(extract intro)核对(本会话抓取)"
     }
   ]
 }

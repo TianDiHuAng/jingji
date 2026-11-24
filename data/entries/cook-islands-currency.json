@@ -118,9 +118,10 @@
   "comparison": "与正式\"货币局制度\"(currency board，要求100%外币储备)相比，库克群岛的安排属于**弱化版**：储备要求被降到面值一半以下、实际执行更低。与美元化的经济体相比，它保留了本地货币符号但实质依附锚货币。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>库克群岛货币安排：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本地货币+锚货币并行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>储备要求降至50%</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1993年仅5%支撑</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-cook-islands-dollar"
+    "w-en-cook-islands-dollar",
+    "w-en-currency-board"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；该案例属\"货币安排/制度\"性质而非危机事件，用于说明储备充足性议题。具体机制待核实。【续作CL】"
+  "pending_notes": "L2：据维基摘要；该案例属\"货币安排/制度\"性质而非危机事件，用于说明储备充足性议题。具体机制待核实。【续作CL】 【续作CM】补充第二参考来源。"
 }

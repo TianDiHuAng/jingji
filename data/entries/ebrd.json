@@ -62,9 +62,10 @@
   "comparison": "与世行/ADB 不同，EBRD 带有明确的\"转型\"使命与政治条件。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲复兴开发银行(EBRD)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>冷战后中东欧转轨 → 需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1991年成立 EBRD</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>转轨衰退的经验影响后续危</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
   "sources": [
-    "w-en-ebrd"
+    "w-en-ebrd",
+    "w-en-international-monetary-system"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
+  "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】 【续作CM】补充第二参考来源。"
 }

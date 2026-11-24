@@ -132,9 +132,10 @@
   "comparison": "与\"原罪\"型外债经济体（外币债为主）不同，南非以本币债为主、货币错配较轻；但外资持有波动仍构成脆弱点。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>南非国家债务与外资依赖：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字累积 → 政府债</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>本币计价占比高（约90%</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>外资持有比率波动 → 融</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-southafrica-debt"
+    "w-en-southafrica-debt",
+    "w-en-debt-crisis"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CE】补齐时间线。"
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CE】补齐时间线。 【续作CM】补充第二参考来源。"
 }
