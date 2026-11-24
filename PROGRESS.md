@@ -755,6 +755,28 @@
 - **另发现数据质量问题（已记入 BLOCKERS）**：8 个条目的来源全部是**通用概念页**（`Debt_crisis`／`Currency_crisis`／`Bank_run`／`Financial_crisis`），具体史实无法由通用条目支撑——`us-state-defaults-1840s`、`danish-bankruptcy-1813`、`dutch-collapse-1780`、`british-credit-1772`、`panic-1896`、`yemen-currency-divergence`、`panic-1910`、`subprime-crisis-2007`。
 - 三道检查全绿。现状：**625 条**、来源 727、站点 639 页。
 
+- **维基百科第 33 轮可用**。案例政策覆盖 **65% → 67%（138/205）**。
+- **修复 round 50 记录的 8 个来源不足条目**——为它们找到专属史实来源：
+
+  | 条目 | 新增专属来源 |
+  |---|---|
+  | `danish-bankruptcy-1813` | Danish_state_bankruptcy_of_1813（**专属条目**） |
+  | `british-credit-1772` | British_credit_crisis_of_1772–1773（**专属**） |
+  | `panic-1896` | Panic_of_1896（**专属**） |
+  | `panic-1910` | Shanghai_rubber_stock_market_crisis（**专属**） |
+  | `subprime-crisis-2007` | Subprime_mortgage_crisis（**专属**） |
+  | `us-state-defaults-1840s` | Panic_of_1837 |
+  | `dutch-collapse-1780` | Fourth_Anglo-Dutch_War / Dutch_East_India_Company |
+  | `yemen-currency-divergence` | Economy_of_Yemen / Yemeni_civil_war(2014–) |
+
+  新增 **5 个来源**（727→732）、**10 条**关联。这 8 条不再仅依赖"债务危机／货币危机"通用页。
+- 重抓 4 个仍用通用页的条目后，**再补 4 条政策应对**：
+  - **丹麦 1813**：1813.1.5 宣布破产并设 **Rigsbank**，两大目标为**稳定经济**与**建立统一货币体系**；1818 年设**私营 Nationalbank** 向企业提供信贷、**恢复白银**为核心货币
+  - **津巴布韦**：重定值至高达**百万亿**面额；最终方案是**采用外币为官方货币**——关键不在选哪种币，而在**统一到单一货币**，美元最有可信度
+  - **安然**：2001.10.16 宣布重述 1997—2000 财报，利润减 **6.13 亿美元（占 23%）**、负债增 6.28 亿；SEC 调查促成萨班斯法
+  - **华盛顿互惠**：接管后分行售予摩根大通，2009 年内全部改冠名 Chase 或关闭
+- 三道检查全绿。现状：**625 条**、来源 **732**、站点 639 页。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
