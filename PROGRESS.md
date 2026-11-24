@@ -6,7 +6,7 @@
 
 - 模式：自动扩充（AUTONOMOUS.md 协议）；终止状态为"饱和"，不写 ALL_DONE
 - **条目：624**（案例 205 / 概念 419）
-- **来源：732**（全部 verified 且可达）
+- **来源：700**（全部 verified 且可达）
 - **站点页面：638**
 - 层级：**核心 34 条全部 L3**；L3 共 **34** 条；L1 为 0
 - 内容覆盖：`comparison` **561/624（89%）**、`related` **624/624**
@@ -1133,6 +1133,27 @@
   - 新增 `_cleanup_stale_pages()`：生成前扫描 site 目录，删除既不属条目、也不属特殊页的旧 `.html`
   - 首次执行清理 1 个文件；页面数 639 → **638**（624 条目 + 14 特殊页）
 - 现状：**624 条**、来源 729、页面 **638**、key_data 416 条、comparison 562/624、案例政策 71%。十道检查全绿。
+
+- **维基百科第 57 轮可用（round 76）**。**合并 29 组重复来源，并记录第 6 次工具缺陷**。
+- **① 发现来源库冗余**：729 条来源中 **29 组指向同一 URL 却注册了两个 id**：
+
+  | 重复对（举例） |
+  |---|
+  | `w-en-argentine-economic-crisis-1999-2002` ═ `w-en-argentine-economic-crisis` |
+  | `w-en-mississippi-company` ═ `w-en-john-law-company` |
+  | `w-en-eurozone-crisis` ═ `w-en-euro-area-crisis` |
+  | `w-en-bengal-bubble-of-1769` ═ `w-en-bengal-bubble-1769` |
+  | `w-en-shanghai-rubber-stock-market-crisis` ═ `w-en-shanghai-rubber-1910` |
+
+- **② 第 6 次工具缺陷**：第一版重定向脚本只处理 4 个字段，**漏掉 `causal_chain[].sources` 与 `timeline[].sources`**，导致 **54 处 R4 错误**。
+- **③ 实测枚举出全部 7 个引用字段**：
+
+  `.sources`／`.key_data[].sources`／`.policy_response[].sources`／`.schools[].sources`／`.schools[].src`／`.causal_chain[].sources`／`.timeline[].sources`
+
+- **④ 改用递归遍历 `remap_obj`** 改写任意深度的 `sources`／`src`，不再依赖手写字段列表；从 git 恢复后重做，最终 **0 error**。
+- 来源库 **729 → 700** 条，重定向 28 个条目。
+- 这与第 5 次是**同一错误的复发**——写脚本前应先枚举，而不是凭记忆。
+- 十道检查全绿。
 
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
