@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 608,
+  "count": 610,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7297,6 +7297,30 @@
       "verified": true,
       "link_ok": true,
       "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "owid-unemployment",
+      "title": "Unemployment rate (World Bank / ILO via Our World in Data)",
+      "author": "Our World in Data（数据源：World Bank / ILO）",
+      "year": "2024",
+      "type": "统计数据库",
+      "url": "https://ourworldindata.org/grapher/unemployment-rate",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "OWID 结构化 CSV(本会话下载核对，源自世界银行/ILO，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "owid-inflation",
+      "title": "Inflation of consumer prices (World Bank via Our World in Data)",
+      "author": "Our World in Data（数据源：World Bank）",
+      "year": "2024",
+      "type": "统计数据库",
+      "url": "https://ourworldindata.org/grapher/inflation-of-consumer-prices",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "OWID 结构化 CSV(本会话下载核对，源自世界银行，非维基，作为第二独立来源)"
     }
   ]
 }

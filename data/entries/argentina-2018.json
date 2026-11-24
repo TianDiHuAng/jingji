@@ -69,6 +69,17 @@
       "sources": [
         "w-en-argentina-2018"
       ]
+    },
+    {
+      "label": "阿根廷通胀率(2018，世界银行/OWID口径)",
+      "value": 34.28,
+      "unit": "%（年率；维基条目载\"超过30%\"）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "来源：OWID ... entity=Argentina, year=2018 → 34.277（世界银行口径）。**与维基\"超过30%\"一致**，构成双源印证。",
+      "sources": [
+        "owid-inflation"
+      ]
     }
   ],
   "schools": [
@@ -104,9 +115,10 @@
   "sources": [
     "w-en-argentina-2018",
     "w-en-capital-flight",
-    "w-en-currency-crisis"
+    "w-en-currency-crisis",
+    "owid-inflation"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AQ】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AQ】补关键数据（单源）。 【续作BF】2018年通胀已由世界银行/OWID数据印证（34.3% vs \"超过30%\"）。"
 }

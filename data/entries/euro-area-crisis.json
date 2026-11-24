@@ -37,9 +37,10 @@
       "unit": "%（高达）",
       "year": 2013,
       "comparable_price": false,
-      "note": "原文：increases in unemployment rates to as high as 27% in Greece and Spain；单一来源待核实。",
+      "note": "原文：increases in unemployment rates to as high as 27% in Greece and Spain；单一来源待核实｜**双源印证**：OWID/世界银行-ILO 数据为希腊2013年 27.686%、西班牙2013年 26.094%，与维基\"高达27%\"一致。",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-eurozone-crisis",
+        "owid-unemployment"
       ]
     },
     {
@@ -51,6 +52,28 @@
       "note": "原文：a revision of the forecast for the 2009 budget deficit from \"6–8%\" ... to 12.7%；单一来源待核实。",
       "sources": [
         "w-en-eurozone-crisis"
+      ]
+    },
+    {
+      "label": "希腊失业率(2013，世界银行/ILO)",
+      "value": 27.686,
+      "unit": "%",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "来源：OWID grapher unemployment-rate.csv，entity=Greece, year=2013 → 27.686（世界银行/ILO 口径）。",
+      "sources": [
+        "owid-unemployment"
+      ]
+    },
+    {
+      "label": "西班牙失业率(2013，世界银行/ILO)",
+      "value": 26.094,
+      "unit": "%",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "来源：OWID grapher unemployment-rate.csv，entity=Spain, year=2013 → 26.094（世界银行/ILO 口径）。",
+      "sources": [
+        "owid-unemployment"
       ]
     }
   ],
@@ -103,7 +126,8 @@
   "sources": [
     "w-en-eurozone-crisis",
     "w-en-euro-area-crisis",
-    "w-en-debt-crisis"
+    "w-en-debt-crisis",
+    "owid-unemployment"
   ],
   "related": [
     "china-realestate-2020",
@@ -111,7 +135,7 @@
     "pakistan-crisis-2021"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BE】失业率已用 OWID/世界银行-ILO 数据双源印证。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
