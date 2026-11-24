@@ -1,0 +1,91 @@
+{
+  "id": "nz-1984-reform",
+  "title": "新西兰 Rogernomics 改革(1984–)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "大洋洲",
+  "crisis_type": "其他",
+  "one_line": "1984年起新西兰财政部长 Roger Douglas 推行的新自由主义经济改革（Rogernomics）。",
+  "overview": "Rogernomics（\"Roger\"与\"economics\"的合成词，仿 Reaganomics 构词）是新西兰财政部长罗杰·道格拉斯（Roger Douglas）于1984年起推动的新自由主义经济改革。改革包括税制调整——实施减税并引入商品与服务税（GST，初始税率为10%）。这场改革被视为发达国家中最激进的市场化转向之一，其社会代价与成效长期存在争论。具体措施待核实。",
+  "timeline": [
+    {
+      "year": 1984,
+      "display": "1984年起",
+      "event": "Roger Douglas 任财政部长，推行 Rogernomics 改革（据 Wikipedia Rogernomics）",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "高通胀、财政失衡与管制僵化 → 转向激进市场化改革",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "step": "放开管制、减税并引入 GST → 重塑税制与产业结构",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "step": "改革阵痛：失业上升与社会不平等加剧（争论）",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "商品与服务税(GST)初始税率",
+      "value": 10,
+      "unit": "%",
+      "year": 1986,
+      "comparable_price": false,
+      "note": "原文：a Goods and Services Tax (initially set at 10%) was introduced（维基 Rogernomics）；单一来源待核实。",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "市场化视角",
+      "view": "结构性改革提升长期效率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "holder": "社会代价视角",
+      "view": "激进改革带来失业与不平等上升",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-put-all-eggs-in-one-basket"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    }
+  ],
+  "comparison": "与同期英国撒切尔、美国里根、智利芝加哥学派改革并列，属1980年代全球新自由主义转向的一部分。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新西兰 Rogernomics 改革(1：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>高通胀、财政失衡与管制僵</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>放开管制、减税并引入 G</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>改革阵痛：失业上升与社会</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-rogernomics"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】"
+}

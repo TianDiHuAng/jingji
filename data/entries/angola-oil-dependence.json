@@ -1,0 +1,115 @@
+{
+  "id": "angola-oil-dependence",
+  "title": "安哥拉石油依赖型经济波动",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "非洲",
+  "crisis_type": "其他",
+  "one_line": "安哥拉经济高度依赖石油出口，油价与产量变化直接决定贸易与财政表现。",
+  "overview": "安哥拉在21世纪头十年曾是全球增长最快的经济体之一，2001—（2010）年报告的年均GDP增速达11.1%。但该国仍高度依赖石油部门——2017年石油占出口价值的90%以上。2022年贸易顺差为300亿美元，而2012年为480亿美元。经济多元化不足使安哥拉易受油价与产量波动冲击。具体数据待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "石油占出口90%以上（2017）→ 贸易与财政高度依赖油价",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "step": "2001—2010 年均GDP增速11.1% → 油价上行期高速增长",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "step": "2014年后油价下行 → 贸易顺差由480亿(2012)降至300亿(2022)",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "安哥拉年均GDP增速(2001–2010，报告值)",
+      "value": 11.1,
+      "unit": "%",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：with reported annual average GDP growth of 11.1 percent from 2001 to [2010]（维基 Economy of Angola）；年份区间截断处待核实。",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "label": "石油占出口价值比重(2017)",
+      "value": 90,
+      "unit": "%（以上）",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：which in 2017 accounted for over 90 percent of exports by value；单一来源待核实。",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "label": "安哥拉贸易顺差(2012)",
+      "value": 48,
+      "unit": "十亿美元",
+      "year": 2012,
+      "comparable_price": false,
+      "note": "原文：2022 trade surplus was $30 billion, compared to $48 billion in 2012；单一来源待核实。",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "label": "安哥拉贸易顺差(2022)",
+      "value": 30,
+      "unit": "十亿美元",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：2022 trade surplus was $30 billion；单一来源待核实。",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "资源诅咒视角",
+      "view": "资源依赖抑制多元化与制度质量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    },
+    {
+      "holder": "增长视角",
+      "view": "油价上行期可带来高速增长",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
+  "comparison": "与尼日利亚结构类似（石油主导财政与出口），但安哥拉出口集中度更高。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>安哥拉石油依赖型经济波动：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>石油占出口90%以上（2</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2001—2010 年均</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>2014年后油价下行 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-angola-econ"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】"
+}

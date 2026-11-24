@@ -1,0 +1,105 @@
+{
+  "id": "nigeria-debt",
+  "title": "尼日利亚债务与经济结构风险",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "非洲",
+  "crisis_type": "债务",
+  "one_line": "非洲最大经济体之一的尼日利亚，其财政高度依赖石油收入而石油占GDP比重有限，构成结构性脆弱。",
+  "overview": "尼日利亚的债务与GDP之比在2021年据国际货币基金组织为36.63%。尽管石油收入贡献了国家收入的三分之二，石油对GDP的贡献却仅约9%；尼日利亚生产全球约2.7%的石油。这种\"财政收入高度依赖石油、但石油在产出中占比不高\"的结构，使财政对油价波动极为敏感。具体数据与年份待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "财政收入高度依赖石油（约2/3）→ 油价下跌直接冲击财政",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    },
+    {
+      "step": "石油仅占GDP约9% → 收入结构与产出结构错配",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    },
+    {
+      "step": "外部冲击（2014–16油价下跌）→ 汇率与财政压力",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "尼日利亚债务/GDP(2021，IMF口径)",
+      "value": 36.63,
+      "unit": "%",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：Nigeria's debt-to-GDP ratio was 36.63% in 2021 according to the IMF（维基 Economy of Nigeria）；单一来源待核实。",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    },
+    {
+      "label": "石油占GDP比重（约）",
+      "value": 9,
+      "unit": "%（而石油贡献约2/3的政府收入）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：Although oil revenues contributed 2/3 of state revenues, oil only contributes about 9% to the GDP；单一来源待核实。",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    },
+    {
+      "label": "尼日利亚占全球石油供给（约）",
+      "value": 2.7,
+      "unit": "%",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：Nigeria produces about 2.7% of the world's oil supply；单一来源待核实。",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "资源依赖视角",
+      "view": "单一资源依赖放大外部冲击",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    },
+    {
+      "holder": "结构转型视角",
+      "view": "需多元化以降低波动",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-nigeria-econ"
+      ]
+    }
+  ],
+  "comparison": "与安哥拉、委内瑞拉等石油依赖型经济体结构相似：财政收入与产出结构错配放大油价冲击。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>尼日利亚债务与经济结构风险：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政收入高度依赖石油（约</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>石油仅占GDP约9% →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>外部冲击（2014–16</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-nigeria-econ",
+    "w-en-oil-price-war-2020"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】"
+}

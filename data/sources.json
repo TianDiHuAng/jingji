@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 630,
+  "count": 634,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7557,6 +7557,54 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Arendal_crash",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-rogernomics",
+      "title": "Rogernomics",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Rogernomics",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-nigeria-econ",
+      "title": "Economy of Nigeria",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Nigeria",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-southafrica-debt",
+      "title": "National Debt of South Africa",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/National_Debt_of_South_Africa",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-angola-econ",
+      "title": "Economy of Angola",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Angola",
       "url2": null,
       "verified": true,
       "link_ok": true,

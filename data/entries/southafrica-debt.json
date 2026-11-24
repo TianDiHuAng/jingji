@@ -1,0 +1,115 @@
+{
+  "id": "southafrica-debt",
+  "title": "南非国家债务与外资依赖",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "非洲",
+  "crisis_type": "债务",
+  "one_line": "南非政府债务规模与结构变化：本币债占比高降低汇率风险，但外资持有比例波动带来融资脆弱性。",
+  "overview": "截至2025/26年度，南非政府债务总额为6.09万亿兰特（4120.4亿美元），债务与GDP之比为77.4%。2019/20年度约90%的国债以南非兰特计价，从而降低了因汇率波动带来的借款风险；到2020年9月约有1570亿美元的南非国债由外部持有。截至2021年12月，外资持有国内债券的份额为28.2%，降至十年低点。具体数据待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "财政赤字累积 → 政府债务/GDP 升至 77.4%（2025/26）",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "step": "本币计价占比高（约90%）→ 降低汇率错配风险",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "step": "外资持有比率波动 → 融资成本与再融资风险变化",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "南非政府债务总额(2025/26)",
+      "value": 6.09,
+      "unit": "万亿兰特（US$412.04bn）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：the gross South African government debt was R6.09 trillion (US$412.04 billion)；单一来源待核实。",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "label": "南非债务/GDP(2025/26)",
+      "value": 77.4,
+      "unit": "%",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：with a debt-to-GDP ratio of 77.4%；单一来源待核实。",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "label": "本币计价国债占比(2019/20,约)",
+      "value": 90,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：Roughly 90% of the national debt in 2019/20 was denominated in South African rand；单一来源待核实。",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "label": "外资持有国内债券份额(2021-12)",
+      "value": 28.2,
+      "unit": "%（十年低点）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：the share of domestic bonds held by foreign investors was 28.2%, this represented a declined to a 10-year low；单一来源待核实。",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "债务结构视角",
+      "view": "本币债为主降低货币错配",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    },
+    {
+      "holder": "外资依赖视角",
+      "view": "非居民持有比例变化影响融资稳定性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-capital-flight"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施与效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-southafrica-debt"
+      ]
+    }
+  ],
+  "comparison": "与\"原罪\"型外债经济体（外币债为主）不同，南非以本币债为主、货币错配较轻；但外资持有波动仍构成脆弱点。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>南非国家债务与外资依赖：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政赤字累积 → 政府债</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>本币计价占比高（约90%</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>外资持有比率波动 → 融</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-southafrica-debt"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】"
+}
