@@ -1066,6 +1066,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "案例政策覆盖 29%→35%",
       "note": "维基第10轮不可达。DT/DU补写12条:great-depression(英美脱离金本位)、gold-reserve-act-1934(黄金国有化)、gold-bloc(七国坚持→相继放弃金本位)、glass-steagall-1933(业务分离+设FDIC)、greek-hyper-1941(1944-46新德拉克马)、hainan-property-bubble-1992(1993年中\"约法三章\"收紧信贷+关闭海南发展银行)、haitian-independence-debt(1838年减免至6000万/30年)、kipper-wipper-1618(1623年置币改革恢复足色)、mississippi-bubble-1720(国家赔付5.14亿里弗)、lebanese-liquidity-2019(公债置换欧元债约20亿美元+存款提取限制)、london-econ-1933(66国协调失败)、mini-crash-1997(纽交所提前收市+推动1998熔断规则)。剔除无政策依据者(gamestop/德国2022/雷曼/美第奇/美林等)。案例覆盖72/205=35%。"
+    },
+    {
+      "round": "续作DV",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 8,
+      "reviewed": 20,
+      "fixed": 0,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "案例政策覆盖 35%→39%",
+      "note": "维基第11轮不可达。DV补写8条:panic-1792(汉密尔顿授权购入15万美元国债,美国最早非正式最后贷款人实践)、overend-gurney(恐慌后英格兰银行明确承担最后贷款人,白芝浩《伦巴第街》经验基础)、nyc-fiscal-1975(州设MAC/EFCB监督机构+联邦贷款)、norwegian-banking-1988(政府救助银行体系)、nz-1984-reform(Rogernomics减税+引入GST税率10%)、oil-crisis-1973(OAPEC减产并对美禁运)、oil-crisis-1979(1979-04-05卡特分阶段解除油价管制)、oil-price-war-2020(2020-03-08沙特发起价格战)。剔除无政策依据者(nz-finance-collapse/nz-property-bubble等)。案例覆盖80/205=39%。"
     }
   ]
 }
