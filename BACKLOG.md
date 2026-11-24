@@ -68,3 +68,22 @@
 
 **观察**：本站概念覆盖偏向"金融专门术语"，而基础经济学地基不完整。补建时应优先处理
 `growth`／`expectations`／`utility`／`recession`／`market-failure`／`rent-seeking` 六项。
+
+## 续作EQ：文中已引用但站内无独立条目的概念（round 43）
+
+用正则从各条目的 `comparison` 与 `overview` 中提取括号内/粗体的英文术语引用，共 39 个，
+其中 8 个站内不存在。逐一核对上下文后，4 个属于**英文术语标注**（应保留原文，非条目引用）：
+`residency-based`（capital-control）、`mini-crash`（条目自身英文名）、
+`de-risking`（money-laundering）、`originate-to-distribute`（penn-square-1982、subprime-lending）。
+
+**真正属于概念缺口的是以下 4 个**（文中以"与 X 的区别/相近"形式引用，暗示应有独立条目）：
+
+| 概念 | 中文 | 引用位置 | 优先级 |
+|---|---|---|---|
+| `bank-resolution` | 银行处置 | bad-bank/comparison | 高（危机处置核心机制） |
+| `leverage-ratio` | 杠杆率 | capital-requirement/comparison | 高（巴塞尔III 双轨之一） |
+| `ring-fencing` | 圈护 | glass-steagall-1933/comparison | 中（英国2019年制度） |
+| `inflation-tax` | 通胀税 | seigniorage/comparison | 中（与铸币税口径对照） |
+
+**方法记录**：用"文中英文术语引用"与"站内 id 集合"做差集，能系统发现概念缺口。
+这比逐条人工阅读效率高得多，且每次新增内容后都可重跑。脚本：`_research/EQ_refcheck.py`。
