@@ -39,7 +39,52 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "黄金法定价格(法案前)",
+      "value": 20.67,
+      "unit": "美元/金衡盎司",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：changed the statutory price of gold from $20.67 per troy ounce to $35；单一来源待核实。",
+      "sources": [
+        "w-en-gold-reserve-act"
+      ]
+    },
+    {
+      "label": "黄金法定价格(法案后)",
+      "value": 35,
+      "unit": "美元/金衡盎司（重估）",
+      "year": 1934,
+      "comparable_price": false,
+      "note": "原文：Immediately following passage of the Act, the President revalued the price of gold to $35 per troy ounce；单一来源待核实。",
+      "sources": [
+        "w-en-gold-reserve-act"
+      ]
+    },
+    {
+      "label": "美国GNP年均增速(1933–1937)",
+      "value": 8,
+      "unit": "%（超过8%）",
+      "year": 1937,
+      "comparable_price": false,
+      "note": "原文：Between 1933 and 1937 the GNP in the United States grew at an average rate of over 8 percent；单一来源待核实。",
+      "sources": [
+        "w-en-gold-reserve-act"
+      ]
+    },
+    {
+      "label": "美国M1年均增速(1933–1937)",
+      "value": 10,
+      "unit": "%",
+      "year": 1937,
+      "comparable_price": false,
+      "note": "原文：M1 ... grew at an average rate of 10 percent per year between 1933 and 1937；单一来源待核实。",
+      "sources": [
+        "w-en-gold-reserve-act"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "货币自主视角",
@@ -64,9 +109,10 @@
   "sources": [
     "w-en-gold-standard",
     "w-en-gold-reserve-act-1934",
-    "w-en-great-depression"
+    "w-en-great-depression",
+    "w-en-gold-reserve-act"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作CT】补充关键数据。"
 }

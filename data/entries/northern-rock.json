@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "北岩银行英格兰银行借款峰值",
+      "value": 26.9,
+      "unit": "十亿英镑（269亿）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：owing a net balance of only £8.9 billion of the loan which stood at £26.9 billion at the end [of the year]；借款峰值年份待核实。",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    },
+    {
+      "label": "借款余额(2009-03-03)",
+      "value": 8.9,
+      "unit": "十亿英镑（89亿，提前偿还）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：As of 3 March 2009, the bank was repaying the loan well ahead of target, owing a net balance of only £8.9 billion；单一来源待核实。",
+      "sources": [
+        "w-en-northern-rock"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "融资结构视角",
@@ -76,5 +99,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作CT】补充关键数据。"
 }
