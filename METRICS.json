@@ -2734,6 +2734,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "3 条缺全文条目诚实性合格（无编造）；REPORT 遗留补备份风险与网络诊断",
       "note": "维基第150轮可用。PI：核查 3 条缺全文条目的诚实性（均无编造）+ 更新 REPORT 遗留（含备份风险）。\n①**DBpedia 摘要端点彻底不可用**（对 Berlin 等也返回 0 行，非仅目标资源），放弃该绕行。\n②**核查 3 条缺全文条目**（south-sea-bubble-1720／bear-stearns／bcci）：均 needs_verification=True、概述注明\"暂缺维基全文…待补\"、无编造的价格/人物细节。bear-stearns 的两条 key_data（$13.40T 衍生品名义额、$28B level-3 资产 vs $11B 净权益）均有\"原文\"引述、系真实数据（仅本地无缓存），非编造。**诚实性合格**。\n③**更新 REPORT.md 遗留节**：新增\"成果未备份到 GitHub\"（远程 pushed_at 停在 2026-11-22、约 415 提交未推、无 token 无法自动推）与网络白名单式诊断说明。\n④十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
+    },
+    {
+      "round": "续作PJ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 641,
+      "fixed": 1,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "枚举字段全部规范；加 R30 枚举合法性，自测 35",
+      "note": "维基第151轮可用。PJ：枚举字段取值核查（全部干净）+ 固化 R30。\n①**枚举字段核查**：region（8 值）、crisis_type（8 值）、tier（3）、level（L2/L3）、unit/period（各 6）——**取值全部规范，无拼写错/近义重复**；unit×crisis_type 交叉合理（案例 U1–U5 无一标\"理论\"，U6 概念标制度177/理论152 及各领域类型）。\n②**固化 R30**：枚举字段（region/crisis_type/tier/level/unit/period）取值须在允许集合内，否则 error。自测 34 → **35 项**。\n③十一道检查全绿。\n④现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 35/35。"
     }
   ]
 }

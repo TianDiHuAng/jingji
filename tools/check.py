@@ -365,6 +365,22 @@ def main():
         if _pre in _U2P and _e.get('period') != _U2P[_pre]:
             warn('R29', _e.get('id', '?'), 'period=%s 与 unit=%s 不对应（应为 %s）'
                  % (_e.get('period'), _e.get('unit'), _U2P[_pre]))
+    # R30 枚举字段取值须在允许集合内（防拼写错/近义重复）
+    _VOCAB = {
+        'region': {'全球', '北美', '欧洲', '非洲', '拉美', '亚洲', '大洋洲', '中东'},
+        'crisis_type': {'制度', '理论', '银行', '泡沫', '其他', '货币', '恶性通胀', '债务'},
+        'tier': {'补充', '重要', '核心'},
+        'level': {'L1', 'L2', 'L3'},
+        'period': {'早期—17世纪', '18—19世纪', '20世纪上半', '20世纪下半', '21世纪', '理论制度'},
+    }
+    _UNITS = {'U1 早期—17世纪', 'U2 18—19世纪', 'U3 20世纪上半',
+              'U4 20世纪下半', 'U5 21世纪', 'U6 理论与制度'}
+    for _e in entries:
+        for _f, _ok in _VOCAB.items():
+            if _e.get(_f) not in _ok:
+                err('R30', _e.get('id', '?'), '%s 取值 %r 不在允许集合' % (_f, _e.get(_f)))
+        if _e.get('unit') not in _UNITS:
+            err('R30', _e.get('id', '?'), 'unit 取值 %r 不在允许集合' % (_e.get('unit'),))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

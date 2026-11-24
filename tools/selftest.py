@@ -377,6 +377,15 @@ def m_r29():
 
 case('R29 period与unit不符', m_r29, ['tools/check.py'], 'R29', [RW_ENT])
 
+
+def m_r30():
+    d = json.load(open(RW_ENT, encoding='utf-8'))
+    d['region'] = '殴洲'   # 拼写错的非法枚举 → 触发 R30
+    json.dump(d, open(RW_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R30 枚举值非法', m_r30, ['tools/check.py'], 'R30', [RW_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 
