@@ -826,6 +826,18 @@
       "check_result": "PASS (555); check_links 569页 0 error",
       "spot_check": "U4 41→43",
       "note": "CS新增2条U4:纽约市财政危机(1975,累积债务140亿美元其中短期60亿,经营赤字超6亿估达22亿,被排除在信贷市场外,制造业岗位流失约50%,1971布朗斯维尔骚乱)与瑞典金融危机(1990-94,房价泡沫通缩致信贷紧缩,Nordbanken与Götabanken国有化成本640亿克朗,救助初始成本GDP 4%后降至0-2%,与日本宽容处置形成对照)。总555条,来源664,key_data 334。"
+    },
+    {
+      "round": "续作CT",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 19,
+      "fixed": 3,
+      "sources_total": 660,
+      "check_result": "PASS (555); check_links 569页 0 error",
+      "spot_check": "**来源库 660 条全部 verified 且可达**（删除5个403不可达且零引用来源）",
+      "note": "CT三项:①为2条重要级条目补6个数据(黄金储备法金价$20.67→$35/GNP+8%/M1+10%;北岩银行借款269亿→89亿英镑)②清理5个HTTP 403永久不可达且经全站扫描确认零引用的来源(britannica/imf/investopedia/baike/bls),来源库665→660,现100% verified且可达③首页统计新增\"关键数据条数\"与\"已获第二来源印证\"两项。key_data 340条。"
     }
   ]
 }
