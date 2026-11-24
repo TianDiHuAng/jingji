@@ -48,7 +48,7 @@
       "comparable_price": false,
       "note": "原文：market capitalization of all shares jumped in a few months from $5 billion to $100 billion；单一来源待核实。",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "comparable_price": false,
       "note": "原文：from $5 billion to $100 billion；单一来源待核实。",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     },
     {
@@ -70,7 +70,7 @@
       "comparable_price": false,
       "note": "原文：summed the value of worthless outstanding checks at the equivalent of US$94 billion from about 6,000 investors；单一来源待核实。",
       "sources": [
-        "w-en-speculative-bubble"
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     }
   ],
@@ -117,5 +117,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体金额与人数待核实」，已移入此处。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体金额与人数待核实」，已移入此处。 【续作NI｜round133】部分 key_data 原误标通用来源，已按\"数字确在专属页缓存中\"改引专属来源 w-en-souk-al-manakh-stock-market-crash。"
 }

@@ -48,7 +48,7 @@
       "comparable_price": false,
       "note": "原文：more than $150 million in gold was exported from the United States；单一来源待核实。",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-panic-of-1884"
       ]
     }
   ],
@@ -83,5 +83,5 @@
     "panic-1893"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作FP】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体数据待核实」，已移入此处。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1884替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作FP】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体数据待核实」，已移入此处。 【续作NI｜round133】部分 key_data 原误标通用来源，已按\"数字确在专属页缓存中\"改引专属来源 w-en-panic-of-1884。"
 }

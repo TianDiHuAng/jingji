@@ -85,5 +85,5 @@
     "syrian-pound-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】 【续作CM】补充第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。"
+  "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】 【续作CM】补充第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作NG｜round133】核实：本地 wiki_full 缓存为**通用来源**（如 Currency crisis／Economic bubble／Bank run）而非本条的专属来源页；条目**已正确引用专属来源**，内容经人工阅读核对准确，但专属来源全文未缓存，本地数/年核对受限。**网络恢复后应补抓专属来源全文**。"
 }

@@ -56,7 +56,7 @@
       "comparable_price": false,
       "note": "原文：more than 200 Dutch merchantmen, with cargo to the amount of 15 million guilders, had been captured；单一来源待核实。",
       "sources": [
-        "w-en-debt-crisis"
+        "w-en-fourth-anglo-dutch-war"
       ]
     }
   ],
@@ -93,5 +93,5 @@
     "danish-bankruptcy-1813"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FP】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体数据待核实」，已移入此处。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作FP】补充 key_data（取自维基原文）。 【清理】原概述结尾含「具体数据待核实」，已移入此处。 【续作NI｜round133】部分 key_data 原误标通用来源，已按\"数字确在专属页缓存中\"改引专属来源 w-en-fourth-anglo-dutch-war。"
 }

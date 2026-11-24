@@ -92,3 +92,18 @@
 **扩写原则**：机制类核心概念补「机制 + 与危机的关联」；工具性概念（beta 等）简短即完整。案例类必须**先读来源全文**再写，只写来源中存在的事实。
 
 **遗留**：3 条案例（south-sea-bubble-1720／bear-stearns／bcci）扩写时无维基全文缓存（网络不可用），仅据条目内已核事实 + 机制说明撰写，**具体细节待补来源后核实**（已在各自 pending_notes 标注）。
+
+## 待办：补抓专属来源全文（5 条案例，round 133 记录）
+
+以下条目的本地 `_research/wiki_full/<id>.txt` 存的是其**通用来源**的文本（Currency crisis／Economic bubble／Bank run 等），
+**专属来源页的全文未缓存**，导致本地无法逐数/逐年核对。条目本身引用正确、内容经人工阅读准确。
+
+**网络恢复后需为下列条目补抓其专属来源全文（按 sources 中非通用的那一项）：**
+- `dutch-stock-crashes`（荷兰共和国股市崩盘(c.1600–1760)）：sources=['w-en-speculative-bubble', 'w-en-financial-crisis', 'w-en-financial-history-of-the-dutch-republic']
+- `panic-1896`（1896年美国金融恐慌）：sources=['w-en-currency-crisis', 'w-en-financial-crisis', 'w-en-panic-of-1896']
+- `panic-1910`（1910–1911年恐慌）：sources=['w-en-bank-run', 'w-en-financial-crisis', 'w-en-shanghai-rubber-1910', 'w-en-panic-of-1910']
+- `us-video-game-crash-1983`（1983年美国游戏业大萧条）：sources=['w-zh-us-video-game-crash-1983', 'w-en-speculative-bubble']
+- `yemen-currency-divergence`（也门货币分裂与里亚尔贬值(2015–)）：sources=['w-en-yemeni-rial', 'w-en-currency-crisis', 'w-en-economy-of-yemen', 'w-en-yemeni-civil-war-2014-present']
+
+**补抓方法**：用 Wikipedia API 按专属来源的 title 抓 extract，覆盖写入 `_research/wiki_full/<id>.txt`，
+然后跑 `check_kd.py` / `check_body_num.py` 复核。
