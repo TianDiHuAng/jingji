@@ -61,6 +61,7 @@ cov_ids = set()
 if cov:
     cov_ids = {e['id'] for e in cov.get('entries', [])}
 
+TYPE_VOCAB = {'权威百科', '学术著作', '官方机构', '统计数据库'}
 REQUIRED = ['id','title','level','tier','unit','period','region','crisis_type',
             'one_line','overview','sources']
 VALID_LEVEL = {'L1','L2','L3'}
@@ -243,6 +244,11 @@ def main():
         if len(vals) > 1:
             # 同 label 出现不同数值——需看是否为不同年份/口径，降级为 warning 供人工确认
             warn('R13', '全站', f'指标 "{label}" 出现多个数值/单位: {sorted(vals, key=str)}')
+    # R17 来源 type 词汇表
+    for _s in (src_data or {}).get('sources', []):
+        if _s.get('type') not in TYPE_VOCAB:
+            err('R17', _s.get('id','?'), 'type "%s" 不在词汇表（%s）'
+                % (_s.get('type'), '/'.join(sorted(TYPE_VOCAB))))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)
