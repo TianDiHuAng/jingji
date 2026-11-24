@@ -80,7 +80,7 @@
       "comparable_price": false,
       "note": "原文：By mid-1928, 42 percent of deposits at joint-stock banks were foreign；单一来源待核实。",
       "sources": [
-        "w-en-european-banking-crisis-1931"
+        "w-en-european-banking-1931"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "comparable_price": false,
       "note": "原文：contracting by 17 percent from June 1930 to June 1931；单一来源待核实。",
       "sources": [
-        "w-en-european-banking-crisis-1931"
+        "w-en-european-banking-1931"
       ]
     },
     {
@@ -102,7 +102,7 @@
       "comparable_price": false,
       "note": "原文：At its low point in 1932, German economic output had fallen 39 percent from its 1929 level；单一来源待核实。",
       "sources": [
-        "w-en-european-banking-crisis-1931"
+        "w-en-european-banking-1931"
       ]
     }
   ],
@@ -130,7 +130,6 @@
       "view": "货币制度层面的应对是放弃金本位：德国于1931年7月15日退出金本位，英国随后于1931年9月19日退出——以此摆脱维持平价的通缩约束、恢复货币政策空间。",
       "basis": "据本条目正文（动作：退出金本位）；具体细节与效果评价待核实",
       "sources": [
-        "w-en-european-banking-crisis-1931",
         "w-en-european-banking-1931"
       ]
     }
@@ -138,7 +137,6 @@
   "comparison": "与1907、2008年危机相比，1931年危机的关键特征是金本位约束下的政策瘫痪；其后果是金本位体系瓦解。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1931年欧洲银行危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>奥地利 Creditan</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-european-banking-crisis-1931",
     "w-en-european-banking-1931",
     "w-en-gold-standard"
   ],

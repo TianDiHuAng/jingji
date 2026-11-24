@@ -47,7 +47,7 @@
       "display": "1934年1月30日",
       "event": "美国《黄金储备法》，黄金与金券上缴财政部",
       "sources": [
-        "w-en-gold-reserve-act-1934"
+        "w-en-gold-reserve-act"
       ]
     }
   ],
@@ -144,8 +144,7 @@
     "fed-great-depression",
     "w-en-great-depression-in-us",
     "w-zh-002",
-    "bk-the-great-depression",
-    "org-fed-essay-greatdep"
+    "bk-the-great-depression"
   ],
   "related": [
     "covid-crash-2020",

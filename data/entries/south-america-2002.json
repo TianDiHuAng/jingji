@@ -39,19 +39,19 @@
     {
       "step": "2002年阿根廷、巴西、乌拉圭等国出现经济动荡",
       "sources": [
-        "w-en-south-american-economic-crisis-of-2002"
+        "w-en-south-america-2002"
       ]
     },
     {
       "step": "阿根廷危机与货币贬值经贸易金融渠道波及邻国(乌拉圭、巴西)",
       "sources": [
-        "w-en-south-american-economic-crisis-of-2002"
+        "w-en-south-america-2002"
       ]
     },
     {
       "step": "区域经济与金融承压",
       "sources": [
-        "w-en-south-american-economic-crisis-of-2002"
+        "w-en-south-america-2002"
       ]
     }
   ],
@@ -103,7 +103,6 @@
   "sources": [
     "w-en-south-america-2002",
     "w-en-debt-crisis",
-    "w-en-south-american-economic-crisis-of-2002",
     "w-en-financial-crisis",
     "owid-gdp"
   ],

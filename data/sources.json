@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 729,
+  "count": 700,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -228,42 +228,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=933495），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-argentine-economic-crisis-1999-2002",
-      "title": "1998–2002 Argentine great depression",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=939599），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-mississippi-company",
-      "title": "John Law's Company",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/John_Law%27s_Company",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=1124163），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-hungarian-peng",
-      "title": "Hungarian pengő",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_peng%C5%91",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=2278480），标题与最后修改时间由 API 返回",
       "link_ok": true
     },
     {
@@ -663,18 +627,6 @@
       "link_ok": true
     },
     {
-      "id": "w-en-1973-1974-stock-market-crash",
-      "title": "1973–1974 stock market crash",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/1973%E2%80%931974_stock_market_crash",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=13212391），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
       "id": "w-en-paris-bourse-crash-of-1882",
       "title": "Paris Bourse crash of 1882",
       "author": "Wikipedia contributors",
@@ -720,30 +672,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=24286774），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-bengal-bubble-of-1769",
-      "title": "Bengal Bubble of 1769",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Bengal_Bubble_of_1769",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=27211187），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-shanghai-rubber-stock-market-crisis",
-      "title": "Shanghai rubber stock market crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Shanghai_rubber_stock_market_crisis",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=30696419），标题与最后修改时间由 API 返回",
       "link_ok": true
     },
     {
@@ -831,18 +759,6 @@
       "link_ok": true
     },
     {
-      "id": "w-en-financial-crisis-of-1914",
-      "title": "Financial crisis of 1914",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Financial_crisis_of_1914",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=68988643），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
       "id": "w-en-stock-market-downturn-of-2002",
       "title": "Stock market downturn of 2002",
       "author": "Wikipedia contributors",
@@ -852,18 +768,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=68260），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-south-american-economic-crisis-of-2002",
-      "title": "South American economic crisis of 2002",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/South_American_economic_crisis_of_2002",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=69226），标题与最后修改时间由 API 返回",
       "link_ok": true
     },
     {
@@ -888,18 +792,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=175590），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-currency-devaluation",
-      "title": "Devaluation",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Devaluation",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=603353），标题与最后修改时间由 API 返回",
       "link_ok": true
     },
     {
@@ -1119,18 +1011,6 @@
       "link_ok": true
     },
     {
-      "id": "w-en-puerto-rican-government-debt-crisis",
-      "title": "Puerto Rican government-debt crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Puerto_Rican_government-debt_crisis",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=41852734），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
       "id": "w-en-rhode-island-banking-crisis",
       "title": "Rhode Island banking crisis",
       "author": "Wikipedia contributors",
@@ -1176,18 +1056,6 @@
       "url2": null,
       "verified": true,
       "note": "Wikipedia API 核对：页面存在（pageid=60220015），标题与最后修改时间由 API 返回",
-      "link_ok": true
-    },
-    {
-      "id": "w-en-hyperinflation-in-serbia-and-montenegro",
-      "title": "Hyperinflation in Serbia and Montenegro",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Serbia_and_Montenegro",
-      "url2": null,
-      "verified": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=60667648），标题与最后修改时间由 API 返回",
       "link_ok": true
     },
     {
@@ -1935,18 +1803,6 @@
       "link_ok": true
     },
     {
-      "id": "org-fed-essay-greatdep",
-      "title": "The Great Depression | Federal Reserve History",
-      "author": "Federal Reserve History",
-      "year": "2026",
-      "type": "官方机构",
-      "url": "https://www.federalreservehistory.org/essays/great-depression",
-      "url2": null,
-      "verified": true,
-      "note": "机构页 HTTP 200 抓取核对：标题 \"The Great Depression | Federal Reserve History\"（42116 字节）",
-      "link_ok": true
-    },
-    {
       "id": "org-nber",
       "title": "National Bureau of Economic Research | NBER",
       "author": "National Bureau of Economic Research",
@@ -2139,18 +1995,6 @@
       "note": "Wikipedia API 核对：页面存在（pageid=184979）；轮次4经 List_of_banking_crises 大纲对照新增"
     },
     {
-      "id": "w-en-russian-1998",
-      "title": "1998 Russian financial crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=3821983）；轮次4经 List_of_banking_crises 大纲对照新增"
-    },
-    {
       "id": "w-en-uruguay-2002",
       "title": "2002 Uruguay banking crisis",
       "author": "Wikipedia contributors",
@@ -2187,18 +2031,6 @@
       "note": "Wikipedia API 核对：页面存在（pageid=21803677）；轮次4经 List_of_banking_crises 大纲对照新增"
     },
     {
-      "id": "w-en-cypriot-2013",
-      "title": "2012–2013 Cypriot financial crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API 核对：页面存在（pageid=37925318）；轮次4经 List_of_banking_crises 大纲对照新增"
-    },
-    {
       "id": "w-en-myanmar-2003",
       "title": "2003 Myanmar banking crisis",
       "author": "Wikipedia contributors",
@@ -2233,18 +2065,6 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API 核对：页面存在（pageid=18673）；轮次4经 List_of_banking_crises 大纲对照新增"
-    },
-    {
-      "id": "w-en-icelandic-crisis-2008",
-      "title": "2008–2011 Icelandic financial crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API核对：页面存在(pageid=19685804)；轮次5权威大纲对照新增"
     },
     {
       "id": "w-en-ukrainian-crisis-2008",
@@ -3315,18 +3135,6 @@
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
     },
     {
-      "id": "w-en-interest-rate-parity",
-      "title": "Interest rate parity",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Interest_rate_parity",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
       "id": "w-en-mundell-fleming",
       "title": "Mundell–Fleming model",
       "author": "Wikipedia contributors",
@@ -3825,18 +3633,6 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Globalization",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
-      "id": "w-en-sdr",
-      "title": "Special drawing rights",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Special_drawing_rights",
       "url2": null,
       "verified": true,
       "link_ok": true,
@@ -4461,18 +4257,6 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/2008%E2%80%932014_Spanish_financial_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
-      "id": "w-en-ldi-strategy",
-      "title": "Liability-driven investment strategy",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Liability-driven_investment_strategy",
       "url2": null,
       "verified": true,
       "link_ok": true,
@@ -6267,18 +6051,6 @@
       "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
     },
     {
-      "id": "w-en-eurozone-crisis",
-      "title": "Eurozone crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Eurozone_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
       "id": "w-en-hungarian-pengo",
       "title": "Hungarian pengő",
       "author": "Wikipedia contributors",
@@ -6465,54 +6237,6 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Bankruptcy_of_FTX",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-danat-bank",
-      "title": "Danat-Bank",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Danat-Bank",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-european-banking-crisis-1931",
-      "title": "European banking crisis of 1931",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/European_banking_crisis_of_1931",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-european-monetary-system",
-      "title": "European Monetary System",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/European_Monetary_System",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-drexel-burnham-lambert",
-      "title": "Drexel Burnham Lambert",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Drexel_Burnham_Lambert",
       "url2": null,
       "verified": true,
       "link_ok": true,
@@ -7071,18 +6795,6 @@
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
     },
     {
-      "id": "w-en-gold-reserve-act-1934",
-      "title": "Gold Reserve Act",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Gold_Reserve_Act",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
       "id": "w-en-edict-maximum-prices",
       "title": "Edict on Maximum Prices",
       "author": "Wikipedia contributors",
@@ -7437,30 +7149,6 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Bengal_Bubble_of_1769",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-copper-panic-1789",
-      "title": "Copper Panic of 1789",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Copper_Panic_of_1789",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
-    },
-    {
-      "id": "w-en-arendal-crash-1886",
-      "title": "Arendal crash",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Arendal_crash",
       "url2": null,
       "verified": true,
       "link_ok": true,
@@ -8306,17 +7994,6 @@
       "note": "REST summary API 核对：页面返回摘要（899 字符）。"
     },
     {
-      "id": "w-en-counterparty-risk",
-      "title": "Settlement risk",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Settlement_risk",
-      "url2": null,
-      "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（453 字符）。"
-    },
-    {
       "id": "w-en-dividend",
       "title": "Dividend",
       "author": "Wikipedia contributors",
@@ -8614,17 +8291,6 @@
       "note": "REST summary API 核对：页面返回摘要（218 字符）。"
     },
     {
-      "id": "w-en-specialization",
-      "title": "Division of labour",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Division_of_labour",
-      "url2": null,
-      "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（789 字符）。"
-    },
-    {
       "id": "w-en-tax-incidence",
       "title": "Tax incidence",
       "author": "Wikipedia contributors",
@@ -8667,17 +8333,6 @@
       "url2": null,
       "verified": true,
       "note": "REST summary API 核对：页面存在并返回摘要（883 字符）。荷兰东印度公司"
-    },
-    {
-      "id": "w-en-crisis-of-1772",
-      "title": "British credit crisis of 1772–1773",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/British_credit_crisis_of_1772%E2%80%931773",
-      "url2": null,
-      "verified": true,
-      "note": "REST summary API 核对：页面存在并返回摘要（592 字符）。1772—1773年英国信用危机（专属条目）"
     },
     {
       "id": "w-en-economy-of-yemen",

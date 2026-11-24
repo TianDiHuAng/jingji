@@ -39,19 +39,19 @@
     {
       "step": "塞浦路斯银行对过度杠杆的本地地产公司及希腊主权债务的敞口 → 评级被下调至垃圾级",
       "sources": [
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     },
     {
       "step": "无法从国际市场融资、政府不愿重组问题银行 → 危机深化",
       "sources": [
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     },
     {
       "step": "2013年3月欧元集团等提供100亿欧元救助，代价是关闭第二大银行、对未保险存款征一次税",
       "sources": [
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     }
   ],
@@ -85,7 +85,7 @@
       "view": "银行大量持有本国与希腊主权债，主权风险与银行风险相互放大",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "view": "救助附带存款减记(bail-in)引发对存款安全的担忧",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     }
   ],
@@ -103,8 +103,7 @@
       "view": "2013年3月的救助协议规定：10万欧元以下的保险存款不受影响，超过10万欧元的存款被征收47.5%（即存款减记/bail-in），以此换取外部救助。",
       "basis": "据本条目正文（主体：救助方与塞浦路斯当局；动作：存款减记协议）；具体细节与效果评价待核实",
       "sources": [
-        "w-en-cypriot-financial-crisis",
-        "w-en-cypriot-2013"
+        "w-en-cypriot-financial-crisis"
       ]
     }
   ],
@@ -112,7 +111,6 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2012–2013塞浦路斯金融危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-cypriot-financial-crisis",
-    "w-en-cypriot-2013",
     "w-en-euro-area-crisis"
   ],
   "related": [

@@ -15,7 +15,7 @@
       "display": "2009年9月",
       "event": "希腊赤字低估（\"6—8%\"）迟迟未纠正",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "display": "2009年",
       "event": "希腊预算赤字修正为GDP的12.7%（上限3%）；欧盟预测产出下降1.8%",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "display": "危机期间",
       "event": "希腊与西班牙失业率升至27%",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     }
   ],
@@ -39,19 +39,19 @@
     {
       "step": "欧元区统一货币但财政各自为政 → 边缘国家以低利率累积债务与竞争力失衡",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
       "step": "希腊赤字由\"6—8%\"修正为12.7% → 市场拒绝融资、主权利差飙升",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
       "step": "救助+紧缩+银行-主权循环 → 希腊与西班牙失业率升至27%",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     }
   ],
@@ -64,7 +64,7 @@
       "comparable_price": false,
       "note": "原文：increases in unemployment rates to as high as 27% in Greece and Spain；单一来源待核实｜**双源印证**：OWID/世界银行-ILO 数据为希腊2013年 27.686%、西班牙2013年 26.094%，与维基\"高达27%\"一致。",
       "sources": [
-        "w-en-eurozone-crisis",
+        "w-en-euro-area-crisis",
         "owid-unemployment",
         "owid-dataset"
       ]
@@ -77,7 +77,7 @@
       "comparable_price": false,
       "note": "原文：a revision of the forecast for the 2009 budget deficit from \"6–8%\" ... to 12.7%；单一来源待核实。",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
@@ -109,7 +109,7 @@
       "view": "货币统一而财政分散，缺少调整与转移机制",
       "basis": "据危机演进归纳",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "view": "银行持有本国国债使二者风险相互放大",
       "basis": "据西班牙、爱尔兰案例归纳",
       "sources": [
-        "w-en-eurozone-crisis"
+        "w-en-euro-area-crisis"
       ]
     }
   ],
@@ -127,14 +127,12 @@
       "view": "危机应对以财政紧缩为核心，并伴随外部救助；希腊2009年预算赤字由最初预测的\"6—8%\"修正为12.7%（马斯特里赫特上限为3%），统计失真直到2009年9月才被纠正——这一暴露本身推动了财政统计监管的强化。",
       "basis": "据本条目正文（动作：财政紧缩、外部救助、赤字统计修正）；具体细节与效果评价待核实",
       "sources": [
-        "w-en-eurozone-crisis",
         "w-en-euro-area-crisis"
       ]
     }
   ],
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧元区主权债务危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：债务；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
-    "w-en-eurozone-crisis",
     "w-en-euro-area-crisis",
     "w-en-debt-crisis",
     "owid-unemployment"

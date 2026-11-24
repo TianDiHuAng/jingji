@@ -24,7 +24,7 @@
     {
       "holder": "监管视角",
       "view": "结算风险源于流程而非当事人意愿——即便双方同意，结算环节本身也可能中断交易，因此需中央对手方与净额结算等机制（据 Wikipedia Settlement risk）",
-      "src": "w-en-counterparty-risk"
+      "src": "w-en-settlement-risk"
     }
   ],
   "key_data": [
@@ -36,7 +36,7 @@
       "comparable_price": false,
       "note": "原文：On 26 June 1974, the bank's license was withdrawn by German regulators at the end of the banking day；单一来源待核实。",
       "sources": [
-        "w-en-counterparty-risk"
+        "w-en-settlement-risk"
       ]
     }
   ],
@@ -48,7 +48,7 @@
     "settlement-risk"
   ],
   "sources": [
-    "w-en-counterparty-risk"
+    "w-en-settlement-risk"
   ],
   "needs_verification": true,
   "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。"

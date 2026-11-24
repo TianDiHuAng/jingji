@@ -31,19 +31,19 @@
     {
       "step": "20世纪初汽车与橡胶需求激增(美橡胶出口1908年5700万美元→1909年7000万美元)→橡胶股受追捧",
       "sources": [
-        "w-en-shanghai-rubber-stock-market-crisis"
+        "w-en-shanghai-rubber-1910"
       ]
     },
     {
       "step": "外资银行推出橡胶股票的证券贷款便利 → 投机与股价自我强化",
       "sources": [
-        "w-en-shanghai-rubber-stock-market-crisis"
+        "w-en-shanghai-rubber-1910"
       ]
     },
     {
       "step": "泡沫破裂 → 天津、广州等地大量华资银行倒闭，上海市场受重创",
       "sources": [
-        "w-en-shanghai-rubber-stock-market-crisis"
+        "w-en-shanghai-rubber-1910"
       ]
     }
   ],
@@ -77,7 +77,7 @@
       "view": "橡胶需求当时确有真实增长，股价上涨有基本面因素",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-shanghai-rubber-stock-market-crisis"
+        "w-en-shanghai-rubber-1910"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "view": "银行与股东过度炒作橡胶股、提供证券贷款便利，吹大泡沫",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-shanghai-rubber-stock-market-crisis"
+        "w-en-shanghai-rubber-1910"
       ]
     }
   ],
@@ -104,7 +104,6 @@
   "sources": [
     "w-en-shanghai-rubber-1910",
     "w-en-speculative-bubble",
-    "w-en-shanghai-rubber-stock-market-crisis",
     "w-en-financial-crisis"
   ],
   "related": [

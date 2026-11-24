@@ -15,7 +15,7 @@
       "display": "1886年",
       "event": "阿伦达尔信贷崩溃，债务最终达1200万挪威克朗",
       "sources": [
-        "w-en-arendal-crash-1886"
+        "w-en-arendal-crash"
       ]
     }
   ],
@@ -48,7 +48,7 @@
       "comparable_price": false,
       "note": "原文：The debt ... was finally NOK 12 million, corresponding to the entire wealth of Kristiansand's population, or six billion 2012 kroner；单一来源待核实。",
       "sources": [
-        "w-en-arendal-crash-1886"
+        "w-en-arendal-crash"
       ]
     }
   ],
@@ -73,9 +73,8 @@
   "policy_response": [],
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>阿伦达尔崩盘(1886)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>挪威阿伦达尔银行Aren</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-arendal-crash-1886",
-    "w-en-speculative-bubble",
     "w-en-arendal-crash",
+    "w-en-speculative-bubble",
     "w-en-financial-crisis"
   ],
   "related": [

@@ -48,7 +48,7 @@
       "comparable_price": false,
       "note": "原文：netting $545.5 million, which represented the most profitable year ever for a Wall Street firm at the time；单一来源待核实。",
       "sources": [
-        "w-en-drexel-burnham-lambert"
+        "w-en-drexel"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "comparable_price": false,
       "note": "原文：Milken ... was paid $295 million, the highest salary that an employee in the modern history of the world had ever received；单一来源待核实。",
       "sources": [
-        "w-en-drexel-burnham-lambert"
+        "w-en-drexel"
       ]
     }
   ],
@@ -85,7 +85,6 @@
   "comparison": "与1980年代储贷危机（savings-loan-1986）同期，共同标志美国1980年代金融扩张周期的终结。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>德崇证券破产(1990)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>德崇证券因垃圾债券市场非</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-drexel-burnham-lambert",
     "w-en-drexel",
     "w-en-insider-trading"
   ],

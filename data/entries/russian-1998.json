@@ -39,19 +39,19 @@
     {
       "step": "生产率下降+维持卢布高固定汇率+财政赤字+第一次车臣战争军费 → 基本面恶化",
       "sources": [
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     },
     {
       "step": "1998年8月17日俄罗斯政府与央行让卢布贬值并对债务违约",
       "sources": [
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     },
     {
       "step": "危机重创周边国家经济(传染)",
       "sources": [
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     }
   ],
@@ -85,7 +85,7 @@
       "view": "高固定汇率与长期财政赤字不可持续",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "view": "油价与战争成本及亚洲危机外溢加剧恶化",
       "basis": "据维基原文归纳；具体表述待核实",
       "sources": [
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     }
   ],
@@ -103,8 +103,7 @@
       "view": "**复苏（政策与外部条件共同作用）**：俄罗斯从 1998 年 8 月的崩溃中恢复得异常迅速。主要原因是 **1999—2000 年世界油价快速上涨**，使俄在 1999 与 2000 年录得大额贸易顺差；另一原因是食品加工等**国内产业受益于贬值**带来的竞争力提升。",
       "basis": "据 Wikipedia「1998 Russian financial crisis」Recovery 章节；说明：正文明确把复苏归因于油价与贬值，而非特定救助计划；效果评价待核实",
       "sources": [
-        "w-en-1998-russian-financial-crisis",
-        "w-en-russian-1998"
+        "w-en-1998-russian-financial-crisis"
       ]
     }
   ],
@@ -112,7 +111,6 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1998年俄罗斯金融危机：机制示意（货币）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-1998-russian-financial-crisis",
-    "w-en-russian-1998",
     "w-en-latin-american-debt-crisis",
     "w-en-russian-financial-crisis-2014-2016"
   ],
