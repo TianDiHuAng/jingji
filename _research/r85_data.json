@@ -1,0 +1,34 @@
+{
+  "ghana-econ": {
+    "title": "Economy of Ghana",
+    "len": 37553,
+    "hits": [
+      "In April 2015, the International Monetary Fund approved a three-year Extended Credit Facility arrangement of about US$918 million to support Ghana's economic reform programme.",
+      "Under the current VAT system, the standard VAT rate is 15%, applied alongside the 2.5% National Health Insurance Levy (NHIL) and the 2.5% Ghana Education Trust Fund (GETFund) Levy, giving a combined effective VAT and levy rate of 20% on VAT-able goods and services.",
+      "The general corporate income tax rate in Ghana is 25%, although different rates apply to some sectors and business categories.",
+      "Personal income tax is progressive, with rates for resident individuals rising to a top marginal rate of 35%.",
+      "Capital gains tax is also levied, with gains realized by individuals generally taxed at 15% of net gains.",
+      "The GRA applies an 8% rate on residential premises and a 15% rate on commercial and non-residential premises.",
+      "The Ministry of Finance reported that tax collections in 2024 totalled GH₵153.6 billion, exceeding the 2024 budget target of GH₵143.0 billion.",
+      "The International Monetary Fund has identified revenue mobilisation as a central part of Ghana's fiscal adjustment programme, with the authorities aiming to raise the government revenue-to-GDP ratio to over 18% from 15.7% in 2022.",
+      "== Economic sectors ==\n\n\n=== Agriculture ===\n\nIn 2013 agriculture employed 53.6% of Ghana's total labor force.",
+      "World Bank data show that manufacturing value added accounted for about 10% of Ghana's gross domestic product in 2024."
+    ],
+    "extract": "Ghana has a developing mixed economy. Based on International Monetary Fund estimates, it is the 73rd-largest economy in the world and the 10th-largest economy in Africa by nominal gross domestic product. By purchasing power parity, it ranks 67th globally and 9th in Africa.\nGhana's economy is led by the services sector, followed by industry and agriculture. Recent economic growth has been supported by services, a recovery in agriculture, strong gold exports, and improved macroeconomic conditions. Although agriculture accounts for a smaller share of output than services or industry, it remains a"
+  },
+  "devaluation": {
+    "title": "Devaluation",
+    "len": 13668,
+    "hits": [
+      "== Devaluations in modern economies ==\n\n\n=== UK economy ===\n\n\n==== 1949 devaluation ====\nAt the outbreak of World War II, in order to stabilise sterling, the pound sterling was pegged to the United States dollar at the rate of $4.03 with exchange controls restricting convertibility volumes.",
+      "On 18 September 1949, the exchange rate was reduced from $4.03 to $2.80 and a series of supporting public expenditure cuts imposed soon afterwards.",
+      "Devaluation was avoided by a combination of tariffs and raising $3bn from foreign central banks.",
+      "After failing to secure a bail-out from the Americans or the French, a devaluation from US$2.80 to US$2.40 took effect on 18 November 1967.",
+      "In a broadcast to the nation the following day, Wilson said, From now the pound abroad is worth 14% or so less in terms of other currencies.",
+      "=== Other economies ===\nThe People's Bank of China devalued the renminbi twice within two days by 1.9% and 1% in July 2015 in response to slowing economic growth, leading to the 2015–2016 Chinese stock market turbulence.",
+      "India devalued the Indian rupee by 35% in 1966.",
+      "In July 1991, facing an external payment crisis, India devalued the rupee about 18% in USD terms."
+    ],
+    "extract": "In macroeconomics and modern monetary policy, a devaluation is an official lowering of the value of a country's currency within a fixed exchange rate system, in which a monetary authority formally sets a lower exchange rate of the national currency in relation to a foreign reference currency or currency basket. The opposite of devaluation, a change in the exchange rate making the domestic currency more expensive, is called a revaluation. A monetary authority (e.g., a central bank) maintains a fixed value of its currency by being ready to buy or sell foreign currency with the domestic currency "
+  }
+}

@@ -1,62 +1,124 @@
 {
   "id": "devaluation",
-  "title": "贬值（法定贬值）",
+  "title": "货币贬值(devaluation)",
   "level": "L2",
   "tier": "重要",
   "unit": "U6 理论与制度",
   "period": "理论制度",
   "region": "全球",
   "crisis_type": "货币",
-  "one_line": "固定汇率制下货币当局正式下调本币汇率的官方行为。",
-  "overview": "在宏观经济学与现代货币政策中，贬值指在固定汇率体系内官方下调一国货币的价值，即货币当局正式设定本币对外币更低的汇率。贬值可改善贸易竞争力，但会推高进口成本与外币债务负担。具体影响待核实。",
-  "timeline": [],
+  "one_line": "在固定汇率制度下，货币当局正式下调本币对外国参照货币或货币篮子的汇率。",
+  "overview": "在宏观经济学与现代货币政策中，**贬值（devaluation）**指在固定汇率制度下官方降低一国货币的价值：货币当局正式设定本币相对于外国参照货币或货币篮子的更低汇率。它不同于浮动汇率下的\"贬值(depreciation)\"——后者由市场供求推动。贬值可改善竞争力与贸易收支，但会推高进口价格、加重外币债务负担。**历史实例**：1949年9月18日英镑汇率由 **$4.03 降至 $2.80**；1967年11月18日再由 **$2.80 降至 $2.40**，时任首相威尔逊称英镑对外价值\"大约降低了 14%\"。具体机制待核实。",
+  "timeline": [
+    {
+      "year": 1949,
+      "display": "1949年9月18日",
+      "event": "英镑汇率由 $4.03 下调至 $2.80（据 Wikipedia Devaluation）",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "year": 1967,
+      "display": "1967年11月18日",
+      "event": "英镑汇率由 $2.80 下调至 $2.40，贬幅约14%（同上）",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    }
+  ],
   "causal_chain": [
     {
-      "step": "国际收支持续逆差或储备流失 → 维持平价困难",
+      "step": "国际收支失衡或储备流失 → 固定平价难以维持",
       "sources": [
         "w-en-devaluation"
       ]
     },
     {
-      "step": "当局正式下调本币汇率 → 法定贬值",
+      "step": "货币当局正式下调汇率平价 → 本币对外贬值",
       "sources": [
         "w-en-devaluation"
       ]
     },
     {
-      "step": "出口竞争力改善、进口与外币债务负担上升",
+      "step": "进口价格上涨、外币债务负担加重，但出口竞争力改善",
       "sources": [
         "w-en-currency-crisis"
       ]
     }
   ],
-  "key_data": [],
-  "schools": [
+  "key_data": [
     {
-      "holder": "调整视角",
-      "view": "贬值是纠正汇率高估的必要调整",
-      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "label": "英镑汇率(1949年9月18日前)",
+      "value": 4.03,
+      "unit": "美元/英镑",
+      "year": 1949,
+      "comparable_price": false,
+      "note": "原文：On 18 September 1949, the exchange rate was reduced from $4.03 to $2.80；单一来源待核实。",
       "sources": [
         "w-en-devaluation"
       ]
     },
     {
-      "holder": "代价视角",
-      "view": "贬值推高通胀与外币债务负担",
-      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "label": "英镑汇率(1949年9月18日后)",
+      "value": 2.8,
+      "unit": "美元/英镑",
+      "year": 1949,
+      "comparable_price": false,
+      "note": "原文：reduced from $4.03 to $2.80；单一来源待核实。",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "label": "英镑汇率(1967年11月18日后)",
+      "value": 2.4,
+      "unit": "美元/英镑（自$2.80下调）",
+      "year": 1967,
+      "comparable_price": false,
+      "note": "原文：a devaluation from US$2.80 to US$2.40 took effect on 18 November 1967；单一来源待核实。",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "label": "1967年英镑对外贬值幅度(约)",
+      "value": 14,
+      "unit": "%（时任首相表述）",
+      "year": 1967,
+      "comparable_price": false,
+      "note": "原文：Wilson said, From now the pound abroad is worth 14% or so less in terms of other currencies；单一来源待核实。",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "国际收支视角",
+      "view": "贬值是修正汇率失衡、恢复竞争力的政策工具",
+      "basis": "据标准定义与史实归纳；具体效果待核实",
+      "sources": [
+        "w-en-devaluation"
+      ]
+    },
+    {
+      "holder": "货币危机视角",
+      "view": "贬值常发生在储备耗竭、投机攻击之后，属被动调整",
+      "basis": "据货币危机文献口径归纳；具体因果待核实",
       "sources": [
         "w-en-currency-crisis"
       ]
     }
   ],
   "policy_response": [],
-  "comparison": "金融危机/国际收支理论概念，与其他概念互补；具体争论待核实。",
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贬值（法定贬值）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国际收支持续逆差或储备流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>当局正式下调本币汇率 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>出口竞争力改善、进口与外</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "comparison": "与\"货币危机\"（投机攻击下的被迫贬值）相比，devaluation 特指**固定汇率制下的官方平价下调**；与浮动汇率下的 depreciation（市场推动）也不同。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币贬值：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国际收支失衡</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>官方下调平价</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>进口涨价/出口改善</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-devaluation",
     "w-en-currency-crisis"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义与1949/1967英镑史实据维基全文；单源待核实。【续作BQ】"
 }
