@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 660,
+  "count": 662,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7921,6 +7921,30 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API(extract intro)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-encilhamento",
+      "title": "Encilhamento",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Encilhamento",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-haitian-independence-debt",
+      "title": "Haitian independence debt",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 551,
+  "total": 553,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7164,6 +7164,32 @@
       "period": "早期—17世纪",
       "region": "欧洲",
       "crisis_type": "其他"
+    },
+    {
+      "id": "encilhamento-1890",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "拉美",
+      "crisis_type": "泡沫"
+    },
+    {
+      "id": "haitian-independence-debt",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "拉美",
+      "crisis_type": "债务"
     }
   ]
 }
