@@ -8,8 +8,17 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "其失败可能引发金融危机的银行、保险公司或其他金融机构，俗称\"太大而不能倒\"。",
-  "overview": "系统重要性金融机构（SIFI）是指其失败可能触发金融危机的银行、保险公司或其他金融机构。这类机构俗称\"太大而不能倒\"。因其倒闭外溢巨大，监管对其施加更高资本与处置要求。具体认定标准待核实。",
-  "timeline": [],
+  "overview": "系统重要性金融机构（SIFI）指其失败可能触发金融危机的银行、保险公司或其他金融机构。这类机构俗称\"太大而不能倒\"；因其倒闭外溢巨大，监管对其施加更高的资本与处置要求。**认定机制（以全球系统重要性银行为例，据 FSB 官方说明）**：FSB 与巴塞尔银行监管委员会(BCBS)及各国当局协商，**自 2011 年起**识别全球系统重要性银行(G-SIBs)；名单被划分为若干 **\"分档\"(buckets)**，每一档对应不同水平的**附加损失吸收能力**要求；名单**每年 11 月更新**一次，同时公布对 G-SIB 适用政策措施的落实情况。国内层面另有各自认定的 D-SIB（国内系统重要性银行）体系；具体分档阈值与打分方法待核实。",
+  "timeline": [
+    {
+      "year": 2011,
+      "event": "FSB 与 BCBS 及各国当局协商，开始识别全球系统重要性银行(G-SIBs)（据 FSB G-SIFIs 官方说明）"
+    },
+    {
+      "year": 2011,
+      "event": "G-SIB 名单按\"分档\"(buckets)划分，各档对应不同附加损失吸收能力要求（据 FSB G-SIFIs 官方说明）"
+    }
+  ],
   "causal_chain": [
     {
       "step": "规模大、关联强、可替代性低 → 失败外溢巨大",
@@ -54,7 +63,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>系统重要性金融机构：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>规模大、关联强、可替代性</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>被视为\"太大而不能倒\" </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>施加附加资本与处置规划以</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sifi",
-    "w-en-too-big-to-fail"
+    "w-en-too-big-to-fail",
+    "org-fsb-gsib"
   ],
   "related": [
     "capital-requirement",
@@ -63,5 +73,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EA】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EA】补写概念辨析。 【续作IK】补 FSB 官方认定机制（2011 年起识别、分档对应附加损失吸收要求、每年 11 月更新）；分档阈值与打分方法待核对原文。"
 }

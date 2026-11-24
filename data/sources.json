@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 735,
+  "count": 737,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8787,6 +8787,30 @@
       "verified": true,
       "link_ok": true,
       "note": "FSB 处置制度核心标准；2011年10月发布十二项关键属性，2014年版本增补附件（正文未改）"
+    },
+    {
+      "id": "org-fsb-gsib",
+      "title": "Global Systemically Important Financial Institutions (G-SIFIs) — FSB",
+      "author": "Financial Stability Board (FSB)",
+      "year": "2026",
+      "type": "权威机构",
+      "url": "https://www.fsb.org/work-of-the-fsb/market-and-institutional-resilience/global-systemically-important-financial-institutions-g-sifis/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "FSB 关于全球系统重要性金融机构的官方说明页；含 G-SIB 识别起始年份与年度更新安排"
+    },
+    {
+      "id": "org-fsb-nbfi",
+      "title": "Non-Bank Financial Intermediation — FSB",
+      "author": "Financial Stability Board (FSB)",
+      "year": "2026",
+      "type": "权威机构",
+      "url": "https://www.fsb.org/work-of-the-fsb/market-and-institutional-resilience/post-2008-financial-crisis-reforms/non-bank-financial-intermediation/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "FSB 非银行金融中介(NBFI)官方说明页；含 2013 年五项政策建议与 2020 年 3 月市场压力记述"
     }
   ]
 }
