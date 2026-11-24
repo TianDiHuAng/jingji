@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 494,
+  "total": 496,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -11,7 +11,7 @@
       "needs_verification": 1,
       "last_updated": "2026-11-23",
       "unit": "U1 早期—17世纪",
-      "period": "前17世纪",
+      "period": "早期—17世纪",
       "region": "全球",
       "crisis_type": "债务"
     },
@@ -24,7 +24,7 @@
       "needs_verification": 1,
       "last_updated": "2026-11-22",
       "unit": "U1 早期—17世纪",
-      "period": "前17世纪",
+      "period": "早期—17世纪",
       "region": "欧洲",
       "crisis_type": "货币"
     },
@@ -37,7 +37,7 @@
       "needs_verification": 1,
       "last_updated": "2026-11-23",
       "unit": "U1 早期—17世纪",
-      "period": "前17世纪",
+      "period": "早期—17世纪",
       "region": "欧洲",
       "crisis_type": "泡沫"
     },
@@ -50,7 +50,7 @@
       "needs_verification": 1,
       "last_updated": "2026-11-22",
       "unit": "U1 早期—17世纪",
-      "period": "前17世纪",
+      "period": "早期—17世纪",
       "region": "欧洲",
       "crisis_type": "泡沫"
     },
@@ -1545,7 +1545,7 @@
       "needs_verification": 1,
       "last_updated": "2026-11-23",
       "unit": "U1 早期—17世纪",
-      "period": "前17世纪",
+      "period": "早期—17世纪",
       "region": "欧洲",
       "crisis_type": "货币"
     },
@@ -4079,7 +4079,7 @@
       "source_count": 2,
       "needs_verification": 1,
       "last_updated": "2026-11-23",
-      "unit": "U2 18—19世纪",
+      "unit": "U4 20世纪下半",
       "period": "20世纪下半",
       "region": "欧洲",
       "crisis_type": "银行"
@@ -6423,6 +6423,32 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "货币"
+    },
+    {
+      "id": "assignat-1790s",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "欧洲",
+      "crisis_type": "恶性通胀"
+    },
+    {
+      "id": "continental-currency-1775",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
+      "region": "北美",
+      "crisis_type": "恶性通胀"
     }
   ]
 }

@@ -4,7 +4,7 @@ import json
 from collections import defaultdict
 cov=json.load(open('coverage.json',encoding='utf-8'))
 entries=cov['entries']
-periods=['前17世纪','18—19世纪','20世纪上半','20世纪下半','21世纪','理论制度']
+periods=['早期—17世纪','18—19世纪','20世纪上半','20世纪下半','21世纪','理论制度']
 regions=['欧洲','北美','拉美','亚洲','非洲','中东','大洋洲','全球']
 ctypes=['银行','货币','债务','泡沫','恶性通胀','其他','制度','理论']
 

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 583,
+  "count": 585,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -6997,6 +6997,30 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-assignat",
+      "title": "Assignat",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Assignat",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-early-american-currency",
+      "title": "Early American currency",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Early_American_currency",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
     }
   ]
 }

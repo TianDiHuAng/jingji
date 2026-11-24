@@ -1,0 +1,119 @@
+{
+  "id": "continental-currency-1775",
+  "title": "大陆币通胀(1775–1780s)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "北美",
+  "crisis_type": "恶性通胀",
+  "one_line": "美国独立战争期间大陆会议发行的大陆币，因超发而大幅贬值（\"不值一个大陆币\"）。",
+  "overview": "大陆币（Continental currency）以美元计价，面额从1/6美元到80美元不等，其间还有许多奇特面额。独立战争期间，大陆会议共发行了199,990,000美元的大陆币。由于缺乏税收支撑而大量发行，大陆币急剧贬值，成为\"not worth a Continental\"（不值一个大陆币）这一说法的来源。1790年代美国宪法批准后，大陆币可按面值的1%兑换国债。具体过程待核实。",
+  "timeline": [
+    {
+      "year": 1775,
+      "display": "1775年起",
+      "event": "大陆会议开始发行大陆币（据 Wikipedia Early American currency）",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "year": 1779,
+      "display": "独立战争期间",
+      "event": "累计发行199,990,000美元大陆币（同上）",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "year": 1790,
+      "display": "1790年代",
+      "event": "宪法批准后，大陆币可按面值1%兑换国债（同上）",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "独立战争军费激增 + 无征税权 → 以发行纸钞融资",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "step": "累计发行约2亿美元、缺乏回笼机制 → 币值崩溃",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "step": "战后按面值1%兑换国债 → 持有者损失绝大部分",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "大陆币累计发行额",
+      "value": 199.99,
+      "unit": "百万美元（$199,990,000）",
+      "year": 1779,
+      "comparable_price": false,
+      "note": "原文：During the Revolution, Congress issued $199,990,000 in Continental currency；单一来源待核实。",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "label": "战后兑换率",
+      "value": 1,
+      "unit": "%（按面值兑换国债）",
+      "year": 1790,
+      "comparable_price": false,
+      "note": "原文：Continentals could be exchanged for treasury bonds at 1% of face value；单一来源待核实。",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "财政视角",
+      "view": "无税收支撑的发行必然导致贬值",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    },
+    {
+      "holder": "货币视角",
+      "view": "缺乏约束的法定货币难以维持购买力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-early-american-currency"
+      ]
+    }
+  ],
+  "comparison": "与法国指券同期（18世纪末），同为战争财政驱动的纸币通胀；美国案例以战后极低兑换率收场。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>大陆币通胀(1775–1780s)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>独立战争军费激增 + 无</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>累计发行约2亿美元、缺乏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>战后按面值1%兑换国债 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-early-american-currency",
+    "w-en-fiat-money"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】"
+}

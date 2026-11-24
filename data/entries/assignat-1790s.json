@@ -1,0 +1,138 @@
+{
+  "id": "assignat-1790s",
+  "title": "法国指券通胀(1789–1796)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "欧洲",
+  "crisis_type": "恶性通胀",
+  "one_line": "法国大革命时期以没收教产为担保发行的指券（assignat），因持续超发导致严重通胀与货币贬值。",
+  "overview": "指券（assignat）是法国大革命与法国革命战争期间使用的一种货币工具、一种支付命令。1789年12月21日通过首个法令，命令于1790年4月发行价值40万里弗的指券（作为债务凭证，附息）；1790年4月17日指券被宣布为法定清偿手段，但利率被降至3%。1790年8月27日制宪议会决定再发行19亿指券。指券一经流通即贬值5%。其后持续超发导致恶性通胀，最终于1796年被废止。具体过程待核实。",
+  "timeline": [
+    {
+      "year": 1789,
+      "display": "1789年12月21日",
+      "event": "首个法令通过，命令1790年4月发行40万里弗指券（据 Wikipedia Assignat）",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "year": 1790,
+      "display": "1790年4月17日",
+      "event": "指券被宣布为法定清偿，利率降至3%（同上）",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "year": 1790,
+      "display": "1790年8月27日",
+      "event": "制宪议会决定再发行19亿指券（同上）",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "year": 1796,
+      "display": "1796年",
+      "event": "指券体系废止（同上；具体日期待核实）",
+      "sources": [
+        "w-en-assignat"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "革命政府财政危机 + 没收教产作担保 → 以指券融资",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "step": "持续超发（1789年40万里弗 → 1790年再发19亿）→ 货币贬值、物价飞涨",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "step": "指券丧失货币职能 → 恶性通胀与体系废止",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "首次指券发行额(1790年4月)",
+      "value": 0.4,
+      "unit": "百万里弗（40万）",
+      "year": 1790,
+      "comparable_price": false,
+      "note": "原文：ordering the issue (in April 1790) of 400,000 livres' worth of assignats；单一来源待核实。",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "label": "第二次指券发行额(1790年8月27日)",
+      "value": 1900,
+      "unit": "百万里弗（19亿）",
+      "year": 1790,
+      "comparable_price": false,
+      "note": "原文：another issue of 1,9 billion assignats；单一来源待核实。",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "label": "指券初始贬值幅度",
+      "value": -5,
+      "unit": "%（一经流通即贬值）",
+      "year": 1790,
+      "comparable_price": false,
+      "note": "原文：As soon as the assignats started to circulate, their value decreased by 5 percent；单一来源待核实。",
+      "sources": [
+        "w-en-assignat"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "财政/货币视角",
+      "view": "以纸钞弥补财政缺口导致超发与通胀",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "holder": "担保资产视角",
+      "view": "以土地为担保并不自动约束发行量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-assignat"
+      ]
+    }
+  ],
+  "comparison": "与魏玛(1921–23)、匈牙利(1945–46)恶性通胀同属财政赤字货币化型；但指券以土地为名义担保，属早期纸币试验。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法国指券通胀(1789–1796)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>革命政府财政危机 + 没</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>持续超发（1789年40</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>指券丧失货币职能 → 恶</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-assignat",
+    "w-en-hyperinflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】"
+}
