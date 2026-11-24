@@ -492,7 +492,7 @@ vb = ['<h1>数据核实状态</h1>',
       '<p class="src-list">本页由数据自动生成：列出已被<b>两个独立来源印证</b>的关键数据，'
       '以及<b>两个来源存在差异、已如实并列</b>的数据。全站条目默认保持 need-verification 诚实标注，'
       '本页只标注达到了双源核实的那部分数值。</p>']
-confirmed, discrepant, crosslang = [], [], []
+confirmed, discrepant, crosslang, statview = [], [], [], []
 for _id, e in entries.items():
     for k in e.get('key_data', []) or []:
         note = k.get('note', '')
@@ -508,8 +508,10 @@ for _id, e in entries.items():
         _multilang = len({l for l in _langs if l in ('en', 'zh', 'de', 'fr', 'es', 'ja')}) >= 2
         if _is_diff:
             discrepant.append((e, k, has_official))
-        elif has_official and any(w in note for w in _confkw):
-            confirmed.append((e, k, has_official))       # 独立机构互证
+        elif any(str(x).startswith('fed-') for x in srcs) and any(w in note for w in _confkw):
+            confirmed.append((e, k, has_official))       # 独立撰写（美联储历史研究）
+        elif any(str(x).startswith(('owid-', 'org-')) for x in srcs) and any(w in note for w in _confkw):
+            statview.append((e, k, has_official))        # 不同统计口径对照
         elif _multilang:
             crosslang.append((e, k, has_official))       # 真正的跨语言维基对照
 
@@ -520,10 +522,18 @@ def _kd_row(e, k):
             f'<td>{esc(k.get("year"))}</td></tr>')
 
 vb.append(f'<h2>独立机构双源印证（{len(confirmed)} 条）</h2>')
-vb.append('<p class="src-list">以下数值由<b>维基百科之外的独立机构</b>（美联储历史站、世界银行/OWID 等）与维基来源相互印证。</p>')
+vb.append('<p class="src-list">以下数值由<b>独立撰写的历史研究机构</b>（如美联储历史站 Federal Reserve History）与维基来源相互印证——两者不共享写作链条，故可视为独立。。</p>')
 if confirmed:
     vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
               + ''.join(_kd_row(e, k) for e, k, _ in sorted(confirmed, key=lambda x: x[0]['id'])) + '</table>')
+else:
+    vb.append('<p>（暂无）</p>')
+
+vb.append(f'<h2>不同统计口径对照（{len(statview)} 条）</h2>')
+vb.append('<p class="src-list">以下数值由 OWID／世界银行等统计汇总机构与维基来源相互对照。须说明：这些机构的数据本身汇总自各国官方统计，而维基所载数字往往源自同一批官方统计——两者属不同加工口径（国际可比调整 vs 原始公布），不构成严格独立的信息生产链。故本板块单列，不与「独立机构印证」合并计数。</p>')
+if statview:
+    vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
+              + ''.join(_kd_row(e, k) for e, k, _ in sorted(statview, key=lambda x: x[0]['id'])) + '</table>')
 else:
     vb.append('<p>（暂无）</p>')
 
@@ -558,7 +568,7 @@ vb.append('<ul>' + ''.join(
     for s, n in sorted(_off.items())) + '</ul>')
 open(os.path.join(SITE,'verification.html'),'w',encoding='utf-8').write(
     page('数据核实状态',''.join(vb)))
-print('生成 verification.html：独立机构印证 %d 条、跨语言对照 %d 条、差异并列 %d 条、官方来源 %d 个' % (len(confirmed), len(crosslang), len(discrepant), len(_off)))
+print('生成 verification.html：独立机构印证 %d 条、统计口径对照 %d 条、跨语言对照 %d 条、差异并列 %d 条、官方来源 %d 个' % (len(confirmed), len(statview), len(crosslang), len(discrepant), len(_off)))
 
 
 # ---------- 概念索引页 ----------
