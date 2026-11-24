@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "国际协调尝试：66国于1933年6月12日—7月27日集会，拟就抗击大萧条、复兴贸易与稳定汇率达成协议；因美国不愿承诺汇率稳定、而金集团与英国希望恢复汇率秩序，会议最终失败。此后各国转向双边与帝国特惠安排（渥太华协定体系）。",
+      "basis": "据本条目正文（主体：66国；动作：召开会议与协议失败）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-london-economic-conference",
+        "w-en-nixon-shock"
+      ]
+    }
+  ],
   "comparison": "与1944年布雷顿森林会议形成鲜明对比：后者在美国主导、战争同盟背景下达成，而1933年缺乏领导力与共同框架。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伦敦经济会议(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条下各国亟需协调 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率稳定与国内复兴的政策</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>合作失败 → 转向双边与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -73,5 +83,5 @@
     "tripartite-1936"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作DO】policy_response 由概述提炼。 【续作DU】policy_response 人工核验撰写。"
 }

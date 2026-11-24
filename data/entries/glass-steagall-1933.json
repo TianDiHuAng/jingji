@@ -86,7 +86,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "立法应对：以《格拉斯-斯蒂格尔法》分离商业银行与投资银行业务（商业银行来自证券业务的收入不得超过总收入的10%，政府债券承销除外），并设立联邦存款保险公司(FDIC) 提供存款保险。",
+      "basis": "据本条目正文（主体：美国国会；动作：业务分离立法、设立FDIC）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-glass-steagall",
+        "w-en-deposit-insurance"
+      ]
+    }
+  ],
   "comparison": "与英国2019年起实施的\"圈护\"(ring-fencing) 制度思路相近：都试图在混业环境中隔离零售存款业务。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>格拉斯-斯蒂格尔法(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条银行倒闭潮 + 对</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>商业银行证券业务收入不得</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1999年废除分离条款 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -100,5 +110,5 @@
     "shadow-banking"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。 【续作DT】policy_response 人工核验撰写。"
 }

@@ -111,7 +111,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "债务安排的两次调整：1825年协议要求1.5亿法郎分5年支付；1838年法国同意将剩余债务降至6000万法郎、分30年偿付（属债权方主导的重组）。",
+      "basis": "据本条目正文（主体：法国政府；动作：1825年索赔、1838年减免并延长）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-haitian-independence-debt",
+        "w-en-sovereign-default"
+      ]
+    }
+  ],
   "comparison": "与奥斯曼\"公共债务管理局\"(1881)、埃及1876年债务危机同属\"以财政接管换取债务\"的殖民时期模式，但海地的特殊性在于债务本身源自**独立赔偿**而非发展借款。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>海地独立债务(1825–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>法国以承认独立为条件索取</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>首年付款3000万法郎为</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>长期偿债挤压财政 → 发</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -124,5 +134,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CR】 【续作CR】补第二参考来源。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CR】 【续作CR】补第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作DT】policy_response 人工核验撰写。"
 }

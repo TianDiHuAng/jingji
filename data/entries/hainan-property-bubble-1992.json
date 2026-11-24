@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "1993年年中中央实施宏观调控、收紧信贷（\"约法三章\"），资金链断裂使泡沫破裂；此后海南发展银行亦因挤兑被关闭。",
+      "basis": "据本条目正文（主体：中央政府；动作：宏观调控、收紧信贷、关闭问题银行）；具体细节与效果评价待核实",
+      "sources": [
+        "w-zh-hainan-property-bubble-1992",
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
+    }
+  ],
   "comparison": "与同期台湾泡沫（见 taiwan-bubble）的关键差别在于**资金结构**：台湾是贸易顺差与货币升值预期推动的资金泛滥，海南则是**银行信贷直接涌入土地**，且伴随地方政府主导的开发冲动。与2020年以来的中国房地产危机（见 china-realestate-2020）相隔近三十年，但机制相似：信贷驱动、预售杠杆、以及调控收紧后的资金链断裂。差别在于规模与传染渠道——1990年代的海南是区域性孤岛，2020年代则牵动全国性开发商与地方财政。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1992–1993年海南房地产泡沫：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>政策/信贷</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>价格自我强化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>崩盘/调控</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -111,5 +121,5 @@
     "taiwan-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次13】升L2，补中文维基原文实证的timeline与数值，单源待核实。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": " 【轮次13】升L2，补中文维基原文实证的timeline与数值，单源待核实。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DT】policy_response 人工核验撰写。"
 }

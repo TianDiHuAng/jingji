@@ -66,7 +66,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "金集团七国（以法国为首，含比利时、卢森堡、荷兰、意大利、波兰、瑞士）选择**坚持金本位**而承受通缩与竞争力损失；随着压力累积，各国最终相继放弃金本位。",
+      "basis": "据本条目正文（主体：七国货币当局；动作：坚持金本位→相继放弃）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-gold-standard",
+        "w-en-gold-bloc"
+      ]
+    }
+  ],
   "comparison": "与英国1931年退出金本位（较早复苏）形成对照；金集团案例常被引为\"金本位束缚\"的典型证据。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金集团(1930s)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>坚持金本位 → 货币供给</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通缩与竞争力下降 → 产</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>最终被迫贬值/放弃金本位</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -76,5 +86,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DT】policy_response 人工核验撰写。"
 }

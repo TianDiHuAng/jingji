@@ -74,7 +74,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "稳定化通过货币改革实现：1944—1946年发行新德拉克马，逐步稳定币值（正文将其记为结束恶性通胀的方式）。",
+      "basis": "据本条目正文（动作：1944—1946年货币改革/发行新币）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-hyperinflation",
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "comparison": "与魏玛、匈牙利恶性通胀同属20世纪恶性通胀案例；时长认定有分歧。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>希腊恶性通胀(1941–1946)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>希腊在二战及轴心国占领期</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -87,5 +97,5 @@
     "soviet-hyper-1917"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作F】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DT】policy_response 人工核验撰写。"
 }

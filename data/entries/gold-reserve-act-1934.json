@@ -103,7 +103,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "1934年1月30日《黄金储备法》要求美联储持有的全部黄金与金券上交、归属美国财政部所有，并禁止财政部与金融机构从事某些黄金交易——实质上把黄金集中于国家，为随后重估金价与扩张货币供给创造条件。",
+      "basis": "据本条目正文（主体：美国财政部/美联储；动作：黄金国有化、限制黄金交易）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-gold-standard",
+        "w-en-gold-reserve-act-1934"
+      ]
+    }
+  ],
   "comparison": "与英国1931年退出金本位、金集团坚持金本位形成三条对照路径：退出、国有化、坚持。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国黄金储备法(1934)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条中金本位约束货币政</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1934年黄金储备法 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为货币扩张与美元贬值创造</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -114,5 +124,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作CT】补充关键数据。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作CT】补充关键数据。 【续作DO】policy_response 由概述提炼。 【续作DT】policy_response 人工核验撰写。"
 }
