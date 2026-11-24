@@ -132,6 +132,7 @@ home = [
  '<h1>经济史与金融危机案例库</h1>',
  '<p class="lead">按 时期 × 地区 × 危机类型 组织的历史案例与理论制度条目。数据驱动、机器校验、诚实标注。</p>',
  f'<div class="stats"><div class="stat"><div class="n">{len(entries)}</div><div class="l">条目总数</div></div>'
+ f'<div class="stat"><div class="n">{lv_count["L3"]}</div><div class="l">L3 深度条目</div></div>'
  f'<div class="stat"><div class="n">{lv_count["L2"]}</div><div class="l">L2 标准条目</div></div>'
  f'<div class="stat"><div class="n">{lv_count["L1"]}</div><div class="l">L1 骨架条目</div></div>'
  f'<div class="stat"><div class="n">{ver_count}</div><div class="l">可用来源</div></div>'
