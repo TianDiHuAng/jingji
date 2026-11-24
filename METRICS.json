@@ -2194,6 +2194,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 16（案例）+ 自测 18/18",
       "spot_check": "扩写 16 条案例，全部先读来源全文；数字经 check_body_num 核验",
       "note": "维基第105轮可用。LP-LV：**扩写 16 条案例（WARNINGS 32 → 16），全部基于来源全文撰写**。①**方法的改变（重要）**：此前扩写概念可凭机制知识；本轮起处理案例，**必须先读 `_research/wiki_full/<id>.txt`**，只写来源中确实存在的事实，数字必须能在来源中找到（用 check_body_num 检验）。②第一批 6 条：turkey-2001／bond-crisis-1994／edict-maximum-prices／norwegian-banking-1988／tripartite-1936／gold-bloc。③第二批 5 条：nixon-shock／emergency-banking-act-1933／gold-reserve-act-1934／argentina-2018／dawes-plan-1924。④第三批 5 条：aig／enron／drexel／worldcom／barings-1995。⑤**几处从来源读到的关键事实**：**AIG** 从美联储获 **1800 亿美元**救助，FCIC 把失败归因于「**大规模销售未对冲的保险**」，到 2012 年已偿还 **2050 亿美元**；**安然**股价从 2000 年 8 月的 **90.75 美元/股**跌至 2001 年 11 月底的**不足 1 美元**，**634 亿美元资产**使其成为当时最大企业破产；**世通**虚增资产超 **110 亿美元**，内部审计发现 **38 亿美元**虚假分录，并记录了**举报者被训斥、被裁员**的细节；**巴林银行**因 Nick Leeson 期货欺诈损失 **8.27 亿英镑**，是「单人操作 + 内控失效」导致百年银行覆灭的极端案例；**德崇证券**1986 财年净利 **5.455 亿美元**为当时华尔街纪录，米尔肯薪酬 **2.95 亿美元**，1990 年破产是自大萧条来首家。⑥数字核验：check_body_num 显示新写案例的数字均可在来源中找到（`gold-bloc` 的「10 月／12 月」为原文事实）。⑦现状：641 条、来源 742、页面 655；overview 平均 409 字；ERRORS 0、WARNINGS 16（全部为案例，均有来源全文）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作LW-MD",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 13,
+      "reviewed": 16,
+      "fixed": 13,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0（R22 归零）+ 自测 18/18",
+      "spot_check": "扩写剩余 13 条案例；R22 从 335 到 0 全部完成",
+      "note": "维基第106轮可用。LW-MD：**扩写剩余 13 条案例，R22 归零（11 → 0）——R22 任务全部完成**。①本轮三批：（a）oil-price-war-2020／egypt-2023／northern-rock／indymac／credit-suisse-2023；（b）china-2015-turbulence／tulip-mania-1637／gamestop-2021／spain-2008／lehman；（c）brazil-2014／bernie-madoff／nigeria-debt。②**最后 3 条（south-sea-bubble-1720／bear-stearns／bcci）无维基全文**——本轮网络不可用（多次重试均超时），故**只用条目自身已核验的 one_line／timeline 事实 + 机制说明**扩写，**未新增任何未记录的数字、日期或人名**，并在 pending_notes 明确标注「暂无维基全文缓存，具体细节待补」。这是「宁短不编」原则的实践。③**几处从来源读到的关键事实**：credit-suisse-2023：UBS 以 **30 亿瑞郎**收购，瑞士央行提供超 **1000 亿瑞郎**流动性，**160 亿瑞郎 AT1 债券减记为零**——颠覆了债权人优先于股东的常规清偿顺序；northern-rock：「**资产充足却脆弱**」，是偿付能力与流动性必须分开的最好注脚；china-2015：**1400 家公司（超半数上市）申请停牌**，反而加剧流动性问题；tulip-mania：**现代经济学家提出理性解释**，且原始数据多来自有偏来源——提醒对历史泡沫叙事保持审慎；spain-2008：**依赖房地产的税收使财政在泡沫期保持盈余直至 2007**，是「财政假象」的典型；nigeria-debt：**石油占政府收入 2/3 但仅占 GDP 9%**——结构性风险不在体量而在财政来源的集中。④现状：641 条、来源 742、页面 655；overview 平均 **424 字**；**ERRORS 0、WARNINGS 0**。⑤**R22 从 round 112 发现（335 条）到 round 126 归零，历时 14 轮，累计扩写 335 条。**仍有 347 条无全文（含上述 3 条），已在 pending_notes 标注待补。"
     }
   ]
 }

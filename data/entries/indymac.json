@@ -8,7 +8,7 @@
   "region": "北美",
   "crisis_type": "银行",
   "one_line": "美国加州银行 IndyMac（Independent National Mortgage Corporation 缩称）于2008年倒闭并被FDIC接管。",
-  "overview": "IndyMac 是 \"Independent National Mortgage Corporation\" 的缩称，是一家总部位于加利福尼亚州的美国银行，于2008年倒闭并被美国联邦存款保险公司（FDIC）接管。它是次贷危机中存款保险机构处置的典型案例之一。具体规模待核实。",
+  "overview": "IndyMac（Independent National Mortgage Corporation 的缩写）是**总部位于加州的美国银行，2008 年倒闭并被联邦存款保险公司(FDIC) 接管**。**它当时的规模（据来源）**：倒闭前，IndyMac 是**洛杉矶地区最大的储贷机构**、**美国第七大按揭发起机构**；**2008 年 7 月 11 日的倒闭**是**当时美国第四大银行倒闭**、**第二大受监管储贷机构倒闭**。**须澄清的一点**：名字里的 \"Mac\" 通常与政府支持企业（如 Freddie Mac、Farmer Mac）相关，但 **IndyMac 始终是私营公司，与政府毫无关系**。**失败的根源**：它**大量涉足 Alt-A 按揭与反向按揭**，这既是其**急剧崛起**的原因，也被认为是其**倒闭**的原因——在 **2007—2009 年次贷危机**中，**大量此类问题贷款违约**。**处置方式（来源详载）**：FDIC 把资产拍卖，**大部分业务卖给 IMB HoldCo LLC**（后改为 OneWest Bank）；FDIC 保留了一些**无法出售的资产与负债**，放入名为 **IndyMac Federal Bank** 的持有实体，**逐步清算**。**背景**：IndyMac 银行 **1985 年**由 David S. Loeb 与 Angelo Mozilo创立为 **Countrywide Mortgage Investment**，用以**抵押那些因金额过大而无法卖给房利美与房地美的 Countrywide 贷款**；**1997 年** Countrywide 把 IndyMac 分拆为独立公司，由 Mike Perry 任 CEO 直至其垮台。**与危机的关系**：①它是\"**Alt-A/次级按揭 → 房价下跌 → 挤兑 → 接管**\"链条的具体案例；②**\"拍卖资产 + 剥离坏资产到持有实体\"** 的处置，是\"坏账银行\"（见 bad-bank）思路的实践形态；③它说明**按揭发起机构的商业模式**（依赖贷款出售）在流动性冻结时极为脆弱（见 securitization）。",
   "timeline": [
     {
       "year": 2008,
@@ -100,10 +100,12 @@
     "w-en-deposit-insurance"
   ],
   "related": [
+    "bad-bank",
     "bank-run",
+    "securitization",
     "subprime-crisis-2007",
     "washington-mutual"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AR】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。 【续作FE】基于维基全文补写policy_response。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AR】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。 【续作FE】基于维基全文补写policy_response。 【续作LY】据来源全文扩写 137 → 930 字。"
 }
