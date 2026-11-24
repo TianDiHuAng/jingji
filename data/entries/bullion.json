@@ -1,0 +1,57 @@
+{
+  "id": "bullion",
+  "title": "金银块（贵金属）",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "经精炼至高标准纯度的非铁金属块，尤指用于铸币与储备的金银。",
+  "overview": "金银块(bullion) 指经精炼至**高标准纯度**的非铁金属，通常特指金与银，形态为块、条或锭，而非铸币。它既是**货币体系的储备基础**（金本位时代），也是当代的**避险资产**。金银的货币角色与价格之间有一个结构性特点：当货币与贵金属挂钩时，货币政策受制于金银的可得性；脱钩后，金银价格反而更能自由反映市场对通胀与信用的预期。伦敦金银市场是全球贵金属交易与定价的中心，其定价机制经历了从\"定盘价\"（fixing）到电子化拍卖的变化。",
+  "timeline": [
+    {
+      "year": 1717,
+      "event": "牛顿任皇家铸币厂长时确立金衡，英国事实上转向金本位（据 Wikipedia Bullion）"
+    },
+    {
+      "year": 1919,
+      "event": "伦敦金银市场协会的前身开始每日\"定盘价\"定价（据 Wikipedia Bullion）"
+    },
+    {
+      "year": 2015,
+      "event": "伦敦金银定盘价机制因操纵丑闻被电子拍卖取代（据 Wikipedia Bullion）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "货币属性视角",
+      "view": "金银作为**最终结算手段**，在信用货币体系受疑时充当价值锚（据 Wikipedia Bullion）",
+      "sources": [
+        "w-en-bullion"
+      ]
+    },
+    {
+      "holder": "商品属性视角",
+      "view": "金银价格由供需（首饰、工业、投资）决定，其\"货币溢价\"难以单独计量（据 Wikipedia Bullion）",
+      "sources": [
+        "w-en-bullion"
+      ]
+    }
+  ],
+  "key_data": [],
+  "comparison": "与**金本位**的区别：金本位是一种**货币制度安排**（本币可兑换固定量黄金），金银块是**实物商品**；金本位可以废除，金银块的价值不会归零。与**外汇储备**的区别：后者是他人负债，前者是无对手方风险的实物资产。",
+  "related": [
+    "gold-standard",
+    "gold-bloc",
+    "exchange-equalisation",
+    "commodity-price-index",
+    "seigniorage"
+  ],
+  "sources": [
+    "w-en-bullion"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+}

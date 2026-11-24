@@ -1,0 +1,54 @@
+{
+  "id": "lloyds",
+  "title": "劳合社",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "伦敦的保险与再保险市场，由多个承保辛迪加组成，本身不是保险公司。",
+  "overview": "劳合社(Lloyd's of London) 是位于伦敦的**保险与再保险市场**，其特点在于它**本身不是保险公司**，而是由多个独立承保辛迪加组成的 marketplace：每个辛迪加自负盈亏，成员以**无限责任**（后改为有限）承担赔付。这一结构使劳合社能承保其他市场不愿承保的特殊风险（航运、航空、巨灾、政治风险），但也意味着**风险在成员间分散、而非由单一资本金吸收**。1980—90 年代劳合社经历严重危机：石棉索赔、污染责任与一系列巨灾叠加，导致大量个人成员（Names）破产，最终促成公司化改革。",
+  "timeline": [
+    {
+      "year": 1688,
+      "event": "爱德华·劳埃德在伦敦开设咖啡馆，成为船东与承保人聚集地（据 Wikipedia Lloyd's of London）"
+    },
+    {
+      "year": 1871,
+      "event": "首个《劳合社法》确立其法律地位（据 Wikipedia Lloyd's of London）"
+    },
+    {
+      "year": 1996,
+      "event": "劳合社完成公司化改革：个人无限责任成员被有限责任公司取代（据 Wikipedia Lloyd's of London）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "辛迪加模式的优点",
+      "view": "风险由多个独立承保人分散承担，能覆盖单一机构不敢承保的特殊风险（据 Wikipedia Lloyd's of London）",
+      "sources": [
+        "w-en-lloyds"
+      ]
+    },
+    {
+      "holder": "无限责任的争议",
+      "view": "成员以全部个人财产承担赔付，在巨灾叠加时导致大量个人破产；批评者认为这一结构把系统性风险转嫁给不具备风险承受力的个人（据 Wikipedia Lloyd's of London）",
+      "sources": [
+        "w-en-lloyds"
+      ]
+    }
+  ],
+  "key_data": [],
+  "comparison": "与**股份制保险公司**的区别：后者的股东责任以出资额为限，劳合社的成员（1980年代前）承担无限责任。与**再保险**的区别：劳合社是市场平台，本身不承担风险；再保险公司是风险的最终承担者。与**交易所**的区别：交易所撮合标准化合约，劳合社承保定制化风险。",
+  "related": [
+    "insurance-history",
+    "counterparty-risk"
+  ],
+  "sources": [
+    "w-en-lloyds"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+}

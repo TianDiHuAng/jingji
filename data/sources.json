@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 702,
+  "count": 706,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8387,6 +8387,54 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Common-pool_resource",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-actuarial",
+      "title": "Actuarial science",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Actuarial_science",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-bullion",
+      "title": "Bullion",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Bullion",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-lloyds",
+      "title": "Lloyd's of London",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Lloyd%27s_of_London",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-deindustrialization",
+      "title": "Deindustrialization",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Deindustrialization",
       "url2": null,
       "verified": true,
       "link_ok": true,

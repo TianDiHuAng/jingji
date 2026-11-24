@@ -1630,6 +1630,18 @@
       "check_result": "PASS; 十道检查全绿（626 条、702 来源、640 页）",
       "spot_check": "新建 2 概念；合并 2 组重复条目；来源 704→702",
       "note": "维基第58轮可用。HG-HI：**新建 2 个概念条目，并发现/合并 2 组重复**。①先测 12 个 BACKLOG 待建概念的维基页面：9 个可抓全文，3 个重定向到通用页（`regulatory-arbitrage`→Arbitrage、`taper-tantrum`→QE、`sacrifice-ratio`／`term-premium`／`disclosure` 无页面）。②新建 **`pigouvian-tax`（庇古税）** 与 **`common-pool`（公共池资源）**，各含 overview／timeline（庇古1920·科斯1960／哈丁1968·奥斯特罗姆1990）／两派观点／对比辨析／关联条目，来源为各自专属维基页（34k／17k 字符）。③**发现 2 组重复**：已存在 `externality`（非 `externalities`）与 `value-at-risk`（非 `var`）——BACKLOG 清单（round 37 编制）已过时，未核对现状。已把新内容（timeline／更完整 overview／来源）并入已有条目后删除重复文件，并重定向相关引用。**这是\"未先检索自己的库\"的又一次复发。**④新建条目时 `schools` 直接赋值为元组导致渲染报错，已修正为 dict 格式（与 round 64 同类错误）。⑤来源库 704→**702**（合并 `w-en-var`→`w-en-value-at-risk`、`w-en-externalities`→`w-en-externality`）。现状：**626 条**（案例 205／概念 421）、来源 702、页面 640、key_data 416、comparison 563、案例政策 146/205。十道检查全绿。"
+    },
+    {
+      "round": "续作HJ-HL",
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgraded": 4,
+      "reviewed": 21,
+      "fixed": 1,
+      "sources_total": 706,
+      "check_result": "PASS; 十道检查全绿（630 条、706 来源、644 页）",
+      "spot_check": "新建 4 概念；重写 BACKLOG 待建清单（21 项重新分类）",
+      "note": "维基第59轮可用。HJ-HL：**新建 4 个概念，并重写 BACKLOG 的待建清单**。①先用**模糊匹配**重新校验 round 37 编制的 21 项待建清单——发现多项\"同义不同名\"（`term-premium` 被误配到 `equity-premium`、`risk-pooling` 误配到各类 risk 条目），说明简单词元匹配会产生假阳性，须逐项人工判定。②按维基页面可用性筛选，新建 4 条：**精算**（1693 哈雷生命表／1848 精算师协会／2016 Solvency II；精算风险观 vs 金融经济学定价）、**金银块**（1717 牛顿确立金衡／1919 伦敦定盘价／2015 电子拍卖取代；货币属性 vs 商品属性）、**劳合社**（1688 劳埃德咖啡馆／1871 首个劳合社法／1996 公司化改革；辛迪加模式优点 vs 无限责任争议）、**去工业化**（生产率视角 vs 贸易外包视角）。③**重写 BACKLOG 待建清单**：把 21 项按下表重新分类——已覆盖 11 项、真实缺口 15 项，每项给出核实结论（维基无页面／重定向到通用页／与现有条目不等价等），并在文件开头写明\"原清单长期未复核，导致 round 77 建了已存在的条目\"。④吸取 round 77 教训：建条目前先查 `data/entries/` 的 id 与标题，schools 一律用 dict。现状：**630 条**（案例 205／概念 425）、来源 706、页面 644、key_data 416、comparison 567。十道检查全绿。"
     }
   ]
 }

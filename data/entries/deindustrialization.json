@@ -1,0 +1,56 @@
+{
+  "id": "deindustrialization",
+  "title": "去工业化",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一国或地区工业产能与制造业活动比重持续下降的社会经济过程。",
+  "overview": "去工业化指一国或地区**工业产能或制造业活动比重持续下降**的过程，通常表现为制造业就业与产出占GDP 比重下滑。其成因在文献中分为几类：**生产率提升**（同样产出只需更少工人）、**外包与离岸**（生产环节转移到成本更低地区）、**需求结构变化**（服务消费占比上升）、以及**贸易竞争**。去工业化是否构成\"问题\"取决于视角：若源于生产率提升，它是**富裕的结果**；若源于产业转移与贸易冲击，则伴随**区域衰落与就业极化**——后者是民粹主义与贸易保护诉求的经济基础之一。",
+  "timeline": [
+    {
+      "year": 1970,
+      "event": "主要发达经济体的制造业就业占比开始持续下降（据 Wikipedia Deindustrialization）"
+    },
+    {
+      "year": 1990,
+      "event": "全球化与离岸外包加速，制造业向低成本地区转移（据 Wikipedia Deindustrialization）"
+    },
+    {
+      "year": 2008,
+      "event": "金融危机后\"再工业化\"成为多国政策议题（据 Wikipedia Deindustrialization）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "生产率视角",
+      "view": "制造业就业下降主要是生产率提升的结果——产出未减而用工减少，这是增长的表现而非衰退（据 Wikipedia Deindustrialization）",
+      "sources": [
+        "w-en-deindustrialization"
+      ]
+    },
+    {
+      "holder": "贸易与外包视角",
+      "view": "产业转移与进口竞争导致特定地区工业岗位消失，造成区域性的长期失业与收入下降（据 Wikipedia Deindustrialization）",
+      "sources": [
+        "w-en-deindustrialization"
+      ]
+    }
+  ],
+  "key_data": [],
+  "comparison": "与**产业升级**的区别：升级指向更高附加值环节移动，可能伴随制造业就业下降但产出上升；去工业化是**比重**概念，不必然意味着升级。与**荷兰病**的区别：后者由资源出口导致的汇率升值压制制造业，去工业化的成因更广。",
+  "related": [
+    "dutch-disease",
+    "structural-adjustment",
+    "inequality",
+    "labour-market"
+  ],
+  "sources": [
+    "w-en-deindustrialization"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+}

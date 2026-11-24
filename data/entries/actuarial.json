@@ -1,0 +1,56 @@
+{
+  "id": "actuarial",
+  "title": "精算",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "用数学与统计方法评估保险、养老金与金融中的风险的学科。",
+  "overview": "精算是把数学与统计方法用于**评估保险、养老金、金融与投资中的风险**的学科。其核心工具包括生命表（死亡率建模）、损失分布拟合、准备金计提与偿付能力测算。精算与金融经济学的交汇点在于**风险定价**：保费应覆盖预期损失、风险边际与费用，而风险边际的确定依赖于对尾部风险的建模。2008 年危机后，精算在**偿付能力监管**（如欧盟 Solvency II）中的作用显著加强——从\"事后计提\"转向\"基于风险的资本要求\"。",
+  "timeline": [
+    {
+      "year": 1693,
+      "event": "哈雷制作第一张以实证数据为基础的生命表，为寿险精算奠基（据 Wikipedia Actuarial science）"
+    },
+    {
+      "year": 1848,
+      "event": "伦敦成立精算师协会，精算成为独立职业（据 Wikipedia Actuarial science）"
+    },
+    {
+      "year": 2016,
+      "event": "欧盟 Solvency II 生效，把基于风险的资本要求制度化（据 Wikipedia Actuarial science）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "精算的风险观",
+      "view": "以**大数定律**为基础，把不确定性转化为可定价的分布；但该框架对**相关性突变**（如危机中的同时违约）较为脆弱（据 Wikipedia Actuarial science）",
+      "sources": [
+        "w-en-actuarial"
+      ]
+    },
+    {
+      "holder": "与金融经济学的差异",
+      "view": "精算传统强调主观概率与审慎边际，金融经济学强调无套利与市场一致性定价；两者在 1990 年代后逐步融合（据 Wikipedia Actuarial science）",
+      "sources": [
+        "w-en-actuarial"
+      ]
+    }
+  ],
+  "key_data": [],
+  "comparison": "与**风险管理(VaR)** 的区别：精算关注长期（数十年）保险负债的分布与准备金，VaR 关注短期（1日—1年）交易组合的损失阈值。与**会计计提**的区别：精算准备金基于概率模型，会计计提遵循准则规定，两者的差距在危机中常成为争议焦点。",
+  "related": [
+    "deposit-insurance",
+    "risk-management",
+    "insurance-history",
+    "moral-hazard"
+  ],
+  "sources": [
+    "w-en-actuarial"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+}

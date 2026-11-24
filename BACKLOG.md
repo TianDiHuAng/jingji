@@ -35,70 +35,47 @@
 - zero_gap_streak：0（2020崩盘外部阻塞未决）
 - saturated=false
 
-## 待补建概念清单（续作DG 交叉引用发现，47 个）
+## 待建概念清单（round 78 重新校验）
 
-建立条目关联时发现以下概念被引用但库中不存在。按价值排序，优先补建前两档：
+> **说明**：原清单编制于 round 37，长期未复核，导致 round 77 依它建了已存在的
+> `externalities`／`var`（站内实为 `externality`／`value-at-risk`）。
+> 下表已按**当前实际状态**重写，并给出每项的核实结论。
 
-**第一档（机制/制度，优先）**
-`bank-resolution`（银行处置）、`counterparty-risk`（对手方风险）、`toxic-assets`（有毒资产）、
-`junk-bond`（垃圾债券）、`sacrifice-ratio`（牺牲率）、`payment-system`（支付系统）、
-`disclosure`（信息披露）、`market-failure`（市场失灵）、`prisoners-dilemma`（囚徒困境）、
-`property-rights`（产权）、`transaction-cost`（交易成本）、`rent-seeking`（寻租）
+### 已完成／已有覆盖（不必再建）
 
-**第二档（基础经济学概念）**
-`savings`、`investment`、`demand`、`growth`、`population`、`recession`、`inequality`、
-`labour-market`、`specialization`、`agriculture`、`tax-capacity`、`tax-incidence`、
-`short-term-rate`、`secured-lending`、`self-insurance`、`risk-pooling`、`actuarial`、
-`leading-indicator`、`deindustrialization`、`supervision`、`rogue-trader`、`audit-failure`、
-`bank-holiday`、`bullion`、`var`（风险价值）、`common-pool`、`pigouvian-tax`、`lloyds`
-
-**注**：`credit-anstalt` 实际 id 为 `creditanstalt`；`clearing` 无独立条目，相关机制见 `netting`。
-
-## 续作EF 新发现的 19 个基础概念（round 37）
-
-建立关联时发现以下概念被引用但不存在，**多为经济学最基础的概念**：
-
-`growth`（增长）、`expectations`（预期）、`utility`（效用）、`recession`（衰退）、
-`market-failure`（市场失灵）、`rent-seeking`（寻租）、`externalities`（外部性）、
-`disclosure`（信息披露）、`dividend`（股息）、`equity-premium`（股权溢价）、
-`term-premium`（期限溢价）、`convergence`（收敛）、`counterparty-risk`（对手方风险）、
-`effective-demand`（有效需求）、`proprietary-trading`（自营交易）、
-`regulatory-arbitrage`（监管套利）、`subordination`（次级化）、
-`taper-tantrum`（缩减恐慌）、`special-drawing-rights`（特别提款权，实际有 `sdr`）
-
-**观察**：本站概念覆盖偏向"金融专门术语"，而基础经济学地基不完整。补建时应优先处理
-`growth`／`expectations`／`utility`／`recession`／`market-failure`／`rent-seeking` 六项。
-
-## 续作EQ：文中已引用但站内无独立条目的概念（round 43）
-
-用正则从各条目的 `comparison` 与 `overview` 中提取括号内/粗体的英文术语引用，共 39 个，
-其中 8 个站内不存在。逐一核对上下文后，4 个属于**英文术语标注**（应保留原文，非条目引用）：
-`residency-based`（capital-control）、`mini-crash`（条目自身英文名）、
-`de-risking`（money-laundering）、`originate-to-distribute`（penn-square-1982、subprime-lending）。
-
-**真正属于概念缺口的是以下 4 个**（文中以"与 X 的区别/相近"形式引用，暗示应有独立条目）：
-
-| 概念 | 中文 | 引用位置 | 优先级 |
-|---|---|---|---|
-| `bank-resolution` | 银行处置 | bad-bank/comparison | 高（危机处置核心机制） |
-| `leverage-ratio` | 杠杆率 | capital-requirement/comparison | 高（巴塞尔III 双轨之一） |
-| `ring-fencing` | 圈护 | glass-steagall-1933/comparison | 中（英国2019年制度） |
-| `inflation-tax` | 通胀税 | seigniorage/comparison | 中（与铸币税口径对照） |
-
-**方法记录**：用"文中英文术语引用"与"站内 id 集合"做差集，能系统发现概念缺口。
-这比逐条人工阅读效率高得多，且每次新增内容后都可重跑。脚本：`_research/EQ_refcheck.py`。
-
-## 待补专属来源（round 61 记录）
-
-| 条目 | 问题 |
+| 概念 | 状态 |
 |---|---|
-| ~~`blue-monday-2009`~~ | **已解决（round 70）**：专属条目 `Blue_Monday_Crash_2009` 一直存在（维基 URL 大小写敏感，round 61 用了小写故误判为不存在）。来源已补，并新增 RBS 亏损 **280 亿英镑**、政府持股 **70%** 两条数据。 |
+| `externalities` | externality（已有，id 不同） |
+| `var` | value-at-risk（已有，id 不同） |
+| `common-pool` | 本轮新建 |
+| `pigouvian-tax` | 本轮新建 |
+| `actuarial` | 本轮新建 |
+| `bullion` | 本轮新建 |
+| `lloyds` | 本轮新建 |
+| `deindustrialization` | 本轮新建 |
+| `tax-capacity` | fiscal-capacity 已覆盖 |
+| `supervision` | bank-regulation／macroprudential 已覆盖 |
+| `government-bailout` | bailout 已覆盖 |
 
-## 已标注"数值待核实"的条目（round 61 处理）
+### 真实缺口（按优先级）
 
-| 条目 | 待核实内容 | 处理 |
-|---|---|---|
-| `dotcom-bubble-2000` | 高通上涨 2619%、12 只超 1000%、7 只超 900% | 已在正文标注"现行来源页面未载，需补充出处" |
-| `panic-1901` | 北太平洋股票 170 → 1000 美元 | 同上 |
+| 概念 | 核实结论 |
+|---|---|
+| `bank-resolution` | 维基无独立页面（round 46 验证），相关机制见 bad-bank／bank-failure |
+| `sacrifice-ratio` | 维基无独立页面；相关内容见 phillips-curve／disinflation |
+| `term-premium` | 维基无独立页面；相关内容见 yield-curve／risk-premium |
+| `regulatory-arbitrage` | 维基重定向到 Arbitrage（通用页），不宜作专属来源 |
+| `taper-tantrum` | 维基重定向到 Quantitative easing（通用页） |
+| `disclosure` | 维基 Disclosure 仅 2.8k 字符、Transparency (market) 5.2k；价值中等，暂缓 |
+| `leading-indicator` | 可用 Economic indicator（9k 字符），待建 |
+| `self-insurance` | 缺；与 deposit-insurance 不等价 |
+| `risk-pooling` | 缺；与各类 risk 条目不等价 |
+| `secured-lending` | 缺；与 interbank-lending 不等价 |
+| `audit-failure` | 缺；与 bank-failure 不等价 |
+| `bank-holiday` | 缺；1933 年美国银行停业事件，维基 Bank holiday 页为英国公共假日（不可用） |
+| `rogue-trader` | 缺；可用 Rogue trader 相关页面（待测） |
+| `agriculture` | 缺；范围过宽，暂缓 |
+| `short-term-rate` | interest-rate 部分覆盖 |
 
-**处理原则**：不删除信息（线索有价值），但必须显式标注"无来源支撑"，避免读者误当作已核实事实。
+**核实方法**：先查 `data/entries/` 的实际 id 与标题（不只比对清单），
+再测维基页面是否为**专属页**（通用页/重定向页不作专属来源）。
