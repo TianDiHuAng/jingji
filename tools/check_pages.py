@@ -104,7 +104,13 @@ def main():
         comp = e.get('comparison') or ''
         if not comp:
             continue
-        mentioned = {i for i in _ids if i != e['id'] and i in comp}
+        # 用词边界匹配 id，避免 "inflation" 误命中 "hyperinflation" 这类子串
+        mentioned = set()
+        for i in _ids:
+            if i == e['id']:
+                continue
+            if re.search(r'(?<![a-z0-9\-])' + re.escape(i) + r'(?![a-z0-9\-])', comp):
+                mentioned.add(i)
         missing = mentioned - set(e.get('related', []))
         if missing:
             problems.append(('data/' + e['id'] + '.json', '文案与导航一致性',

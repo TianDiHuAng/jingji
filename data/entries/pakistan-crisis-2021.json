@@ -121,8 +121,10 @@
     "greek-debt-crisis",
     "indian-1991",
     "sri-lanka-crisis-2019",
-    "stabilization-program"
+    "stabilization-program",
+    "sudden-stop"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作GY】移除模板化 comparison（原文为\"与同为某类共享传导机制…\"的通用表述，对同类条目均成立、不含信息量）；待有具体对照分析时再补。 【清理】原概述结尾含「具体数据待核实」，已移入此处。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作GY】移除模板化 comparison（原文为\"与同为某类共享传导机制…\"的通用表述，对同类条目均成立、不含信息量）；待有具体对照分析时再补。 【清理】原概述结尾含「具体数据待核实」，已移入此处。 【续作MM】补 comparison（结构性对比）。",
+  "comparison": "与 `sri-lanka-crisis-2019` 的区别：巴基斯坦是**外汇储备枯竭 + 汇率贬值 + IMF 条件谈判**交织，濒临主权违约但**避免了正式违约**；斯里兰卡则**正式违约并经历政治动荡**。两者同属\"**储备枯竭型**\"国际收支危机（见 `sudden-stop`），差别在**是否走向正式违约**。"
 }

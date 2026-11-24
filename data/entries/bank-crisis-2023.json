@@ -122,5 +122,6 @@
     "venezuelan-banking-2009"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作DP】policy_response 人工核验撰写。 【续作GY】移除模板化 comparison（原文为\"与同为某类共享传导机制…\"的通用表述，对同类条目均成立、不含信息量）；待有具体对照分析时再补。 【清理】原概述结尾含「具体处置细节待核实」，已移入此处。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作DP】policy_response 人工核验撰写。 【续作GY】移除模板化 comparison（原文为\"与同为某类共享传导机制…\"的通用表述，对同类条目均成立、不含信息量）；待有具体对照分析时再补。 【清理】原概述结尾含「具体处置细节待核实」，已移入此处。 【续作MI】补 comparison（结构性对比，引用 related 中已有条目）。",
+  "comparison": "与 `subprime-crisis-2007` 的关键区别：2023 年危机的传导核心是**未保险存款的挤兑**（负债端），资产端虽有利率浮亏但并非大规模信用违约；2007—08 年则是**资产端**（次贷与结构化产品）违约引发。前者是\"**负债端恐慌**\"，后者是\"**资产端损失**\"。"
 }
