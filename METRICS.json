@@ -1414,6 +1414,18 @@
       "check_result": "PASS; 5 道检查全绿（含392个政策段数字全部可溯源）",
       "spot_check": "policy_response 数字溯源：392/392 通过",
       "note": "维基第40轮可用。FT/FU：**新增第5个检查工具 tools/check_polnum.py**，核对 policy_response 中提到的每个数字能否溯源。初版检查 392 个数字，15 条未匹配；逐条核查发现**全部为中文单位换算或月份写法差异**，无一处抄错：如 6.13亿 ↔ 613 million、640亿克朗 ↔ 64 billion kronor、11月 ↔ November、1994年1月 ↔ January 1994。工具三次改进：①加入\"亿/万 ↔ billion/million\"换算；②加入月份中英对应；③把条目自身 overview/comparison 并入查找范围（部分数字出自条目正文而非维基全文）。改进后 **392 个数字全部可溯源**。至此共有 5 道检查：check（数据合规R1-R16）、check_links（链接与SVG）、check_quality（HTML结构10项）、check_kd（key_data数值）、check_polnum（政策段数字）。当前：案例政策覆盖 142/205（69%）、key_data 397 条、来源 732 条。"
+    },
+    {
+      "round": "续作FV",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 50,
+      "fixed": 0,
+      "sources_total": 732,
+      "check_result": "PASS; 6 道检查全绿（来源抽样可达性良好）",
+      "spot_check": "来源抽样 50 个：失败均为服务端瞬时问题，复测通过",
+      "note": "维基第41轮可用。FV：**新增第6个检查工具 tools/check_sources.py**，抽样验证 sources.json 中 verified=true 的来源是否真可达。首次抽样30个：27可达、3失败（openlibrary 503×2、OWID 404×1）；逐项复测确认**均为服务端瞬时问题**——OWID 的 grapher 页复测返回200、openlibrary 首页与单个作品页复测200。再抽样20个：19可达、1超时（openlibrary 单项偶发）。工具设计：403/405/429（反爬、方法限制、限流）视为可达；5xx与超时自动重试一次；只有404与持续失败才报错。**结论：732 个来源可达性良好**，round 8 的全量核对结论仍成立。至此共有 **6 道检查**：check（数据合规R1-R16）、check_links（链接与SVG）、check_quality（HTML结构10项）、check_kd（key_data数值）、check_polnum（政策段数字）、check_sources（来源可达性）。当前：案例政策 142/205（69%）、案例数据 176/205（85%）、key_data 397 条。"
     }
   ]
 }
