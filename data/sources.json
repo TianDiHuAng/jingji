@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 602,
+  "count": 608,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7225,6 +7225,78 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "fed-great-depression",
+      "title": "The Great Depression",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/great-depression",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "fed-stock-crash-1929",
+      "title": "Stock Market Crash of 1929",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "fed-stock-crash-1987",
+      "title": "Stock Market Crash of 1987",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "fed-savings-loan",
+      "title": "Savings and Loan Crisis",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/savings-and-loan-crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "fed-subprime",
+      "title": "Subprime Mortgage Crisis",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/subprime-mortgage-crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "fed-asian-crisis",
+      "title": "Asian Financial Crisis",
+      "author": "Federal Reserve History (美国联邦储备系统历史站)",
+      "year": "n.d.",
+      "type": "官方机构",
+      "url": "https://www.federalreservehistory.org/essays/asian-financial-crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "官方机构页面(本会话抓取核对，非维基，作为第二独立来源)"
     }
   ]
 }

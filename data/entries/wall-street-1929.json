@@ -46,7 +46,7 @@
       "unit": "%（较崩盘前市值，至1932年7月）",
       "year": 1932,
       "comparable_price": false,
-      "note": "原文：stock market had lost some 90% of its pre-crash value by July 8 1932；单源待核实。 【二源印证】英文维基《Great Depression in the United States》原文\"stock market lost almost 90% of its value\"，双源印证",
+      "note": "原文：stock market had lost some 90% of its pre-crash value by July 8 1932；单源待核实。 【二源印证】英文维基《Great Depression in the United States》原文\"stock market lost almost 90% of its value\"，双源印证｜**已交叉验证**：美联储历史站记载\"较峰值低89%\"，与本条90%基本一致（两个独立来源）。",
       "sources": [
         "w-en-wall-street-crash-of-1929",
         "w-en-great-depression-in-us"
@@ -62,6 +62,39 @@
       "sources": [
         "w-en-wall-street-crash-of-1929",
         "w-fr-krach-1929"
+      ]
+    },
+    {
+      "label": "道指单日跌幅(1929-10-28黑色星期一)",
+      "value": -13,
+      "unit": "%（近13%）",
+      "year": 1929,
+      "comparable_price": false,
+      "note": "原文：On Black Monday, October 28, 1929, the Dow Jones Industrial Average declined nearly 13 percent（美联储历史）。",
+      "sources": [
+        "fed-stock-crash-1929"
+      ]
+    },
+    {
+      "label": "道指单日跌幅(1929-10-29黑色星期二)",
+      "value": -12,
+      "unit": "%（近12%）",
+      "year": 1929,
+      "comparable_price": false,
+      "note": "原文：On the following day, Black Tuesday, the market dropped nearly 12 percent（美联储历史）。",
+      "sources": [
+        "fed-stock-crash-1929"
+      ]
+    },
+    {
+      "label": "股指最低点较峰值跌幅(至1932)",
+      "value": -89,
+      "unit": "%（美联储历史口径；本条目另有\"市值跌幅90%\"来自维基，两源基本一致）",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：its lowest value of the twentieth century, 89 percent below its peak（美联储历史）。与维基来源的90%相互印证。",
+      "sources": [
+        "fed-stock-crash-1929"
       ]
     }
   ],
@@ -114,7 +147,8 @@
   "sources": [
     "w-en-speculative-bubble",
     "w-en-wall-street-crash-of-1929",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "fed-stock-crash-1929"
   ],
   "related": [
     "arendal-crash-1886",
@@ -122,7 +156,7 @@
     "blue-monday-2009"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5数值复核】补入单源数值，需第二来源核实。 【轮次6体检】补专属来源w-en-wall-street-crash-of-1929。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次5数值复核】补入单源数值，需第二来源核实。 【轮次6体检】补专属来源w-en-wall-street-crash-of-1929。 【续作BC】部分数据已引入美联储历史站作为第二独立来源交叉验证。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",

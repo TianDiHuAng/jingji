@@ -78,10 +78,11 @@
       "unit": "%（道琼斯工业平均指数，单日）",
       "year": 1987,
       "comparable_price": false,
-      "note": "原文：the DJIA fell 508 points (22.6 percent) ... largest one-day percentage drop in history；【双源印证】德语维基《Schwarzer Montag》原文\"Dow Jones ... 22,6 % (508 Punkte)\"，一致。",
+      "note": "原文：the DJIA fell 508 points (22.6 percent) ... largest one-day percentage drop in history；【双源印证】德语维基《Schwarzer Montag》原文\"Dow Jones ... 22,6 % (508 Punkte)\"，一致｜**双源完全一致**：美联储历史站记载\"DJIA dropped 22.6 percent\"（单日最大跌幅），与维基来源数值相同，两个独立来源印证。",
       "sources": [
         "w-en-black-monday-1987",
-        "w-de-schwarzer-montag"
+        "w-de-schwarzer-montag",
+        "fed-stock-crash-1987"
       ]
     },
     {
@@ -128,7 +129,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1987年黑色星期一：机制+反馈示意（泡沫）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击来源</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>信贷/预期</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>崩盘/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-black-monday-1987",
-    "w-en-wall-street-crash-of-1929"
+    "w-en-wall-street-crash-of-1929",
+    "fed-stock-crash-1987"
   ],
   "related": [
     "wall-street-1929",
@@ -136,7 +138,7 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。 【轮次12抽检修复】补deep_svg；修正1989恢复高点主语为标普500。 【轮次25】causal_chain/schools案例化（据本地维基语料）。",
+  "pending_notes": " 【轮次12】升至L3，补真实timeline与数值，单源待核实。 【轮次12抽检修复】补deep_svg；修正1989恢复高点主语为标普500。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作BD】道指22.6%已获美联储历史站双源印证。",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径。道指单日跌幅22.6%已经英德双语维基印证；标普500跌20%及恢复高点等其余数值仍单一来源待核实。",
     "controversy_summary": "各方解释并列，不替读者下结论。",
