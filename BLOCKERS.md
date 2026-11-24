@@ -86,3 +86,39 @@
   - 其中"泡沫"类政策内容天然较少（多为市场自发调整）；其余多数是概述未覆盖政策。
 - **已排除的错误做法**：用关键词自动提取（round 25 尝试过）会把"美联储加息引发调整"这类**成因**误当**政策**，生成 103 条后全部撤回。宁可 41% 是真的。
 - **正确路径**：需先补充各条目正文（维基恢复或新数据源），再从中提炼政策段落。
+
+## 来源质量问题：8 个条目的来源为通用概念页（round 50 记录）
+
+核查发现以下条目的 `sources` 全部是**通用概念页**，没有专属的史实来源：
+
+| 条目 | 现有来源 |
+|---|---|
+| `us-state-defaults-1840s` | Debt_crisis / Financial_crisis |
+| `danish-bankruptcy-1813` | Debt_crisis / Financial_crisis |
+| `dutch-collapse-1780` | Debt_crisis / Financial_crisis |
+| `british-credit-1772` | Debt_crisis / Financial_crisis |
+| `panic-1896` | Currency_crisis / Financial_crisis |
+| `yemen-currency-divergence` | Yemeni_rial / Currency_crisis |
+| `panic-1910` | Bank_run / Financial_crisis |
+| `subprime-crisis-2007` | Bank_run / Financial_crisis / Fed 专文（唯一专属源） |
+
+**问题**：这些条目的具体史实（如"美国1840年代多个州违约"）无法由"债务危机"这一通用条目支撑。
+按项目原则（关键事实需≥2个独立来源），它们实际处于「来源不足」状态，`needs_verification` 应为 true。
+
+**待办**：
+1. 为每一条寻找专属来源（如 `Panic_of_1837`、`Yemeni_Civil_War`、`Subprime_mortgage_crisis` 等）
+2. 若找不到专属来源，应在条目中明确标注「来源为通用概念页，具体史实待核实」
+3. **同时复核**：这 8 条是否也有 `policy_response` 依赖了通用页内容（若有需重写）
+
+## 教训：工具缺陷被误当作"来源边界"（round 47—50）
+
+连续三轮出现同一类错误：
+
+| 轮次 | 被误判的内容 | 真实原因 |
+|---|---|---|
+| 47 | 9 个 `panic-*` 无政策章节 | 抓取取了第一个 URL（通用页 `Financial_crisis`） |
+| 49 | 同上，修正后 panic-1819/1825 立刻出现政策章节 | 抓取逻辑缺陷 |
+| 50 | `savings-loan-1986`／`signature-bank`／2013中国钱荒 无政策 | 章节名正则漏了 `recapitalization`／`disposition`／`PBOC Reaction` |
+
+**教训**：在声称"来源不具备某类内容"之前，必须先验证提取工具本身是否正确。
+三次都是「工具的问题」被误读成「数据的问题」。
