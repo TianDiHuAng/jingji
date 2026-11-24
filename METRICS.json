@@ -514,6 +514,18 @@
       "sources_total": 558,
       "check_result": "PASS (467); check_links 480页 0 error",
       "note": "AU: 为7个案例补充14条key_data(1914危机/罗马三世纪危机/上海橡胶1910/南美2002/1973-74股市/委内瑞拉/SVB)。总key_data 211→225。**重要级案例有数据比例达91%**，案例整体71%。"
+    },
+    {
+      "round": "续作AV-AW",
+      "date": "2026-11-24",
+      "new_entries": 19,
+      "upgraded": 0,
+      "reviewed": 19,
+      "fixed": 1,
+      "sources_total": 575,
+      "check_result": "PASS (486); check_links 499页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "AV(12条风险/市场微观结构:波动率/分散化/风险管理/ALM/金融监管/外汇干预/冲销操作/套期保值/投机/套利/做市商/买卖价差) + AW(7条经济史/危机总论:金融危机总论/股市崩盘/商业革命/价格革命/货币史/银行史/经济史)。总486条，来源575。"
     }
   ]
 }
