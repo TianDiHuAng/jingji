@@ -2422,6 +2422,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 25/25",
       "spot_check": "BACKLOG 重写（7 条已建成不再列为缺口）；check_docs 加缺口含已建条目守卫；自测 24→25",
       "note": "维基第124轮可用。OD：核查 BACKLOG.md，**发现多条\"真实缺口\"其实早已建成**，已重写并加防回归检查。\n①**发现陈旧**：BACKLOG 停在\"轮次26起点\"，头部\"核心29全L3/重要59全L2\"为旧数；\n其\"真实缺口\"表把 `bank-resolution`／`taper-tantrum`／`leading-indicator`／`self-insurance`／`risk-pooling`／\n`secured-lending`／`bank-holiday` 等**7 条其实早已建成**的条目仍列为\"缺\"——正是 round 77 依过时清单重复建条目的同源风险。\n②**核实与重写**：逐条核对 entries，13 条\"曾列待建\"实已建成；剩余未建（sacrifice-ratio／term-premium／\nregulatory-arbitrage／audit-failure／disclosure／rogue-trader／short-term-rate／agriculture）多为**无专属来源/范围过宽**，属来源可得性限制。BACKLOG 已按当前实际重写（网络遗留、概念缺口结论、已建成清单、历史待办留档）。\n③**加固 check_docs**：新增守卫——解析 BACKLOG\"概念缺口\"表，若其中出现**已建成的 id** 则判失败（防依过时清单重复建）。注入测试（塞入 bank-resolution）确认能捕获。\n④**纳入自测**：新增\"BACKLOG 缺口含已建条目\"用例，自测 24 → **25 项**，全通过；同步更新 HEALTH_CHECK。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 25/25。"
+    },
+    {
+      "round": "续作OE",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 2,
+      "fixed": 4,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 25/25",
+      "spot_check": "BLOCKERS 三处陈旧已核正（2020已建/政策70%/8条已补源）；DECISIONS D08 ALL_DONE矛盾标注",
+      "note": "维基第125轮可用。OE：核查 BLOCKERS.md 与 DECISIONS.md，修正多处陈旧/自相矛盾记录。\n①**BLOCKERS.md 陈旧三处**（经核实）：\n（a）\"库缺 2020 新冠股灾一条\"→ **`covid-crash-2020` 已建成**，说法错误；\n（b）\"案例政策覆盖率停在 41%\"→ 现为 **146/209（70%）**；\n（c）\"8 个条目来源为通用概念页（round 50）\"→ 8 条**均已补专属来源**，已解决。\n已在顶部加\"当前阻塞快照（round 145 复核）\"，并对三节加【round145 复核：已解决/已改善】标注。真实阻塞仅剩：**维基网络不可用**（3 条缺全文 + 5 条缓存缺口）。\n②**DECISIONS.md 关键矛盾**：D08 原文\"写 ALL_DONE 于全部完成后\"与现行 **AUTONOMOUS\"永不写 ALL_DONE、饱和为唯一终态\"直接冲突**——已加标注说明后者取代之（\"每轮≤40条\"仍有效）；D04\"100 条目标\"已被实际 641 条取代，加注；`url2` 表述中的陈旧\"741\"改为\"来源库\"。\n③现状：641 条、来源 742、页面 655；案例政策覆盖 146 条；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 25/25。"
     }
   ]
 }
