@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 644,
+  "count": 645,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7725,6 +7725,18 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Syrian_pound",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-cook-islands-dollar",
+      "title": "Cook Islands dollar",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_dollar",
       "url2": null,
       "verified": true,
       "link_ok": true,

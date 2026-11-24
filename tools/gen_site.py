@@ -193,6 +193,19 @@ def render_entry(e):
             rows+=f'<tr><td>{esc(d.get("label"))}</td><td>{esc(d.get("value"))}</td><td>{esc(d.get("unit"))}</td><td>{esc(d.get("year"))}</td><td>{", ".join(src_link(s) for s in d.get("sources",[]))}</td></tr>'
         rows+='</table>'
         sec('关键数据', rows)
+        # 数据核验状态摘要（透明化）
+        _conf = sum(1 for d in kd if ('双源' in (d.get('note') or '') or '印证' in (d.get('note') or '')
+                                      or '完全一致' in (d.get('note') or '')))
+        _diff = sum(1 for d in kd if '差异' in (d.get('note') or ''))
+        if _conf or _diff:
+            _parts = []
+            if _conf:
+                _parts.append(f'<strong>{_conf}</strong> 条数据已获第二来源印证')
+            if _diff:
+                _parts.append(f'<strong>{_diff}</strong> 条数据在两个来源之间存在差异（已并列呈现，未替读者判断）')
+            sec('数据核验状态', '<p>' + '；'.join(_parts) +
+                '。本条目其余内容仍标注为「待核实」，详见各数据项的说明与'
+                ' <a href="verification.html">数据核实状态</a>页。</p>')
     sch = e.get('schools',[])
     if sch:
         sec('各方解释','<ul>'+''.join(f'<li><strong>{esc(s.get("holder"))}</strong>：{esc(s.get("view"))} '

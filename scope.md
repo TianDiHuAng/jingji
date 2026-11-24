@@ -223,6 +223,7 @@
 | nz-property-bubble | 新西兰房地产泡沫(1990s–) | 见条目 | 大洋洲 | 泡沫 | 见条目 | 续作CI-CK |
 | iranian-economic-crisis | 伊朗经济危机与高通胀(2018–) | 见条目 | 中东 | 恶性通胀 | 见条目 | 续作CI-CK |
 | syrian-pound-crisis | 叙利亚镑贬值与汇率分裂(2011–) | 见条目 | 中东 | 货币 | 见条目 | 续作CI-CK |
+| cook-islands-currency | 库克群岛货币安排与储备不足 | 见条目 | 大洋洲 | 货币 | 补充 | 续作CL |
 
 ## U6 理论与制度
 

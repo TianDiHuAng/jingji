@@ -1,0 +1,126 @@
+{
+  "id": "cook-islands-currency",
+  "title": "库克群岛货币安排与储备不足",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "大洋洲",
+  "crisis_type": "货币",
+  "one_line": "库克群岛元与新西兰元并行流通，但本地货币的储备支撑长期不足（1993年仅5%、硬币无支撑）。",
+  "overview": "库克群岛元是库克群岛现行的两种货币之一，与**新西兰元并行流通**；该元细分为100分。本地货币的发行长期依赖\"储备支撑\"要求，而这一要求在实践中被大幅放松：**1989年《货币储备修正法》**把流通货币所需的支撑改为面值的 **50%**，另一部分为 **2%**；到 **1993年，流通中的3元纸币仅有面值 5% 的新西兰元支撑，而硬币完全没有支撑**。这种\"名义上有储备要求、实际远低于面值\"的安排，是小规模货币联盟/货币替代经济体中的典型现象：本地货币的信用实质来自与新西兰元的并行流通与可兑换性，而非自身的储备。自1995年起，唯一有效的库克群岛纸币为3元券；硬币有10、20、50分与1、2、5元。该案例可用于讨论\"货币局/货币替代\"的边界与储备充足性要求。具体机制待核实。",
+  "timeline": [
+    {
+      "year": 1987,
+      "display": "1987年",
+      "event": "发行扇形边1元硬币；同年发行三角形与十二边形硬币",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "year": 1989,
+      "display": "1989年",
+      "event": "《货币储备修正法》：流通货币支撑要求改为面值50%（及2%）",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "year": 1993,
+      "display": "1993年",
+      "event": "流通3元券仅由面值5%的NZD支撑，硬币无支撑",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "year": 1995,
+      "display": "1995年起",
+      "event": "唯一有效纸币为3元券",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "小型经济体发行本地货币 → 需以锚货币（新西兰元）储备作为信用基础",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "step": "1989年修法把支撑要求降至面值50%（部分2%）→ 约束显著放松",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "step": "至1993年3元券仅5%支撑、硬币无支撑 → 本地货币信用实质来自与NZD的并行流通",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "流通货币储备支撑要求(1989年修法后)",
+      "value": 50,
+      "unit": "%（面值；另有2%一档）",
+      "year": 1989,
+      "comparable_price": false,
+      "note": "原文：The Currency Reserves Amendment Act 1989 modified the required backing of Cook Islands dollars to 50% of the face value for circulating currency, and 2% of the face value；单一来源待核实。",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "label": "3元券实际储备支撑(1993)",
+      "value": 5,
+      "unit": "%（面值；硬币无支撑）",
+      "year": 1993,
+      "comparable_price": false,
+      "note": "原文：By 1993, circulating $3 notes were only backed by 5% of their face value in NZD, and coins were not backed at all；单一来源待核实。",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "货币替代视角",
+      "view": "小国货币的信用可由锚货币的并行流通替代，本地储备并非决定性",
+      "basis": "据该安排归纳；一般化待核实",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    },
+    {
+      "holder": "储备充足性视角",
+      "view": "名义储备要求若大幅低于面值，则失去约束意义，一旦兑换中断将暴露风险",
+      "basis": "据储备比率数据归纳",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "货币当局",
+      "view": "维持与新西兰元的并行流通与可兑换；具体制度安排待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-cook-islands-dollar"
+      ]
+    }
+  ],
+  "comparison": "与正式\"货币局制度\"(currency board，要求100%外币储备)相比，库克群岛的安排属于**弱化版**：储备要求被降到面值一半以下、实际执行更低。与美元化的经济体相比，它保留了本地货币符号但实质依附锚货币。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>库克群岛货币安排：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本地货币+锚货币并行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>储备要求降至50%</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1993年仅5%支撑</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-cook-islands-dollar"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要；该案例属\"货币安排/制度\"性质而非危机事件，用于说明储备充足性议题。具体机制待核实。【续作CL】"
+}
