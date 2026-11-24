@@ -87,6 +87,7 @@ def page(title, body, depth=0):
            f'<a href="{prefix}concepts.html">概念</a>'
            f'<a href="{prefix}timeline.html">时间线</a>'
            f'<a href="{prefix}sources.html">来源</a>'
+           f'<a href="{prefix}verification.html">核实状态</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
     return f'''<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -143,6 +144,7 @@ home += ['</div>',
  '<div class="card"><a href="timeline.html"><strong>时间线</strong></a><p class="src-list">按年份排列的历史事件</p></div>',
  '<div class="card"><a href="sources.html"><strong>来源列表</strong></a><p class="src-list">来源库与核验状态</p></div>',
  '<div class="card"><a href="matrix.html"><strong>覆盖矩阵</strong></a><p class="src-list">时期×地区×危机类型覆盖与空白</p></div>',
+    '<div class="card"><a href="verification.html"><strong>数据核实状态</strong></a><p class="src-list">已双源印证的数据与两源差异并列项</p></div>',
  '</div>']
 open(os.path.join(SITE,'index.html'),'w',encoding='utf-8').write(page('首页',''.join(home)))
 
@@ -290,6 +292,74 @@ for line in matrix_html.splitlines():
     elif line.strip() and not line.startswith('>'):
         mbody.append(f'<p>{esc(line)}</p>')
 open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖矩阵',''.join(mbody)))
+
+# ---------- 数据核实状态页 ----------
+OFFICIAL_PREFIX = ('fed-', 'owid-')
+vb = ['<h1>数据核实状态</h1>',
+      '<p class="src-list">本页由数据自动生成：列出已被<b>两个独立来源印证</b>的关键数据，'
+      '以及<b>两个来源存在差异、已如实并列</b>的数据。全站条目默认保持 need-verification 诚实标注，'
+      '本页只标注达到了双源核实的那部分数值。</p>']
+confirmed, discrepant, crosslang = [], [], []
+for _id, e in entries.items():
+    for k in e.get('key_data', []) or []:
+        note = k.get('note', '')
+        srcs = k.get('sources', [])
+        has_official = any(str(s).startswith(OFFICIAL_PREFIX) for s in srcs)
+        if '差异' in note:
+            discrepant.append((e, k, has_official))
+        elif ('双源' in note or '印证' in note or '完全一致' in note):
+            if has_official:
+                confirmed.append((e, k, has_official))   # 独立机构互证
+            else:
+                crosslang.append((e, k, has_official))   # 跨语言维基对照
+
+def _kd_row(e, k):
+    return (f'<tr><td><a href="{esc(e["id"])}.html">{esc(e.get("title"))}</a></td>'
+            f'<td>{esc(k.get("label"))}</td>'
+            f'<td class="num">{esc(k.get("value"))} {esc(k.get("unit"))}</td>'
+            f'<td>{esc(k.get("year"))}</td></tr>')
+
+vb.append(f'<h2>独立机构双源印证（{len(confirmed)} 条）</h2>')
+vb.append('<p class="src-list">以下数值由<b>维基百科之外的独立机构</b>（美联储历史站、世界银行/OWID 等）与维基来源相互印证。</p>')
+if confirmed:
+    vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
+              + ''.join(_kd_row(e, k) for e, k, _ in sorted(confirmed, key=lambda x: x[0]['id'])) + '</table>')
+else:
+    vb.append('<p>（暂无）</p>')
+
+vb.append(f'<h2>跨语言维基对照（{len(crosslang)} 条）</h2>')
+vb.append('<p class="src-list">以下数值中英文维基百科一致，但两者<b>同属维基体系</b>，不构成严格意义的独立机构互证，仅作跨语言对照记录。</p>')
+if crosslang:
+    vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
+              + ''.join(_kd_row(e, k) for e, k, _ in sorted(crosslang, key=lambda x: x[0]['id'])) + '</table>')
+else:
+    vb.append('<p>（暂无）</p>')
+
+vb.append(f'<h2>两源存在差异·已并列（{len(discrepant)} 条）</h2>')
+vb.append('<p class="src-list">以下数据在不同来源之间不一致。本站并列呈现，不替读者判断何者为准；'
+          '具体口径差异原因见各条目页的说明。</p>')
+if discrepant:
+    vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
+              + ''.join(_kd_row(e, k) for e, k, _ in sorted(discrepant, key=lambda x: x[0]['id'])) + '</table>')
+else:
+    vb.append('<p>（暂无）</p>')
+
+_off = {}
+for _id, e in entries.items():
+    for s in e.get('sources', []) or []:
+        if str(s).startswith(OFFICIAL_PREFIX):
+            _off.setdefault(s, 0)
+            _off[s] += 1
+vb.append(f'<h2>使用的独立官方/统计来源（{len(_off)} 个）</h2>')
+vb.append('<ul>' + ''.join(
+    f'<li><a href="{esc(sources.get(s, {}).get("url") or "#")}" target="_blank" rel="noopener">'
+    f'{esc(sources.get(s, {}).get("title", s))}</a>'
+    f'<span class="src-list"> · 被 {n} 个条目引用</span></li>'
+    for s, n in sorted(_off.items())) + '</ul>')
+open(os.path.join(SITE,'verification.html'),'w',encoding='utf-8').write(
+    page('数据核实状态',''.join(vb)))
+print('生成 verification.html：独立机构印证 %d 条、跨语言对照 %d 条、差异并列 %d 条、官方来源 %d 个' % (len(confirmed), len(crosslang), len(discrepant), len(_off)))
+
 
 # ---------- 概念索引页 ----------
 CONCEPT_ORDER = ['理论', '制度', '货币', '银行', '债务', '泡沫', '其他']

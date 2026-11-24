@@ -54,7 +54,7 @@
       "unit": "%（美国，1930s，口径：失业人口/劳动力）",
       "year": 1933,
       "comparable_price": false,
-      "note": "原文：unemployment rate had risen to 25%；年份1933为通说峰值年（精确年待核实）。【双源印证：英文维基 w-en-great-depression + 中文维基《大萧条》原文\"美国失业率飙升到25%\"，双源印证中文维基 w-zh-002，两来源均为25%】",
+      "note": "原文：unemployment rate had risen to 25%；年份1933为通说峰值年（精确年待核实）。【双源印证：英文维基 w-en-great-depression + 中文维基《大萧条》原文\"美国失业率飙升到25%\"，双源印证中文维基 w-zh-002，两来源均为25%】｜注：此处的两个来源为中英文维基百科（同属维基体系），属**跨语言对照**，非严格意义的独立机构互证。",
       "sources": [
         "w-en-great-depression",
         "w-zh-002"
@@ -66,7 +66,7 @@
       "unit": "%（全球，1929–1932，口径：实际GDP累计变化）",
       "year": 1932,
       "comparable_price": true,
-      "note": "原文：Between 1929 and 1932, worldwide GDP fell by an estimated 15%。【双源印证：英文维基 w-en-great-depression + 中文维基 w-zh-002，两来源均为\"约15%\"】",
+      "note": "原文：Between 1929 and 1932, worldwide GDP fell by an estimated 15%。【双源印证：英文维基 w-en-great-depression + 中文维基 w-zh-002，两来源均为\"约15%\"】｜注：此处的两个来源为中英文维基百科（同属维基体系），属**跨语言对照**，非严格意义的独立机构互证。",
       "sources": [
         "w-en-great-depression",
         "w-zh-002"
