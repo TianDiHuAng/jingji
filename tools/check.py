@@ -358,6 +358,13 @@ def main():
     for _u, _c in _urlc.items():
         if _c > 1:
             warn('R28', 'sources.json', 'URL 重复 %d 次: %s' % (_c, _u))
+    # R29 案例 period 须与 unit 对应（防时期字段漂移；U6 概念不适用）
+    _U2P = {'U1': '早期—17世纪', 'U2': '18—19世纪', 'U3': '20世纪上半', 'U4': '20世纪下半', 'U5': '21世纪'}
+    for _e in entries:
+        _pre = (_e.get('unit') or '')[:2]
+        if _pre in _U2P and _e.get('period') != _U2P[_pre]:
+            warn('R29', _e.get('id', '?'), 'period=%s 与 unit=%s 不对应（应为 %s）'
+                 % (_e.get('period'), _e.get('unit'), _U2P[_pre]))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

@@ -368,6 +368,15 @@ def m_r28():
 
 case('R28 来源URL重复', m_r28, ['tools/check.py'], 'R28', [SRCJSON])
 
+
+def m_r29():
+    d = json.load(open(RW_ENT, encoding='utf-8'))
+    d['period'] = '20世纪上半'   # 与 unit U2 不对应 → 触发 R29
+    json.dump(d, open(RW_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R29 period与unit不符', m_r29, ['tools/check.py'], 'R29', [RW_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 
