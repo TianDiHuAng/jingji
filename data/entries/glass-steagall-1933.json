@@ -8,7 +8,7 @@
   "region": "北美",
   "crisis_type": "制度",
   "one_line": "1933年美国银行法的四项条款，分离商业银行与投资银行，并设立存款保险。",
-  "overview": "《格拉斯-斯蒂格尔法》(Glass–Steagall legislation) 指美国1933年银行法中的**四项条款**，其核心是**分离商业银行与投资银行业务**。名称来自国会提案人——参议员卡特·格拉斯(Carter Glass) 与众议员亨利·斯蒂格尔(Henry B. Steagall)。分离的具体标准之一是：除获准承销政府发行债券外，**商业银行来自证券业务的收入不得超过其总收入的10%**。该法同时设立了联邦存款保险公司(FDIC)（见 deposit-insurance 条目）。其立法动因是大萧条中的银行倒闭潮与对\"银行用存款投机证券\"的指责。1999年《金融服务现代化法》废除了其中的业务分离条款，而2008年危机后对其功过的讨论再度升温。具体条款细节待核实。",
+  "overview": "《格拉斯-斯蒂格尔法》(Glass–Steagall legislation) 指美国1933年银行法中的**四项条款**，其核心是**分离商业银行与投资银行业务**。名称来自国会提案人——参议员卡特·格拉斯(Carter Glass) 与众议员亨利·斯蒂格尔(Henry B. Steagall)。分离的具体标准之一是：除获准承销政府发行债券外，**商业银行来自证券业务的收入不得超过其总收入的10%**。该法同时设立了联邦存款保险公司(FDIC)（见 deposit-insurance 条目）。其立法动因是大萧条中的银行倒闭潮与对\"银行用存款投机证券\"的指责。1999年《金融服务现代化法》废除了其中的业务分离条款，而2008年危机后对其功过的讨论再度升温。具体条款细节待核实。（本条目合并了原 U6「格拉斯-斯蒂格尔法案(1933)」条目，后者与本条指同一法案，已去重。）",
   "timeline": [
     {
       "year": 1933,
@@ -84,6 +84,22 @@
       "sources": [
         "w-en-subprime-mortgage-crisis"
       ]
+    },
+    {
+      "holder": "分业视角",
+      "view": "防火墙降低存款机构承担证券风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-glass-steagall"
+      ]
+    },
+    {
+      "holder": "混业视角",
+      "view": "分业限制规模经济与多元化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
     }
   ],
   "policy_response": [
@@ -101,14 +117,18 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>格拉斯-斯蒂格尔法(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条银行倒闭潮 + 对</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>商业银行证券业务收入不得</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>1999年废除分离条款 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-glass-steagall",
-    "w-en-deposit-insurance"
+    "w-en-deposit-insurance",
+    "w-en-bank-regulation"
   ],
   "related": [
     "banking-act-1935",
     "deposit-insurance",
     "emergency-banking-act-1933",
-    "shadow-banking"
+    "shadow-banking",
+    "buyback",
+    "dodd-frank",
+    "volcker-rule"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。 【续作DT】policy_response 人工核验撰写。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。 【续作DT】policy_response 人工核验撰写。 【续作HB】并入重复条目 glass-steagall（同一法案，原分列于 U3 与 U6）。"
 }
