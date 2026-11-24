@@ -116,7 +116,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**战后货币改革**：2024 年底阿萨德政权倒台后，领导过渡政府的总统 Ahmed al-Sharaa 表示，拟在货币稳定后以新货币取代叙利亚镑。**2025年8月**宣布将对货币进行重估——**去掉两个零**并于 12 月发行新钞；10 月当局再次确认该计划但把日期推迟至 **2026 年**。**2025年12月29日**，叙利亚央行与总统共同公布了新版叙利亚镑的面额。",
+      "basis": "据 Wikipedia 相关条目 Post-Assad reforms 章节；政策主体：叙利亚过渡政府/央行；动作：货币重估（去两个零）、发行新钞；效果评价待核实",
+      "sources": [
+        "w-en-syrian-pound",
+        "w-en-yemeni-rial"
+      ]
+    }
+  ],
   "comparison": "与也门里亚尔(内战致货币分裂)、黎巴嫩镑(多重汇率)同属\"战时/危机中的多重汇率\"样本。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>叙利亚镑贬值与汇率分裂(2011–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内战爆发 → 产出崩溃、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>外汇短缺 + 财政货币化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>官方与黑市汇率分化 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -131,5 +141,5 @@
     "yemen-currency-divergence"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。伊朗条目已注明\"是否构成严格恶性通胀待核实\"。【续作CK】"
+  "pending_notes": "L2：据维基全文；单源待核实。伊朗条目已注明\"是否构成严格恶性通胀待核实\"。【续作CK】 【续作FG】基于维基全文补写policy_response。"
 }

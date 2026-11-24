@@ -1,189 +1,160 @@
-An economic bubble (also called a speculative bubble, asset bubble, or simply financial bubble) is a period when current asset prices greatly exceed their intrinsic valuation, where the valuation is justified by underlying long-term fundamentals of the asset. Bubbles can be caused by overly optimistic projections about the scale and sustainability of growth (e.g. dot-com bubble), and/or by the belief that intrinsic valuation is no longer relevant when making an investment (e.g. Tulip mania). They have appeared in most asset classes, including stocks (e.g. Roaring Twenties), commodities (e.g. 2007 uranium bubble), real estate (e.g. 2000s US housing bubble), and even esoteric assets (e.g. cryptocurrency bubble). Bubbles usually form as a result of either excess liquidity in markets, and/or changed investor psychology. Large multi-asset bubbles (e.g. 1980s Japanese asset bubble and the 2020–21 Everything bubble) are attributed to central banking liquidity (e.g. overuse of the Fed put).
-In the early stages of a bubble, many investors do not recognise the bubble for what it is, often thinking that the increase in asset prices is justified. Therefore, bubbles are often conclusively identified only in retrospect, after the bubble has already "popped" (or "burst") and prices have crashed.
+The Panic of 1825 was a stock market crash that originated in the Bank of England, arising partly from speculative investments in Latin America. The crisis was felt most acutely in Britain, where it led to the closure of twelve banks, but also affected markets in Europe, Latin America and the United States. An infusion of gold reserves from the Banque de France saved the Bank of England from collapse. The panic has been called the first modern economic crisis not attributable to an external event such as war, marking the beginning of modern economic cycles. The Napoleonic Wars had been highly profitable for all sectors of the British financial system, and the expansionist monetary actions adopted during the transition from war to peace brought a surge of prosperity and speculative ventures. The stock market boom became a bubble, and banks caught in the euphoria made risky loans.
+Britain's financial system developed rapidly between 1770 and the end of the Napoleonic Wars, coinciding with the country's industrialization. In 1770, only five stocks were available on the London Exchange, but by 1824, investors could choose from 624 joint-stock companies.
 
 
-== Origin of term ==
+== Bank improvements ==
+Seventy banks failed. The current view puts much of the fault of the crash on the banks for not collecting quality information, for performing inadequate surveillance, and for not doing simple due diligence on ventures. The usual list of causes of the crisis are:
 
-The term "bubble", in reference to financial crisis, originated in the 1711–1720 British South Sea Bubble, and originally referred to the companies themselves, and their inflated stock, rather than to the crisis itself. This was one of the earliest modern financial crises; other episodes were referred to as "manias", as in the Dutch tulip mania. The metaphor indicated that the prices of the stock were inflated and fragile – expanded based on nothing but air, and vulnerable to a sudden burst, as in fact occurred.
-Some later commentators have extended the metaphor to emphasize the suddenness, suggesting that economic bubbles end "All at once, and nothing first, / Just as bubbles do when they burst," though theories of financial crises such as debt deflation and the Financial Instability Hypothesis suggest instead that bubbles burst progressively, with the most vulnerable (most highly-leveraged) assets failing first, and then the collapse spreading throughout the economy.
-
-
-== Types ==
-There are different types of bubbles, with economists primarily interested in two major types of bubbles: The equity bubble and the debt bubble.
-
-
-=== Equity bubble ===
-An equity bubble is characterised by tangible investments and the unsustainable desire to satisfy a legitimate market in high demand. These kind of bubbles are characterised by easy liquidity, tangible and real assets, and an actual innovation that boosts confidence. The injection of funds into the business cycle is capable of accelerating the innovation process and propelling faster productivity growth. Examples of an equity bubble are the Tulip Mania, the cryptocurrency bubble, the dot-com bubble, and the Roaring Twenties
-.
+Latin American debt issues
+Ease of issuance of banknotes from country banks led to unscrupulous partners investing in high-risk, high-return ventures
+Bank of England's actions of rapidly increasing the money supply, then rapidly tightening it, initiating bank runs and finally refusing to act as lender of last resort until too late.
+At the time, the Bank of England was not a central bank but a public, for-profit bank with three loyalties: its shareholders, the British government, and its correspondent commercial bankers. The Bank of England raised the lending rate to protect its investors, instead of lowering it to protect the public. The self-interest of the Bank of England thereby caused additional failures. Although banker Henry Thornton described in 1802 the proper lender of last resort actions to be taken by a central bank in such a crisis, it was not until the Overend Gurney crisis of 1866 that the Bank of England would take action to prevent widespread panic withdrawals. Inaction by the Bank of England led to a systemic stoppage of the banking system, and was followed by widespread bankruptcies, and unemployment.
 
 
-=== Debt bubble ===
-A debt bubble is characterised by intangible or credit based investments with little ability to satisfy growing demand in a non-existent market. These bubbles are not backed by real assets and are based on frivolous lending in the hope of returning a profit or security. These bubbles usually end in debt deflation causing bank runs or a currency crisis when the government can no longer maintain the fiat currency. Examples are the Roaring Twenties stock market bubble (which caused the Great Depression) and the United States housing bubble (which caused the Great Recession).
+== Background ==
+A number of historical developments were at play in bringing Britain's panic of 1825 to fruition. Along with the industrial revolution came rapid developments in finance and banking. Also in the period leading up to the crisis, Britain remained heavily involved in the enormously expensive French Revolutionary and Napoleonic Wars.
+The crash occurred after a period of wartime finance in which Britain suspended the gold standard as a temporary wartime measure. Expansionary monetary policy proved profitable for the entire financial sector. But when the war ended, and the government moved to reinstate the gold standard and resume cash payments, the economy contracted.
+In preparation for resuming convertibility, the Bank of England raised interest rates, amassed a stock of gold, and recalled notes from circulation. This caused deflation but allowed the Bank to resume full convertibility in 1821. And while economists and historians generally provide non-conflicting accounts of the events which lead up to the crash, a number of different arguments have been made over what the most important factors were, with varying weight assigned by different experts.
 
 
-== Impact ==
-The impact of economic bubbles is debated within and between schools of economic thought; they are not generally considered beneficial, but it is debated how harmful their formation and bursting is.
-Within mainstream economics, many believe that bubbles cannot be identified in advance, cannot be prevented from forming, that attempts to "prick" the bubble may cause financial crisis, and that instead authorities should wait for bubbles to burst of their own accord, dealing with the aftermath via monetary policy and fiscal policy.
-Political economist Robert E. Wright argues that bubbles can be identified before the fact with high confidence.
-In addition, the crash which usually follows an economic bubble can destroy a large amount of wealth and cause continuing economic malaise; this view is particularly associated with the debt-deflation theory of Irving Fisher, and elaborated within Post-Keynesian economics.
-A protracted period of low risk premiums can simply prolong the downturn in asset price deflation, as was the case of the Great Depression in the 1930s for much of the world and the 1990s for Japan.  Not only can the aftermath of a crash devastate the economy of a nation, but its effects can also reverberate beyond its borders.
+=== Theories ===
+William Ackworth's 1925 study on Financial Reconstruction in England, 1815–1822, argued that it was the government and the Bank of England's severe deflationary policy which exacerbated the troubles associated with the shift from a wartime to a peacetime economy.
+Economists like David Ricardo criticized the Bank's actions as the result of ignorance.
+However, later academics have maintained that the Bank was not ignorant, but angry over the government's effort to restrict its autonomy and limit its control over its level of liabilities.
+Other analysts have emphasized not the war-to-peace transition but the role of British speculation, under expansionary monetary policy, in Latin American markets.
+Alexander Dick emphasizes that the crisis was unique in that it was not solely caused by external events like war or speculation in foreign markets, although those certainly played a role. Instead, he maintains that the crisis stemmed from the diversification of the financial economy.
+Larry Neal's notable analysis of the crash argues that neither speculation nor the Bank of England nor the country banks alone are responsible. Instead, he argues that all problems arising from the transition from a war to a peacetime economy can be traced back to the vast and increasing "informational uncertainties" in existing institutions.
 
 
-=== Effect upon spending ===
-Another important aspect of economic bubbles is their impact on spending habits. Market participants with overvalued assets tend to spend more because they "feel" richer (the wealth effect). Many observers quote the housing market in the United Kingdom, Australia, New Zealand, Spain and parts of the United States in recent times, as an example of this effect. When the bubble inevitably bursts, those who hold on to these overvalued assets usually experience a feeling of reduced wealth and tend to cut discretionary spending at the same time, hindering economic growth or, worse, exacerbating the economic slowdown.
-In an economy with a central bank, the bank may therefore attempt to keep an eye on asset price appreciation and take measures to curb high levels of speculative activity in financial assets.  This is usually done by increasing the interest rate (that is, the cost of borrowing money). Historically, this is not the only approach taken by central banks.  It has been argued that they should stay out of it and let the bubble, if it is one, take its course.
+=== Country banks ===
+One factor cited by many analysts is the rapid spread of country banking during the industrial revolution and Victorian period. Beginning in 1780, country banking spread rapidly across England and Wales. By 1810, there were over 800 licensed and unlicensed banks who both issued small notes and provided small workshops, mines, and other new industries with loans for working capital. Some scholars point out that without these banks, the Industrial Revolution would have likely been strangled by lack of capital before it could have begun.
 
 
-== In economics ==
-Investor George Soros, influenced by ideas put forward by his tutor, Karl Popper (1957), has been an active promoter of the relevance of reflexivity to economics, first propounding it publicly in his 1987 book The alchemy of finance.  He regards his insights into market behaviour from applying the principle as a major factor in the success of his financial career.
-Reflexivity is inconsistent with general equilibrium theory, which stipulates that markets move towards equilibrium and that non-equilibrium fluctuations are merely random noise that will soon be corrected. In equilibrium theory, prices in the long run at equilibrium reflect the underlying economic fundamentals, which are unaffected by prices. Reflexivity asserts that prices do in fact influence the fundamentals and that these newly influenced sets of fundamentals then proceed to change expectations, thus influencing prices; the process continues in a self-reinforcing pattern. Because the pattern is self-reinforcing, markets tend towards disequilibrium. Sooner or later they reach a point where the sentiment is reversed and negative expectations become self-reinforcing in the downward direction, thereby explaining the familiar pattern of boom and bust cycles. An example Soros cites is the procyclical nature of lending, that is, the willingness of banks to ease lending standards for real estate loans when prices are rising, then raising standards when real estate prices are falling, reinforcing the boom and bust cycle. He further suggests that property price inflation is essentially a reflexive phenomenon: house prices are influenced by the sums that banks are prepared to advance for their purchase, and these sums are determined by the banks' estimation of the prices that the property would command.
-Soros has often claimed that his grasp of the principle of reflexivity is what has given him his "edge" and that it is the major factor contributing to his successes as a trader. For several decades there was little sign of the principle being accepted in mainstream economic circles, but there has been an increase of interest following the crash of 2008, with academic journals, economists, and investors discussing his theories.
-Economist and former columnist of the Financial Times, Anatole Kaletsky, argued that Soros' concept of reflexivity is useful in understanding China's economy and how the Chinese government manages it.
-Eugene Fama, the Nobel laureate in economics who has often been described as "the father of modern finance", has expressed skepticism about the notion that economic bubbles can be identified. He argues that for something to be a bubble, its ending needs to be predicted in real time, not just after the fact. He argues that conventional rhetoric about bubbles proposes no testable propositions and no ways to measure a bubble.
+=== French Revolution and Napoleonic Wars ===
+Europe remained embroiled in the far-reaching French Revolution and Napoleonic Wars from 1789 to 1815. By early 1793, Britain became involved. Though the countries did form an uneasy treaty in the Peace of Amiens in 1802, hostilities would resume again when the British failed to evacuate Malta in 1803. Great Britain would remain involved until the British victory at the Battle of Waterloo in 1815.
+The soon-to-be emperor Napoleon made it known that he intended to invade Britain, amassing troops on the nearby shores of Calais and prompting Britain to invest in increasing its army and navy. The British government built additional defences along England's southern coast and strengthened old ones, but these military investments came at a high cost.
 
 
-== Causes ==
-It has been suggested that bubbles may be rational, intrinsic, and contagious. To date, there is no widely accepted theory to explain their occurrence. Recent computer-generated agency models suggest excessive leverage could be a key factor in causing financial bubbles.
-Puzzlingly for some, bubbles occur even in highly predictable experimental markets, where uncertainty is eliminated and market participants should be able to calculate the intrinsic value of the assets simply by examining the expected stream of dividends. Nevertheless, bubbles have been observed repeatedly in experimental markets, even with participants such as business students, managers, and professional traders. Experimental bubbles have proven robust to a variety of conditions, including short-selling, margin buying, and insider trading.
-While there is no clear agreement on what causes bubbles, there is evidence to suggest that they are not caused by bounded rationality or assumptions about the irrationality of others, as assumed by greater fool theory. It has also been shown that bubbles appear even when market participants are well capable of pricing assets correctly. Further, it has been shown that bubbles appear even when speculation is not possible or when over-confidence is absent.
-More recent theories of asset bubble formation suggest that they are likely sociologically-driven events, thus explanations that merely involve fundamental factors or snippets of human behavior are incomplete at best. For instance, qualitative researchers Preston Teeter and Jorgen Sandberg argue that market speculation is driven by culturally-situated narratives that are deeply embedded in and supported by the prevailing institutions of the time. They cite factors such as bubbles forming during periods of innovation, easy credit, loose regulations, and internationalized investment as reasons why narratives play such an influential role in the growth of asset bubbles.
+=== Financing war ===
+Britain implemented some additional taxes in wartime, but they were unpopular, failed to raise as much as hoped, and ultimately thought to be unnecessary since Britain not only had good standing with creditors and could afford to finance war costs by issuing debt, but also had abandoned the gold standard in 1797, enabling it to issue additional un-backed notes.
 
 
-=== Liquidity ===
-One possible cause of bubbles is excessive monetary liquidity in the financial system, inducing lax or inappropriate standards of lending by the banks, which makes markets vulnerable to volatile asset price inflation caused by short-term, leveraged speculation. For example, Axel A. Weber, the former president of the Deutsche Bundesbank, has argued that "The past has shown that an overly generous provision of liquidity in global financial markets in connection with a very low level of interest rates promotes the formation of asset-price bubbles."
-According to the explanation, excessive monetary liquidity (easy credit, large disposable incomes) potentially occurs while fractional reserve banks are implementing expansionary monetary policy (i.e. lowering of interest rates and flushing the financial system with money supply); this explanation may differ in certain details according to economic philosophy. Those who believe the money supply is controlled exogenously by a central bank may attribute an 'expansionary monetary policy' to that bank and (should one exist) a governing body or institution; others who believe that the money supply is created endogenously by the banking sector may attribute such a 'policy' to the behavior of the financial sector itself, and view the state as a passive or reactive factor. This may determine how central or relatively minor/inconsequential policies like fractional reserve banking and the central bank's efforts to raise or lower short-term interest rates are to one's view on the creation, inflation and ultimate implosion of an economic bubble. Explanations focusing on interest rates tend to take on a common form, however: when interest rates are set excessively low (regardless of the mechanism by which that is accomplished) investors tend to avoid putting their capital into savings accounts. Instead, investors tend to leverage their capital by borrowing from banks and invest the leveraged capital in financial assets such as company shares and real estate. Risky leveraged behavior like speculation and Ponzi schemes can lead to an increasingly fragile economy, and may also be part of what pushes asset prices artificially upward until the bubble pops.
-
-Economic bubbles often occur when too much money is chasing too few assets, causing both good assets and bad assets to appreciate excessively beyond their fundamentals to an unsustainable level. Once the bubble bursts, the fall in prices causes the collapse of unsustainable investment schemes (especially speculative and/or Ponzi investments, but not exclusively so), which leads to a crisis of consumer (and investor) confidence that may result in a financial panic and/or financial crisis. If there is a monetary authority like a central bank, it may take measures to soak up the liquidity in the financial system in an attempt to prevent a collapse of its currency. This may involve actions like bailouts of the financial system, but also others that reverse the trend of monetary accommodation, commonly termed forms of 'contractionary monetary policy'.
-These measures may include raising interest rates, which tends to make investors become more risk averse and thus avoid leveraged capital because the costs of borrowing may become too expensive. There may also be countermeasures taken pre-emptively during periods of strong economic growth, such as increasing capital reserve requirements and implementing regulation that checks and/or prevents processes leading to over-expansion and excessive leveraging of debt. Ideally, such countermeasures lessen the impact of a downturn by strengthening financial institutions while the economy is strong.
-Advocates of perspectives stressing the role of credit money in an economy often refer to (such) bubbles as "credit bubbles", and look at such measures of financial leverage as debt-to-GDP ratios to identify bubbles. Typically the collapse of any economic bubble results in an economic contraction termed (if less severe) a recession or (if more severe) a depression; what economic policies to follow in reaction to such a contraction is a hotly debated perennial topic of political economy.
+==== Debt ====
+Britain generally funded its wars by issuing debt rather than raising taxes. This was a strategy Britain had employed in funding its wars since the early 18th century. Britain financed its war expenditures by issuing a combination of unfunded and funded debt. Unfunded debt, short-term obligations not funded by interest payments on the part of the borrower, included army, ordinance, navy, and exchequer bills and was more costly for the treasury to repay than longer-term debt. Funded debt, long-term obligations funded through interest payments made by the borrower over the term of the loan, was primarily used to retire more costly, short-term debt. This helped to lengthen the term of the debt and reduce the government's debt service payments.
+The country could pursue this strategy because creditors considered Britain's stable parliamentary government reliable, which allowed it to issue a substantial quantity of debt. Britain followed this traditional funding method — funding 90 per cent of its expenditures through borrowing — until 1798, but as the Napoleonic wars dragged on, Britain's massive expenditures rose to unprecedented levels. Britain was forced to adopt additional funding methods.
 
 
-=== Psychology ===
+==== Taxes ====
+To help with wartime bills, William Pitt the Younger implemented Britain's first Progressive income tax in 1798 as a temporary measure. The tax remained in place until 1802 when it was briefly repealed during the Peace of Amiens, before being reinstated in 1803 when hostilities resumed. After Britain's victory at Battle of Waterloo in 1815 and Napoleon's defeat, Chancellor Nicholas Vansittart wanted to retain some form of the tax, favouring a reduction rather than complete abolition. He feared that without the revenue, the government would have difficulty making its debt payments and supporting public credit. But he met with fierce opposition from the public, and in 1816 the income tax was again repealed.
 
 
-==== Greater fool theory ====
-
-Greater fool theory states that bubbles are driven by the behavior of perennially optimistic market participants (the fools) who buy overvalued assets in anticipation of selling it to other speculators (the greater fools) at a much higher price. According to this explanation, the bubbles continue as long as the fools can find greater fools to pay up for the overvalued asset. The bubbles will end only when the greater fool becomes the greatest fool who pays the top price for the overvalued asset and can no longer find another buyer to pay for it at a higher price.  This theory is popular among laity but has not yet been fully confirmed by empirical research.
+==== Expansionary monetary policy ====
 
 
-==== Extrapolation ====
-
-Extrapolation is projecting historical data into the future on the same basis; if prices have risen at a certain rate in the past, they will continue to rise at that rate forever. The argument is that investors tend to extrapolate past extraordinary returns on investment of certain assets into the future, causing them to overbid those risky assets in order to attempt to continue to capture those same rates of return.
-Overbidding on certain assets will at some point result in uneconomic rates of return for investors; only then the asset price deflation will begin.  When investors feel that they are no longer well compensated for holding those risky assets, they will start to demand higher rates of return on their investments.
+===== Suspending the gold standard =====
+In February 1797, Britain passed the Bank Restriction Act 1797. This suspended the convertibility between gold and banknotes as a necessary wartime measure. In March the same year, the Bank of England also lifted a ban against issuing small notes, to enable expansionary monetary action.
 
 
-==== Herding ====
-Another related explanation used in behavioral finance lies in herd behavior, the fact that investors tend to buy or sell in the direction of the market trend. This is sometimes helped by technical analysis that tries precisely to detect those trends and follow them, which creates a self-fulfilling prophecy.
-Investment managers, such as stock mutual fund managers, are compensated and retained in part due to their performance relative to peers. Taking a conservative or contrarian position as a bubble builds results in performance unfavorable to peers.  This may cause customers to go elsewhere and can affect the investment manager's own employment or compensation. The typical short-term focus of U.S. equity markets exacerbates the risk for investment managers that do not participate during the building phase of a bubble, particularly one that builds over a longer period of time. In attempting to maximize returns for clients and maintain their employment, they may rationally participate in a bubble they believe to be forming, as the likely shorter-term benefits of doing so outweigh the likely longer-term risks.
+===== Foreign markets =====
+Although the banks were no longer constrained by the gold standard, several economists have argued that banks remained relatively prudent. However, record exports with the Americas between 1808 and 1810 and relatively easy credit led to more speculation in foreign markets. The boom ended with a crash in the summer of 1810, bringing a series of commercial failures and merchant insolvencies. The commercial crisis quickly spread to the financial sector, as merchants dragged down bankers who had extended credit to them.
 
 
-==== Moral hazard ====
-Moral hazard is the prospect that a party insulated from risk may behave differently from the way it would behave if it were fully exposed to the risk. A person's belief that they are responsible for the consequences of their own actions is an essential aspect of rational behavior. An investor must balance the possibility of making a return on their investment with the risk of making a loss – the risk-return relationship. A moral hazard can occur when this relationship is interfered with, often via government policy.
-A recent example is the Troubled Asset Relief Program (TARP), signed into law by U.S. President George W. Bush on 3 October 2008 to provide a government bailout for many financial and non-financial institutions who speculated in high-risk financial instruments during the housing boom condemned by a 2005 story in The Economist titled "The worldwide rise in house prices is the biggest bubble in history". A historical example was intervention by the Dutch Parliament during the great Tulip Mania of 1637.
-Other causes of perceived insulation from risk may derive from a given entity's predominance in a market relative to other players, and not from state intervention or market regulation. A firm – or several large firms acting in concert (see cartel, oligopoly and collusion) – with very large holdings and capital reserves could instigate a market bubble by investing heavily in a given asset, creating a relative scarcity which drives up that asset's price. Because of the signaling power of the large firm or group of colluding firms, the firm's smaller competitors will follow suit, similarly investing in the asset due to its price gains.
-However, in relation to the party instigating the bubble, these smaller competitors are insufficiently leveraged to withstand a similarly rapid decline in the asset's price. When the large firm, cartel or de facto collusive body perceives a maximal peak has been reached in the traded asset's price, it can then proceed to rapidly sell or "dump" its holdings of this asset on the market, precipitating a price decline that forces its competitors into insolvency, bankruptcy or foreclosure.
-The large firm or cartel – which has intentionally leveraged itself to withstand the price decline it engineered – can then acquire the capital of its failing or devalued competitors at a low price as well as capture a greater market share (e.g., via a merger or acquisition which expands the dominant firm's distribution chain).  If the bubble-instigating party is itself a lending institution, it can combine its knowledge of its borrowers' leveraging positions with publicly available information on their stock holdings, and strategically shield or expose them to default.
+===== Falling exchange rates =====
+Throughout the period, expansionary monetary policy and easy credit also caused Britain's currency to depreciate and its exchange rate to fall. Concerned by this, the government appointed a committee to determine if convertibility should be resumed soon, regardless of whether the war was still going on. This Bullion Report of 1810 became influential in monetary policy for its analysis of how bank policy influences exchange rates.
 
 
-=== Other ===
-Some regard bubbles as related to inflation and thus believe that the causes of inflation are also the causes of bubbles. Others take the view that there is a "fundamental value" to an asset, and that bubbles represent a rise over that fundamental value, which must eventually return to that fundamental value.
-There are chaotic theories of bubbles which assert that bubbles come from particular "critical" states in the market based on the communication of economic factors. Finally, others regard bubbles as necessary consequences of irrationally valuing assets solely based upon their returns in the recent past without resorting to a rigorous analysis based on their underlying "fundamentals".
+===== The Bullion Report of 1810 =====
+This influential report argued that the central bank's credit policy influenced prices and exchange rates. It suggested that the central bank's discretion in credit policy should be limited by a gold standard. This not only sparked controversy between 1810 and 1811 on the link between monetary policy and exchange rates, but also brought the Bank's prosperity under scrutiny and undermined the authority of Bank directors. In practice, though, the Bank's power remained intact so long as the government still relied on it for managing remittances and issuing debt during the war. The Treasury defended the Bank by arguing that war necessitated a fall in exchange rates.
 
 
-== Stages ==
-According to the economist Charles P. Kindleberger, the basic structure of a speculative bubble can be divided into five phases:
-
-Displacement: A sufficient external shock to the macroeconomic system, creating new profit opportunities.
-Boom: A rise in asset prices and speculative investments (buy now with sole intention to sell in the future at a higher price and obtain a profit).
-Euphoria: A democratization of speculative investments, and a detachment from real rational valuable objects.
-Financial distress: Prices begin to plateau, investors start considering selling to cover their liabilities.
-Revulsion: prices plummet as investors race to sell first, panic spreads and feeds back on itself.
+=== Wartime prosperity ===
+Through these wartime finance policies — which emphasized expansionary monetary policy and debt issuances rather than relying solely on taxation — the entire British financial system prospered while the hostilities continued.
+The Treasury benefited from increased taxes, the income tax, and an expanded market for debt.
+While convertibility remained suspended, the Bank of England, acting as a public bank, not a central bank, profited by issuing unbacked banknotes. The Bank also profited in its role as mediator during the wars. It worked with the Treasury as the agent mediating fiscal transfers home and abroad during one of history's most expensive wars up to that time.
+London's private banks and foreign merchants fleeing extortion expanded business within the city.
+Country banks expanded rapidly across Britain between 1780 and 1810. After the Bank of England suspended convertibility and lifted restrictions against issuing small notes in 1797, small country banks could profit by issuing small denomination notes to replace circulating coins.
 
 
-=== Identification ===
-
-Economic or asset price bubbles are often characterized by one or more of the following:
-
-Unusual changes in single measures, or relationships among measures (e.g., ratios) relative to their historical levels.  For example, in the housing bubble of the 2000s, the housing prices were unusually high relative to income. For stocks, the price to earnings ratio (CAPE) provides a measure of stock prices relative to corporate earnings; higher readings indicate investors are paying more for each dollar of earnings.
-Elevated usage of debt (leverage) to purchase assets, such as purchasing stocks on margin or homes with a lower down payment.
-Higher risk lending and borrowing behavior, such as originating loans to borrowers with lower credit quality scores (e.g., subprime borrowers), combined with adjustable rate mortgages and "interest-only" loans.
-Rationalizing borrowing, lending, and purchase decisions based on expected future price increases rather than the ability of the borrower to repay.
-Rationalizing asset prices by increasingly weaker arguments, such as "this time it's different" or "housing prices only go up."
-A high presence of marketing or media coverage related to the asset.
-Incentives that place the consequences of bad behavior by one economic actor upon another, such as the origination of mortgages to those with limited ability to repay because the mortgage could be sold or securitized, moving the consequences from the originator to the investor.
-International trade (current account) imbalances, resulting in an excess of savings over investments, increasing the volatility of capital flow among countries. For example, the flow of savings from Asia to the U.S. was one of the drivers of the 2000s housing bubble.
-A lower interest rate environment, which encourages lending and borrowing.
+=== From war to peace ===
 
 
-== Notable asset bubbles ==
+==== Treasury ====
+Emerging from war and deprived of taxation revenue, the Treasury found itself struggling to service the massive government debt accumulated during war.
 
 
-=== Commodities ===
-
-Tulip mania (Dutch) (1634–1637)
-Comic book speculation bubble (1985–1993)
-Silver Thursday (March 27, 1980)
-Uranium bubble of 2007
-Cryptocurrency bubble (speculative) (2016–2017, 2021–present)
-Artificial intelligence bubble (speculative) (2025–present)
+==== Bank of England ====
+To compensate for the depletion of its own profitable wartime revenue streams, the Bank of England had to find ways to replace the revenue previously brought in through wartime bond issuances.
 
 
-=== Equities ===
+==== Capital markets ====
+London's capital markets responded to the retirement of high-yielding government bonds by producing what Larry Neal refers to as a "bewildering array" of new financial assets.
 
 
-==== Private securities ====
-
-South Sea Company (British) (1720)
-Mississippi Company (France) (1720)
-Canal Mania (UK) (1790s–1810s)
-Railway Mania (UK) (1840s)
+==== Private banks and customers ====
+Private London banks, their corresponding country banks, and their consumers in industries ranging from agriculture to trade and manufacturing, lacking information on these new financial products, found it difficult to cope with the resulting confusion.
 
 
-==== Quoted securities ====
-Roaring Twenties stock-market bubble (US) (1921–1929)
-Poseidon bubble (Australia) (1969–1970)
-Chinese stock bubble of 2007 (2003–2007)
-Dot-com bubble (US) (1996–2000)
+==== Rapid financialization ====
+
+Britain's financial system developed rapidly between 1770 and the end of the Napoleonic Wars, coinciding with the country's industrialization. In 1770, only five stocks had been available on the London Exchange. But by 1824, investors could choose from 624 joint-stock companies.
 
 
-=== Real estate ===
-Florida building bubble (US) (1922–1926)
-2000s Property bubbles:
-Australian property bubble
-Irish property bubble
-New Zealand property bubble
-Spanish property bubble
-Romanian property bubble
-United States housing bubble (US) (2002–2006)
+== Effects of the crisis ==
 
 
-=== Debt ===
-Corporate debt bubble (2010–)
+=== Business ===
+The reinstatement of the gold standard entailed a contraction of the money supply and a tightening of bank lending which made it difficult for merchants to raise capital. Bankruptcies increased significantly during the remainder of 1825 and nearly doubled in 1826.
 
 
-=== Multi-asset/Broad-based ===
-Japanese asset price bubble (1986–1991)
-1997 Asian financial crisis (1997)
-Everything bubble (2020–2021)
+=== Publishing industry ===
+The crisis also had a direct effect on the publishing industry. While the crash did not reduce the number of publishers in Britain between 1825 and 1827, it did radically alter the nature of the industry. Publishers who followed the Romantic-era traditions of offering authors handsome advances were often in debt to banks and other creditors, and this practice left them vulnerable during the crisis. Like many businesses, many major publishing houses were forced to declare bankruptcy. Older publishers such as John Murray, Constable and Ballantyne, Hurst and Robinson, and Taylor and Hessey suffered during the crisis, and some even collapsed entirely.
+The setback of the established publishing houses allowed newer and less-reputable publishers to change the market. High end works were in declining demand, but the market for cheaper productions, pamphlets, and children's books was rapidly developing. Smaller publishers bought up the stocks of their former competitors at a discount and issued cheap editions. This led to a demand for cheap fiction and inspired the trend of serialization.
 
 
-== Notable periods post asset bubbles ==
-Panic of 1837
-Great Depression (1929–1934)
-Lost Decade (Japan) (1990–2013)
-Early 2000s recession (2002–2003)
-Great Recession (2007–2009)
-Panic of 1873
+=== Regulation ===
+The crisis of 1825, although it did shake public confidence, did not destroy the market but ultimately worked to strengthen and centralize it.
+Many believed at the time that the crash, along with a series of subsequent, less serious crises, highlighted the need for improved regulation. The Limited Liability Act 1855, the Companies Act 1856 and the Companies Act 1862 attempted to regulate the market better, with the effect of making investment more accessible to individuals and investors.
+The crash led to such a frenzy that London bankers and their clients called for the government to protect their credit by suspending convertibility, as it had with the Bank Restriction Act 1797. The government, worried by falling exchange rates and in an effort to maintain credibility, refused to do this. However, to help alleviate public panic, the government implemented a series of reforms which addressed the crisis as it was perceived at the time.
+Small banks would be replaced by branches of the Bank of England.
+London banks would be allowed to compete for government contracts and business, removing the monopoly the Bank of England had enjoyed during the Napoleonic Wars.
+The gold standard would be extended to Scotland to help rein in reliance on fiat money.
+These reforms helped to centralize the financial industry and shaped the way that the public understood money, the economy, and culture. While writers of the time like James McCulloch had at first intimated that the problems arose because of the decision to imprudently abandon the gold standard, he later experienced a shift in perspective which was evident in his writing. By the time he published "The Late Crisis in the Money Market Impartially Considered", he began to think that the crash was not attributable to greed-driven bankers but to a diversified financial system.
+
+
+=== Public opinion ===
+While the crisis is now thought to have been caused by the transition process between war and peacetime economies, it was – at the time – blamed primarily on weak small country bankers speculating unwisely.
+
+
+=== Christian economics ===
+The crash caused many families significant hardship and left them confused about what had happened. Their sentiments fuelled the growth of Christian economics, which became the most popular economic theory of the 1830s. The theory presumed that human action, motivated by individual desire, entailed some degree of suffering.
+
+
+=== The business cycle ===
+The application of this doctrine of "atonement" led to the idea of the business cycle. Excess production will, it was believed, inevitably lead to higher prices and eventually – economic downturn.
+
+
+=== Literature ===
+Harriet Martineau's Illustrations of Political Economy maintains that there is no perfect solution to financial cycles. Rather, her work — along with many others of the period — seems to suggest that one should steel themselves for inevitable confusion and collapse.
+Thomas Babington Macaulay alludes to the country's on and off gold standard in his "Review of Southey's Colloquies". He refers to the currency being "imprudently debased, and imprudently restored".
+
+
+== In fiction ==
+A historical novel by Stanley J. Weyman, Ovington's Bank, published almost a century later (1922), is centred on the Panic of 1825.
+George Eliot's novel Middlemarch, written in 1870 but set in 1830, alludes to the crisis as well as the impact of the crash on the lives of individuals in Victorian England.
+A central element of Charles Palliser’s 1989 novel The Quincunx, set primarily in 1820s London, is the exchange of increasingly worthless speculative debt.  
 
 
 == See also ==
 
+Banking Crisis of 1810
 
-== References ==
+
+== Notes ==
 
 
 == Further reading ==
-
-
-== External links ==
-When Bubbles Burst, World Economic Outlook (PDF), International Monetary Fund, April 2003.
+Bordo, Michael D. Commentary May/June 1998. St. Louis Federal Reserve Review.[1] Archived 14 December 2016 at the Wayback Machine
+Fetter, Frank W. A Historical Confusion in Bagehot's Lombard Street Economica, New Series, Vol. 34, No. 133 (February 1967), pp. 80–83. [2]
+Haupert, Michael (1997). "Panic of 1825". In Glasner, David; Cooley, Thomas F. (eds.). Business cycles and depressions: an encyclopedia. Garland Publishing. pp. 511–13. ISBN 0-8240-0944-4.
+Kynaston, David (2017). Till Time's Last Sand: A History of the Bank of England, 1694–2013. New York: Bloomsbury. pp. 119–122. ISBN 978-1408868560.
+Read, Charles. (2023). Calming the Storms: The Carry Trade, the Banking School and British Financial Crises Since 1825. Palgrave Macmillan. pp. 91−111.

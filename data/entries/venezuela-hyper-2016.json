@@ -131,7 +131,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**政策转向（放弃管制）**：在 2019 年国际制裁加剧之后，马杜罗政府**放弃了查韦斯时期自 2003 年起实施的价格与货币管制**，其结果是经济从持续下滑中出现反弹。**非正式美元化**：据咨询机构 Econalítica 的调查，2019 年 9 月委内瑞拉约 **54%** 的交易以美元进行，马拉开波更高达 **86%**；几乎所有电器销售、以及约半数的服装、汽车零配件与食品销售已美元化。",
+      "basis": "据 Wikipedia「Venezuelan hyperinflation」Informal dollarization 章节；政策主体：委内瑞拉政府/央行；动作：放弃价格与货币管制（被动接受美元化）；效果评价待核实",
+      "sources": [
+        "w-en-hyperinflation-in-venezuela",
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
   "comparison": "与同为「恶性通胀」类的其他案例共享相似传导机制，差异在于时期（21世纪）、地区（拉美）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委内瑞拉恶性通胀(2016–2022)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
@@ -148,7 +158,7 @@
     "zimbabwe-hyper-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BF】委内瑞拉通胀已并列\"维基估算\"与\"世界银行/OWID\"两组数值，二者差异显著；官方统计长期中断，具体数值以何者为准待核实。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。 【续作DL】含两源差异项，已并列。 【续作DO】policy_response 由概述提炼。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【续作AO】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BF】委内瑞拉通胀已并列\"维基估算\"与\"世界银行/OWID\"两组数值，二者差异显著；官方统计长期中断，具体数值以何者为准待核实。 【续作BS】已用抓取事实重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。 【续作DL】含两源差异项，已并列。 【续作DO】policy_response 由概述提炼。 【续作FG】基于维基全文补写policy_response。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
