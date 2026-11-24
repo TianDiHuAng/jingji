@@ -67,6 +67,7 @@
     "population",
     "savings",
     "savings-glut",
+    "total-factor-productivity",
     "velocity-of-money"
   ],
   "needs_verification": true,

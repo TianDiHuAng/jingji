@@ -1982,6 +1982,22 @@
 - **round 94 的接线检查再次生效**，批量修复并对称化 **40 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 810 字**；**ERRORS 0**、WARNINGS 59。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 104 轮可用（round 124）**。**扩写 27 条概念（WARNINGS 59 → 32）**。**至此 27 条过短概念全部完成，剩余 32 条全部是案例。**
+- **第一批 14 条**：mundell-fleming／total-factor-productivity／fiscal-capacity／liquidity／fannie-mae／interest-rate-swap／solow-model／natural-rate-unemployment／credit-cycle／black-scholes／marshall-plan／twin-crises／carry-trade／cbdc。
+- **第二批 13 条**：neutrality-of-money／post-keynesian／repo／money-supply／securitization／wage-price-spiral／debt-ceiling／bailout／okuns-law／ldi-strategy／taylor-rule／triffin-dilemma／phillips-curve。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `ldi-strategy` | 2022 年英国 LDI 危机的教训——「**久期匹配若通过高杠杆实现，就把一个利率风险问题转化成了流动性风险问题，而后者要危险得多**」 |
+  | `bailout` | 明确区分「救助（公共资金）」与「减记（损失强制分配给股东与债权人）」——核心分野是「**谁承担损失**」而非「机构是否存活」；塞浦路斯 2013 触及存款引发巨大争议 |
+  | `phillips-curve` | 把三次理论修正（原始经验规律／长期垂直／理性预期抵消）串成一条线——「**它的每次失效都是宏观经济学重大转向的起点**」 |
+  | `twin-crises` | 双危机的政策困境——「**保卫汇率会压垮银行，救银行会耗尽储备**」 |
+  | `debt-ceiling` | 「**主权风险的非典型来源**」——不是偿债能力不足，而是政治程序可能导致技术性违约 |
+
+- 沿用三引号 + 保存前换行规范化，两批**语法与渲染均一次通过**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 860 字**；**ERRORS 0**、WARNINGS **32（全部为案例）**。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

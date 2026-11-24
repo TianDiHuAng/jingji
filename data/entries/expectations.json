@@ -20,7 +20,8 @@
     "game-theory",
     "lucas-critique",
     "phillips-curve",
-    "rational-expectations"
+    "rational-expectations",
+    "wage-price-spiral"
   ],
   "sources": [
     "w-en-expectations"

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "市场使个体或机构能迅速买卖资产而不引起价格剧烈变化的特性。",
-  "overview": "市场流动性指市场的一种特性：个体或企业能够迅速买入或卖出资产而不致资产价格发生剧烈变化。流动性涉及\"能卖出什么价格\"与\"多快能卖出\"之间的权衡：流动性好的市场权衡温和，流动性差的市场须折价才能快速出售。现金被视为最具流动性的资产。具体度量待核实。",
+  "overview": "市场流动性(liquidity) 指**资产能多快、以多接近其内在价值的价格被卖出**。**它不是\"资产的属性\"，而是\"市场状态的属性\"**——同一只债券在平静期流动性极好、在危机中可能无人接手。**三个维度必须区分**：**①买卖价差**（见 bid-ask）——立即成交的隐含成本；**②市场深度**——在不影响价格的前提下能成交多少；**③恢复速度**——大额交易后价格多快回到原水平。**为什么它在危机中会突然消失**：①**做市商退出或扩大价差**（见 market-maker）——他们没有义务在压力下继续做市；②**信息不对称上升**——无人能确定资产的真实价值（见 information-asymmetry），因此不愿报价；③**融资约束**——做市需要库存融资，而融资同时枯竭；④**同向抛售**——所有人同时想卖，\"流动性\"这个前提本身就失效了。**\"流动性错觉\"是最危险的一点**：**平静期低波动会让人误以为资产随时可卖**，于是压低了对流动性的定价、提高了杠杆（见 volatility、margin-finance）；**危机中这一错觉同时消失**，造成挤兑式的抛售。**与本库的关联**：流动性与**偿付能力**必须分开监管（见 liquidity-risk），这正是**最后贷款人**与**流动性覆盖率**（见 liquidity-coverage-ratio）存在的理由。",
   "timeline": [],
   "causal_chain": [
     {
@@ -63,16 +63,20 @@
     "deflation",
     "etf",
     "fire-sale",
+    "information-asymmetry",
+    "liquidity-coverage-ratio",
     "liquidity-risk",
     "liquidity-trap",
     "market-maker",
     "money-market",
     "primary-market",
+    "repo",
     "risk-premium",
     "secondary-market",
     "short-selling",
-    "stock-exchange"
+    "stock-exchange",
+    "volatility"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作EB】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作EB】补写概念辨析。 【续作LN】overview 扩写 123 → 604 字。"
 }

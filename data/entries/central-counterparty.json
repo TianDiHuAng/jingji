@@ -64,6 +64,7 @@
     "forward-contract",
     "futures",
     "interbank-lending",
+    "interest-rate-swap",
     "margin-call",
     "netting",
     "otc",

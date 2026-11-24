@@ -59,6 +59,7 @@
   "related": [
     "bid-ask",
     "collateral",
+    "credit-cycle",
     "deleveraging",
     "financial-accelerator",
     "liquidity",

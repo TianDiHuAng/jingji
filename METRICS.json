@@ -2170,6 +2170,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 59（R22）+ 自测 18/18",
       "spot_check": "扩写 26 条概念；对称化 40 条",
       "note": "维基第103轮可用。LL-LM：扩写 26 条概念（WARNINGS 85 → 59）。①第一批 14 条：industrial-revolution／bis／cpi／dodd-frank／lucas-critique／principal-agent／purchasing-power-parity／greshams-law／is-lm／laffer-curve／yield-curve-control／aggregate-demand／dutch-disease／efficient-market。②第二批 12 条：etf／maturity-transformation／seigniorage／sovereign-wealth-fund／debasement／volcker-rule／output-gap／great-moderation／plaza-accord／louvre-accord／great-divergence／gnp。③**本轮几处关键判断**：**great-moderation** 给出危机前认知失误的标准解释——「波动被转移了，而非消除：风险从产出与通胀转移到了金融体系的杠杆与资产负债表，而这些不在当时的政策指标里」；**is-lm** 与 **lucas-critique** 两处都指向同一件事——主流宏观模型**没有金融中介、忽略预期与监管的结构变化**，这正是 2008 年后被批评之处；**volcker-rule** 记录了一个具体的制度衰退——2019—2020 年美国对其实施实质性放松，是「危机后改革会随时间被侵蚀」的例证；**debasement** 归纳出一条跨越时代的线索——「从降低金属成色，到超额印钞，到现代的各种金融抑制手段，经济实质是同一个：以隐蔽的方式重新分配财富」；**greshams-law** 明确了它的适用条件（必须有法定比价），并指出它在单一法定货币体系中**不适用**，但常被误用；**plaza-accord** 对「广场协议→日本泡沫」这条因果链保持了谨慎——「不能把日本的经验简单归因于一份协议」。④沿用三引号 + 保存前换行规范化，两批语法与渲染均一次通过。⑤**round 94 的接线检查再次生效**，批量修复并对称化 40 条。⑥现状：641 条、来源 742、页面 655；overview 平均 376 字；ERRORS 0、WARNINGS 59（概念 27／案例 32）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作LN-LO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 27,
+      "reviewed": 59,
+      "fixed": 27,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 32（全部为案例）+ 自测 18/18",
+      "spot_check": "扩写 27 条概念，概念类全部完成；剩余 32 条均为案例",
+      "note": "维基第104轮可用。LN-LO：扩写 27 条概念（WARNINGS 59 → 32）。**至此，27 条过短概念全部完成，剩余 32 条全部是案例。**①第一批 14 条：mundell-fleming／total-factor-productivity／fiscal-capacity／liquidity／fannie-mae／interest-rate-swap／solow-model／natural-rate-unemployment／credit-cycle／black-scholes／marshall-plan／twin-crises／carry-trade／cbdc。②第二批 13 条：neutrality-of-money／post-keynesian／repo／money-supply／securitization／wage-price-spiral／debt-ceiling／bailout／okuns-law／ldi-strategy／taylor-rule／triffin-dilemma／phillips-curve。③**本轮几处关键判断**：**ldi-strategy** 点出 2022 年英国 LDI 危机的核心教训——「久期匹配若通过高杠杆实现，就把一个利率风险问题转化成了流动性风险问题，而后者要危险得多」；**bailout** 明确区分「救助（用公共资金）」与「减记（把损失强制分配给股东与债权人）」，核心分野是「谁承担损失」而非「机构是否存活」，并以塞浦路斯 2013 年为例说明 bail-in 触及存款时的巨大争议；**securitization** 与 **repo** 两处呼应同一机制——「风险是否真正转移到更有能力承担者手中，还是只是变得不可见」；**phillips-curve** 把三次理论修正（原始经验规律／长期垂直／理性预期抵消）串成一条线，并指出「它的每次失效都是宏观经济学重大转向的起点」；**twin-crises** 指出双危机的政策困境——「保卫汇率会压垮银行，救银行会耗尽储备」；**debt-ceiling** 指出它是「主权风险的非典型来源」——不是偿债能力不足，而是政治程序可能导致技术性违约。④沿用三引号 + 保存前换行规范化，两批语法与渲染均一次通过。⑤**round 94 的接线检查再次生效**，批量修复接线。⑥现状：641 条、来源 742、页面 655；overview 平均 395 字；ERRORS 0、WARNINGS 32（全部为案例）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

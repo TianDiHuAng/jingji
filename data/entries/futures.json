@@ -61,6 +61,7 @@
     "derivative",
     "forward-contract",
     "hedging",
+    "interest-rate-swap",
     "margin-call",
     "mark-to-market",
     "spot-contract"

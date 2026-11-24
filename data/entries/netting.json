@@ -59,6 +59,7 @@
   "related": [
     "central-counterparty",
     "counterparty-risk",
+    "interest-rate-swap",
     "otc",
     "payment-system",
     "settlement-risk"

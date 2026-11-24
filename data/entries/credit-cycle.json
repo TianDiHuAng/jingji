@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "信贷获取随时间扩张与收缩的过程。",
-  "overview": "信贷周期是信贷获取随时间扩张与收缩的过程。包括 Barry Eichengreen、Hyman Minsky 及其他后凯恩斯经济学家以及奥地利学派成员在内的部分经济学家，将信贷周期视为（经济周期的）核心驱动。信贷周期与杠杆周期相互作用。具体论述待核实。",
+  "overview": "信贷周期(credit cycle) 指**信贷供给与信贷条件的长期起伏**，它与经济周期相关但**不同步、且往往更长更深**。**它的独特性 (与普通经济周期的区别)**：①**幅度更大**——信贷扩张与收缩会放大实体波动（见 financial-accelerator）；②**持续时间更长**——债务存量需要多年消化，因此危机后的\"去杠杆\"（见 deleveraging）常持续数年；③**与资产价格紧密绑定**——信贷以抵押品为基础（见 collateral），而抵押品价格又受信贷影响，形成正反馈。**为什么它会自我强化**：**繁荣期**——资产价格上涨 → 抵押品价值上升 → 可贷更多 →资产价格再涨；**收缩期**——同一条链条反向运行（见 fire-sale、margin-call）。**\"信贷缺口\"是重要的预警指标**：信贷/GDP 相对其长期趋势的偏离，在多项实证研究中是**危机的最佳早期指标之一**——它比资产价格或利率更能捕捉\"杠杆积累\"。**与危机的关系**：**危机几乎总是信贷周期的转折点**；而**\"信贷周期的消失\"是一个危险的错觉**——大缓和（见 great-moderation）时期有人认为\"金融创新与货币政策已驯服了周期\"，而危机证明**周期只是转移到了未被观测的领域**。",
   "timeline": [],
   "causal_chain": [
     {
@@ -59,9 +59,12 @@
   "related": [
     "austrian-theory",
     "business-cycle",
+    "collateral",
     "credit-crunch",
+    "deleveraging",
     "financial-accelerator",
     "financial-fragility",
+    "fire-sale",
     "great-moderation",
     "housing-bubble",
     "juglar-cycle",
@@ -73,5 +76,5 @@
     "speculative-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作DY】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作DY】补写概念辨析。 【续作LN】overview 扩写 126 → 562 字。"
 }
