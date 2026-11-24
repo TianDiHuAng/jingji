@@ -1,0 +1,62 @@
+{
+  "id": "financialization",
+  "title": "金融化",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "1980年以来金融资本主义的发展：债务权益比上升、金融部门比重扩大、企业行为受金融逻辑主导。",
+  "overview": "金融化(financialization) 是一个常被用来描述**1980年至今金融资本主义发展**的术语——这一时期**债务对权益比率上升**，金融部门在经济中的比重扩大，非金融企业的行为也更多受金融逻辑（股东价值、股价、财务工程）主导。其表现包括：金融业占GDP与利润份额上升、家庭债务扩张、企业把更多现金流用于回购与分红而非投资、以及\"以交易而非生产\"获利模式的扩散。与危机的关系是双向的：金融化被认为提高了系统性风险与不平等，而危机后的救助又可能强化\"太大而不能倒\"与金融部门的政治影响力。该概念也存在争议——批评者认为它过于笼统、难以量化，且与\"金融深化\"的正面效应难以区分。具体度量与因果待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "放松管制与股东价值导向 → 金融动机渗透非金融企业",
+      "sources": [
+        "w-en-financialization"
+      ]
+    },
+    {
+      "step": "债务权益比上升 + 金融部门份额扩大 → 系统杠杆与关联度上升",
+      "sources": [
+        "w-en-financialization"
+      ]
+    },
+    {
+      "step": "危机后救助强化大型金融机构地位 → 金融化趋势延续（争议）",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "批判视角",
+      "view": "金融化抬高风险与不平等，挤压实体投资",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financialization"
+      ]
+    },
+    {
+      "holder": "质疑视角",
+      "view": "概念过于笼统，与金融深化的正面作用难以区分",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-repression"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融化：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>放松管制与股东价值导向 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>债务权益比上升 + 金融</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机后救助强化大型金融机</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-financialization",
+    "w-en-financial-repression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+}

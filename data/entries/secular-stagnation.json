@@ -1,0 +1,62 @@
+{
+  "id": "secular-stagnation",
+  "title": "长期停滞",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "市场经济长期增长近乎停滞的状态；用于解释发达经济体长期低利率、低通胀与低增长并存。",
+  "overview": "在经济学中，长期停滞(secular stagnation) 指市场经济处于**增长可忽略或几乎为零**的状态。此处\"secular\"意为**长期**，以区别于周期性波动。该概念被用于解释2008年后发达经济体的组合症状：**低增长、低通胀、低均衡利率（r* 下移）并存**，使常规货币政策空间受限（见 neutral-rate、liquidity-trap 条目）。主要解释包括：需求长期不足（人口老龄化、不平等上升、投资需求疲弱）、技术进步对就业与投资的净效应、以及债务积压后的去杠杆。批评者认为观测到的低增长更多是统计与周期因素，或归因于政策选择而非\"长期停滞\"的必然性。该概念对\"低利率是常态还是异常\"的判断有直接影响。具体争论待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "人口与投资需求长期偏弱 → 均衡实际利率(r*)下移",
+      "sources": [
+        "w-en-secular-stagnation"
+      ]
+    },
+    {
+      "step": "政策利率易触及下限 → 常规货币政策空间受限",
+      "sources": [
+        "w-en-liquidity-trap"
+      ]
+    },
+    {
+      "step": "低增长、低通胀、低利率并存 → 形成\"长期停滞\"症状组合",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "需求不足视角",
+      "view": "储蓄过剩与投资需求疲弱使经济长期低于潜在产出",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-secular-stagnation"
+      ]
+    },
+    {
+      "holder": "政策与统计视角",
+      "view": "低增长更多源于政策选择与度量问题，非必然停滞",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-neutral-rate"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>长期停滞：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>人口与投资需求长期偏弱 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政策利率易触及下限 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>低增长、低通胀、低利率并</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-secular-stagnation",
+    "w-en-neutral-rate"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+}

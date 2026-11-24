@@ -1,0 +1,27 @@
+{
+  "procyclicality": {
+    "title": "Procyclical and countercyclical variables",
+    "extract": "Procyclical and countercyclical variables are variables that fluctuate in a way that is positively or negatively correlated with business cycle fluctuations in gross domestic product (GDP). The scope of the concept may differ between the context of macroeconomic theory and that of economic policy–making.",
+    "slug": "Procyclicality"
+  },
+  "margin-call": {
+    "title": "Margin (finance)",
+    "extract": "In finance, margin is the collateral that a holder of a financial instrument has to deposit with a counterparty to cover some or all of the credit risk the holder poses for the counterparty. This risk can arise if the holder has done any of the following:Borrowed cash from the counterparty to buy financial instruments,\nBorrowed financial instruments to sell them short,\nEntered into a derivative contract.",
+    "slug": "Margin_call"
+  },
+  "secular-stagnation": {
+    "title": "Secular stagnation",
+    "extract": "In economics, secular stagnation is a condition when there is negligible or no economic growth in a market-based economy. In this context, the term secular means long-term, and is used in contrast to cyclical or short-term. It suggests a change of fundamental dynamics which would play out only in its own time. The concept was originally put forth by Alvin Hansen in 1938. According to The Economist, it was used to \"describe what he feared was the fate of the American economy following the Great Depression of the early 1930s: a check to economic progress as investment opportunities were stunted by the closing of the frontier and the collapse of immigration\". Warnings of impending secular stagnation have been issued after all deep recessions since the Great Depression, but the hypothesis has remained controversial.",
+    "slug": "Secular_stagnation"
+  },
+  "financialization": {
+    "title": "Financialization",
+    "extract": "Financialization is a term sometimes used to describe the development of financial capitalism from 1980 to the present, a period during which debt-to-equity ratios increased, and financial services accounted for an increasing share of national income relative to other sectors.",
+    "slug": "Financialization"
+  },
+  "currency-mismatch": {
+    "title": "Asset–liability mismatch",
+    "extract": "In finance, an asset–liability mismatch occurs when the financial terms of an institution's assets and liabilities do not correspond. Several types of mismatches are possible. An asset-liability mismatch presents a material risk at institutions with significant debt exposure, such as banks or sovereign governments. A significant mismatch may lead to insolvency or illiquidity, which can cause financial failure. Such risks were among the principal causes of economic crises such as the 1980s Latin American Debt Crisis, the 2007 Subprime Mortgage Crisis, the U.S. Savings and Loan Crisis, and the collapse of Silicon Valley Bank in 2023.",
+    "slug": "Currency_mismatch"
+  }
+}

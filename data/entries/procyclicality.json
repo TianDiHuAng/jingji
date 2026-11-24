@@ -1,0 +1,62 @@
+{
+  "id": "procyclicality",
+  "title": "顺周期性与逆周期变量",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "与GDP周期同向（正向）或反向（负向）变动的变量；金融体系常被指具有顺周期性。",
+  "overview": "顺周期与逆周期变量是相对于商业周期波动的两类变量：**顺周期变量**与 GDP 的波动**正相关**，**逆周期变量**则与之**负相关**。该概念在金融监管中的意义在于：许多金融变量（信贷、杠杆、资产价格、抵押品价值）本身具有**顺周期性**——景气时放大扩张、下行时放大收缩，从而把冲击放大（与\"金融加速器\"机制相通）。由此产生**逆周期政策工具**的需求，例如逆周期资本缓冲(countercyclical capital buffer)、贷款价值比(LTV)上限与动态拨备，目的是让监管要求随周期反向变动，抵消顺周期放大效应。具体度量与政策设计待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "信贷、杠杆与抵押品价值随景气同向变动 → 顺周期放大",
+      "sources": [
+        "w-en-procyclicality"
+      ]
+    },
+    {
+      "step": "下行时抵押品贬值 → 追加抵押与信贷收缩 → 进一步下行",
+      "sources": [
+        "w-en-fire-sale"
+      ]
+    },
+    {
+      "step": "以逆周期资本缓冲等工具反向调节 → 削弱放大效应",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "放大机制视角",
+      "view": "金融体系的顺周期性是危机深度的关键放大器",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-financial-accelerator"
+      ]
+    },
+    {
+      "holder": "监管设计视角",
+      "view": "以逆周期工具（CCyB/LTV）对冲，但时机判断困难",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>顺周期性与逆周期变量：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信贷、杠杆与抵押品价值随</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>下行时抵押品贬值 → 追</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以逆周期资本缓冲等工具反</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-procyclicality",
+    "w-en-macroprudential"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+}

@@ -585,3 +585,8 @@
 | marshall-lerner | 马歇尔-勒纳条件 | 理论制度 | 全球 | 理论 | 重要 | 续作CN |
 | black-market | 黑市与影子经济 | 理论制度 | 全球 | 其他 | 重要 | 续作CN |
 | settlement-risk | 结算风险(Herstatt风险) | 理论制度 | 全球 | 制度 | 补充 | 续作CU |
+| procyclicality | 顺周期性与逆周期变量 | 理论制度 | 全球 | 理论 | 重要 | 续作CW |
+| margin-call | 保证金与追加保证金 | 理论制度 | 全球 | 制度 | 重要 | 续作CW |
+| secular-stagnation | 长期停滞 | 理论制度 | 全球 | 理论 | 重要 | 续作CW |
+| financialization | 金融化 | 理论制度 | 全球 | 其他 | 重要 | 续作CW |
+| asset-liability-mismatch | 资产负债错配（含货币错配） | 理论制度 | 全球 | 理论 | 重要 | 续作CW |

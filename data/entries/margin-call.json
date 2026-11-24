@@ -1,0 +1,62 @@
+{
+  "id": "margin-call",
+  "title": "保证金与追加保证金",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "交易方需缴纳的抵押品；价格不利变动时被要求追加，可触发强制平仓与螺旋式抛售。",
+  "overview": "在金融中，保证金(margin) 是金融工具持有者需向交易对手缴纳的**抵押品**，用以覆盖该持有者对对手方造成的部分或全部信用风险。**追加保证金**(margin call) 是在抵押品价值不足以覆盖敞口时，对手方要求补足抵押品的通知；若无法补足，头寸将被**强制平仓**。这一机制在危机中具有强烈的**顺周期放大**效应：价格下跌 → 抵押品贬值 → 追加保证金 → 被迫卖出 → 价格进一步下跌（\"**保证金螺旋**\"）。Archegos(2021) 与英国 LDI 危机(2022) 都是保证金机制放大冲击的直接案例。监管上，初始保证金与变动保证金要求（如对非集中清算衍生品）旨在抑制过度杠杆，但在压力情形下也可能加速抛售。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "杠杆头寸以抵押品担保 → 抵押品价值随价格波动",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    },
+    {
+      "step": "价格不利变动 → 抵押品不足 → 追加保证金通知",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    },
+    {
+      "step": "无法补足 → 强制平仓 → 价格进一步下跌（保证金螺旋）",
+      "sources": [
+        "w-en-fire-sale"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险控制视角",
+      "view": "保证金是控制对手方风险的基本工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    },
+    {
+      "holder": "顺周期视角",
+      "view": "压力时追加保证金加速抛售，放大系统性冲击",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-procyclicality"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保证金与追加保证金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>杠杆头寸以抵押品担保 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格不利变动 → 抵押品</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>无法补足 → 强制平仓 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-margin-call",
+    "w-en-fire-sale"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+}
