@@ -227,6 +227,14 @@ conf_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or 
                  if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
                      or '完全一致' in (k.get('note') or ''))
                  and any(str(x).startswith(('fed-', 'owid-')) for x in (k.get('sources') or [])))
+# 跨语言对照：条目引用 >=2 种语言的维基
+def _nlang(e):
+    ls = {str(x).split('-')[1] for x in (e.get('sources') or [])
+          if str(x).startswith('w-') and len(str(x).split('-')) > 1}
+    return len({l for l in ls if l in ('en', 'zh', 'de', 'fr', 'es', 'ja')})
+_cross_total = sum(1 for e in entries.values() if _nlang(e) >= 2)   # 按条目计，与验证页口径区分
+_cases = [e for e in entries.values() if not str(e.get('unit', '')).startswith('U6')]
+_pol_cases = sum(1 for e in _cases if e.get('policy_response'))
 home = [
  '<h1>经济史与金融危机案例库</h1>',
  '<p class="lead">按 时期 × 地区 × 危机类型 组织的历史案例与理论制度条目。数据驱动、机器校验、诚实标注。</p>',
@@ -236,7 +244,9 @@ home = [
  f'<div class="stat"><div class="n">{lv_count["L1"]}</div><div class="l">L1 骨架条目</div></div>'
  f'<div class="stat"><div class="n">{ver_count}</div><div class="l">可用来源</div></div>'
  f'<div class="stat"><div class="n">{kd_total}</div><div class="l">关键数据条数</div></div>'
- f'<div class="stat"><div class="n">{conf_total}</div><div class="l">已获第二来源印证</div></div></div>',
+ f'<div class="stat"><div class="n">{conf_total}</div><div class="l">已获第二来源印证</div></div>'
+ f'<div class="stat"><div class="n">{_cross_total}</div><div class="l">多语种维基条目</div></div>'
+ f'<div class="stat"><div class="n">{_pol_cases}/{len(_cases)}</div><div class="l">案例载有政策应对</div></div></div>',
  '<div class="note">本站所有数字除明确标注来源与口径外一律列为"待核实"；有争议观点并列各方说法，不替读者下结论。不做预测，不提供投资建议。</div>',
  '<h2 id="units">单元导航</h2><div class="grid">'
 ]
