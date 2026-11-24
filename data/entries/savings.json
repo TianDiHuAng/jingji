@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "收入中未用于消费的部分；是投资的可贷资金来源，也是长期增长的条件之一。",
-  "overview": "（据 Wikipedia「Saving」摘要归纳）Saving is income not spent, or deferred consumption. In economics, a broader definition is any income not used for immediate consumption. Saving also involves reducing expenditures, such as recurring costs. 具体定义边界与争议待核实。",
+  "overview": "储蓄(savings) 指**未被花掉的收入**，即**延迟的消费**。在经济学中更宽的定义是\"**任何未用于即时消费的收入**\"；它也包含削减支出（如压缩经常性开支）的行为。**必须区分的两个层面**：①**个体的储蓄决策**——收入减去消费；②**国民储蓄**——在封闭经济中等于投资，在开放经济中等于国内投资加经常账户顺差。**\"节俭悖论\"**：对单个家庭而言增加储蓄是审慎的；但若所有人同时增加储蓄，总需求下降会使收入减少，**结果储蓄总额未必上升**——这是凯恩斯对古典\"储蓄自动转化为投资\"的批评。**与危机的关系是双向的**：高储蓄经济体在危机中更有缓冲，但也可能因内需不足而依赖外需与信贷；而**危机后的\"去杠杆\"**往往表现为储蓄率上升、消费下降，使复苏更加缓慢（见 balance-sheet-recession、savings-glut）。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -30,6 +30,7 @@
   "key_data": [],
   "comparison": "与**投资**的区别在\"主体与用途\"：储蓄是收入中未消费的部分（可持有现金、存款、证券）；投资在宏观上指**资本形成**（设备、建筑、存货）。两者在会计上必然相等（储蓄＝投资，通过收入恒等式），但**决策主体不同**：储蓄由家庭决定，投资由企业决定。这一区分是凯恩斯\"节约悖论\"的基础：所有人同时增加储蓄会压低总需求，反而使储蓄无法实现（收入下降）。",
   "related": [
+    "balance-sheet-recession",
     "investment",
     "loanable-funds",
     "savings-glut",
@@ -40,5 +41,5 @@
     "w-zh-savings"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KG】overview 由英文摘要改写为中文（原 245 字）。"
 }

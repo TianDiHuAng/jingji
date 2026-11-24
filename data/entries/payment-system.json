@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "用于在参与者之间清算与结算资金债权的基础设施；其稳定性是金融体系运转的前提。",
-  "overview": "（据 Wikipedia「Payment system」摘要归纳）A payment system is any system used to settle financial transactions through the transfer of monetary value. This includes the institutions, payment instruments such as payment cards, people, rules, procedures, standards, and technologies that make its exchange possible. A payment system is an operational network which links bank accounts and provides for monetary exchange using bank deposits. 具体定义边界与争议待核实。",
+  "overview": "支付系统(payment system) 指任何通过**转移货币价值**来清结金融交易的系统。它包含使这种交换得以发生的**机构、支付工具（如银行卡）、人员、规则、流程、标准与技术**。**它是一个运营网络**，把银行账户彼此连接，使资金能从付款人转移到收款人。**关键区分**：**支付**（payment）是资金的最终转移，**清算**（clearing）是交易指令的轧差与确认，**结算**（settlement）是最终不可撤销的资金划转——三者常被混用，但环节不同、风险也不同。**为什么与危机相关**：支付系统是金融体系的**管道**——管道堵塞时，即使机构本身有偿付能力也会因无法收付款而失败。这正是\"**系统性风险**\"最直接的形态：一家机构的技术故障或流动性短缺，可以通过支付网络在数小时内传导至全系统。**制度安排**：大额支付系统通常由中央银行运营或监管，并采用**实时全额结算(RTGS)** 以避免时滞累积的敞口；**中央对手方(CCP)** 则通过介入交易双方之间来隔离对手方风险。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -32,5 +32,5 @@
     "w-en-payment-system"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools。 【续作KE】overview 由英文摘要改写为中文（原 443 字）。"
 }

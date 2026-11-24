@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "较贫穷经济体的人均收入倾向于比较富裕经济体增长更快的假说。",
-  "overview": "（据 Wikipedia「Convergence (economics)」摘要归纳）The idea of convergence in economics is the hypothesis that poorer economies' per capita incomes will tend to grow at faster rates than richer economies. In the Solow-Swan model, economic growth is driven by the accumulation of physical capital until this optimum level of capital per worker, which is the \"steady state\" is reached, where output, consumption and capital are constant. The model predicts more rapid growth when the level of physical capital per capita is low, something often referred to as “catch up” growth. 具体定义边界与学术争议待核实。",
+  "overview": "收敛(convergence) 是增长经济学中的一个假说：**较贫穷经济体的 per capita 收入倾向于以比富裕经济体更快的速度增长**，因而差距会逐渐缩小。**理论基础**：在**索洛-斯旺模型**中，增长由**物质资本积累**驱动，直至达到\"**稳态**\"的人均资本最优水平——在稳态处，人均资本不再增长，人均产出也趋于停滞。由于资本边际报酬递减，**起点越低的经济体资本回报越高、增长越快**，这就是所谓\"条件收敛\"。**现实中的分歧**：全球范围内的无条件收敛证据薄弱——穷国与富国的差距在 20 世纪大部分时间**扩大**而非缩小（见 great-divergence）；但在\"条件相似\"的国家组内（如 OECD 内部、中国各省之间）收敛较为明显。**为什么与危机相关**：追赶型增长往往依赖高投资与外部融资，一旦资本流入逆转，就可能触发国际收支危机——1997 年亚洲危机中的高增长经济体正是如此。",
   "timeline": [
     {
       "year": 1970,
@@ -51,5 +51,5 @@
     "w-en-convergence"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。 【续作KE】overview 由英文摘要改写为中文（原 583 字）。"
 }

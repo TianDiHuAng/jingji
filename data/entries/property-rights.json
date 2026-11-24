@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "对资源使用、收益与转让的排他性权利；其界定与执行影响投资与交易的发生。",
-  "overview": "（据 Wikipedia「Property rights (economics)」摘要归纳）Property rights are constructs in economics for determining how a resource or economic good is used and owned, which have developed over ancient and modern history, from Abrahamic law to Article 17 of the Universal Declaration of Human Rights. Resources can be owned by individuals, associations, collectives, or governments. 具体定义边界与争议待核实。",
+  "overview": "产权(property rights) 是经济学中用来确定**一项资源或经济品如何被使用与占有**的制度安排。其历史可溯至古代，从亚伯拉罕系法律到《世界人权宣言》第 17 条。资源可为个人、社团、集体或政府所有。**产权束的构成**：通常拆解为**使用权**、**收益权**、**排他权**、以及**转让权**——四者可分属不同主体。**为什么与金融危机相关**：金融的本质是**跨期交换的产权安排**——一笔贷款是债权凭证，一股股票是剩余索取权，抵押是对特定财产的优先求偿权。**产权界定不清会使危机难以处置**：若抵押品的归属、证券化资产的真实持有人、或跨境交易的适用法律存疑，清算与重组就无法推进——这是许多新兴市场债务危机久拖不决的原因之一。",
   "timeline": [
     {
       "year": 1689,
@@ -55,5 +55,5 @@
     "w-zh-property-rights"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 385 字）。"
 }

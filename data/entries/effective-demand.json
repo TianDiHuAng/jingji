@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "在另一市场受到约束时实际出现的商品或服务需求；与不受约束的\"名义需求\"相对。",
-  "overview": "（据 Wikipedia「Effective demand」摘要归纳）In economics, effective demand (ED) in a market is the demand for a product or service which occurs when purchasers are constrained in a different market. It contrasts with notional demand, which is the demand that occurs when purchasers are not constrained in any other market. In the aggregated market for goods in general, demand, notional or effective, is referred to as aggregate demand. 具体定义边界与学术争议待核实。",
+  "overview": "有效需求(effective demand) 指**在某个市场中，购买者因在其他市场受到约束**而产生的对某商品或服务的需求。与之对立的概念是**名义需求(notional demand)**——即购买者在任何其他市场都不受约束时的需求。**为什么需要这个区分**：在一般商品市场，需求可能受**收入约束**（想买但没钱）或**供给约束**（有钱但买不到）而无法实现。凯恩斯用这一区分论证：**总需求可能长期低于潜在产出**，因为收入分配与流动性偏好会使一部分购买力不转化为支出。**政策含义**：如果有效需求不足，价格机制不会自动恢复充分就业——这正是凯恩斯主义主张财政扩张的理论基础；与之相对，古典与新古典观点认为利率会调整使储蓄等于投资，不存在持续的有效需求不足。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -34,5 +34,5 @@
     "w-zh-effective-demand"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 443 字）。"
 }

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "通过操纵公共政策或经济条件来增加既有财富、而不创造新财富的行为。",
-  "overview": "（据 Wikipedia「Rent-seeking」摘要归纳）Rent-seeking is the act of growing one's existing wealth by manipulating public policy or economic conditions without creating new wealth. Rent-seeking activities have negative effects on the rest of society. They lead to reduced economic efficiency due to misallocation of resources, stifled competition, lower wealth creation, a loss of government revenue, increased income inequality, increased debt levels, the risk of increased corruption and cronyism, the decline in public trust in institutions, and potential socioeconomic and institutional decline. 具体定义边界与学术争议待核实。",
+  "overview": "寻租(rent-seeking) 指通过**操纵公共政策或经济条件**来增加自身既有财富，而**不创造新财富**的行为。**为什么有害**：它并不做大蛋糕，只是改变分配——因此造成**资源配置扭曲**（资源被用于游说而非生产）、**竞争被抑制**、**财富创造减少**，并带来效率损失。**与\"利润\"的区别**：正常的利润来自承担风险与创新；寻租所得（\"租\"）来自**人为制造的稀缺**——如牌照限制、关税壁垒、准入审批、以及监管俘获。**与金融危机的关系**：金融业的寻租表现为——利用复杂的监管套利结构、争取隐性担保与税收优待、以及\"太大而不能倒\"带来的融资成本优势（隐性补贴）。**争议**：界定何为\"寻租\"依赖对\"创造价值\"的判断，因此常被用作相互指责的标签；本库在具体案例中只陈述可核查的制度安排，不做动机推定。",
   "timeline": [
     {
       "year": 1817,
@@ -62,5 +62,5 @@
     "w-zh-rent-seeking"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GJ】补充 timeline/schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GJ】补充 timeline/schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 604 字）。"
 }

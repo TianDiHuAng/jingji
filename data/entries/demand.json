@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "在给定价格与条件下消费者愿意且有购买能力的数量；与供给共同决定价格与交易量。",
-  "overview": "（据 Wikipedia「Demand」摘要归纳）In economics, demand is the quantity of a good consumers are willing and able to purchase at various prices over a given period. In economics, \"demand\" for a commodity is not the same thing as \"desire\" for it. It refers to both the desire to purchase and the ability to pay for a commodity. 具体定义边界与争议待核实。",
+  "overview": "需求(demand) 在经济学中指**消费者在给定时期内、在各种价格水平下愿意且有能力购买的商品数量**。**关键区分**：\"需求\"不等于\"**欲望**\"——它同时要求**购买的意愿**与**支付的能力**。只有欲望而无支付能力，不构成经济学意义上的需求。**需求曲线的意义**：在其他条件不变时，价格上升则需求量下降（除少数例外）；而**需求的变化**（曲线移动）与**需求量的变化**（沿曲线移动）是两件不同的事——混淆二者是分析政策效果的常见错误。**与危机的关系**：**有效需求**不足会导致产能闲置与失业（见 effective-demand）；而需求的**突然收缩**（如资产价格暴跌后的财富效应）正是衰退自我强化的机制之一。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -33,5 +33,5 @@
     "w-zh-demand"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 329 字）。"
 }

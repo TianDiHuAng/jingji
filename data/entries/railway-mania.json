@@ -8,7 +8,7 @@
   "region": "欧洲",
   "crisis_type": "泡沫",
   "one_line": "1840年代英国铁路投资狂潮（Railway Mania），大量资本涌入铁路股票形成泡沫，随后崩盘。",
-  "overview": "Railway Mania was a stock market bubble in the railway industry of the United Kingdom of Great Britain and Ireland in the 1840s. It followed a common pattern: as the price of railway shares increased, speculators invested more money, which further increased the price of railway shares, until the share price collapsed. The mania reached its zenith in 1846, when 263 Acts of Parliament for setting up（据维基摘要；完整时间线/数据待核实补充。）",
+  "overview": "铁路狂热(Railway Mania) 是 **1840 年代**大不列颠及爱尔兰联合王国铁路业的一场**股市泡沫**。它遵循了一个常见模式：**铁路股价上涨 → 投机者投入更多资金 → 股价进一步上涨**，直至股价崩溃。**机制上的典型性**：这场狂热具备泡沫的全部要素——**真实的技术变革**（铁路确实改变了运输）、**乐观的盈利预期**、** Parliamentary 授权带来的稀缺性**、以及**分期缴款**（投资者只需先付一小部分股本，杠杆效应放大了涨跌）。**后果**：大量线路重复建设、公司破产、投资者损失惨重；但铁路网络本身留了下来，成为后续工业化的基础设施。**为什么它是经典案例**：它清楚展示了\"**泡沫破裂后资产仍在**\"这一现象——投机失败与生产性资本形成可以是同一件事的两面。",
   "timeline": [
     {
       "year": 1845,
@@ -93,5 +93,5 @@
     "speculative-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。 【续作KF】overview 由英文摘要改写为中文（原 422 字）。"
 }

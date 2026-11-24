@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "为未来收益而投入资源的行为；宏观上指资本形成（固定投资与存货变动）。",
-  "overview": "（据 Wikipedia「Investment」摘要归纳）Investment is traditionally defined as the \"commitment of resources into something expected to gain value over time\". If an investment involves money, then it can be defined as a \"commitment of money to receive more money later\". From a broader viewpoint, an investment can be defined as \"to tailor the pattern of expenditure and receipt of resources to optimise the desirable patterns of these flows\". 具体定义边界与争议待核实。",
+  "overview": "投资(investment) 传统上被定义为\"**把资源投入到预期会增值的事物中**\"。若涉及货币，则可表述为\"**投入货币以期日后收回更多货币**\"。**更宽的视角**：投资也可理解为\"**安排支出与收入的时序**\"——即牺牲当下的消费，换取未来的消费能力。**两个必须区分的意思**：①**经济学意义**——投资指**实物资本的增加**（厂房、设备、住宅、存货），它是 GDP 的组成部分；②**金融意义**——投资指**购买金融资产**（股票、债券、存款）。**一方的购买只是另一方的融资**：买入股票并不直接增加经济体的资本存量，只是把储蓄转给了发行方。**把两者混为一谈是常见的分析错误**。**与金融危机的关系**：繁荣期\"投资\"一词常被用来为投机正名——但若购买的资产并未产生新的生产能力（如单纯的资产转手与再融资），它就不是经济学意义上的投资，而是**投机**（见 speculation、malinvestment）。识别这一区别，是判断泡沫的关键。",
   "timeline": [
     {
       "year": -1700,
@@ -27,6 +27,7 @@
     "business-cycle",
     "capital-structure",
     "savings",
+    "speculation",
     "total-factor-productivity"
   ],
   "sources": [
@@ -34,5 +35,5 @@
     "w-zh-investment"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 445 字）。"
 }

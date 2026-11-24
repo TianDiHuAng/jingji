@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "一定区域内人的总体；其规模与结构通过劳动供给、储蓄与需求影响长期增长。",
-  "overview": "（据 Wikipedia「Population」摘要归纳）Population may refer to:Population (biology), a group of individuals\nWildlife population, group of non-human individuals\nPopulation (album), by The Most Serene Republic, 2007\nPopulation, a group of human individuals\nPopulation (journal), published by Institut national d'études démographiques\nStatistical population, a set of similar items or events of interest for some question or experiment\nStellar population, categorized groups of stars within the Milky Way\nWorld population, total number of living humans on Earth 具体定义边界与争议待核实。",
+  "overview": "人口(population) 在经济分析中指**一群人的集合**及其**规模、结构与变动**。（注：该词在生物学、统计学中另有含义，本条目只讨论与经济和金融危机相关的部分。）**三个关键维度**：①**规模与增长**——人口增长率影响总需求、劳动力供给与人均产出的分母；②**年龄结构**——抚养比的变化决定储蓄率（**人口红利**即劳动年龄人口占比高、抚养负担轻的时期，通常伴随高储蓄与高投资）；③**分布与流动**——城乡与区域分布影响房地产需求与财政负担。**与金融危机的关系**：人口结构通过**储蓄—投资平衡**影响经常账户与资产价格。老龄化通常压低储蓄率、抬高医疗与养老支出，对主权债务可持续性构成压力；而人口快速增长的年轻经济体则更容易出现住房与信贷的快速扩张。**数据口径的陷阱**：常住人口、户籍人口、公民人口在跨国比较中含义不同，本库遇到口径差异时并列呈现而不合并。",
   "timeline": [],
   "causal_chain": [],
   "schools": [],
@@ -25,5 +25,5 @@
     "w-en-population"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作KE】overview 由英文摘要改写为中文（原 562 字）。"
 }

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "一类重要经济模型无法解释股票组合相对于无风险资产的历史平均超额回报的现象。",
-  "overview": "（据 Wikipedia「Equity premium puzzle」摘要归纳）The equity premium puzzle refers to the inability of an important class of economic models to explain the average equity risk premium (ERP) provided by a diversified portfolio of equities over that of government bonds, which has been observed for more than 100 years. There is a significant disparity between returns produced by stocks compared to returns produced by government treasury bills. The equity premium puzzle addresses the difficulty in understanding and explaining this disparity. 具体定义边界与学术争议待核实。",
+  "overview": "股权溢价之谜(equity premium puzzle) 指一类重要的经济模型**无法解释**以下被观察了 **100 多年**的现象：**分散化的股票组合所提供的平均股权风险溢价(ERP)，远高于政府债券**。换句话说，股票相对债券的超额回报**高得超出模型预测**——按标准模型的**风险厌恶程度**，要让人愿意持有股票，只需很小的溢价即可；而实际溢价要大得多。**为什么是\"谜\"**：要么投资者的风险厌恶程度远高于实验估计，要么模型遗漏了某些重要因素（如**灾难性风险的尾部**、**习惯形成**、**长期生存偏差**、或市场参与受限）。**与金融危机的关系**：如果股权溢价包含了对**罕见灾难**的补偿，那么金融危机正是那个\"灾难\"——它在很长时间不出现，一旦出现就抹掉多年收益。这为\"为什么危机难以预测\"提供了另一种解释：**理性定价本身就包含了对低概率大冲击的折价**。",
   "timeline": [
     {
       "year": 1985,
@@ -70,5 +70,5 @@
     "w-zh-equity-premium"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline/schools/key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline/schools/key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 549 字）。"
 }

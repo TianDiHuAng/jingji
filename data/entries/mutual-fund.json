@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "汇集众多投资者资金购买证券的投资基金；该称谓主要用于美国、加拿大与印度。",
-  "overview": "（据 Wikipedia「Mutual fund」摘要归纳）A mutual fund is an investment fund that pools money from many investors to purchase securities. The term is typically used in the United States, Canada, and India. In Europe, UCITS funds, primarily registered in Luxembourg and Ireland, are considered mutual funds, while similar structures include the SICAV and the open-ended investment company (OEIC) in the UK. 具体定义边界与学术争议待核实。",
+  "overview": "共同基金(mutual fund) 是一种**汇集众多投资者资金、用于购买证券**的投资基金。该词主要用于美国、加拿大与印度；在欧洲，主要在卢森堡与爱尔兰注册的 **UCITS** 基金被视为共同基金，类似结构还有 **SICAV** 与开放式投资公司。**关键特征**：**份额可按净值申购与赎回**、由专业管理人按既定策略投资、并受分散化与信息披露规则的约束。**与危机的关联**：共同基金本身通常不承担高杠杆，但**开放式**结构意味着投资者可随时赎回——若持有资产流动性不足（如高收益债、新兴市场债），集中赎回会迫使基金**贱卖**（见 fire-sale），把个别基金的赎回压力转化为市场价格冲击。这是 2020 年 3 月债券基金承压、以及此后各国讨论\"流动性错配\"与\"摆动定价\"等工具的直接背景。",
   "timeline": [
     {
       "year": 1774,
@@ -45,5 +45,5 @@
     "w-zh-mutual-fund"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GP】补充 timeline/key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GP】补充 timeline/key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 410 字）。"
 }

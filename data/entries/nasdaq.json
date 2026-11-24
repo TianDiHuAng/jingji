@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "美国的证券交易所；按上市公司总市值计为全球最大交易所，亦是首个完全电子化的股票市场。",
-  "overview": "（据 Wikipedia「Nasdaq」摘要归纳）The Nasdaq Stock Market is an American stock exchange. The Nasdaq is the world's largest stock exchange by total market capitalization of its listed companies and the first fully electronic stock market. Based in Manhattan, New York City, the exchange is among the most active stock trading venues by volume in the world. 具体定义边界与学术争议待核实。",
+  "overview": "纳斯达克(Nasdaq) 是美国的证券交易所，按上市公司**总市值**计为**全球最大**的交易所，也是**第一个完全电子化**的股票市场。其总部位于纽约曼哈顿，按成交量为全球最活跃的交易场所之一。**历史意义**：它的电子化模式取消了传统的交易大厅与专家做市制度，由**做市商网络**与后来的**电子撮合**取代，大幅降低了交易成本并加快了撮合速度——这一模式后来被全球交易所普遍采用。**与危机的关联**：纳斯达克是 **2000 年互联网泡沫**的中心，其指数在 2000 年 3 月见顶后大幅回落，成为\"新技术叙事推动估值脱离盈利\"的标准案例。",
   "timeline": [],
   "causal_chain": [],
   "schools": [],
@@ -37,5 +37,5 @@
     "w-zh-nasdaq"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GP】补充 key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GP】补充 key_data。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 362 字）。"
 }

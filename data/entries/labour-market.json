@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "劳动供给与需求相遇的场所与制度安排；工资、就业与失业在此决定。",
-  "overview": "（据 Wikipedia「Labour economics」摘要归纳）Labour economics is the subfield of economics concerned with the study of labour as an input to economic production. Broadly, it surveys labor markets and the economic decisions of agents participating in such markets. 具体定义边界与争议待核实。",
+  "overview": "劳动市场(labour market) 是经济学中研究**劳动作为生产要素**如何被配置的领域。它考察劳动市场的运行，以及参与其中的主体（劳动者、企业）的经济决策。**核心议题**：**工资如何决定**（边际生产率、谈判力量、最低工资与制度安排）；**就业与失业如何变动**（摩擦性、结构性、周期性失业的区分）；**人力资本投资**（教育、培训的回报）；以及**劳动市场的制度**（雇佣保护、工会、失业保险）。**与危机的关联最直接**：危机首先冲击就业——企业先减工时、后裁员；而失业一旦长期化，**技能退化与退出劳动力队伍**会使潜在产出下降，这是\"危机会留下永久伤痕\"(scarring) 说法的依据。**政策的两难**：雇佣保护强的经济体裁员慢、但招聘也慢；灵活的经济体失业上升快、但复苏时就业恢复也快——没有一种制度在所有情形下占优。",
   "timeline": [
     {
       "year": 2010,
@@ -42,5 +42,5 @@
     "w-en-labour-market"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作KG】overview 由英文摘要改写为中文（原 267 字）。"
 }

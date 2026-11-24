@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "存放于美国境外银行或其分支机构的美元计价存款负债。",
-  "overview": "（据 Wikipedia「Eurodollar」摘要归纳）Eurodollars is a financial term used to describe certain U.S. dollar-denominated deposit liabilities held at banks or their branches outside the United States. 具体定义边界与学术争议待核实。",
+  "overview": "欧洲美元(Eurodollar) 指**存放在美国境外**的银行或其分支机构的**以美元计价的存款负债**。**关键点在于\"境外\"而非\"欧洲\"**：一笔存在伦敦、东京或开曼的美元存款，都属\"欧洲美元\"；名称源于这一市场最早在 1950 年代的欧洲形成。**为什么重要**：①它构成一个**不受美国国内监管直接约束的美元市场**，规模庞大且跨境自由流动；②其利率（如 **LIBOR**）曾是全球美元融资的定价基准；③它使**美元流动性可以在美国境外被创造**——这既提高了国际融资效率，也使危机中的美元短缺（如 2008 年）难以由单一国家的央行单独解决。**与危机的关系**：2008 年危机中，非美银行依赖欧洲美元市场为其美元资产融资，当该市场冻结时，美联储不得不通过**央行货币互换额度**向其他央行提供美元——这是\"最后贷款人\"职能跨越国界的罕见实践。",
   "timeline": [
     {
       "year": 1949,
@@ -32,5 +32,5 @@
     "w-en-eurodollar"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline。 【续作KG】overview 由英文摘要改写为中文（原 204 字）。"
 }

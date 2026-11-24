@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "个体或地区专注于特定生产环节；通过分工提高效率，是增长与贸易的基础。",
-  "overview": "（据 Wikipedia「Division of labour」摘要归纳）The division of labour is the separation of the tasks in any economic system or organisation so that participants may specialise (specialisation). Individuals, organisations, and nations are endowed with, or acquire, specialised capabilities and either form combinations or trade to take advantage of others' capabilities. Specialised capabilities may include equipment, natural resources, and skills. 具体定义边界与争议待核实。",
+  "overview": "专业化(specialization) 指把任务拆分，使参与者各自从事其更擅长的环节——即**分工**。个人、组织与国家都可凭借天赋或后天获得的能力形成专门化，并通过**组合或交易**来利用他人的能力。**为什么能提高产出**：专业化减少了任务切换的损耗、使重复操作趋于熟练、并让工具与机器更有针对性地被设计出来。**代价**：**相互依赖**随之上升——每个环节都依赖他人的产出，链条上任何一环中断都会传导下去；同时**知识的碎片化**使个体难以判断整体风险。**与金融危机的关系**：金融体系的专业化（发起—分销模式、评级、承销、做市、清算各司其职）提高了效率，但也使**风险的最终承担者变得难以识别**——2008 年危机中，一笔按揭的信用风险经过多手拆分后，连交易双方都无法确知自己承担了什么。**国际贸易层面**：专业化使各国更易受外部需求冲击，这是\"贸易与金融传染\"的微观基础。",
   "timeline": [
     {
       "year": 1714,
@@ -41,5 +41,5 @@
     "w-zh-specialization"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 452 字）。"
 }

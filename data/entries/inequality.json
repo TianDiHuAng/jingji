@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "收入或财富在社会成员之间分布的不均程度；常用基尼系数与份额指标度量。",
-  "overview": "（据 Wikipedia「Economic inequality」摘要归纳）Economic inequality is an umbrella term for three concepts: income inequality, how the total sum of money paid to people is distributed among them; wealth inequality, how the total sum of wealth owned by people is distributed among the owners; and consumption inequality, how the total sum of money spent by people is distributed among the spenders. Each of these can be measured between two or more nations, within a single nation, or between and within sub-populations, either from one or from multiple nations. 具体定义边界与争议待核实。",
+  "overview": "经济不平等(economic inequality) 是一个**统称**，涵盖三个**必须分开**的概念：①**收入不平等**——人们收到的货币总额在人群之间如何分布；②**财富不平等**——人们拥有的财富总额在所有者之间如何分布；③**消费不平等**——人们花掉的货币总额如何分布。**为什么必须分开**：三者的走势可以完全不同。财富存量比收入流量更集中（因为财富会累积并带来资本收益），而消费受借贷与储蓄平滑，往往比收入更平均。**只看其中一个指标会得出相反的结论**。**与金融危机的关系**：收入与财富的集中可能通过两条渠道增加脆弱性——一是中低收入群体为维持消费而加杠杆（次贷扩张的背景之一），二是富人的资产组合更集中于风险资产，资产价格下跌时冲击更集中。**争议**：不平等对增长是有害还是有益，文献并无共识——有的认为它提供激励，有的认为它抑制人力资本积累与总需求。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -56,5 +56,5 @@
     "w-en-inequality"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools/key_data。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GO】补充 schools/key_data。 【续作KE】overview 由英文摘要改写为中文（原 565 字）。"
 }

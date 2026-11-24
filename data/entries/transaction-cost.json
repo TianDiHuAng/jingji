@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "达成与执行交易所需的成本（搜寻、议价、监督、履约）；是解释制度为何存在的核心概念。",
-  "overview": "（据 Wikipedia「Transaction cost」摘要归纳）In economics, a transaction cost is a cost incurred when making an economic trade when participating in a market. 具体定义边界与争议待核实。",
+  "overview": "交易成本(transaction cost) 指**参与市场、进行一笔经济交易时所产生的成本**。**它不只是手续费**，至少包括：**搜寻成本**（找到交易对手与合适价格）、**议价成本**（谈判与达成合约）、**履约与监督成本**（确保对方按约执行）、以及**违约与执行成本**（出问题时追究责任）。**为什么是理解制度的关键**：科斯与威廉姆森指出，**企业与市场这两种组织形式的边界，由交易成本决定**——若在市场里交易的成本高于在组织内部协调，企业就会把该环节内部化。**与金融危机的关系**：①**流动性**的本质就是\"低交易成本\"——危机中买卖价差扩大，意味着交易成本骤升，市场因此失去流动性；②金融创新（证券化、衍生品）的一大动机正是**降低交易成本**，但同时制造了新的信息与监督成本；③**信息不对称**本身就是交易成本的一种，它使外部融资的成本高于内部融资（见 lemons-market、principal-agent）。",
   "timeline": [
     {
       "year": 1931,
@@ -56,5 +56,5 @@
     "w-zh-transaction-cost"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KG】overview 由英文摘要改写为中文（原 162 字）。"
 }

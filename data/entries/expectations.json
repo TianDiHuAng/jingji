@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "在不确定情形下，对最可能发生之结果的信念；它可能符合现实，也可能偏离现实。",
-  "overview": "（据 Wikipedia「Expectation (philosophy)」摘要归纳）In the case of uncertainty, expectation is what is considered the most likely to happen. An expectation, which is a belief that is centered on the future, may or may not be realistic. A less advantageous result gives rise to the emotion of disappointment. 具体定义边界与学术争议待核实。",
+  "overview": "预期(expectation) 指**在不确定的情况下，被认为最可能发生的结果**。它是一种**指向未来**的信念，**未必符合现实**。**为什么是经济学的核心变量**：绝大多数经济决策——投资、储蓄、定价、工资谈判——都必须先形成对未来的判断，而这些判断本身又会影响结果，形成**自我实现**或**自我否定**的循环。**理论上的三种处理方式**：①**适应性预期**——按过去的经验外推，错了再慢慢修正；②**理性预期**——在可得信息下不犯系统性错误；③**动物精神**——由信心与冲动驱动，而非精算（见 animal-spirits）。**与危机的关系**：**预期的突然反转**是危机最直接的触发器——资产价格、抵押品价值、融资条件都建立在\"未来会怎样\"的共同判断上，一旦这一判断被推翻，所有以此为据的合约同时需要重估。**一个容易被忽略的事实**：学者认为**失望**（disappointment）是预期落空时产生的情绪，而恐慌往往正是失望的集体形式。",
   "timeline": [],
   "causal_chain": [],
   "schools": [],
@@ -16,6 +16,7 @@
   "comparison": "与**理性预期**的区别在\"是否用尽信息\"：一般意义上的预期是\"对最可能发生之结果的信念\"，可能符合也可能偏离现实；理性预期假设主体**用尽所有可得信息**（含政策规则）形成预期，因此不会系统性犯错。这一区分决定政策空间：若公众预期是适应性（外推过去），政策可短期\"欺骗\"公众；若是理性的，被预期的政策无效（政策无效性命题）。",
   "related": [
     "adaptive-expectations",
+    "animal-spirits",
     "lucas-critique",
     "phillips-curve",
     "rational-expectations"
@@ -24,5 +25,5 @@
     "w-en-expectations"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作KG】overview 由英文摘要改写为中文（原 314 字）。"
 }

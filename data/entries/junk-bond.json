@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "信用评级低于投资级的债务工具（亦称高收益债）；其违约率与利差随周期显著波动。",
-  "overview": "（据 Wikipedia「High-yield debt」摘要归纳）In finance, a high-yield bond is a bond that is rated below investment grade by credit rating agencies. These bonds have a higher risk of default or other adverse credit events but offer higher yields than investment-grade bonds to compensate for the increased risk. 具体定义边界与争议待核实。",
+  "overview": "垃圾债(junk bond)，正式名称为**高收益债(high-yield bond)**，指被信用评级机构评为**低于投资级**的债券。**为什么叫\"垃圾\"**：这类债券的**违约风险显著更高**，因此必须提供**更高的收益率**来补偿投资者承担的额外风险。**关键区分**：①**\"堕落天使\"(fallen angel)**——原本是投资级、后被降级至高收益级的债券；②**\"明日之星\"(rising star)**——原为高收益级、后被上调至投资级的债券。两者的市场行为差异很大。**与危机的关系**：高收益债市场的**发行窗口**会在危机中骤然关闭——低评级企业无法再融资，只能违约或接受苛刻条件，这使信用紧缩从银行体系传导至资本市场。**历史注脚**：该市场在 1980 年代美国杠杆收购浪潮中迅速扩张，也因当时的违约与诉讼而背负\"垃圾\"之名。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -39,5 +39,5 @@
     "w-en-junk-bond"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 schools。 【续作KG】overview 由英文摘要改写为中文（原 314 字）。"
 }

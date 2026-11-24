@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "公司向股东分配的利润；公司在取得利润或盈余后可将其一部分作为股息支付。",
-  "overview": "（据 Wikipedia「Dividend」摘要归纳）A dividend is the distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a portion of the profit as a dividend to shareholders. Any amount not distributed is taken to be re-invested in the business. 具体定义边界与学术争议待核实。",
+  "overview": "股息(dividend) 指公司**把利润分配给股东**。当公司获得利润或盈余时，可将其中一部分作为股息派发给股东；**未分配的部分**则被视为**再投资于业务**。**几个关键概念**：**股息率**（每股股息 ÷ 股价）——衡量现金回报；**派息率**（股息 ÷ 净利润）——衡量分配比例；**除息日**——在此日之后买入者不再享有本次股息。**为什么公司要派息**：当公司缺乏高回报的投资机会时，把现金返还股东比留在公司更有效率——否则容易滋生**代理问题**（管理层把自由现金流用于扩张帝国或低效投资）。**与危机的关系**：**危机中削减股息**是银行与企业的标准动作，因为它是最快的留存资本方式；而对依赖股息收入的投资者（如养老基金）而言，股息的集体削减会直接压缩其现金流，放大**顺周期性**。",
   "timeline": [
     {
       "year": 1602,
@@ -53,5 +53,5 @@
     "w-zh-dividend"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KG】overview 由英文摘要改写为中文（原 312 字）。"
 }

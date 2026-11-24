@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "价值大幅下跌或已无法合理估值的金融资产；危机中常成为处置与救助的核心对象。",
-  "overview": "（据 Wikipedia「Toxic asset」摘要归纳）A toxic asset is a financial asset that has significantly decreased in value and for which there is no longer a functioning market. These assets cannot be sold at a satisfactory price for the holder. Because assets are offset against liabilities and frequently leveraged, this decline in price may be quite dangerous to the holder. 具体定义边界与争议待核实。",
+  "overview": "有毒资产(toxic asset) 指**价值已大幅下跌、且不再存在有效市场**的金融资产。持有人无法以满意价格卖出。**为什么危险**：由于资产与负债相抵、且往往带有**杠杆**，这类资产的价格下跌对持有人**可能相当危险**——净值被侵蚀的速度远快于资产名义跌幅。**\"有毒\"的实质**：不是\"资产一文不值\"，而是**无法定价**。当市场停止交易、或模型失去可信度时，机构之间就无法判断对方的真实偿付能力，于是连正常的同业拆借也会冻结——这正是 2008 年 9 月的情形。**处置办法**：把有毒资产**剥离**到\"坏账银行\"（见 bad-bank），或以政府担保、价格保险的方式使其重新可交易；美国 TARP 最初的\"购买问题资产\"设想即属此类，但实际执行中更多转向了注资。",
   "timeline": [
     {
       "year": 2006,
@@ -52,7 +52,7 @@
     "w-zh-toxic-assets"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。",
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 375 字）。",
   "policy_response": [
     {
       "holder": "美国财政部（2009）",

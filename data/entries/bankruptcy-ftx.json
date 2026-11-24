@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "泡沫",
   "one_line": "2022年加密货币市场崩盘，FTX交易所破产为标志性事件。",
-  "overview": "The bankruptcy of FTX, a Bahamas-based cryptocurrency exchange, began in November 2022. The collapse of FTX, caused by a spike in customer withdrawals that exposed an $8 billion hole in FTX's accounts, served as the impetus for its bankruptcy. Prior to its collapse, FTX was the third-largest cryptocurrency exchange by volume and had over one million users.（据维基摘要；完整时间线/数据待核实补充。）",
+  "overview": "**FTX 破产(2022)**：总部位于巴哈马的加密货币交易所 FTX 于 **2022 年 11 月**进入破产程序。**直接起因**：客户提款的激增，暴露了 FTX 账目上**约 80 亿美元的资金缺口**，成为其破产的导火索。**崩盘前的地位**：FTX 曾是**按交易量计的第三大加密货币交易所**，拥有大量用户与高额估值，并被广泛视为行业内的\"合规派\"代表。**为什么值得记录**：这起事件具备传统金融危机的若干经典要素——**客户资产被挪用**、**关联方交易**、**治理失效**、以及**缺乏外部审计与托管隔离**；而它与传统银行危机的差别在于：**没有存款保险、没有最后贷款人、也没有适用的处置框架**，因此损失无法通过公共安全网分摊，只能由客户与债权人承担。**对监管的启示**：它把\"同样的经济活动、不同的监管边界\"这一监管套利问题暴露得极为清楚。",
   "timeline": [
     {
       "year": 2022,
@@ -116,5 +116,5 @@
     "terra-luna-2022"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AS】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AS】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。 【续作KF】overview 由英文摘要改写为中文（原 380 字）。"
 }

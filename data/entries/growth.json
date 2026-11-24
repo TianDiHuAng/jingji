@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "经济体所生产的商品与服务在数量与质量上的增加；通常以剔除通胀后的产出（实际GDP）增长率衡量。",
-  "overview": "（据 Wikipedia「Economic growth」摘要归纳）In economics, economic growth is an increase in the quantity and quality of the economic goods and services that a society produces. It can be measured as the increase in the inflation-adjusted output of an economy in a given year or over a period of time. It focuses on the economic activities of a country. 具体定义边界与学术争议待核实。",
+  "overview": "经济增长(economic growth) 指一个社会所生产的经济品与服务在**数量与质量上的增加**。通常以**经通胀调整后的产出**在某一年或某段时期的增量来衡量，关注的是一个国家的经济活动规模。**两个必须区分的口径**：**总量增长**（GDP 变大）与**人均增长**（每人平均产出变大）——若人口增长快于产出，总量上升而人均下降，生活水平实际在退步。**来源**：按增长核算，产出增长可分解为**资本积累**、**劳动投入**、**人力资本**与**全要素生产率**（见 total-factor-productivity）；长期看，只有生产率提升能持续推动人均增长。**与危机的关系是双向的**：危机压低增长（资产负债表衰退、信贷紧缩）；而高增长期若主要靠信贷与投资驱动，也会积累脆弱性——东亚危机前的\"奇迹\"经济体即为一例。",
   "timeline": [
     {
       "year": 1776,
@@ -93,7 +93,7 @@
     "w-zh-growth"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 358 字）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "索洛\"技术进步占80%、资本占20%\"是**历史估计**，依赖时期与测算方法，不同研究结果有差异；\"2013年60%消费支出用于1869年不存在的商品\"为示例性估计，口径未在来源中详述。跨国增长率比较还受购买力平价与统计能力影响。",
