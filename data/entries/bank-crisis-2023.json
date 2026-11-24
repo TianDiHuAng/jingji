@@ -7,45 +7,21 @@
   "period": "21世纪",
   "region": "全球",
   "crisis_type": "银行",
-  "one_line": "2023年银行危机：发生于21世纪、地区为全球的银行类案例（条目骨架，详细内容待补充）。",
-  "overview": "2023年银行危机 是一次发生于21世纪、地区为全球的银行类事件。以下结构为基于类型学框架的整理，关键事实的具体数值、年份与人物均已标注待核实，待逐条核对来源后补全。",
+  "one_line": "2023年美国地区银行危机：硅谷银行、签名银行、第一共和银行相继倒闭，未保险存款挤兑成为核心传导机制。",
+  "overview": "2023年银行危机是美联储快速加息背景下美国地区银行的流动性危机。三家银行在两个月内相继倒闭：硅谷银行(SVB，3月10日)、签名银行(Signature，3月12日)、第一共和银行(First Republic，5月1日)。共同的结构性弱点包括：存款高度集中且**未保险存款占比极高**（SVB约89%的存款超过FDIC保险上限）、资产端持有大量长久期证券而在利率上升中产生巨额未实现损失、以及数字化时代挤兑速度空前（SVB单日提款达420亿美元）。监管应对包括全额保护两家倒闭银行的未保险存款、设立银行定期融资计划(BTFP)与美联储流动性工具。SVB倒闭也被视为银行资产负债管理(ALM)与利率风险监管失灵的案例。具体处置细节待核实。",
   "timeline": [
     {
       "year": 2023,
-      "display": "2023年",
-      "event": "2023年银行危机 发生/起始（年份据条目标题；具体月份与事件待核实）",
-      "sources": [
-        "w-en-bank-run"
-      ]
-    },
-    {
-      "year": 2023,
-      "display": "2023年3月",
-      "event": "五天内三家中小型美国银行倒闭，引发全球银行股下跌与监管快速反应（据 Wikipedia 2023 US banking crisis）",
-      "sources": [
-        "w-en-2023-united-states-banking-crisis"
-      ]
-    },
-    {
-      "year": 2023,
       "display": "2023年3月10日",
-      "event": "硅谷银行(SVB)因出售国债组合遭遇大额亏损引发挤兑，被监管机构接管（同上）",
+      "event": "硅谷银行(SVB)被接管（单日挤兑420亿美元）",
       "sources": [
-        "w-en-2023-united-states-banking-crisis"
+        "w-en-collapse-of-svb"
       ]
     },
     {
       "year": 2023,
       "display": "2023年3月12日",
-      "event": "签名银行因系统性风险被监管机构关闭（同上）",
-      "sources": [
-        "w-en-2023-united-states-banking-crisis"
-      ]
-    },
-    {
-      "year": 2023,
-      "display": "2023年3月16日",
-      "event": "美联储贴现窗口向各银行放贷约1500亿美元（同上）",
+      "event": "签名银行(Signature Bank)被接管",
       "sources": [
         "w-en-2023-united-states-banking-crisis"
       ]
@@ -53,7 +29,7 @@
     {
       "year": 2023,
       "display": "2023年5月1日",
-      "event": "FDIC宣布第一共和银行被关闭并出售给摩根大通（同上）",
+      "event": "第一共和银行(First Republic)被接管",
       "sources": [
         "w-en-2023-united-states-banking-crisis"
       ]
@@ -132,5 +108,5 @@
     "cypriot-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-2023-united-states-banking-crisis替换兜底，待核实。 【轮次10深化】补入来源核实的timeline与数值，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。"
 }
