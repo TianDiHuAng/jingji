@@ -1,0 +1,72 @@
+{
+  "id": "london-econ-1933",
+  "title": "伦敦经济会议(1933)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "1933年6—7月66国在伦敦召开的经济会议，旨在协调抗击大萧条，但因汇率分歧失败。",
+  "overview": "1933年伦敦货币与经济会议（London Monetary and Economic Conference）是 **1933年6月12日至7月27日** 在伦敦地质博物馆举行的、**66个国家**代表参加的国际会议。其目的是就抗击大萧条的措施、复兴国际贸易与稳定（汇率）达成协议。会议最终失败，核心障碍是汇率与国内政策优先次序的分歧：美国当时正转向国内复兴与美元贬值，不愿承诺稳定汇率；而金集团国家与英国则希望恢复汇率稳定与贸易秩序。会议的失败标志着1930年代国际经济合作的一次重大挫折，此后各国转向双边与帝国特惠安排（如渥太华协定体系），全球经济进一步碎片化。该案例常被引为\"缺乏霸权或领导力时国际协调难以达成\"的典型。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1933,
+      "display": "1933年6月12日—7月27日",
+      "event": "66国伦敦经济会议召开，最终失败",
+      "sources": [
+        "w-en-london-economic-conference"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大萧条下各国亟需协调 → 66国召开伦敦会议",
+      "sources": [
+        "w-en-london-economic-conference"
+      ]
+    },
+    {
+      "step": "汇率稳定与国内复兴的政策优先次序冲突（美国不愿承诺汇率）→ 谈判破裂",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "step": "合作失败 → 转向双边与帝国特惠，全球经济碎片化",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "协调失败视角",
+      "view": "缺乏领导国与共同承诺使国际协调难以持续",
+      "basis": "据会议进程归纳",
+      "sources": [
+        "w-en-london-economic-conference"
+      ]
+    },
+    {
+      "holder": "国内优先视角",
+      "view": "各国在大萧条中优先稳定国内，外部承诺被牺牲",
+      "basis": "据政策取向归纳；因果待核实",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与1944年布雷顿森林会议形成鲜明对比：后者在美国主导、战争同盟背景下达成，而1933年缺乏领导力与共同框架。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伦敦经济会议(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条下各国亟需协调 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率稳定与国内复兴的政策</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>合作失败 → 转向双边与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-london-economic-conference",
+    "w-en-nixon-shock",
+    "w-en-smoot-hawley"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+}

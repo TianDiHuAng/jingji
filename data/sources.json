@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 654,
+  "count": 658,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7849,6 +7849,54 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-london-economic-conference",
+      "title": "London Economic Conference",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/London_Economic_Conference",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-nira-1933",
+      "title": "National Industrial Recovery Act of 1933",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/National_Industrial_Recovery_Act_of_1933",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-scissors-crisis",
+      "title": "Scissors Crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Scissors_Crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-smoot-hawley",
+      "title": "Smoot–Hawley Tariff Act",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
     }
   ]
 }

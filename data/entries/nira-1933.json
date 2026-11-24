@@ -1,0 +1,101 @@
+{
+  "id": "nira-1933",
+  "title": "全国工业复兴法(1933)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "制度",
+  "one_line": "1933年美国授权总统规范工业以\"公平工资与价格\"刺激复苏的法律，并设立公共工程管理局。",
+  "overview": "《1933年全国工业复兴法》(NIRA) 是美国第73届国会通过的劳动法与消费者法，授权总统**规范工业以设定\"公平工资与价格\"、从而刺激经济复苏**；同时设立全国公共工程计划——公共工程管理局(PWA)。其经济逻辑值得注意：当时把垄断与卡特尔的\"更高价格\"视为**必要**，因为 **1929—1933年的严重通缩已使价格下跌20%以上**——这与通常\"反垄断以降低价格\"的思路相反，反映了大萧条中\"再通胀\"的紧迫性。规模上，第二编第204条明确为公路、桥梁、道路、铁路交叉口等交通项目提供了 **4亿美元** 的资金。NIRA 于1935年被最高法院裁定违宪（具体案由待核实），其工业规范部分随之终止，但公共工程与部分劳工权利安排延续。具体条款待核实。",
+  "timeline": [
+    {
+      "year": 1933,
+      "display": "1933年",
+      "event": "NIRA 通过，设立PWA；第204条拨款4亿美元用于交通项目",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "year": 1935,
+      "display": "1935年",
+      "event": "最高法院裁定NIRA违宪（具体案由待核实）",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1929—1933年通缩使价格下跌20%以上 → 政策转向\"再通胀\"",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "step": "授权规范工业的工资与价格 + PWA公共工程（4亿美元交通项目）→ 直接创造需求",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "step": "被最高法院裁定违宪 → 工业规范终止，财政与劳工立法另寻路径",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "PWA交通项目拨款(第204条)",
+      "value": 400,
+      "unit": "百万美元（4亿）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：Title II, Section 204 explicitly provided $400 million for the construction of public highways, bridges, roads...；单一来源待核实。",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "label": "1929—1933年美国通缩幅度",
+      "value": -20,
+      "unit": "%（价格下跌20%以上）",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：the severe deflation of 1929–33 had depressed prices 20% and more；单一来源待核实。",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "再通胀视角",
+      "view": "在深度通缩下，抬高价格与工资有助于打破债务-通缩螺旋",
+      "basis": "据立法逻辑与通缩数据归纳",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "holder": "竞争视角",
+      "view": "允许卡特尔化损害效率与消费者利益",
+      "basis": "据反垄断传统归纳；效果争议大",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与 contemporaneous 的英国\"廉价货币\"+公共工程思路相比，NIRA 的独特之处是**允许甚至鼓励卡特尔化以抬价**，而非单纯扩大需求。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全国工业复兴法(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1929—1933年通缩</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>授权规范工业的工资与价格</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>被最高法院裁定违宪 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-nira-1933"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+}

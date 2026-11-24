@@ -1,0 +1,101 @@
+{
+  "id": "scissors-crisis-1923",
+  "title": "苏联剪刀差危机(1923)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "其他",
+  "one_line": "1923年苏联新经济政策时期工农业价格\"剪刀差\"急剧扩大，农民收入相对工业品价格暴跌。",
+  "overview": "剪刀差危机(Scissors Crisis) 是1923年苏联新经济政策(NEP)时期的一次经济事件：**工业品与农产品价格之间的\"剪刀差\"不断扩大**，如同张开的剪刀两刃。价格分化在 **1923年10月** 达到峰值（工业品价格相对农产品极高）。后果是农民出售农产品的实际回报骤降，出现\"谷物罢工\"——农民不愿按低价交售，进而威胁城市粮食供应与工业化的资金来源。政府随后通过压低工业品价格、整顿\"耐普曼\"流通环节与信贷措施缓解。类似情形在 **1916年** 也曾出现（例如黑麦价格上涨47%，而一双靴子上涨334%）。该术语后来被广泛用于描述任何时期工农业（或初级产品与制成品）相对价格的失衡。具体数据待核实。",
+  "timeline": [
+    {
+      "year": 1916,
+      "display": "1916年",
+      "event": "类似危机：黑麦涨47%、靴子涨334%",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    },
+    {
+      "year": 1923,
+      "display": "1923年10月",
+      "event": "\"剪刀差\"达峰值，工农业价格严重分化",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "工业恢复慢于农业 + 流通环节与定价扭曲 → 工业品相对农产品价格偏高",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    },
+    {
+      "step": "农民交售意愿下降（\"谷物罢工\"）→ 城市供应与工业化资金来源受威胁",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    },
+    {
+      "step": "政策压价与整顿流通 → 剪刀差收窄，但埋下后续政策争论",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "黑麦价格涨幅(1916)",
+      "value": 47,
+      "unit": "%",
+      "year": 1916,
+      "comparable_price": false,
+      "note": "原文：in 1916, when for example the price of rye rose by 47%；单一来源待核实。",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    },
+    {
+      "label": "靴子价格涨幅(1916)",
+      "value": 334,
+      "unit": "%（对比黑麦+47%）",
+      "year": 1916,
+      "comparable_price": false,
+      "note": "原文：whereas that of a pair of boots rose by 334%；单一来源待核实。",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "价格失衡视角",
+      "view": "剪刀差是计划/半计划体制下相对价格扭曲的典型表现",
+      "basis": "据1923年物价数据归纳",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    },
+    {
+      "holder": "工业化积累视角",
+      "view": "通过价格剪刀差为工业化积累资金，是一种隐性的资源转移",
+      "basis": "据苏联工业化融资讨论归纳；争议大",
+      "sources": [
+        "w-en-scissors-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与当代\"初级产品 vs 制成品\"贸易条件恶化（如 Prebisch-Singer 假说）机制相通，但苏联案例中价格并非完全由市场决定。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏联剪刀差危机(1923)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>工业恢复慢于农业 + 流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>农民交售意愿下降（\"谷物</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策压价与整顿流通 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-scissors-crisis"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+}

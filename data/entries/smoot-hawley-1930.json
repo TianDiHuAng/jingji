@@ -1,0 +1,132 @@
+{
+  "id": "smoot-hawley-1930",
+  "title": "斯姆特-霍利关税法(1930)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "1930年美国大幅提高进口关税的法案，引发贸易伙伴报复，被视为大萧条深化的重要因素。",
+  "overview": "《斯姆特-霍利关税法》(Smoot–Hawley Tariff Act) 是1930年美国通过的大幅提高进口关税的法案。其后果可从两组数据看出：**1932年应税关税税率峰值达 59.1%**，仅次于1830年的61.7%；但同期的**全部进口中有63%是免税的**（1933年），因此应税税率并不等于实际保护水平。贸易伙伴迅速报复：**1930年5月，美国最忠实的贸易伙伴加拿大队16种产品加征新关税，这些产品约占美国（对加出口）的30%**。关税战使国际贸易萎缩，常被视为\"以邻为壑\"政策的教科书案例（见 beggar-thy-neighbour）。学界对其因果权重仍有争论：关税确实加剧了贸易萎缩，但大萧条的深度主要源于货币与金融因素。具体税率结构与各国报复清单待核实。",
+  "timeline": [
+    {
+      "year": 1930,
+      "display": "1930年",
+      "event": "美国通过《斯姆特-霍利关税法》，大幅提高进口关税",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "year": 1930,
+      "display": "1930年5月",
+      "event": "加拿大对16种产品加征新关税（约占美国对加出口30%）",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "year": 1932,
+      "display": "1932年",
+      "event": "应税关税税率峰值59.1%（仅次于1830年61.7%）",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大萧条初期保护本国产业的政治压力 → 大幅提高关税",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "step": "贸易伙伴报复 → 各国关税轮番上升（应税税率峰值59.1%）",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "step": "国际贸易萎缩 → 加深全球性萧条（与货币金融因素叠加）",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "美国应税关税税率峰值(1932)",
+      "value": 59.1,
+      "unit": "%",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：The dutiable tariff rate peak of 1932 was 59.1%, second only to the 61.7% rate of 1830；单一来源待核实。",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "label": "1830年应税关税税率",
+      "value": 61.7,
+      "unit": "%（历史更高值）",
+      "year": 1830,
+      "comparable_price": false,
+      "note": "原文：second only to the 61.7% rate of 1830；单一来源待核实。",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "label": "免税进口占全部进口比重(1933)",
+      "value": 63,
+      "unit": "%",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：63% of all imports in 1933 were not taxed, which the dutiable tariff rate does not reflect；单一来源待核实。",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "label": "加拿大报复关税覆盖的美国出口比重",
+      "value": 30,
+      "unit": "%（16种产品，约）",
+      "year": 1930,
+      "comparable_price": false,
+      "note": "原文：Canada ... imposing new tariffs on 16 products which accounted altogether for approximately 30% of U[S exports]；单一来源待核实。",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "贸易战视角",
+      "view": "关税战通过贸易渠道放大并延长了萧条",
+      "basis": "据关税与贸易数据归纳；因果权重待核实",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
+    },
+    {
+      "holder": "货币优先视角",
+      "view": "大萧条主因是货币收缩与金本位，关税是加剧因素而非主因",
+      "basis": "据货币主义解释归纳",
+      "sources": [
+        "fed-great-depression"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与2018年以来的中美关税摩擦相比，1930年代的关税战发生在金本位与货币收缩的背景下，缺乏汇率与货币政策的缓冲；这与当代浮动汇率环境有本质差异。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>斯姆特-霍利关税法(1930)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条初期保护本国产业的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贸易伙伴报复 → 各国关</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>国际贸易萎缩 → 加深全</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-smoot-hawley",
+    "w-en-beggar-thy-neighbour"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+}
