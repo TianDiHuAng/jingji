@@ -61,8 +61,10 @@ def scan(path):
         return []
     lines = open(path, encoding='utf-8').read().splitlines()
     last = None
+    # 排除描述历史/错误的语境（如"曾停留在……""滞后……""此前"）
+    HIST = re.compile(r'(曾|此前|原先|滞后|仍停留|误记|修正|改为|不一致)')
     for i, line in enumerate(lines, 1):
-        if re.search(r'(现状|当前|状态[:：])', line):
+        if re.search(r'(现状|当前|状态[:：])', line) and not HIST.search(line):
             last = (i, line)
     if not last:
         return []
