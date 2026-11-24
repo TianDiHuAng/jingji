@@ -2494,6 +2494,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
       "spot_check": "新增 find_val.py 全字段同款搜索工具；补 panic-1837 policy（政策 149→150）",
       "note": "维基第130轮可用。OM：把\"全字段搜同款\"教训沉淀为工具 find_val.py，并用它辅助补 1 条 policy_response。\n①**新增 `tools/find_val.py`**：改任何数字前后，一键在 overview/one_line/comparison/policy_response[].view/key_data(label/value/note)/timeline/schools/causal_chain **所有字段**列出该值全部出现位置，避免\"只改一处、漏改他处\"（round 148 finnish 的 20%、round 149 sterling 的 1.60 都是此坑复发）。\n②**用它验证**：`find_val \"1.60\"`（sterling）与 `\"近20%\"`（finnish）均 **0 命中**（确已全字段改净）；`\"47.5%\"` 得 8 处，均在 bail-in/bailout/cypriot-2013，且 cypriot-2013 源确有该值——**合法交叉引用，一致**。\n③**补 1 条 policy_response**：`panic-1837`——据 w-en-panic-of-1837 缓存补\"杰克逊否决第二合众国银行续照、1836 铸币流通令；范布伦拒绝政府干预\"到正文并提炼。案例 policy_response 149 → **150**；check_polnum \"完全找不到\" = 0。\n④README 工具表补 find_val.py。\n⑤现状：641 条、来源 742、页面 655；案例政策 150 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
+    },
+    {
+      "round": "续作ON",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 5,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "补 3 条 policy_response（150→153）；find_val 抓到 nigeria 重复并去重",
+      "note": "维基第131轮可用。ON：继续据本地缓存补 policy_response，并用 find_val 抓到一处重复。\n①**补 3 条 policy_response**（事实取自各自已引来源缓存）：\nnigeria-debt（2006 年巴黎俱乐部：约 120 亿美元现金回购 + 约 180 亿美元减免，首个全额清偿巴黎俱乐部债务的非洲国家）、\nangola-oil-dependence（1987 自由化、1998 改革、2000 IMF 职员监督计划 SMP、世界银行协助私有化）、\nems（ERM 波动区间/ECU/德国马克为锚/Delors 计划三阶段）。案例 policy 150 → **153**。\n②**find_val 抓到重复**：追加 nigeria 政策段后发现 overview 本已含\"2006 年巴黎俱乐部 120 亿回购\"——`find_val \"120 亿美元\"` 显示两处重复。已删重复段、保留单一表述（180 亿减免仅留在 policy_response，源中有 $18bn 支撑），并把年份对齐为 2006。\n③check_polnum \"完全找不到\" = 0；十一道检查全绿。\n④现状：641 条、来源 742、页面 655；案例政策 153 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }
