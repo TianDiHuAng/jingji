@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 700,
+  "count": 702,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8367,6 +8367,30 @@
       "year": "2026",
       "url2": null,
       "link_ok": true
+    },
+    {
+      "id": "w-en-pigouvian-tax",
+      "title": "Pigouvian tax",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Pigouvian_tax",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-common-pool",
+      "title": "Common-pool resource",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Common-pool_resource",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
     }
   ]
 }

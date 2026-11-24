@@ -1,0 +1,49 @@
+{
+  "id": "common-pool",
+  "title": "公共池资源",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "规模大而难以排他、但一方的使用会减少他人可用量的资源。",
+  "overview": "公共池资源(CPR) 是一类**难以排他但具竞争性**的资源系统——如渔场、灌溉系统、地下水层、牧场。它与**公共品**的区别在于竞争性：一个人捕捞会减少他人可捕的量；与**私人品**的区别在于排他困难。传统分析（哈丁\"公地悲剧\"）认为此类资源必然被过度使用，但奥斯特罗姆的实证研究显示：**使用者社群可通过自定的规则实现可持续管理**，既不必然需要私有化，也不必然需要国家管制。金融稳定具有类似结构：金融机构对共同流动性与市场深度的依赖，使个体行为在压力下相互削弱。",
+  "timeline": [
+    {
+      "year": 1968,
+      "event": "哈丁发表\"公地悲剧\"，提出公共资源必然被过度使用的论断（据 Wikipedia Common-pool resource）"
+    },
+    {
+      "year": 1990,
+      "event": "奥斯特罗姆《公共事物的治理之道》以大量案例证明社群自治理可行（据 Wikipedia Common-pool resource）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "公地悲剧",
+      "view": "个体理性导致集体非理性：无人能排除他人使用，因此所有人竞相过度使用（据 Wikipedia Common-pool resource）",
+      "src": "w-en-common-pool"
+    },
+    {
+      "holder": "奥斯特罗姆的自主治理",
+      "view": "使用者社群可通过清晰边界、集体选择规则、分级制裁与冲突解决机制实现可持续管理；既非必然私有化，也非必然国有化（据 Wikipedia Common-pool resource）",
+      "src": "w-en-common-pool"
+    }
+  ],
+  "key_data": [],
+  "comparison": "与**公共品**的区别：公共品非竞争（一人消费不减他人），公共池资源具竞争性。与**公地悲剧**的关系：后者是对前者的一种（悲观的）理论预测，而非同义词。与金融的类比：市场流动性常被比作公共池资源——个体抛售会抽干共同的流动性池。",
+  "related": [
+    "coordination-games",
+    "externality",
+    "lender-of-last-resort",
+    "market-failure",
+    "prisoners-dilemma"
+  ],
+  "sources": [
+    "w-en-common-pool"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HH】维基全文可用后新建；内容据全文归纳，数值与学派归属待核实。"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "total": 624,
+  "total": 626,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -8113,6 +8113,32 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "制度"
+    },
+    {
+      "id": "pigouvian-tax",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "common-pool",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
     }
   ]
 }

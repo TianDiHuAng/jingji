@@ -1618,6 +1618,18 @@
       "check_result": "PASS; 十道检查全绿（来源 729→700）",
       "spot_check": "合并 29 组重复来源；第6次工具缺陷已记录",
       "note": "维基第57轮可用。HE-HF：**合并 29 组重复来源，并记录第 6 次工具缺陷**。①**发现来源库冗余**：729 条来源中有 **29 组指向同一 URL 却注册了两个 id**——如 `w-en-argentine-economic-crisis-1999-2002` 与 `w-en-argentine-economic-crisis`、`w-en-mississippi-company` 与 `w-en-john-law-company`、`w-en-eurozone-crisis` 与 `w-en-euro-area-crisis` 等。②第一版重定向脚本只处理 4 个字段，**漏掉 `causal_chain[].sources` 与 `timeline[].sources`**，导致 **54 处 R4 错误**。③**实测枚举出全部 7 个引用字段**：`.sources`／`.key_data[].sources`／`.policy_response[].sources`／`.schools[].sources`／`.schools[].src`／`.causal_chain[].sources`／`.timeline[].sources`。④改用**递归遍历 `remap_obj`** 改写任意深度的 `sources`／`src`，不再依赖手写字段列表；从 git 恢复后重做，最终 0 error。⑤来源库 **729 → 700** 条，重定向 28 个条目。⑥**第 6 次工具缺陷记入 BLOCKERS**——与第 5 次是同一错误的复发：**写脚本前应先枚举，而不是凭记忆**。当前：条目 624、来源 700（未引用 16）、页面 638、key_data 416、案例政策 146/205。十道检查全绿。"
+    },
+    {
+      "round": "续作HG-HI",
+      "date": "2026-11-24",
+      "new_entries": 2,
+      "upgraded": 2,
+      "reviewed": 12,
+      "fixed": 2,
+      "sources_total": 702,
+      "check_result": "PASS; 十道检查全绿（626 条、702 来源、640 页）",
+      "spot_check": "新建 2 概念；合并 2 组重复条目；来源 704→702",
+      "note": "维基第58轮可用。HG-HI：**新建 2 个概念条目，并发现/合并 2 组重复**。①先测 12 个 BACKLOG 待建概念的维基页面：9 个可抓全文，3 个重定向到通用页（`regulatory-arbitrage`→Arbitrage、`taper-tantrum`→QE、`sacrifice-ratio`／`term-premium`／`disclosure` 无页面）。②新建 **`pigouvian-tax`（庇古税）** 与 **`common-pool`（公共池资源）**，各含 overview／timeline（庇古1920·科斯1960／哈丁1968·奥斯特罗姆1990）／两派观点／对比辨析／关联条目，来源为各自专属维基页（34k／17k 字符）。③**发现 2 组重复**：已存在 `externality`（非 `externalities`）与 `value-at-risk`（非 `var`）——BACKLOG 清单（round 37 编制）已过时，未核对现状。已把新内容（timeline／更完整 overview／来源）并入已有条目后删除重复文件，并重定向相关引用。**这是\"未先检索自己的库\"的又一次复发。**④新建条目时 `schools` 直接赋值为元组导致渲染报错，已修正为 dict 格式（与 round 64 同类错误）。⑤来源库 704→**702**（合并 `w-en-var`→`w-en-value-at-risk`、`w-en-externalities`→`w-en-externality`）。现状：**626 条**（案例 205／概念 421）、来源 702、页面 640、key_data 416、comparison 563、案例政策 146/205。十道检查全绿。"
     }
   ]
 }
