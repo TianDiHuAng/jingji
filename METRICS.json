@@ -886,6 +886,18 @@
       "check_result": "PASS (572); check_links 586页 0 error",
       "spot_check": "related覆盖 133→165条；新增5概念（补related时发现的实际缺失）",
       "note": "CX为32条近期条目补语义related(回填7条,悬空0);过程中发现7个被引用的概念实际不存在,CY补建其中5条:房地产泡沫(real-estate bubble)/非正规经济/家族办公室(Archegos的制度前提)/养老基金(LDI危机的主体)/稳定化政策;currency-substitution与既有dollarization重复故跳过。related覆盖 133→165条。总572条,来源676,key_data 357。"
+    },
+    {
+      "round": "续作CZ-DA",
+      "date": "2026-11-24",
+      "new_entries": 5,
+      "upgraded": 41,
+      "reviewed": 46,
+      "fixed": 5,
+      "sources_total": 681,
+      "check_result": "PASS (577); check_links 591页 0 error",
+      "spot_check": "新增5条19世纪美国银行制度；41条related按危机序列重建",
+      "note": "CZ新增5条制度:第二合众国银行/自由银行时代/国民银行法(1863-64)/谢尔曼购银法(1890-07-14)/联邦储备法(1913-12-23,第63届国会),串起\"美国长期无央行→危机频发→1907恐慌→1913设美联储\"的制度线。DA重建41条related:19世纪15个恐慌前后相接+北欧危机群+拉美债务群+亚洲危机群+恶性通胀群+2008序列+2023序列,替换此前算法填充的弱关联。过程中又发现4个缺失概念:first-bank/indexation/interest-rate-risk/overend-gurney(待补)。总577条,来源681,related覆盖173条,key_data 357。"
     }
   ]
 }
