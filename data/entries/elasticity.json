@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**斜率**的区别在\"是否标准化\"：弹性是百分比变化之比（无量纲，可跨市场比较）；斜率是绝对变化之比（受单位影响）。经济学中弹性更重要，因为它直接对应**收益变化**（需求价格弹性决定降价是否增收）。在危机分析中，**马歇尔-勒纳条件**（进出口弹性之和>1）是贬值能否改善贸易收支的判据。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>弹性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格或收入变动 → 需求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以弹性系数衡量响应幅度</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>弹性差异决定税负归宿与政</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-elasticity",
@@ -62,5 +62,5 @@
     "marshall-lerner"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作ED】补写概念辨析。"
 }

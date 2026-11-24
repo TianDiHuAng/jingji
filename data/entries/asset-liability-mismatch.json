@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**期限转换**的关系是\"整体与一种\"：期限转换（短借长贷）是资产负债错配的**一种**（银行的核心功能与脆弱性）；错配还包括**币种错配**（借外币放本币，贬值即恶化负债，即\"原罪\"）与**利率错配**（浮动负债对固定资产）。三类错配的危机触发点不同：期限错配怕挤兑，币种错配怕贬值，利率错配怕加息。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资产负债错配（含货币错配）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>短借长贷或借外币/放本币</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>冲击（挤兑或贬值）→ 负</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以流动性比率与外汇敞口限</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-alm",
@@ -63,5 +63,5 @@
     "original-sin"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】 【续作EE】补写概念辨析。"
 }

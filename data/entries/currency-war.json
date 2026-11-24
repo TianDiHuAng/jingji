@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**竞争性贬值**的关系是\"过程与行动\"：货币战是各国竞相贬值、互相指责的**互动过程**；竞争性贬值是其中的**具体行动**。两者都是囚徒困境：单国贬值可短期受益，集体跟进则全体受损。与合作性贬值（如广场协议）的区别在于**是否有协调**：协调的贬值可以纠正失衡，无序的贬值只会制造不确定性。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币战（竞争性贬值）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>单国贬值改善贸易收支 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>伙伴跟进贬值 → 相对汇</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>协调（如三方协定）或浮动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-currency-war",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作ED】补写概念辨析。"
 }

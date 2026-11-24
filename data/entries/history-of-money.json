@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**银行史**的区别在\"交换媒介vs中介机构\"：货币史研究交换媒介的演化（商品货币→铸币→纸币→信用货币→数字货币）；银行史研究金融中介的演化。两者的交汇点是：银行创造的存款货币使货币供给不再只由铸币决定，而央行的出现是对银行危机的制度回应。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以物易物的局限 → 出现</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>商品货币 → 铸币 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信用与银行体系发展 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-history-of-money",
@@ -64,5 +64,5 @@
     "gold-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作ED】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**商品货币**的区别在\"内在价值\"：法币无内在价值、不可兑换为实物，其流通依赖**法律强制（法定清偿）与政府信用**；商品货币有价值支撑但供给受限。1971年尼克松冲击是这一转变的标志（美元与黄金脱钩）。法币的优点是**弹性**（可应对危机），风险是**通胀与信用崩塌**（恶性通胀时法币迅速失去职能）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法定货币（法币）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>脱离贵金属支撑 → 货币</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>发行纪律决定物价稳定</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>过度发行 → 通胀乃至恶</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-fiat-money",
@@ -63,5 +63,5 @@
     "seigniorage"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作ED】补写概念辨析。"
 }

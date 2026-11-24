@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**商品货币**的区别在\"内在价值\"：信用货币（银行券、存款、法币）的价值来自发行者信用与法律强制，本身无内在价值；商品货币有内在价值，但供给受实物约束。这一转变（19—20世纪）的收益是**弹性**（危机时可扩张），代价是**通胀风险**与对央行纪律的依赖。信用货币的极端脆弱性在恶性通胀中暴露：一旦信用崩塌，货币职能迅速丧失。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信用货币理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债权债务关系先于货币 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行信贷创造存款 → 货</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机中信用链条断裂 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-credit-money",
@@ -63,5 +63,5 @@
     "history-of-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作ED】补写概念辨析。"
 }

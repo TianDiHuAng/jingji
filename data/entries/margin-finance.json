@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**抵押融资**同义，其风险在\"杠杆与追保\"：以保证金交易（借入资金买证券）可以放大收益与损失；当价格下跌时，追加保证金要求会迫使投资者卖出，形成\"保证金螺旋\"（1929年股灾、Archegos 都是实例）。监管上，初始保证金要求（Reg T）与维持保证金是控制杠杆的工具，但衍生品使实际杠杆难以度量。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保证金交易：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借入资金购买证券 → 需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格下跌致保证金不足 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中平仓 → 放大价格下</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-margin-finance",
@@ -63,5 +63,5 @@
     "margin-call"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作ED】补写概念辨析。"
 }

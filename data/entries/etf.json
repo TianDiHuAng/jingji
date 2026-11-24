@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**共同基金**的区别在\"交易方式\"：ETF 在交易所**实时交易**（价格随市场波动、可做空、可日内买卖）；共同基金按**每日净值**申赎。这一结构使 ETF 更便宜、更灵活，但也带来新风险：当底层资产流动性差时，ETF 的交易价格可能严重偏离净值（2020年3月债券ETF折价），且做市商退出会使流动性瞬间消失。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>交易所交易基金(ETF)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>基金持有一篮子资产 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>投资者像股票一样买卖份额</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>套利机制使价格贴近净值（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-etf",
@@ -62,5 +62,5 @@
     "market-maker"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作ED】补写概念辨析。"
 }

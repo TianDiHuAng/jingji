@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**基础资产**的区别在\"价值派生\"：衍生品的价值**派生**自标的资产（利率、汇率、股价、商品、信用），因此可用于对冲或投机。与**证券**的区别在\"是否代表所有权或债权\"：股票债券代表实际索取权；衍生品只是合约。这一区别在危机中很关键：衍生品的**名义敞口**可远超基础资产规模（CDS名义额是债券存量的数倍），使风险敞口难以度量。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融衍生品：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方约定标的、未来行为、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>用于对冲风险或投机获利</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>杠杆与对手方风险在压力下</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-derivative",
@@ -64,5 +64,5 @@
     "option"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作ED】补写概念辨析。"
 }

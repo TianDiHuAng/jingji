@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**国债**的区别在\"发行主体与风险\"：市政债由州或地方政府发行（税基有限、无货币工具），国债由主权政府发行（可印钞、可重组）。这一差别使市政债的违约风险更接近**企业债**：纽约市1975、波多黎各2014都是地方政府无力偿债的案例，而它们既不能贬值货币、也不能像主权那样重组外债。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>市政债券与地方政府债务：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>税基萎缩 + 支出刚性 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>债务累积 + 评级下调 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>无货币工具、不能重组外债</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-municipal-bond",
@@ -75,5 +75,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作ED】补写概念辨析。"
 }

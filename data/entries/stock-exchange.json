@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**场外市场**的区别在\"集中与标准化\"：交易所是**集中撮合、标准化合约、公开报价**的市场；场外市场是**双边协商、定制化**的。交易所的优势是流动性、透明度与价格发现；场外的优势是灵活性（可定制）但承担对手方风险。2008年后的改革推动标准化衍生品转向中央清算，但大量定制合约仍在场外。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>证券交易所：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>证券需集中交易 → 形成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>提供流动性与价格发现</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>投机与杠杆交易 → 泡沫</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-stock-exchange",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作ED】补写概念辨析。"
 }

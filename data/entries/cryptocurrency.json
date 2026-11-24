@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**稳定币**的区别在波动性：加密货币价格剧烈波动、无内在价值锚（估值争议大）；稳定币设计目标是锚定法币（1币≈1美元）。与**CBDC**的区别在发行主体：前者私人发行、去中心化；后者央行发行、法定清偿。三者在监管上的处境完全不同：CBDC 是政策工具，稳定币是受监管的支付代币，加密货币多被视为高风险资产。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>加密货币：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>分布式账本记录交易 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>密码学保障交易安全与所有</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>价格波动剧烈、监管差异大</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-cryptocurrency",
@@ -63,5 +63,5 @@
     "fiat-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作ED】补写概念辨析。"
 }

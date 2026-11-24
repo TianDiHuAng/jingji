@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**优质贷款**的区别在\"借款人信用\"：次级贷款面向信用评分低、还款能力弱的借款人，利率更高、条件更严。其系统性风险不在\"次级\"本身，而在**证券化链条**：\"发起—分销\"使放贷者丧失审慎动机，评级机构依赖模型（历史违约率），投资者无法评估底层资产（柠檬市场）。这一组合使小额违约通过杠杆与衍生品放大为系统性危机。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>次级贷款：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>向低信用借款人放贷 → 高利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款经证券化打包出售 → 风</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>房价下跌/利率重设 → 违约</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-subprime-lending",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。 【续作ED】补写概念辨析。"
 }

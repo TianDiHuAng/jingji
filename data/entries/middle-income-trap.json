@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**贫困陷阱**的区别在\"收入水平\"：贫困陷阱（低收入）因储蓄不足、健康教育投入不足而无法起步；中等收入陷阱（中等收入）因劳动力成本上升后既竞争不过低收入国家（成本）、又比不过高收入国家（技术）而停滞。前者的处方是外部援助与基础能力；后者是产业升级、制度改革与人力资本。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中等收入陷阱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>低成本优势丧失、创新能力</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>无法与低收入经济体比成本</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>人均收入长期停滞于中等区</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-middle-income-trap",
@@ -62,5 +62,5 @@
     "lewis-turning-point"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作ED】补写概念辨析。"
 }

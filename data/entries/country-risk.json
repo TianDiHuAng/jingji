@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**主权风险**的区别在\"范围\"：主权风险特指政府违约（或不愿偿付）；国家风险涵盖在该国经营的全部风险（征收、汇兑限制、战争、法律变更、转移风险）。对投资者而言，国家风险是更宽的定价因素，而主权评级只是其中一个维度。混淆两者会导致低估非主权主体的实际风险（如外资企业的资产被征收）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国家风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政治或政策环境变化 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利润与资产价值受损</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>跨境投资者要求更高回报或</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-country-risk",
@@ -63,5 +63,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】 【续作ED】补写概念辨析。"
 }

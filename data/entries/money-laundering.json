@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本外逃**的区别在\"资金来源与合法性\"：洗钱是掩饰**非法所得**的来源（贩毒、腐败、诈骗），使其看似合法；资本外逃是转移**合法或非法**资产以规避本国风险。两者在危机中的联系是：资本管制越严，洗钱与地下汇兑渠道越活跃（见 black-market）；而反洗钱标准（FATF）的强化又会通过\"去风险化\"收缩代理行关系，影响新兴市场的正常跨境支付。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>洗钱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>非法所得需掩饰来源 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>管制与多重汇率 → 地下</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反洗钱标准强化 → 代理</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-money-laundering",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作ED】补写概念辨析。"
 }

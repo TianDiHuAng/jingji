@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**信贷紧缩**的区别在\"常态与非常态\"：信贷配给是**信息不对称下的常态均衡**——银行宁可限量也不提价，因为提价会把低风险借款人挤出（逆向选择）；信贷紧缩是**危机中的急刹车**——银行因资本受损、不确定性骤增而全面收缩。前者难以用货币政策解决，后者需要资本注入与信贷便利。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>信贷配给：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信息不对称 → 提高利率</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>贷款方宁愿配给信贷而非提</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信贷可得性下降 → 投资</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-credit-rationing",
@@ -63,5 +63,5 @@
     "lemons-market"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作ED】补写概念辨析。"
 }

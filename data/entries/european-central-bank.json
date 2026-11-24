@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**美联储**的区别在\"授权与结构\"：ECB 的首要目标是**物价稳定**（单一目标），由12国央行行长组成的理事会决策；美联储有**双重使命**（物价稳定与最大就业），由理事会与地区储备银行分权。这一区别在危机中体现为不同的行动速度与边界：ECB 在欧债危机中受\"禁止货币融资\"条款约束，行动更慢但最终推出OMT（\"不惜一切代价\"）；美联储可更快、更直接地干预（如购买商业票据）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲中央银行(ECB)：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>统一货币 + 分散财政 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>危机中主权利差飙升 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>介入引发\"货币融资\"与\"</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-european-central-bank",
@@ -75,5 +75,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作ED】补写概念辨析。"
 }

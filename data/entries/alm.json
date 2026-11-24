@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资产负债错配**同义（ALM = 资产负债管理），但侧重\"管理\"而非\"风险\"：ALM 是机构**主动管理**资产与负债的期限、利率与币种结构的过程（银行的司库职能）；资产负债错配是**风险状态**（管理不当的结果）。这一区分在2023年很重要：硅谷银行并非不懂ALM，而是**未对利率风险做对冲**（持有至到期账户规避了账面波动，却积累了实际久期风险）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资产负债管理(ALM)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产与负债的期限/利率特</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以久期匹配、衍生品对冲等</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>管理失效 → 利率或流动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-alm",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EE】补写概念辨析。"
 }

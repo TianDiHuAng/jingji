@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**债务可持续性**的区别在\"事前与事后\"：财政空间是**事前**判断（还有多少余地可扩张而不引发市场压力）；债务可持续性是**事后**评估（当前债务路径能否维持）。两者都依赖市场信心这一主观变量——同一债务水平在不同国家/时点的空间差异巨大，这使得\"财政空间\"难以精确定义（也是争议焦点）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>财政空间：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务水平与利息负担 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财政空间充足 → 危机时</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>空间耗尽 → 被迫紧缩、</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-fiscal-space",
@@ -63,5 +63,5 @@
     "government-debt"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作ED】补写概念辨析。"
 }

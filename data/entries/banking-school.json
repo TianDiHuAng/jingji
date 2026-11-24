@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**通货学派**的对立在\"货币发行是否应受规则约束\"：通货学派主张银行券发行须有**十足黄金准备**、与金本位自动调节（1844年英国银行法即其体现）；银行学派主张发行应随**贸易需要**灵活调整，只要银行券可兑付就不必限制。这场19世纪争论的现代回声是：\"货币规则 vs 相机抉择\"、以及\"100%准备金 vs 部分准备金\"。1844年法案在1847、1857、1866年危机中被迫多次暂停，实践上支持了银行学派的灵活性主张。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行学派危机理论：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>19世纪英国关于银行券发</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行学派主张按\"真实票据</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与通货学派对立，影响后世</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -71,5 +71,5 @@
     "coordination-games"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-currency-school，具体适用待核实。 【续作】升L2。 【续作CA】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次4补源】新增来源 w-en-currency-school，具体适用待核实。 【续作】升L2。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作EE】补写概念辨析。"
 }

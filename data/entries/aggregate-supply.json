@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**总需求**共同决定价格与产出，但移动它的因素不同：总供给移动源于**成本与产能**（油价、工资、技术进步、供给中断），总需求移动源于**支出意愿**（消费、投资、财政、货币）。这一区分决定危机诊断：需求冲击造成\"衰退+低通胀\"（可扩张政策应对）；供给冲击造成\"滞胀\"（通胀与失业同时上升，需求政策两难）。1970年代与2021—22年的能源冲击都是后者的实例。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>总供给：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>企业依据成本与价格 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>在各价格水平下形成总供给</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与总需求相交决定均衡产出</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-aggregate-supply",
@@ -63,5 +63,5 @@
     "stagflation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作EE】补写概念辨析。"
 }

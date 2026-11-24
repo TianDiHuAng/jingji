@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**CPI**的区别在\"上游与下游\"：商品价格指数反映原材料与大宗商品（能源、金属、农产品）的价格，波动大、是**上游**压力；CPI 反映消费端，含服务与租金，波动小。两者的关系是**传导**（商品→PPI→CPI），但传导速度与幅度取决于企业定价能力与需求强弱。在危机中，商品价格骤变可区分供给冲击与需求衰退。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>商品价格指数与商品周期：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>全球需求与供给冲击 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资源出口国财政与汇率随商</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>价格下行 → 外汇与财政</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-commodity-price-index",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作ED】补写概念辨析。"
 }

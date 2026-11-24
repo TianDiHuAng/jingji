@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**对冲基金**的区别在\"服务对象与监管\"：家族办公室为**单一家族**管理财富（自有资金），在多数辖区享有更宽松的注册、披露与资本要求；对冲基金对外募资、受投资者适当性与披露约束。这一差别在Archegos(2021) 中暴露：家族办公室可通过TRS在多家银行同时建立巨额集中敞口，而每家银行只见局部、无人掌握整体杠杆。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>家族办公室：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>单一家族服务 + 门槛较</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以衍生品建立跨行敞口 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>标的价格不利变动 → 集</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-family-office",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】 【续作ED】补写概念辨析。"
 }

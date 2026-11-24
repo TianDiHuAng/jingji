@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "需与**银行危机/货币危机/债务危机**区分：金融危机是**总称**，指金融体系功能严重受损的事件；具体形态包括银行危机（挤兑与倒闭）、货币危机（汇率崩溃）、债务危机（违约）、以及市场崩盘（股灾）。同一事件常同时包含多种形态（\"双危机\"、\"三重危机\"）。这一区分对政策重要：不同形态需要不同工具（流动性、汇率、重组、资本注入）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融危机（总论）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产价格或机构偿付能力恶</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>恐慌性抛售与信心崩塌 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>波及实体经济活动 → 演</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作ED】补写概念辨析。"
 }

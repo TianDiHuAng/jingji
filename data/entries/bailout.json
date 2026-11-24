@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**bail-in**的区别在\"谁出钱\"：bailout 由**纳税人**出资（政府注资、担保、购买不良资产）；bail-in 由**股东与债权人**承担（减记或转股）。2008年主流是 bailout（TARP、AIG救助）；2013年塞浦路斯是 bail-in 的首次大规模实践（超10万欧元存款征47.5%）。危机后的处置框架（BRRD、TLAC）确立了\"先内部后公共\"的顺序，目的是打破\"太大而不能倒\"与纳税人兜底。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>救助与减记（bailout / bail：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构或国家面临破产 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>bailout 由纳税人</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>处置框架选择影响道德风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bailout",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作EE】补写概念辨析。"
 }

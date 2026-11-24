@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**欧洲央行**的区别在\"使命与结构\"：美联储有**双重使命**（物价稳定+最大就业），分权为12家地区储备银行+理事会；ECB 以**物价稳定**为首要目标，由各国央行行长共同决策。这一结构差异影响了危机应对的灵活性与政治约束：美联储可较快扩张工具（如2020年的各类便利），ECB 则需在\"禁止货币融资\"的法律边界内操作（OMT、PEPP）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国联邦储备系统(美联储)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国会授权设立 → 央行体系与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以货币政策调节利率与货币供给</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>危机中行使最后贷款人/流动性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-federal-reserve",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作ED】补写概念辨析。"
 }

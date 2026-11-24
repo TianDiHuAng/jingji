@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**PPI**的区别在\"零售与出厂\"：CPI 衡量消费者购买的一篮子商品与服务的价格（含服务、租金，权重按消费结构）；PPI 衡量生产者出厂价格（更贴近商品与工业品）。CPI 是**政策目标**（通胀目标制的标的），PPI 是**领先指标**。两者的背离（PPI涨而CPI温和）说明企业吸收了成本或需求疲弱，对判断通胀是否扩散很关键。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>消费者价格指数(CPI)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>选定消费篮子并定期采集价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>与基期比较得出价格指数变</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于衡量通胀、指数化与政</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-cpi",
@@ -63,5 +63,5 @@
     "ppi"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作ED】补写概念辨析。"
 }
