@@ -1,0 +1,89 @@
+{
+  "id": "gold-bloc",
+  "title": "金集团(1930s)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "货币",
+  "one_line": "大萧条期间以法国为首、坚持金本位的七个国家（法、比、卢、荷、意、波、瑞士）。",
+  "overview": "金集团是在大萧条期间坚持金本位货币政策、而其他许多国家已放弃金本位的七个国家，以法国为首。除法国外，金集团还包括比利时、卢森堡、荷兰、意大利、波兰与瑞士。坚持金本位使这些国家丧失货币政策空间、承受通缩与竞争力损失，最终相继放弃。具体过程待核实。",
+  "timeline": [
+    {
+      "year": 1931,
+      "display": "1930年代",
+      "event": "法、比、卢、荷、意、波、瑞士组成金集团，坚持金本位（据 Wikipedia Gold bloc）",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    },
+    {
+      "year": 1936,
+      "display": "1936年前后",
+      "event": "金集团成员国相继放弃金本位（同上；具体时间待核实）",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "坚持金本位 → 货币供给受黄金约束、无法扩张",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    },
+    {
+      "step": "通缩与竞争力下降 → 产出与就业恶化",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    },
+    {
+      "step": "最终被迫贬值/放弃金本位 → 集团瓦解",
+      "sources": [
+        "w-en-european-banking-1931"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "金本位约束视角",
+      "view": "坚持金本位延长了通缩与萧条",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    },
+    {
+      "holder": "退出视角",
+      "view": "及早退出金本位的国家复苏更快",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    }
+  ],
+  "comparison": "与英国1931年退出金本位（较早复苏）形成对照；金集团案例常被引为\"金本位束缚\"的典型证据。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金集团(1930s)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>坚持金本位 → 货币供给</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通缩与竞争力下降 → 产</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>最终被迫贬值/放弃金本位</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-gold-standard",
+    "w-en-gold-bloc",
+    "w-en-european-banking-1931"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sterling-area",
+  "title": "英镑区",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "采用英镑、或将本币钉住英镑的一组国家。",
+  "overview": "英镑区是一组采用英镑、或将本币钉住英镑的国家。它以英镑作为储备与结算货币，是英国在帝国特惠与英联邦框架下维持货币影响力的安排。英镑区随英国经济地位变化与资本管制演进而消长。具体成员与时期待核实。",
+  "timeline": [
+    {
+      "year": 1931,
+      "display": "1930年代起",
+      "event": "英镑区形成：一批国家采用或钉住英镑（据 Wikipedia Sterling area）",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "英国为重要贸易与金融伙伴 → 相关国家以英镑为储备与结算",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    },
+    {
+      "step": "钉住英镑 → 汇率稳定但货币政策受英国影响",
+      "sources": [
+        "w-en-exchange-rate-regime"
+      ]
+    },
+    {
+      "step": "英国地位下降与管制变化 → 英镑区逐步消解",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币集团视角",
+      "view": "英镑区扩大英国货币影响力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    },
+    {
+      "holder": "依附视角",
+      "view": "成员国的货币政策自主性受限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    }
+  ],
+  "comparison": "与法郎区、美元区等货币集团并列，反映1930年代世界货币的集团化。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>英镑区：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英国为重要贸易与金融伙伴</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>钉住英镑 → 汇率稳定但</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>英国地位下降与管制变化 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-sterling-area",
+    "w-en-exchange-rate-regime",
+    "w-en-gold-standard"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 504,
+  "total": 509,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -6553,6 +6553,71 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "制度"
+    },
+    {
+      "id": "tripartite-1936",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "gold-bloc",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "sterling-area",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "exchange-equalisation",
+      "level": "L2",
+      "tier": "补充",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "欧洲",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "gold-reserve-act-1934",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U3 20世纪上半",
+      "period": "20世纪上半",
+      "region": "北美",
+      "crisis_type": "货币"
     }
   ]
 }

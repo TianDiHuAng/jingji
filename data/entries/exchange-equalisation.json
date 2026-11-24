@@ -1,0 +1,81 @@
+{
+  "id": "exchange-equalisation",
+  "title": "外汇平准账户(EEA)",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "欧洲",
+  "crisis_type": "货币",
+  "one_line": "英国财政部的基金，持有SDR、外汇与黄金储备，用于干预外汇市场。",
+  "overview": "外汇平准账户（EEA）是英国财政部的一项基金。它持有英国在国际货币基金组织的特别提款权（SDR），以及外币与黄金储备。该账户设立的目的是提供资金（用于干预外汇市场）。EEA 是英国在不直接改变货币政策的情况下影响汇率的制度工具。具体运作待核实。",
+  "timeline": [
+    {
+      "year": 1932,
+      "display": "1930年代起",
+      "event": "英国设立外汇平准账户用于外汇市场干预（据 Wikipedia Exchange Equalisation Account；设立年份待核实）",
+      "sources": [
+        "w-en-exchange-equalisation"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "英国退出金本位后需管理汇率 → 设立平准账户",
+      "sources": [
+        "w-en-exchange-equalisation"
+      ]
+    },
+    {
+      "step": "以基金买卖外汇/黄金 → 影响汇率而不直接改变利率",
+      "sources": [
+        "w-en-fx-intervention"
+      ]
+    },
+    {
+      "step": "储备资产（SDR、外币、黄金）集中于该账户",
+      "sources": [
+        "w-en-foreign-exchange-reserves"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "干预视角",
+      "view": "平准账户使汇率管理可与货币政策分离",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-exchange-equalisation"
+      ]
+    },
+    {
+      "holder": "冲销视角",
+      "view": "干预的货币影响需通过冲销隔离",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-sterilization"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-exchange-equalisation"
+      ]
+    }
+  ],
+  "comparison": "与当代各国央行/财政部的汇率稳定基金同类；是\"冲销式干预\"制度化的重要先例。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>外汇平准账户(EEA)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英国退出金本位后需管理汇</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以基金买卖外汇/黄金 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>储备资产（SDR、外币、</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-exchange-equalisation",
+    "w-en-fx-intervention",
+    "w-en-foreign-exchange-reserves"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tripartite-1936",
+  "title": "三方货币协定(1936)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "1936年9月美、法、英三国达成的国际货币协定，旨在稳定各国货币的国内与国际汇市。",
+  "overview": "三方货币协定是美国、法国与英国于1936年9月达成的国际货币协定。该协定的目的是在大萧条与金本位瓦解之后，稳定这三个国家的货币在国内与国际外汇市场上的（价值）。它标志着主要国家从竞争性贬值转向有限度的货币合作。具体条款待核实。",
+  "timeline": [
+    {
+      "year": 1936,
+      "display": "1936年9月",
+      "event": "美、法、英签署三方货币协定，旨在稳定货币（据 Wikipedia Tripartite Agreement of 1936）",
+      "sources": [
+        "w-en-tripartite-1936"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "金本位瓦解后各国竞争性贬值 → 汇率动荡",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    },
+    {
+      "step": "1936年9月三方协定 → 承诺相互协商、避免竞相贬值",
+      "sources": [
+        "w-en-tripartite-1936"
+      ]
+    },
+    {
+      "step": "有限合作缓解汇率摩擦（但未恢复固定平价）",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "合作视角",
+      "view": "协定标志从以邻为壑转向有限协调",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-tripartite-1936"
+      ]
+    },
+    {
+      "holder": "局限视角",
+      "view": "无约束力的协商难以稳定预期",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-gold-bloc"
+      ]
+    }
+  ],
+  "comparison": "与1944年布雷顿森林体系相比，1936年协定只是无约束力的协商机制；但它是战时货币合作的先声。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>三方货币协定(1936)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>金本位瓦解后各国竞争性贬</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1936年9月三方协定 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>有限合作缓解汇率摩擦（但</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-gold-bloc",
+    "w-en-tripartite-1936",
+    "w-en-currency-war"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+}

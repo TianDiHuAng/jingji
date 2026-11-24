@@ -1,0 +1,81 @@
+{
+  "id": "gold-reserve-act-1934",
+  "title": "美国黄金储备法(1934)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "货币",
+  "one_line": "1934年1月30日美国法律，要求美联储持有的全部黄金与金券上缴财政部。",
+  "overview": "美国《1934年1月30日黄金储备法》要求美联储持有的全部黄金与金券上交，并归属美国财政部所有。该法同时禁止财政部与金融机构（从事某些黄金交易）。它是罗斯福政府在大萧条中重塑货币体系的关键立法，实质上将黄金集中于国家。具体条款待核实。",
+  "timeline": [
+    {
+      "year": 1934,
+      "display": "1934年1月30日",
+      "event": "美国《黄金储备法》生效，要求黄金与金券上缴财政部（据 Wikipedia Gold Reserve Act）",
+      "sources": [
+        "w-en-gold-reserve-act-1934"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "大萧条中金本位约束货币政策 → 需集中黄金以扩大货币弹性",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    },
+    {
+      "step": "1934年黄金储备法 → 黄金国有化、禁止私人持有",
+      "sources": [
+        "w-en-gold-reserve-act-1934"
+      ]
+    },
+    {
+      "step": "为货币扩张与美元贬值创造条件 → 支持复苏",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币自主视角",
+      "view": "集中黄金使货币政策摆脱金本位束缚",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gold-reserve-act-1934"
+      ]
+    },
+    {
+      "holder": "财产权视角",
+      "view": "强制上缴黄金引发产权与法治争议",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fiat-money"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-gold-standard"
+      ]
+    }
+  ],
+  "comparison": "与英国1931年退出金本位、金集团坚持金本位形成三条对照路径：退出、国有化、坚持。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国黄金储备法(1934)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大萧条中金本位约束货币政</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1934年黄金储备法 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>为货币扩张与美元贬值创造</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-gold-standard",
+    "w-en-gold-reserve-act-1934",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】"
+}
