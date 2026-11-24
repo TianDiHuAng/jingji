@@ -48,6 +48,14 @@
       "sources": [
         "w-en-creditanstalt"
       ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "大型综合性银行的失败可通过同业与跨境渠道迅速传染（该行1931年5月危机被视为欧洲银行危机的触发点之一）",
+      "basis": "据条目因果链与1931年欧洲银行危机相关来源归纳；具体因果强度待核实",
+      "sources": [
+        "w-en-great-depression"
+      ]
     }
   ],
   "policy_response": [
@@ -68,5 +76,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。"
 }

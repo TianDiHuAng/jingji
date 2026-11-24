@@ -92,6 +92,15 @@
       "sources": [
         "w-en-dawes-plan"
       ]
+    },
+    {
+      "holder": "国际资本循环视角",
+      "view": "道威斯计划依赖美国对德贷款来支付赔款、再由赔款偿付协约国对美债务，形成循环；该循环在1929年后资本断流时难以维持",
+      "basis": "据赔款与战时债务的通行叙述归纳；具体规模数据待核实",
+      "sources": [
+        "w-en-dawes-plan",
+        "w-en-great-depression"
+      ]
     }
   ],
   "policy_response": [
@@ -116,5 +125,5 @@
     "latin-american-debt-1975"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架升级L2：timeline/数值经维基原文实证，均单一来源待核实。"
+  "pending_notes": "L1骨架升级L2：timeline/数值经维基原文实证，均单一来源待核实。 【续作BM】补足第二方视角(schools≥2)。"
 }

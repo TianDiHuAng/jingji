@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 627,
+  "count": 630,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7525,6 +7525,42 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-bengal-bubble-1769",
+      "title": "Bengal Bubble of 1769",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Bengal_Bubble_of_1769",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-copper-panic-1789",
+      "title": "Copper Panic of 1789",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Copper_Panic_of_1789",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-arendal-crash-1886",
+      "title": "Arendal crash",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Arendal_crash",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
     }
   ]
 }
