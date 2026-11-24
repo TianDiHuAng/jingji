@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "经济学/金融概念条目，与其他概念互补；具体适用与争论待核实。",
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>救助与减记（bailout / bail：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构或国家面临破产 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>bailout 由纳税人</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>处置框架选择影响道德风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bailout",

@@ -100,16 +100,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施与效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-nigeria-econ"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与安哥拉、委内瑞拉等石油依赖型经济体结构相似：财政收入与产出结构错配放大油价冲击。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>尼日利亚债务与经济结构风险：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政收入高度依赖石油（约</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>石油仅占GDP约9% →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>外部冲击（2014–16</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

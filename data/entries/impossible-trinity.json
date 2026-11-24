@@ -49,17 +49,8 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对/制度设计及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-currency-crisis"
-      ]
-    }
-  ],
-  "comparison": "经济学/金融概念，与其他概念互补；具体争论待核实。",
+  "policy_response": [],
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>不可能三角（三难困境）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>固定汇率+资本自由流动+</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>须放弃其一(如牺牲汇率稳</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>制度选择影响货币危机风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-impossible-trinity",

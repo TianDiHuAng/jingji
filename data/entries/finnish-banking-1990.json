@@ -78,16 +78,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-finnish-banking-1990"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与同类案例共享机制，差异在时期地区；待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1990年代芬兰银行危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发</text><text x='29' y='96' class='sub'>背景</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导</text><text x='279' y='96' class='sub'>扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果</text><text x='529' y='96' class='sub'>结果/政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>非加速通胀失业率(NAIRU)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>失业低于 NAIRU →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通胀加速 → 央行需收紧</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（争议）NAIRU 水平</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-nairu",

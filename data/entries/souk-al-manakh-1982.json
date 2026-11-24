@@ -58,17 +58,8 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-speculative-bubble"
-      ]
-    }
-  ],
-  "comparison": "与同为「泡沫」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "policy_response": [],
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏克阿尔马纳克股市崩盘(1982)：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",

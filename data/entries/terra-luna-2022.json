@@ -89,16 +89,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-terra-luna-2022"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与稳定币脱锚、银行挤兑共享\"信心—赎回—抛售\"螺旋机制，但缺乏存款保险与最后贷款人。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Terra/LUNA 崩盘(2022)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>Terraform La</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

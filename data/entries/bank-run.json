@@ -89,17 +89,8 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-bank-run"
-      ]
-    }
-  ],
-  "comparison": "与同为「银行」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "policy_response": [],
+  "comparison": "",
   "svg": "",
   "sources": [
     "w-en-bank-run",

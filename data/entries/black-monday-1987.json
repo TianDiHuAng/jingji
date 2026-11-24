@@ -91,17 +91,8 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施及效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-black-monday-1987"
-      ]
-    }
-  ],
-  "comparison": "与同为「泡沫」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
+  "policy_response": [],
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1987年黑色星期一：机制+反馈示意（泡沫）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击来源</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>信贷/预期</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>崩盘/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-black-monday-1987",

@@ -119,16 +119,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施与效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-new-zealand-property-bubble"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与澳大利亚、加拿大等移民型经济体房价长期偏高相似；但新西兰的住房自有率下降与不平等恶化证据更完整。与日本1990年泡沫不同，新西兰房价未曾出现同等量级的崩跌。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新西兰房地产泡沫(1990s–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>长期低利率、移民流入与土</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信贷扩张推动房价远超收入</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财富与债务集中于房地产 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

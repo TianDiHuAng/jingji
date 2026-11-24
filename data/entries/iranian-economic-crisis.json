@@ -130,16 +130,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施与效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-iranian-economic-crisis"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与委内瑞拉、津巴布韦等恶性通胀相比，伊朗的通胀尚未进入\"月率>50%\"的极端区间，但持续时间长、制裁为外生约束，性质更接近\"长期高通胀+货币贬值\"。具体界定待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伊朗经济危机与高通胀(2018–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制裁压缩石油出口与外汇收</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>油气占预算60%的财政结</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>年通胀88.6%—200</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

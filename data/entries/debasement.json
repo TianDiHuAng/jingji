@@ -49,16 +49,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施见时间线；效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-debasement"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与法币超发机制相通，均以扩大名义货币量实现再分配；区别在于成色贬损受金属供给约束。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币成色贬损：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政压力 → 减少硬币贵</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>名义面值不变但内在价值下</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形成隐性征税（铸币税）与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

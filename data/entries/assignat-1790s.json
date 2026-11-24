@@ -116,16 +116,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施见时间线；效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-assignat"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与魏玛(1921–23)、匈牙利(1945–46)恶性通胀同属财政赤字货币化型；但指券以土地为名义担保，属早期纸币试验。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法国指券通胀(1789–1796)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>革命政府财政危机 + 没</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>持续超发（1789年40</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>指券丧失货币职能 → 恶</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [

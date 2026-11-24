@@ -78,17 +78,8 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "危机应对措施及其效果存在分歧；具体政策与评价待核实",
-      "basis": "政策评估需多来源印证",
-      "sources": [
-        "w-en-bank-run"
-      ]
-    }
-  ],
-  "comparison": "与同为「银行」类的其他案例共享相似传导机制，差异在于时期（18—19世纪）、地区（北美）与制度环境；具体异同待核实。",
+  "policy_response": [],
+  "comparison": "",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1893年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：银行；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",

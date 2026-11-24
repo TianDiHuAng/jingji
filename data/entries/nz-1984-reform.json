@@ -70,16 +70,7 @@
       ]
     }
   ],
-  "policy_response": [
-    {
-      "holder": "政策当局",
-      "view": "应对措施与效果待核实",
-      "basis": "需多来源印证",
-      "sources": [
-        "w-en-rogernomics"
-      ]
-    }
-  ],
+  "policy_response": [],
   "comparison": "与同期英国撒切尔、美国里根、智利芝加哥学派改革并列，属1980年代全球新自由主义转向的一部分。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>新西兰 Rogernomics 改革(1：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>高通胀、财政失衡与管制僵</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>放开管制、减税并引入 G</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>改革阵痛：失业上升与社会</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
