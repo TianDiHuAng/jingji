@@ -148,14 +148,51 @@ def page(title, body, depth=0):
 
 def esc(s): return html.escape(str(s or ''))
 
-def fix_svg(svg):
-    """给含 marker-end 但缺 defs 的 SVG 注入箭头 marker 定义（保证双模式可读）。"""
-    if not svg or 'id="arrowhead"' in svg or ("class='ar'" not in svg and 'class="ar"' not in svg):
+_SVG_SEQ = {'n': 0}   # 单页内 SVG 计数，用于生成唯一 marker id
+
+def fix_svg(svg, reset=False):
+    """为含箭头的 SVG 注入**唯一 id** 的 arrow marker，并把 marker-end 内联。
+
+    每个 SVG 独立定义自己的 marker（不跨 SVG 引用），确保兼容性；
+    同页多个 SVG 时 id 各不相同（HTML 要求 id 唯一）。
+    reset=True 表示新页开始，重置计数。
+    """
+    if reset:
+        _SVG_SEQ['n'] = 0
         return svg
-    defs = ('<defs><marker id="arrowhead" markerWidth="8" markerHeight="8" '
+    if not svg:
+        return svg
+    q1, q2 = "class='ar'", 'class="ar"'
+    if q1 not in svg and q2 not in svg:
+        return svg                      # 无箭头元素，无需处理
+    if 'id="arrowhead' in svg:
+        return svg                      # 已处理过
+    _SVG_SEQ['n'] += 1
+    mid = 'arrowhead%d' % _SVG_SEQ['n']
+    defs = ('<defs><marker id="%s" markerWidth="8" markerHeight="8" '
             'refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" '
-            'fill="var(--accent)"/></marker></defs>')
-    return svg.replace('<svg ', '<svg ', 1).replace('>', '>'+defs, 1)
+            'fill="var(--accent)"/></marker></defs>' % mid)
+    out = svg.replace('>', '>'+defs, 1)
+
+    # 为每个含 class='ar' / class="ar" 的元素加 marker-end；
+    # 若该元素已有 style 属性则合并（避免 duplicate attribute），否则新增。
+    def _add_marker(m):
+        tag = m.group(0)
+        if 'marker-end' in tag:
+            return tag
+        add = 'marker-end:url(#%s)' % mid
+        m_style = re.search(r"style=(['\"])(.*?)\1", tag, re.S)
+        if m_style:                      # 已有 style：把 marker-end 并进去
+            q = m_style.group(1)
+            val = m_style.group(2).strip().rstrip(';')
+            merged = (val + ';' + add) if val else add
+            return tag[:m_style.start()] + 'style=' + q + merged + q + tag[m_style.end():]
+        if tag.endswith('/>'):           # 自闭合：在 /> 之前插入
+            return tag[:-2].rstrip() + ' style="%s"/>' % add
+        return tag[:-1].rstrip() + ' style="%s">' % add
+
+    pat = re.compile(r"<[a-zA-Z][^>]*class=(?:'ar'|\"ar\")[^>]*>")
+    return pat.sub(_add_marker, out)
 
 def entry_card(e):
     lv = e.get('level','L1')
@@ -228,6 +265,7 @@ def src_link(sid):
 
 
 def render_entry(e):
+    fix_svg('', reset=True)   # 新页：重置 arrowhead 注入标志
     b = [f'<div class="entry"><h1>{esc(e.get("title",""))}</h1>',
          f'<p class="lead">{esc(e.get("one_line",""))}</p>',
          '<p><span class="tag">'+esc(e.get('crisis_type',''))+'</span>'
