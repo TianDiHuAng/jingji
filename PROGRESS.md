@@ -2372,6 +2372,12 @@
 - check_docs 再次成功报出 REPORT 的 key_data 计数需更新（453→458），同步 REPORT/HEALTH。
 - 现状：**641 条**、来源 **742**、页面 **655**；key_data **458** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
 
+- **维基百科第 142 轮可用（round 162）**。**为 creditanstalt 补 2 条 key_data（占银行业总资产 27% / GDP 16%），key_data 458 → 460**。
+- **网络**：仍 URLError。
+- **补 2 条 key_data**（据 `w-en-creditanstalt` 缓存，1931 年）：该行占奥地利银行业总资产 **27%**、相当于奥地利 GDP **16%**。key_data 458 → **460**；check_kd 强匹配 346 → **348**。
+- check_docs 报出 REPORT 的 key_data 计数需更新（458→460），已同步 REPORT/HEALTH。
+- 现状：**641 条**、来源 **742**、页面 **655**；key_data **460** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

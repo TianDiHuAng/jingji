@@ -2626,6 +2626,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
       "spot_check": "stock-downturn/venezuelan 补 5 条 key_data（453→458）；check_kd 强匹配 342→346",
       "note": "维基第141轮可用。OZ：继续为有缓存的案例补 key_data（stock-downturn-2002 / venezuelan-banking-2009），key_data 453→458。\n①**网络**：仍 URLError。\n②**补 5 条 key_data**（据各自专属缓存）：\n`stock-downturn-2002`：道指自 2001-01-01 高点跌 27%、市值损失约 5 万亿美元；\n`venezuelan-banking-2009`：2009 年 11—12 月接管 7 家银行、约占总存款 12%、至少逮捕 16 名银行家。\n③check_kd 强匹配 342 → **346**；key_data 453 → **458**（案例有数据 188/209）。\n④check_docs 再次成功报出 REPORT 的 key_data 计数需更新（453→458），同步 REPORT/HEALTH。\n⑤现状：641 条、来源 742、页面 655；key_data 458 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
+    },
+    {
+      "round": "续作PA",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 8,
+      "fixed": 0,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
+      "spot_check": "creditanstalt 补 2 条 key_data（458→460）；check_kd 强匹配 346→348",
+      "note": "维基第142轮可用。PA：为 creditanstalt 补 2 条 key_data（占银行业总资产27%/GDP16%），key_data 458→460。\n①**网络**：仍 URLError。\n②**补 2 条 key_data**（据 w-en-creditanstalt 缓存，1931 年）：该行占奥地利银行业总资产 **27%**、相当于奥地利 GDP **16%**。key_data 458 → **460**；check_kd 强匹配 346 → **348**。\n③check_docs 报出 REPORT 的 key_data 计数需更新（458→460），已同步 REPORT/HEALTH。\n④现状：641 条、来源 742、页面 655；key_data 460 行（案例有数据 189/209）；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
     }
   ]
 }

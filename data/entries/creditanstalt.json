@@ -52,7 +52,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "占奥地利银行业总资产比例(1931)",
+      "value": 27,
+      "unit": "%",
+      "year": 1931,
+      "comparable_price": false,
+      "note": "原文：it represented 27 percent of the Austrian banking sector's total assets；单一来源待核实。",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    },
+    {
+      "label": "相当于奥地利GDP比例(1931)",
+      "value": 16,
+      "unit": "%",
+      "year": 1931,
+      "comparable_price": false,
+      "note": "原文：a sum equivalent to 16 percent of the country's GDP；单一来源待核实。",
+      "sources": [
+        "w-en-creditanstalt"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "机构史视角",
@@ -94,5 +117,5 @@
     "gold-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。 【续作OK｜round148】原 overview 为 stub，据 w-en-creditanstalt 缓存改写并加 policy_response。 【续作OS｜round155】timeline 原仅 1855 创立，补 1931 危机/1934 合并。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。 【续作OK｜round148】原 overview 为 stub，据 w-en-creditanstalt 缓存改写并加 policy_response。 【续作OS｜round155】timeline 原仅 1855 创立，补 1931 危机/1934 合并。 【续作PA｜round162】据 w-en-creditanstalt 缓存补 key_data（占银行业总资产27%/GDP16%）。"
 }
