@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**专业化**是同一现象的两个层面：分工(division of labour) 强调**任务被拆分**给不同主体（斯密的制针工厂）；专业化(specialization) 强调**主体集中于特定领域**。分工的收益来自熟练度提升、转换成本降低与机械替代，但代价是**相互依赖**——链条越长，单点中断的传染性越强。这一代价在现代危机中反复显现：全球供应链中断（2020）、单一供应商风险（芯片）、以及金融链条中的分工（发起—分销）都源于分工带来的脆弱性。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>分工：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>任务分离 → 参与者专业</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>熟练度与效率提升 → 生</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>协调成本与相互依赖上升 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-division-of-labour",
@@ -62,5 +62,5 @@
     "invisible-hand"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DJ】补写概念辨析。"
 }

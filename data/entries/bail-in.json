@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**救助**(bailout) 是同一问题的两种融资方式：**bailout 由纳税人出资**（政府注资、担保、购买不良资产）；**bail-in 由股东与债权人出资**（减记或转股，包括超过保险限额的存款人）。关键在于**损失分配的顺序**：bail-in 要求先耗尽内部与次级债权，再动用公共资金，目的是打破\"太大而不能倒\"与纳税人兜底。塞浦路斯2013年是最著名的 bail-in 实践（超10万欧元存款被征47.5%），而2008年美国TARP与AIG救助是典型的 bailout。风险在于：若 bail-in 不可信或范围过宽，可能引发对其他机构债权人的传染性恐慌。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债权人减记(bail-in)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>机构无法持续经营且公共资</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股东与债权人（含超限额存</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>副作用：可能引发对其他银</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bailout",
@@ -72,5 +72,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CN】 【续作DJ】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本外逃**(capital-flight) 是\"管制与反应\"的关系：资本管制是**政策工具**（基于居留身份的交易税、限额、禁令）；资本外逃是**市场反应**（居民与非居民把资金转移到境外）。两者的互动是：管制越严，规避动机越强，外逃渠道越隐蔽（地下钱庄、虚假贸易、加密货币）；而外逃压力越大，管制也越可能加码。危机中的常见顺序是：资本外流 → 储备流失 → 加严管制 → 外逃渠道变形。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资本管制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>跨境资本流动剧烈波动 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以居留身份为基础的税收/</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>代价是扭曲与规避 → 需</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-capital-control",
@@ -63,5 +63,5 @@
     "impossible-trinity"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作CN】已用更完整的版本更新正文。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作CN】已用更完整的版本更新正文。 【续作DJ】补写概念辨析。"
 }

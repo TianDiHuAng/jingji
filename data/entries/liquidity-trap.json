@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**流动性风险**(liquidity-risk) 是完全不同的概念，只是字面相近：**流动性陷阱**是宏观状态——利率已降至下限、增发货币被窖藏而不进入支出，货币政策失效；**流动性风险**是微观风险——机构无法在需要时以合理价格变现资产。两者的联系在于：当流动性风险在体系中普遍化（如2008年回购市场冻结），可能把经济推入流动性陷阱式的境地。混淆它们会导致误判政策工具：前者靠财政政策，后者靠央行流动性便利。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>流动性陷阱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>利率降至很低水平 → 持</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>流动性偏好近乎绝对 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策失效 → 需财政</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-liquidity-trap",
@@ -63,5 +63,5 @@
     "secular-stagnation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作DJ】补写概念辨析。"
 }

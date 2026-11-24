@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**普通衰退**的区别在传导起点：普通衰退由需求或供给冲击触发，降息与财政扩张通常有效；资产负债表衰退由**资产泡沫破裂后的资不抵债**触发，企业与家庭的目标从\"利润最大化\"转为\"**负债最小化**\"——即便利率为零也不愿借款，反而持续偿债，使货币政策失效（日本1990年代是原型）。政策含义是：需要财政政策直接承接需求，同时清理银行不良资产，单靠降息无法奏效（见 liquidity-trap 的关联）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>资产负债表衰退：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资产价格下跌 → 私人部</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>企业与家庭集体转向偿债、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需求持续不足 → 即使利</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-balance-sheet-recession",
@@ -63,5 +63,5 @@
     "japan-asset-bubble-1990"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作DJ】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**绝对优势**的区别是李嘉图的核心贡献：绝对优势问\"谁生产更有效率\"；比较优势问\"谁的机会成本更低\"。即使一国在所有产品上都更有效率（绝对优势全占），只要机会成本结构不同，双方仍可通过分工贸易获益。这一逻辑是自由贸易的理论基石，但它的前提（要素可流动、调整成本可承受、贸易平衡）在现实中常被违反——这正是保护主义政治经济学的立足点。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>比较优势：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>各方机会成本不同 → 专</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>专业化与交换 → 总产出</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>构成自由贸易的理论基础</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-comparative-advantage",
@@ -63,5 +63,5 @@
     "mercantilism"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作DJ】补写概念辨析。"
 }

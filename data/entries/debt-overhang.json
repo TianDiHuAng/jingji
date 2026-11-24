@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**债务危机**(debt-crisis) 的差别在\"是否已违约\"：**债务积压**是一种**事前**状态——债务负担过重使债务人（企业、国家）放弃有利可图的投资，因为收益将归债权人所有（\"债务悬置\"效应），于是经济陷入低投资、低增长的僵局，但尚未违约；**债务危机**是**事后**事件——已经出现偿付困难、违约或重组。政策含义不同：债务积压可通过债务减免（haircut）恢复投资激励，债务危机则需要重组程序与外部融资。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债务积压：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>存量债务过重 → 新增融</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>潜在债权人担忧被稀释 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>投资不足 → 增长乏力、</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-debt-overhang",
@@ -62,5 +62,5 @@
     "debt-deflation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作DJ】补写概念辨析。"
 }

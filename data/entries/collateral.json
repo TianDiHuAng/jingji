@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**保证金**(margin) 的关系是\"抵押品与要求\"：抵押品是**资产本身**（可用以担保的证券、现金、房产）；保证金是**对抵押品比例的要求**（初始保证金、变动保证金）。危机中的关键机制是二者的**顺周期互动**：资产价格下跌 → 抵押品价值下降 → 需追加保证金 → 被迫卖出 → 价格进一步下跌。这一螺旋在Archegos（衍生品敞口）、英国LDI（利率互换抵押）、以及2008年回购市场中都出现过，是**同一机制在不同市场的重复**。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>抵押品：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>借款人质押财产 → 贷款</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>抵押品价值下跌 → 融资</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中抛售抵押品 → 价格</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-collateral",
@@ -62,5 +62,5 @@
     "procyclicality"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】 【续作DJ】补写概念辨析。"
 }

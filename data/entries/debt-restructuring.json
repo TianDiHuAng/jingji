@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**违约**(default) 的区别在\"是否达成协议\"：违约是**不履行**偿付义务（可能是单方面宣布）；重组是**与债权人协商修改条件**（延长期限、降低利率、减记本金），可以发生在违约之前（预防性）或之后（违约后重组）。因此重组是\"有序违约\"的一种形式。制度上的关键区别是：主权债缺乏强制执行机制，重组依赖集体行动条款(CACs)与巴黎俱乐部等协调机制；而企业债重组有破产法框架。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>债务重组：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务人现金流紧张 → 无</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>与债权人协商展期/减记/</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>避免清算、维持经营；债权</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-debt-restructuring",
@@ -63,5 +63,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作DJ】补写概念辨析。"
 }

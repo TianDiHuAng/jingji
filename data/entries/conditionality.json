@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**无条件的救助**相比，条件性是 IMF 等机构贷款的核心特征：贷款附带政策承诺（财政紧缩、汇率调整、结构性改革、金融部门整顿），目的是确保受援国有能力偿还并纠正失衡。支持者认为条件性提供**可信的承诺装置**——没有条件，改革动力不足、资金可能被浪费；批评者指出条件性常常**加重顺周期紧缩**（见 austerity、greek-debt-crisis），把调整成本集中于中下层，且条件清单常超出危机直接需要（\"过度附加\"）。2008年后的IMF已在反思条件性的范围与顺序，但核心框架未变。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>贷款条件性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>国际机构提供贷款 → 附</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>受援国须实施改革（财政、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>换取资金支持；政策自主性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-conditionality",
@@ -63,5 +63,5 @@
     "structural-adjustment"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作DJ】补写概念辨析。"
 }

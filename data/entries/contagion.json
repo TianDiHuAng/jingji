@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**共同冲击**(common shock) 的区别是因果结构：共同冲击指多个主体因**同一个外生因素**同时受损（如油价暴涨打击所有石油进口国）；传染(contagion) 指冲击从**一个主体传播到另一个**（通过债权关系、共同债权人去杠杆、或纯粹的市场情绪）。区分二者的意义在于政策：共同冲击需要针对冲击源，传染则需要隔离与流动性支持。实践中二者常同时存在——1997亚洲危机既有共同的结构脆弱性（钉住＋外债），也有真实的传染渠道。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融危机传染：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：理论；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -62,5 +62,5 @@
     "coordination-games"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次4补源】新增来源 w-en-financial-contagion，具体适用待核实。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作CH】因果链已定制。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次4补源】新增来源 w-en-financial-contagion，具体适用待核实。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作CH】因果链已定制。 【续作DJ】补写概念辨析。"
 }

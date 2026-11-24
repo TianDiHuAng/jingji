@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**道德风险**(moral-hazard) 常被混用，但时点与方向不同：**逆向选择发生在交易之前**——信息劣势方无法区分类型，只能按平均质量定价，结果把优质方挤出（\"柠檬市场\"，见 lemons-market）；**道德风险发生在交易之后**——一方因被保险或受保护而改变行为，增加风险。在金融中的对应：逆向选择解释\"为何信贷配给而非提价\"，道德风险解释\"为何存款保险与担保会诱发过度冒险\"。对策也不同：前者靠信息披露与信号（担保、评级），后者靠契约约束与资本要求。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>逆向选择：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信息不对称 → 高风险方</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>低风险方退出、整体风险上</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需筛选、强制参保或差别定</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-adverse-selection",
@@ -62,5 +62,5 @@
     "moral-hazard"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作DJ】补写概念辨析。"
 }

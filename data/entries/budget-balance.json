@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与\"**结构性平衡**\"的差别在是否剔除周期因素：名义预算平衡是收支的简单差额，衰退时因税收下降、支出上升而自动恶化；结构性平衡（周期调整后平衡）剔除经济周期的影响，衡量的是**政策立场**而非结果。这一区分在危机中至关重要：若以名义平衡为目标，衰退期被迫紧缩会加剧衰退（顺周期）；若以结构性平衡为目标，则允许赤字在衰退期自动扩大。欧盟财政规则的演化正是从名义向结构性口径的调整。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>政府预算平衡：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府收入与支出对比 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>赤字需通过借债融资 → </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>赤字规模受周期与自动稳定</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-budget-balance",
@@ -63,5 +63,5 @@
     "fiscal-space"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DJ】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币战**(currency-war) 的关系是\"手段与结果\"：beggar-thy-neighbour 是**任何以邻为壑的政策**（关税、进口配额、竞争性贬值、外汇管制）；货币战特指其中**以汇率贬值**为手段的那一类。因此货币战是 beggar-thy-neighbour 的子集。共同逻辑是囚徒困境：单边行动可获短期优势，集体跟进则全体受损——1930年代的斯姆特-霍利关税与金本位解体后的竞争性贬值是同一逻辑的两个表现。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>以邻为壑政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本国失业与国际收支压力 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>他国经济受损 → 报复与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>全球贸易萎缩 → 集体福</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-beggar-thy-neighbour",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】 【续作DJ】补写概念辨析。"
 }

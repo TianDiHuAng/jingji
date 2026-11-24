@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**凯恩斯主义**的分野在\"市场能否自我修复\"：古典经济学相信价格与工资的灵活调整会使市场自动出清，失业是暂时的摩擦（萨伊定律：供给创造自身需求）；凯恩斯主义指出**工资与价格存在刚性**、投资受动物精神驱动，因此需求不足可以持续存在，需要政府干预。这一分野直接决定了危机应对：古典立场倾向于\"让清算进行、平衡预算\"，凯恩斯立场倾向于\"赤字扩张、维持需求\"。1930年代与2010年代的政策转向，分别代表这两种立场占上风的时期。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>古典经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>分工与市场交换 → 提高</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格与\"看不见的手\" →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>边际分析与均衡 → 新古</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "bk-the-wealth-of-nations",
@@ -63,5 +63,5 @@
     "monetarism"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作DJ】补写概念辨析。"
 }

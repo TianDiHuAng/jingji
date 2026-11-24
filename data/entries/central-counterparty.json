@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**双边清算**(bilateral clearing) 的差别是风险敞口的网络结构：双边清算下，每家机构对其他每家都有敞口，形成一个**密集网状**的信用网络，任一节点倒闭会同时冲击多个对手方（Archegos 即利用这种结构在多家银行同时建立敞口）；中央对手方(CCP) 介入买卖双方之间成为\"每个人的对手方\"，把网状结构压成**星形**，从而净额化敞口、降低传染。代价是**风险集中**：CCP 本身成为系统性重要节点，其失败将波及全部成员。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中央对手方(CCP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>交易双方通过 CCP 清</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以多边净额与保证金管理风</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>成员违约时动用违约瀑布 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-central-counterparty",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】 【续作DJ】补写概念辨析。"
 }

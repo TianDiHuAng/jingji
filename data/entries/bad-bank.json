@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**银行处置**(bank-resolution) 的区别在对象与工具：**坏账银行**(bad bank) 是把不良资产剥离到独立载体（由公共或私人持有），使好银行得以继续经营——是一种**资产端**的处置工具；**银行处置**是更广的框架，包括接管、出售、过桥银行、bail-in 等，处理的是**整个机构**的存续问题。实践中二者常配合使用：先设立坏账银行剥离资产，再处置剩余机构。瑞典1990年代与爱尔兰2009年（NAMA）是坏账银行的典型。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>坏账银行：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行积累不良与高风险资产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>将问题资产剥离至专门载体</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>由坏账银行逐步处置，纳税</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-bad-bank",
@@ -61,5 +61,5 @@
     "securitization"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作DJ】补写概念辨析。"
 }
