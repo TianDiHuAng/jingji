@@ -58,6 +58,28 @@
       "sources": [
         "w-en-blue-monday-crash-2009"
       ]
+    },
+    {
+      "label": "RBS 2008财年亏损",
+      "value": 28,
+      "unit": "十亿英镑",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：News reports on RBS indicated a £28 billion loss for 2008；单一来源待核实。",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
+    },
+    {
+      "label": "英国政府持股RBS比例（危机后）",
+      "value": 70,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：the UK government pledged to increase its stake in the company to 70%；单一来源待核实。",
+      "sources": [
+        "w-en-blue-monday-crash-2009"
+      ]
     }
   ],
   "schools": [
@@ -83,7 +105,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2009蓝色星期一崩盘：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>苏格兰皇家银行(RBS)</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "w-en-blue-monday-crash-2009"
   ],
   "related": [
     "brexit-crash-2016",
@@ -96,5 +119,5 @@
     "wall-street-1929"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作K】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作GR】补上已注册但未引用的来源 w-en-blue-monday-crash-2009。"
 }

@@ -95,7 +95,8 @@
   "sources": [
     "w-en-debt-crisis",
     "w-en-financial-crisis",
-    "w-en-panic-of-1837"
+    "w-en-panic-of-1837",
+    "w-en-us-state-defaults-1840s"
   ],
   "related": [
     "baring-crisis-1890",
@@ -103,5 +104,5 @@
     "danish-bankruptcy-1813"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作H】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作H】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作FL】已补充专属史实来源（此前仅有通用概念页）。 【续作GR】补上已注册但未引用的来源 w-en-us-state-defaults-1840s。"
 }
