@@ -70,7 +70,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**私营部门联合存款**：2023年3月16日，包括摩根大通、美国银行、富国银行、花旗集团与 Truist Financial 在内的 **11 家美国银行**向 First Republic 存入 **300 亿美元**，以缓解挤兑担忧并支持存款提取；但该行股价仍继续下跌，3月19日标普再降三级至垃圾级。**监管处置**：2023年5月1日，加州金融保护与创新部关闭该行、联邦存款保险公司(FDIC)接管资产，摩根大通在竞拍中胜出并收购。该行在危机期间的季度财报显示客户提取存款达 **1045 亿美元**。",
+      "basis": "据 Wikipedia「First Republic Bank」Collapse 章节及导言；政策主体：11家大型银行（私营）/加州监管机构/FDIC；动作：联合存款、关闭接管、竞拍出售；效果评价待核实",
+      "sources": [
+        "w-en-first-republic",
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    }
+  ],
   "comparison": "与硅谷银行、签名银行同属2023年美国区域性银行危机。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>第一共和银行倒闭(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>第一共和银行倒闭（据 W</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -84,5 +94,5 @@
     "silicon-valley-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作DA】related已按危机序列/同组语义重建。 【续作FC】基于维基全文补写policy_response。"
 }

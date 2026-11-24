@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**2021年9月22日**，珠海市与深圳南山区政府将恒大相关物业的销售收入纳入**政府监管账户**，以保护购房者并推动项目建设；随着数百个项目停工，多省跟进。**2021年10月**有报道称中央政府计划推行**全国性房产税**以抑制投机，但据报党内存在广泛阻力。**2023年1月**，人民银行与银保监会允许房价连续三个月下跌的城市**下调或取消首套房贷款利率下限**；到 2023 年 2 月中已有 30 多个城市将房贷利率降至十余年最低，地方政府并提供购房补贴与放宽限购。**2024年3月**，住房和城乡建设部部长倪虹在发布会上表示，资不抵债的房地产开发企业应当破产。",
+      "basis": "据 Wikipedia 相关条目 Chinese government responses 与 Response 章节；政策主体：地方政府/中央部委/央行；动作：资金监管、房贷利率调整、破产表态；效果评价待核实",
+      "sources": [
+        "w-en-china-realestate-2020",
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
   "comparison": "与同为「债务」类的其他案例共享相似传导机制，差异在于时期（21世纪）、地区（亚洲）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>中国房地产危机(2020–)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：债务；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
@@ -107,5 +117,5 @@
     "pakistan-crisis-2021"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-real-estate-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-chinese-real-estate-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。 【续作DO】policy_response 由概述提炼。 【续作FA】基于维基全文补写policy_response。"
 }

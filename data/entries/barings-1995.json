@@ -78,7 +78,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "处置方（私营）",
+      "view": "**市场化处置（非政府救助）**：荷兰银行 ING 于 1995 年以**象征性的 1 英镑**收购巴林银行，并**承担其全部负债**，组建子公司 ING Barings。2001 年 ING 将美国业务以 2.75 亿美元售予 ABN Amro，其余并入欧洲银行部门；最终仅余资产管理业务（Baring Asset Management），2005 年被拆分出售给 MassMutual。该案成为\"以象征价格整体承债收购\"这一处置方式的参照。",
+      "basis": "据 Wikipedia「Barings Bank」Aftermath 章节；处置主体：ING（私营）；动作：1英镑收购并承担全部负债；效果评价待核实",
+      "sources": [
+        "w-en-barings-1995",
+        "w-en-derivative"
+      ]
+    }
+  ],
   "comparison": "与法兴银行(2008)交易员违规案类似，均属操作风险而非系统性金融危机。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴林银行倒闭(1995)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>巴林银行由 Franci</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -91,5 +101,5 @@
     "franklin-national-1974"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FA】基于维基全文补写policy_response。"
 }

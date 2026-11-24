@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**最后贷款人提供流动性但未能挽救**：1974年中该行披露巨额亏损后储户大量提款，该行不得不向**联邦储备银行借入超过 10 亿美元**；1974年10月8日，该行仍因管理不善与欺诈（外汇投机损失与不良贷款政策）被宣布**无偿付能力**。事后追究了刑事责任（1975年国际部前执行副主席对欺诈认罪）。该案常被作为\"美联储提供流动性支持但机构仍因资不抵债而倒闭\"的早期范例，与1984年大陆伊利诺伊的\"全面保护存款人\"形成对照。",
+      "basis": "据 Wikipedia「Franklin National Bank」Collapse 章节；政策主体：联邦储备银行；动作：提供超10亿美元贷款（最终仍宣告无偿付能力）；效果评价待核实",
+      "sources": [
+        "w-en-franklin-national",
+        "w-en-barings-1995"
+      ]
+    }
+  ],
   "comparison": "与巴林银行1995年倒闭（见 barings-1995）结构相似：单一交易员的未经授权交易摧毁一家老牌银行；但Franklin的特殊性在于**控制人本人的欺诈**而非下属违规。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Franklin National 银行：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>控股人辛多纳外汇投机巨亏</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1974年中期披露巨额亏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>向美联储借款超10亿美元</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -102,5 +112,5 @@
     "moral-hazard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。 【续作FC】基于维基全文补写policy_response。"
 }
