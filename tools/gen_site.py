@@ -356,16 +356,32 @@ open(os.path.join(SITE,'sources.html'),'w',encoding='utf-8').write(page('来源�
 matrix_html = open(os.path.join(ROOT,'COVERAGE_MATRIX.md'),encoding='utf-8').read()
 # 简易 Markdown 表格转 HTML
 mbody=['<h1>覆盖矩阵</h1>','<p class="lead">时期 × 地区 × 危机类型覆盖；空白格子已标注。</p>']
-for line in matrix_html.splitlines():
+_tbl = []          # 收集连续表格行
+def _flush():
+    if not _tbl:
+        return
+    rows = []
+    for i, cells in enumerate(_tbl):
+        tag = 'th' if i == 0 else 'td'
+        rows.append('<tr>' + ''.join(f'<{tag}>{esc(c)}</{tag}>' for c in cells) + '</tr>')
+    mbody.append('<table>' + ''.join(rows) + '</table>')
+    _tbl.clear()
+
+for line in matrix_html.replace('\r', '').splitlines():
     if line.startswith('#'):
+        _flush()
         mbody.append(f'<h2>{esc(line.lstrip("# "))}</h2>')
     elif line.startswith('|') and '---' not in line:
-        cells=[c.strip() for c in line.strip('|').split('|')]
-        mbody.append('<table><tr>'+''.join(f'<td>{esc(c)}</td>' for c in cells)+'</tr></table>')
+        _tbl.append([c.strip() for c in line.strip('|').split('|')])
     elif line.startswith('- '):
+        _flush()
         mbody.append(f'<p class="src-list">{esc(line[2:])}</p>')
-    elif line.strip() and not line.startswith('>'):
+    elif line.strip() and not line.startswith('>') and not re.fullmatch(r'[|\-: ]+', line.strip()):
+        _flush()
         mbody.append(f'<p>{esc(line)}</p>')
+    else:
+        _flush()
+_flush()
 open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖矩阵',''.join(mbody)))
 
 # ---------- 数据核实状态页 ----------
