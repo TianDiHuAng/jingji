@@ -56,7 +56,7 @@
       "comparable_price": false,
       "note": "原文：noncollectable debts of GH₵11 billion owed to Capital Bank and UT Bank；单一来源待核实。",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-ghana-banking-crisis"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "comparable_price": false,
       "note": "原文：The liquidity support of GH₵620 million, that was issued by the central bank of Ghana；单一来源待核实。",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-ghana-banking-crisis"
       ]
     }
   ],
@@ -115,5 +115,5 @@
     "zambian-kwacha-reform"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。 【续作FR】修正 key_data 来源：原误标为通用页 Financial_crisis，实际数据出自 Ghana_banking_crisis。"
 }
