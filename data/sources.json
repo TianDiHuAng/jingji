@@ -7991,7 +7991,8 @@
       "url": "https://en.wikipedia.org/wiki/Convergence_(economics)",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（899 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（899 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-dividend",
@@ -8002,7 +8003,8 @@
       "url": "https://en.wikipedia.org/wiki/Dividend",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（686 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（686 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-effective-demand",
@@ -8013,7 +8015,8 @@
       "url": "https://en.wikipedia.org/wiki/Effective_demand",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（588 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（588 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-equity-premium",
@@ -8024,7 +8027,8 @@
       "url": "https://en.wikipedia.org/wiki/Equity_premium_puzzle",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（553 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（553 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-eurodollar",
@@ -8035,7 +8039,8 @@
       "url": "https://en.wikipedia.org/wiki/Eurodollar",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（160 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（160 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-expectations",
@@ -8046,7 +8051,8 @@
       "url": "https://en.wikipedia.org/wiki/Expectation_(philosophy)",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（668 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（668 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-fractional-reserve",
@@ -8057,7 +8063,8 @@
       "url": "https://en.wikipedia.org/wiki/Fractional-reserve_banking",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（536 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（536 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-growth",
@@ -8068,7 +8075,8 @@
       "url": "https://en.wikipedia.org/wiki/Economic_growth",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（308 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（308 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-market-failure",
@@ -8079,7 +8087,8 @@
       "url": "https://en.wikipedia.org/wiki/Market_failure",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（608 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（608 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-modigliani-miller",
@@ -8090,7 +8099,8 @@
       "url": "https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（650 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（650 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-mutual-fund",
@@ -8101,7 +8111,8 @@
       "url": "https://en.wikipedia.org/wiki/Mutual_fund",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（364 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（364 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-nasdaq",
@@ -8112,7 +8123,8 @@
       "url": "https://en.wikipedia.org/wiki/Nasdaq",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（371 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（371 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-proprietary-trading",
@@ -8123,7 +8135,8 @@
       "url": "https://en.wikipedia.org/wiki/Proprietary_trading",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（192 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（192 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-rent-seeking",
@@ -8134,7 +8147,8 @@
       "url": "https://en.wikipedia.org/wiki/Rent-seeking",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（557 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（557 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-subordination",
@@ -8145,7 +8159,8 @@
       "url": "https://en.wikipedia.org/wiki/Subordination_(finance)",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（125 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（125 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-utility",
@@ -8156,7 +8171,8 @@
       "url": "https://en.wikipedia.org/wiki/Utility",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（663 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（663 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-toxic-assets",
@@ -8167,7 +8183,8 @@
       "url": "https://en.wikipedia.org/wiki/Toxic_asset",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（431 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（431 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-junk-bond",
@@ -8178,7 +8195,8 @@
       "url": "https://en.wikipedia.org/wiki/High-yield_debt",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（266 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（266 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-payment-system",
@@ -8189,7 +8207,8 @@
       "url": "https://en.wikipedia.org/wiki/Payment_system",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（502 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（502 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-prisoners-dilemma",
@@ -8200,7 +8219,8 @@
       "url": "https://en.wikipedia.org/wiki/Prisoner's_dilemma",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（938 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（938 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-property-rights",
@@ -8211,7 +8231,8 @@
       "url": "https://en.wikipedia.org/wiki/Property_rights_(economics)",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（325 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（325 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-transaction-cost",
@@ -8222,7 +8243,8 @@
       "url": "https://en.wikipedia.org/wiki/Transaction_cost",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（113 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（113 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-savings",
@@ -8233,7 +8255,8 @@
       "url": "https://en.wikipedia.org/wiki/Saving",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（206 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（206 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-investment",
@@ -8244,7 +8267,8 @@
       "url": "https://en.wikipedia.org/wiki/Investment",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（617 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（617 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-demand",
@@ -8255,7 +8279,8 @@
       "url": "https://en.wikipedia.org/wiki/Demand",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（290 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（290 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-population",
@@ -8266,7 +8291,8 @@
       "url": "https://en.wikipedia.org/wiki/Population",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（519 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（519 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-inequality",
@@ -8277,7 +8303,8 @@
       "url": "https://en.wikipedia.org/wiki/Economic_inequality",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（513 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（513 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-labour-market",
@@ -8288,7 +8315,8 @@
       "url": "https://en.wikipedia.org/wiki/Labour_economics",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（218 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（218 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-tax-incidence",
@@ -8299,7 +8327,8 @@
       "url": "https://en.wikipedia.org/wiki/Tax_incidence",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（572 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（572 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-buyback",
@@ -8310,7 +8339,8 @@
       "url": "https://en.wikipedia.org/wiki/Share_repurchase",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面返回摘要（581 字符）。"
+      "note": "REST summary API 核对：页面返回摘要（581 字符）。",
+      "link_ok": true
     },
     {
       "id": "w-en-fourth-anglo-dutch-war",
@@ -8321,7 +8351,8 @@
       "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面存在并返回摘要（299 字符）。第四次英荷战争"
+      "note": "REST summary API 核对：页面存在并返回摘要（299 字符）。第四次英荷战争",
+      "link_ok": true
     },
     {
       "id": "w-en-dutch-east-india-company",
@@ -8332,7 +8363,8 @@
       "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面存在并返回摘要（883 字符）。荷兰东印度公司"
+      "note": "REST summary API 核对：页面存在并返回摘要（883 字符）。荷兰东印度公司",
+      "link_ok": true
     },
     {
       "id": "w-en-economy-of-yemen",
@@ -8343,7 +8375,8 @@
       "url": "https://en.wikipedia.org/wiki/Economy_of_Yemen",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面存在并返回摘要（1302 字符）。也门经济"
+      "note": "REST summary API 核对：页面存在并返回摘要（1302 字符）。也门经济",
+      "link_ok": true
     },
     {
       "id": "w-en-yemeni-civil-war-2014-present",
@@ -8354,7 +8387,8 @@
       "url": "https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present)",
       "url2": null,
       "verified": true,
-      "note": "REST summary API 核对：页面存在并返回摘要（435 字符）。也门内战（2014—）"
+      "note": "REST summary API 核对：页面存在并返回摘要（435 字符）。也门内战（2014—）",
+      "link_ok": true
     },
     {
       "id": "owid-dataset",

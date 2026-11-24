@@ -249,6 +249,10 @@ def main():
         if _s.get('type') not in TYPE_VOCAB:
             err('R17', _s.get('id','?'), 'type "%s" 不在词汇表（%s）'
                 % (_s.get('type'), '/'.join(sorted(TYPE_VOCAB))))
+    # R18 来源 link_ok 不得为空
+    for _s in (src_data or {}).get('sources', []):
+        if _s.get('link_ok') is None:
+            err('R18', _s.get('id', '?'), 'link_ok 未设置（须为 true/false）')
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)
