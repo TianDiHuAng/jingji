@@ -133,6 +133,18 @@ def main():
         if cnt < 20:
             integrity.append(('PROGRESS.md', '轮次记录过少', '%d 条' % cnt))
 
+    # BACKLOG 的"概念缺口"表不得包含已经建成的条目（防依过时清单重复建，round 77 教训）
+    bp = os.path.join(ROOT, 'BACKLOG.md')
+    if os.path.exists(bp):
+        _bt = open(bp, encoding='utf-8').read()
+        _m = re.search(r'##\s*概念缺口.*?(?=\n##\s)', _bt, re.S)
+        if _m:
+            _ids = {json.load(open(f, encoding='utf-8'))['id']
+                    for f in glob.glob(os.path.join(ROOT, 'data', 'entries', '*.json'))}
+            for _cid in re.findall(r'`([a-z][a-z0-9\-]{2,})`', _m.group(0)):
+                if _cid in _ids:
+                    integrity.append(('BACKLOG.md', '把已建成条目列为缺口', _cid))
+
     print()
     if integrity:
         print('文档完整性检查未通过 %d 项：' % len(integrity))

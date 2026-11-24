@@ -1,109 +1,60 @@
-# BACKLOG.md — 待办队列（轮次26起点）
+# BACKLOG.md — 待办与缺口（round 144 重新校验）
 
-优先级：核心＞重要＞补充；复核/修复优先于新增；覆盖稀疏维度优先。
+> 原文件停在"轮次26起点"，其"待建概念/真实缺口"表长期未复核，导致多条**其实早已建成**的条目仍被列为缺口
+> （与 round 77 依过时清单重复建条目的教训同源）。本文件按当前实际状态重写。
 
-## 网络状态（关键）
-- 维基网络出口不可用：DNS污染(解析到Facebook IP) + 已知维基IP直连返回301 → 维基内容整体无法获取（已诊断，记BLOCKERS）
+## 当前状态
 
-## 饱和评估
-- 核心29全L3、重要59全L2（层级全达标）
-- **唯一已知未决缺口：2020新冠股灾** — 因网络出口阻塞无法核对来源，按"不编造"不硬凑
-- 其余所有权威大纲/读者问题/矩阵缺口均已覆盖；累计案例化33条L2
-- 结论：饱和受外部网络阻塞制约，非内容缺口
+- 条目 **641**（案例 209 / 概念 432）、来源 **742**、页面 **655**；十一道检查全绿、自测 24/24。
+- 层级：L2 607、L3 34（L1 为 0）。
 
-## 待执行（轮次26）
+## 网络状态（关键，仍未恢复）
 
-| 序 | id | 类型 | 优先级 | 依赖 |
-|---|---|---|---|---|
-| 1 | DEEPEN-SEMANTIC-7 | 深化 | P2 | 剩余有本地语料的通用模板L2（asian/black-monday已做，余少量）| 本地 |
-| 2 | QA-CONSISTENCY | 复核 | P2 | 全站数据一致性/口径抽查 | 本地 |
-| 3 | 抽检 | 质量闸 | P1 | 10% | — |
-| 4 | NEW-2020-crash | 新条目 | P1 | 2020崩盘 | 需网络恢复 |
+- 维基网络出口不可用：**DNS 污染 + 直连超时**（本会话多次重试均失败）→ 维基内容整体无法获取。
+- 影响：见"网络相关遗留"。**这是当前唯一的硬约束**。
 
-## 轮次25已完成（移出）
-- ✅ DEEPEN-SEMANTIC 第六批：6条案例化（asian-1997/black-monday-1987 两核心L3 + brexit-2016/panic-1825/south-america-2002/ghana-2017）
-- ✅ 网络出口诊断（DNS污染）→ 2020崩盘记BLOCKER不硬凑
-- ✅ 自检事实一致
+## 网络相关遗留（网络恢复后处理）
 
-## 结构性空白（非缺口）
-- 理论制度单元按类型归「制度/理论」；20世纪上半×货币（1931英镑危机无独立页）；反爬来源5条；3单源数值已跳过；预测性话题跳过
+1. **3 条案例缺专属维基全文**：`south-sea-bubble-1720`／`bear-stearns`／`bcci`——
+   概述仅据条目内已核事实与机制撰写，**具体细节待补**（已在各自 pending_notes 标注）。
+2. **5 条案例缓存为通用页**（专属来源全文未缓存）：`dutch-stock-crashes`／`panic-1896`／`panic-1910`／
+   `us-video-game-crash-1983`／`yemen-currency-divergence`——条目内容与引用正确，仅本地无法逐数核对。
+   **补抓方法**：用 Wikipedia API 按专属来源 title 抓 extract，覆盖写入 `_research/wiki_full/<id>.txt`，再跑 `check_kd` / `check_body_num`。
 
-## 质量注意
-- 案例化据原文不编造；L3有deep_svg；数值年份对照原文；来源id对照sources.json
-
-## 饱和进度
-- zero_gap_streak：0（2020崩盘外部阻塞未决）
-- saturated=false
-
-## 待建概念清单（round 78 重新校验）
-
-> **说明**：原清单编制于 round 37，长期未复核，导致 round 77 依它建了已存在的
-> `externalities`／`var`（站内实为 `externality`／`value-at-risk`）。
-> 下表已按**当前实际状态**重写，并给出每项的核实结论。
-
-### 已完成／已有覆盖（不必再建）
-
-| 概念 | 状态 |
-|---|---|
-| `externalities` | externality（已有，id 不同） |
-| `var` | value-at-risk（已有，id 不同） |
-| `common-pool` | 本轮新建 |
-| `pigouvian-tax` | 本轮新建 |
-| `actuarial` | 本轮新建 |
-| `bullion` | 本轮新建 |
-| `lloyds` | 本轮新建 |
-| `deindustrialization` | 本轮新建 |
-| `tax-capacity` | fiscal-capacity 已覆盖 |
-| `supervision` | bank-regulation／macroprudential 已覆盖 |
-| `government-bailout` | bailout 已覆盖 |
-
-### 真实缺口（按优先级）
+## 概念缺口（已核实，暂不建）
 
 | 概念 | 核实结论 |
 |---|---|
-| `bank-resolution` | 维基无独立页面（round 46 验证），相关机制见 bad-bank／bank-failure |
-| `sacrifice-ratio` | 维基无独立页面；相关内容见 phillips-curve／disinflation |
-| `term-premium` | 维基无独立页面；相关内容见 yield-curve／risk-premium |
-| `regulatory-arbitrage` | 维基重定向到 Arbitrage（通用页），不宜作专属来源 |
-| `taper-tantrum` | 维基重定向到 Quantitative easing（通用页） |
-| `disclosure` | 维基 Disclosure 仅 2.8k 字符、Transparency (market) 5.2k；价值中等，暂缓 |
-| `leading-indicator` | 可用 Economic indicator（9k 字符），待建 |
-| `self-insurance` | 缺；与 deposit-insurance 不等价 |
-| `risk-pooling` | 缺；与各类 risk 条目不等价 |
-| `secured-lending` | 缺；与 interbank-lending 不等价 |
-| `audit-failure` | 缺；与 bank-failure 不等价 |
-| `bank-holiday` | 缺；1933 年美国银行停业事件，维基 Bank holiday 页为英国公共假日（不可用） |
-| `rogue-trader` | 缺；可用 Rogue trader 相关页面（待测） |
-| `agriculture` | 缺；范围过宽，暂缓 |
-| `short-term-rate` | interest-rate 部分覆盖 |
+| `sacrifice-ratio` | 维基无专属页；相关内容见 phillips-curve／disinflation → **不单建** |
+| `term-premium` | 维基无专属页；相关内容见 yield-curve／risk-premium → **不单建** |
+| `regulatory-arbitrage` | 重定向到 Arbitrage（通用页），不宜作专属来源 → **不建** |
+| `audit-failure` | 无专属页（Audit failure 为空） → **不建** |
+| `disclosure` | Disclosure 页面价值中等、Transparency(market) 一般 → **暂缓** |
+| `rogue-trader` | Rogue trader 页过短（约 1.8k 字符）→ **暂缓** |
+| `short-term-rate` | interest-rate 已部分覆盖 → **不单建** |
+| `agriculture` | 范围过宽，非金融危机专属 → **不建** |
 
-**核实方法**：先查 `data/entries/` 的实际 id 与标题（不只比对清单），
-再测维基页面是否为**专属页**（通用页/重定向页不作专属来源）。
+> 上述多为"无专属来源/范围过宽"，属**来源可得性**限制，非内容未做。
 
-## 待办：R21 英文占比超标（33 条，round 110 记录）
+## 已建成（此前曾列为"待建概念"，现均已有条目）
 
-**已于 round 111 全部完成**——38 条英文正文均改写为中文，R21 归零。
-同时改进判据：先剥离括号内容、英文专名序列与缩写，再计算占比，避免误伤「中文含专名」的条目。
+`bank-resolution`、`taper-tantrum`、`leading-indicator`、`self-insurance`、`risk-pooling`、
+`secured-lending`、`bank-holiday`、`common-pool`、`pigouvian-tax`、`actuarial`、`bullion`、
+`lloyds`、`deindustrialization`。
 
-## 待办：R22 内容过短（335 条，round 112 记录）
+（`externalities`→实为 `externality`；`var`→实为 `value-at-risk`；`tax-capacity`→`fiscal-capacity`；
+`supervision`→`bank-regulation`/`macroprudential`；`government-bailout`→`bailout`——均已有覆盖。）
 
-**已于 round 126 全部完成**——R22 从 335 条归零，共历时 14 轮（112→126）。
+## 已完成的历史待办（留档）
 
-**扩写原则**：机制类核心概念补「机制 + 与危机的关联」；工具性概念（beta 等）简短即完整。案例类必须**先读来源全文**再写，只写来源中存在的事实。
+- **R21 英文占比超标**（round 110 记录 33 条）：round 111 全部改写为中文，归零。
+- **R22 内容过短**（round 112 记录 335 条）：round 113–126 共 14 轮全部扩写，归零。
+- **覆盖矩阵陈旧**：round 141 重生成 COVERAGE_MATRIX.md（592→641）。
+- **coverage.json 字段陈旧**：round 142 同步 6 处字段。
+- **REPORT.md 陈旧**：round 143 重写（原停在 round 25）。
 
-**遗留**：3 条案例（south-sea-bubble-1720／bear-stearns／bcci）扩写时无维基全文缓存（网络不可用），仅据条目内已核事实 + 机制说明撰写，**具体细节待补来源后核实**（已在各自 pending_notes 标注）。
+## 质量注意（长期有效）
 
-## 待办：补抓专属来源全文（5 条案例，round 133 记录）
-
-以下条目的本地 `_research/wiki_full/<id>.txt` 存的是其**通用来源**的文本（Currency crisis／Economic bubble／Bank run 等），
-**专属来源页的全文未缓存**，导致本地无法逐数/逐年核对。条目本身引用正确、内容经人工阅读准确。
-
-**网络恢复后需为下列条目补抓其专属来源全文（按 sources 中非通用的那一项）：**
-- `dutch-stock-crashes`（荷兰共和国股市崩盘(c.1600–1760)）：sources=['w-en-speculative-bubble', 'w-en-financial-crisis', 'w-en-financial-history-of-the-dutch-republic']
-- `panic-1896`（1896年美国金融恐慌）：sources=['w-en-currency-crisis', 'w-en-financial-crisis', 'w-en-panic-of-1896']
-- `panic-1910`（1910–1911年恐慌）：sources=['w-en-bank-run', 'w-en-financial-crisis', 'w-en-shanghai-rubber-1910', 'w-en-panic-of-1910']
-- `us-video-game-crash-1983`（1983年美国游戏业大萧条）：sources=['w-zh-us-video-game-crash-1983', 'w-en-speculative-bubble']
-- `yemen-currency-divergence`（也门货币分裂与里亚尔贬值(2015–)）：sources=['w-en-yemeni-rial', 'w-en-currency-crisis', 'w-en-economy-of-yemen', 'w-en-yemeni-civil-war-2014-present']
-
-**补抓方法**：用 Wikipedia API 按专属来源的 title 抓 extract，覆盖写入 `_research/wiki_full/<id>.txt`，
-然后跑 `check_kd.py` / `check_body_num.py` 复核。
+- 案例化据原文不编造；L3 应有 deep_svg；数值/年份对照原文；来源 id 对照 sources.json；
+  未核实数字不在任何位置（含免责声明）以事实陈述或复述。
+- 文档/派生产出物（REPORT／HEALTH_CHECK／COVERAGE_MATRIX／coverage.json）须随数据更新，已部分纳入自动检查。

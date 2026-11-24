@@ -310,6 +310,18 @@ def m_report_num():
 
 case('check_docs REPORT数字', m_report_num, ['tools/check_docs.py'], '不一致', [REPORT_MD])
 
+BACKLOG_MD = os.path.join(ROOT, 'BACKLOG.md')
+
+
+def m_backlog_dup():
+    t = open(BACKLOG_MD, encoding='utf-8').read()
+    # 把已建成条目塞进"概念缺口"表
+    t2 = t.replace('| `sacrifice-ratio` |', '| `bank-resolution` | 测试注入 |\n| `sacrifice-ratio` |', 1)
+    open(BACKLOG_MD, 'w', encoding='utf-8').write(t2)
+
+
+case('BACKLOG 缺口含已建条目', m_backlog_dup, ['tools/check_docs.py'], '把已建成条目列为缺口', [BACKLOG_MD])
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)

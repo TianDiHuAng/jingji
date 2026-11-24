@@ -2227,6 +2227,13 @@
 - **纳入自测**：`selftest.py` 新增「check_docs REPORT数字」用例，自测 23 → **24 项**；同步更新 HEALTH_CHECK。
 - 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 24/24。
 
+- **维基百科第 124 轮可用（round 144）**。**核查 BACKLOG.md，发现多条「真实缺口」其实早已建成**，已重写并加防回归检查。
+- **发现陈旧**：BACKLOG 停在「轮次26起点」，且其「真实缺口」表把 `bank-resolution`／`taper-tantrum`／`leading-indicator`／`self-insurance`／`risk-pooling`／`secured-lending`／`bank-holiday` 等**7 条其实早已建成**的条目仍列为「缺」——正是 **round 77 依过时清单重复建条目**的同源风险。
+- **核实与重写**：逐条核对 entries，**13 条「曾列待建」实已建成**；剩余未建（sacrifice-ratio／term-premium／regulatory-arbitrage／audit-failure／disclosure／rogue-trader／short-term-rate／agriculture）多为**无专属来源/范围过宽**，属来源可得性限制。BACKLOG 已按当前实际重写。
+- **加固 check_docs**：新增守卫——解析 BACKLOG「概念缺口」表，若其中出现**已建成的 id** 则判失败。注入测试（塞入 bank-resolution）确认能捕获。
+- **纳入自测**：新增「BACKLOG 缺口含已建条目」用例，自测 24 → **25 项**；同步更新 HEALTH_CHECK。
+- 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 25/25。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
