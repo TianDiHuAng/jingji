@@ -45,7 +45,7 @@
       "view": "货币需求不稳定，应关注总需求与财政",
       "basis": "据来源/标准口径归纳；具体表述待核实",
       "sources": [
-        "w-en-keynesian-economics"
+        "w-en-new-keynesian"
       ]
     }
   ],
@@ -56,7 +56,12 @@
     "w-en-monetarism",
     "w-en-quantity-theory-money"
   ],
-  "related": [],
+  "related": [
+    "classical-economics",
+    "inflation",
+    "money-supply",
+    "phillips-curve"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
 }

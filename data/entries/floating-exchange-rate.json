@@ -1,0 +1,71 @@
+{
+  "id": "floating-exchange-rate",
+  "title": "浮动汇率制度",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "汇率由市场供求决定、货币当局不承诺特定水平的汇率安排。",
+  "overview": "浮动汇率制度（floating exchange rate）是**汇率由市场供求决定**、货币当局不承诺维持特定水平的安排；介于两者之间的是\"管理浮动\"。其核心优势是**保留货币政策独立性**（可自主决定利率）并让汇率吸收外部冲击，这正是不可能三角中\"放弃汇率稳定\"的那一极。代价则包括：汇率波动增加贸易与投资的不确定性；若存在**货币错配**（借外币），贬值会直接恶化资产负债表（即\"浮动恐惧\"现象，见 fear-of-floating）；以及可能出现的汇率超调与投机性波动。1973年后主要货币转向浮动（见 bretton-woods、smithsonian-agreement），但多数新兴市场实际实行的是某种管理浮动。具体分类待核实。",
+  "timeline": [
+    {
+      "year": 1973,
+      "display": "1973年",
+      "event": "布雷顿森林体系瓦解后主要货币转向浮动",
+      "sources": [
+        "w-en-floating-exchange-rate"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "汇率由市场决定 → 货币政策可专注国内目标",
+      "sources": [
+        "w-en-floating-exchange-rate"
+      ]
+    },
+    {
+      "step": "汇率波动吸收外部冲击 → 减少储备消耗",
+      "sources": [
+        "w-en-impossible-trinity"
+      ]
+    },
+    {
+      "step": "若存在货币错配 → 贬值恶化资产负债表（浮动恐惧）",
+      "sources": [
+        "w-en-original-sin"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "吸收冲击视角",
+      "view": "浮动使汇率成为缓冲器，保留货币政策空间",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-floating-exchange-rate"
+      ]
+    },
+    {
+      "holder": "浮动恐惧视角",
+      "view": "新兴市场因货币错配而不敢真正浮动",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-original-sin"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>浮动汇率制度：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>汇率由市场决定 → 货币</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率波动吸收外部冲击 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>若存在货币错配 → 贬值</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-floating-exchange-rate",
+    "w-en-impossible-trinity"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

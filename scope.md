@@ -608,3 +608,10 @@
 | circuit-breaker | 熔断机制（交易限制） | 理论制度 | 全球 | 制度 | 重要 | 续作DD |
 | commodity-price-index | 商品价格指数与商品周期 | 理论制度 | 全球 | 理论 | 重要 | 续作DD |
 | municipal-bond | 市政债券与地方政府债务 | 理论制度 | 全球 | 制度 | 重要 | 续作DD |
+| fixed-exchange-rate | 固定汇率制度 | 理论制度 | 全球 | 制度 | 重要 | 续作DF |
+| floating-exchange-rate | 浮动汇率制度 | 理论制度 | 全球 | 制度 | 重要 | 续作DF |
+| transition-economy | 转轨经济 | 理论制度 | 全球 | 其他 | 重要 | 续作DF |
+| lemons-market | 柠檬市场（信息不对称与逆向选择） | 理论制度 | 全球 | 理论 | 重要 | 续作DF |
+| money-laundering | 洗钱 | 理论制度 | 全球 | 其他 | 重要 | 续作DF |
+| currency-war | 货币战（竞争性贬值） | 理论制度 | 全球 | 货币 | 重要 | 续作DF |
+| malinvestment | 错误投资（奥地利学派） | 理论制度 | 全球 | 理论 | 重要 | 续作DF |

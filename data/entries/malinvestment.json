@@ -1,0 +1,62 @@
+{
+  "id": "malinvestment",
+  "title": "错误投资（奥地利学派）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "在人为压低利率造成的错误价格信号下，资本被配置到不可持续的长期项目。",
+  "overview": "错误投资(malinvestment) 是奥地利学派商业周期理论的核心概念：当**央行人为压低利率**、使其低于\"自然利率\"时，跨期价格信号被扭曲，企业家会把资本过度配置到**远离消费、回收期过长**的项目上。这些项目在真实的时间偏好下本不具可行性，因此当利率回升或信贷停止扩张时无法完成，表现为**危机的\"清算\"过程**（见 austrian-theory）。该概念与主流经济学的分歧在于：主流更强调需求冲击与金融摩擦，而非\"利率信号扭曲导致的资本错配\"；但2000年代的低利率与房地产/基建过度投资，使\"错误投资\"的说法获得部分共鸣。其难点在于**无法直接观测\"正确\"的资本结构**，只能事后判断。具体争论待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "央行压低利率至自然利率以下 → 跨期价格信号扭曲",
+      "sources": [
+        "w-en-malinvestment"
+      ]
+    },
+    {
+      "step": "资本涌入长期项目 → 资本结构偏离真实时间偏好",
+      "sources": [
+        "w-en-austrian-school-of-economics"
+      ]
+    },
+    {
+      "step": "利率回升或信贷停止 → 项目无法完成，危机即清算",
+      "sources": [
+        "w-en-austrian-school-of-economics"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "奥地利学派视角",
+      "view": "危机是错误投资的必要清算，救助会延长调整",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-austrian-school-of-economics"
+      ]
+    },
+    {
+      "holder": "主流视角",
+      "view": "需求与金融摩擦才是主因，\"错误投资\"难以度量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-new-keynesian"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>错误投资（奥地利学派）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行压低利率至自然利率以</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资本涌入长期项目 → 资</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>利率回升或信贷停止 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-malinvestment",
+    "w-en-austrian-school-of-economics"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

@@ -65,7 +65,12 @@
     "w-en-oecd",
     "w-en-international-monetary-system"
   ],
-  "related": [],
+  "related": [
+    "bis",
+    "development-economics",
+    "gatt",
+    "imf"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
 }

@@ -1,0 +1,71 @@
+{
+  "id": "transition-economy",
+  "title": "转轨经济",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "从计划经济向市场经济转型的经济体；其转型初期的产出下降与制度真空是危机的温床。",
+  "overview": "转轨经济(transition economy) 指**从计划经济向市场经济转型**的经济体，主要指1990年代的中东欧与前苏联国家。其经济特征包括：国有企业大规模私有化、价格与贸易自由化、金融体系从单一银行制转向商业银行体系、以及国家能力的重构。转型初期的普遍现象是**产出大幅下降**（\"转型性衰退\"）、高通胀甚至恶性通胀（如俄罗斯1992、南斯拉夫1993-94、见 yugoslav-hyper-1992）、以及**金融监管真空**——后者正是阿尔巴尼亚金字塔骗局（见 albania-pyramid-1997）与俄罗斯1998年危机（见 russian-1998）的制度背景。转轨经验催生了大量关于\"渐进 vs 休克疗法\"\"制度优先 vs 自由化优先\"的争论。具体路径差异待核实。",
+  "timeline": [
+    {
+      "year": 1989,
+      "display": "1989年后",
+      "event": "中东欧与前苏联国家启动向市场经济转型",
+      "sources": [
+        "w-en-transition-economy"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "价格与贸易自由化 + 私有化 → 原有生产网络解体，产出下降",
+      "sources": [
+        "w-en-transition-economy"
+      ]
+    },
+    {
+      "step": "金融体系重建但监管能力不足 → 监管真空与欺诈滋生",
+      "sources": [
+        "w-en-albania-pyramid-schemes"
+      ]
+    },
+    {
+      "step": "财政能力削弱 + 货币扩张 → 高通胀与货币危机",
+      "sources": [
+        "w-en-yugoslav-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "休克疗法视角",
+      "view": "快速全面的自由化可缩短转型期并建立可信度",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-transition-economy"
+      ]
+    },
+    {
+      "holder": "制度优先视角",
+      "view": "缺乏制度基础的自由化会制造真空与掠夺",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-ebrd"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>转轨经济：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格与贸易自由化 + 私</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>金融体系重建但监管能力不</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财政能力削弱 + 货币扩</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-transition-economy",
+    "w-en-ebrd"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

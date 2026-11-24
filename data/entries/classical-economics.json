@@ -56,7 +56,12 @@
     "bk-the-wealth-of-nations",
     "bk-principles-of-economics"
   ],
-  "related": [],
+  "related": [
+    "invisible-hand",
+    "keynesian-economics",
+    "laissez-faire",
+    "monetarism"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
 }

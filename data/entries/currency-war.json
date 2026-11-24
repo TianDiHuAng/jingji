@@ -1,0 +1,62 @@
+{
+  "id": "currency-war",
+  "title": "货币战（竞争性贬值）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "各国竞相压低本币汇率以获取贸易优势，导致集体受损的\"以邻为壑\"局面。",
+  "overview": "货币战(currency war)，又称竞争性贬值(competitive devaluation)，指各国**竞相压低本币汇率以获取贸易优势**，最终形成**集体受损**的\"以邻为壑\"局面。机制是典型的囚徒困境：单国贬值可短期改善贸易收支（若满足马歇尔-勒纳条件），但对方随即跟进，结果是**各方汇率相对关系不变而全球贸易与信心受损**。历史案例包括1930年代金本位解体后的竞争性贬值（见 gold-bloc、tripartite-1936、beggar-thy-neighbour），以及2010年代关于\"汇率操纵\"的争论。该概念与\"货币战争\"的流行说法不同：学术讨论关注的是政策互动的博弈结构，而非某一国的阴谋。具体案例与实证待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "单国贬值改善贸易收支 → 贸易伙伴受损",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    },
+    {
+      "step": "伙伴跟进贬值 → 相对汇率回到原位，全球贸易收缩",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    },
+    {
+      "step": "协调（如三方协定）或浮动汇率 → 缓解竞争性贬值压力",
+      "sources": [
+        "w-en-tripartite-1936"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "博弈视角",
+      "view": "竞争性贬值是囚徒困境，需国际协调",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    },
+    {
+      "holder": "弹性视角",
+      "view": "浮动汇率下汇率变动反映基本面，不应简单视为\"战争\"",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-floating-exchange-rate"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币战（竞争性贬值）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>单国贬值改善贸易收支 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>伙伴跟进贬值 → 相对汇</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>协调（如三方协定）或浮动</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-currency-war",
+    "w-en-beggar-thy-neighbour"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

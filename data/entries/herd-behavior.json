@@ -56,7 +56,12 @@
     "w-en-herd-behavior",
     "w-en-speculative-bubble"
   ],
-  "related": [],
+  "related": [
+    "animal-spirits",
+    "behavioral-finance",
+    "contagion",
+    "speculative-bubble"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
 }

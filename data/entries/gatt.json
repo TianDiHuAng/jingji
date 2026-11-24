@@ -74,7 +74,12 @@
     "w-en-gatt",
     "w-en-wto"
   ],
-  "related": [],
+  "related": [
+    "comparative-advantage",
+    "free-trade",
+    "mercantilism",
+    "oecd"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
 }

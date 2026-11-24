@@ -1,0 +1,42 @@
+{
+  "fixed-exchange-rate": {
+    "title": "Fixed exchange rate",
+    "extract": "A fixed exchange rate, often called a pegged exchange rate or pegging, is a type of exchange rate regime in which a currency's value is fixed, or pegged, by a monetary authority against the value of another currency, a basket of other currencies, or another measure of value, such as gold or silver.",
+    "slug": "Fixed_exchange_rate_system"
+  },
+  "floating-exchange-rate": {
+    "title": "Floating exchange rate",
+    "extract": "In macroeconomics and economic policy, a floating exchange rate is a type of exchange rate regime in which a currency's value is allowed to fluctuate in response to international events affecting exchange rates. A currency that uses a floating exchange rate is known as a floating currency. In contrast, a fixed currency is one where its value is specified in terms of material goods, another currency, or a group of other currencies. The idea of a fixed currency is to reduce currency fluctuations.",
+    "slug": "Floating_exchange_rate"
+  },
+  "counterparty-risk": {
+    "title": "Settlement risk",
+    "extract": "Settlement risk, also known as delivery risk or counterparty risk, is the risk that a counterparty fails to deliver a security or its value in cash as per agreement after the first party has delivered the security or cash value. The term covers factors incidental to the settlement process that may suspend or prevent a trade from completing, even should the parties themselves be in agreement, act in good faith, and are otherwise competent to perform.",
+    "slug": "Counterparty_risk"
+  },
+  "transition-economy": {
+    "title": "Transition economy",
+    "extract": "A transition economy or transitional economy is an economy which is changing from a centrally planned economy to a market economy. Transition economies undergo a set of structural transformations intended to develop market-based institutions. These include economic liberalization, where prices are set by market forces rather than by a central planning organization. In addition to this, trade barriers are removed, there is a push to privatize state-owned enterprises and resources, state and collectively run enterprises are restructured as businesses, and a financial sector is created to facilitate macroeconomic stabilization and the movement of private capital. The process has been applied in China, the former Soviet Union and Eastern bloc countries of Europe and some Third world countries, and detailed work has been undertaken on its economic and social effects.",
+    "slug": "Transition_economy"
+  },
+  "lemons-market": {
+    "title": "The Market for Lemons",
+    "extract": "\n\"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism\" is a widely cited seminal paper in the field of economics which explores the concept of asymmetric information in markets. The paper was written in 1970 by George Akerlof and published in the Quarterly Journal of Economics. The paper's theory has since been applied to many types of markets.",
+    "slug": "The_Market_for_Lemons"
+  },
+  "money-laundering": {
+    "title": "Money laundering",
+    "extract": "Money laundering is the process of illegally concealing the origin of money obtained from illicit activities, and converting the funds into a seemingly legitimate source. As financial crime has become more complex and financial intelligence is more important in combating international crime and terrorism, money laundering has become the subject of prominent political, economic, and legal debate. Most countries implement some anti-money-laundering measures.",
+    "slug": "Money_laundering"
+  },
+  "currency-war": {
+    "title": "Currency war",
+    "extract": "Currency war, also known as competitive devaluations, is a condition in international affairs where countries seek to gain a trade advantage over other countries by causing the exchange rate of their currency to fall in relation to other currencies. As the exchange rate of a country's currency falls, exports to other countries become more competitive, and imports into the country become more expensive. Both effects benefit the domestic industry, and thus employment, which receives a boost in demand from both domestic and foreign markets. However, the price increases for import goods are unpopular as they harm citizens' purchasing power; and when all countries adopt a similar strategy, it can lead to a general decline in international trade, harming all countries.",
+    "slug": "Currency_war"
+  },
+  "malinvestment": {
+    "title": "Malinvestment",
+    "extract": "In Austrian business cycle theory, malinvestments are badly allocated business investments resulting from artificially low interest rates for borrowing and an unsustainable increase in money supply. Central banks are often blamed for causing malinvestments, such as the dot-com bubble and the United States housing bubble. Austrian economists such as F. A. Hayek advocate the idea that malinvestment occurs due to the combination of fractional reserve banking and artificially low interest rates sending out misleading relative price signals which eventually necessitate a corrective contraction – a boom followed by a bust.",
+    "slug": "Malinvestment"
+  }
+}

@@ -56,7 +56,13 @@
     "w-en-adb",
     "w-en-asian-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "afdb",
+    "aiib",
+    "development-economics",
+    "ebrd",
+    "idb"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：职能与总部等据维基摘要；具体成立时间与规模待核实。【续作BL】"
 }

@@ -1,0 +1,166 @@
+# -*- coding: utf-8 -*-
+"""续作DE：为U6概念按理论主题建立10个关联组。"""
+import json, glob
+
+GROUPS = {
+ # 1 货币政策工具与传导
+ 'monetary-policy': ['monetary-transmission', 'open-market-operation', 'discount-window', 'interest-rate',
+                     'money-creation', 'money-supply', 'central-bank', 'interest-rate-parity'],
+ 'monetary-transmission': ['monetary-policy', 'money-creation', 'credit-rationing', 'liquidity-trap',
+                           'interest-rate', 'financial-accelerator'],
+ 'open-market-operation': ['monetary-policy', 'discount-window', 'central-bank', 'money-creation'],
+ 'discount-window': ['lender-of-last-resort', 'open-market-operation', 'central-bank', 'central-counterparty'],
+ 'money-creation': ['endogenous-money', 'money-multiplier', 'money-supply', 'monetary-policy'],
+ 'money-supply': ['money-creation', 'money-multiplier', 'endogenous-money', 'inflation'],
+ 'money-multiplier': ['money-creation', 'money-supply', 'endogenous-money', 'reserve-requirement'],
+ 'endogenous-money': ['money-creation', 'money-supply', 'credit-money', 'monetary-policy'],
+ 'liquidity-preference': ['liquidity-trap', 'interest-rate', 'monetary-policy', 'money-supply'],
+ 'helicopter-money': ['money-creation', 'seigniorage', 'monetary-policy', 'fiat-money'],
+ # 2 通胀与物价
+ 'inflation': ['core-inflation', 'hyperinflation', 'deflation', 'disinflation', 'inflation-targeting',
+               'phillips-curve', 'money-supply'],
+ 'inflation-targeting': ['inflation', 'central-bank-independence', 'monetary-policy', 'nairu'],
+ 'hyperinflation': ['seigniorage', 'deflation', 'indexation', 'inflation', 'money-supply'],
+ 'deflation': ['debt-deflation', 'inflation', 'liquidity-trap', 'great-depression'],
+ 'debt-deflation': ['deflation', 'balance-sheet-recession', 'debt-overhang', 'great-depression'],
+ 'phillips-curve': ['inflation', 'nairu', 'natural-rate-unemployment', 'expectations'],
+ 'nairu': ['phillips-curve', 'natural-rate-unemployment', 'output-gap', 'inflation'],
+ 'core-inflation': ['inflation', 'cpi', 'ppi', 'inflation-targeting'],
+ 'cpi': ['inflation', 'core-inflation', 'ppi', 'indexation'],
+ # 3 银行与审慎监管
+ 'bank-regulation': ['basel-accords', 'basel-iii', 'capital-requirement', 'macroprudential',
+                     'deposit-insurance', 'dodd-frank'],
+ 'basel-accords': ['basel-iii', 'bank-regulation', 'capital-requirement', 'bis'],
+ 'basel-iii': ['basel-accords', 'capital-requirement', 'liquidity-risk', 'macroprudential', 'bis'],
+ 'capital-requirement': ['basel-iii', 'bank-regulation', 'leverage', 'macroprudential'],
+ 'macroprudential': ['bank-regulation', 'capital-requirement', 'procyclicality', 'systemic-risk', 'esrb'],
+ 'deposit-insurance': ['bank-run', 'diamond-dybvig', 'lender-of-last-resort', 'moral-hazard'],
+ 'diamond-dybvig': ['bank-run', 'deposit-insurance', 'maturity-transformation', 'lender-of-last-resort'],
+ 'maturity-transformation': ['bank-run', 'diamond-dybvig', 'liquidity-risk', 'asset-liability-mismatch'],
+ 'liquidity-risk': ['maturity-transformation', 'bank-run', 'basel-iii', 'fire-sale'],
+ 'interbank-lending': ['money-market', 'contagion', 'liquidity-risk', 'central-counterparty'],
+ # 4 金融工具与市场
+ 'bond': ['interest-rate', 'duration-finance', 'credit-risk', 'yield-curve'],
+ 'derivative': ['option', 'futures', 'forward-contract', 'credit-default-swap', 'hedging'],
+ 'option': ['derivative', 'black-scholes', 'convexity', 'hedging'],
+ 'futures': ['derivative', 'forward-contract', 'hedging', 'clearing'],
+ 'forward-contract': ['derivative', 'futures', 'hedging', 'interest-rate-parity'],
+ 'credit-default-swap': ['derivative', 'credit-risk', 'credit-enhancement', 'counterparty-risk'],
+ 'collateralized-debt-obligation': ['mortgage-backed-security', 'credit-enhancement', 'credit-rating',
+                                    'securitization', 'subprime-lending'],
+ 'mortgage-backed-security': ['collateralized-debt-obligation', 'securitization', 'fannie-mae', 'freddie-mac'],
+ 'etf': ['diversification', 'market-maker', 'liquidity', 'index-fund'],
+ 'hedge-fund': ['leverage', 'derivative', 'carry-trade', 'prime-brokerage'],
+ 'mark-to-market': ['fair-value', 'off-balance-sheet', 'leverage', 'procyclicality'],
+ 'market-maker': ['liquidity', 'bid-ask', 'etf', 'circuit-breaker'],
+ 'duration-finance': ['bond', 'convexity', 'interest-rate-risk', 'asset-liability-mismatch'],
+ 'convexity': ['duration-finance', 'bond', 'interest-rate-risk'],
+ 'beta': ['capm', 'diversification', 'systematic-risk', 'volatility'],
+ 'capm': ['beta', 'diversification', 'efficient-market', 'arbitrage'],
+ 'black-scholes': ['option', 'derivative', 'volatility', 'arbitrage'],
+ 'arbitrage': ['efficient-market', 'hedge-fund', 'basis-point', 'interest-rate-parity'],
+ 'diversification': ['capm', 'beta', 'portfolio', 'arbitrage'],
+ # 5 危机与周期理论
+ 'minsky-moment': ['minsky-theory', 'financial-fragility', 'credit-cycle', 'leverage-cycle'],
+ 'minsky-theory': ['minsky-moment', 'financial-fragility', 'post-keynesian', 'keynesian-economics'],
+ 'austrian-theory': ['business-cycle', 'credit-cycle', 'monetarism', 'malinvestment'],
+ 'marxist-theory': ['business-cycle', 'classical-economics', 'industrial-revolution', 'profit-rate'],
+ 'keynesian-economics': ['aggregate-demand', 'fiscal-multiplier', 'liquidity-preference', 'depression-economics'],
+ 'monetarism': ['money-supply', 'inflation', 'phillips-curve', 'classical-economics'],
+ 'classical-economics': ['keynesian-economics', 'monetarism', 'invisible-hand', 'laissez-faire'],
+ 'new-classical': ['rational-expectations', 'lucas-critique', 'efficient-market', 'monetarism'],
+ 'new-keynesian': ['keynesian-economics', 'menu-cost', 'sticky-prices', 'monetary-policy'],
+ 'post-keynesian': ['keynesian-economics', 'minsky-theory', 'endogenous-money', 'financial-fragility'],
+ 'financial-fragility': ['minsky-theory', 'minsky-moment', 'credit-cycle', 'financial-accelerator'],
+ 'financial-accelerator': ['credit-cycle', 'fire-sale', 'procyclicality', 'collateral'],
+ 'credit-cycle': ['leverage-cycle', 'financial-accelerator', 'minsky-moment', 'procyclicality'],
+ 'leverage-cycle': ['credit-cycle', 'financial-accelerator', 'procyclicality', 'deleveraging'],
+ 'business-cycle': ['credit-cycle', 'juglar-cycle', 'kitchin-cycle', 'kondratiev', 'output-gap'],
+ 'juglar-cycle': ['business-cycle', 'kitchin-cycle', 'kondratiev', 'credit-cycle'],
+ 'kitchin-cycle': ['business-cycle', 'juglar-cycle', 'inventory', 'output-gap'],
+ 'kondratiev': ['business-cycle', 'juglar-cycle', 'long-depression', 'innovation'],
+ # 6 国际金融与汇率制度
+ 'impossible-trinity': ['mundell-fleming', 'exchange-rate-regime', 'capital-control', 'currency-crisis'],
+ 'mundell-fleming': ['impossible-trinity', 'exchange-rate-regime', 'monetary-policy', 'capital-account'],
+ 'exchange-rate-regime': ['fixed-exchange-rate', 'floating-exchange-rate', 'currency-board',
+                          'dollarization', 'impossible-trinity'],
+ 'currency-board': ['exchange-rate-regime', 'dollarization', 'legal-tender', 'impossible-trinity'],
+ 'dollarization': ['currency-board', 'de-dollarization', 'legal-tender', 'currency-substitution'],
+ 'de-dollarization': ['dollarization', 'reserve-currency', 'exorbitant-privilege', 'currency-internationalization'],
+ 'currency-union': ['optimum-currency-area', 'european-central-bank', 'eurozone-crisis', 'fiscal-dominance'],
+ 'optimum-currency-area': ['currency-union', 'exchange-rate-regime', 'european-central-bank', 'mobility'],
+ 'fear-of-floating': ['exchange-rate-regime', 'currency-crisis', 'fx-intervention', 'original-sin'],
+ 'competitive-devaluation': ['devaluation', 'beggar-thy-neighbour', 'fx-intervention', 'currency-war'],
+ 'fx-intervention': ['foreign-exchange-reserves', 'fear-of-floating', 'competitive-devaluation', 'central-bank'],
+ 'currency-crisis': ['impossible-trinity', 'sudden-stop', 'original-sin', 'capital-flight'],
+ 'balance-of-payments': ['current-account', 'capital-account', 'j-curve', 'marshall-lerner'],
+ 'current-account': ['balance-of-payments', 'capital-account', 'global-imbalances', 'exchange-rate-regime'],
+ 'capital-account': ['balance-of-payments', 'capital-control', 'capital-flight', 'current-account'],
+ 'international-monetary-system': ['bretton-woods', 'gold-standard', 'imf', 'reserve-currency'],
+ 'bretton-woods': ['international-monetary-system', 'nixon-shock', 'imf', 'triffin-dilemma'],
+ # 7 主权债务
+ 'debt-crisis': ['sovereign-default', 'debt-restructuring', 'debt-overhang', 'paris-club'],
+ 'sovereign-default': ['debt-crisis', 'debt-restructuring', 'haircut-finance', 'odious-debt'],
+ 'debt-restructuring': ['sovereign-default', 'haircut-finance', 'paris-club', 'conditionality'],
+ 'haircut-finance': ['debt-restructuring', 'sovereign-default', 'debt-overhang', 'bail-in'],
+ 'odious-debt': ['sovereign-default', 'debt-restructuring', 'debt-trap-diplomacy'],
+ 'debt-overhang': ['debt-deflation', 'debt-crisis', 'balance-sheet-recession', 'investment'],
+ 'paris-club': ['debt-restructuring', 'sovereign-default', 'imf', 'conditionality'],
+ 'conditionality': ['imf', 'debt-restructuring', 'structural-adjustment', 'stabilization-program'],
+ 'fiscal-space': ['fiscal-dominance', 'government-debt', 'budget-balance', 'conditionality'],
+ 'fiscal-dominance': ['fiscal-space', 'monetary-policy', 'inflation', 'government-debt'],
+ 'government-debt': ['budget-balance', 'fiscal-space', 'debt-crisis', 'global-debt'],
+ # 8 国际组织与治理
+ 'imf': ['international-monetary-system', 'conditionality', 'paris-club', 'bis'],
+ 'bis': ['imf', 'basel-accords', 'central-bank', 'fsb'],
+ 'fsb': ['bis', 'basel-accords', 'macroprudential', 'systemic-risk'],
+ 'oecd': ['imf', 'bis', 'gatt', 'development-economics'],
+ 'gatt': ['free-trade', 'comparative-advantage', 'mercantilism', 'oecd'],
+ 'adb': ['afdb', 'idb', 'aiib', 'ebrd', 'development-economics'],
+ 'afdb': ['adb', 'idb', 'aiib', 'ebrd'],
+ 'idb': ['adb', 'afdb', 'aiib', 'ebrd'],
+ 'aiib': ['adb', 'afdb', 'idb', 'ebrd', 'development-economics'],
+ 'ebrd': ['adb', 'afdb', 'idb', 'aiib', 'transition-economy'],
+ 'fatf': ['money-laundering', 'black-market', 'correspondent-banking'],
+ # 9 货币史与制度史
+ 'history-of-money': ['commodity-money', 'credit-money', 'fiat-money', 'bimetallism', 'gold-standard'],
+ 'commodity-money': ['history-of-money', 'bimetallism', 'gold-standard', 'fiat-money'],
+ 'credit-money': ['history-of-money', 'endogenous-money', 'fiat-money', 'bill-of-exchange'],
+ 'fiat-money': ['history-of-money', 'legal-tender', 'commodity-money', 'seigniorage'],
+ 'debasement': ['commodity-money', 'seigniorage', 'grensham-law', 'hyperinflation'],
+ 'greshams-law': ['commodity-money', 'bimetallism', 'debasement', 'legal-tender'],
+ 'bimetallism': ['gold-standard', 'commodity-money', 'greshams-law', 'sherman-silver-purchase'],
+ 'gold-standard': ['bimetallism', 'international-monetary-system', 'bretton-woods', 'deflation'],
+ 'legal-tender': ['fiat-money', 'dollarization', 'currency-board', 'history-of-money'],
+ 'double-entry': ['history-of-banking', 'credit-money', 'commercial-revolution'],
+ 'bill-of-exchange': ['credit-money', 'double-entry', 'history-of-banking', 'trade-credit'],
+ # 10 预期、行为与信息
+ 'adaptive-expectations': ['phillips-curve', 'rational-expectations', 'monetarism', 'inflation'],
+ 'behavioral-finance': ['efficient-market', 'herd-behavior', 'animal-spirits', 'arbitrage'],
+ 'herd-behavior': ['behavioral-finance', 'animal-spirits', 'speculative-bubble', 'contagion'],
+ 'animal-spirits': ['keynesian-economics', 'behavioral-finance', 'herd-behavior', 'investment'],
+ 'efficient-market': ['behavioral-finance', 'arbitrage', 'beta', 'capm'],
+ 'lucas-critique': ['new-classical', 'rational-expectations', 'monetary-policy', 'econometrics'],
+ 'coordination-games': ['bank-run', 'diamond-dybvig', 'herd-behavior', 'self-fulfilling'],
+ 'information-asymmetry': ['adverse-selection', 'moral-hazard', 'principal-agent', 'credit-rationing'],
+ 'adverse-selection': ['information-asymmetry', 'moral-hazard', 'credit-rationing', 'lemons-market'],
+ 'moral-hazard': ['information-asymmetry', 'deposit-insurance', 'too-big-to-fail', 'bailout'],
+ 'insider-trading': ['information-asymmetry', 'market-manipulation', 'efficient-market', 'disclosure'],
+ 'market-manipulation': ['insider-trading', 'market-maker', 'information-asymmetry', 'ponzi-scheme'],
+}
+
+es = {json.load(open(f, encoding='utf-8'))['id']: f for f in glob.glob('data/entries/*.json')}
+miss, n = set(), 0
+for eid, rels in GROUPS.items():
+    if eid not in es:
+        miss.add('SELF:' + eid); continue
+    valid = [r for r in rels if r in es and r != eid]
+    miss |= {r for r in rels if r not in es}
+    if not valid: continue
+    f = es[eid]
+    d = json.load(open(f, encoding='utf-8'))
+    d['related'] = sorted(set(d.get('related', []) + valid))
+    json.dump(d, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    n += 1
+print('设置 related 条目:', n)
+print('缺失目标 id（' + str(len(miss)) + '个）:', sorted(miss))

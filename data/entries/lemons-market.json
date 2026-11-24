@@ -1,0 +1,62 @@
+{
+  "id": "lemons-market",
+  "title": "柠檬市场（信息不对称与逆向选择）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "当卖方比买方更了解质量时，低质量商品驱逐高质量商品，市场可能萎缩甚至消失。",
+  "overview": "\"柠檬市场\"(the market for lemons) 是阿克洛夫关于**信息不对称与逆向选择**的经典分析：当**卖方比买方更了解商品质量**时，买方只能按平均质量出价，于是高质量卖方退出，市场平均质量下降、价格进一步下跌——最终**低质量商品（\"柠檬\"）驱逐高质量商品**，市场可能萎缩甚至消失。该逻辑在金融中有多重映射：①**信贷配给**——银行无法区分借款人风险时，只能提高利率，结果把低风险借款人挤出（见 credit-rationing）；②**证券化**——当发起方比投资者更了解贷款质量时，结构化产品市场可能因逆向选择而冻结（见 subprime-lending）；③**银行挤兑**——存款人无法观测银行资产质量，只能先取为快（见 bank-run）。对策包括信息披露、评级、担保与声誉机制。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "卖方掌握质量信息、买方不掌握 → 买方只按平均质量出价",
+      "sources": [
+        "w-en-lemons-market"
+      ]
+    },
+    {
+      "step": "高质量卖方退出 → 平均质量与价格进一步下降",
+      "sources": [
+        "w-en-adverse-selection"
+      ]
+    },
+    {
+      "step": "市场萎缩或冻结 → 需以披露、担保与声誉机制缓解",
+      "sources": [
+        "w-en-information-asymmetry"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "信息视角",
+      "view": "信息不对称是市场失灵的核心，需制度性披露",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-lemons-market"
+      ]
+    },
+    {
+      "holder": "市场自愈视角",
+      "view": "声誉与担保可内生解决部分不对称问题",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-credit-rating"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>柠檬市场（信息不对称与逆向选择）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>卖方掌握质量信息、买方不</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>高质量卖方退出 → 平均</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>市场萎缩或冻结 → 需以</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-lemons-market",
+    "w-en-adverse-selection"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

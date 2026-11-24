@@ -1,0 +1,62 @@
+{
+  "id": "money-laundering",
+  "title": "洗钱",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "非法所得通过复杂交易掩饰来源、使其看似合法的过程。",
+  "overview": "洗钱(money laundering) 是**非法掩饰非法所得来源**、并把资金转换为看似合法形式的过程（俗称\"脏钱\"）。典型环节包括：处置(placement，把现金注入金融体系)、分层(layering，通过多层交易模糊来源) 与整合(integration，以合法形式取回)。在金融危机语境中，洗钱的意义有三：①**银行体系的脆弱点**——反洗钱失效导致的罚款与声誉损失可危及机构生存；②**与资本管制/多重汇率的互动**——管制越严，地下跨境渠道越活跃（见 black-market）；③**危机后的监管强化**——FATF 标准与\"去风险化\"(de-risking) 影响新兴市场的代理行关系。相关国际标准由 FATF（见 fatf 条目）制定。具体机制与规模估计待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "非法所得需掩饰来源 → 通过金融体系分层转移",
+      "sources": [
+        "w-en-money-laundering"
+      ]
+    },
+    {
+      "step": "管制与多重汇率 → 地下跨境渠道扩张",
+      "sources": [
+        "w-en-black-market"
+      ]
+    },
+    {
+      "step": "反洗钱标准强化 → 代理行关系收缩（去风险化）影响新兴市场",
+      "sources": [
+        "w-en-fatf"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "执法视角",
+      "view": "强化反洗钱可切断犯罪资金链并提升金融体系完整性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-money-laundering"
+      ]
+    },
+    {
+      "holder": "去风险化视角",
+      "view": "过度合规使新兴市场失去代理行服务，反而推高非正规渠道",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fatf"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>洗钱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>非法所得需掩饰来源 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>管制与多重汇率 → 地下</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反洗钱标准强化 → 代理</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-money-laundering",
+    "w-en-fatf"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+}

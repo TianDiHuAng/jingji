@@ -56,7 +56,12 @@
     "bk-the-general-theory-of-employment-interest-and-mo",
     "w-en-fiscal-policy"
   ],
-  "related": [],
+  "related": [
+    "aggregate-demand",
+    "depression-economics",
+    "fiscal-multiplier",
+    "liquidity-preference"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。"
 }

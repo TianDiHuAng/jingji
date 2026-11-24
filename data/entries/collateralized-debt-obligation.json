@@ -56,7 +56,13 @@
     "w-en-collateralized-debt-obligation",
     "w-en-subprime-mortgage-crisis"
   ],
-  "related": [],
+  "related": [
+    "credit-enhancement",
+    "credit-rating",
+    "mortgage-backed-security",
+    "securitization",
+    "subprime-lending"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。"
 }

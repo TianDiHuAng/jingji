@@ -57,7 +57,9 @@
     "w-en-deposit-insurance"
   ],
   "related": [
+    "bailout",
     "deposit-insurance",
+    "information-asymmetry",
     "too-big-to-fail"
   ],
   "needs_verification": true,
