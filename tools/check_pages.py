@@ -110,6 +110,17 @@ def main():
             problems.append(('data/' + e['id'] + '.json', '文案与导航一致性',
                              '提到但未在related中', ','.join(sorted(missing)[:3])))
 
+    # ── 正文"见 xxx"式引用也应接入 related ──
+    _PAT = re.compile(r'见\s*[（(]?\s*([a-z][a-z0-9\-]{3,})')
+    for e in es:
+        rel = set(e.get('related', []))
+        for field in ('overview', 'comparison', 'one_line'):
+            for m in _PAT.finditer(e.get(field) or ''):
+                r = m.group(1)
+                if r in _ids and r != e['id'] and r not in rel:
+                    problems.append(('data/' + e['id'] + '.json', '见 xxx 引用未接线', field, r))
+                    break
+
     print('期望值:', expect)
     print('页面数:', pages)
     print()

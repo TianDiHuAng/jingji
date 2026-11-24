@@ -1451,6 +1451,19 @@
 - 典型效果：`bank-resolution` 的相关条目现含**坏账银行／bail-in／bailout／2023 年银行危机／银行倒闭／存款保险／最后贷款人／太大而不能倒**——正是其对比段落中逐一点名的对象。
 - 十一道检查全绿（`check_pages` 现含新增的一致性检查）。
 
+- **维基百科第 75 轮可用（round 94）**。**修复第二种"接线"缺失——正文"见 xxx"式引用未接入 `related`**。
+- 上一轮修的是 comparison 中提到的条目未入 `related`；本轮用正则 `见 xxx` 扫描 overview／comparison／one_line／timeline，**又发现 20 处**正文明确写"见某条目"却未收录——读者同样无法跳转。
+
+  | 例 | 正文引用 |
+  |---|---|
+  | `fixed-exchange-rate` | 见 `black-wednesday-1992`／`mexican-peso-1994`／`asian-financial-crisis-1997` |
+  | `lemons-market` | 见 `subprime-lending`／`bank-run` |
+  | `kipper-wipper-1618` | 见 `debasement` |
+
+- **修复**：20 处引用补入 `related`，并做同类对称化（10 条）。复核：**归零**。
+- **扩展检查规则**：`check_pages.py` 的「文案与导航一致性」现同时覆盖（a）comparison 提到的 id 与（b）正文"见 xxx"式引用。
+- **两类合计修复 96 处**（comparison 76 + 见xxx 20），均已纳入自动检查。
+- 现状：**641 条**、来源 **741**、页面 **655**；`related` 平均 **5.9 条**。**十一道检查全绿**。
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
