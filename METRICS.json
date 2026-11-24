@@ -2446,6 +2446,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 27/27",
       "spot_check": "README 重写；SATURATION 误报饱和已重置；scope 补录 48 条覆盖 641；加 2 守卫；自测 25→27",
       "note": "维基第126轮可用。OF-OG：完成文档系统全覆盖，修正 README/SATURATION/scope 等陈旧，并加两项守卫。\n①**README.md 严重陈旧**（读者首见）：仍写\"106 案例/180 来源/check.py R1–R15/PROGRESS 含 ALL_DONE/106 条目 L1-L2\"——已完整重写（641 条/742 来源/13 工具/R1–R22+R4b/R12b/25→27 自测/复现命令）。\n②**SATURATION.json 误报饱和（关键）**：顶部 `saturated:true / maintenance_mode:true / zero_gap_streak:3`——这是机器可读的\"已完成\"宣称，与\"网络阻塞、仍在维护、永不写 ALL_DONE、饱和尚未达到\"**直接冲突**。已重置为 false/0/false 并注明原委；历史 rounds 数组保留。\n③**scope.md 陈旧**：头部\"106 条\"与 600 行清单不符，且**缺 48 条后期新增概念**、含 1 条重复陈旧行（glass-steagall）。已改头部计数、**补录 48 条附录**、删除重复行——现 scope 覆盖 **641/641**。\n④**HEALTH_CHECK_F.md** 加\"历史快照\"标注（原 round 11 一次性记录）。\n⑤**新增两项 check_docs 守卫**：（a）scope.md 须覆盖全部条目；（b）SATURATION.json 不得误报 saturated=true。均注入测试确认可捕获。\n⑥**自测 25 → 27**（新增 scope 未覆盖、SATURATION 误报两用例）。十一道检查全绿。\n⑦现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 27/27。"
+    },
+    {
+      "round": "续作OH-OI",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 44,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "44 弱匹配 key_data 均假阴性；层级达标 0 违规；加 R23；自测 27→28",
+      "note": "维基第127轮可用。OH-OI：网络仍不可用；完成两项内容核查并把层级达标固化为 R23。\n①**网络复测**：en/zh wikipedia 均 URLError 超时，仍不可用——3 条缺全文 + 5 条缓存缺口无法在本轮解决。\n②**key_data 弱匹配核查**：check_kd 的 44 条\"弱匹配\"逐条阅读——**note 均含与数值一致的原文引述**，系格式差（如 900,000 逗号、单位词未入关键词表）造成的假阴性，**内容准确、无实错**。\n③**层级达标核查**：tier×level 交叉表 **完全一致**——核心 34 全 L3、重要 502 全 L2、补充 105 全 L2，**0 违规**。\n④**固化为检查**：`check.py` 新增 **R23**——核心须 L3、重要须 L2/L3，否则 error。注入测试（核心改 L2）确认能捕获。\n⑤**纳入自测**：新增\"R23 核心未达L3\"用例，自测 27 → **28 项**，全通过；同步更新 HEALTH_CHECK（R1–R23、自测 28）。\n⑥现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }

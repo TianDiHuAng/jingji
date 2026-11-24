@@ -299,6 +299,17 @@ def m_r20():
 
 case('R20 U1标全球', m_r20, ['tools/check.py'], 'R20', [U1T])
 
+CORE_ENT = os.path.join(ENT, 'tulip-mania-1637.json')
+
+
+def m_r23():
+    d = json.load(open(CORE_ENT, encoding='utf-8'))
+    d['level'] = 'L2' if d.get('level') != 'L2' else 'L3'
+    json.dump(d, open(CORE_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R23 核心未达L3', m_r23, ['tools/check.py'], 'R23', [CORE_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 

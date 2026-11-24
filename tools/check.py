@@ -309,6 +309,13 @@ def main():
             warn('R22', _e.get('id', '?'),
                  'tier=%s 但 overview 仅 %d 字（建议 ≥150）'
                  % (_e.get('tier'), len(_e.get('overview') or '')))
+    # R23 层级达标：核心→L3，重要→L2/L3（补充≥L1）
+    for _e in entries:
+        _t, _lv = _e.get('tier'), _e.get('level')
+        if _t == '核心' and _lv != 'L3':
+            err('R23', _e.get('id', '?'), 'tier=核心 但 level=%s（应为 L3）' % _lv)
+        elif _t == '重要' and _lv not in ('L2', 'L3'):
+            err('R23', _e.get('id', '?'), 'tier=重要 但 level=%s（应为 L2/L3）' % _lv)
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)
