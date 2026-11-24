@@ -1,0 +1,28 @@
+{
+  "id": "prisoners-dilemma",
+  "title": "囚徒困境",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "两个自利主体在缺乏信任与约束时选择\"背叛\"、结果双双更差的博弈结构。",
+  "overview": "（据 Wikipedia「Prisoner's dilemma」摘要归纳）In game theory, the prisoner's dilemma is a thought experiment involving two rational agents, each of whom can either cooperate for mutual benefit or betray their partner (\"defect\") for individual gain. The dilemma arises from the fact that while defecting is rational for each agent, cooperation yields a higher payoff for each. The puzzle was designed by Merrill Flood and Melvin Dresher in 1950 during their work at the RAND Corporation. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**协调博弈**的区别在均衡结构：囚徒困境有**唯一**纳什均衡，且该均衡对双方都劣（背叛/背叛）；协调博弈有**多个**均衡，且都是好的（只要预期一致）。这一区分决定政策思路：囚徒困境需要**改变激励**（惩罚违约、承诺机制）；协调博弈只需**改变预期**（存款保险可\"挑选\"不挤兑的均衡）。银行挤兑、竞争性贬值、债务减免中的搭便车，分别是这两类结构的实例。",
+  "related": [
+    "coordination-games",
+    "bank-run",
+    "game-theory",
+    "competitive-devaluation"
+  ],
+  "sources": [
+    "w-en-prisoners-dilemma"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

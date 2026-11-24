@@ -1,0 +1,28 @@
+{
+  "id": "tax-incidence",
+  "title": "税负归宿",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "税收的最终经济负担归属于谁（生产者、消费者或要素所有者），与法定纳税人可能不同。",
+  "overview": "（据 Wikipedia「Tax incidence」摘要归纳）In economics, the tax incidence measures who actually pays for a tax. Economists distinguish between the entities who ultimately bear the burden of a tax and those who the tax is originally collected from. The tax burden measures the true economic effect of the tax, measured by the difference between real incomes before and after imposing the tax, and taking into account how the tax causes prices to change. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**法定纳税人**的区别在\"名义与实质\"：法定纳税人由法律指定；税负归宿是**经济负担**的实际承担者（取决于供需弹性）。一般规律是：**弹性小的一方承担更多税负**——需求缺乏弹性（如必需品）时消费者承担更多；供给缺乏弹性（如土地）时卖方承担更多。这一区分在政策争论中常被忽略：对银行征税（如金融交易税）的名义纳税人是机构，实际归宿可能转嫁给客户或股东。",
+  "related": [
+    "elasticity",
+    "fiscal-policy",
+    "laffer-curve",
+    "inequality"
+  ],
+  "sources": [
+    "w-en-tax-incidence"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

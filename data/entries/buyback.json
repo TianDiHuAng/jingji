@@ -1,0 +1,28 @@
+{
+  "id": "buyback",
+  "title": "股票回购",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "公司买回自家股份的行为；可减少股本、提升每股收益，亦常被用作向股东返还现金的手段。",
+  "overview": "（据 Wikipedia「Share repurchase」摘要归纳）Share repurchase, also known as share buyback or stock buyback, is the reacquisition by a company of its own shares. It is an alternative way of returning money to shareholders than dividends. After a repurchase event, the company's stock price is now proportionally higher because of the smaller number of shares outstanding. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**股息**的区别在\"形式与灵活性\"：股息是现金分配、通常稳定（下调有负面信号）；回购是买入自家股票、更灵活（可随时停止，且提升每股收益）。与**资本支出**的区别在\"用途\"：回购把现金返还股东，资本支出投向未来产能。这一区分在危机前很关键：2008年前与2021—22年，银行与航空公司大量回购后遭遇冲击、资本不足，因此受援期间常被限制分红与回购——保存资本最直接的手段是暂停可自由裁量的分配。",
+  "related": [
+    "dividend",
+    "stock",
+    "capital-requirement",
+    "glass-steagall"
+  ],
+  "sources": [
+    "w-en-buyback"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

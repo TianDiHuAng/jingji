@@ -1,0 +1,28 @@
+{
+  "id": "investment",
+  "title": "投资",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "为未来收益而投入资源的行为；宏观上指资本形成（固定投资与存货变动）。",
+  "overview": "（据 Wikipedia「Investment」摘要归纳）Investment is traditionally defined as the \"commitment of resources into something expected to gain value over time\". If an investment involves money, then it can be defined as a \"commitment of money to receive more money later\". From a broader viewpoint, an investment can be defined as \"to tailor the pattern of expenditure and receipt of resources to optimise the desirable patterns of these flows\". 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "需区分三种含义，混用是常见错误：①**宏观投资**＝资本形成（机器、建筑、基础设施），增加未来生产能力；②**金融投资**＝购买金融资产（股票、债券），只是资产所有权的转移，不增加资本存量；③**外商直接投资**(FDI)＝取得企业控制权的跨境投资（含建厂与并购）。这一区分很关键：股市上涨不等于\"投资增加\"（可能只是估值变化）；而危机中\"投资下滑\"通常指宏观资本形成，与金融市场的交易量无关。",
+  "related": [
+    "savings",
+    "capital-structure",
+    "total-factor-productivity",
+    "business-cycle"
+  ],
+  "sources": [
+    "w-en-investment"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

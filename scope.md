@@ -629,3 +629,15 @@
 | mutual-fund | 共同基金 | 理论制度 | 全球 | 制度 | L2 | 1 |
 | nasdaq | 纳斯达克 | 理论制度 | 全球 | 制度 | L2 | 1 |
 | eurodollar | 欧洲美元 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| toxic-assets | 有毒资产 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| junk-bond | 垃圾债 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| payment-system | 支付系统 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| prisoners-dilemma | 囚徒困境 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| property-rights | 产权 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| transaction-cost | 交易成本 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| population | 人口 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| inequality | 不平等 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| labour-market | 劳动市场 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| specialization | 专业化 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| tax-incidence | 税负归宿 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| buyback | 股票回购 | 理论制度 | 全球 | 制度 | L2 | 1 |

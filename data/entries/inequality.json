@@ -1,0 +1,28 @@
+{
+  "id": "inequality",
+  "title": "不平等",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "收入或财富在社会成员之间分布的不均程度；常用基尼系数与份额指标度量。",
+  "overview": "（据 Wikipedia「Economic inequality」摘要归纳）Economic inequality is an umbrella term for three concepts: income inequality, how the total sum of money paid to people is distributed among them; wealth inequality, how the total sum of wealth owned by people is distributed among the owners; and consumption inequality, how the total sum of money spent by people is distributed among the spenders. Each of these can be measured between two or more nations, within a single nation, or between and within sub-populations, either from one or from multiple nations. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**贫困**的区别在\"相对与绝对\"：不平等是**相对**分布（差距大小）；贫困是**绝对**水平（是否低于某条线）。两者可以反向变动：增长可能同时降低贫困与提高不平等（顶端获益更多）。与**机会不平等**的区别在\"结果与起点\"：前者度量收入/财富分布，后者度量出身对结果的影响程度。这一区分在危机分析中很重要：危机后的不平等上升（资产价格反弹而工资停滞）与\"机会不平等固化\"是不同问题，处方也不同。",
+  "related": [
+    "gini",
+    "labour-market",
+    "tax-incidence",
+    "welfare-economics"
+  ],
+  "sources": [
+    "w-en-inequality"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "demand",
+  "title": "需求",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "在给定价格与条件下消费者愿意且有购买能力的数量；与供给共同决定价格与交易量。",
+  "overview": "（据 Wikipedia「Demand」摘要归纳）In economics, demand is the quantity of a good consumers are willing and able to purchase at various prices over a given period. In economics, \"demand\" for a commodity is not the same thing as \"desire\" for it. It refers to both the desire to purchase and the ability to pay for a commodity. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**需求**与**需求量**的区别在\"曲线与点\"：需求是整条曲线（各价格下的购买意愿）；需求量是某一价格下的具体数量。这一区分在政策讨论中常被忽略：\"抑制需求\"（移动曲线，如加税、限购）与\"减少需求量\"（沿曲线移动，如涨价）是不同的事。在危机分析中，\"需求不足\"指整条需求曲线左移（信心崩塌、收入下降），因此需要财政或货币扩张来移动曲线，而非仅调价。",
+  "related": [
+    "aggregate-demand",
+    "supply-side",
+    "elasticity",
+    "effective-demand"
+  ],
+  "sources": [
+    "w-en-demand"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

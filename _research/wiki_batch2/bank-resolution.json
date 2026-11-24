@@ -1,0 +1,7 @@
+{
+  "id": "bank-resolution",
+  "slug": "Bank_run",
+  "title": "Bank run",
+  "extract": "A bank run or run on the bank occurs when many clients withdraw their money from a bank, because they believe the bank may fail in the near future. It may occur when, in a fractional-reserve banking system, a large volume of customers seek to withdraw a greater amount of cash from deposit accounts with a financial institution in a short space of time than the institution has cash on-hand, because the customers believe that the institution is, or might become, insolvent. When they transfer funds to another institution, it may be characterized as a capital flight. As a bank run progresses, it may become a self-fulfilling prophecy: as more people withdraw cash, the likelihood of default increases, triggering further withdrawals. This can destabilize the bank to the point where it runs out of cash and thus faces sudden bankruptcy. To combat a bank run, a bank may acquire more cash from other banks or from the central bank, or limit the amount of cash customers may withdraw, either by imposing a hard limit or by scheduling quick deliveries of cash, encouraging high-return term deposits to reduce on-demand withdrawals, or suspending withdrawals altogether.",
+  "url": "https://en.wikipedia.org/wiki/Bank_run"
+}

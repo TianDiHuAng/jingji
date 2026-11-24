@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 712,
+  "count": 727,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8528,6 +8528,171 @@
       "url2": null,
       "verified": true,
       "note": "REST summary API 核对：页面返回摘要（663 字符）。"
+    },
+    {
+      "id": "w-en-toxic-assets",
+      "title": "Toxic asset",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Toxic_asset",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（431 字符）。"
+    },
+    {
+      "id": "w-en-junk-bond",
+      "title": "High-yield debt",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/High-yield_debt",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（266 字符）。"
+    },
+    {
+      "id": "w-en-payment-system",
+      "title": "Payment system",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Payment_system",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（502 字符）。"
+    },
+    {
+      "id": "w-en-prisoners-dilemma",
+      "title": "Prisoner's dilemma",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Prisoner's_dilemma",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（938 字符）。"
+    },
+    {
+      "id": "w-en-property-rights",
+      "title": "Property rights (economics)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Property_rights_(economics)",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（325 字符）。"
+    },
+    {
+      "id": "w-en-transaction-cost",
+      "title": "Transaction cost",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Transaction_cost",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（113 字符）。"
+    },
+    {
+      "id": "w-en-savings",
+      "title": "Saving",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Saving",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（206 字符）。"
+    },
+    {
+      "id": "w-en-investment",
+      "title": "Investment",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Investment",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（617 字符）。"
+    },
+    {
+      "id": "w-en-demand",
+      "title": "Demand",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Demand",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（290 字符）。"
+    },
+    {
+      "id": "w-en-population",
+      "title": "Population",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Population",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（519 字符）。"
+    },
+    {
+      "id": "w-en-inequality",
+      "title": "Economic inequality",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economic_inequality",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（513 字符）。"
+    },
+    {
+      "id": "w-en-labour-market",
+      "title": "Labour economics",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Labour_economics",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（218 字符）。"
+    },
+    {
+      "id": "w-en-specialization",
+      "title": "Division of labour",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Division_of_labour",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（789 字符）。"
+    },
+    {
+      "id": "w-en-tax-incidence",
+      "title": "Tax incidence",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Tax_incidence",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（572 字符）。"
+    },
+    {
+      "id": "w-en-buyback",
+      "title": "Share repurchase",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Share_repurchase",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（581 字符）。"
     }
   ]
 }

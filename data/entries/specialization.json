@@ -1,0 +1,28 @@
+{
+  "id": "specialization",
+  "title": "专业化",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "个体或地区专注于特定生产环节；通过分工提高效率，是增长与贸易的基础。",
+  "overview": "（据 Wikipedia「Division of labour」摘要归纳）The division of labour is the separation of the tasks in any economic system or organisation so that participants may specialise (specialisation). Individuals, organisations, and nations are endowed with, or acquire, specialised capabilities and either form combinations or trade to take advantage of others' capabilities. Specialised capabilities may include equipment, natural resources, and skills. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**多样化**的区别在\"方向\"：专业化使个体/地区专注于特定环节以提高效率；多样化则分散风险、提供韧性。这一权衡在危机中很尖锐：高度专业化的地区（单一产业城市）在遭遇行业冲击时受损更重；而过度多样化可能牺牲规模经济。在国际层面，专业化的风险是\"比较优势被锁定\"与供应链脆弱（2020年后讨论的\"去风险\"即针对此）。",
+  "related": [
+    "transaction-cost",
+    "free-trade",
+    "comparative-advantage",
+    "industrial-revolution"
+  ],
+  "sources": [
+    "w-en-specialization"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}

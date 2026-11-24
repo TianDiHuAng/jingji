@@ -1,0 +1,28 @@
+{
+  "id": "toxic-assets",
+  "title": "有毒资产",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "价值大幅下跌或已无法合理估值的金融资产；危机中常成为处置与救助的核心对象。",
+  "overview": "（据 Wikipedia「Toxic asset」摘要归纳）A toxic asset is a financial asset that has significantly decreased in value and for which there is no longer a functioning market. These assets cannot be sold at a satisfactory price for the holder. Because assets are offset against liabilities and frequently leveraged, this decline in price may be quite dangerous to the holder. 具体定义边界与争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**不良贷款**的区别在\"资产形态\"：有毒资产多指已证券化、市场冻结、无法定价的资产（次级MBS、CDO）；不良贷款是银行账上逾期或减值的贷款。这一区分决定处置工具：不良贷款靠催收、核销或出售；有毒资产因缺乏市场价格，需要**坏账银行**(bad bank) 或担保定价（如美国TARP的\"公私合营投资计划\"）。定价难题是核心——价格过低则银行资不抵债，过高则纳税人承担损失。",
+  "related": [
+    "bad-bank",
+    "subprime-lending",
+    "collateralized-debt-obligation",
+    "tarp"
+  ],
+  "sources": [
+    "w-en-toxic-assets"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。"
+}
