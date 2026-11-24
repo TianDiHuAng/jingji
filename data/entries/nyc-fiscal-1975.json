@@ -111,7 +111,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "危局通过两级安排缓解：州层面设立财政监督机构（Municipal Assistance Corporation / EFCB），并配合联邦贷款安排——以外部监督＋融资换取该市度过偿付危机。",
+      "basis": "据本条目正文（主体：纽约州/联邦政府；动作：设财政监督机构、提供贷款安排）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-nyc-fiscal-1975",
+        "w-en-finnish-banking-1990"
+      ]
+    }
+  ],
   "comparison": "与主权债务危机不同，纽约市没有货币与汇率工具，也不能像主权国家那样重组外债；与波多黎各2014年危机（见 puerto-rico-debt-2014）同属美国次级主权实体的财政困境，但纽约市最终避免了破产。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>纽约市财政危机(1975)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制造业岗位长期流失 + </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以短期债务滚动弥补赤字 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信用评级恶化 → 被排除</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -124,5 +134,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】 【续作DO】policy_response 由概述提炼。 【续作DV】policy_response 人工核验撰写。"
 }

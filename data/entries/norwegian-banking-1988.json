@@ -66,7 +66,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "随着问题暴露，银行体系遭受重大损失并**需要政府救助**（正文将其列为危机后果之一；具体救助形式与规模待核实）。",
+      "basis": "据本条目正文（主体：挪威政府；动作：对银行体系提供救助）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-norwegian-banking-1988",
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "comparison": "与同期芬兰银行危机(1991–93)、瑞典银行危机共享\"金融自由化→信贷繁荣→资产泡沫→银行危机\"机制；挪威案例被视为欧洲战后最大。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>挪威银行危机(1988–1992)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>挪威金融自由化释放危险的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -79,5 +89,5 @@
     "swedish-crisis-1990s"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作DV】policy_response 人工核验撰写。"
 }
