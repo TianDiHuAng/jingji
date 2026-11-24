@@ -1522,6 +1522,18 @@
       "check_result": "PASS; 九道检查全绿（check_docs 新增完整性项）",
       "spot_check": "13 个薄弱条目已补；缺 timeline/schools 由 16 降至 4",
       "note": "维基第49轮可用。GN-GP：**为 13 个薄弱条目补充内容**，缺 timeline/schools 的条目由 **16 降至 4**。①为 8 个补充：equity-premium（1985 年 Mehra-Prescott 提出谜题，历史溢价 **5%—8%** 高得难以置信，罕见灾难假说）、fractional-reserve（**1668 年瑞典 Riksbank** 为首家央行、挤兑脆弱性）、inequality（乐施会 2026 报告：亿万富翁 **3,000 人**、财富 **18.3 万亿**创纪录；过去 30 年国内不平等显著上升）、investment（可追溯至公元前 1700 年汉谟拉比法典）、eurodollar（1949 年首例）、modigliani-miller（基准含义）、payment-system（系统重要性）、proprietary-trading（与做市边界）。②再为 5 个补充：property-rights（1689 洛克自然权利、2013 年产权保护与发展研究）、specialization（1714 曼德维尔、1776 斯密扣针工厂）、mutual-fund（**1774 年 van Ketwich** 设信托、2023 年全球资产 **69 万亿美元**）、nasdaq（2024 年底 **4,075** 家上市公司）、labour-market（1990—2010 搜寻匹配框架）。③check_docs.py 新增**文档完整性检查**（行数下限／关键章节／轮次记录条数），防止 round 67 的误删重演。剩余 4 个（expectations／nasdaq／population／subordination）来源内容较少，属来源边界。当前：timeline 586 条、schools 1215 条、key_data 416 条。"
+    },
+    {
+      "round": "续作GQ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 625,
+      "reviewed": 1343,
+      "fixed": 1086,
+      "sources_total": 732,
+      "check_result": "PASS; 九道检查全绿",
+      "spot_check": "双向关联对 529→1615，剩余单向均为跨类（有意保留）",
+      "note": "维基第50轮可用。GQ：**对称化同类关联，双向关联对由 529 增至 1,615**。①检查发现 **1,343 条单向关联**（概念→概念 838／案例→案例 248／案例→概念 198／概念→案例 59）。②判断：两个概念互相关联、两个案例互为参照时，读者从任一侧都应能跳转；跨类关联（案例→概念）保持单向——案例可指向多个概念，概念不必回指所有案例。③补入 **1,086 条**反向关联，双向对 529 → **1,615**，剩余 257 条单向全部为跨类（有意保留）。④`related` 平均 5.6 条，最多 26 条（monetary-policy），页面显示正常。当前：625 条、来源 732、案例政策 146/205、key_data 416 条。九道检查全绿。"
     }
   ]
 }
