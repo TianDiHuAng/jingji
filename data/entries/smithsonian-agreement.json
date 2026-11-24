@@ -78,7 +78,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**史密森协议（1971年12月）**：各国货币对美元设定约 **2.25% 的交易区间**；各方同意以**特别提款权(SDR)** 平衡世界金融体系的方案；美国**取消进口附加税**。但黄金市场的美元价格持续对官方汇率施压——**1973年2月14日**美元再贬值 **10%** 后，日本与欧洲经济合作组织国家转向**浮动汇率**，此后十年间多数工业化国家相继浮动。",
+      "basis": "据 Wikipedia「Smithsonian Agreement」相关章节；政策主体：十国集团/美国；动作：汇率重估与区间设定、取消进口附加税；效果评价待核实",
+      "sources": [
+        "w-en-nixon-shock",
+        "w-en-smithsonian-agreement"
+      ]
+    }
+  ],
   "comparison": "是布雷顿森林体系终结过程中的过渡安排，介于1971年尼克松冲击与1976年牙买加协定之间。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>史密森协定(1971)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>史密森协定宣布，建立新美</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -93,5 +103,5 @@
     "nixon-shock"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作FF】基于维基全文补写policy_response。"
 }

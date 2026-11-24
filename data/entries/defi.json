@@ -66,7 +66,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**监管纳入**：**2021年10月**，金融行动特别工作组(FATF) 将 DeFi 纳入针对加密服务提供者的指引，意在对此类资产实施监管；FATF 期待各国自行判定 DeFi 的参与者是否可被视为虚拟资产提供者，从而适用相关义务。",
+      "basis": "据 Wikipedia「Decentralized finance」Regulation 章节；政策主体：FATF/各国监管机构；动作：将DeFi纳入反洗钱指引范围；效果评价待核实",
+      "sources": [
+        "w-en-defi",
+        "w-en-crypto-bubble"
+      ]
+    }
+  ],
   "comparison": "与传统金融相比，DeFi 缺乏最后贷款人、存款保险与KYC/AML框架。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>去中心化金融(DeFi)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>DeFi 通过智能合约提</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -80,5 +90,5 @@
     "terra-luna-2022"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作FF】基于维基全文补写policy_response。"
 }

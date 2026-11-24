@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**立法反应**：《萨班斯-奥克斯利法》正是在包括世通与安然在内的多起商业丑闻之后通过的。世通更名为 MCI，于 **2006年1月**被 Verizon Communications 收购。",
+      "basis": "据 Wikipedia「WorldCom」Aftermath 章节；政策主体：美国国会；动作：通过萨班斯-奥克斯利法（会计与审计监管改革）；效果评价待核实",
+      "sources": [
+        "w-en-worldcom",
+        "w-en-enron"
+      ]
+    }
+  ],
   "comparison": "与安然丑闻同属2001—2002年美国会计丑闻潮，均涉及高管层系统性造假。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>世通公司丑闻(2002)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>世通重大会计丑闻被揭露（</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -102,5 +112,5 @@
     "speculative-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。 【续作FF】基于维基全文补写policy_response。"
 }

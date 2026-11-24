@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**稳定化努力**：**2000年11月** IMF 向土耳其提供 **114 亿美元**贷款；土耳其并出售大量国有企业以平衡预算——例如土耳其航空在报纸上刊登广告，为其 **51% 股权**征集报价。到 2000 年，土耳其已出现大规模失业、药品短缺、信贷紧缩、为对抗通胀而压低生产以及税负上升。",
+      "basis": "据 Wikipedia「2001 Turkish economic crisis」Stabilization efforts 章节；政策主体：土耳其政府/IMF；动作：IMF贷款、国企私有化；效果评价待核实",
+      "sources": [
+        "w-en-turkey-2001",
+        "w-en-currency-crisis"
+      ]
+    }
+  ],
   "comparison": "与1994年墨西哥、1997年亚洲、2018年土耳其危机共享\"宏观失衡+政治冲击→货币危机\"机制。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>土耳其经济危机(2001)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>土耳其爆发经济危机：股市</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -103,5 +113,5 @@
     "turkish-crisis-2018"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AQ】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AQ】补关键数据（单源）。 【续作FF】基于维基全文补写policy_response。"
 }

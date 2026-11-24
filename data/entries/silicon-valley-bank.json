@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**官方表态**：2023年3月11日拜登与加州州长纽森讨论该行倒闭；**3月13日**开市前发表电视讲话，表达对银行体系韧性的信心，承诺政府将确保存款可用、但**不以纳税人资金奖励投资者**，并承诺**追究银行高管责任**、推动相关规则改革。**争论**：包括 Garry Tan、David Sacks 在内的 **599 名风险投资人**与对冲基金经理 Bill Ackman 等呼吁政府干预以保护未保险存款人；部分国会议员主张让存款人全额受偿，另一些则持相反立场。（正文同时记录了 FDIC 的接管与存款保险处置。）",
+      "basis": "据 Wikipedia「Silicon Valley Bank」Official responses 与 Debate over government intervention 章节；政策主体：总统/FDIC/国会；动作：承诺存款可用、追究高管责任、公开争论；效果评价待核实",
+      "sources": [
+        "w-en-collapse-of-svb",
+        "w-en-silicon-valley-bank"
+      ]
+    }
+  ],
   "comparison": "与北岩银行(2007)、华盛顿互惠(2008)同属挤兑型倒闭，但SVB挤兑在数日内完成（数字化提款）。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>硅谷银行倒闭(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>硅谷银行倒闭，成为202</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -106,5 +116,5 @@
     "signature-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AU】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AU】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。 【续作FF】基于维基全文补写policy_response。"
 }

@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**监管指引**：**2021年2月8日**，美国证券交易委员会(SEC) 发布一份**样本函**，为在\"极端价格波动\"期间寻求融资的公司提供指引——要求公司在信息披露中列明相关风险，并鼓励其……（具体建议内容待核实）。",
+      "basis": "据 Wikipedia「GameStop short squeeze」Regulation 章节；政策主体：SEC；动作：发布披露指引样本函；效果评价待核实",
+      "sources": [
+        "w-en-gamestop-2021",
+        "w-en-short-selling"
+      ]
+    }
+  ],
   "comparison": "与1901年北太平洋铁路逼空（panic-1901）机制相似：空头拥挤+抢筹；但本轮由散户协同与社交平台驱动。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>GameStop 空头挤压(2021)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>GameStop 等证券</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -103,5 +113,5 @@
     "speculative-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作FF】基于维基全文补写policy_response。"
 }

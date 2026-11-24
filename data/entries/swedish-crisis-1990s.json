@@ -100,7 +100,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**救助与处置并行（含同期芬兰经验）**：正文记载，1992年为稳定金融部门、防止信贷紧缩，政府向银行提供 **71 亿马克卡（约 12 亿欧元）**的初始零息可转换贷款，多数银行（SKOP 除外）其后偿还；并设立国有的**政府担保基金**(Valtion vakuusrahasto) 支持储蓄银行。瑞典方面的应对见本条目概述：Nordbanken 与 Götabanken 获财政支持并被国有化，成本达 **640 亿克朗**。",
+      "basis": "据 Wikipedia 相关条目 Government intervention and aftermath 章节（该段为芬兰经验）及本条目概述（瑞典数据）；政策主体：瑞典/芬兰政府；动作：可转换贷款、担保基金、国有化；效果评价待核实",
+      "sources": [
+        "w-en-finnish-banking-1990",
+        "w-en-swedish-crisis-1990s"
+      ]
+    }
+  ],
   "comparison": "与芬兰(1990s)、挪威(1988—1992)同属北欧银行危机群，共同背景是金融自由化后的信贷泡沫与1990年代初的深度衰退；瑞典的独特之处在于**处置方式的透明度与国有化力度**，其净财政成本显著低于日本。与2007—08次贷危机的成因相似性也常被强调。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>瑞典金融危机(1990–1994)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>金融自由化后信贷扩张 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>泡沫通缩 → 抵押品价值</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政府注资并国有化问题银行</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -114,5 +124,5 @@
     "norwegian-banking-1988"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述提炼。 【续作FF】基于维基全文补写policy_response。"
 }

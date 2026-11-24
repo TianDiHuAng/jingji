@@ -112,7 +112,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**2012年银行纾困**：**2012年6月9日**欧元集团召开紧急会议讨论向西班牙银行业注资；IMF 估计西班牙银行的资本需求约为 **400 亿欧元**；欧元集团宣布拟向西班牙政府的\"有序银行重组基金\"(FROB) 提供**最多 1000 亿欧元**，再由西班牙政府按需拨付给银行。",
+      "basis": "据 Wikipedia 相关条目 2012 financial bailout 章节；政策主体：欧元集团/西班牙政府；动作：向 FROB 提供最高1000亿欧元纾困额度；效果评价待核实",
+      "sources": [
+        "w-en-spain-2008",
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
   "comparison": "与爱尔兰(2008)、希腊(2010)同属欧元区危机案例，但西班牙以房地产泡沫与银行坏账为主、主权压力次之。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>西班牙金融危机(2008–2014)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>西班牙金融危机在经济危机</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -126,5 +136,5 @@
     "irish-banking-2008"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作DL】部分数据经OWID二次核对。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作DL】部分数据经OWID二次核对。 【续作DO】policy_response 由概述提炼。 【续作FF】基于维基全文补写policy_response。"
 }
