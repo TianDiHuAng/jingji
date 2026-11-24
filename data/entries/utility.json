@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "个人从某种状态中获得的满足程度的度量；经济学中用作偏好排序与福利分析的基础。",
-  "overview": "（据 Wikipedia「Utility」摘要归纳）In economics, utility is a measure of a certain person's satisfaction from a certain state of the world. Over time, the term has been used with at least two meanings.In a normative context, utility refers to a goal or objective that we wish to maximize, i.e., an objective function. This kind of utility bears a closer resemblance to the original utilitarian concept, developed by moral philosophers such as Jeremy Bentham and John Stuart Mill. 具体定义边界与学术争议待核实。",
+  "overview": "效用(utility) 在经济学中衡量**某个人在某种\"世界的状态\"下的满足程度**。该词至少有**两种含义**，不可混用：①**规范意义**——效用指\"我们想要最大化的那个目标\"，即一个**目标函数**；这种用法更接近**边沁与密尔**等道德哲学家提出的功利主义概念。②**描述意义**——效用指个体**实际的选择偏好**可由某个函数表示，此时它不必包含\"幸福\"或\"善\"的伦理内涵，只要求能排序。**在金融分析中的作用**：风险厌恶、跨期选择、以及\"人们为何在同等期望收益下偏好确定性\"，都要靠效用的**曲率**（凹函数表示风险厌恶）来刻画。**关键局限**：效用是**序数**的概念时，人与人之间的效用**不可比较**——这使得\"社会福利最大化\"在理论上缺少牢固基础，也是一些政策争议的根源。",
   "timeline": [
     {
       "year": 1789,
@@ -58,7 +58,7 @@
     "w-en-utility"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 486 字）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "效用的**基数可比性**是长期争议点：现代经济学多只用其**序数**性质（可排序），不做人际比较。因此任何以\"总效用\"为依据的政策主张都需要额外的分配判断，而这已超出实证范围。",

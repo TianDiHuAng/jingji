@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "自由市场对商品与服务的配置未达到帕累托效率的情形，常导致经济价值的净损失。",
-  "overview": "（据 Wikipedia「Market failure」摘要归纳）In neoclassical economics, market failure is a situation in which the allocation of goods and services by a free market is not Pareto efficient, often leading to a net loss of economic value. The first known use of the term by economists was in 1958, but the concept has been traced back to the Victorian writers John Stuart Mill and Henry Sidgwick. Market failures are often associated with public goods, time-inconsistent preferences, information asymmetries, failures of competition, principal–agent problems, externalities, unequal bargaining power, behavioral irrationality, and macro-economic failures. 具体定义边界与学术争议待核实。",
+  "overview": "市场失灵(market failure) 是新古典经济学中的核心概念：**自由市场对商品与服务的配置未达到帕累托效率**，因而造成经济价值的净损失。换句话说，仅靠价格机制无法把资源配置到\"没有任何人能在不损害他人的前提下变得更好\"的状态。**词源**：经济学家首次使用该术语是在 **1958 年**，但概念本身可追溯到维多利亚时代的**约翰·斯图亚特·密尔**与**亨利·西季威克**。**常见来源**：**公共品**（无法排他，私人不愿供给）、**时间不一致的偏好**（当下冲动压倒长期利益）、**信息不对称**、**竞争不足**（垄断与进入壁垒）、以及**外部性**（成本或收益不由交易双方承担）。**为什么与金融危机相关**：金融监管的正当性大多建立在市场失灵之上——挤兑与传染是**协调失败**，信息不对称使投资者无法辨别银行优劣，系统重要性机构的倒闭则是**负外部性**的典型。**争议**：主张最小干预者认为市场参与者能自我纠正，所谓\"失灵\"多是政府干预自身造成的；这一分歧决定了监管的边界。",
   "timeline": [
     {
       "year": 1776,
@@ -59,7 +59,7 @@
     "w-zh-market-failure"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 657 字）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "\"帕累托效率\"是**相对于初始禀赋与偏好**而言的，因此\"市场失灵\"的判断依赖于所设的基准；不同基准下同一现象可能不被视为失灵。本文不给出各国失灵程度的量化比较（缺乏统一口径）。",

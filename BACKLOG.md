@@ -79,3 +79,46 @@
 
 **核实方法**：先查 `data/entries/` 的实际 id 与标题（不只比对清单），
 再测维基页面是否为**专属页**（通用页/重定向页不作专属来源）。
+
+## 待办：R21 英文占比超标（33 条，round 110 记录）
+
+**问题**：以下条目的 `overview` 以英文摘要充当正文（英文占比 49—96%），中文站点不应如此。
+**已完成**：market-failure／utility／recession／prisoners-dilemma／counterparty-risk／modigliani-miller（6 条）。
+**待修 33 条**（按英文占比降序，括号内为占比%）：
+
+- `convergence`（96%）
+- `equity-premium`（96%）
+- `fractional-reserve`（96%）
+- `inequality`（96%）
+- `population`（96%）
+- `rent-seeking`（96%）
+- `specialization`（96%）
+- `effective-demand`（95%）
+- `investment`（95%）
+- `payment-system`（95%）
+- `property-rights`（95%）
+- `railway-mania`（95%）
+- `tax-incidence`（95%）
+- `bankruptcy-ftx`（94%）
+- `buyback`（94%）
+- `mutual-fund`（94%）
+- `nasdaq`（94%）
+- `recession-1920-1921`（94%）
+- `toxic-assets`（94%）
+- `demand`（93%）
+- `expectations`（93%）
+- `growth`（93%）
+- `junk-bond`（93%）
+- `dividend`（92%）
+- `labour-market`（92%）
+- `savings`（92%）
+- `proprietary-trading`（91%）
+- `eurodollar`（89%）
+- `transaction-cost`（87%）
+- `danatbank-1931`（63%）
+- `merrill-lynch`（50%）
+- `creditanstalt`（49%）
+- `silicon-valley-bank`（48%）
+
+**修法**：读该条目的 `_research/wiki_full/<id>.txt`，用中文重写 overview，
+保留原有事实与 sources，不新增无据内容；改完跑 `check.py` 确认 R21 不再报错。

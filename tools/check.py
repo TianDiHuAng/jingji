@@ -279,6 +279,17 @@ def main():
     for _e in entries:
         if str(_e.get('unit', '')).startswith('U1') and _e.get('region') == '全球':
             err('R20', _e.get('id', '?'), 'U1 时期尚无全球金融体系，不应标 region=全球')
+    # R21 overview 须以中文为主（英文占比不得 >45%）
+    import re as _re21
+    for _e in entries:
+        _ov = _e.get('overview') or ''
+        _zh = len(_re21.findall(r'[\u4e00-\u9fff]', _ov))
+        _en = len(_re21.findall(r'[A-Za-z]', _ov))
+        if _zh + _en > 40:
+            _r21 = _en / (_zh + _en)
+            if _r21 > 0.45:
+                err('R21', _e.get('id', '?'),
+                    'overview 英文占比 %.0f%%（须 ≤45%%）' % (_r21 * 100))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "在无税收、无破产成本等假设下，企业价值与资本结构无关的定理；现代资本结构理论的基准。",
-  "overview": "（据 Wikipedia「Modigliani–Miller theorem」摘要归纳）The Modigliani–Miller theorem is an influential element of economic theory; it forms the basis for modern thinking on capital structure. The basic theorem states that in the absence of taxes, bankruptcy costs, agency costs, and asymmetric information, and in an efficient market, the enterprise value of a firm is unaffected by how that firm is financed. This is not to be confused with the value of the equity of the firm. 具体定义边界与学术争议待核实。",
+  "overview": "莫迪利亚尼-米勒定理(Modigliani–Miller theorem) 是现代**资本结构**理论的基石。**基本命题**：在**没有税收、没有破产成本、没有代理成本、没有信息不对称**，且**市场有效**的条件下，**企业的整体价值与其融资方式无关**——无论是发股、发债还是混合融资，企业价值都一样。**最容易误读之处**：该定理说的是**企业价值(enterprise value)** 不受影响，**不是**说**股权价值**不受影响。事实上，加杠杆会提高股权的风险与预期回报，只是两者的变化恰好互相抵消。**为什么它重要**：该定理的价值不在于\"现实中成立\"，而在于**它标出了现实偏离理想的条件**——正是因为存在**税盾**（利息可抵税）、**破产成本**、**代理成本**与**信息不对称**，现实中才存在\"最优资本结构\"。**在金融监管中的延伸**：若 MM 成立，则\"要求银行多用股权融资\"不会提高其总体资金成本；而现实中银行普遍偏好债务，正是税盾与隐性救助补贴共同作用的结果——这是主张提高资本要求的论证起点。",
   "timeline": [],
   "causal_chain": [],
   "schools": [
@@ -33,5 +33,5 @@
     "w-zh-modigliani-miller"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 483 字）。"
 }

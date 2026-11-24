@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "交易对手在己方已履约后未按约定交割证券或支付现金的风险，亦称结算风险。",
-  "overview": "（据 Wikipedia「Settlement risk」摘要归纳）Settlement risk, also known as delivery risk or counterparty risk, is the risk that a counterparty fails to deliver a security or its value in cash as per agreement after the first party has delivered the security or cash value. The term covers factors incidental to the settlement process that may suspend or prevent a trade from completing, even should the parties themselves be in agreement, act in good faith, and are otherwise competent to perform. 具体定义边界与学术争议待核实。",
+  "overview": "对手方风险(counterparty risk)，又称**结算风险**或**交割风险**，指**一方已经交付了证券或现金之后，对手方未能按约定交付对应的证券或现金**的风险。**范围比\"违约\"更宽**：该词涵盖结算过程中可能**中止或阻止交易完成**的各种偶然因素，**即使交易双方本身都同意、都善意行事、也都具备履约能力**——例如时区与营业时间错配、支付系统故障、或一方在中间环节被第三方延误。**为什么重要**：金融市场的日交易量远超任何参与者的资本，结算链条上一环断裂即可造成连锁的流动性紧张。**常见的缓释手段**：**货银对付(DvP)**（证券与资金同步交收，消除\"先交货后收钱\"的敞口）、**净额结算**（把双向敞口轧差）、以及**中央对手方(CCP)**（由清算所介入成为每个卖方的买方、每个买方的卖方）。**危机中的教训**：雷曼破产时，大量机构因无法确定自身对雷曼的净敞口而同时冻结对同业的拆借，把单个机构的违约放大成了全市场的流动性冻结。",
   "timeline": [
     {
       "year": 1974,
@@ -61,5 +61,5 @@
     "w-en-settlement-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/schools/key_data。 【续作KC】overview 由英文摘要改写为中文（原 503 字）。"
 }

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "两个自利主体在缺乏信任与约束时选择\"背叛\"、结果双双更差的博弈结构。",
-  "overview": "（据 Wikipedia「Prisoner's dilemma」摘要归纳）In game theory, the prisoner's dilemma is a thought experiment involving two rational agents, each of whom can either cooperate for mutual benefit or betray their partner (\"defect\") for individual gain. The dilemma arises from the fact that while defecting is rational for each agent, cooperation yields a higher payoff for each. The puzzle was designed by Merrill Flood and Melvin Dresher in 1950 during their work at the RAND Corporation. 具体定义边界与争议待核实。",
+  "overview": "囚徒困境(prisoner's dilemma) 是博弈论中的一个思想实验：两个理性主体各自可以选择**合作**（互利）或**背叛**（英文 defect，为个人获益）。**困境之所在**：**背叛对每个主体单独而言都是理性的**，但双方合作却能让**每个人都得到更高的收益**——于是理性选择导致集体次优结果。**由来**：这一\"谜题\"由 **Merrill Flood 与 Melvin Dresher 于 1950 年**在**兰德公司(RAND)** 工作期间设计。**与金融危机的关系**：它是理解**挤兑**与**传染**的标准工具——对每一家银行而言，\"先跑\"是理性的；但当所有人都跑，本来稳健的银行也会被挤垮。**政策含义**：破解办法不在说服个体\"更理性\"，而在**改变支付结构**——存款保险、最后贷款人、暂停兑换（银行假日）都是把\"跑\"的收益降下来，使均衡从\"全体背叛\"移到\"全体合作\"。",
   "timeline": [
     {
       "year": 1950,
@@ -41,5 +41,5 @@
     "w-zh-prisoners-dilemma"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 491 字）。"
 }

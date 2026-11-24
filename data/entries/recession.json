@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "经济活动普遍而持续的收缩；判定通常依据产出、就业、收入与销售的共同下降，而非单一指标。",
-  "overview": "（据 Wikipedia「Recession」摘要归纳）In economics, a recession is a business cycle contraction that occurs when there is a period of broad decline in economic activity. Recessions generally occur when there is a widespread drop in spending. This may be triggered by various events, such as a financial crisis, an external trade shock, an adverse supply shock, the bursting of an economic bubble, or a large-scale anthropogenic or natural disaster. 具体定义边界与学术争议待核实。",
+  "overview": "衰退(recession) 指经济活动**广泛而持续的收缩**。它通常发生在**支出普遍下降**之时，并可由多种事件触发：**金融危机**、**外部贸易冲击**、**不利的供给冲击**（如油价暴涨）、**经济泡沫破裂**、以及**大规模的人为或自然灾害**。**识别的难点**：经济活动的\"广泛下降\"没有唯一的量化门槛，不同机构采用不同判据（如产出、就业、收入、销售的多项同时下降），因此同一时期是否算\"衰退\"可能有分歧。**与萧条的区别**：萧条是更深、更久的收缩，但二者的分界并无公认数值标准。**本库的处理**：具体案例以来源记载的口径为准，遇到不同口径并存时并列呈现，不代读者裁定（见 verification 页的\"两源差异\"）。",
   "timeline": [
     {
       "year": 1945,
@@ -92,7 +92,7 @@
     "w-en-recession"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 454 字）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "衰退判定的三套门槛（深度／扩散／OECD）来自不同机构，**不可混用**；\"连续两季负增长\"是媒体通俗说法，并非任一官方标准。关键数据中的门槛值是该条目所据来源的表述，与其他国家的官方定义可能不同。",
