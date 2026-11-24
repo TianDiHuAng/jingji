@@ -1,0 +1,42 @@
+{
+  "bis": {
+    "title": "Bank for International Settlements",
+    "extract": "The Bank for International Settlements (BIS) is an international financial institution which is owned by members' central banks. Its primary goal is to foster international monetary and financial cooperation while serving as a bank for central banks. With its establishment in 1930 it is the oldest international financial institution. Its initial purpose was to oversee the settlement of World War I war reparations.",
+    "slug": "Bank_for_International_Settlements"
+  },
+  "gatt": {
+    "title": "General Agreement on Tariffs and Trade",
+    "extract": "The General Agreement on Tariffs and Trade (GATT) is a legal agreement between many countries, whose overall purpose was to promote international trade by reducing or eliminating trade barriers such as tariffs or quotas. According to its preamble, its purpose was the \"substantial reduction of tariffs and other trade barriers and the elimination of preferences, on a reciprocal and mutually advantageous basis\".",
+    "slug": "General_Agreement_on_Tariffs_and_Trade"
+  },
+  "oecd": {
+    "title": "OECD",
+    "extract": "The Organisation for Economic Co-operation and Development is an intergovernmental organisation with 38 member countries. It was founded in 1961 to stimulate economic progress and world trade. The OECD is a forum whose member countries describe themselves as committed to democracy and the market economy, providing a platform for collective problem-solving, analysis, and coordination.",
+    "slug": "OECD"
+  },
+  "fsb": {
+    "title": "Financial Stability Board",
+    "extract": "The Financial Stability Board (FSB) is an international body that monitors and makes recommendations about the global financial system. It was established in the 2009 G20 Pittsburgh Summit as a successor to the Financial Stability Forum (FSF). The Board includes all G20 major economies, FSF members, and the European Commission. Hosted and funded by the Bank for International Settlements, the board is based in Basel, Switzerland, established as a non-profit association under Swiss law.",
+    "slug": "Financial_Stability_Board"
+  },
+  "esfs": {
+    "title": "European System of Financial Supervision",
+    "extract": "The European System of Financial Supervision (ESFS) is the framework for financial supervision in the European Union that has been in operation since 2011. The system consists of the European Supervisory Authorities (ESAs), the European Systemic Risk Board, the Joint Committee of the European Supervisory Authorities, and the national supervisory authorities of EU member states. It was proposed by the European Commission in 2009 in response to the 2008 financial crisis.",
+    "slug": "European_System_of_Financial_Supervision"
+  },
+  "esrb": {
+    "title": "European Systemic Risk Board",
+    "extract": "The European Systemic Risk Board (ESRB) is a group established on 16 December 2010 in response to the euro area crisis. It is tasked with the macro-prudential oversight of the financial system within the European Union in order to contribute to the prevention or mitigation of systemic risks to financial stability in the EU. It shall contribute to the smooth functioning of the internal market and thereby ensure a sustainable contribution of the financial sector to economic growth.",
+    "slug": "European_Systemic_Risk_Board"
+  },
+  "iosco": {
+    "title": "International Organization of Securities Commissions",
+    "extract": "The International Organization of Securities Commissions (IOSCO) is an association of organizations that regulate the world's securities and futures markets. Members are typically primary securities and/or futures regulators in a national jurisdiction or the main financial regulator from each country. Its mandate is to:Develop, implement, and promote high standards of regulation to enhance investor protection and reduce systemic risk\nShare information with exchanges and assist them with technical and operational issues\nEstablish standards toward monitoring global investment transactions across borders and markets",
+    "slug": "International_Organization_of_Securities_Commissions"
+  },
+  "fatf": {
+    "title": "Financial Action Task Force",
+    "extract": "The Financial Action Task Force (FATF), also known by its French name, Groupe d'action financière (GAFI), is an intergovernmental organisation founded in 1989 on the initiative of the G7 to develop policies to combat money laundering and to maintain certain interest. In 2001, its mandate was expanded to include terrorism financing. The FATF Secretariat is administratively hosted at the OECD in Paris, but the two organisations are separate.",
+    "slug": "Financial_Action_Task_Force"
+  }
+}

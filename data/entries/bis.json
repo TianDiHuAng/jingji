@@ -1,0 +1,71 @@
+{
+  "id": "bis",
+  "title": "国际清算银行(BIS)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "由成员国中央银行所有的国际金融机构，主要目标是促进国际货币与金融合作。",
+  "overview": "国际清算银行（BIS）是一家由成员国中央银行所有的国际金融机构。其主要目标是促进国际货币与金融合作（并充当中央银行的银行）。BIS 也是巴塞尔银行监管委员会等标准制定机构的所在地，在全球金融治理中扮演关键角色。具体职能与历史待核实。",
+  "timeline": [
+    {
+      "year": 1930,
+      "display": "1930年",
+      "event": "BIS 成立（通说；据 Wikipedia BIS，具体日期待核实）",
+      "sources": [
+        "w-en-bis"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "各国央行需合作与清算便利 → 设立 BIS",
+      "sources": [
+        "w-en-bis"
+      ]
+    },
+    {
+      "step": "BIS 提供央行合作平台与标准制定场所",
+      "sources": [
+        "w-en-bis"
+      ]
+    },
+    {
+      "step": "巴塞尔资本标准由此产生 → 影响全球银行监管",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "合作视角",
+      "view": "BIS 降低央行间协调成本",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-bis"
+      ]
+    },
+    {
+      "holder": "标准制定视角",
+      "view": "非正式网络促成监管标准扩散",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-basel-accords"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与国际货币基金组织（治理与救助）不同，BIS 偏重央行合作与标准制定。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国际清算银行(BIS)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>各国央行需合作与清算便利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>BIS 提供央行合作平台</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>巴塞尔资本标准由此产生 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-bis",
+    "w-en-basel-accords"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

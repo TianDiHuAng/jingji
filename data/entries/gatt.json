@@ -1,0 +1,80 @@
+{
+  "id": "gatt",
+  "title": "关税与贸易总协定(GATT)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "多国间的法律协定，总体目的在通过减少或消除关税等贸易壁垒促进国际贸易。",
+  "overview": "关税与贸易总协定（GATT）是许多国家之间的法律协定，其总体目的是通过减少或消除关税等贸易壁垒来促进国际贸易。它是战后多边贸易体系的基石，后经多轮谈判演化为世界贸易组织（WTO）。具体历史待核实。",
+  "timeline": [
+    {
+      "year": 1947,
+      "display": "1947年",
+      "event": "GATT 签署（通说；具体日期待核实）",
+      "sources": [
+        "w-en-gatt"
+      ]
+    },
+    {
+      "year": 1995,
+      "display": "1995年1月1日",
+      "event": "WTO 成立，接续 GATT 框架",
+      "sources": [
+        "w-en-wto"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1930年代以邻为壑关税战 → 战后寻求贸易自由化规则",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    },
+    {
+      "step": "GATT 多轮谈判削减关税 → 贸易扩张",
+      "sources": [
+        "w-en-gatt"
+      ]
+    },
+    {
+      "step": "乌拉圭回合 → 升级为 WTO",
+      "sources": [
+        "w-en-wto"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "自由化视角",
+      "view": "规则化减关税促进增长",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gatt"
+      ]
+    },
+    {
+      "holder": "主权视角",
+      "view": "规则约束可能限制政策空间",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与布雷顿森林体系的货币支柱（IMF）并列，构成战后\"货币-贸易\"双支柱。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>关税与贸易总协定(GATT)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1930年代以邻为壑关税</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>GATT 多轮谈判削减关</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>乌拉圭回合 → 升级为 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-beggar-thy-neighbour",
+    "w-en-gatt",
+    "w-en-wto"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

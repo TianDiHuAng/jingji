@@ -1,0 +1,71 @@
+{
+  "id": "iosco",
+  "title": "国际证监会组织(IOSCO)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "各国证券与期货市场监管机构的协会。",
+  "overview": "国际证监会组织（IOSCO）是各国证券与期货市场监管机构组成的协会。其成员通常是一国的主要证券监管机构。IOSCO 制定证券监管原则与标准，促进跨境监管合作与信息共享。具体职能待核实。",
+  "timeline": [
+    {
+      "year": 1983,
+      "display": "1983年",
+      "event": "IOSCO 成立（通说；具体日期待核实）",
+      "sources": [
+        "w-en-iosco"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "跨境证券交易增加 → 需监管协调",
+      "sources": [
+        "w-en-iosco"
+      ]
+    },
+    {
+      "step": "制定监管原则与谅解备忘录 → 促进合作",
+      "sources": [
+        "w-en-iosco"
+      ]
+    },
+    {
+      "step": "与 BIS、FSB 共同构成标准制定网络",
+      "sources": [
+        "w-en-fsb"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "标准制定视角",
+      "view": "以原则与同行评审推动趋同",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-iosco"
+      ]
+    },
+    {
+      "holder": "主权视角",
+      "view": "成员国执行差异削弱一致性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-esfs"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与巴塞尔委员会（银行）、IAIS（保险）并列为三大金融标准制定机构。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国际证监会组织(IOSCO)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>跨境证券交易增加 → 需</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>制定监管原则与谅解备忘录</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与 BIS、FSB 共同</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-iosco",
+    "w-en-fsb"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

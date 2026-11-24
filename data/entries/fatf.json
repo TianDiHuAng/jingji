@@ -1,0 +1,70 @@
+{
+  "id": "fatf",
+  "title": "金融行动特别工作组(FATF)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "1989年由G7倡议成立的政府间组织，负责制定反洗钱与反恐融资政策。",
+  "overview": "金融行动特别工作组（FATF，法语名 GAFI）是一个政府间组织，1989年在七国集团（G7）倡议下成立，以制定（反洗钱与反恐融资）政策。FATF 的建议被广泛视为国际反洗钱标准，并通过互评估机制推动落实。具体职能待核实。",
+  "timeline": [
+    {
+      "year": 1989,
+      "display": "1989年",
+      "event": "G7 倡议成立 FATF（据 Wikipedia FATF）",
+      "sources": [
+        "w-en-fatf"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "洗钱与金融犯罪跨境化 → 需国际标准",
+      "sources": [
+        "w-en-fatf"
+      ]
+    },
+    {
+      "step": "FATF 建议 + 互评估 → 推动各国立法",
+      "sources": [
+        "w-en-fatf"
+      ]
+    },
+    {
+      "step": "\"不合作辖区\"名单 → 形成实质约束力",
+      "sources": [
+        "w-en-fatf"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "标准扩散视角",
+      "view": "互评估与名单机制产生强约束",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fatf"
+      ]
+    },
+    {
+      "holder": "成本视角",
+      "view": "合规负担与\"去风险化\"副作用受批评",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-de-risking"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与 IOSCO/BIS 等标准制定机构相比，FATF 的名单机制约束力更强。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融行动特别工作组(FATF)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>洗钱与金融犯罪跨境化 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>FATF 建议 + 互评</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>\"不合作辖区\"名单 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-fatf"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

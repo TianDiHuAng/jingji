@@ -1,0 +1,71 @@
+{
+  "id": "oecd",
+  "title": "经济合作与发展组织(OECD)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "拥有38个成员国的政府间组织，1961年成立，旨在促进经济进步与全球贸易。",
+  "overview": "经济合作与发展组织（OECD）是一个拥有38个成员国的政府间组织。它于1961年成立，旨在促进经济进步与全球贸易。OECD 以政策研究、统计标准与同行评审著称，其数据与研究广泛用于国际比较。具体职能待核实。",
+  "timeline": [
+    {
+      "year": 1961,
+      "display": "1961年",
+      "event": "OECD 成立，38个成员国（据 Wikipedia OECD）",
+      "sources": [
+        "w-en-oecd"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "战后欧洲经济合作需求 → 从 OEEC 演进为 OECD",
+      "sources": [
+        "w-en-oecd"
+      ]
+    },
+    {
+      "step": "提供统计标准与政策同行评审",
+      "sources": [
+        "w-en-oecd"
+      ]
+    },
+    {
+      "step": "影响成员国政策与全球治理议程",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "技术治理视角",
+      "view": "以数据与同行评审影响政策",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-oecd"
+      ]
+    },
+    {
+      "holder": "俱乐部视角",
+      "view": "发达国家俱乐部属性限制代表性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-gatt"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与 IMF/世行相比，OECD 不提供救助，侧重研究与政策协调。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经济合作与发展组织(OECD)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>战后欧洲经济合作需求 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>提供统计标准与政策同行评</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>影响成员国政策与全球治理</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-oecd",
+    "w-en-international-monetary-system"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

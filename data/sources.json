@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 612,
+  "count": 621,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7345,6 +7345,114 @@
       "verified": true,
       "link_ok": true,
       "note": "OWID 结构化 CSV(本会话下载核对，实际GDP增速口径，源自世界银行，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "owid-population",
+      "title": "Population (World Bank / UN via Our World in Data)",
+      "author": "Our World in Data（数据源：World Bank / UN）",
+      "year": "2024",
+      "type": "统计数据库",
+      "url": "https://ourworldindata.org/grapher/population",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "OWID 结构化 CSV(本会话下载核对，源自世界银行/联合国，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "w-en-bis",
+      "title": "Bank for International Settlements",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Bank_for_International_Settlements",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-gatt",
+      "title": "General Agreement on Tariffs and Trade",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-oecd",
+      "title": "OECD",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/OECD",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-fsb",
+      "title": "Financial Stability Board",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Financial_Stability_Board",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-esfs",
+      "title": "European System of Financial Supervision",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/European_System_of_Financial_Supervision",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-esrb",
+      "title": "European Systemic Risk Board",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/European_Systemic_Risk_Board",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-iosco",
+      "title": "International Organization of Securities Commissions",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_of_Securities_Commissions",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-fatf",
+      "title": "Financial Action Task Force",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Financial_Action_Task_Force",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
     }
   ]
 }

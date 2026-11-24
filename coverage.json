@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 512,
+  "total": 520,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -6657,6 +6657,110 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "货币"
+    },
+    {
+      "id": "bis",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "gatt",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "oecd",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "fsb",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "esfs",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "esrb",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "iosco",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "fatf",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 3,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
     }
   ]
 }

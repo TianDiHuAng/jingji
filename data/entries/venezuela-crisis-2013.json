@@ -57,9 +57,31 @@
       "unit": "百万人（770万；2021年为540万）",
       "year": 2024,
       "comparable_price": false,
-      "note": "原文：7.7 million had emigrated by 2024；单一来源待核实。",
+      "note": "原文：7.7 million had emigrated by 2024；单一来源待核实｜注：此为**累计出境/移民统计**，与常住人口存量变化（见世行口径条目）口径不同，不宜直接比较。",
       "sources": [
         "w-en-crisis-in-venezuela"
+      ]
+    },
+    {
+      "label": "委内瑞拉常住人口(2018，世行/UN口径)",
+      "value": 29.81,
+      "unit": "百万人（29,807,591）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "来源：OWID population.csv，Venezuela 2018 → 29,807,591（世界银行/联合国口径）。",
+      "sources": [
+        "owid-population"
+      ]
+    },
+    {
+      "label": "委内瑞拉常住人口(2021，世行/UN口径)",
+      "value": 28.24,
+      "unit": "百万人（28,237,830；较2018减少约157万，−5.3%）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "来源：OWID population.csv，Venezuela 2021 → 28,237,830。**与本条目\"2021年20%（540万）已离开\"并不矛盾但口径不同**：本条为常住人口存量净变化（−157万），而\"540万\"通常指累计出境人数（含短期离境、未变更常住登记等）。两者不可直接等同，具体口径待核实。",
+      "sources": [
+        "owid-population"
       ]
     }
   ],
@@ -96,7 +118,8 @@
   "sources": [
     "w-en-crisis-in-venezuela",
     "w-en-hyperinflation",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "owid-population"
   ],
   "related": [
     "brazil-hyper-1980",
@@ -104,5 +127,5 @@
     "greek-hyper-1941"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AU】补关键数据（单源）。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AU】补关键数据（单源）。 【续作BJ】人口外流数据已并列两套口径：累计移民数（维基）与常住人口净变化（世行/UN）；二者含义不同，已分别注明。"
 }

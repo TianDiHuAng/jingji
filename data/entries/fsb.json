@@ -1,0 +1,72 @@
+{
+  "id": "fsb",
+  "title": "金融稳定理事会(FSB)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "监测全球金融体系并提出建议的国际机构，2009年G20匹兹堡峰会成立。",
+  "overview": "金融稳定理事会（FSB）是一个监测全球金融体系并提出相关建议的国际机构。它于2009年G20匹兹堡峰会上成立，作为（金融稳定论坛的）后继机构。FSB 负责协调国际监管改革、识别系统性风险，并与标准制定机构合作。具体职能待核实。",
+  "timeline": [
+    {
+      "year": 2009,
+      "display": "2009年",
+      "event": "G20匹兹堡峰会成立 FSB，接续金融稳定论坛（据 Wikipedia FSB）",
+      "sources": [
+        "w-en-fsb"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "2008金融危机暴露监管碎片化 → 需全球协调机构",
+      "sources": [
+        "w-en-2008-financial-crisis"
+      ]
+    },
+    {
+      "step": "G20 授权成立 FSB → 协调监管改革",
+      "sources": [
+        "w-en-fsb"
+      ]
+    },
+    {
+      "step": "推动系统重要性机构名单与影子银行监测",
+      "sources": [
+        "w-en-sifi"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "协调视角",
+      "view": "FSB 弥合各国监管差异",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-fsb"
+      ]
+    },
+    {
+      "holder": "执行力视角",
+      "view": "FSB 无强制力，依赖成员自愿落实",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-basel-iii"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与 BIS（央行合作）分工：FSB 偏重监管政策协调与风险识别。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>金融稳定理事会(FSB)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2008金融危机暴露监管</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>G20 授权成立 FSB</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>推动系统重要性机构名单与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-2008-financial-crisis",
+    "w-en-fsb",
+    "w-en-sifi"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

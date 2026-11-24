@@ -1,0 +1,72 @@
+{
+  "id": "esrb",
+  "title": "欧洲系统性风险委员会(ESRB)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "2010年12月16日为应对欧元区危机而设立，负责欧盟金融体系的宏观审慎监督。",
+  "overview": "欧洲系统性风险委员会（ESRB）是2010年12月16日为应对欧元区危机而设立的机构。其任务是对（欧盟）金融体系进行宏观审慎监督。ESRB 负责识别系统性风险并向监管者发出警告与建议，本身不具直接监管权。具体职能待核实。",
+  "timeline": [
+    {
+      "year": 2010,
+      "display": "2010年12月16日",
+      "event": "ESRB 设立，负责宏观审慎监督（据 Wikipedia ESRB）",
+      "sources": [
+        "w-en-esrb"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "欧元区危机暴露系统性风险监测缺口",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    },
+    {
+      "step": "2010-12-16 设立 ESRB → 承担宏观审慎监督",
+      "sources": [
+        "w-en-esrb"
+      ]
+    },
+    {
+      "step": "以警告与建议影响成员国监管",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "宏观审慎视角",
+      "view": "需超越个体机构的系统性视角",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-esrb"
+      ]
+    },
+    {
+      "holder": "软权力视角",
+      "view": "无直接监管权削弱执行力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-macroprudential"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与 FSB 的全球层面相对应，ESRB 是欧盟层面的宏观审慎机构。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲系统性风险委员会(ESRB)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>欧元区危机暴露系统性风险</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2010-12-16 设</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>以警告与建议影响成员国监</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-euro-area-crisis",
+    "w-en-esrb",
+    "w-en-macroprudential"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

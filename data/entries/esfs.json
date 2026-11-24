@@ -1,0 +1,72 @@
+{
+  "id": "esfs",
+  "title": "欧洲金融监管体系(ESFS)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "欧盟金融监管框架，自2011年起运作，由欧洲监管局等构成。",
+  "overview": "欧洲金融监管体系（ESFS）是欧盟自2011年起运作的金融监管框架。该系统由欧洲监管局（ESAs）等构成（并与 ESRB 的宏观审慎层面相配合）。它是在2008年危机后为弥补成员国监管分割而建立的。具体架构待核实。",
+  "timeline": [
+    {
+      "year": 2011,
+      "display": "2011年起",
+      "event": "ESFS 开始运作（据 Wikipedia ESFS）",
+      "sources": [
+        "w-en-esfs"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "危机暴露成员国监管分割 → 需欧盟层面协调",
+      "sources": [
+        "w-en-2008-financial-crisis"
+      ]
+    },
+    {
+      "step": "建立 ESFS 与三家欧洲监管局 → 统一规则与协调",
+      "sources": [
+        "w-en-esfs"
+      ]
+    },
+    {
+      "step": "与 ESRB 宏观审慎职能配合",
+      "sources": [
+        "w-en-esrb"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "一体化视角",
+      "view": "超国家监管协调弥补分割",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-esfs"
+      ]
+    },
+    {
+      "holder": "主权视角",
+      "view": "监管权让渡引发政治阻力",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-euro-area-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与美国的联邦监管体系相比，欧盟为超国家协调且依赖成员国执行。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>欧洲金融监管体系(ESFS)：架构示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>危机暴露成员国监管分割 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>建立 ESFS 与三家欧</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与 ESRB 宏观审慎职</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体成立时间与职能见正文。</text></svg>",
+  "sources": [
+    "w-en-2008-financial-crisis",
+    "w-en-esfs",
+    "w-en-esrb"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：成立时间与职能据维基摘要；具体日期与细节待核实。【续作BK】"
+}

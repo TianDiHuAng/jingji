@@ -63,6 +63,28 @@
       "sources": [
         "w-en-greek-government-debt-crisis"
       ]
+    },
+    {
+      "label": "希腊人口(2009，世行/UN口径)",
+      "value": 11.11,
+      "unit": "百万人（11,108,067）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "来源：OWID population.csv，Greece 2009 → 11,108,067（世界银行/联合国口径）。",
+      "sources": [
+        "owid-population"
+      ]
+    },
+    {
+      "label": "希腊人口(2017，世行/UN口径)",
+      "value": 10.75,
+      "unit": "百万人（10,753,532；较2009减少约35万，−3.2%）",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "来源：OWID population.csv，Greece 2017 → 10,753,532。危机期间人口净减少，与移民外流和低生育率相符（具体归因待核实）。",
+      "sources": [
+        "owid-population"
+      ]
     }
   ],
   "schools": [
@@ -114,7 +136,8 @@
   "sources": [
     "w-en-debt-crisis",
     "w-en-greek-government-debt-crisis",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "owid-population"
   ],
   "related": [
     "china-realestate-2020",
@@ -122,7 +145,7 @@
     "pakistan-crisis-2021"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-greek-government-debt-crisis。 【续作AN】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。",
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【L3】学者解释的具体适用与原文出处、关键数据数值待核实。 【轮次6体检】补专属来源w-en-greek-government-debt-crisis。 【续作AN】补关键数据（单源，据专属维基页面全文；跨源核实待完成）。 【续作BJ】补充世行/UN口径人口数据。",
   "l3_detail": {
     "data_caveat": "本条目所有数值均需注明来源、年份与统计口径；跨年通胀/GDP 数据须说明是否可比价。当前无经双源核实的具体数字，故不列数值。",
     "controversy_summary": "不同学派对成因与政策效果存在分歧；本站并列各方说法，不替读者下结论。",
