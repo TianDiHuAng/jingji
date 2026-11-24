@@ -1946,6 +1946,24 @@
 - **round 94 的接线检查再次生效**，批量修复并对称化 **29 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 680 字**；**ERRORS 0**、WARNINGS 115（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 102 轮可用（round 121）**。**扩写 30 条概念（WARNINGS 115 → 85）**。
+- **第一批 15 条**：disinflation／fatf／gini／inflation-targeting／mark-to-market／public-good／sudden-stop／tarp／hedging／history-of-banking／middle-income-trap／ponzi-scheme／bimetallism／financial-fragility／long-depression。
+- **第二批 15 条**：fiscal-multiplier／fsb／globalization／national-income／stress-test／tranche／comparative-advantage／international-monetary-system／washington-consensus／basel-accords／basel-iii／financial-crisis／fiscal-space／lewis-turning-point／ppi。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `ponzi-scheme` | 明确区分「**庞氏骗局（欺诈）**」与「**明斯基的庞氏融资（脆弱性结构）**」——两者形式相似但性质不同，「不该把所有高杠杆结构都称为庞氏」 |
+  | `tranche` | 分层的实质是「把同一资产池的风险在投资者之间重新分配」；**分层能切分风险，但不能降低系统性风险** |
+  | `mark-to-market` | 并列两派，并点出关键一句「**掩盖损失并不会消除损失**」 |
+  | `public-good` | 把**金融稳定与危机中的流动性**明确为公共品，直接解释「最后贷款人」的正当性 |
+  | `national-income` | GDP 不反映杠杆与资产泡沫——「**这正是危机前宏观数据看起来很好的原因**」 |
+  | `financial-fragility` | 提醒「**脆弱性不等于即将出事**」，把它当作危机将至的信号是误用 |
+
+- 沿用三引号 + 保存前换行规范化，两批**语法与渲染均一次通过**。
+- **round 94 的接线检查再次生效**，批量修复并对称化 **59 条**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 750 字**；**ERRORS 0**、WARNINGS 85（概念 55／案例 30）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

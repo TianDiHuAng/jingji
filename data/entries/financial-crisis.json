@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "其他",
   "one_line": "各类金融资产突然大幅丧失名义价值的情形；若波及整体经济则成为经济危机。",
-  "overview": "金融危机是各类情形中的一种：某些金融资产突然丧失大部分名义价值。若经济活动的更广泛下降影响到整个经济，则称为经济危机。金融危机可按类型分为银行危机、货币危机、债务危机与资产泡沫破裂等，是多条具体案例的共同上位概念。具体分类待核实。",
+  "overview": "金融危机(financial crisis) 是一个**总论性概念**，指**金融体系出现严重功能紊乱**、以致中介、支付或资源配置能力受损的情形。**四种常见类型（本库据此分类案例）**：**银行危机**——挤兑、倒闭与信贷收缩（见 bank-run、credit-crunch）；**货币危机**——汇率崩溃、储备耗尽（见 currency-crisis）；**债务危机**——主权或私人部门无法偿付（见 sovereign-default）；**泡沫破裂**——资产价格崩溃（见 speculative-bubble）。**它们常同时出现**（\"**双危机**\"，见 twin-crises），且**相互强化**：货币贬值加重外币债务 →主权风险上升 → 银行持有国债受损 → 需要救助 → 财政恶化。**危机的共同机制（跨时代的规律）**：①**杠杆与期限转换**（见 leverage、fractional-reserve）；②**信息不对称导致的信任崩塌**（见 information-asymmetry）；③**自我实现的预期**（见 self-fulfilling）；④**顺周期的放大机制**（见 procyclicality、financial-accelerator）；⑤**政策空间有限**（零利率、财政约束）。**本库的立场（重要）**：**记录机制与可核查的事实，并列不同解释，不作预测**。因为危机史反复显示：**\"这次不一样\"综合征**（认为本轮繁荣有特殊理由因而不可能崩盘）是每一轮危机的共同前奏。",
   "timeline": [],
   "causal_chain": [
     {
@@ -59,10 +59,18 @@
   ],
   "related": [
     "bank-failure",
+    "bank-run",
     "contagion",
     "currency-crisis",
-    "debt-crisis"
+    "debt-crisis",
+    "information-asymmetry",
+    "leverage",
+    "procyclicality",
+    "self-fulfilling",
+    "sovereign-default",
+    "speculative-bubble",
+    "twin-crises"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作ED】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-014。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作ED】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-014。 【续作LK】overview 扩写 115 → 667 字。"
 }

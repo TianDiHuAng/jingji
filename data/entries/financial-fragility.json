@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "金融体系对金融危机的易感程度，即小冲击可能带来不成比例的大影响。",
-  "overview": "金融脆弱性是金融体系对金融危机的脆弱程度。Franklin Allen 与 Douglas Gale 将金融脆弱性定义为\"小冲击产生不成比例的巨大影响\"的程度。该概念是明斯基金融不稳定假说与宏观审慎监管的核心。具体论述待核实。",
+  "overview": "金融脆弱性(financial fragility) 指**金融体系内在的、在冲击下容易失稳的性质**，它是明斯基\"金融不稳定假说\"的核心（见 minsky-theory）。**关键论点是\"稳定孕育不稳定\"**：长期平稳会使**风险偏好上升、杠杆累积、融资结构从对冲型（能偿付本息）向投机型与庞氏型漂移**——于是体系**看起来最稳健的时候，恰恰最脆弱**。**这一性质的几个来源**：①**期限与流动性转换**——银行的功能本身即脆弱性（见 fractional-reserve）；②**杠杆**——小幅资产价格变动即可击穿净值（见 leverage）；③**关联与共同暴露**——机构间敞口与相似持仓使冲击扩散（见 systemic-risk、contagion）；④**信息不对称**——危机中无法评估对手方，市场因此冻结（见 information-asymmetry）；⑤**顺周期机制**——抵押品估值、保证金、评级与资本要求在压力下同时收紧（见 procyclicality）。**一个必须说清的分辨**：**脆弱性不等于\"即将出事\"**——它是**结构性的条件**，而不是时点预测；把它当作\"危机将至\"的信号是对该概念的误用。**政策含义**：既然脆弱性是内生的，**监管不能假设\"市场会自我纠正\"**，而必须**在繁荣期主动加码**（逆周期资本缓冲、见 macroprudential）——**这与\"危机是外部冲击造成的\"这一直觉正好相反**。",
   "timeline": [],
   "causal_chain": [
     {
@@ -59,10 +59,16 @@
   "related": [
     "credit-cycle",
     "financial-accelerator",
+    "fractional-reserve",
+    "information-asymmetry",
+    "leverage",
+    "macroprudential",
     "minsky-moment",
     "minsky-theory",
-    "post-keynesian"
+    "post-keynesian",
+    "procyclicality",
+    "systemic-risk"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作ED】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AE】 【续作ED】补写概念辨析。 【续作LJ】overview 扩写 113 → 631 字。"
 }

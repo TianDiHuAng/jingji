@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "汇集各国银行监管当局、制定共同审慎标准与政策的机构，秘书处设于国际清算银行。",
-  "overview": "巴塞尔银行监管委员会是一个汇集银行监管当局、制定共同审慎标准与政策的机构，依托设于瑞士巴塞尔国际清算银行（BIS）的常设秘书处运作。其发布的标准（通称巴塞尔协议）成为各国银行资本与风险管理的重要参照。具体标准内容与实施差异待核实。",
+  "overview": "巴塞尔银行监管委员会(BCBS) 是**各国银行监管机构组成的标准制定机构**，**1974 年**由十国集团央行行长设立，秘书处设在 BIS。**它的性质**：**不具超国家强制力**——其标准通过各国立法转化为国内规则，执行的差异因此长期存在（这也是其评估报告关注的重点）。**三个版本的资本框架（见 capital-adequacy）**：**Basel I（1988）**——确立 **8% 的最低资本充足率**与简单的风险权重分类；**Basel II（2004）**——引入**内部评级法**与三大支柱（最低资本、监管审查、市场纪律）；**Basel III（2010 年后）**——大幅提高**核心一级资本**要求、新增**杠杆率**（见 leverage）与**流动性指标**（LCR 与 NSFR，见 liquidity-coverage-ratio）、以及**逆周期缓冲**（见 countercyclical-capital-buffer）。**它的核心权衡（这解释了为何标准不断修订）**：①**风险敏感性 vs 简单可比**——内部模型更敏感，但**可被操纵**；标准法简单，但会误配风险；②**资本要求 vs 信贷供给**——更高要求提高安全性，但可能抑制信贷（见 procyclicality）。**与危机的关系**：**Basel II 被广泛批评为助长了危机**——内部评级法使按揭证券获得低权重、资本要求顺周期、且**完全没有覆盖流动性与表外风险**（见 off-balance-sheet）。**Basel III 正是对这些缺口的回应。**",
   "timeline": [],
   "causal_chain": [
     {
@@ -63,8 +63,11 @@
     "capital-adequacy",
     "capital-requirement",
     "fsb",
-    "liquidity-coverage-ratio"
+    "leverage",
+    "liquidity-coverage-ratio",
+    "off-balance-sheet",
+    "procyclicality"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作DY】补写概念辨析。 【续作LK】overview 扩写 115 → 690 字。"
 }

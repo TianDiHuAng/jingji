@@ -57,12 +57,15 @@
     "w-en-macroprudential"
   ],
   "related": [
+    "basel-accords",
     "central-counterparty",
     "collateral",
     "credit-cycle",
     "credit-risk",
     "endogenous-money",
     "financial-accelerator",
+    "financial-crisis",
+    "financial-fragility",
     "fire-sale",
     "leverage",
     "leverage-cycle",
@@ -71,6 +74,7 @@
     "mark-to-market",
     "money-creation",
     "secured-lending",
+    "stress-test",
     "value-at-risk"
   ],
   "needs_verification": true,
