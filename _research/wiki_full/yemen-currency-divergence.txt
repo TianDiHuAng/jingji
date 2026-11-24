@@ -1,50 +1,35 @@
-The rial (Arabic: ريال يمني; sign: ﷼; abbreviation: YRl (singular) and YRls (plural) in Latin, ,ر.ي in Arabic; ISO code: YER) is the official currency of the Republic of Yemen. It is technically divided into 100 fils, although coins denominated in fils have not been issued since Yemeni unification. Due to the ongoing political instability, the value of the Yemeni rial has fallen significantly.
-The Yemeni civil war has caused the currency to diverge. In southern Yemen, which is primarily controlled by UAE-backed separatists and the 
-internationally recognized government backed by Saudi Arabia, ongoing printing has caused the currency's value to plummet. However, in northern Yemen, which is primarily controlled by the Houthis with support from Iran, banknotes printed after 2017 are not considered legal tender. Therefore, the exchange rate has remained stable. The differences in banknotes printed before and after 2017 can be determined by their size.
+A currency crisis is a type of financial crisis, and is often associated with a real economic crisis. A currency crisis raises the probability of a banking crisis or a default crisis. During a currency crisis the value of foreign denominated debt will rise drastically relative to the declining value of the home currency. Generally doubt exists as to whether a country's central bank has sufficient foreign exchange reserves to maintain the country's fixed exchange rate, if it has any.
+The crisis is often accompanied by a speculative attack in the foreign exchange market. A currency crisis results from chronic balance of payments deficits, and thus is also called a balance of payments crisis. Often such a crisis culminates in a devaluation of the currency. Financial institutions and the government will struggle to meet debt obligations and economic crisis may ensue. Causation also runs the other way. The probability of a currency crisis rises when a country is experiencing a banking or default crisis, while this probability is lower when an economy registers strong GDP growth and high levels of foreign exchange reserves. To offset the damage resulting from a banking or default crisis, a central bank will often increase currency issuance, which can decrease reserves to a point where a fixed exchange rate breaks. The linkage between currency, banking, and default crises increases the chance of twin crises or even triple crises, outcomes in which the economic cost of each individual crisis is enlarged.
+Currency crises can be especially destructive to small open economies or bigger, but not sufficiently stable ones. Governments often take on the role of fending off such attacks by satisfying the excess demand for a given currency using the country's own currency reserves or its foreign reserves (usually in the United States dollar, Euro or Pound sterling). Currency crises have large, measurable costs on an economy, but the ability to predict the timing and magnitude of crises is limited by theoretical understanding of the complex interactions between macroeconomic fundamentals, investor expectations, and government policy. A currency crisis may also have political implications for those in power. Following a currency crisis a change in the head of government and a change in the finance minister and/or central bank governor are more likely to occur.
+A currency crisis is normally considered as part of a financial crisis. Kaminsky et al. (1998), for instance, define currency crises as when a weighted average of monthly percentage depreciations in the exchange rate and monthly percentage declines in exchange reserves exceeds its mean by more than three standard deviations. Frankel and Rose (1996) define a currency crisis as a nominal depreciation of a currency of at least 25% but it is also defined at least 10% increase in the rate of depreciation. In general, a currency crisis can be defined as a situation when the participants in an exchange market come to recognize that a pegged exchange rate is about to fail, causing speculation against the peg that hastens the failure and forces a devaluation or appreciation.
+Recessions attributed to currency crises include the hyperinflation in the Weimar Republic, 1994 economic crisis in Mexico, 1997 Asian financial crisis, 1998 Russian financial crisis, the 1998–2002 Argentine great depression, and the 2016 Venezuela and Turkey currency crises and their corresponding socioeconomic collapse.
 
 
-== History ==
-In the 18th and 19th centuries, the rial was traditionally associated with the Maria Theresa thaler, a currency that was widely used in Yemen owing to the Mocha coffee trade with the French, and a Yemeni request that its produce be paid for in thalers.
-As Yemen progressed, it developed its own legal currency. After the union between the North (the Yemen Arab Republic) and the South (the People's Democratic Republic of Yemen) in 1990, both the northern rial and the southern dinar remained legal tender during a transitional period, with an exchange rate set at 1 dinar to 26 rials. On 11 June 1996, the dinar was withdrawn from circulation. In 1993, the first coins were issued for the Republic of Yemen. The value of the Yemeni rial against the United States dollar dropped significantly, compared to 12.01 rials per dollar in the early 1990s.
-Since the mid-1990s, the Yemeni rial has been freely convertible. Though it dropped from YRls 20 to approximately YRls 215 against the US dollar since then, the rial was stable for several years. However, since 2010 the Central Bank of Yemen has had to intervene many times to protect the currency's value, resulting in a serious decline of foreign reserves. Due to the war, the exchange rate for the Yemeni rial has hovered between 250 and 500 Yemeni rials for 1 US dollar.
-In January 2025, the currency further deteriorated to a historic low point, where 1 USD was traded at 2150 Yemeni rials due to the lack of foreign currency availability in exchange markets and the failure of government authorities to intervene with solutions for this issue. This decline was observed in areas under the control of the internationally-supported Presidential Leadership Council, while the Yemeni rial exchange rate remained stable in areas controlled by the Houthis, where the dollar was approximately 530 rials.
+== Theories ==
+The currency crises and sovereign debt crises that have occurred with increasing frequency since the Latin American debt crisis of the 1980s have inspired a huge amount of research. There have been several 'generations' of models of currency crises.
 
 
-== Coins ==
-Before unification, North Yemen issued coins in denominations of 1, 5, 10, 25 and 50 fils, and 1 rial. The fils denominations have all disappeared from circulation. In 1993, new coins were introduced by the Central Bank of Yemen in denominations of 1 and 5 rials. These were followed by 10-rial coins in 1995 and 20-rial coins in 2004.
-For the first time in nearly a decade, Yemen's Houthi-led de facto government has announced the issuing of a newly minted 100 riyal coin, a move which has prompted outcry from the internationally recognised government and its central bank based in Aden as a “dangerous escalation.”
+=== First generation ===
+The 'first generation' of models of currency crises began with Paul Krugman's adaptation of Stephen Salant and Dale Henderson's model of speculative attacks in the gold market. In his article, Krugman argues that a sudden speculative attack on a fixed exchange rate, even though it appears to be an irrational change in expectations, can result from rational behavior by investors. This happens if investors foresee that a government is running an excessive deficit, causing it to run short of liquid assets or "harder" foreign currency which it can sell to support its currency at the fixed rate. Investors are willing to continue holding the currency as long as they expect the exchange rate to remain fixed, but they flee the currency en masse when they anticipate that the peg is about to end.
 
 
-== Banknotes ==
-At the time of unification, the Central Bank of Yemen issued banknotes in denominations of 1, 5, 10, 20, 50, and 100 rials. In 1993, the 1 and 5 rial notes were replaced by coins, with the same happening to the 10 rial notes in 1995, and 20 rial notes in 2004. In 1996, 200 rial notes were introduced, followed by 500 rials in 1997 and 1,000 rials in 1998. A 250 rial banknote was issued in 2009.
-In 2017, the Central Bank of Yemen, now relocated in Aden, its interim capital due to the civil war, issued 500 and 1,000 rial banknotes with revised security features and different dimensions. In 2018, the Central Bank of Yemen reintroduced the 200 rial banknote and has issued a new 100 rial banknote.
-In 2025 the Houthi administration in Sanaa issued a 200 rial banknote, inscribed Central Bank of Yemen, i.e. the same as regular banknotes issued by the internationally recognized government, which warned all citizens, financial institutions, banks, and money exchange companies against dealing with "counterfeit currencies" from an "illegal terrorist entity" and of punishment for anyone found possessing or using them.
+=== Second generation ===
+The 'second generation' of models of currency crises starts with the paper of Obstfeld (1986). In these models, doubts about whether the government is willing to maintain its exchange rate peg lead to multiple equilibria, suggesting that self-fulfilling prophecies may be possible. Specifically, investors expect a contingent commitment by the government and if things get bad enough, the peg is not maintained. For example, in the 1992 ERM crisis, the UK was experiencing an economic downturn just as Germany was booming due to the reunification. As a result, the German Bundesbank increased interest rates to slow the expansion. To maintain the peg to Germany, it would have been necessary for the Bank of England to slow the UK economy further by increasing its interest rates as well. As the UK was already in a downturn, increasing interest rates would have increased unemployment further and investors anticipated that the UK politicians were not willing to maintain the peg. As a result, investors attacked the currency and the UK left the peg.
 
 
-=== 1990-2009 series ===
+=== Third generation ===
+'Third generation' models of currency crises have explored how problems in the banking and financial system interact with currency crises, and how crises can have real effects on the rest of the economy. McKinnon & Pill (1996), Krugman (1998), Corsetti, Pesenti, & Roubini (1998) suggested that "over borrowing" by banks to fund moral hazard lending was a form of hidden government debts (to the extent that governments would bail out failing banks). Radelet & Sachs (1998) suggested that self-fulfilling panics that hit the financial intermediaries, force liquidation of long run assets, which then "confirms" the panics.
+Chang and Velasco (2000) argue that a currency crisis may cause a banking crisis if local banks have debts denominated in foreign currency, Burnside, Eichenbaum, and Rebelo (2001 and 2004) argue that a government guarantee of the banking system may give banks an incentive to take on foreign debt, making both the currency and the banking system vulnerable to attack.
+Krugman (1999) suggested another two factors, in an attempt to explain the 1997 Asian financial crisis: (1) firms' balance sheets affect their ability to spend, and (2) capital flows affect the real exchange rate. (He proposed his model as "yet another candidate for third generation crisis modeling" (p32)). However, the banking system plays no role in his model.
 
 
-=== 2017–2018 series ===
+== Eurozone crisis as a balance-of-payments crisis ==
 
-
-=== Houthi-issued notes ===
-The recognized central bank in Aden and other authorities consider the note illegal.
+According to some economists the Eurozone crisis was in fact a balance-of-payments crisis or at least can be thought of as at least as much as a fiscal crisis. According to this view, a capital flow bonanza of private funds took place during the boom years preceding this crisis into countries of Southern Europe or of the periphery of the Eurozone, including Spain, Ireland and Greece; this massive flow financed huge excesses of spending over income, i.e. bubbles, in the private sector, the public sector, or both. The 2008 financial crisis resulted in a sudden stop to these capital inflows that in some cases even led to a total reversal, i.e. a capital flight.
+Others, like some of the followers of the Modern Monetary Theory (MMT) school, have argued that a region with its own currency cannot have a balance-of-payments crisis because there exists a mechanism, the TARGET system, that ensures that Eurozone member countries can always fund their current account deficits. These authors do not claim that the current account imbalances in the Eurozone are irrelevant but simply that a currency union cannot have a balance of payments crisis proper. Some authors tackling the crisis from an MMT perspective have claimed that those authors who are denoting the crisis as a 'balance of payments crisis' are changing the meaning of the term.
 
 
 == See also ==
-Economy of Yemen
-Ahmed A AL-Samawi
-Iranian rial
-Omani rial
-Qatari riyal
-Saudi riyal
 
 
 == References ==
-
-
-== Sources ==
-
-
-== External links ==
-[1]

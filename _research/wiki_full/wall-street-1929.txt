@@ -1,189 +1,105 @@
-An economic bubble (also called a speculative bubble, asset bubble, or simply financial bubble) is a period when current asset prices greatly exceed their intrinsic valuation, where the valuation is justified by underlying long-term fundamentals of the asset. Bubbles can be caused by overly optimistic projections about the scale and sustainability of growth (e.g. dot-com bubble), and/or by the belief that intrinsic valuation is no longer relevant when making an investment (e.g. Tulip mania). They have appeared in most asset classes, including stocks (e.g. Roaring Twenties), commodities (e.g. 2007 uranium bubble), real estate (e.g. 2000s US housing bubble), and even esoteric assets (e.g. cryptocurrency bubble). Bubbles usually form as a result of either excess liquidity in markets, and/or changed investor psychology. Large multi-asset bubbles (e.g. 1980s Japanese asset bubble and the 2020–21 Everything bubble) are attributed to central banking liquidity (e.g. overuse of the Fed put).
-In the early stages of a bubble, many investors do not recognise the bubble for what it is, often thinking that the increase in asset prices is justified. Therefore, bubbles are often conclusively identified only in retrospect, after the bubble has already "popped" (or "burst") and prices have crashed.
+The Wall Street crash of 1929, also known as the Great Crash, was a major stock market crash in the United States which began in October 1929 with a sharp decline in prices on the New York Stock Exchange (NYSE). It triggered a rapid erosion of confidence in the U.S. banking system and marked what would later cascade into the worldwide Great Depression that lasted until the United States entered into World War II on December 8, 1941, making it the most devastating crash in the country's history. It is most associated with October 24, 1929, known as "Black Thursday", when a record 12.9 million shares were traded on the exchange, and October 29, 1929, or "Black Tuesday", when some 16.4 million shares were traded.
+The "Roaring Twenties" of the previous decade had been a time of industrial expansion in the U.S., and much of the profit had been invested in speculation, including in stocks. Many members of the public, disappointed by the low interest rates offered on their bank deposits, committed their relatively small sums to stockbrokers. By the year 1929, the U.S. economy was showing signs of trouble; the agricultural sector was depressed due to overproduction and falling prices, forcing many farmers into debt, and consumer goods manufacturers also had unsellable output due to low wages and thus low purchasing power. Factory owners cut production and fired staff, reducing demand even further. Despite these trends, investors continued buying shares in parts of the economy where output was falling and unemployment was rising, pushing stock prices far above their underlying value.
+By September 1929, more experienced shareholders realized that prices could not continue to rise and began to get rid of their holdings, which caused share values to stall and then fall, encouraging more to sell. As investors panicked, the selling became frenzied. After Black Thursday, leading bankers joined forces to purchase stock at prices above market value, a strategy used during the Panic of 1907. This encouraged a brief recovery before Black Tuesday. Further action failed to halt the fall, which continued until July 8, 1932; by then, the stock market had lost some 90% of its pre-crash value.
+Congress responded to the events by passing the Banking Act of 1933 (Glass–Steagall Act), which separated commercial and investment banking, and the Securities Act of 1933 and Securities Exchange Act of 1934, which created the U.S. Securities and Exchange Commission, authorized the creation of its disclosure regulations, and prohibited the market manipulation, insider trading, and speculative investing practices that precipitated the crash. Stock exchanges introduced a practice of suspending trading when prices fell rapidly to limit panic selling. Scholars disagree about the crash’s role in the Great Depression. Some argue that the price swings were not, by themselves, severe enough to trigger a major collapse of the financial system. Others contend that the crash, combined with other economic problems in the U.S. in the 1920s, should be understood as one stage of a broader business cycle affecting capitalist economies.
 
 
-== Origin of term ==
+== Background ==
 
-The term "bubble", in reference to financial crisis, originated in the 1711–1720 British South Sea Bubble, and originally referred to the companies themselves, and their inflated stock, rather than to the crisis itself. This was one of the earliest modern financial crises; other episodes were referred to as "manias", as in the Dutch tulip mania. The metaphor indicated that the prices of the stock were inflated and fragile – expanded based on nothing but air, and vulnerable to a sudden burst, as in fact occurred.
-Some later commentators have extended the metaphor to emphasize the suddenness, suggesting that economic bubbles end "All at once, and nothing first, / Just as bubbles do when they burst," though theories of financial crises such as debt deflation and the Financial Instability Hypothesis suggest instead that bubbles burst progressively, with the most vulnerable (most highly-leveraged) assets failing first, and then the collapse spreading throughout the economy.
-
-
-== Types ==
-There are different types of bubbles, with economists primarily interested in two major types of bubbles: The equity bubble and the debt bubble.
-
-
-=== Equity bubble ===
-An equity bubble is characterised by tangible investments and the unsustainable desire to satisfy a legitimate market in high demand. These kind of bubbles are characterised by easy liquidity, tangible and real assets, and an actual innovation that boosts confidence. The injection of funds into the business cycle is capable of accelerating the innovation process and propelling faster productivity growth. Examples of an equity bubble are the Tulip Mania, the cryptocurrency bubble, the dot-com bubble, and the Roaring Twenties
-.
+The "Roaring Twenties", the decade following World War I and the Recession of 1920–1921, has been scholarly and biographically regarded as an era defined by wealth, luxury and excess. Building on post-war optimism, rural Americans migrated to the cities in vast numbers throughout the decade, hoping to find a more prosperous life amid the ever-growing expansion of America's industrial sector, pursuing means of conspicuous consumption.
+Declines in the money supply caused by Federal Reserve decisions were beginning to have a severely contractionary effect on output. Despite the inherent risk of speculation, it was widely believed that the stock market would continue to rise. On March 25, 1929, after the Federal Reserve warned of excessive speculation, a small crash occurred as investors began selling stocks rapidly, exposing the market's shaky foundation. Two days later, banker Charles E. Mitchell announced that his company, the National City Bank, would provide $25 million in credit to stop the market's slide. Mitchell's move brought a temporary halt to the financial crisis, and call money declined from 20 to 8 percent. However, the American economy showed ominous signs of trouble. Steel production declined, construction was sluggish, automobile sales went down, and consumers were building up large debts because of easy credit.
+Despite these problems and the market breaks in March and May 1929, stocks resumed their advance in June, and the gains continued almost unabated until early September 1929 (the Dow Jones average gained more than 20% between June and September). The market had been on a nine-year run that saw the Dow Jones Industrial Average increase in value tenfold, peaking at 381.17 on September 3, 1929. Shortly before the crash, economist Irving Fisher famously proclaimed "Stock prices have reached what looks like a permanently high plateau". The optimism and the financial gains of the great bull market have been regarded as having been shaken after a well-publicized September 5 prediction from financial expert Roger Babson, declaring that "a crash is coming, and it may be terrific". The initial September decline was thus called the "Babson Break" in the press. That was the start of the Great Crash, but until the severe phase of the crash in October, many investors regarded the September "Babson Break" as a "healthy correction" and buying opportunity.
+On September 20, 1929, top British investor Clarence Hatry and many of his associates were jailed for fraud and forgery, leading to the suspension of his companies. This may have weakened the confidence of Americans in their own companies, although it had minimal impact on the London Stock Exchange. In the days leading up to the crash, the market was severely unstable. Periods of selling and high volumes were interspersed with brief periods of rising prices and recovery.
+Conservative economists Jude Wanniski and Alan Reynolds have argued that the immediate cause of the crash was investor fears about the Smoot–Hawley Tariff Act, which was being negotiated in the U.S. Senate at the time. On October 23, 1929, while voting on an amendment to the bill, 16 senators who had been considered members of an anti-tariff coalition unexpectedly changed their votes and supported an increase in the tariff on calcium carbide imports from Canada. The crash began that afternoon and grew worse the following morning. In response, libertarian economist Scott Sumner has pointed out that this vote did not significantly change the anti-tariff coalition, which Sumner says was growing stronger during the days following October 23 while the crash was occurring. Instead, Sumner argues that the ongoing conflict between pro-tariff and anti-tariff Republicans led investors to worry that the party could not govern effectively on economic issues. In particular, he cites the controversy over the appointment of Otto H. Kahn, a Wall Street banker who supported the tariff bill, as treasurer of the Republican Senatorial Campaign Committee. Kahn's appointment was announced on the evening of October 24, and fierce opposition from Progressive Republicans who opposed the bill forced him to publicly turn down the offer on October 29.
+Harold Bierman, Jr., argues that the decline in stock prices began on October 3, 1929, in response to a widely publicized comment from British Chancellor of the Exchequer Philip Snowden, who described American markets as a "speculative orgy". In this unsettled market, Bierman says, the sudden crash a few weeks later was triggered by federal and state efforts to regulate public utilities, which had become a common vehicle for investment trusts. In particular, he argues that the creation of the Committee on Public Service Securities in the state of New York by Governor Franklin D. Roosevelt on October 8, and similar investigatory action in Massachusetts the following week, were possible "straws that broke the camel's back", sparking fears that those public utilities were overvalued by speculators.
 
 
-=== Debt bubble ===
-A debt bubble is characterised by intangible or credit based investments with little ability to satisfy growing demand in a non-existent market. These bubbles are not backed by real assets and are based on frivolous lending in the hope of returning a profit or security. These bubbles usually end in debt deflation causing bank runs or a currency crisis when the government can no longer maintain the fiat currency. Examples are the Roaring Twenties stock market bubble (which caused the Great Depression) and the United States housing bubble (which caused the Great Recession).
+== Stock crash ==
+
+Selling intensified in late-October. A sharp, unexpected decline in stock prices began on the afternoon of October 23, about an hour before trading ended for the day, leading to a 4.6% drop in total market value. That night, many investors panicked and resolved to sell their shares as soon as possible. On October 24, "Black Thursday", the market lost 11% of its value at the opening bell. In the first three minutes alone, nearly three million shares of stock, accounting for $2 billion of wealth, changed hands. The huge volume meant that the report of prices on the ticker tape in brokerage offices around the nation was hours late, and so investors had no idea what most stocks were trading for. Several leading Wall Street bankers met to find a solution to the panic and chaos on the trading floor. The meeting included Thomas W. Lamont, acting head of Morgan Bank; Albert Wiggin, head of the Chase National Bank; and Charles E. Mitchell, president of the National City Bank of New York. They chose Richard Whitney, vice president of the Exchange, to act on their behalf.
+With the bankers' financial resources behind him, Whitney placed a bid to purchase 25,000 shares of U.S. Steel at $205 per share, a price well above the current market. As traders watched, Whitney then placed similar bids on other "blue chip" stocks. The tactic was similar to one that had ended the Panic of 1907 and succeeded in halting the slide. The Dow Jones Industrial Average recovered, closing down only 6.38 points (2.09%) for the day.
+
+On October 28, "Black Monday", more investors facing margin calls decided to get out of the market, and the slide continued with a record loss in the Dow for the day of 38.33 points, or 12.82%.
+On October 29, 1929, "Black Tuesday" hit Wall Street as investors traded some 16 million shares on the New York Stock Exchange in a single day. Around $14 billion of stock value was lost, wiping out thousands of investors. The panic selling reached its peak with some stocks having no buyers at any price. The Dow lost an additional 30.57 points, or 11.73%, for a total drop of 68.90 points, or 23.05% in two days.
+On October 29, William C. Durant joined with members of the Rockefeller family and other financial giants to buy large quantities of stocks to demonstrate to the public their confidence in the market, but their efforts failed to stop the large decline in prices. The massive volume of stocks traded that day made the ticker continue to run until about 7:45 p.m.
+
+After a one-day recovery on October 30, when the Dow regained 28.40 points, or 12.34%, to close at 258.47, the market continued to fall, arriving at an interim bottom on November 13, 1929, with the Dow closing at 198.60. The market then recovered for several months, starting on November 14, with the Dow gaining 18.59 points to close at 217.28, and reaching a secondary closing peak (bear market rally) of 294.07 on April 17, 1930. The Dow then embarked on another, much longer, steady slide from April 1930 to July 8, 1932, when it closed at 41.22, its lowest level of the 20th century, concluding an 89.2% loss for the index in less than three years.
+Beginning on March 15, 1933, and continuing through the rest of the 1930s, the Dow began to slowly regain the ground it had lost. The largest percentage increases of the Dow Jones occurred during the early and mid-1930s. In late 1937, there was a sharp dip in the stock market, but prices held well above the 1932 lows. The Dow Jones did not return to its peak close of September 3, 1929, for 25 years, until November 23, 1954.
 
 
-== Impact ==
-The impact of economic bubbles is debated within and between schools of economic thought; they are not generally considered beneficial, but it is debated how harmful their formation and bursting is.
-Within mainstream economics, many believe that bubbles cannot be identified in advance, cannot be prevented from forming, that attempts to "prick" the bubble may cause financial crisis, and that instead authorities should wait for bubbles to burst of their own accord, dealing with the aftermath via monetary policy and fiscal policy.
-Political economist Robert E. Wright argues that bubbles can be identified before the fact with high confidence.
-In addition, the crash which usually follows an economic bubble can destroy a large amount of wealth and cause continuing economic malaise; this view is particularly associated with the debt-deflation theory of Irving Fisher, and elaborated within Post-Keynesian economics.
-A protracted period of low risk premiums can simply prolong the downturn in asset price deflation, as was the case of the Great Depression in the 1930s for much of the world and the 1990s for Japan.  Not only can the aftermath of a crash devastate the economy of a nation, but its effects can also reverberate beyond its borders.
+== Aftermath ==
+In 1932, the Pecora Commission was established by the U.S. Senate to study the causes of the crash. The following year, the U.S. Congress passed the Glass–Steagall Act mandating a separation between commercial banks, which take deposits and extend loans, and investment banks, which underwrite, issue, and distribute stocks, bonds, and other securities.
+Afterwards, stock markets around the world instituted measures to suspend trading in the event of rapid declines, claiming that the measures would prevent such panic sales. However, the one-day crash of Black Monday, October 19, 1987, when the Dow Jones Industrial Average fell 22.6%, as well as Black Monday of March 16, 2020 (−12.9%), were worse in percentage terms than any single day of the 1929 crash (although the combined 25% decline of October 28–29, 1929, was larger than that of October 19, 1987, and remains the worst two-day decline as of October 7, 2024).
 
 
-=== Effect upon spending ===
-Another important aspect of economic bubbles is their impact on spending habits. Market participants with overvalued assets tend to spend more because they "feel" richer (the wealth effect). Many observers quote the housing market in the United Kingdom, Australia, New Zealand, Spain and parts of the United States in recent times, as an example of this effect. When the bubble inevitably bursts, those who hold on to these overvalued assets usually experience a feeling of reduced wealth and tend to cut discretionary spending at the same time, hindering economic growth or, worse, exacerbating the economic slowdown.
-In an economy with a central bank, the bank may therefore attempt to keep an eye on asset price appreciation and take measures to curb high levels of speculative activity in financial assets.  This is usually done by increasing the interest rate (that is, the cost of borrowing money). Historically, this is not the only approach taken by central banks.  It has been argued that they should stay out of it and let the bubble, if it is one, take its course.
+== Analysis ==
+
+The crash followed a speculative boom that had taken hold in the late 1920s. During the latter half of the 1920s, steel production, building construction, retail turnover, automobiles registered, and even railway receipts advanced from record to record. The combined net profits of 536 manufacturing and trading companies showed an increase, in the first six months of 1929, of 36.6% over 1928, itself a record half-year. Iron and steel led the way with doubled gains. Such figures set up a crescendo of stock-exchange speculation that led hundreds of thousands of Americans to invest heavily in the stock market. Many people were borrowing money to buy more stocks. By August 1929, brokers were routinely lending small investors more than two-thirds of the face value of the stocks that they were buying. Over $8.5 billion was out on loan, more than the entire amount of currency circulating in the United States at the time.
+The rising share prices encouraged more people to invest on the hope that share prices would rise further. Speculation thus fueled further rises and created an economic bubble. Because of margin buying, investors stood to lose large sums of money if the market turned down or even if it failed to advance quickly enough. The average price to earnings ratio of S&P Composite stocks was 32.6 in September 1929, clearly above historical norms. According to the economist John Kenneth Galbraith, the exuberance also resulted in a large number of people placing their savings and money in leverage investment products like Goldman Sachs's "Blue Ridge trust" and "Shenandoah Trust", which crashed in 1929 as well, resulting in losses to banks of $475 billion in 2010 dollars ($701.3 billion in 2025).
+Good harvests had built up a mass of 250 million bushels of wheat to be "carried over" when 1929 opened. By May there was also a winter wheat crop of 560 million bushels ready for harvest in the Mississippi Valley. The oversupply caused such a drop in wheat prices that the net incomes of farmers from wheat were threatened with extinction. Stock markets are always sensitive to the future state of commodity markets, and the slump arrived on time. In June 1929, the position was saved by a severe drought in the Dakotas and the Canadian West, as well as unfavorable seed times in Argentina and eastern Australia. The oversupply was now wanted to fill the gaps in the 1929 world wheat production. From 97¢ per bushel in May, the price of wheat rose to $1.49 in July. When it was seen that figure would make American farmers get more for their crop that year than in 1928, stocks went up again.
+In August, the wheat price fell when France and Italy were bragging about a magnificent harvest, and the situation in Australia improved. That sent a shiver through Wall Street and stock prices quickly dropped, but word of cheap stocks brought a fresh rush of "stags" (amateur speculators) and investors. Congress voted for a $100 million relief package for the farmers on the hope of stabilizing wheat prices, but by October, the price had fallen to $1.31 per bushel.
+Other important economic barometers were also slowing or even falling by mid-1929, including car sales, house sales, and steel production. The falling commodity and industrial production may have dented even American self-confidence, and the stock market peaked on September 3 at 381.17 just after Labor Day, and it started to falter after Roger Babson issued his prescient "market crash" forecast. By the end of September, the market had dropped 10% from the peak (the "Babson Break"). Selling intensified in early and mid-October, with sharp down days punctuated by a few up days. Panic selling of massive proportion started the week of October 21 and intensified and culminated on October 24, October 28, and especially October 29 ("Black Tuesday").
+The president of the Chase National Bank, Albert H. Wiggin, said at the time:
+
+We are reaping the natural fruit of the orgy of speculation in which millions of people have indulged. It was inevitable, because of the tremendous increase in the number of stockholders in recent years, that the number of sellers would be greater than ever when the boom ended and selling took the place of buying.
 
 
-== In economics ==
-Investor George Soros, influenced by ideas put forward by his tutor, Karl Popper (1957), has been an active promoter of the relevance of reflexivity to economics, first propounding it publicly in his 1987 book The alchemy of finance.  He regards his insights into market behaviour from applying the principle as a major factor in the success of his financial career.
-Reflexivity is inconsistent with general equilibrium theory, which stipulates that markets move towards equilibrium and that non-equilibrium fluctuations are merely random noise that will soon be corrected. In equilibrium theory, prices in the long run at equilibrium reflect the underlying economic fundamentals, which are unaffected by prices. Reflexivity asserts that prices do in fact influence the fundamentals and that these newly influenced sets of fundamentals then proceed to change expectations, thus influencing prices; the process continues in a self-reinforcing pattern. Because the pattern is self-reinforcing, markets tend towards disequilibrium. Sooner or later they reach a point where the sentiment is reversed and negative expectations become self-reinforcing in the downward direction, thereby explaining the familiar pattern of boom and bust cycles. An example Soros cites is the procyclical nature of lending, that is, the willingness of banks to ease lending standards for real estate loans when prices are rising, then raising standards when real estate prices are falling, reinforcing the boom and bust cycle. He further suggests that property price inflation is essentially a reflexive phenomenon: house prices are influenced by the sums that banks are prepared to advance for their purchase, and these sums are determined by the banks' estimation of the prices that the property would command.
-Soros has often claimed that his grasp of the principle of reflexivity is what has given him his "edge" and that it is the major factor contributing to his successes as a trader. For several decades there was little sign of the principle being accepted in mainstream economic circles, but there has been an increase of interest following the crash of 2008, with academic journals, economists, and investors discussing his theories.
-Economist and former columnist of the Financial Times, Anatole Kaletsky, argued that Soros' concept of reflexivity is useful in understanding China's economy and how the Chinese government manages it.
-Eugene Fama, the Nobel laureate in economics who has often been described as "the father of modern finance", has expressed skepticism about the notion that economic bubbles can be identified. He argues that for something to be a bubble, its ending needs to be predicted in real time, not just after the fact. He argues that conventional rhetoric about bubbles proposes no testable propositions and no ways to measure a bubble.
+== Effects ==
 
 
-== Causes ==
-It has been suggested that bubbles may be rational, intrinsic, and contagious. To date, there is no widely accepted theory to explain their occurrence. Recent computer-generated agency models suggest excessive leverage could be a key factor in causing financial bubbles.
-Puzzlingly for some, bubbles occur even in highly predictable experimental markets, where uncertainty is eliminated and market participants should be able to calculate the intrinsic value of the assets simply by examining the expected stream of dividends. Nevertheless, bubbles have been observed repeatedly in experimental markets, even with participants such as business students, managers, and professional traders. Experimental bubbles have proven robust to a variety of conditions, including short-selling, margin buying, and insider trading.
-While there is no clear agreement on what causes bubbles, there is evidence to suggest that they are not caused by bounded rationality or assumptions about the irrationality of others, as assumed by greater fool theory. It has also been shown that bubbles appear even when market participants are well capable of pricing assets correctly. Further, it has been shown that bubbles appear even when speculation is not possible or when over-confidence is absent.
-More recent theories of asset bubble formation suggest that they are likely sociologically-driven events, thus explanations that merely involve fundamental factors or snippets of human behavior are incomplete at best. For instance, qualitative researchers Preston Teeter and Jorgen Sandberg argue that market speculation is driven by culturally-situated narratives that are deeply embedded in and supported by the prevailing institutions of the time. They cite factors such as bubbles forming during periods of innovation, easy credit, loose regulations, and internationalized investment as reasons why narratives play such an influential role in the growth of asset bubbles.
+=== United States ===
+
+Together, the 1929 stock market crash and the Great Depression formed the largest financial crisis of the 20th century. The panic of October 1929 has come to serve as a symbol of the economic contraction that gripped the world during the next decade. The falls in share prices on October 24 and 29, 1929 were practically instantaneous in all financial markets, except Japan.
+The Wall Street Crash had a major impact on the U.S. and world economy, and it has been the source of intense academic historical, economic, and political debate from its aftermath until the present day. Some people believed that abuses by utility holding companies contributed to the Wall Street Crash of 1929 and the Great Depression that followed. Many people blamed the crash on commercial banks that were too eager to put deposits at risk on the stock market.
+In 1930, 1,352 banks held more than $853 million in deposits; in 1931, 2,294 banks failed with nearly $1.7 billion in deposits. Many businesses failed (28,285 failures and a daily rate of 133 in 1931).
+The 1929 crash brought the Roaring Twenties to a halt. As tentatively expressed by economic historian Charles P. Kindleberger, in 1929, there was no lender of last resort effectively present, which, if it had existed and been properly exercised, would have been key in shortening the business slowdown that normally follows financial crises. The crash instigated widespread and long-lasting consequences for the United States. Historians still debate whether the 1929 crash sparked the Great Depression or if it merely coincided with bursting a loose credit-inspired economic bubble. Only 16% of American households were invested in the stock market within the United States during the period leading up to this depression, suggesting that the crash carried somewhat less weight in causing it.
+
+However, the psychological effects of the crash reverberated across the nation as businesses became aware of the difficulties in securing capital market investments for new projects and expansions. Business uncertainty naturally affects job security for employees, and as the American worker (the consumer) faced uncertainty with regard to income, naturally the propensity to consume declined. The decline in stock prices caused bankruptcies and severe macroeconomic difficulties, including contraction of credit, business closures, firing of workers, bank failures, decline of the money supply, and other economically depressing events.
+The resultant rise of mass unemployment is seen as a result of the crash, although the crash is by no means the sole event that contributed to the depression. The Wall Street Crash is usually seen as having the greatest impact on the events that followed and therefore is widely regarded as signaling the downward economic slide that initiated the Great Depression. True or not, the consequences were dire for almost everybody. Most academic experts agree on one aspect of the crash: It wiped out billions of dollars of wealth in one day, and this immediately depressed consumer buying.
+The failure set off a worldwide run on US gold deposits (i.e., the dollar) and forced the Federal Reserve to raise interest rates into the slump. Some 4,000 banks and other lenders ultimately failed. Also, the uptick rule, which allowed short selling only when the last tick in a stock's price was positive, was implemented after the 1929 market crash to prevent short sellers from driving the price of a stock down in a bear raid.
 
 
-=== Liquidity ===
-One possible cause of bubbles is excessive monetary liquidity in the financial system, inducing lax or inappropriate standards of lending by the banks, which makes markets vulnerable to volatile asset price inflation caused by short-term, leveraged speculation. For example, Axel A. Weber, the former president of the Deutsche Bundesbank, has argued that "The past has shown that an overly generous provision of liquidity in global financial markets in connection with a very low level of interest rates promotes the formation of asset-price bubbles."
-According to the explanation, excessive monetary liquidity (easy credit, large disposable incomes) potentially occurs while fractional reserve banks are implementing expansionary monetary policy (i.e. lowering of interest rates and flushing the financial system with money supply); this explanation may differ in certain details according to economic philosophy. Those who believe the money supply is controlled exogenously by a central bank may attribute an 'expansionary monetary policy' to that bank and (should one exist) a governing body or institution; others who believe that the money supply is created endogenously by the banking sector may attribute such a 'policy' to the behavior of the financial sector itself, and view the state as a passive or reactive factor. This may determine how central or relatively minor/inconsequential policies like fractional reserve banking and the central bank's efforts to raise or lower short-term interest rates are to one's view on the creation, inflation and ultimate implosion of an economic bubble. Explanations focusing on interest rates tend to take on a common form, however: when interest rates are set excessively low (regardless of the mechanism by which that is accomplished) investors tend to avoid putting their capital into savings accounts. Instead, investors tend to leverage their capital by borrowing from banks and invest the leveraged capital in financial assets such as company shares and real estate. Risky leveraged behavior like speculation and Ponzi schemes can lead to an increasingly fragile economy, and may also be part of what pushes asset prices artificially upward until the bubble pops.
-
-Economic bubbles often occur when too much money is chasing too few assets, causing both good assets and bad assets to appreciate excessively beyond their fundamentals to an unsustainable level. Once the bubble bursts, the fall in prices causes the collapse of unsustainable investment schemes (especially speculative and/or Ponzi investments, but not exclusively so), which leads to a crisis of consumer (and investor) confidence that may result in a financial panic and/or financial crisis. If there is a monetary authority like a central bank, it may take measures to soak up the liquidity in the financial system in an attempt to prevent a collapse of its currency. This may involve actions like bailouts of the financial system, but also others that reverse the trend of monetary accommodation, commonly termed forms of 'contractionary monetary policy'.
-These measures may include raising interest rates, which tends to make investors become more risk averse and thus avoid leveraged capital because the costs of borrowing may become too expensive. There may also be countermeasures taken pre-emptively during periods of strong economic growth, such as increasing capital reserve requirements and implementing regulation that checks and/or prevents processes leading to over-expansion and excessive leveraging of debt. Ideally, such countermeasures lessen the impact of a downturn by strengthening financial institutions while the economy is strong.
-Advocates of perspectives stressing the role of credit money in an economy often refer to (such) bubbles as "credit bubbles", and look at such measures of financial leverage as debt-to-GDP ratios to identify bubbles. Typically the collapse of any economic bubble results in an economic contraction termed (if less severe) a recession or (if more severe) a depression; what economic policies to follow in reaction to such a contraction is a hotly debated perennial topic of political economy.
+=== Europe ===
+The stock market crash of October 1929 led directly to the Great Depression in Europe. When stocks plummeted on the New York Stock Exchange, the world noticed immediately. Although financial leaders in the United Kingdom, as in the United States, vastly underestimated the extent of the crisis that ensued, it soon became clear that the world's economies were more interconnected than ever. The effects of the disruption to the global system of financing, trade, and production and the subsequent meltdown of the American economy were soon felt throughout Europe.
+In 1930 and 1931, in particular, unemployed workers went on strike, demonstrated in public, and otherwise took direct action to call public attention to their plight. Within the UK, protests often focused on the so-called means test, which the government had instituted in 1931 to limit the amount of unemployment payments made to individuals and families. For working people, the means test seemed an intrusive and insensitive way to deal with the chronic and relentless deprivation caused by the economic crisis. The strikes were met forcefully, with police breaking up protests, arresting demonstrators, and charging them with crimes related to the violation of public order.
 
 
-=== Psychology ===
-
-
-==== Greater fool theory ====
-
-Greater fool theory states that bubbles are driven by the behavior of perennially optimistic market participants (the fools) who buy overvalued assets in anticipation of selling it to other speculators (the greater fools) at a much higher price. According to this explanation, the bubbles continue as long as the fools can find greater fools to pay up for the overvalued asset. The bubbles will end only when the greater fool becomes the greatest fool who pays the top price for the overvalued asset and can no longer find another buyer to pay for it at a higher price.  This theory is popular among laity but has not yet been fully confirmed by empirical research.
-
-
-==== Extrapolation ====
-
-Extrapolation is projecting historical data into the future on the same basis; if prices have risen at a certain rate in the past, they will continue to rise at that rate forever. The argument is that investors tend to extrapolate past extraordinary returns on investment of certain assets into the future, causing them to overbid those risky assets in order to attempt to continue to capture those same rates of return.
-Overbidding on certain assets will at some point result in uneconomic rates of return for investors; only then the asset price deflation will begin.  When investors feel that they are no longer well compensated for holding those risky assets, they will start to demand higher rates of return on their investments.
-
-
-==== Herding ====
-Another related explanation used in behavioral finance lies in herd behavior, the fact that investors tend to buy or sell in the direction of the market trend. This is sometimes helped by technical analysis that tries precisely to detect those trends and follow them, which creates a self-fulfilling prophecy.
-Investment managers, such as stock mutual fund managers, are compensated and retained in part due to their performance relative to peers. Taking a conservative or contrarian position as a bubble builds results in performance unfavorable to peers.  This may cause customers to go elsewhere and can affect the investment manager's own employment or compensation. The typical short-term focus of U.S. equity markets exacerbates the risk for investment managers that do not participate during the building phase of a bubble, particularly one that builds over a longer period of time. In attempting to maximize returns for clients and maintain their employment, they may rationally participate in a bubble they believe to be forming, as the likely shorter-term benefits of doing so outweigh the likely longer-term risks.
-
-
-==== Moral hazard ====
-Moral hazard is the prospect that a party insulated from risk may behave differently from the way it would behave if it were fully exposed to the risk. A person's belief that they are responsible for the consequences of their own actions is an essential aspect of rational behavior. An investor must balance the possibility of making a return on their investment with the risk of making a loss – the risk-return relationship. A moral hazard can occur when this relationship is interfered with, often via government policy.
-A recent example is the Troubled Asset Relief Program (TARP), signed into law by U.S. President George W. Bush on 3 October 2008 to provide a government bailout for many financial and non-financial institutions who speculated in high-risk financial instruments during the housing boom condemned by a 2005 story in The Economist titled "The worldwide rise in house prices is the biggest bubble in history". A historical example was intervention by the Dutch Parliament during the great Tulip Mania of 1637.
-Other causes of perceived insulation from risk may derive from a given entity's predominance in a market relative to other players, and not from state intervention or market regulation. A firm – or several large firms acting in concert (see cartel, oligopoly and collusion) – with very large holdings and capital reserves could instigate a market bubble by investing heavily in a given asset, creating a relative scarcity which drives up that asset's price. Because of the signaling power of the large firm or group of colluding firms, the firm's smaller competitors will follow suit, similarly investing in the asset due to its price gains.
-However, in relation to the party instigating the bubble, these smaller competitors are insufficiently leveraged to withstand a similarly rapid decline in the asset's price. When the large firm, cartel or de facto collusive body perceives a maximal peak has been reached in the traded asset's price, it can then proceed to rapidly sell or "dump" its holdings of this asset on the market, precipitating a price decline that forces its competitors into insolvency, bankruptcy or foreclosure.
-The large firm or cartel – which has intentionally leveraged itself to withstand the price decline it engineered – can then acquire the capital of its failing or devalued competitors at a low price as well as capture a greater market share (e.g., via a merger or acquisition which expands the dominant firm's distribution chain).  If the bubble-instigating party is itself a lending institution, it can combine its knowledge of its borrowers' leveraging positions with publicly available information on their stock holdings, and strategically shield or expose them to default.
-
-
-=== Other ===
-Some regard bubbles as related to inflation and thus believe that the causes of inflation are also the causes of bubbles. Others take the view that there is a "fundamental value" to an asset, and that bubbles represent a rise over that fundamental value, which must eventually return to that fundamental value.
-There are chaotic theories of bubbles which assert that bubbles come from particular "critical" states in the market based on the communication of economic factors. Finally, others regard bubbles as necessary consequences of irrationally valuing assets solely based upon their returns in the recent past without resorting to a rigorous analysis based on their underlying "fundamentals".
-
-
-== Stages ==
-According to the economist Charles P. Kindleberger, the basic structure of a speculative bubble can be divided into five phases:
-
-Displacement: A sufficient external shock to the macroeconomic system, creating new profit opportunities.
-Boom: A rise in asset prices and speculative investments (buy now with sole intention to sell in the future at a higher price and obtain a profit).
-Euphoria: A democratization of speculative investments, and a detachment from real rational valuable objects.
-Financial distress: Prices begin to plateau, investors start considering selling to cover their liabilities.
-Revulsion: prices plummet as investors race to sell first, panic spreads and feeds back on itself.
-
-
-=== Identification ===
-
-Economic or asset price bubbles are often characterized by one or more of the following:
-
-Unusual changes in single measures, or relationships among measures (e.g., ratios) relative to their historical levels.  For example, in the housing bubble of the 2000s, the housing prices were unusually high relative to income. For stocks, the price to earnings ratio (CAPE) provides a measure of stock prices relative to corporate earnings; higher readings indicate investors are paying more for each dollar of earnings.
-Elevated usage of debt (leverage) to purchase assets, such as purchasing stocks on margin or homes with a lower down payment.
-Higher risk lending and borrowing behavior, such as originating loans to borrowers with lower credit quality scores (e.g., subprime borrowers), combined with adjustable rate mortgages and "interest-only" loans.
-Rationalizing borrowing, lending, and purchase decisions based on expected future price increases rather than the ability of the borrower to repay.
-Rationalizing asset prices by increasingly weaker arguments, such as "this time it's different" or "housing prices only go up."
-A high presence of marketing or media coverage related to the asset.
-Incentives that place the consequences of bad behavior by one economic actor upon another, such as the origination of mortgages to those with limited ability to repay because the mortgage could be sold or securitized, moving the consequences from the originator to the investor.
-International trade (current account) imbalances, resulting in an excess of savings over investments, increasing the volatility of capital flow among countries. For example, the flow of savings from Asia to the U.S. was one of the drivers of the 2000s housing bubble.
-A lower interest rate environment, which encourages lending and borrowing.
-
-
-== Notable asset bubbles ==
-
-
-=== Commodities ===
-
-Tulip mania (Dutch) (1634–1637)
-Comic book speculation bubble (1985–1993)
-Silver Thursday (March 27, 1980)
-Uranium bubble of 2007
-Cryptocurrency bubble (speculative) (2016–2017, 2021–present)
-Artificial intelligence bubble (speculative) (2025–present)
-
-
-=== Equities ===
-
-
-==== Private securities ====
-
-South Sea Company (British) (1720)
-Mississippi Company (France) (1720)
-Canal Mania (UK) (1790s–1810s)
-Railway Mania (UK) (1840s)
-
-
-==== Quoted securities ====
-Roaring Twenties stock-market bubble (US) (1921–1929)
-Poseidon bubble (Australia) (1969–1970)
-Chinese stock bubble of 2007 (2003–2007)
-Dot-com bubble (US) (1996–2000)
-
-
-=== Real estate ===
-Florida building bubble (US) (1922–1926)
-2000s Property bubbles:
-Australian property bubble
-Irish property bubble
-New Zealand property bubble
-Spanish property bubble
-Romanian property bubble
-United States housing bubble (US) (2002–2006)
-
-
-=== Debt ===
-Corporate debt bubble (2010–)
-
-
-=== Multi-asset/Broad-based ===
-Japanese asset price bubble (1986–1991)
-1997 Asian financial crisis (1997)
-Everything bubble (2020–2021)
-
-
-== Notable periods post asset bubbles ==
-Panic of 1837
-Great Depression (1929–1934)
-Lost Decade (Japan) (1990–2013)
-Early 2000s recession (2002–2003)
-Great Recession (2007–2009)
-Panic of 1873
+== Academic debate ==
+There is a debate among economists and historians as to what role the crash played in subsequent economic, social, and political events. The Economist argued in a 1998 article that the Depression did not start with the stock market crash, nor was it clear at the time of the crash that a depression was starting. They asked, "Can a very serious Stock Exchange collapse produce a serious setback to industry when industrial production is for the most part in a healthy and balanced condition?" They argued that there must be some setback, but there was not yet sufficient evidence to prove that it would be long or would necessarily produce a general industrial depression.
+However, The Economist cautioned that some bank failures were also to be expected and some banks may not have had any reserves left for financing commercial and industrial enterprises. It concluded that the position of the banks was the key to the situation, but what was going to happen could not have been foreseen.
+Milton Friedman and Anna Schwartz's A Monetary History of the United States argues that what made the "great contraction" so severe was not the downturn in the business cycle, protectionism, or the 1929 stock market crash in themselves but the collapse of the banking system during three waves of panics from 1930 to 1933.
+In Age of Extremes,  Marxist historian Eric Hobsbawm argues the crash to be a turning point in the history of the 20th century, going so far as to say the events of the 20th century are "incomprehensible" without understanding its impact. He suggests it would be unlikely for the Soviet economic system to be considered as a serious alternative to global capitalism without the interwar economic breakdown.
+Hobsbawm writes extensively about the impact of post-crash mass unemployment on the world at large, especially as it pertained to national politics. From this mass unemployment, further demand for social programs and general security arose. Hobsbawm concludes that the long term consequence of the slump was seen in the loss of faith in the liberal economic system and the gold standard, symbolized in the United States adopting the Social Security Act of 1935, going so far as to say the proliferation of welfare and subsidies were the only reason for a lack of wide unrest. The only state that seemed unaffected by the crash and subsequent slump was the Soviet Union, but this was in spite of its inefficient economy and Stalinism's brutality rather than because of it. In fact, many economists and nations, such as Nazi Germany, began looking to the Soviet Union for its relative success in this time, going so far as to plagiarize the idea and language of "planning" the economy in a given amount of years, which demonstrates the earlier point of the Soviet system being viewed positively in contrast to capitalism.
 
 
 == See also ==
+
+Banking Act of 1935
+Causes of the Great Depression
+Criticism of the Federal Reserve
+Great Contraction (1929–1933)
+List of largest daily changes in the Dow Jones Industrial Average
 
 
 == References ==
 
 
 == Further reading ==
+Axon, Gordon V. (1974). The Stock Market Crash of 1929. London: Mason & Lipscomb Publishers. ISBN 0884050742. OCLC 835316.
+Bierman, Harold (2008). "The 1929 Stock Market Crash". In Whaples, Robert (ed.). EH.Net Encyclopedia. Santa Clara, California: Economic History Association. Retrieved February 2, 2017.
+Brooks, John (1980) [1969]. Once in Golconda: A True Drama of Wall Street 1920–1938. New York: Harper & Row. ISBN 0393013758. OCLC 5942728.
+Cadorel, Jean‐Laurent (November 2024). "The 1929 Crash of the New York Stock Exchange as a Liquidity Crisis". The Economic History Review. Volume 77, no. 4. pp. 1197–1221. doi:10.1111/ehr.13309.
+Dudley, William, ed. (1994). The Great Depression: Opposing Viewpoints (registration required). San Diego, California: Greenhaven Press. ISBN 1565100840. OCLC 27897458.
+Galbraith, John Kenneth (Spring 2015). "1929: New York City". Lapham's Quarterly. VIII:2. pp. 145–146.
+Klein, Maury (2001). Rainbow's End: The Crash of 1929. New York: Oxford University Press. ISBN 0195135164. OCLC 47136491.
+Klingaman, William K. (1989). 1929: The Year of the Great Crash. New York: Harper & Row. ISBN 0060160810. OCLC 18779768.
+Pendergast, Tom (2003). Baughman, Judith S., ed. American Decades: 1920–1929. Farmington Hills, Michigan: UXL American Decades Publishing. ISBN 978-0810357242. OCLC 1020528539.
+Shachtman, Tom (1979). The Day America Crashed: A Narrative Account of the Great Stock Market Crash of October 24, 1929. New York: G.P. Putnam. ISBN 0399116133. OCLC 4194480.
+Sorkin, Andrew Ross (2025). 1929: Inside the Greatest Crash in Wall Street History—and How It Shattered a Nation (First hardcover ed.). New York: Viking. ISBN 9780593296967. OCLC 1540975842.{{cite book}}:  CS1 maint: ref duplicates default (link)
+Thomas, Gordon and Morgan-Witts, Max (1979). The Day the Bubble Burst: A Social History of the Wall Street Crash of 1929. Garden City, New York: Doubleday. ISBN 0385143702. OCLC 5126304.
+Watkins, Tom H. (1993). The Great Depression: America in the 1930s. Boston: Little, Brown & Company. pp. 22–55. ISBN 0316924539. OCLC 27936077.
 
 
 == External links ==
-When Bubbles Burst, World Economic Outlook (PDF), International Monetary Fund, April 2003.
+
+The Crash of 1929, American Experience documentary

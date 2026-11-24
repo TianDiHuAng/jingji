@@ -1,19 +1,20 @@
-The gold bloc were seven countries led by France that stuck to the gold standard monetary policy during the Great Depression, even though many other countries abandoned it. In addition to France, the gold bloc included Belgium, Luxembourg, the Netherlands, Italy, Poland, and Switzerland.
+The Tripartite Agreement was an international monetary agreement entered into by the United States, France, and Great Britain in September 1936. The purpose of the agreement was to stabilize their nations' currencies both at home and in the international exchange markets after the collapse of the international monetary system during the Great Depression. 
 
 
 == History ==
-As the shock from the May 1931 default of Austria's largest commercial bank, Creditanstalt, spread throughout Europe, several countries, most notably Great Britain in September 1931, abandoned the gold standard. Other countries, including Denmark, Norway, Sweden (September 1931), Finland (October), and Japan (December), also abandoned the gold standard.
-But the gold bloc countries recommitted themselves to maintain a stable rate of exchange of their currencies at the 1933 international economic conference in London, by which time 35 countries, including the United States and Italy, had abandoned the gold standard. They thus persisted with deflationary policies—i.e., "while foreswearing exchange controls, they raised tariffs and tightened quotas on imports in an effort to insulate their economies from the downturn and protect their gold reserves".
-The currency crisis continued after the devaluation of the United States dollar in 1934 and the ongoing devaluation of the British pound sterling. The gold bloc countries' export businesses found it difficult to maintain profitability and suffered from massive capital flight to the United States. Belgium and Luxembourg gave up the gold standard in March 1935 and devalued their currencies. In September 1936, the United States, Great Britain, and France signed the Tripartite Agreement, and finally the remaining gold bloc countries abandoned the gold standard.
+During the Great Depression, international monetary cooperation collapsed among liberal states. Following suspension of the gold standard by Great Britain in 1931 and the United States in 1933, a serious imbalance developed between their currencies and those of the gold bloc countries, particularly France. The devaluation of the dollar and the pound sterling raised import prices and lowered export prices in the United States and Great Britain.
+In the United States and Great Britain sound money advocates were divided between those favoring reforms to stabilize the currency and others who called for an end to the gold standard and a managed currency.
 
 
-== Conclusions ==
-Economists writing A Program for Monetary Reform (1939) indicated Scandinavian nations that abandoned the gold standard in 1931 recovered from the Great Depression earlier than the gold bloc countries.
+== Agreement ==
+The Tripartite Agreement was informal and provisional. Subscribing nations agreed to refrain from competitive depreciation to maintain currency values at existing levels, as long as that attempt did not interfere seriously with internal prosperity. France devalued its currency as part of the agreement. The remaining gold bloc nations, Belgium, Switzerland, and the Netherlands, also subscribed to the agreement.
+Subscribing nations agreed to sell one another gold in the seller's currency at a price agreed in advance. The agreement stabilized exchange rates, ending the currency war of 1931 to 1936,
+but it failed to help the recovery of world trade.
 
 
 == See also ==
-Great Depression
 Gold standard
+London Gold Pool
 
 
 == References ==
