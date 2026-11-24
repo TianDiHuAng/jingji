@@ -58,3 +58,9 @@
 - 案例化据原文不编造；L3 应有 deep_svg；数值/年份对照原文；来源 id 对照 sources.json；
   未核实数字不在任何位置（含免责声明）以事实陈述或复述。
 - 文档/派生产出物（REPORT／HEALTH_CHECK／COVERAGE_MATRIX／coverage.json）须随数据更新，已部分纳入自动检查。
+
+## 备份风险（round 169 记录，需人工处理）
+
+远程仓库 `https://github.com/TianDiHuAng/jingji`（public）最新 `pushed_at = 2026-11-22T07:31Z`（约 round 25），
+此后**本地约 415 个提交（round 26–169）尚未推送到 GitHub**。本会话环境**无 GitHub token**，无法自动推送。
+**建议**：在有凭证的环境执行 `git push origin main`（git 网络栈若不通，可用 GitHub Git Data API），以备份全部工作。

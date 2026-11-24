@@ -2710,6 +2710,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "出网白名单结论补记 BLOCKERS；质量快照 kd强350/polnum强443(找不到0)/body强984",
       "note": "维基第148轮可用。PG：确认出网为白名单式（补记 BLOCKERS）+ 完整质量快照。\n①**网络**：进一步探测确认出网为**白名单式**——仅 github.com／baidu 等少数可达，维基/archive/google/duckduckgo 均阻断；DNS 对 8.8.8.8 的查询亦被透明污染（返回 Twitter/Facebook IP），直连 archive.org 真实 IP 亦 Reset/超时。**无本地手段取回维基全文**，3+5 条待网络解除。已补记 BLOCKERS。\n②**完整质量快照（内容溯源三项）**：\ncheck_kd：可核对 451，强匹配 **350（78%）**、弱 50、未匹配 51（多为 OWID/单位/概念）；\ncheck_polnum：强 **443**、弱 141、**完全找不到 0**；\ncheck_body_num：强 **984**、弱 427、未匹配 81（多为日期/举例/交叉引用）。\n③未匹配/弱匹配均为已归类的\"非错误\"类（格式/单位/OWID/跨事件引用），此前多轮抽查已确认。\n④十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
+    },
+    {
+      "round": "续作PH",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 641,
+      "fixed": 1,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
+      "spot_check": "cross-ref 全净（0 未知id）；发现远程仓库停在 2026-11-22、约 415 提交未备份，记 BACKLOG",
+      "note": "维基第149轮可用。PH：交叉引用完整性核查（干净）+ 发现并记录备份风险。\n①**交叉引用核查**：comparison 字段引用未知 id = **0**、过短(<20字) = **0**；**全域（overview/comparison/policy/schools/causal/timeline）backtick id 引用未知 = 0**——所有内联 id 均指向真实条目或来源。\n②**备份风险（新发现）**：用可达的 GitHub API 查远程 `TianDiHuAng/jingji`（public）——`pushed_at = 2026-11-22`（约 round 25），此后本地 **约 415 提交（round 26–169）未推送**；本会话**无 GitHub token**，无法自动推送。已记入 BACKLOG「备份风险」，建议有凭证时 `git push origin main`。\n③十一道检查全绿、自测 34/34。\n④现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
     }
   ]
 }
