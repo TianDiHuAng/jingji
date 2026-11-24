@@ -754,6 +754,18 @@
       "check_result": "PASS (540); check_links 554页 0 error",
       "spot_check": "**全部条目来源数≥2**；key_data/timeline/因果链/学派观点均100%带来源",
       "note": "一致性检查:key_data、timeline事件、因果链步骤、学派观点全部带来源(0缺失);为10个单源条目补第二参考来源,现全部540条目均≥2来源。新增3来源页(洗钱/房产泡沫/新自由主义)。来源总数648。key_data 308条。"
+    },
+    {
+      "round": "续作CN",
+      "date": "2026-11-24",
+      "new_entries": 5,
+      "upgraded": 3,
+      "reviewed": 8,
+      "fixed": 3,
+      "sources_total": 654,
+      "check_result": "PASS (545); check_links 559页 0 error",
+      "spot_check": "新增5条概念;3条与既有条目标题重复者改为\"合并内容\"而非另建",
+      "note": "CN新增5条概念:中性利率r*/债权人减记bail-in/J曲线/马歇尔-勒纳条件/黑市与影子经济。**处理重复**:capital-controls/interest-parity/special-drawing-rights三条与既有的capital-control/interest-rate-parity/sdr标题重复,改为把更完整的内容合并进既有条目并删除新条目——避免同一概念两套页面。同时改进3条既有条目的正文深度。总545条,来源654,key_data 308条。"
     }
   ]
 }
