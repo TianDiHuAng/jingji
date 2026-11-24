@@ -538,6 +538,18 @@
       "check_result": "PASS (494); check_links 507页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "AX: 新增8条国际货币体系概念(广场协议1985-09-22五国/卢浮宫协议1987-02-22/去美元化/人民币国际化/过高特权exorbitant privilege/货币战争竞争性贬值/以邻为壑/国际货币体系)。总494条，来源583。"
+    },
+    {
+      "round": "续作AY-AZ",
+      "date": "2026-11-24",
+      "new_entries": 10,
+      "upgraded": 0,
+      "reviewed": 10,
+      "fixed": 6,
+      "sources_total": 593,
+      "check_result": "PASS (504); check_links 517页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "AY(2条18世纪恶性通胀案例:法国指券1789-96/大陆币1775-80s,填补矩阵「18—19世纪×恶性通胀」空白0→2) + AZ(8条宏观/衍生品:NAIRU/反通胀/潜在产出/远期合约/看涨期权/看跌期权/即期合约/利率互换)。另修正6处period/unit字段不一致(5条U1的period统一为「早期—17世纪」、挪威银行危机unit改为U4)+矩阵时期标签统一。**总条目突破500**。"
     }
   ]
 }
