@@ -122,6 +122,10 @@ def main():
         for k in keys:
             if k not in txt:
                 integrity.append((name, '缺关键章节', k))
+    # REPORT.md 必须含"可核对的状态数字行"（否则 scan 跳过、陈旧不被发现）
+    if not scan(os.path.join(ROOT, 'REPORT.md')):
+        integrity.append(('REPORT.md', '缺可核对状态行',
+                          '需含如：当前 总条目 N、来源 N 条、站点 N 页'))
     # 轮次记录条数
     pp = os.path.join(ROOT, 'PROGRESS.md')
     if os.path.exists(pp):

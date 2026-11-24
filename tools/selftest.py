@@ -299,6 +299,17 @@ def m_r20():
 
 case('R20 U1标全球', m_r20, ['tools/check.py'], 'R20', [U1T])
 
+REPORT_MD = os.path.join(ROOT, 'REPORT.md')
+
+
+def m_report_num():
+    t = open(REPORT_MD, encoding='utf-8').read()
+    t2 = t.replace('总条目 641', '总条目 999', 1)
+    open(REPORT_MD, 'w', encoding='utf-8').write(t2)
+
+
+case('check_docs REPORT数字', m_report_num, ['tools/check_docs.py'], '不一致', [REPORT_MD])
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)
