@@ -53,3 +53,17 @@
   - dutch-stock-crashes → 同上（VOC股票、阿姆斯特丹证交所、衍生品）
   - syrian-crisis-2011 → 用 **Economy of Syria** + **Caesar Syria Civilian Protection Act**（2011内战/2020-06-17制裁生效/2025-12-18废除）
 - 结论：**L1 已清零**（全库165条均为L2或L3）。
+
+## 已清理：永久不可达且未被引用的来源（续作CT）
+
+以下 5 个来源在建立时即返回 HTTP 403 且无法通过其他途径读取，经全站扫描确认**没有任何条目引用**，已从 `data/sources.json` 删除（来源库 665 → 660，现全部为 verified=true 且实际可达）：
+
+| 来源 id | 标题 | 不可达原因 |
+|---|---|---|
+| britannica-financial-crisis | Encyclopaedia Britannica（金融危机条目） | HTTP 403（反爬） |
+| imf-publications | IMF Publications | HTTP 403 |
+| investopedia-financial-crisis | Investopedia | HTTP 403 |
+| baike-financial-crisis | 百度百科 | HTTP 403 |
+| bls | U.S. Bureau of Labor Statistics | HTTP 403 |
+
+保留它们只会让来源库包含"看似可用、实际打不开"的条目，损害可核查性。相关论述已由可访问的维基百科、美联储历史站与 OWID 数据替代。

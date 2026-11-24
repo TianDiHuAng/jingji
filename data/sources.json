@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 665,
+  "count": 660,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2101,66 +2101,6 @@
       "verified": true,
       "note": "机构页 HTTP 200 抓取核对：标题 \"Our World in Data\"（276248 字节）",
       "link_ok": true
-    },
-    {
-      "id": "britannica-financial-crisis",
-      "title": "Financial crisis | Money & Finance",
-      "author": "Encyclopaedia Britannica",
-      "year": null,
-      "type": "权威百科",
-      "url": "https://www.britannica.com/money/financial-crisis",
-      "url2": null,
-      "verified": false,
-      "note": "HTTP 403 反爬，无法打开核对标题/年份",
-      "link_ok": "blocked"
-    },
-    {
-      "id": "imf-publications",
-      "title": "IMF Publications",
-      "author": "International Monetary Fund",
-      "year": null,
-      "type": "官方机构",
-      "url": "https://www.imf.org/en/Publications",
-      "url2": null,
-      "verified": false,
-      "note": "HTTP 403 反爬，无法打开核对",
-      "link_ok": "blocked"
-    },
-    {
-      "id": "investopedia-financial-crisis",
-      "title": "Financial Crisis Definition",
-      "author": "Investopedia",
-      "year": null,
-      "type": "权威百科",
-      "url": "https://www.investopedia.com/terms/f/financial-crisis.asp",
-      "url2": null,
-      "verified": false,
-      "note": "HTTP 403 反爬，无法打开核对",
-      "link_ok": "blocked"
-    },
-    {
-      "id": "baike-financial-crisis",
-      "title": "金融危机",
-      "author": "百度百科",
-      "year": null,
-      "type": "权威百科",
-      "url": "https://baike.baidu.com/item/金融危机",
-      "url2": null,
-      "verified": false,
-      "note": "HTTP 403 反爬，无法打开核对",
-      "link_ok": "blocked"
-    },
-    {
-      "id": "bls",
-      "title": "U.S. Bureau of Labor Statistics",
-      "author": "U.S. Bureau of Labor Statistics",
-      "year": null,
-      "type": "官方机构",
-      "url": "https://www.bls.gov/",
-      "url2": null,
-      "verified": false,
-      "note": "HTTP 403 反爬，无法打开核对",
-      "link_ok": "blocked"
     },
     {
       "id": "w-en-herd-behavior",

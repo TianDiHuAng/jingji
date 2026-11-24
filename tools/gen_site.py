@@ -123,13 +123,20 @@ by_unit = defaultdict(list)
 for e in entries.values(): by_unit[e.get('unit','')].append(e)
 lv_count = Counter(e.get('level') for e in entries.values())
 ver_count = sum(1 for s in src['sources'] if s['verified'])
+kd_total = sum(len(e.get('key_data', []) or []) for e in entries.values())
+conf_total = sum(1 for e in entries.values() for k in (e.get('key_data', []) or [])
+                 if ('双源' in (k.get('note') or '') or '印证' in (k.get('note') or '')
+                     or '完全一致' in (k.get('note') or ''))
+                 and any(str(x).startswith(('fed-', 'owid-')) for x in (k.get('sources') or [])))
 home = [
  '<h1>经济史与金融危机案例库</h1>',
  '<p class="lead">按 时期 × 地区 × 危机类型 组织的历史案例与理论制度条目。数据驱动、机器校验、诚实标注。</p>',
  f'<div class="stats"><div class="stat"><div class="n">{len(entries)}</div><div class="l">条目总数</div></div>'
  f'<div class="stat"><div class="n">{lv_count["L2"]}</div><div class="l">L2 标准条目</div></div>'
  f'<div class="stat"><div class="n">{lv_count["L1"]}</div><div class="l">L1 骨架条目</div></div>'
- f'<div class="stat"><div class="n">{ver_count}</div><div class="l">已核对来源</div></div></div>',
+ f'<div class="stat"><div class="n">{ver_count}</div><div class="l">可用来源</div></div>'
+ f'<div class="stat"><div class="n">{kd_total}</div><div class="l">关键数据条数</div></div>'
+ f'<div class="stat"><div class="n">{conf_total}</div><div class="l">已获第二来源印证</div></div></div>',
  '<div class="note">本站所有数字除明确标注来源与口径外一律列为"待核实"；有争议观点并列各方说法，不替读者下结论。不做预测，不提供投资建议。</div>',
  '<h2 id="units">单元导航</h2><div class="grid">'
 ]
