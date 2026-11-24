@@ -1,0 +1,81 @@
+{
+  "id": "edict-maximum-prices",
+  "title": "罗马价格敕令(301)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U1 早期—17世纪",
+  "period": "早期—17世纪",
+  "region": "欧洲",
+  "crisis_type": "恶性通胀",
+  "one_line": "301年戴克里先颁布的价格敕令，谴责贪婪并为所有重要商品与服务设定最高价格与工资。",
+  "overview": "价格敕令由戴克里先于301年颁布。该文件谴责贪婪，并为所有重要物品与服务设定最高价格与工资。它是在罗马帝国货币持续贬损、物价飞涨背景下试图以行政手段抑制通胀的著名尝试，但因普遍规避与供给萎缩而难以奏效。具体条款与后果待核实。",
+  "timeline": [
+    {
+      "year": 301,
+      "display": "301年",
+      "event": "戴克里先颁布《价格敕令》，为重要商品与服务设定最高价格与工资（据 Wikipedia Edict on Maximum Prices）",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "罗马货币长期贬损（成色下降）→ 物价上涨",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "step": "301年价格敕令 → 以行政限价抑制通胀",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ]
+    },
+    {
+      "step": "限价致商品退出市场/规避 → 政策难以为继",
+      "sources": [
+        "w-en-price-controls"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "行政限价视角",
+      "view": "限价可短期抑制名义价格，但扭曲供给",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ]
+    },
+    {
+      "holder": "货币视角",
+      "view": "通胀根源在货币贬损，须先稳定币值",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debasement"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debasement"
+      ]
+    }
+  ],
+  "comparison": "与后世价格管制（如1971年美国价格管制、战时管制）机制相似：均试图以行政手段压制货币性通胀。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>罗马价格敕令(301)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>罗马货币长期贬损（成色下</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>301年价格敕令 → 以</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>限价致商品退出市场/规避</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-debasement",
+    "w-en-edict-maximum-prices",
+    "w-en-price-controls"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
+}

@@ -29,6 +29,8 @@
 | kipper-wipper-1618 | Kipper und Wipper货币危机(1618–1622) | 前17世纪 | 欧洲 | 货币 | 补充 | S3,轮次12 |
 | bardi-family | 巴尔迪家族银行崩溃(1340s) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
 | medici-bank | 美第奇银行(1397–1494) | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
+| edict-maximum-prices | 罗马价格敕令(301) | 见条目 | 见条目 | 恶性通胀 | 重要 | 续作BB |
+| roman-currency | 罗马货币体系 | 见条目 | 见条目 | 货币 | 重要 | 续作BB |
 
 ## U2 18—19世纪
 
@@ -532,3 +534,4 @@
 | put-option | 看跌期权 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
 | spot-contract | 即期合约 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
 | interest-rate-swap | 利率互换 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
+| debasement | 货币成色贬损 | 见条目 | 见条目 | 货币 | 重要 | 续作BB |

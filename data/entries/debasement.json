@@ -1,0 +1,71 @@
+{
+  "id": "debasement",
+  "title": "货币成色贬损",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "降低硬币内在价值、却仍按面值流通的做法（尤指商品货币如金银币）。",
+  "overview": "货币成色贬损是降低硬币内在价值的做法，尤其在与商品货币（如金币或银币）相关时使用，同时继续按面值使其流通。若硬币中金、银、铜或镍的含量被减少，该硬币就被称为已贬损。成色贬损是前现代通胀的主要机制，也是一种隐性征税（铸币税）。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "财政压力 → 减少硬币贵金属含量",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "step": "名义面值不变但内在价值下降 → 物价上涨",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "step": "形成隐性征税（铸币税）与通胀",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币视角",
+      "view": "成色贬损直接推高物价",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "holder": "财政视角",
+      "view": "贬损是政府的隐性收入来源",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debasement"
+      ]
+    }
+  ],
+  "comparison": "与法币超发机制相通，均以扩大名义货币量实现再分配；区别在于成色贬损受金属供给约束。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币成色贬损：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>财政压力 → 减少硬币贵</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>名义面值不变但内在价值下</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形成隐性征税（铸币税）与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-debasement",
+    "w-en-seigniorage"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
+}

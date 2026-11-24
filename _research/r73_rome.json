@@ -1,0 +1,17 @@
+{
+  "edict-maximum-prices": {
+    "title": "Edict on Maximum Prices",
+    "extract": "The Edict on Maximum Prices was issued in 301 by Diocletian. The document denounces greed and sets maximum prices and wages for all important articles and services.",
+    "slug": "Edict_on_Maximum_Prices"
+  },
+  "roman-currency": {
+    "title": "Roman currency",
+    "extract": "Roman currency for most of Roman history consisted of gold, silver, bronze, orichalcum (brass), and copper coinage. From its introduction during the Republic, in the third century BC, through Imperial times, Roman currency saw many changes in form, denomination, and composition. A feature was the inflationary debasement and replacement of coins over the centuries. Notable examples of this followed the reforms of Diocletian. This trend continued with Byzantine currency.",
+    "slug": "Roman_currency"
+  },
+  "debasement": {
+    "title": "Debasement",
+    "extract": "A debasement of coinage is the practice of lowering the intrinsic value of coins, especially when used in connection with commodity money, such as gold or silver coins, while continuing to circulate them at face value. A coin is said to be debased if the quantity of gold, silver, copper or nickel in the coin is reduced.",
+    "slug": "Debasement"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "roman-currency",
+  "title": "罗马货币体系",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U1 早期—17世纪",
+  "period": "早期—17世纪",
+  "region": "欧洲",
+  "crisis_type": "货币",
+  "one_line": "罗马史大部分时期的金币、银币、铜币与黄铜币体系，以数世纪间的通胀性贬损为特征。",
+  "overview": "罗马货币在罗马史的大部分时期由金币、银币、青铜币、山铜（黄铜）与铜币构成。从公元前三世纪共和国时期引入，历经帝国时期，罗马货币在形式、面额与成分上发生许多变化。其一个特征是数世纪间的通胀性贬损与硬币更替。具体演变待核实。",
+  "timeline": [
+    {
+      "year": -300,
+      "display": "公元前3世纪",
+      "event": "罗马共和国时期引入铸币体系（据 Wikipedia Roman currency）",
+      "sources": [
+        "w-en-roman-currency"
+      ]
+    },
+    {
+      "year": 301,
+      "display": "301年",
+      "event": "戴克里先颁布价格敕令以应对物价飞涨（同上及相关条目）",
+      "sources": [
+        "w-en-edict-maximum-prices"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "帝国开支与铸币需求 → 降低硬币贵金属含量",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "step": "货币成色下降 → 物价上涨与信心流失",
+      "sources": [
+        "w-en-roman-currency"
+      ]
+    },
+    {
+      "step": "通胀性贬损与硬币更替 → 长期货币不稳定",
+      "sources": [
+        "w-en-hyperinflation"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "金属主义视角",
+      "view": "成色下降直接削弱货币价值",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-debasement"
+      ]
+    },
+    {
+      "holder": "财政视角",
+      "view": "贬值是弥补财政缺口的手段",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-seigniorage"
+      ]
+    }
+  ],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施见时间线；效果待核实",
+      "basis": "需多来源印证",
+      "sources": [
+        "w-en-debasement"
+      ]
+    }
+  ],
+  "comparison": "与近代金本位下的贬值（如1930年代）机制相通：均以减少金属含量或改变平价实现事实贬值。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>罗马货币体系：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>帝国开支与铸币需求 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>货币成色下降 → 物价上</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>通胀性贬损与硬币更替 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-debasement",
+    "w-en-roman-currency",
+    "w-en-hyperinflation"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
+}
