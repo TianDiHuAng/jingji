@@ -81,7 +81,11 @@
     "w-en-arthur-andersen",
     "w-en-enron"
   ],
-  "related": [],
+  "related": [
+    "credit-rating",
+    "enron",
+    "information-asymmetry"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
 }

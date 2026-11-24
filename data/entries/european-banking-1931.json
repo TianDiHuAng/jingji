@@ -132,7 +132,11 @@
     "w-en-european-banking-1931",
     "w-en-gold-standard"
   ],
-  "related": [],
+  "related": [
+    "danatbank-1931",
+    "gold-standard",
+    "great-depression"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作AS】补关键数据（单源）。"
 }

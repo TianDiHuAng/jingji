@@ -56,7 +56,11 @@
     "w-en-marginal-utility",
     "bk-the-wealth-of-nations"
   ],
-  "related": [],
+  "related": [
+    "classical-economics",
+    "loanable-funds",
+    "opportunity-cost"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
 }

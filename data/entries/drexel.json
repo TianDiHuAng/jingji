@@ -89,7 +89,11 @@
     "w-en-drexel",
     "w-en-insider-trading"
   ],
-  "related": [],
+  "related": [
+    "arthur-andersen",
+    "leverage",
+    "savings-loan-1986"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AT】补关键数据（单源）。"
 }

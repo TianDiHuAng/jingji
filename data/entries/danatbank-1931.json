@@ -86,7 +86,11 @@
     "w-en-danatbank-1931",
     "w-en-great-depression"
   ],
-  "related": [],
+  "related": [
+    "bank-run",
+    "european-banking-1931",
+    "great-depression"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AS】补关键数据（单源）。"
 }

@@ -118,7 +118,12 @@
     "w-en-devaluation",
     "w-en-currency-crisis"
   ],
-  "related": [],
+  "related": [
+    "competitive-devaluation",
+    "currency-crisis",
+    "fixed-exchange-rate",
+    "original-sin"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义与1949/1967英镑史实据维基全文；单源待核实。【续作BQ】"
 }

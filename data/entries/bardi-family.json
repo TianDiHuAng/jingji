@@ -96,7 +96,12 @@
     "w-en-bardi-family",
     "w-en-bank-failure"
   ],
-  "related": [],
+  "related": [
+    "credit-money",
+    "crisis-late-middle-ages",
+    "history-of-banking",
+    "medici-bank"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
 }

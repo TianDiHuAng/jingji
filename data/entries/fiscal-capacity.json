@@ -57,7 +57,11 @@
     "w-en-fiscal-space",
     "w-en-hyperinflation"
   ],
-  "related": [],
+  "related": [
+    "fiscal-policy",
+    "fiscal-space",
+    "informal-economy"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与细节待核实补充。【续作AM】"
 }

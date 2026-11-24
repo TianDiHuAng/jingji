@@ -85,7 +85,11 @@
     "w-en-barings-1995",
     "w-en-derivative"
   ],
-  "related": [],
+  "related": [
+    "bank-failure",
+    "derivative",
+    "franklin-national-1974"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
 }

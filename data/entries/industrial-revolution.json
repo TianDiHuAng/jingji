@@ -56,7 +56,12 @@
     "w-en-industrial-revolution",
     "w-en-great-divergence"
   ],
-  "related": [],
+  "related": [
+    "commercial-revolution",
+    "creative-destruction",
+    "development-economics",
+    "economic-history"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
 }

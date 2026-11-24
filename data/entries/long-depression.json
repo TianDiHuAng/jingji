@@ -56,7 +56,12 @@
     "w-en-long-depression",
     "w-en-panic-of-1873"
   ],
-  "related": [],
+  "related": [
+    "deflation",
+    "great-depression",
+    "kondratiev",
+    "panic-1873"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
 }

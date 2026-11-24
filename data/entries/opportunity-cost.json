@@ -56,7 +56,12 @@
     "w-en-opportunity-cost",
     "w-en-comparative-advantage"
   ],
-  "related": [],
+  "related": [
+    "comparative-advantage",
+    "interest-rate",
+    "loanable-funds",
+    "marginal-utility"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
 }
