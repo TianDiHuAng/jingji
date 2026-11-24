@@ -1484,8 +1484,8 @@
       "fixed": 0,
       "sources_total": 732,
       "check_result": "PASS (625); 八道检查全绿",
-      "spot_check": "13个薄弱条目已补充；timeline 576 条、schools 1205 条",
-      "note": "维基第46轮可用。GG-GJ：**为 13 个\"内容薄弱\"的概念条目补充实质内容**。①先抓取 29 个\"仅 5 个区块\"条目的维基全文（均 5千—7万字符），说明来源充足，此前只是建条目时仅取了 REST 摘要（几百字符）。②为 7 个补充：counterparty-risk（赫斯塔特银行 1974.6.26 牌照吊销、德崇 1990 未引发同类问题、英央行专设安排）、dividend（VOC 1602—1800 年付约 **18%** 股息、1902 年\"不干预\"原则判例）、convergence（Sachs-Warner 111国 1970—89 研究、绝对 vs 条件收敛）、buyback（1934 证券交易法 10b-18 安全港、1981 年前均为固定价格要约）、savings／demand／effective-demand（学术分歧条目化）。③再为 6 个补充：toxic-assets（2006 年 Mozilo 邮件首创该词、2009.3.23 盖特纳 **PPIP**、当日股指涨超 **6%**）、rent-seeking（1817 李嘉图地租→1967 塔洛克→1980s 批评、塔洛克悖论）、transaction-cost（1931 Commons→1996 Williamson 分歧）、tax-incidence（弹性决定归宿）、junk-bond（再打包成 CDO 提升优先级评级）、prisoners-dilemma（1950 提出→1984 Axelrod 锦标赛）。效果：timeline 事件 576 条、schools 1205 条、key_data 410 条；仍缺 timeline/schools 的条目由 29 降至 16。案例政策 71%。"
+      "spot_check": "13个薄弱条目已补充；timeline 576 事件 / schools 1205 观点",
+      "note": "维基第46轮可用。GG-GJ：**为 13 个\"内容薄弱\"的概念条目补充实质内容**。①先抓取 29 个\"仅 5 个区块\"条目的维基全文（均 5千—7万字符），说明来源充足，此前只是建条目时仅取了 REST 摘要（几百字符）。②为 7 个补充：counterparty-risk（赫斯塔特银行 1974.6.26 牌照吊销、德崇 1990 未引发同类问题、英央行专设安排）、dividend（VOC 1602—1800 年付约 **18%** 股息、1902 年\"不干预\"原则判例）、convergence（Sachs-Warner 111国 1970—89 研究、绝对 vs 条件收敛）、buyback（1934 证券交易法 10b-18 安全港、1981 年前均为固定价格要约）、savings／demand／effective-demand（学术分歧条目化）。③再为 6 个补充：toxic-assets（2006 年 Mozilo 邮件首创该词、2009.3.23 盖特纳 **PPIP**、当日股指涨超 **6%**）、rent-seeking（1817 李嘉图地租→1967 塔洛克→1980s 批评、塔洛克悖论）、transaction-cost（1931 Commons→1996 Williamson 分歧）、tax-incidence（弹性决定归宿）、junk-bond（再打包成 CDO 提升优先级评级）、prisoners-dilemma（1950 提出→1984 Axelrod 锦标赛）。效果：timeline 事件 576 条（254 条目）、schools 观点 1205 条（600 条目）、key_data 410 条；仍缺 timeline/schools 的条目由 29 降至 16。案例政策 71%。 **自我修正**：初稿把 schools 误记为 153 条（按条目计），实际 1205 条观点，已核对更正。"
     }
   ]
 }

@@ -980,7 +980,8 @@
   | **prisoners-dilemma** | 1950 提出 → **1984 Axelrod 锦标赛** |
   | convergence／buyback／tax-incidence／junk-bond | Sachs-Warner 研究、10b-18 安全港、弹性决定归宿、CDO 再打包提升评级 |
 
-- 效果：`timeline` 事件 **584 条**、`schools` **153 条**、`key_data` **409 条**；仍缺 timeline/schools 的条目由 **29 降至 16**。
+- 效果：`timeline` 事件 **576 条**（254 个条目）、`schools` 观点 **1,205 条**（600 个条目）、`key_data` **410 条**；仍缺 timeline/schools 的条目由 **29 降至 16**。
+- **自我修正**：本轮最初把 `schools` 记成 153 条（误按"条目数"计），实际是 1,205 条观点。已核对更正——记录本身也需要核对。
 - 现状：**625 条**、来源 732、站点 639 页；案例政策 71%、案例数据 85%。八道检查全绿。
 
 ## 轮次记录
