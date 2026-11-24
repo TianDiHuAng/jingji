@@ -57,6 +57,9 @@
     "w-en-value-at-risk"
   ],
   "related": [
+    "beta",
+    "black-scholes",
+    "equity-premium",
     "market-risk",
     "option",
     "risk-management",

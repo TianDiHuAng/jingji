@@ -61,9 +61,13 @@
     "black-wednesday-1992",
     "bretton-woods",
     "capital-control",
+    "currency-board",
     "currency-crisis",
     "exchange-rate-regime",
-    "mundell-fleming"
+    "fixed-exchange-rate",
+    "floating-exchange-rate",
+    "mundell-fleming",
+    "sterilization"
   ],
   "needs_verification": true,
   "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。 【续作DK】补写概念辨析。"

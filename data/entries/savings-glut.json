@@ -60,6 +60,7 @@
     "current-account",
     "global-imbalances",
     "reserve-currency",
+    "savings",
     "secular-stagnation"
   ],
   "needs_verification": true,

@@ -57,6 +57,8 @@
     "w-en-interest-rate"
   ],
   "related": [
+    "basis-point",
+    "bond",
     "interest-rate",
     "yield-curve-control"
   ],

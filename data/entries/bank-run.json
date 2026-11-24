@@ -97,9 +97,21 @@
     "w-en-systemic-risk"
   ],
   "related": [
+    "alm",
+    "asset-liability-mismatch",
+    "bank-failure",
     "contagion",
+    "coordination-games",
     "deposit-insurance",
-    "lender-of-last-resort"
+    "diamond-dybvig",
+    "fractional-reserve",
+    "lender-of-last-resort",
+    "liquidity-risk",
+    "maturity-transformation",
+    "prisoners-dilemma",
+    "self-fulfilling",
+    "stablecoin",
+    "too-big-to-fail"
   ],
   "needs_verification": true,
   "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DJ】补写概念辨析。",

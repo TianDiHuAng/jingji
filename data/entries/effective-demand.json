@@ -22,9 +22,10 @@
   "comparison": "与**名义需求**的区别在\"是否受约束\"：有效需求是购买者在**其他市场受到约束**时实际出现的需求；名义需求是只受价格与偏好约束、不受其他市场配给限制的需求。这一区分源自凯恩斯对\"需求不足\"的论证：当劳动市场或信贷市场存在配给时，家庭的支出计划无法实现，总需求低于潜在水平——因此扩张政策可提高产出而不只是推高物价。",
   "related": [
     "aggregate-demand",
+    "demand",
     "keynesian-economics",
-    "says-law",
-    "liquidity-trap"
+    "liquidity-trap",
+    "says-law"
   ],
   "sources": [
     "w-en-effective-demand"

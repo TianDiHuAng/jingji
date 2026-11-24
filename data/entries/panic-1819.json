@@ -97,6 +97,7 @@
   ],
   "related": [
     "deflation",
+    "panic-1792",
     "panic-1796",
     "panic-1825",
     "second-bank"

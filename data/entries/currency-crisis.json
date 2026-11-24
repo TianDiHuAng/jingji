@@ -57,10 +57,19 @@
     "w-en-currency-devaluation"
   ],
   "related": [
+    "asset-liability-mismatch",
+    "black-market",
     "capital-flight",
+    "carry-trade",
+    "devaluation",
+    "fear-of-floating",
+    "financial-crisis",
+    "fixed-exchange-rate",
     "impossible-trinity",
     "original-sin",
-    "sudden-stop"
+    "speculative-attack",
+    "sudden-stop",
+    "twin-crises"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作ED】补写概念辨析。"

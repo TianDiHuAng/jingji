@@ -96,9 +96,14 @@
     "w-en-systemic-risk"
   ],
   "related": [
+    "archegos-2021",
+    "asian-financial-crisis-1997",
     "finnish-banking-1990",
     "rhode-island-banking-1990",
-    "savings-loan-1986"
+    "russian-1998",
+    "savings-loan-1986",
+    "uk-secondary-banking-1973",
+    "venezuelan-banking-1994"
   ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"

@@ -57,9 +57,13 @@
     "w-en-capital-control"
   ],
   "related": [
+    "arbitrage",
     "capital-control",
     "carry-trade",
     "exchange-rate-regime",
+    "forward-contract",
+    "interest-rate",
+    "monetary-policy",
     "purchasing-power-parity"
   ],
   "needs_verification": true,

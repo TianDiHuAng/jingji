@@ -35,10 +35,10 @@
   "key_data": [],
   "comparison": "与**产权界定**的区别在\"权利与执行\"：产权是权利束（使用、收益、转让、排他）；产权界定是具体分配（谁拥有什么）与执行机制（法院、登记、治安）。这一区分在发展经济学中极其重要：仅有名义产权而无有效执行，等于没有产权（de Soto 的\"死资本\"论点）；而清晰的产权与低交易成本是市场交易的前提（科斯定理）。在危机中，产权不清会阻碍债务重组与资产处置（坏账银行的估值难题）。",
   "related": [
-    "transaction-cost",
+    "institutional-economics",
     "market-failure",
     "public-good",
-    "institutional-economics"
+    "transaction-cost"
   ],
   "sources": [
     "w-en-property-rights"

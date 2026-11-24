@@ -21,10 +21,10 @@
   "key_data": [],
   "comparison": "与**做市**的区别在\"目的与客户\"：自营交易以公司自有资金为自己获利；做市则是为客户提供流动性、赚取买卖价差（虽有库存风险，但目的是服务客户）。与**代客交易**的区别在风险归属：自营风险归公司，代客风险归客户。这一区分是沃尔克规则的核心：该规则禁止银行从事自营交易（因有存款保险与央行支持作后盾），但允许做市与承销——边界模糊正是执行困难的原因。",
   "related": [
-    "volcker-rule",
     "glass-steagall-1933",
     "hedge-fund",
-    "too-big-to-fail"
+    "too-big-to-fail",
+    "volcker-rule"
   ],
   "sources": [
     "w-en-proprietary-trading"

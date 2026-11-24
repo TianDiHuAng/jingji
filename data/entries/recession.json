@@ -74,9 +74,9 @@
   "comparison": "与**萧条**的区别在程度与持续性：衰退是产出与就业的显著下降，萧条是更严重、更持久的下滑（如大萧条、阿根廷1998—2002\"大萧条\"）。与**增长放缓**的区别在广度：衰退要求多个指标（产出、就业、收入、销售）**共同**下降，单一指标下滑不足以判定。这一区分很关键：\"连续两季负增长\"只是通俗标准，NBER 用多指标事后判定——因为仅看GDP会漏掉就业与收入的持续恶化。",
   "related": [
     "business-cycle",
+    "great-depression",
     "output-gap",
-    "unemployment",
-    "great-depression"
+    "unemployment"
   ],
   "sources": [
     "w-en-recession"

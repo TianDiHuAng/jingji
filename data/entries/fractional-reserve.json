@@ -26,10 +26,10 @@
   "key_data": [],
   "comparison": "与**全额准备金银行**的区别在\"能否创造货币\"：部分准备金制度下银行只保留存款的一小部分作准备、其余贷出，这个过程**创造了存款货币**（货币乘数）；全额准备金（狭义银行）要求准备金100%覆盖存款，银行不能创造货币。这一区分是货币理论的核心分歧：主张狭义银行者认为可消除挤兑与道德风险；反对者认为会消灭信贷中介功能、迫使融资转向影子银行。与之配套的制度是存款保险与最后贷款人——两者都是对挤兑风险的回应。",
   "related": [
-    "money-creation",
-    "money-multiplier",
     "bank-run",
-    "deposit-insurance"
+    "deposit-insurance",
+    "money-creation",
+    "money-multiplier"
   ],
   "sources": [
     "w-en-fractional-reserve"

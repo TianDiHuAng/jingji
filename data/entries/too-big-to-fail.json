@@ -57,8 +57,15 @@
     "w-en-systemic-risk"
   ],
   "related": [
+    "bail-in",
+    "bailout",
     "bank-run",
-    "moral-hazard"
+    "financialization",
+    "moral-hazard",
+    "proprietary-trading",
+    "rent-seeking",
+    "sifi",
+    "volcker-rule"
   ],
   "needs_verification": true,
   "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。 【续作EB】补写概念辨析。"

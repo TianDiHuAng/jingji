@@ -57,9 +57,15 @@
     "w-en-interest-rate"
   ],
   "related": [
+    "basis-point",
+    "convertible-bond",
+    "convexity",
     "credit-risk",
+    "dividend",
     "duration-finance",
     "interest-rate",
+    "junk-bond",
+    "stock",
     "yield-curve"
   ],
   "needs_verification": true,

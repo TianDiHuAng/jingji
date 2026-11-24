@@ -58,7 +58,9 @@
   ],
   "related": [
     "central-counterparty",
+    "counterparty-risk",
     "otc",
+    "payment-system",
     "settlement-risk"
   ],
   "needs_verification": true,

@@ -27,10 +27,10 @@
   ],
   "comparison": "与**纽交所**的区别在交易结构：纳斯达克的传统是**做市商报价驱动**（多个做市商竞争报价），电子化程度高、适合成长型与科技公司；纽交所传统上是指令驱动加专家制度，上市门槛与品牌溢价更高。这一结构差异在2000年互联网泡沫与2010年闪崩中都有体现：做市商退出会导致流动性瞬间消失。纳斯达克亦以\"交易所自身是上市公司\"闻名——这种双重身份使其治理与监管边界成为讨论对象。",
   "related": [
-    "stock-exchange",
-    "market-maker",
+    "circuit-breaker",
     "dotcom-bubble-2000",
-    "circuit-breaker"
+    "market-maker",
+    "stock-exchange"
   ],
   "sources": [
     "w-en-nasdaq"

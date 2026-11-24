@@ -57,10 +57,12 @@
     "w-en-inflation"
   ],
   "related": [
+    "debasement",
     "deflation",
     "indexation",
     "inflation",
     "money-supply",
+    "redenomination",
     "seigniorage"
   ],
   "needs_verification": true,

@@ -22,9 +22,9 @@
   "comparison": "与**需求**与**需求量**的区别在\"曲线与点\"：需求是整条曲线（各价格下的购买意愿）；需求量是某一价格下的具体数量。这一区分在政策讨论中常被忽略：\"抑制需求\"（移动曲线，如加税、限购）与\"减少需求量\"（沿曲线移动，如涨价）是不同的事。在危机分析中，\"需求不足\"指整条需求曲线左移（信心崩塌、收入下降），因此需要财政或货币扩张来移动曲线，而非仅调价。",
   "related": [
     "aggregate-demand",
-    "supply-side",
+    "effective-demand",
     "elasticity",
-    "effective-demand"
+    "supply-side"
   ],
   "sources": [
     "w-en-demand"

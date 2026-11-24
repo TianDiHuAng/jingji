@@ -73,10 +73,11 @@
   ],
   "comparison": "与**发展**的区别在\"量\"与\"结构\"：增长指产出规模的扩大（可用人均实际GDP增长率度量），发展还包括结构转型、健康、教育与制度改善（见 development-economics）。与**商业周期**的区别在时间尺度：增长是长期趋势，周期是围绕趋势的短期波动。二者的混淆会导致政策误判——把周期的短期反弹当作增长提速，或把趋势放缓当作周期衰退。",
   "related": [
+    "business-cycle",
     "development-economics",
-    "total-factor-productivity",
+    "population",
     "solow-model",
-    "business-cycle"
+    "total-factor-productivity"
   ],
   "sources": [
     "w-en-growth"

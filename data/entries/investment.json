@@ -20,10 +20,10 @@
   "key_data": [],
   "comparison": "需区分三种含义，混用是常见错误：①**宏观投资**＝资本形成（机器、建筑、基础设施），增加未来生产能力；②**金融投资**＝购买金融资产（股票、债券），只是资产所有权的转移，不增加资本存量；③**外商直接投资**(FDI)＝取得企业控制权的跨境投资（含建厂与并购）。这一区分很关键：股市上涨不等于\"投资增加\"（可能只是估值变化）；而危机中\"投资下滑\"通常指宏观资本形成，与金融市场的交易量无关。",
   "related": [
-    "savings",
+    "business-cycle",
     "capital-structure",
-    "total-factor-productivity",
-    "business-cycle"
+    "savings",
+    "total-factor-productivity"
   ],
   "sources": [
     "w-en-investment"

@@ -39,10 +39,10 @@
   "key_data": [],
   "comparison": "与**寻租**相近但需与**利润**区分：利润来自创造新价值（生产、创新、效率改进），寻租来自**重新分配**既有价值（游说关税、牌照限制、补贴争取）。与**腐败**的区别在合法性：寻租多通过**合法**的政治影响实现（游说、旋转门），腐败涉及非法交易。在金融危机中，寻租的典型形态是\"太大而不能倒\"带来的隐性补贴——机构通过规模获得保护，而非通过效率。",
   "related": [
-    "public-choice",
-    "too-big-to-fail",
+    "market-failure",
     "political-economy",
-    "market-failure"
+    "public-choice",
+    "too-big-to-fail"
   ],
   "sources": [
     "w-en-rent-seeking"

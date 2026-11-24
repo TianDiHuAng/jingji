@@ -60,6 +60,9 @@
     "bank-run",
     "basel-iii",
     "fire-sale",
+    "interbank-lending",
+    "liquidity",
+    "market-risk",
     "maturity-transformation"
   ],
   "needs_verification": true,

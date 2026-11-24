@@ -42,10 +42,10 @@
   ],
   "comparison": "与**市场风险**的区别在\"违约与价格\"：对手方风险是交易对手不履约（不交割、不支付）的风险；市场风险是价格波动导致的损失。与**结算风险**的关系是\"同义\"（结算风险亦称交割风险或对手方风险），但严格说结算风险特指**时区错配**造成的本金暴露（Herstatt 风险）。这一风险在危机中会集中爆发：当一家机构违约，其所有对手方同时受损——这正是中央对手方(CCP)与净额结算存在的理由，也是它们成为系统重要性节点的原因。",
   "related": [
-    "settlement-risk",
-    "netting",
     "central-counterparty",
-    "credit-risk"
+    "credit-risk",
+    "netting",
+    "settlement-risk"
   ],
   "sources": [
     "w-en-counterparty-risk"

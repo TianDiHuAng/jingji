@@ -57,10 +57,16 @@
     "w-en-deposit-insurance"
   ],
   "related": [
+    "adverse-selection",
     "bailout",
+    "credit-enhancement",
     "deposit-insurance",
+    "game-theory",
     "information-asymmetry",
-    "too-big-to-fail"
+    "principal-agent",
+    "time-inconsistency",
+    "too-big-to-fail",
+    "tragedy-commons"
   ],
   "needs_verification": true,
   "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。 【续作DZ】补写概念辨析。"

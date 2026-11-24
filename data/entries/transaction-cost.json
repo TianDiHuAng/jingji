@@ -35,10 +35,11 @@
   "key_data": [],
   "comparison": "与**生产成本**的区别在\"交易而非制造\"：生产成本是制造商品的投入（劳动、原料、机器）；交易成本是**达成与执行交易**的成本（搜寻、议价、监督、履约）。这一区分是制度经济学的核心：企业之所以存在，是因为在某些情形下用内部指令替代市场交易更省成本（科斯）；而金融中介（银行、评级、交易所）本质上也是降低交易成本的制度。危机中交易成本骤升（信息不对称加剧、信任崩塌），是市场冻结的直接原因。",
   "related": [
-    "property-rights",
     "institutional-economics",
+    "lemons-market",
     "market-failure",
-    "lemons-market"
+    "property-rights",
+    "specialization"
   ],
   "sources": [
     "w-en-transaction-cost"

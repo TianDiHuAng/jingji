@@ -26,10 +26,10 @@
   "key_data": [],
   "comparison": "与**投资级债券**的区别在信用评级：垃圾债评级低于投资级（标普BB+及以下），违约概率更高、利差更宽；投资级债券（BBB-及以上）违约率低。与**困境债务**(distressed debt) 的区别在\"是否已接近违约\"：垃圾债是\"高风险但正常付息\"，困境债是\"已在违约边缘、折价交易\"。这一区分在危机中很关键：垃圾债利差骤扩是信用周期转向的早期信号，而困境债市场的深度决定了重组的可行路径。",
   "related": [
-    "credit-rating",
-    "credit-risk",
     "bond",
-    "credit-cycle"
+    "credit-cycle",
+    "credit-rating",
+    "credit-risk"
   ],
   "sources": [
     "w-en-junk-bond"

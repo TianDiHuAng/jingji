@@ -57,10 +57,17 @@
     "w-en-financial-accelerator"
   ],
   "related": [
+    "capital-requirement",
+    "capital-structure",
+    "carry-trade",
     "deleveraging",
+    "hedge-fund",
     "leverage-cycle",
     "margin-finance",
-    "procyclicality"
+    "mark-to-market",
+    "modigliani-miller",
+    "procyclicality",
+    "rwa"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作DK】补写概念辨析。"

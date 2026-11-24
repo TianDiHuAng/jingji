@@ -58,9 +58,12 @@
   ],
   "related": [
     "collateralized-debt-obligation",
+    "credit-default-swap",
     "credit-rating",
     "moral-hazard",
+    "off-balance-sheet",
     "securitization",
+    "spv",
     "tranche"
   ],
   "needs_verification": true,

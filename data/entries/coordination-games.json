@@ -62,7 +62,9 @@
     "banking-school",
     "contagion",
     "diamond-dybvig",
+    "game-theory",
     "herd-behavior",
+    "prisoners-dilemma",
     "self-fulfilling"
   ],
   "needs_verification": true,

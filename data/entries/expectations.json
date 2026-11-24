@@ -15,10 +15,10 @@
   "key_data": [],
   "comparison": "与**理性预期**的区别在\"是否用尽信息\"：一般意义上的预期是\"对最可能发生之结果的信念\"，可能符合也可能偏离现实；理性预期假设主体**用尽所有可得信息**（含政策规则）形成预期，因此不会系统性犯错。这一区分决定政策空间：若公众预期是适应性（外推过去），政策可短期\"欺骗\"公众；若是理性的，被预期的政策无效（政策无效性命题）。",
   "related": [
-    "rational-expectations",
     "adaptive-expectations",
+    "lucas-critique",
     "phillips-curve",
-    "lucas-critique"
+    "rational-expectations"
   ],
   "sources": [
     "w-en-expectations"

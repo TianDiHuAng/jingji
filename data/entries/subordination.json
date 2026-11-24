@@ -16,9 +16,9 @@
   "comparison": "与**担保**的区别在\"顺序与特定资产\"：次级化决定同一发行人不同债务的**清偿顺序**（优先债先于次级债、次级债先于股权）；担保则以**特定资产**作为偿付来源。这一区分在 bail-in 设计中至关重要：处置时必须按法定顺序承担损失（先股东、再次级债、最后优先债与存款），否则会破坏市场纪律与定价基础——塞浦路斯2013年对超10万欧元存款的减记之所以争议巨大，正因它打破了既定的清偿顺序预期。",
   "related": [
     "bail-in",
-    "seniority",
     "debt-restructuring",
-    "haircut-finance"
+    "haircut-finance",
+    "seniority"
   ],
   "sources": [
     "w-en-subordination"

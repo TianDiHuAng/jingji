@@ -21,10 +21,10 @@
   "key_data": [],
   "comparison": "与**权衡理论**的区别在\"是否考虑摩擦\"：MM定理在无税收、无破产成本的理想世界中证明资本结构无关；权衡理论引入税盾收益与财务困境成本，得出\"存在最优负债率\"。与**优序融资理论**的区别在信息假设：后者从信息不对称出发，认为企业优先内部资金、其次债务、最后股权。MM定理的价值不在其假设的现实性，而在它**定义了必须引入哪些摩擦**才能解释现实。",
   "related": [
-    "capital-structure",
-    "leverage",
     "capital-requirement",
-    "debt-overhang"
+    "capital-structure",
+    "debt-overhang",
+    "leverage"
   ],
   "sources": [
     "w-en-modigliani-miller"

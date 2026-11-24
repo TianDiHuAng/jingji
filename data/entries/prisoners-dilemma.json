@@ -24,10 +24,10 @@
   "key_data": [],
   "comparison": "与**协调博弈**的区别在均衡结构：囚徒困境有**唯一**纳什均衡，且该均衡对双方都劣（背叛/背叛）；协调博弈有**多个**均衡，且都是好的（只要预期一致）。这一区分决定政策思路：囚徒困境需要**改变激励**（惩罚违约、承诺机制）；协调博弈只需**改变预期**（存款保险可\"挑选\"不挤兑的均衡）。银行挤兑、竞争性贬值、债务减免中的搭便车，分别是这两类结构的实例。",
   "related": [
-    "coordination-games",
     "bank-run",
-    "game-theory",
-    "competitive-devaluation"
+    "competitive-devaluation",
+    "coordination-games",
+    "game-theory"
   ],
   "sources": [
     "w-en-prisoners-dilemma"

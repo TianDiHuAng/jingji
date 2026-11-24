@@ -54,9 +54,9 @@
   ],
   "comparison": "与**风险溢价**的区别在\"总量与谜题\"：风险溢价是承担风险所要求的额外回报（一般概念）；股权溢价之谜是**特定的实证异常**——历史股权溢价远高于标准模型（基于风险厌恶系数）所能解释的水平。可能的解释包括：短视损失厌恶、罕见灾难风险、习惯形成、以及幸存者偏差（美国样本的特殊性）。该谜题的重要性在于：若模型无法解释风险定价，则资产价格中的\"泡沫\"判断就缺乏基准。",
   "related": [
+    "behavioral-finance",
     "risk-premium",
-    "volatility",
-    "behavioral-finance"
+    "volatility"
   ],
   "sources": [
     "w-en-equity-premium"

@@ -58,8 +58,10 @@
   ],
   "related": [
     "arbitrage",
+    "call-option",
     "derivative",
     "option",
+    "put-option",
     "volatility"
   ],
   "needs_verification": true,

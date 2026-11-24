@@ -57,9 +57,20 @@
     "w-en-yield-curve"
   ],
   "related": [
+    "basis-point",
+    "bond",
+    "crowding-out",
+    "fisher-equation",
     "interest-rate-parity",
+    "liquidity-preference",
+    "loanable-funds",
     "monetary-policy",
+    "monetary-transmission",
     "neutral-rate",
+    "opportunity-cost",
+    "quantitative-tightening",
+    "risk-premium",
+    "usury",
     "yield-curve"
   ],
   "needs_verification": true,

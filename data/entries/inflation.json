@@ -57,13 +57,30 @@
     "w-en-monetary-policy"
   ],
   "related": [
+    "adaptive-expectations",
+    "commodity-price-index",
     "core-inflation",
+    "cpi",
     "deflation",
     "disinflation",
+    "financial-repression",
+    "fiscal-dominance",
+    "fisher-equation",
     "hyperinflation",
     "inflation-targeting",
+    "menu-cost",
+    "mmt",
+    "monetarism",
     "money-supply",
-    "phillips-curve"
+    "nairu",
+    "neutrality-of-money",
+    "phillips-curve",
+    "potential-output",
+    "ppi",
+    "price-revolution",
+    "purchasing-power-parity",
+    "seigniorage",
+    "wage-price-spiral"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作DK】补写概念辨析。"

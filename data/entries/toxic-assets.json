@@ -37,8 +37,8 @@
   "comparison": "与**不良贷款**的区别在\"资产形态\"：有毒资产多指已证券化、市场冻结、无法定价的资产（次级MBS、CDO）；不良贷款是银行账上逾期或减值的贷款。这一区分决定处置工具：不良贷款靠催收、核销或出售；有毒资产因缺乏市场价格，需要**坏账银行**(bad bank) 或担保定价（如美国TARP的\"公私合营投资计划\"）。定价难题是核心——价格过低则银行资不抵债，过高则纳税人承担损失。",
   "related": [
     "bad-bank",
-    "subprime-lending",
     "collateralized-debt-obligation",
+    "subprime-lending",
     "tarp"
   ],
   "sources": [

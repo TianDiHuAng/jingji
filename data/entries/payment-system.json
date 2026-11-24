@@ -21,10 +21,10 @@
   "key_data": [],
   "comparison": "与**结算系统**的区别在\"层次\"：支付系统是更广的概念（含零售支付、大额支付、卡组织、跨境汇款）；结算系统特指金融机构之间的最终清算（如Fedwire、TARGET2、CLS）。这一区分在危机中很重要：零售支付中断影响公众信心（塞浦路斯2013年的取现限制），而大额结算系统中断会立即冻结整个金融体系（\"管道\"失效）——因此后者被视为系统重要性基础设施，需专门监管（PFMI原则）。",
   "related": [
-    "settlement-risk",
-    "netting",
+    "central-counterparty",
     "money-market",
-    "central-counterparty"
+    "netting",
+    "settlement-risk"
   ],
   "sources": [
     "w-en-payment-system"

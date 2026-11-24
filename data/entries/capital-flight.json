@@ -57,10 +57,14 @@
     "w-en-currency-crisis"
   ],
   "related": [
+    "capital-account",
     "capital-control",
+    "country-risk",
     "currency-crisis",
     "hot-money",
-    "sudden-stop"
+    "speculative-attack",
+    "sudden-stop",
+    "tobin-tax"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作ED】补写概念辨析。"

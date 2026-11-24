@@ -57,8 +57,13 @@
     "w-en-derivative"
   ],
   "related": [
+    "call-option",
     "derivative",
     "diversification",
+    "forward-contract",
+    "futures",
+    "option",
+    "put-option",
     "risk-management",
     "speculation"
   ],

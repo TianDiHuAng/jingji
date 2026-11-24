@@ -60,6 +60,7 @@
     "gdp",
     "inflation",
     "nairu",
+    "okuns-law",
     "output-gap"
   ],
   "needs_verification": true,

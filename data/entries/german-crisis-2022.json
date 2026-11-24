@@ -133,7 +133,10 @@
   "related": [
     "business-cycle",
     "oil-crisis-1973",
-    "oil-crisis-1979"
+    "oil-crisis-1979",
+    "steel-crisis-1973",
+    "syrian-crisis-2011",
+    "venezuela-energy-2010"
   ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-german-economic-crisis-2022-present。 【续作F】升L2(据REST摘要)。 【续作BH】2024年增速已并列两源（−0.5% vs 世行 +0.007%），差异显著；2023年两源接近。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DL】部分数据经OWID二次核对。"

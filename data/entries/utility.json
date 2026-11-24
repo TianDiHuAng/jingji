@@ -40,10 +40,10 @@
   ],
   "comparison": "与**价值**的区别在\"主观与客观\"：效用是个人对某种状态的**主观满足**排序，价值（劳动价值论）被视为商品内在属性。与**福利**的区别在层次：效用是个体层面的度量，福利是社会层面的加总（需价值判断）。这一区分在危机政策中很实际：\"救助银行提高了社会福利\"这类主张，必须说明如何加权不同群体的效用——而这本身是规范判断，不是实证结论。",
   "related": [
-    "welfare-economics",
-    "marginal-utility",
     "behavioral-finance",
-    "public-choice"
+    "marginal-utility",
+    "public-choice",
+    "welfare-economics"
   ],
   "sources": [
     "w-en-utility"

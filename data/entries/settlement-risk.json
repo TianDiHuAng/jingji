@@ -67,6 +67,9 @@
   ],
   "related": [
     "contagion",
+    "counterparty-risk",
+    "netting",
+    "payment-system",
     "systemic-risk"
   ],
   "needs_verification": true,

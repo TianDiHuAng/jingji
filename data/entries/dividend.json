@@ -36,10 +36,11 @@
   ],
   "comparison": "与**股票回购**的区别在\"分配形式\"：股息是现金分配且通常稳定（向下调整有负面信号），回购是买入自家股票（减少股本、提升每股收益），更灵活但受股价影响。与**利息**的区别在\"是否强制\"：股息由董事会酌情决定（普通股），利息是合同义务（否则违约）。这一区分在危机中很重要：银行在受援期间常被限制分红与回购，目的正是防止资本外流——把\"可自由裁量\"的分配暂停，是保存资本最直接的手段。",
   "related": [
-    "stock",
     "bond",
+    "buyback",
     "capital-requirement",
-    "initial-public-offering"
+    "initial-public-offering",
+    "stock"
   ],
   "sources": [
     "w-en-dividend"
