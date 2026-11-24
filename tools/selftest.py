@@ -322,6 +322,28 @@ def m_backlog_dup():
 
 case('BACKLOG 缺口含已建条目', m_backlog_dup, ['tools/check_docs.py'], '把已建成条目列为缺口', [BACKLOG_MD])
 
+SCOPE_MD = os.path.join(ROOT, 'scope.md')
+
+
+def m_scope_miss():
+    lines = open(SCOPE_MD, encoding='utf-8').read().split('\n')
+    out = [l for l in lines if not l.startswith('| tulip-mania-1637 |')]
+    open(SCOPE_MD, 'w', encoding='utf-8').write('\n'.join(out))
+
+
+case('scope 未覆盖条目', m_scope_miss, ['tools/check_docs.py'], '未覆盖条目', [SCOPE_MD])
+
+SAT_JSON = os.path.join(ROOT, 'SATURATION.json')
+
+
+def m_sat():
+    d = json.load(open(SAT_JSON, encoding='utf-8'))
+    d['saturated'] = True
+    json.dump(d, open(SAT_JSON, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('SATURATION 误报饱和', m_sat, ['tools/check_docs.py'], '误报饱和', [SAT_JSON])
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)

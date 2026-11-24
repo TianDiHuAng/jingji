@@ -12,7 +12,7 @@
 
 5. **S5** Wikipedia 专题页（Gold standard / Bretton Woods / Central bank / Economic history）
 
-共 94 个案例 + 12 个理论/制度条目 = **106 条**。
+初始范围 106 条（94 案例 + 12 理论/制度）；**截至 round 146 库已扩充至 641 条**（案例 209 / 概念 432），初始 scope 之外的条目见文末「后续扩充」附录。
 
 层级说明：**核心**→目标 L3（争议/数据/深度图），**重要**→目标 L2（完整10节），**补充**→目标 L1（骨架）。
 
@@ -474,7 +474,6 @@
 | monetary-transmission | 货币政策传导机制 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
 | adaptive-expectations | 适应性预期 | 理论制度 | 全球 | 理论 | 重要 | 续作AF |
 | optimum-currency-area | 最优货币区 | 理论制度 | 全球 | 货币 | 重要 | 续作AG |
-| glass-steagall | 格拉斯-斯蒂格尔法案(1933) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
 | dodd-frank | 多德-弗兰克法案(2010) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
 | volcker-rule | 沃尔克规则 | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
 | tarp | 问题资产救助计划(TARP) | 理论制度 | 全球 | 制度 | 重要 | 续作AG |
@@ -641,3 +640,58 @@
 | specialization | 专业化 | 理论制度 | 全球 | 理论 | L2 | 1 |
 | tax-incidence | 税负归宿 | 理论制度 | 全球 | 理论 | L2 | 1 |
 | buyback | 股票回购 | 理论制度 | 全球 | 制度 | L2 | 1 |
+
+## 后续扩充（round 146 补录：初始 scope 之外新增的条目）
+
+> 下列条目为项目扩充过程中新增（主要概念类），不在初始 106 条范围内，此处补录以便 scope 与库一致。
+
+| id | 条目 | 单元 | 地区 | 类型 | 层级 |
+|---|---|---|---|---|---|
+| actuarial | 精算 | U6 | 全球 | 制度 | 补充 |
+| aggregate-demand | 总需求 | U6 | 全球 | 理论 | 重要 |
+| aggregate-supply | 总供给 | U6 | 全球 | 理论 | 重要 |
+| automatic-stabilizer | 自动稳定器 | U6 | 全球 | 制度 | 重要 |
+| bad-bank | 坏账银行 | U6 | 全球 | 制度 | 重要 |
+| bailout | 救助与减记（bailout / bail-in） | U6 | 全球 | 制度 | 重要 |
+| bank-holiday | 1933年美国银行假日 | U3 | 北美 | 银行 | 重要 |
+| bank-resolution | 银行处置 | U6 | 全球 | 制度 | 重要 |
+| basel-iii | 巴塞尔III | U6 | 全球 | 制度 | 重要 |
+| bullion | 金银块（贵金属） | U6 | 全球 | 制度 | 补充 |
+| capital-adequacy | 资本充足率 | U6 | 全球 | 制度 | 重要 |
+| common-pool | 公共池资源 | U6 | 全球 | 理论 | 重要 |
+| core-inflation | 核心通货膨胀 | U6 | 全球 | 理论 | 重要 |
+| debt-ceiling | 美国债务上限 | U6 | 全球 | 债务 | 重要 |
+| deindustrialization | 去工业化 | U6 | 全球 | 理论 | 重要 |
+| demand | 需求 | U6 | 全球 | 理论 | 重要 |
+| dividend | 股息 | U6 | 全球 | 制度 | 补充 |
+| expectations | 预期 | U6 | 全球 | 理论 | 重要 |
+| fiscal-dominance | 财政主导 | U6 | 全球 | 理论 | 重要 |
+| government-debt | 政府债务 | U6 | 全球 | 债务 | 重要 |
+| helicopter-money | 直升机撒钱 | U6 | 全球 | 制度 | 重要 |
+| interest-rate-parity | 利率平价 | U6 | 全球 | 货币 | 重要 |
+| investment | 投资 | U6 | 全球 | 理论 | 重要 |
+| leading-indicator | 领先指标 | U6 | 全球 | 理论 | 重要 |
+| liquidity-coverage-ratio | 流动性覆盖率(LCR) | U6 | 全球 | 制度 | 重要 |
+| lloyds | 劳合社 | U6 | 全球 | 制度 | 重要 |
+| mmt | 现代货币理论(MMT) | U6 | 全球 | 理论 | 重要 |
+| money-multiplier | 货币乘数 | U6 | 全球 | 货币 | 重要 |
+| mundell-fleming | 蒙代尔-弗莱明模型 | U6 | 全球 | 理论 | 重要 |
+| natural-rate-unemployment | 自然失业率 | U6 | 全球 | 理论 | 重要 |
+| neutrality-of-money | 货币中性 | U6 | 全球 | 理论 | 重要 |
+| paris-club | 巴黎俱乐部 | U6 | 全球 | 债务 | 重要 |
+| pigouvian-tax | 庇古税 | U6 | 全球 | 理论 | 重要 |
+| purchasing-power-parity | 购买力平价 | U6 | 全球 | 货币 | 重要 |
+| recession | 衰退 | U6 | 全球 | 理论 | 核心 |
+| recession-1960-1961 | 1960—1961年衰退（美国） | U4 | 北美 | 其他 | 补充 |
+| recession-1969-1970 | 1969—1970年衰退（美国） | U4 | 北美 | 其他 | 补充 |
+| risk-pooling | 风险池（风险汇聚） | U6 | 全球 | 制度 | 补充 |
+| savings | 储蓄 | U6 | 全球 | 理论 | 重要 |
+| secured-lending | 担保贷款 | U6 | 全球 | 制度 | 重要 |
+| seigniorage | 铸币税 | U6 | 全球 | 货币 | 重要 |
+| self-insurance | 自我保险 | U6 | 全球 | 制度 | 补充 |
+| solow-model | 索洛-斯旺模型 | U6 | 全球 | 理论 | 重要 |
+| taper-tantrum | 2013年缩减恐慌 | U5 | 全球 | 货币 | 重要 |
+| tobin-tax | 托宾税 | U6 | 全球 | 制度 | 重要 |
+| total-factor-productivity | 全要素生产率 | U6 | 全球 | 理论 | 重要 |
+| utility | 效用 | U6 | 全球 | 理论 | 核心 |
+| yield-curve-control | 收益率曲线控制(YCC) | U6 | 全球 | 制度 | 重要 |

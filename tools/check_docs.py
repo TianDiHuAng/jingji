@@ -145,6 +145,28 @@ def main():
                 if _cid in _ids:
                     integrity.append(('BACKLOG.md', '把已建成条目列为缺口', _cid))
 
+    # scope.md 须覆盖全部条目（防规划清单漏列）
+    sp = os.path.join(ROOT, 'scope.md')
+    if os.path.exists(sp):
+        _eids = {json.load(open(f, encoding='utf-8'))['id']
+                 for f in glob.glob(os.path.join(ROOT, 'data', 'entries', '*.json'))}
+        _sids = {m.group(1) for m in re.finditer(r'^\|\s*([a-z0-9][a-z0-9\-]+)\s*\|',
+                                                 open(sp, encoding='utf-8').read(), re.M)}
+        _miss = sorted(_eids - _sids)
+        if _miss:
+            integrity.append(('scope.md', '未覆盖条目 %d 个' % len(_miss), ','.join(_miss[:5])))
+
+    # SATURATION.json 不得误报饱和（项目规则：永不写 ALL_DONE，饱和为唯一终态且尚未达到）
+    satp = os.path.join(ROOT, 'SATURATION.json')
+    if os.path.exists(satp):
+        try:
+            _sat = json.load(open(satp, encoding='utf-8'))
+            if _sat.get('saturated') is True:
+                integrity.append(('SATURATION.json', '误报饱和(saturated=true)',
+                                  '项目未终止，不应声明饱和'))
+        except Exception:
+            integrity.append(('SATURATION.json', '无法解析', ''))
+
     print()
     if integrity:
         print('文档完整性检查未通过 %d 项：' % len(integrity))

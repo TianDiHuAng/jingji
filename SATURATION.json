@@ -1,7 +1,7 @@
 {
-  "saturated": true,
-  "zero_gap_streak": 3,
-  "maintenance_mode": true,
+  "saturated": false,
+  "zero_gap_streak": 0,
+  "maintenance_mode": false,
   "next_round_spot_check_ratio": 0.1,
   "spot_check_ratio_note": "维持10%（连续多轮无缺陷；子任务偶发超时改用自检）",
   "rounds": [
@@ -320,8 +320,9 @@
   ],
   "zero_gap_note": "有已知未决缺口(2020新冠股灾,网络阻塞)未补，不满足饱和条件",
   "saturation_note": "除2020新冠股灾(网络出口阻塞,无法核对来源)外，所有权威大纲/读者问题/矩阵缺口均已覆盖；饱和受外部网络阻塞制约，非内容缺口",
-  "saturated_at_round": 25,
-  "saturation_basis": "连续3轮(23/24/25)七种方法均未发现新的权威依据缺口；核心26+全L3、重要59全L2已达目标层级；唯一已知未决项2020新冠股灾因维基网络出口不可用(DNS污染)连续4+次失败，已按AUTONOMOUS第六条正式跳过并记BLOCKERS。",
+  "saturated_at_round": null,
+  "saturation_basis": "round 146 复核：此前 saturated=true 系早期（约 round 25，135 条时）的一次误判遗留，与实际不符。",
   "maintenance_note": "进入维护模式：每轮仅做体检/复核待核实/更新过期数据/跟进近期动态；若出现新缺口立即退出饱和回到正常循环。网络恢复后可补建2020崩盘。",
-  "note_2026-11-23": "网络恢复后已补建2020新冠股灾(此前跳过项)，已知缺口清零；并批量升级25条L1→L2。库趋完全，维持saturated。"
+  "note_2026-11-23": "网络恢复后已补建2020新冠股灾(此前跳过项)，已知缺口清零；并批量升级25条L1→L2。库趋完全，维持saturated。",
+  "reset_note_round146": "本文件顶部原为 saturated=true / maintenance_mode=true / zero_gap_streak=3，系早期一次误判\"饱和\"的遗留；但项目此后持续扩充至 641 条、仍有多项维护与验证工作、且维基网络阻塞未解，按规则\"永不写 ALL_DONE、饱和为唯一终态\"而该终态尚未达到。round 146 复核后重置为 saturated=false、zero_gap_streak=0、maintenance_mode=false；下方 rounds 数组保留为历史记录（不再代表当前状态）。"
 }

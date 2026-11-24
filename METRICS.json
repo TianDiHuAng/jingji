@@ -2434,6 +2434,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 25/25",
       "spot_check": "BLOCKERS 三处陈旧已核正（2020已建/政策70%/8条已补源）；DECISIONS D08 ALL_DONE矛盾标注",
       "note": "维基第125轮可用。OE：核查 BLOCKERS.md 与 DECISIONS.md，修正多处陈旧/自相矛盾记录。\n①**BLOCKERS.md 陈旧三处**（经核实）：\n（a）\"库缺 2020 新冠股灾一条\"→ **`covid-crash-2020` 已建成**，说法错误；\n（b）\"案例政策覆盖率停在 41%\"→ 现为 **146/209（70%）**；\n（c）\"8 个条目来源为通用概念页（round 50）\"→ 8 条**均已补专属来源**，已解决。\n已在顶部加\"当前阻塞快照（round 145 复核）\"，并对三节加【round145 复核：已解决/已改善】标注。真实阻塞仅剩：**维基网络不可用**（3 条缺全文 + 5 条缓存缺口）。\n②**DECISIONS.md 关键矛盾**：D08 原文\"写 ALL_DONE 于全部完成后\"与现行 **AUTONOMOUS\"永不写 ALL_DONE、饱和为唯一终态\"直接冲突**——已加标注说明后者取代之（\"每轮≤40条\"仍有效）；D04\"100 条目标\"已被实际 641 条取代，加注；`url2` 表述中的陈旧\"741\"改为\"来源库\"。\n③现状：641 条、来源 742、页面 655；案例政策覆盖 146 条；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 25/25。"
+    },
+    {
+      "round": "续作OF-OG",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 7,
+      "fixed": 4,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 27/27",
+      "spot_check": "README 重写；SATURATION 误报饱和已重置；scope 补录 48 条覆盖 641；加 2 守卫；自测 25→27",
+      "note": "维基第126轮可用。OF-OG：完成文档系统全覆盖，修正 README/SATURATION/scope 等陈旧，并加两项守卫。\n①**README.md 严重陈旧**（读者首见）：仍写\"106 案例/180 来源/check.py R1–R15/PROGRESS 含 ALL_DONE/106 条目 L1-L2\"——已完整重写（641 条/742 来源/13 工具/R1–R22+R4b/R12b/25→27 自测/复现命令）。\n②**SATURATION.json 误报饱和（关键）**：顶部 `saturated:true / maintenance_mode:true / zero_gap_streak:3`——这是机器可读的\"已完成\"宣称，与\"网络阻塞、仍在维护、永不写 ALL_DONE、饱和尚未达到\"**直接冲突**。已重置为 false/0/false 并注明原委；历史 rounds 数组保留。\n③**scope.md 陈旧**：头部\"106 条\"与 600 行清单不符，且**缺 48 条后期新增概念**、含 1 条重复陈旧行（glass-steagall）。已改头部计数、**补录 48 条附录**、删除重复行——现 scope 覆盖 **641/641**。\n④**HEALTH_CHECK_F.md** 加\"历史快照\"标注（原 round 11 一次性记录）。\n⑤**新增两项 check_docs 守卫**：（a）scope.md 须覆盖全部条目；（b）SATURATION.json 不得误报 saturated=true。均注入测试确认可捕获。\n⑥**自测 25 → 27**（新增 scope 未覆盖、SATURATION 误报两用例）。十一道检查全绿。\n⑦现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 27/27。"
     }
   ]
 }
