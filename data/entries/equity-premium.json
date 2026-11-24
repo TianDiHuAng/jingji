@@ -1,0 +1,27 @@
+{
+  "id": "equity-premium",
+  "title": "股权溢价之谜",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一类重要经济模型无法解释股票组合相对于无风险资产的历史平均超额回报的现象。",
+  "overview": "（据 Wikipedia「Equity premium puzzle」摘要归纳）The equity premium puzzle refers to the inability of an important class of economic models to explain the average equity risk premium (ERP) provided by a diversified portfolio of equities over that of government bonds, which has been observed for more than 100 years. There is a significant disparity between returns produced by stocks compared to returns produced by government treasury bills. The equity premium puzzle addresses the difficulty in understanding and explaining this disparity. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**风险溢价**的区别在\"总量与谜题\"：风险溢价是承担风险所要求的额外回报（一般概念）；股权溢价之谜是**特定的实证异常**——历史股权溢价远高于标准模型（基于风险厌恶系数）所能解释的水平。可能的解释包括：短视损失厌恶、罕见灾难风险、习惯形成、以及幸存者偏差（美国样本的特殊性）。该谜题的重要性在于：若模型无法解释风险定价，则资产价格中的\"泡沫\"判断就缺乏基准。",
+  "related": [
+    "risk-premium",
+    "volatility",
+    "behavioral-finance"
+  ],
+  "sources": [
+    "w-en-equity-premium"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

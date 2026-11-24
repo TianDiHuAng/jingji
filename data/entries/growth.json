@@ -1,0 +1,28 @@
+{
+  "id": "growth",
+  "title": "经济增长",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "经济体所生产的商品与服务在数量与质量上的增加；通常以剔除通胀后的产出（实际GDP）增长率衡量。",
+  "overview": "（据 Wikipedia「Economic growth」摘要归纳）In economics, economic growth is an increase in the quantity and quality of the economic goods and services that a society produces. It can be measured as the increase in the inflation-adjusted output of an economy in a given year or over a period of time. It focuses on the economic activities of a country. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**发展**的区别在\"量\"与\"结构\"：增长指产出规模的扩大（可用人均实际GDP增长率度量），发展还包括结构转型、健康、教育与制度改善（见 development-economics）。与**商业周期**的区别在时间尺度：增长是长期趋势，周期是围绕趋势的短期波动。二者的混淆会导致政策误判——把周期的短期反弹当作增长提速，或把趋势放缓当作周期衰退。",
+  "related": [
+    "development-economics",
+    "total-factor-productivity",
+    "solow-model",
+    "business-cycle"
+  ],
+  "sources": [
+    "w-en-growth"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 695,
+  "count": 712,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8341,6 +8341,193 @@
       "verified": true,
       "link_ok": true,
       "note": "CSV 端点抓取核对：unemployment-rate / inflation-of-consumer-prices / gdp-worldbank / real-gdp-growth"
+    },
+    {
+      "id": "w-en-convergence",
+      "title": "Convergence (economics)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Convergence_(economics)",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（899 字符）。"
+    },
+    {
+      "id": "w-en-counterparty-risk",
+      "title": "Settlement risk",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Settlement_risk",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（453 字符）。"
+    },
+    {
+      "id": "w-en-dividend",
+      "title": "Dividend",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Dividend",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（686 字符）。"
+    },
+    {
+      "id": "w-en-effective-demand",
+      "title": "Effective demand",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Effective_demand",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（588 字符）。"
+    },
+    {
+      "id": "w-en-equity-premium",
+      "title": "Equity premium puzzle",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Equity_premium_puzzle",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（553 字符）。"
+    },
+    {
+      "id": "w-en-eurodollar",
+      "title": "Eurodollar",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Eurodollar",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（160 字符）。"
+    },
+    {
+      "id": "w-en-expectations",
+      "title": "Expectation (philosophy)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Expectation_(philosophy)",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（668 字符）。"
+    },
+    {
+      "id": "w-en-fractional-reserve",
+      "title": "Fractional-reserve banking",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Fractional-reserve_banking",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（536 字符）。"
+    },
+    {
+      "id": "w-en-growth",
+      "title": "Economic growth",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economic_growth",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（308 字符）。"
+    },
+    {
+      "id": "w-en-market-failure",
+      "title": "Market failure",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Market_failure",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（608 字符）。"
+    },
+    {
+      "id": "w-en-modigliani-miller",
+      "title": "Modigliani–Miller theorem",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（650 字符）。"
+    },
+    {
+      "id": "w-en-mutual-fund",
+      "title": "Mutual fund",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Mutual_fund",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（364 字符）。"
+    },
+    {
+      "id": "w-en-nasdaq",
+      "title": "Nasdaq",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（371 字符）。"
+    },
+    {
+      "id": "w-en-proprietary-trading",
+      "title": "Proprietary trading",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_trading",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（192 字符）。"
+    },
+    {
+      "id": "w-en-rent-seeking",
+      "title": "Rent-seeking",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Rent-seeking",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（557 字符）。"
+    },
+    {
+      "id": "w-en-subordination",
+      "title": "Subordination (finance)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Subordination_(finance)",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（125 字符）。"
+    },
+    {
+      "id": "w-en-utility",
+      "title": "Utility",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Utility",
+      "url2": null,
+      "verified": true,
+      "note": "REST summary API 核对：页面返回摘要（663 字符）。"
     }
   ]
 }

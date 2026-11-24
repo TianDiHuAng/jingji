@@ -1,0 +1,28 @@
+{
+  "id": "effective-demand",
+  "title": "有效需求",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "在另一市场受到约束时实际出现的商品或服务需求；与不受约束的\"名义需求\"相对。",
+  "overview": "（据 Wikipedia「Effective demand」摘要归纳）In economics, effective demand (ED) in a market is the demand for a product or service which occurs when purchasers are constrained in a different market. It contrasts with notional demand, which is the demand that occurs when purchasers are not constrained in any other market. In the aggregated market for goods in general, demand, notional or effective, is referred to as aggregate demand. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**名义需求**的区别在\"是否受约束\"：有效需求是购买者在**其他市场受到约束**时实际出现的需求；名义需求是只受价格与偏好约束、不受其他市场配给限制的需求。这一区分源自凯恩斯对\"需求不足\"的论证：当劳动市场或信贷市场存在配给时，家庭的支出计划无法实现，总需求低于潜在水平——因此扩张政策可提高产出而不只是推高物价。",
+  "related": [
+    "aggregate-demand",
+    "keynesian-economics",
+    "says-law",
+    "liquidity-trap"
+  ],
+  "sources": [
+    "w-en-effective-demand"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

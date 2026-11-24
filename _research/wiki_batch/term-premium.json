@@ -1,0 +1,7 @@
+{
+  "id": "term-premium",
+  "slug": "Yield_curve",
+  "title": "Yield curve",
+  "extract": "A yield curve shows the relationship between yields and time to maturity for a set of comparable debt securities. In practice the term usually refers to curves built from a single issuer or market segment so that credit quality and other features are as similar as possible, for example the U.S. Treasury curve for government bonds.",
+  "url": "https://en.wikipedia.org/wiki/Yield_curve"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "market-failure",
+  "title": "市场失灵",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "自由市场对商品与服务的配置未达到帕累托效率的情形，常导致经济价值的净损失。",
+  "overview": "（据 Wikipedia「Market failure」摘要归纳）In neoclassical economics, market failure is a situation in which the allocation of goods and services by a free market is not Pareto efficient, often leading to a net loss of economic value. The first known use of the term by economists was in 1958, but the concept has been traced back to the Victorian writers John Stuart Mill and Henry Sidgwick. Market failures are often associated with public goods, time-inconsistent preferences, information asymmetries, failures of competition, principal–agent problems, externalities, unequal bargaining power, behavioral irrationality, and macro-economic failures. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**政府失灵**的区别在\"失灵主体\"：市场失灵指自由市场配置未达帕累托效率（外部性、公共品、信息不对称、垄断、协调失败）；政府失灵指干预本身因激励扭曲（寻租、信息不足、政治周期）而未能改善（见 public-choice）。两者必须一起看：论证监管必要性时，只指出市场失灵不够，还须证明干预的收益大于政府失灵的成本——这是2008年后\"监管改革\"争论的核心框架。",
+  "related": [
+    "externality",
+    "public-good",
+    "information-asymmetry",
+    "public-choice"
+  ],
+  "sources": [
+    "w-en-market-failure"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

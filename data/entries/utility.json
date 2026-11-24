@@ -1,0 +1,28 @@
+{
+  "id": "utility",
+  "title": "效用",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "个人从某种状态中获得的满足程度的度量；经济学中用作偏好排序与福利分析的基础。",
+  "overview": "（据 Wikipedia「Utility」摘要归纳）In economics, utility is a measure of a certain person's satisfaction from a certain state of the world. Over time, the term has been used with at least two meanings.In a normative context, utility refers to a goal or objective that we wish to maximize, i.e., an objective function. This kind of utility bears a closer resemblance to the original utilitarian concept, developed by moral philosophers such as Jeremy Bentham and John Stuart Mill. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**价值**的区别在\"主观与客观\"：效用是个人对某种状态的**主观满足**排序，价值（劳动价值论）被视为商品内在属性。与**福利**的区别在层次：效用是个体层面的度量，福利是社会层面的加总（需价值判断）。这一区分在危机政策中很实际：\"救助银行提高了社会福利\"这类主张，必须说明如何加权不同群体的效用——而这本身是规范判断，不是实证结论。",
+  "related": [
+    "welfare-economics",
+    "marginal-utility",
+    "behavioral-finance",
+    "public-choice"
+  ],
+  "sources": [
+    "w-en-utility"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

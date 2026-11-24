@@ -1,0 +1,28 @@
+{
+  "id": "nasdaq",
+  "title": "纳斯达克",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "美国的证券交易所；按上市公司总市值计为全球最大交易所，亦是首个完全电子化的股票市场。",
+  "overview": "（据 Wikipedia「Nasdaq」摘要归纳）The Nasdaq Stock Market is an American stock exchange. The Nasdaq is the world's largest stock exchange by total market capitalization of its listed companies and the first fully electronic stock market. Based in Manhattan, New York City, the exchange is among the most active stock trading venues by volume in the world. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**纽交所**的区别在交易结构：纳斯达克的传统是**做市商报价驱动**（多个做市商竞争报价），电子化程度高、适合成长型与科技公司；纽交所传统上是指令驱动加专家制度，上市门槛与品牌溢价更高。这一结构差异在2000年互联网泡沫与2010年闪崩中都有体现：做市商退出会导致流动性瞬间消失。纳斯达克亦以\"交易所自身是上市公司\"闻名——这种双重身份使其治理与监管边界成为讨论对象。",
+  "related": [
+    "stock-exchange",
+    "market-maker",
+    "dotcom-bubble-2000",
+    "circuit-breaker"
+  ],
+  "sources": [
+    "w-en-nasdaq"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

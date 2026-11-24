@@ -1,0 +1,28 @@
+{
+  "id": "eurodollar",
+  "title": "欧洲美元",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "存放于美国境外银行或其分支机构的美元计价存款负债。",
+  "overview": "（据 Wikipedia「Eurodollar」摘要归纳）Eurodollars is a financial term used to describe certain U.S. dollar-denominated deposit liabilities held at banks or their branches outside the United States. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**离岸人民币**等离岸货币市场同属\"境外本币\"现象：欧洲美元是存放于美国境外的美元存款，不受美国国内准备金要求与存款保险约束（这是其最初的成本优势）。与**外汇储备**的区别在持有主体与目的：欧洲美元由银行体系持有并用于同业融资，外汇储备由央行持有用于干预与偿付。其系统性意义在于：欧洲美元市场是**无最后贷款人**的美元体系——2008年该市场冻结时，美联储不得不通过央行互换额度向全球提供美元。",
+  "related": [
+    "foreign-exchange-reserves",
+    "money-market",
+    "swap",
+    "triffin-dilemma"
+  ],
+  "sources": [
+    "w-en-eurodollar"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "recession",
+  "title": "衰退",
+  "level": "L2",
+  "tier": "核心",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "经济活动普遍而持续的收缩；判定通常依据产出、就业、收入与销售的共同下降，而非单一指标。",
+  "overview": "（据 Wikipedia「Recession」摘要归纳）In economics, a recession is a business cycle contraction that occurs when there is a period of broad decline in economic activity. Recessions generally occur when there is a widespread drop in spending. This may be triggered by various events, such as a financial crisis, an external trade shock, an adverse supply shock, the bursting of an economic bubble, or a large-scale anthropogenic or natural disaster. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**萧条**的区别在程度与持续性：衰退是产出与就业的显著下降，萧条是更严重、更持久的下滑（如大萧条、阿根廷1998—2002\"大萧条\"）。与**增长放缓**的区别在广度：衰退要求多个指标（产出、就业、收入、销售）**共同**下降，单一指标下滑不足以判定。这一区分很关键：\"连续两季负增长\"只是通俗标准，NBER 用多指标事后判定——因为仅看GDP会漏掉就业与收入的持续恶化。",
+  "related": [
+    "business-cycle",
+    "output-gap",
+    "unemployment",
+    "great-depression"
+  ],
+  "sources": [
+    "w-en-recession"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

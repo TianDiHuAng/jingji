@@ -1,0 +1,28 @@
+{
+  "id": "dividend",
+  "title": "股息",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "公司向股东分配的利润；公司在取得利润或盈余后可将其一部分作为股息支付。",
+  "overview": "（据 Wikipedia「Dividend」摘要归纳）A dividend is the distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a portion of the profit as a dividend to shareholders. Any amount not distributed is taken to be re-invested in the business. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**股票回购**的区别在\"分配形式\"：股息是现金分配且通常稳定（向下调整有负面信号），回购是买入自家股票（减少股本、提升每股收益），更灵活但受股价影响。与**利息**的区别在\"是否强制\"：股息由董事会酌情决定（普通股），利息是合同义务（否则违约）。这一区分在危机中很重要：银行在受援期间常被限制分红与回购，目的正是防止资本外流——把\"可自由裁量\"的分配暂停，是保存资本最直接的手段。",
+  "related": [
+    "stock",
+    "bond",
+    "capital-requirement",
+    "initial-public-offering"
+  ],
+  "sources": [
+    "w-en-dividend"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

@@ -615,3 +615,17 @@
 | money-laundering | 洗钱 | 理论制度 | 全球 | 其他 | 重要 | 续作DF |
 | currency-war | 货币战（竞争性贬值） | 理论制度 | 全球 | 货币 | 重要 | 续作DF |
 | malinvestment | 错误投资（奥地利学派） | 理论制度 | 全球 | 理论 | 重要 | 续作DF |
+| growth | 经济增长 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| market-failure | 市场失灵 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| rent-seeking | 寻租 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| effective-demand | 有效需求 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| convergence | 收敛 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| modigliani-miller | 莫迪利亚尼-米勒定理 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| equity-premium | 股权溢价之谜 | 理论制度 | 全球 | 理论 | L2 | 1 |
+| counterparty-risk | 对手方风险 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| fractional-reserve | 部分准备金银行 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| subordination | 次级化 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| proprietary-trading | 自营交易 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| mutual-fund | 共同基金 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| nasdaq | 纳斯达克 | 理论制度 | 全球 | 制度 | L2 | 1 |
+| eurodollar | 欧洲美元 | 理论制度 | 全球 | 制度 | L2 | 1 |

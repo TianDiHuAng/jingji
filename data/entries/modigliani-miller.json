@@ -1,0 +1,28 @@
+{
+  "id": "modigliani-miller",
+  "title": "莫迪利亚尼-米勒定理",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "在无税收、无破产成本等假设下，企业价值与资本结构无关的定理；现代资本结构理论的基准。",
+  "overview": "（据 Wikipedia「Modigliani–Miller theorem」摘要归纳）The Modigliani–Miller theorem is an influential element of economic theory; it forms the basis for modern thinking on capital structure. The basic theorem states that in the absence of taxes, bankruptcy costs, agency costs, and asymmetric information, and in an efficient market, the enterprise value of a firm is unaffected by how that firm is financed. This is not to be confused with the value of the equity of the firm. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**权衡理论**的区别在\"是否考虑摩擦\"：MM定理在无税收、无破产成本的理想世界中证明资本结构无关；权衡理论引入税盾收益与财务困境成本，得出\"存在最优负债率\"。与**优序融资理论**的区别在信息假设：后者从信息不对称出发，认为企业优先内部资金、其次债务、最后股权。MM定理的价值不在其假设的现实性，而在它**定义了必须引入哪些摩擦**才能解释现实。",
+  "related": [
+    "capital-structure",
+    "leverage",
+    "capital-requirement",
+    "debt-overhang"
+  ],
+  "sources": [
+    "w-en-modigliani-miller"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}

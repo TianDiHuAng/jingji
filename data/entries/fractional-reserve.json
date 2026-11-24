@@ -1,0 +1,28 @@
+{
+  "id": "fractional-reserve",
+  "title": "部分准备金银行",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "银行仅将存款负债的一部分保留为流动性资产作准备、其余用于放贷的银行体系。",
+  "overview": "（据 Wikipedia「Fractional-reserve banking」摘要归纳）Fractional-reserve banking is the system of banking under which banks that take deposits from the public keep only part of their deposit liabilities in liquid assets as a reserve, and lend a percentage to borrowers, thus increasing the money supply by the loaned amount. Bank reserves are held as cash in the bank or as balances in the bank's account at the central bank. Fractional-reserve banking differs from the hypothetical alternative model, full-reserve banking, in which banks would keep all depositor funds on hand as reserves. 具体定义边界与学术争议待核实。",
+  "timeline": [],
+  "causal_chain": [],
+  "schools": [],
+  "key_data": [],
+  "comparison": "与**全额准备金银行**的区别在\"能否创造货币\"：部分准备金制度下银行只保留存款的一小部分作准备、其余贷出，这个过程**创造了存款货币**（货币乘数）；全额准备金（狭义银行）要求准备金100%覆盖存款，银行不能创造货币。这一区分是货币理论的核心分歧：主张狭义银行者认为可消除挤兑与道德风险；反对者认为会消灭信贷中介功能、迫使融资转向影子银行。与之配套的制度是存款保险与最后贷款人——两者都是对挤兑风险的回应。",
+  "related": [
+    "money-creation",
+    "money-multiplier",
+    "bank-run",
+    "deposit-insurance"
+  ],
+  "sources": [
+    "w-en-fractional-reserve"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+}
