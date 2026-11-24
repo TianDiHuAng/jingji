@@ -2326,6 +2326,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
       "spot_check": "3 条重要概念补第二派 schools，两派对照 625→628",
       "note": "维基第116轮可用。NO：为 3 条单观点的重要概念补第二派，两派对照 625→628。\n①核验验证页\"两源差异并列\"（上轮已做，本轮再列 schools/comparison 数字扫描，207 条多为\"其他事件年份\"的对比引用，属正常，判据噪声大，不再追）。\n②**为 3 条单观点的\"重要\"概念补第二派**（均据其现有来源）：\neffective-demand（萨伊定律／古典视角：供给创造需求、不存在持续有效需求不足 vs 凯恩斯有效需求不足）、\ninequality（效率／增长权衡与库兹涅茨假说 vs 不平等上升）、\ndemand（需求定律视角 vs 互补品效应）。\n③结果：schools 分布 {0:5, 1:2, 2:628, 4:6}——**两派对照 628 条**；剩 2 条单观点均为案例（federal-reserve-act／sherman-silver-purchase），案例单观点属正常，不强补；5 条 0 schools 为机构类（nasdaq／mutual-fund／dividend／buyback／population），保持留空。\n④现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作NP-NQ",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 655,
+      "fixed": 4,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18（渲染 `**` 残留归零）",
+      "spot_check": "渲染层全扫 655 页；修 3 页未渲染 ** + mdesc 防御剥除",
+      "note": "维基第117轮可用。NP-NQ：验证渲染层，发现并修复 3 页残留未渲染 `**`。\n①扫描全部 655 个生成页面：`>None<`／`>nan<`／`{}`／\"list' object\"／`>True<`／`>False<` **均为 0**；\n`&lt;` 出现 5 页但属**正常的 `<` 转义**（\"β < 1\"\"< 潜在\"），非 bug。\n②**发现真实渲染问题**：`capital-flight`／`financial-accelerator`／`short-selling` 3 页残留未渲染的 `**`——\n根源是这些 overview 中 `**...**` **局部嵌套/奇数配对**（如 `**核心之一是**\"…\"**。`），\n`mdesc` 的非贪婪配对错位后留下孤立 `**`。\n③**双重修复**：\n（a）**防御性**：`mdesc` 完成成对替换后，若仍有残留 `**` 则**直接剥除**——保证任何页面都不可能显示字面 `**`；\n（b）**数据修正**：修正这 3 条 overview 中不平衡的 `**` 标记（如把 `**关键的政策含义**：**修复净值**（…` 改为单一包裹）。\n④复查：全部页面 `**` 残留 **归零**；`check_quality` 未渲染粗体 0 项。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
     }
   ]
 }
