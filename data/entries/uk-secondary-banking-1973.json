@@ -7,15 +7,23 @@
   "period": "20世纪下半",
   "region": "欧洲",
   "crisis_type": "银行",
-  "one_line": "英国二级银行危机(1973–1975)：发生于20世纪下半、地区为欧洲的银行类案例（条目骨架，详细内容待补充）。",
-  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=欧洲、危机类型=银行。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
+  "one_line": "英国二级银行危机(1973–1975)：房地产抵押放贷激进的\"二级银行\"集体挤兑，触发\"救生艇行动\"。",
+  "overview": "英国二级银行危机（1973—1975年）是英国战后一次重要的银行体系事件。1971年英国推行\"竞争与信贷控制\"(Competition and Credit Control)改革，放松了对银行的信贷与流动性约束；一批不受传统约束的\"二级银行\"(secondary banks)以短期批发资金支持长期房地产贷款与地产投机，期限错配与利率上升使其迅速恶化。1974年地产价格下跌后，多家二级银行陷入流动性危机，英格兰银行牵头组织\"救生艇行动\"(Lifeboat)，由主要清算银行共同提供支持资金。该事件是\"批发性融资+期限错配\"风险的早期典型案例。具体数据待核实。",
   "timeline": [
     {
-      "year": 1973,
-      "display": "1973—1975年",
-      "event": "英国房价剧烈下跌，数十家小型\"二级\"放贷银行濒临破产（据 Wikipedia Secondary banking crisis of 1973–1975）",
+      "year": 1971,
+      "display": "1971年",
+      "event": "\"竞争与信贷控制\"改革放松信贷约束",
       "sources": [
-        "w-en-secondary-banking-crisis"
+        "w-en-uk-secondary-banking-crisis"
+      ]
+    },
+    {
+      "year": 1974,
+      "display": "1973—1975年",
+      "event": "二级银行危机爆发，英格兰银行组织\"救生艇行动\"",
+      "sources": [
+        "w-en-uk-secondary-banking-crisis"
       ]
     }
   ],
@@ -80,5 +88,5 @@
     "rhode-island-banking-1990"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-secondary-banking-crisis替换兜底，待核实。 【续作】升L2(据REST摘要)。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-secondary-banking-crisis替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。"
 }

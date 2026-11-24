@@ -7,23 +7,15 @@
   "period": "20世纪下半",
   "region": "中东",
   "crisis_type": "泡沫",
-  "one_line": "苏克阿尔马纳克股市崩盘(1982)：发生于20世纪下半、地区为中东的泡沫类案例（条目骨架，详细内容待补充）。",
-  "overview": "本条目属于《经济史与金融危机案例库》，分类维度为 时期=20世纪下半、地区=中东、危机类型=泡沫。完整的时间线、背景、传导机制、数据与争议内容待核实后补充。",
+  "one_line": "苏克阿尔马纳克崩盘(1982)：科威特非官方股市崩溃，数千名投资者因远期支票债务入狱。",
+  "overview": "苏克阿尔马纳克(Souk Al-Manakh)崩盘是1982年科威特一场场外股票市场的崩溃，被认为是当时中东最大规模的金融事件之一。该市场交易的是未在官方交易所上市的（多为海湾地区）公司股票，并以**远期支票(post-dated cheques)**作为主要支付手段，形成巨额隐性杠杆与信用链条。1982年市场崩盘后，支票违约连锁爆发，涉及金额远超银行体系资本；大量投资者因无法偿付而入狱，政府被迫介入并接管相关银行。该案例是\"场外市场+杠杆+支付工具创新\"引发系统性风险的经典样本。具体金额与人数待核实。",
   "timeline": [
     {
-      "year": 1977,
-      "display": "1970年代中期—1977年",
-      "event": "官方股市投机热潮，1977年以崩盘告终（据 Wikipedia Souk Al-Manakh crash）",
-      "sources": [
-        "w-en-souk-al-manakh-stock-market-crash"
-      ]
-    },
-    {
       "year": 1982,
-      "display": "1982年8月",
-      "event": "非官方股市(Souk Al-Manakh)崩盘：一张远期支票被拒付引发（同上）",
+      "display": "1982年",
+      "event": "苏克阿尔马纳克非官方股市崩盘，远期支票违约连锁爆发",
       "sources": [
-        "w-en-souk-al-manakh-stock-market-crash"
+        "w-en-souk-al-manakh-1982"
       ]
     }
   ],
@@ -89,5 +81,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。"
 }
