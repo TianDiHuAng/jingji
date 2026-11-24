@@ -1258,6 +1258,18 @@
       "check_result": "PASS (610); 三道检查全绿",
       "spot_check": "总条目 592→610；comparison/related 双 100%",
       "note": "**维基百科恢复**（前25轮全部不可达）。ES/ET/EU/EV四步完成首批补建：①抓取29个BACKLOG概念摘要（26成功+3修正slug），逐一核对内容匹配度，发现10个维基无独立条目（重定向到宽泛条目：bank-resolution→bank failure、clearage-ratio→leverage、ring-fencing→hypothecation、taper-tantrum→QE、term-premium→yield curve、originate-to-distribute→securitization等），**未强建以免用错误来源**；②为19个内容匹配者中18个新建条目（externality已存在），涵盖长期缺失的**基础概念地基**：经济增长、衰退、效用、市场失灵、寻租、预期、有效需求、收敛、莫迪利亚尼-米勒定理、股权溢价之谜、对手方风险、部分准备金银行、次级化、自营交易、共同基金、纳斯达克、欧洲美元、股息。这直接回应了round 37的判断——本站概念覆盖偏向\"金融专门术语\"而基础地基不完整；③每个新条目均含摘要来源、对照辨析、语义关联，comparison与related重回100%；④新增17个维基来源（695→712）。总条目592→610、站点606→624页。三道检查全绿。"
+    },
+    {
+      "round": "续作EW-EX",
+      "date": "2026-11-24",
+      "new_entries": 15,
+      "upgraded": 15,
+      "reviewed": 22,
+      "fixed": 0,
+      "sources_total": 727,
+      "check_result": "PASS (625); 三道检查全绿",
+      "spot_check": "总条目 610→625；双 100% 维持",
+      "note": "维基第27轮可用。EW/EX第二批补建15个条目：有毒资产、垃圾债、支付系统、囚徒困境、产权、交易成本、储蓄、投资、需求、人口、不平等、劳动市场、专业化、税负归宿、股票回购。抓取22个中7个因维基无独立条目（重定向到宽泛条目：disclosure→corporate law、term-premium→risk premium、bank-resolution→bank run、leverage-ratio→Basel III、taper-tantrum→QE、inflation-tax→seigniorage、regulatory-arbitrage→arbitrage）**未强建**。辨析重点：投资需区分宏观资本形成/金融投资/FDI三种含义（混用是常见错误）、储蓄vs投资的主体不同（凯恩斯\"节约悖论\"的基础）、需求vs需求量（曲线与点，政策含义不同）、不平等vs贫困（相对vs绝对）、税负归宿vs法定纳税人（弹性小者承担更多）、股票回购vs股息（危机前大量回购导致受援期被限制）。总条目610→625（案例205/概念420）、来源712→727、站点624→639页。comparison与related均625/625=100%。三道检查全绿。"
     }
   ]
 }
