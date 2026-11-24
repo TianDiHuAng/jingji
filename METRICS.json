@@ -1546,6 +1546,18 @@
       "check_result": "PASS; 九道检查全绿",
       "spot_check": "11 处\"有源未引\"已修复；第4次工具缺陷已记录",
       "note": "维基第51轮可用。**本轮发现并修复了第 4 次「工具缺陷导致的错误结论」**。①检查站内连通性与来源引用：孤儿页面 0 个；但发现 **65 个来源未被任何条目引用**，其中 **11 个与现有条目明确对应**（来源库里有、条目却没引）。②最典型的是 `blue-monday-2009`：round 61 我判定\"维基无专属条目\"并记入 BACKLOG，**实际专属条目 `Blue_Monday_Crash_2009` 一直存在，且来源库里早已注册** `w-en-blue-monday-crash-2009`。根因是**维基 URL 大小写敏感**（我测的是 `crash` 小写，正确是 `Crash` 大写）；更根本的失误是：**判断\"来源不存在\"之前没有先检索自己的 sources.json**。③已为 11 个条目补上来源（blue-monday／steel-crisis-1973／copper-panic-1789／british-credit-1772／israel-bank-1983／us-state-defaults-1840s／great-depression／crisis-33ce／crisis-1914／venezuela-energy-2010／great-recession-russia）。④blue-monday 新抓的全文**印证了原有的 -67% 数据**，并补充 RBS 2008 年亏损 **280 亿英镑**、政府持股 **70%** 两条数据。⑤教训记入 BLOCKERS（第 4 次），BACKLOG 中该条已标记解决。剩余未引用来源 54 个（多为中文维基旧源与书籍，条目改用英文维基后闲置）。当前：625 条、来源 732、key_data 418 条、案例政策 146/205。"
+    },
+    {
+      "round": "续作GS-GU",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 30,
+      "reviewed": 54,
+      "fixed": 31,
+      "sources_total": 729,
+      "check_result": "PASS; 九道检查全绿",
+      "spot_check": "30 处\"有源未引\"已补；未引用来源 54→16；第5次工具缺陷已记录",
+      "note": "维基第52轮可用。GS-GU：**补上 30 处\"有源未引\"，并发现第 5 次工具缺陷**。①第二批补 21 个条目：英文维基（panic-1796／panic-1910／greek-hyper-1941／bernie-madoff／sdr）；中文维基**跨语言对照源** 12 条（大萧条／通货膨胀／金本位／失业／货币政策／日本泡沫／互联网泡沫／恶性通胀／金融危机／景气循环／次贷危机／财政政策）；德/法/西语维基（`w-de-schwarzer-montag`→black-monday-1987、`w-fr-krach-1929`→wall-street-1929）。②第三批补 9 个条目：The Big Short→次贷危机、Das Kapital→马克思主义、NBER→商业周期、Fed+BIS→央行、ECB→欧洲央行、The Great Crash/Crash of 1929→wall-street-1929 等。③删除 3 个确实无用的来源。④**误删 `owid-dataset` 导致 12 处 R4 错误**——根因：统计\"来源是否被引用\"时只扫 `entries[].sources`，**漏了 `key_data[].sources`**（owid-dataset 正被 12 处 key_data 引用）。已恢复并修正统计口径（含 sources／key_data／policy_response／schools 四类字段）。⑤补齐 `owid-dataset` 缺失的 title 等字段与 13 个机构源的 year 字段。⑥第 5 次工具缺陷记入 BLOCKERS。现状：来源库 **729** 条，其中 **713** 被引用、**16** 未引用（9 本书 + 7 个机构，留作参考资源）。中文维基来源 23 条现已全部被引用，构成跨语言对照。"
     }
   ]
 }
