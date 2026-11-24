@@ -90,10 +90,11 @@ def main():
             problems.append((name, '重复style属性', ''))
 
         # 10) 未渲染的 Markdown 标记（** 粗体、[[link]] 等）
-        for pat, name in ((r'\*\*[^*]+\*\*', '未渲染粗体**'), (r'\[\[[^\]]+\]\]', '未渲染双链[[]]')):
-            if re.search(pat, d):
-                problems.append((name, '未渲染Markdown', ''))
-                break
+        # 注意：正确渲染的 HTML 中不应出现任何字面 ** ——即使是"孤立"的单个 **
+        # （如 "...指标**，但..." 这类未配对标记），也应报错。round 138 发现原判据 \*\*[^*]+\*\*
+        # 只抓成对的 **x**，漏掉了孤立 **，故此处改为"任意出现 ** 即报错"。
+        if '**' in d or re.search(r'\[\[[^\]]+\]\]', d):
+            problems.append(('未渲染粗体**', '未渲染Markdown', ''))
 
         # 11) 必需 head 元素
         if 'charset' not in d[:800]:

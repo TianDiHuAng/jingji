@@ -229,6 +229,16 @@ def m_qual():
 
 case('check_quality 缺h1', m_qual, ['tools/check_quality.py'], 'h1', [QUAL])
 
+
+def m_qual_bold():
+    t = open(QUAL, encoding='utf-8').read()
+    # 注入孤立 **（未配对），应被 check_quality 捕获
+    t2 = t.replace('</main>', '<p>孤立粗体**测试</p></main>', 1)
+    open(QUAL, 'w', encoding='utf-8').write(t2)
+
+
+case('check_quality 孤立**', m_qual_bold, ['tools/check_quality.py'], '未渲染', [QUAL])
+
 # ── 扩展：R20（U1 不得标全球）──
 U1T = os.path.join(ENT, 'roman-currency.json')
 
