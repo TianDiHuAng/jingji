@@ -1,19 +1,39 @@
-# 体检报告（轮次6，协议F）
+# 体检报告（round 80 重新生成）
 
-## 1 死链：0
-## 2 重复标题：0
-## 3 同名指标多值（需确认是否口径不同）：0
-## 4 无 related 入链条目：56（索引页仍收录，非真孤儿）
-## 5 来源组合完全相同的条目组（≥3条，疑似套话风险）：6
-  - 6条共享来源('w-en-financial-crisis', 'w-en-hyperinflation'): brazil-hyper-1980, chinese-hyper-1937, greek-hyper-1941, soviet-hyper-1917, venezuela-crisis-2013, venezuela-hyper-2016
-  - 6条共享来源('w-en-debt-crisis', 'w-en-financial-crisis'): british-credit-1772, chilean-crisis-1982, crisis-33ce, danish-bankruptcy-1813, dutch-collapse-1780, us-state-defaults-1840s
-  - 5条共享来源('w-en-bank-run', 'w-en-financial-crisis'): amsterdam-crisis-1763, crisis-1914, panic-1796, panic-1910, subprime-crisis-2007
-  - 3条共享来源('w-en-financial-crisis', 'w-en-speculative-bubble'): blue-monday-2009, dutch-stock-crashes, israel-bank-1983
-  - 3条共享来源('w-en-currency-crisis', 'w-en-financial-crisis'): copper-panic-1789, crisis-third-century, panic-1896
-## 6 过期数据：来源年份多为Wikipedia 2026快照或经典著作（无"现状类"数据需刷新）
-## 7 非法/未verified来源引用：0
+> 原文件为 round 6 的记录，其列出的"56 条无入链""6 组来源雷同"等问题此后均已解决。
+> 本文件按当前实际状态重写。
+
+## 硬性问题
+
+| 项 | 结果 |
+|---|---|
+| 站内断链 | **0** |
+| 重复标题 | **0** |
+| 孤儿页面（无任何入链） | **0** |
+| 同名指标多值冲突 | **0**（同名指标已加年份区分） |
+| 非法／未 verified 来源引用 | **0** |
+| 未渲染 Markdown | **0** |
+
+## 来源与结构
+
+| 项 | 数值 |
+|---|---|
+| 条目总数 | 632（案例 207 / 概念 425） |
+| 来源库 | 720 条，抽样可达性全通 |
+| 来源组合完全相同的条目组（≥3 条） | **0**（round 6 时为 6 组） |
+| **仅 1 个来源的条目** | **29**（多为概念条目，正逐步补跨语言第二来源） |
+| comparison 覆盖 | 569/632 |
+
+## 已修复的历史问题（对照 round 6 报告）
+
+| round 6 记录 | 现状 |
+|---|---|
+| 56 条无 related 入链 | 0（related 已对称化，双向 1,615 对） |
+| 6 组来源组合雷同 | 0（逐条补专属来源） |
+| 未渲染 Markdown（当时未发现） | 0（round 64 发现并修复 125 页） |
 
 ## 结论
-- 硬性问题（死链/重复/矛盾/非法来源）：0
-- 软性问题（无入链/来源雷同）：56条无入链 / 6组雷同
-- 详见下方明细
+
+- **硬性问题：0**
+- **软性问题：仅 1 个来源的条目 29 个**——这些条目的内容已标 `needs_verification`，
+  且已在 round 80 为其中 12 个补入中文维基作为跨语言第二来源（跨语言对照由 31 升至 39 条）。

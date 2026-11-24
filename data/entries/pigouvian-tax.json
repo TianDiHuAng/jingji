@@ -40,8 +40,9 @@
     "tax-incidence"
   ],
   "sources": [
-    "w-en-pigouvian-tax"
+    "w-en-pigouvian-tax",
+    "w-zh-pigouvian-tax"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作HH】维基全文可用后新建；内容据全文归纳，数值与学派归属待核实。"
+  "pending_notes": "【续作HH】维基全文可用后新建；内容据全文归纳，数值与学派归属待核实。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
 }

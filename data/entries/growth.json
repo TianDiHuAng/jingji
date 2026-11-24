@@ -80,10 +80,11 @@
     "total-factor-productivity"
   ],
   "sources": [
-    "w-en-growth"
+    "w-en-growth",
+    "w-zh-growth"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "索洛\"技术进步占80%、资本占20%\"是**历史估计**，依赖时期与测算方法，不同研究结果有差异；\"2013年60%消费支出用于1869年不存在的商品\"为示例性估计，口径未在来源中详述。跨国增长率比较还受购买力平价与统计能力影响。",

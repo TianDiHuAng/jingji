@@ -42,8 +42,9 @@
     "specialization"
   ],
   "sources": [
-    "w-en-transaction-cost"
+    "w-en-transaction-cost",
+    "w-zh-transaction-cost"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/schools。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
 }

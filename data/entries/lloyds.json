@@ -47,8 +47,9 @@
     "counterparty-risk"
   ],
   "sources": [
-    "w-en-lloyds"
+    "w-en-lloyds",
+    "w-zh-lloyds"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。"
 }
