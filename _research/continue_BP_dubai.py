@@ -1,0 +1,98 @@
+# -*- coding: utf-8 -*-
+"""续作BP：新增迪拜债务危机(2009)，填补"中东×债务"空白。"""
+import json
+
+def svg(t, labels):
+    e = lambda s: str(s).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')[:20]
+    s = ["<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'>",
+         f"<text x='20' y='28' class='ttl'>{e(t)}：机制示意</text>"]
+    for x, lb in zip([20, 270, 520], labels):
+        s.append(f"<g><rect x='{x}' y='55' width='210' height='52' rx='6' class='box'/>"
+                 f"<text x='{x+9}' y='82' class='lbl'>{e(lb)}</text></g>")
+    s.append("<line x1='230' y1='81' x2='265' y2='81' class='ar'/>"
+             "<line x1='480' y1='81' x2='515' y2='81' class='ar'/>")
+    s.append("<text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>")
+    return ''.join(s)
+
+entry = {
+ 'id': 'dubai-debt-2009',
+ 'title': '迪拜债务危机(2009)',
+ 'level': 'L2', 'tier': '重要',
+ 'unit': 'U5 21世纪', 'period': '21世纪', 'region': '中东', 'crisis_type': '债务',
+ 'one_line': '2009年迪拜国有投资公司 Dubai World 请求延期偿还债务，引发"迪拜违约"冲击波，凸显国有实体债务与主权信用的模糊边界。',
+ 'overview': ('迪拜世界（Dubai World）是管理并为迪拜政府监督一系列企业与项目的国有投资公司，隶属"迪拜公司"(Dubai Inc.)，'
+   '是该酋长国在全球投资中的旗舰。2009年，这家酋长国的投资平台请求将 **260 亿美元**债务的偿还延期 **六个月**。'
+   '当时迪拜世界的债务达 **590 亿美元**，占该酋长国 **800 亿美元**债务的近 **四分之三**。'
+   '消息公布后，道琼斯工业平均指数在一个缩短的交易日中下跌约 **155 点（约1.5%）**，其他股指同步下挫，'
+   '油价一度下跌 **7%** 后收复部分跌幅。该事件使市场重新定价"政府相关实体（GRE）"的隐性主权担保。具体细节待核实。'),
+ 'timeline': [
+   {'year':2009,'display':'2009年11月','event':'迪拜世界请求将260亿美元债务延期六个月（据 Wikipedia Dubai World）','sources':['w-en-dubai-world']},
+   {'year':2009,'display':'2009年11月','event':'道指跌约155点(1.5%)、油价一度跌7%（同上）','sources':['w-en-dubai-world']},
+ ],
+ 'causal_chain': [
+   {'step':'以国有实体大举举债扩张房地产与全球投资 → 债务累积至590亿美元','sources':['w-en-dubai-world']},
+   {'step':'2008危机后融资环境收紧 → 请求延期偿还260亿美元债务','sources':['w-en-dubai-world']},
+   {'step':'"国有=主权担保"的预期被打破 → 全球风险资产短时抛售','sources':['w-en-dubai-world']},
+ ],
+ 'key_data': [
+   {'label':'迪拜世界请求延期的债务','value':26,'unit':'十亿美元（260亿，延期6个月）','year':2009,'comparable_price':False,
+    'note':'原文：asked to delay for six months payment on $26 billion of debt；单一来源待核实。','sources':['w-en-dubai-world']},
+   {'label':'迪拜世界债务总额(2009)','value':59,'unit':'十亿美元（590亿）','year':2009,'comparable_price':False,
+    'note':'原文：Dubai World had debts of $59-billion, accounting for nearly three-quarters of the emirate\'s US$80-billion debt；单一来源待核实。','sources':['w-en-dubai-world']},
+   {'label':'迪拜酋长国债务总额(2009)','value':80,'unit':'十亿美元（800亿）','year':2009,'comparable_price':False,
+    'note':'原文：the emirate\'s US$80-billion debt；单一来源待核实。','sources':['w-en-dubai-world']},
+   {'label':'道指单日跌幅(消息公布当日)','value':-1.5,'unit':'%（约155点）','year':2009,'comparable_price':False,
+    'note':'原文：The Dow Jones industrial average lost about 155 points, or roughly 1.5 percent；单一来源待核实。','sources':['w-en-dubai-world']},
+   {'label':'油价单日最大跌幅','value':-7,'unit':'%（一度，后收复部分）','year':2009,'comparable_price':False,
+    'note':'原文：Oil prices plunged as much as 7 percent before recovering some ground；单一来源待核实。','sources':['w-en-dubai-world']},
+   {'label':'迪拜GDP(2023)','value':116.78,'unit':'十亿美元（AED 4290亿）','year':2023,'comparable_price':False,
+    'note':'原文：GDP of the calendar year 2023 ... is AED429 billion (US$116.779 billion)（维基 Economy of Dubai）；单一来源待核实。','sources':['w-en-economy-dubai']},
+   {'label':'石油占迪拜GDP比重(现)','value':1,'unit':'%（曾占50%，现已不足1%）','year':2023,'comparable_price':False,
+    'note':'原文：Oil production, which once accounted for 50% of Dubai\'s gross domestic product, contributes less than 1% today；单一来源待核实。','sources':['w-en-economy-dubai']},
+ ],
+ 'schools': [
+   {'holder':'隐性担保视角','view':'市场此前把国有实体债务视为主权债务；延期请求暴露两者边界模糊','basis':'据事件与市场反应归纳；具体定价证据待核实','sources':['w-en-dubai-world']},
+   {'holder':'结构调整视角','view':'迪拜以贸易、物流、金融替代石油（现石油占GDP不足1%），多元化降低资源依赖','basis':'据 Economy of Dubai 结构数据归纳；因果关系待核实','sources':['w-en-economy-dubai']},
+ ],
+ 'policy_response': [
+   {'holder':'迪拜政府/阿联酋','view':'通过重组与（阿布扎比）支持缓解偿付压力；具体安排待核实','basis':'需多来源印证','sources':['w-en-dubai-world']},
+ ],
+ 'comparison': ('与2010—2012年欧债危机中的"银行-主权"循环不同，迪拜案例的核心是**政府相关实体(GRE)的准主权债务**：'
+   '债权人以为有主权兜底，事后发现并非如此。具体异同待核实。'),
+ 'svg': svg('迪拜债务危机', ['国有实体举债扩张', '请求延期260亿美元', '准主权信用重定价']),
+ 'sources': ['w-en-dubai-world', 'w-en-economy-dubai'],
+ 'related': [],
+ 'needs_verification': True,
+ 'pending_notes': 'L2：事件与数值据维基 Dubai World / Economy of Dubai 全文；单源待核实。【续作BP】'
+}
+
+json.dump(entry, open('data/entries/dubai-debt-2009.json','w',encoding='utf-8'), ensure_ascii=False, indent=2)
+print('新增 dubai-debt-2009')
+
+sd = json.load(open('data/sources.json', encoding='utf-8'))
+ex = {x['id'] for x in sd['sources']}
+meta = json.load(open('_research/r83_data.json', encoding='utf-8'))
+for sid, key in [('w-en-dubai-world','dubai-world'), ('w-en-economy-dubai','economy-dubai')]:
+    if sid in ex: continue
+    v = meta.get(key, {})
+    t = v.get('title')
+    if not t: continue
+    sd['sources'].append({
+        'id': sid, 'title': t, 'author': 'Wikipedia contributors', 'year': '2026',
+        'type': '权威百科', 'url': 'https://en.wikipedia.org/wiki/' + t.replace(' ', '_'),
+        'url2': None, 'verified': True, 'link_ok': True,
+        'note': 'Wikipedia API(full extract)核对(本会话抓取全文)'})
+    ex.add(sid)
+    print('新增来源', sid, '|', t)
+sd['count'] = len(sd['sources'])
+json.dump(sd, open('data/sources.json','w',encoding='utf-8'), ensure_ascii=False, indent=2)
+print('来源总数', len(sd['sources']))
+
+cov = json.load(open('coverage.json', encoding='utf-8'))
+if entry['id'] not in {e['id'] for e in cov['entries']}:
+    cov['entries'].append({'id': entry['id'], 'level': 'L2', 'tier': '重要', 'status': 'written',
+      'source_count': 2, 'needs_verification': 1, 'last_updated': '2026-11-24',
+      'unit': entry['unit'], 'period': entry['period'], 'region': entry['region'], 'crisis_type': entry['crisis_type']})
+cov['total'] = len(cov['entries'])
+json.dump(cov, open('coverage.json','w',encoding='utf-8'), ensure_ascii=False, indent=2)
+print('coverage total', cov['total'])

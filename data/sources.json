@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 635,
+  "count": 637,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7617,6 +7617,30 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/2006–2012_New_Zealand_finance_company_collapses",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-dubai-world",
+      "title": "Dubai World",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Dubai_World",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-economy-dubai",
+      "title": "Economy of Dubai",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Dubai",
       "url2": null,
       "verified": true,
       "link_ok": true,
