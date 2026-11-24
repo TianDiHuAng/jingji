@@ -114,7 +114,12 @@
     "w-en-early-american-currency",
     "w-en-fiat-money"
   ],
-  "related": [],
+  "related": [
+    "assignat-1790s",
+    "fiat-money",
+    "hyperinflation",
+    "seigniorage"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DO】policy_response 由概述提炼。 【续作DR】policy_response 人工核验撰写。"
 }

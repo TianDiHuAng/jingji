@@ -56,7 +56,12 @@
     "w-en-price-revolution",
     "w-en-quantity-theory-money"
   ],
-  "related": [],
+  "related": [
+    "commodity-money",
+    "edict-maximum-prices",
+    "inflation",
+    "mercantilism"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作EB】补写概念辨析。"
 }

@@ -96,7 +96,12 @@
     "w-en-bond-crisis-1994",
     "w-en-interest-rate"
   ],
-  "related": [],
+  "related": [
+    "bond",
+    "interest-rate-risk",
+    "monetary-policy",
+    "yield-curve"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。"
 }

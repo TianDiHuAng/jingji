@@ -56,7 +56,11 @@
     "w-en-family-office",
     "w-en-archegos"
   ],
-  "related": [],
+  "related": [
+    "archegos-2021",
+    "hedge-fund",
+    "margin-call"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】 【续作ED】补写概念辨析。"
 }

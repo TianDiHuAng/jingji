@@ -108,7 +108,12 @@
     "w-en-nixon-shock",
     "w-en-bretton-woods-system"
   ],
-  "related": [],
+  "related": [
+    "bretton-woods",
+    "gold-standard",
+    "jamaica-accords",
+    "smithsonian-agreement"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AT】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。"
 }

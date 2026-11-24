@@ -76,7 +76,12 @@
     "w-en-edict-maximum-prices",
     "w-en-price-controls"
   ],
-  "related": [],
+  "related": [
+    "crisis-third-century",
+    "debasement",
+    "inflation",
+    "price-revolution"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】 【续作DS】policy_response 人工核验撰写。"
 }

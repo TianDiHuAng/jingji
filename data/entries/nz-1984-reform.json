@@ -87,7 +87,11 @@
     "w-en-rogernomics",
     "w-en-neoliberalism"
   ],
-  "related": [],
+  "related": [
+    "financial-repression",
+    "nz-finance-collapse",
+    "washington-consensus"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CM】补充第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作DV】policy_response 人工核验撰写。"
 }

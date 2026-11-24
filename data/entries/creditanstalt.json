@@ -65,7 +65,12 @@
     "w-en-creditanstalt",
     "w-en-great-depression"
   ],
-  "related": [],
+  "related": [
+    "contagion",
+    "danatbank-1931",
+    "european-banking-1931",
+    "gold-standard"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。"
 }

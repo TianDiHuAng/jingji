@@ -73,7 +73,12 @@
     "w-en-free-banking",
     "w-en-national-bank-act"
   ],
-  "related": [],
+  "related": [
+    "bank-run",
+    "banking-school",
+    "national-banking-act",
+    "second-bank"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

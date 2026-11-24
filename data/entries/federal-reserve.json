@@ -56,7 +56,12 @@
     "w-en-federal-reserve",
     "w-en-central-bank"
   ],
-  "related": [],
+  "related": [
+    "discount-window",
+    "federal-reserve-act",
+    "lender-of-last-resort",
+    "monetary-policy"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作ED】补写概念辨析。"
 }

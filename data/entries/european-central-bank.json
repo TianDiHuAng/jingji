@@ -73,7 +73,12 @@
     "w-en-european-central-bank",
     "w-en-eurozone-crisis"
   ],
-  "related": [],
+  "related": [
+    "esrb",
+    "euro-area-crisis",
+    "exchange-rate-regime",
+    "fiscal-dominance"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作ED】补写概念辨析。"
 }

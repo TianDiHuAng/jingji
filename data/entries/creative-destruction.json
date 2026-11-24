@@ -56,7 +56,11 @@
     "bk-capitalism-socialism-and-democracy",
     "w-en-recession"
   ],
-  "related": [],
+  "related": [
+    "austrian-theory",
+    "business-cycle",
+    "industrial-revolution"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据与细节待核实。 【续作DJ】补写概念辨析。"
 }

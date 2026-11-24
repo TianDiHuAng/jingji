@@ -100,7 +100,12 @@
     "w-en-bank-run",
     "w-en-bank-failure"
   ],
-  "related": [],
+  "related": [
+    "bank-run",
+    "indymac",
+    "securitization",
+    "subprime-crisis-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】 【续作AR】补关键数据（单源）。"
 }

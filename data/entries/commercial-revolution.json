@@ -56,7 +56,12 @@
     "w-en-commercial-revolution",
     "w-en-industrial-revolution"
   ],
-  "related": [],
+  "related": [
+    "double-entry",
+    "history-of-banking",
+    "industrial-revolution",
+    "joint-stock"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作ED】补写概念辨析。"
 }

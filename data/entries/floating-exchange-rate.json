@@ -65,7 +65,12 @@
     "w-en-floating-exchange-rate",
     "w-en-impossible-trinity"
   ],
-  "related": [],
+  "related": [
+    "exchange-rate-regime",
+    "fear-of-floating",
+    "fixed-exchange-rate",
+    "impossible-trinity"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作EC】补写概念辨析。"
 }

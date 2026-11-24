@@ -89,7 +89,11 @@
     "w-en-bank-run",
     "w-en-deposit-insurance"
   ],
-  "related": [],
+  "related": [
+    "bank-run",
+    "subprime-crisis-2007",
+    "washington-mutual"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AR】补关键数据（单源）。 【续作DO】policy_response 由概述提炼。"
 }

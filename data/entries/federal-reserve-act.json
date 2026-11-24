@@ -65,7 +65,12 @@
     "w-en-federal-reserve-act",
     "w-en-great-depression"
   ],
-  "related": [],
+  "related": [
+    "federal-reserve",
+    "lender-of-last-resort",
+    "national-banking-act",
+    "panic-1907"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。"
 }

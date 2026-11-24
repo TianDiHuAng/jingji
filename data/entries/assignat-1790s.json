@@ -133,7 +133,12 @@
     "w-en-assignat",
     "w-en-hyperinflation"
   ],
-  "related": [],
+  "related": [
+    "continental-currency-1775",
+    "edict-maximum-prices",
+    "fiat-money",
+    "hyperinflation"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DP】policy_response 人工核验撰写。"
 }

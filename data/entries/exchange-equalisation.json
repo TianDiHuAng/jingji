@@ -76,7 +76,12 @@
     "w-en-fx-intervention",
     "w-en-foreign-exchange-reserves"
   ],
-  "related": [],
+  "related": [
+    "foreign-exchange-reserves",
+    "fx-intervention",
+    "sterling-crisis-1976",
+    "tripartite-1936"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作DS】policy_response 人工核验撰写。"
 }

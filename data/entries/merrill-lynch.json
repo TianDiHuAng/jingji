@@ -66,7 +66,11 @@
     "w-en-bank-run",
     "w-en-too-big-to-fail"
   ],
-  "related": [],
+  "related": [
+    "bear-stearns",
+    "lehman",
+    "subprime-crisis-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
 }

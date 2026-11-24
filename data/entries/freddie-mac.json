@@ -86,7 +86,12 @@
     "w-en-moral-hazard",
     "w-en-fannie-mae"
   ],
-  "related": [],
+  "related": [
+    "fannie-mae",
+    "mortgage-backed-security",
+    "securitization",
+    "subprime-crisis-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
 }

@@ -56,7 +56,12 @@
     "w-en-commodity-price-index",
     "w-en-resource-curse"
   ],
-  "related": [],
+  "related": [
+    "cpi",
+    "dutch-disease",
+    "inflation",
+    "oil-crisis-1973"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】 【续作ED】补写概念辨析。"
 }

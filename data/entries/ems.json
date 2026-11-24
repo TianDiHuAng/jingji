@@ -97,7 +97,12 @@
     "w-en-ems",
     "w-en-black-wednesday"
   ],
-  "related": [],
+  "related": [
+    "black-wednesday-1992",
+    "european-central-bank",
+    "exchange-rate-regime",
+    "impossible-trinity"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AT】补关键数据（单源）。"
 }

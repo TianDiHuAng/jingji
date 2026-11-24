@@ -106,7 +106,12 @@
     "w-en-oil-price-war-2020",
     "w-en-2020-stock-market-crash"
   ],
-  "related": [],
+  "related": [
+    "commodity-price-index",
+    "covid-crash-2020",
+    "oil-crisis-1973",
+    "oil-crisis-1979"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DV】policy_response 人工核验撰写。"
 }

@@ -65,7 +65,12 @@
     "w-en-ldi-strategy",
     "w-en-margin-finance"
   ],
-  "related": [],
+  "related": [
+    "interest-rate-swap",
+    "margin-call",
+    "pension-fund",
+    "uk-ldi-crisis-2022"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】"
 }

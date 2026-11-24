@@ -56,7 +56,12 @@
     "w-en-bailout",
     "w-en-sifi"
   ],
-  "related": [],
+  "related": [
+    "bail-in",
+    "moral-hazard",
+    "tarp",
+    "too-big-to-fail"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作EE】补写概念辨析。"
 }
