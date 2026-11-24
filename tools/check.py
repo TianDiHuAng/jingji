@@ -254,16 +254,16 @@ def main():
         if _s.get('link_ok') is None:
             err('R18', _s.get('id', '?'), 'link_ok 未设置（须为 true/false）')
     # R4b 嵌套字段的来源 id 也必须存在（timeline/schools/policy_response/key_data）
-    for _f, _label in (('timeline', 'timeline'), ('schools', 'schools'),
-                       ('policy_response', 'policy_response'), ('key_data', 'key_data')):
-        for _i, _it in enumerate(e.get(_f) or []):
-            if not isinstance(_it, dict):
-                continue
-            for _sid in (_it.get('sources') or []):
-                if _sid not in sources:
-                    err('R4', '%s.%s[%d]' % (e.get('id', '?'),
-                                             _label, _i),
-                        '来源 id "%s" 未在 sources.json 中定义' % _sid)
+    for _e in entries:
+        for _f, _label in (('timeline', 'timeline'), ('schools', 'schools'),
+                           ('policy_response', 'policy_response'), ('key_data', 'key_data')):
+            for _i, _it in enumerate(_e.get(_f) or []):
+                if not isinstance(_it, dict):
+                    continue
+                for _sid in (_it.get('sources') or []):
+                    if _sid not in sources:
+                        err('R4', '%s.%s[%d]' % (_e.get('id', '?'), _label, _i),
+                            '来源 id "%s" 未在 sources.json 中定义' % _sid)
     # R19 结构化内容字段必须逐条带来源
     for _e in entries:
         _wid = _e.get('id', '?')
