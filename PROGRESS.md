@@ -2279,6 +2279,13 @@
 - **结果**：check_polnum「完全找不到」= 0；check_body_num 未匹配 83 → **81**（真去掉 2 个无源数字）；十一道检查全绿。
 - 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 28/28。
 
+- **维基百科第 130 轮可用（round 150）**。**把「全字段搜同款」教训沉淀为工具 `find_val.py`，并用它辅助补 1 条 policy_response**。
+- **新增 `tools/find_val.py`**：改任何数字前后，一键在 overview／one_line／comparison／policy_response／key_data／timeline／schools／causal_chain **所有字段**列出该值全部出现位置，避免「只改一处、漏改他处」（round 148 finnish 20%、round 149 sterling 1.60 都是此坑复发）。
+- **用它验证**：`find_val "1.60"` 与 `"近20%"` 均 **0 命中**（已全字段改净）；`"47.5%"` 得 8 处，均在 bail-in／bailout／cypriot-2013，且 cypriot-2013 源确有该值——**合法交叉引用**。
+- **补 1 条 policy_response**：`panic-1837`——据 `w-en-panic-of-1837` 缓存补「杰克逊否决第二合众国银行续照、1836 铸币流通令；范布伦拒绝政府干预」并提炼。案例 policy_response **149 → 150**；check_polnum「完全找不到」= 0。
+- README 工具表补 `find_val.py`。
+- 现状：**641 条**、来源 **742**、页面 **655**；案例政策 **150** 条；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 28/28。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

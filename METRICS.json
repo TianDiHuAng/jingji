@@ -2482,6 +2482,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
       "spot_check": "body_num 81→83 未匹配审阅；修 blue-monday 676 / sterling 1.60（含 policy_response 同款）",
       "note": "维基第129轮可用。OL：系统性\"全字段搜同款\"扫描 body_num 的 81→83 条未匹配，找出并修复 2 处无源数字。\n①**审阅 check_body_num 未匹配 83 条**（overview/one_line/comparison 中数字在来源找不到）：绝大多数为**日期/周期区间/示例/交叉引用**的假阴性（如\"6月\"\"3—10年\"\"从4.25%升到4.50%举例\"\"标普500\"\"127号文\"\"见cypriot-2013的47.5%\"）。\n②**发现 2 处真·无源数字**：\n（a）`blue-monday-2009` overview 免责声明仍复述\"标普 500 于 3 月见底约 676 点\"——该数不在本条来源（属另一事件），**违反\"不复述未核实数字\"**。已删该数值。\n（b）`sterling-crisis-1976` overview\"一度跌破1.60美元区间\"——所引来源**未载该汇率数值**。已改为\"具体汇率数值待核实\"。\n③**\"全字段搜同款\"当场复发**：改完 sterling 的 overview 后，check_polnum 又报 policy_response 里**同样有 1.60**（我上一轮刚在 finnish 上踩过同一坑）。已一并改 policy_response，并清理替换产生的重复表述。\n④**结果**：check_polnum \"完全找不到\" = 0；check_body_num 未匹配 83 → **81**（真去掉 2 个无源数字）；十一道检查全绿。\n⑤现状：641 条、来源 742、页面 655；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
+    },
+    {
+      "round": "续作OM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 10,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "新增 find_val.py 全字段同款搜索工具；补 panic-1837 policy（政策 149→150）",
+      "note": "维基第130轮可用。OM：把\"全字段搜同款\"教训沉淀为工具 find_val.py，并用它辅助补 1 条 policy_response。\n①**新增 `tools/find_val.py`**：改任何数字前后，一键在 overview/one_line/comparison/policy_response[].view/key_data(label/value/note)/timeline/schools/causal_chain **所有字段**列出该值全部出现位置，避免\"只改一处、漏改他处\"（round 148 finnish 的 20%、round 149 sterling 的 1.60 都是此坑复发）。\n②**用它验证**：`find_val \"1.60\"`（sterling）与 `\"近20%\"`（finnish）均 **0 命中**（确已全字段改净）；`\"47.5%\"` 得 8 处，均在 bail-in/bailout/cypriot-2013，且 cypriot-2013 源确有该值——**合法交叉引用，一致**。\n③**补 1 条 policy_response**：`panic-1837`——据 w-en-panic-of-1837 缓存补\"杰克逊否决第二合众国银行续照、1836 铸币流通令；范布伦拒绝政府干预\"到正文并提炼。案例 policy_response 149 → **150**；check_polnum \"完全找不到\" = 0。\n④README 工具表补 find_val.py。\n⑤现状：641 条、来源 742、页面 655；案例政策 150 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }

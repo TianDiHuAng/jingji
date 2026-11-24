@@ -53,6 +53,7 @@
 | `check_pages.py` | 页面间数字一致性 + 站点完整性 + 矩阵合计校验 |
 | `kdclass.py` | `key_data` 验证层级分类（被 gen_site 与 check_pages 共享） |
 | `selftest.py` | 检查器自测：逐一注入已知错误，确认每个检查确实能捕获（**25 项**） |
+| `find_val.py` | 全字段「同款数字」搜索：改任一处数字后，一键列出它在 overview/one_line/comparison/policy_response/key_data/timeline/schools 的所有出现（防漏改） |
 
 ## 复现
 
