@@ -123,5 +123,15 @@
     "w-en-emergency-banking-act-1933"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。 【续作OW｜round158】据正文机制与已引来源补 causal_chain。"
+  "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。 【续作OW｜round158】据正文机制与已引来源补 causal_chain。 【续作PL｜round173】据正文提炼 policy_response（银行假日/EBRA/FDIC）。",
+  "policy_response": [
+    {
+      "holder": "美国联邦政府与国会",
+      "view": "1933 年 2 月起各州相继宣布银行假日；1933-03-09 国会通过《紧急银行救济法》，授权十二家联邦储备银行以\"良好资产\"为担保发行额外货币；3-13 银行择优复业；同年《1933 年银行法》设立 FDIC。",
+      "basis": "据本条目正文提炼，未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    }
+  ]
 }
