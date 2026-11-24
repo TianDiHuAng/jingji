@@ -9,7 +9,24 @@
   "crisis_type": "其他",
   "one_line": "一战后美国及多国的急剧通缩型经济衰退（1920–1921）。",
   "overview": "The Recession of 1920–1921 was a sharp deflationary economic contraction in the United States, United Kingdom and other countries, beginning 14 months after the end of World War I. It lasted from January 1920 to July 1921. The extent of the deflation was not only large, but large relative to the accompanying decline in real product.（据维基摘要；完整时间线/数据待核实补充。）",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1920,
+      "display": "1920年1月",
+      "event": "衰退开始（NBER测定）",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    },
+    {
+      "year": 1921,
+      "display": "1921年7月",
+      "event": "衰退结束，持续18个月",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    }
+  ],
   "causal_chain": [
     {
       "step": "一战结束后14个月、战时需求与财政货币扩张退潮 → 需求与物价回落",
@@ -79,5 +96,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AP】补关键数据（单源）。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AP】补关键数据（单源）。 【续作CE】补齐时间线。"
 }

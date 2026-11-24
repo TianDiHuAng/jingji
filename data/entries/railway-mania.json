@@ -9,7 +9,24 @@
   "crisis_type": "泡沫",
   "one_line": "1840年代英国铁路投资狂潮（Railway Mania），大量资本涌入铁路股票形成泡沫，随后崩盘。",
   "overview": "Railway Mania was a stock market bubble in the railway industry of the United Kingdom of Great Britain and Ireland in the 1840s. It followed a common pattern: as the price of railway shares increased, speculators invested more money, which further increased the price of railway shares, until the share price collapsed. The mania reached its zenith in 1846, when 263 Acts of Parliament for setting up（据维基摘要；完整时间线/数据待核实补充。）",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1845,
+      "display": "1840年代中期",
+      "event": "英国铁路狂热：股份可以10%定金认购",
+      "sources": [
+        "w-en-railway-mania"
+      ]
+    },
+    {
+      "year": 1847,
+      "display": "1847年",
+      "event": "泡沫破裂引发商业与银行震荡（见 panic-1847）",
+      "sources": [
+        "w-en-panic-of-1847"
+      ]
+    }
+  ],
   "causal_chain": [
     {
       "step": "铁路股价格上涨 → 投机者投入更多资金 → 价格进一步上涨（正反馈）",
@@ -79,5 +96,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。"
 }

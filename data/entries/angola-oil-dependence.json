@@ -9,7 +9,48 @@
   "crisis_type": "其他",
   "one_line": "安哥拉经济高度依赖石油出口，油价与产量变化直接决定贸易与财政表现。",
   "overview": "安哥拉在21世纪头十年曾是全球增长最快的经济体之一，2001—（2010）年报告的年均GDP增速达11.1%。但该国仍高度依赖石油部门——2017年石油占出口价值的90%以上。2022年贸易顺差为300亿美元，而2012年为480亿美元。经济多元化不足使安哥拉易受油价与产量波动冲击。具体数据待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 2002,
+      "display": "2002年",
+      "event": "内战结束后经济重建，石油驱动高速增长",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "year": 2010,
+      "display": "2001—2010年",
+      "event": "年均GDP增速报告值11.1%",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年",
+      "event": "贸易顺差约480亿美元",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "year": 2017,
+      "display": "2017年",
+      "event": "石油占出口价值90%以上",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年",
+      "event": "贸易顺差降至约300亿美元",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
   "causal_chain": [
     {
       "step": "石油占出口90%以上（2017）→ 贸易与财政高度依赖油价",
@@ -111,5 +152,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】"
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CE】补齐时间线。"
 }

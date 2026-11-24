@@ -9,7 +9,32 @@
   "crisis_type": "泡沫",
   "one_line": "2022年加密货币市场崩盘，FTX交易所破产为标志性事件。",
   "overview": "The bankruptcy of FTX, a Bahamas-based cryptocurrency exchange, began in November 2022. The collapse of FTX, caused by a spike in customer withdrawals that exposed an $8 billion hole in FTX's accounts, served as the impetus for its bankruptcy. Prior to its collapse, FTX was the third-largest cryptocurrency exchange by volume and had over one million users.（据维基摘要；完整时间线/数据待核实补充。）",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "2022年11月",
+      "event": "客户提款激增暴露约80亿美元账目窟窿",
+      "sources": [
+        "w-en-bankruptcy-of-ftx"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年11月11日",
+      "event": "FTX 申请破产保护（通说；具体日期待核实）",
+      "sources": [
+        "w-en-bankruptcy-of-ftx"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "创始人 Bankman-Fried 被定罪（细节待核实）",
+      "sources": [
+        "w-en-bankruptcy-of-ftx"
+      ]
+    }
+  ],
   "causal_chain": [
     {
       "step": "FTX曾为全球第三大加密交易所、用户超百万；账户存在约80亿美元缺口",
@@ -91,5 +116,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AS】补关键数据（单源）。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AS】补关键数据（单源）。 【续作CE】补齐时间线。"
 }
