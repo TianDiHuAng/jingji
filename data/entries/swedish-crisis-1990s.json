@@ -1,0 +1,113 @@
+{
+  "id": "swedish-crisis-1990s",
+  "title": "瑞典金融危机(1990–1994)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "房价泡沫通缩引发严重信贷紧缩与银行危机，政府救助成本约为GDP的4%（后降至0—2%）。",
+  "overview": "1990—1994年瑞典金融危机源于**房价泡沫的通缩**，由此引发严重的**信贷紧缩、银行危机与深度衰退**。同期芬兰也发生了类似危机，美国则有储贷危机；有分析指出其成因与2007—2008年次贷危机**相似**（资产泡沫＋杠杆＋批发融资）。政策应对的关键是\"救助+处置\"并行：**Nordbanken 与 Götabanken 获得财政支持并被国有化，成本达 640亿克朗**；救助的初始成本约为瑞典GDP的 **4%**，后因（被国有化银行）股票此后售出而回收，净成本降至 **0%—2%** 之间（取决于假设）。瑞典案例常被引为\"银行危机处置得当、财政净成本显著低于预期\"的正面参照——关键在于**及时确认损失、国有化问题机构、并设立资产管理公司剥离不良资产**，而非拖延与\"假装与宽容\"(forbearance)。具体处置细节待核实。",
+  "timeline": [
+    {
+      "year": 1990,
+      "display": "1990—1994年",
+      "event": "房价泡沫通缩，信贷紧缩与银行危机",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    },
+    {
+      "year": 1992,
+      "display": "危机期间",
+      "event": "Nordbanken 与 Götabanken 获财政支持并被国有化（成本640亿克朗）",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "金融自由化后信贷扩张 → 房价与资产价格泡沫",
+      "sources": [
+        "w-en-finnish-banking-1990"
+      ]
+    },
+    {
+      "step": "泡沫通缩 → 抵押品价值下跌、信贷紧缩与银行损失",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    },
+    {
+      "step": "政府注资并国有化问题银行（640亿克朗）→ 净财政成本约GDP的0—2%",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "Nordbanken与Götabanken救助成本",
+      "value": 64,
+      "unit": "十亿瑞典克朗",
+      "year": 1992,
+      "comparable_price": false,
+      "note": "原文：Nordbanken and Götabanken were granted financial support and nationalized at a cost of 64 billion kronor；单一来源待核实。",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    },
+    {
+      "label": "救助初始成本占GDP",
+      "value": 4,
+      "unit": "%（后降至0—2%）",
+      "year": 1992,
+      "comparable_price": false,
+      "note": "原文：This bailout initially cost about 4% of Sweden's GDP, later lowered to between 0–2% of GDP；单一来源待核实。",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    },
+    {
+      "label": "救助净成本占GDP(下界)",
+      "value": 0,
+      "unit": "%（0—2%区间下界）",
+      "year": 1996,
+      "comparable_price": false,
+      "note": "原文：later lowered to between 0–2% of GDP depending on various assumptions due to the value of stock later sold；单一来源待核实。",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "及时处置视角",
+      "view": "快速确认损失、国有化与剥离不良资产，可显著降低净财政成本",
+      "basis": "据瑞典净成本0—2%归纳",
+      "sources": [
+        "w-en-swedish-crisis-1990s"
+      ]
+    },
+    {
+      "holder": "拖延视角",
+      "view": "日本的\"宽容\"式处置使问题长期化，与瑞典形成对照",
+      "basis": "据两国处置比较归纳；因果待核实",
+      "sources": [
+        "w-en-japan-asset-bubble-1990"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与芬兰(1990s)、挪威(1988—1992)同属北欧银行危机群，共同背景是金融自由化后的信贷泡沫与1990年代初的深度衰退；瑞典的独特之处在于**处置方式的透明度与国有化力度**，其净财政成本显著低于日本。与2007—08次贷危机的成因相似性也常被强调。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>瑞典金融危机(1990–1994)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>金融自由化后信贷扩张 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>泡沫通缩 → 抵押品价值</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政府注资并国有化问题银行</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-finnish-banking-1990",
+    "w-en-swedish-crisis-1990s"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 553,
+  "total": 555,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7190,6 +7190,32 @@
       "period": "18—19世纪",
       "region": "拉美",
       "crisis_type": "债务"
+    },
+    {
+      "id": "nyc-fiscal-1975",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "北美",
+      "crisis_type": "债务"
+    },
+    {
+      "id": "swedish-crisis-1990s",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
+      "region": "欧洲",
+      "crisis_type": "银行"
     }
   ]
 }

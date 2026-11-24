@@ -1,0 +1,124 @@
+{
+  "id": "nyc-fiscal-1975",
+  "title": "纽约市财政危机(1975)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "债务",
+  "one_line": "纽约市累积140亿美元债务（含60亿短期债）后预算耗尽，被信贷市场拒之门外，靠州与联邦协调度过。",
+  "overview": "1975年纽约市爆发严重财政危机：该市累积了 **140亿美元** 债务，其中 **60亿美元** 是**短期债务**；预算耗尽，经营赤字超过 **6亿美元**，有估计将其推高至 **22亿美元**。由于信用评级恶化，该市实际上被**排除在信贷市场之外**——无法再滚动其短期债务。危机是1973—75年衰退的一部分，但根源更深：制造业岗位长期流失（20世纪后三分之一，该市失去数十万个工作岗位，包括约 **50%** 的制造业岗位与约 **60%** 的（相关行业岗位）），而市政就业持续扩张，\"服务、政府与金融\"类岗位占到全市（就业）的 **46%**——税基收缩与支出刚性同时恶化。削减福利的政治阻力极大：1971年布鲁克林布朗斯维尔居民在听闻拟削减福利 **10%** 后发生骚乱。危局最终通过州层面设立财政监督机构（Municipal Assistance Corporation / EFCB）与联邦贷款安排缓解；\"Ford to City: Drop Dead\"成为当时的著名标题（具体财政安排待核实）。该案例是**地方政府财政危机**（而非银行或货币危机）的经典样本。",
+  "timeline": [
+    {
+      "year": 1971,
+      "display": "1971年",
+      "event": "布朗斯维尔骚乱：反对削减福利10%的提议",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "year": 1975,
+      "display": "1975年",
+      "event": "债务达140亿美元（含60亿短期债），赤字超6亿（估计达22亿），被拒于信贷市场之外",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "制造业岗位长期流失 + 市政就业扩张 → 税基收缩而支出刚性上升",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "step": "以短期债务滚动弥补赤字 → 债务累积至140亿（60亿为短期）",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "step": "信用评级恶化 → 被排除在信贷市场之外，需州与联邦协调救助",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "纽约市累积债务(1975)",
+      "value": 14,
+      "unit": "十亿美元（140亿）",
+      "year": 1975,
+      "comparable_price": false,
+      "note": "原文：New York City had a severe fiscal crisis after accumulating $14 billion of debt；单一来源待核实。",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "label": "其中短期债务",
+      "value": 6,
+      "unit": "十亿美元（60亿）",
+      "year": 1975,
+      "comparable_price": false,
+      "note": "原文：of which $6 billion was short-term debt；单一来源待核实。",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "label": "经营赤字(1975，估计下限)",
+      "value": 600,
+      "unit": "百万美元（超6亿）",
+      "year": 1975,
+      "comparable_price": false,
+      "note": "原文：had an operating deficit of more than $600 million；单一来源待核实。",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "label": "经营赤字(1975，部分估计)",
+      "value": 2200,
+      "unit": "百万美元（22亿）",
+      "year": 1975,
+      "comparable_price": false,
+      "note": "原文：with some estimates placing the deficit at $2.2 billion；单一来源待核实。",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "结构视角",
+      "view": "产业空心化与支出刚性是根本原因",
+      "basis": "据就业与债务数据归纳",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "holder": "周期视角",
+      "view": "1973—75衰退只是触发器，脆弱性早已累积",
+      "basis": "据危机时序归纳",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与主权债务危机不同，纽约市没有货币与汇率工具，也不能像主权国家那样重组外债；与波多黎各2014年危机（见 puerto-rico-debt-2014）同属美国次级主权实体的财政困境，但纽约市最终避免了破产。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>纽约市财政危机(1975)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>制造业岗位长期流失 + </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以短期债务滚动弥补赤字 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信用评级恶化 → 被排除</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-nyc-fiscal-1975",
+    "w-en-finnish-banking-1990"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CS】"
+}

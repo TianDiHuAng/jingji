@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 662,
+  "count": 664,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7941,6 +7941,30 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-nyc-fiscal-1975",
+      "title": "1975 New York City fiscal crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1975_New_York_City_fiscal_crisis",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-swedish-crisis-1990s",
+      "title": "1990–1994 Swedish financial crisis",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/1990%E2%80%931994_Swedish_financial_crisis",
       "url2": null,
       "verified": true,
       "link_ok": true,
