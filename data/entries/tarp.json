@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**直接国有化**的区别在\"方式\"：问题资产救助计划(TARP, 2008) 主要通过**购买优先股与资产**向金融机构注资，保留私人所有权与治理结构；国有化则直接取得控制权（如2008年对AIG、房利美/房地美）。TARP 的争议在于\"用纳税人的钱救银行家\"，但其最终财政成本远低于最初预期（大部分资金被偿还并有收益），这一事实常被忽视。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>问题资产救助计划(TARP)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2008年危机中金融机构</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>政府购买有毒资产与股权 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>道德风险与纳税人成本引发</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-tarp",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作EC】补写概念辨析。"
 }

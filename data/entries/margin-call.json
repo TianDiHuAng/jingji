@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**追加保证金**完全同义，但需与\"**强制平仓**\"区分：追加保证金是**要求**（通知补足抵押品）；强制平仓是**后果**（未补足则被卖出）。这一链条在危机中的放大机制是：价格下跌→抵押品不足→追加保证金→被迫卖出→价格进一步下跌（保证金螺旋）。Archegos(2021)、英国LDI(2022)、2008年回购市场都是这一螺旋的实例。监管上的两难是：高保证金可抑制杠杆，但在压力时也会加速抛售。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保证金与追加保证金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>杠杆头寸以抵押品担保 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格不利变动 → 抵押品</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>无法补足 → 强制平仓 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-margin-call",
@@ -63,5 +63,5 @@
     "uk-ldi-crisis-2022"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】 【续作EC】补写概念辨析。"
 }

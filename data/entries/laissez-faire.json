@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**干预主义**的对立在\"政府角色\"：自由放任主张政府不干预经济（依靠市场自发秩序），源自重农学派与斯密；干预主义主张政府在失灵时介入（公共品、外部性、垄断、危机）。这一对立在危机中最为尖锐：1929年后干预主义占上风（新政、凯恩斯），1980年代自由放任回归（放松管制），2008年后干预再度扩大。实践中的共识是\"混合经济\"——争论在于**边界与时机**。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自由放任：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>减少政府干预 → 私人交</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场自发协调被视为更有效</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>但可能忽视外部性与系统性</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-laissez-faire",
@@ -63,5 +63,5 @@
     "physiocracy"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作EC】补写概念辨析。"
 }

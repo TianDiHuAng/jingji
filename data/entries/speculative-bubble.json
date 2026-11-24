@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**基本面驱动的价格上涨**的区别在\"能否事后确认\"：泡沫是价格远超基本价值的上涨，但**事前难以确认**——有效市场论者认为多数\"泡沫\"可由风险溢价与基本面预期解释；行为金融与明斯基学派则认为信贷扩张与群体心理可明确制造泡沫。这一分歧不是学术细节：若无法事前识别，央行\"戳破泡沫\"就缺乏依据（可能误伤）；若可以识别，宏观审慎就应提前收紧（如LTV上限）。实践中的折中是\"逆风而行\"(leaning against the wind)——不主动戳破，但抑制杠杆。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>投机泡沫：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>信贷可得+乐观叙事 → 资产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>价格上涨自我强化 → 更多投</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心逆转 → 价格崩盘</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准金融口径。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。 【续作EC】补写概念辨析。"
 }

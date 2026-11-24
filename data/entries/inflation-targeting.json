@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币目标制**的区别在\"锚定什么\"：货币目标制以货币供给增长率为中间目标（假定货币与物价关系稳定）；通胀目标制直接以通胀率为最终目标，通过利率工具实现，不依赖货币需求函数的稳定性。这一转变（1990年代）的背景是金融创新使货币需求不稳定（货币目标失效）。通胀目标制的关键是**央行独立性与透明度**（可信度决定牺牲率）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>通胀目标制：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行公开宣布中期通胀目标</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以短期利率为主要工具调节</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>维持物价稳定以支持长期增</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-inflation-targeting",
@@ -63,5 +63,5 @@
     "nairu"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作EC】补写概念辨析。"
 }

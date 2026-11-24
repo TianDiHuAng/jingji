@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**格拉斯-斯蒂格尔**的区别在\"限制什么\"：格拉斯-斯蒂格尔分离**商业银行业务与投资银行业务**（机构层面）；沃尔克规则限制**银行以自有账户进行自营交易**及对对冲基金/私募股权的投资（业务层面）。前者因混业化而难以执行（1999年废除），后者更温和（允许做市与承销，只禁自营）。两者的共同目标是限制\"用存款保险补贴风险交易\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>沃尔克规则：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行以自有账户自营交易 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>规则限制自营交易与相关基</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>降低存款机构的风险承担与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-volcker-rule",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作EC】补写概念辨析。"
 }

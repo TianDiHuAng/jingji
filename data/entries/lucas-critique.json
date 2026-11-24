@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**传统计量模型**的区别在\"参数稳定性\"：卢卡斯批判指出，基于历史数据估计的宏观关系（如菲利普斯曲线）在**政策规则改变**时会失效——因为行为主体会调整预期与行为（参数不是结构性的）。这一批判的意义是：不能用旧数据评估新政策（\"政策评估需要结构性模型\"）。它推动了宏观经济学转向微观基础与理性预期，也解释了为何央行难以精确预测政策效果。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>卢卡斯批判：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政策变化 → 主体预期与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>历史数据估计的参数不再适</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需以结构性模型评估政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-lucas-critique",
@@ -62,5 +62,5 @@
     "rational-expectations"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EC】补写概念辨析。"
 }

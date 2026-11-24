@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**保护主义**的对立在\"效率与分配\"：自由贸易按比较优势提高总福利，但会产生**赢家与输家**（进口竞争行业的工人受损）。标准经济学的结论是\"贸易的净收益为正，但需配套调整援助\"；政治经济学的现实是\"受损者集中、受益者分散\"，因此保护主义在政治上常占上风。1930年斯姆特-霍利关税与2018年后的关税摩擦都印证这一机制。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自由贸易：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>消除关税与非关税壁垒 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>按比较优势专业化 → 效</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>但带来调整成本与分配效应</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-free-trade",
@@ -63,5 +63,5 @@
     "mercantilism"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EC】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**GDP**的区别在\"频率与方向\"：PMI（采购经理指数）是**月度调查**，以50为荣枯线，是经济活动的**领先指标**；GDP 是**季度核算**，是事后确认的结果。PMI 的价值是及时性（月末即公布）与方向性（扩张/收缩），但其局限是\"扩散指数\"不直接等于增长率，且样本与权重会影响结果。危机监测中，PMI 骤降至50以下是衰退的早期信号。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>采购经理指数(PMI)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>对采购经理开展月度调查 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇总为扩散指数 → 反映</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>作为经济活动的先行指标用</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-pmi",
@@ -61,5 +61,5 @@
     "output-gap"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EC】补写概念辨析。"
 }

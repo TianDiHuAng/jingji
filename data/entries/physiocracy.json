@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**重商主义**的对立在\"财富来源\"：重农学派认为财富来自**农业**（土地是唯一的生产性部门），主张自由放任、反对重商主义的贸易管制；重商主义认为财富来自**贸易顺差**（金银积累）。重农学派的意义在于：它是第一个系统性的经济理论体系（魁奈的《经济表》），也是\"自由放任\"思想的源头，尽管其\"只有农业生产价值\"的核心命题被斯密否定。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>重农学派：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>认为只有农业创造净产出 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>主张农产品高价与减轻农业</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反对重商主义的管制，倾向</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-physiocracy",
@@ -62,5 +62,5 @@
     "laissez-faire"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EC】补写概念辨析。"
 }

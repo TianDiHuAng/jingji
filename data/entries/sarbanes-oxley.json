@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**多德-弗兰克**的区别在\"针对什么\"：萨班斯-奥克斯利法(2002) 针对**会计欺诈与审计独立性**（安然、世通之后），要求CEO/CFO个人认证财报、设立PCAOB监督审计、强化内控；多德-弗兰克(2010) 针对**系统性风险与消费者保护**（2008之后）。两者的共同点是加强披露与问责，分歧在成本：SOX 被批评合规成本高、抑制上市（尤其小公司）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>萨班斯-奥克斯利法案(2002)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>安然、世通等会计丑闻 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2002年7月30日立法</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>提高披露要求与高管责任</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sarbanes-oxley",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作EC】补写概念辨析。"
 }

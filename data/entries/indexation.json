@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**通胀目标制**的关系是\"对立\"：指数化把工资、利息、养老金与物价挂钩，在高通胀中保护实际购买力，但使通胀获得**惯性**（自我延续），大幅提高反通胀成本；通胀目标制则通过**预期锚定**来降低通胀，两者在逻辑上相反：一个适应通胀，一个压制通胀。巴西1994年雷亚尔计划的关键步骤之一就是**去指数化**。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>指数化：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>高通胀侵蚀实际收入 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>普遍挂钩 → 通胀具备惯</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反通胀需同时\"去指数化\"</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-indexation",
@@ -62,5 +62,5 @@
     "stabilization-program"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作EC】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**风险**的区别在\"度量对象\"：波动率衡量价格变动的**幅度与频率**（标准差、隐含波动率）；风险是**损失的可能性**（含方向、尾部、流动性等）。这一区别很重要：高波动可能双向（不必然是坏），而低波动可能掩盖尾部风险（2007年\"低波动\"被视为安全，实为杠杆累积）。因此\"波动率不是风险\"是风险管理的基本警告（塔勒布的核心论点）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>波动率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格序列的离散程度 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>波动率上升 → 风险溢价</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>极端波动 → 保证金追缴</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-volatility",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EC】补写概念辨析。"
 }

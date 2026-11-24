@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币非中性**的区别在时间：长期货币中性（货币变动只影响物价、不影响实际产出）是主流共识；短期货币非中性（因价格粘性、预期不完全）是政策干预的基础。这一区分是宏观政策的基石：若货币完全中性，货币政策毫无意义；若非中性长期成立，则印钞可以永久提高产出（被历史否定）。争论在于\"短期有多长\"——这决定了政策的空间。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币中性：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币供给变化 → 名义价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>实际变量（产出、就业）不</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>货币政策只决定名义尺度（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-neutrality-of-money",
@@ -63,5 +63,5 @@
     "money-supply"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作EC】补写概念辨析。"
 }

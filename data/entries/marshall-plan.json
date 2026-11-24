@@ -62,7 +62,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**一般发展援助**的区别在\"目的与设计\"：马歇尔计划（1948—1952）是美国对西欧的大规模经济援助，目的是重建战后经济、遏制共产主义影响、并创造美国出口市场；一般发展援助针对贫困国家的基础需求。其独特之处是**赠款为主、要求受援国协调**（OEEC）、并附带市场开放与稳定化条件。它常被引为\"成功的国际援助\"范例，但条件（工业基础、治理能力、地缘政治动机）难以复制。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>马歇尔计划：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>二战后西欧经济凋敝、政治</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>美国提供资金与技术援助（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持复苏与贸易重建 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-marshall-plan",
@@ -70,5 +70,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】 【续作EC】补写概念辨析。"
 }

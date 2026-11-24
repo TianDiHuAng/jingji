@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**资本错配**的关系是\"学派术语与一般概念\"：错误投资是奥地利学派的特定概念（低利率扭曲跨期价格信号→资本过度配置到长期项目）；资本错配是更一般的描述（资源流向低回报用途，成因可以是补贴、软预算约束、政治干预）。奥地利学派强调\"危机是错误投资的必要清算\"，这一规范性结论未被主流接受；但\"低利率与信贷繁荣导致资源错配\"的机制被广泛认可（只是不必然要求清算）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>错误投资（奥地利学派）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行压低利率至自然利率以</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资本涌入长期项目 → 资</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>利率回升或信贷停止 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-malinvestment",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作EC】补写概念辨析。"
 }

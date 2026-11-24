@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**发展中国家**的区别在\"起点制度\"：转轨经济从**计划经济**出发（国有制、价格管制、无金融市场），需同时完成市场化、私有化与制度建设；发展中国家多从市场经济起步。这一区别使其危机形态独特：转型性衰退（产出骤降）、恶性通胀（价格自由化+货币扩张）、监管真空（阿尔巴尼亚金字塔、俄罗斯1998）。\"休克疗法 vs 渐进\"之争即源于此。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>转轨经济：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格与贸易自由化 + 私</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>金融体系重建但监管能力不</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财政能力削弱 + 货币扩</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-transition-economy",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作EC】补写概念辨析。"
 }

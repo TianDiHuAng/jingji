@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**储备货币**的区别在\"非流通性\"：SDR 是IMF创设的**补充储备资产**，不是可流通货币，只能用于成员国之间与IMF的结算；储备货币（美元、欧元）是可自由使用的实际货币。SDR 的作用有限（不能直接干预市场），但常被讨论作为\"超主权储备货币\"的可能性（2009年周小川提议），政治阻力极大。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>特别提款权(SDR)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>全球储备资产供给依赖少数</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>IMF 按份额分配 SD</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>SDR 不能直接用于市场</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-special-drawing-rights",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作CN】已用更完整的版本更新正文。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作CN】已用更完整的版本更新正文。 【续作EC】补写概念辨析。"
 }

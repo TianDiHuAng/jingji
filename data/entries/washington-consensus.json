@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**后华盛顿共识**的区别在\"政策清单与反思\"：华盛顿共识（1989）是IMF/世行/美国财政部推崇的十项政策（财政纪律、私有化、自由化、放松管制等）；后华盛顿共识（1990年代末）承认制度、分配与渐进性的重要性，强调\"没有放之四海皆准的模板\"。这一转变的背景是：拉美\"失去的十年\"、转型经济的产出崩溃、亚洲危机的教训——证明市场化清单不足以带来增长。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>华盛顿共识：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>发展中国家陷入危机 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以十项政策处方（自由化、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>改革效果参差，引发对\"标</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-washington-consensus",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】 【续作EC】补写概念辨析。"
 }

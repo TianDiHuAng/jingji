@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**实证经济学**的区别在\"规范与否\"：福利经济学研究**资源配置的社会合意性**（效率、公平），是规范性的；实证经济学只描述\"是什么\"。其核心工具是帕累托效率与社会福利函数。在危机政策中，福利经济学提供了评价框架：救助的收益（避免系统性崩溃）与成本（道德风险、财政负担）需要放在同一尺度上比较——但\"如何加权不同群体的得失\"本身是价值判断。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>福利经济学：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>资源配置影响个体与总体福</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>市场失灵使配置偏离最优 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>再分配与效率之间存在权衡</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-welfare-economics",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AK】 【续作EC】补写概念辨析。"
 }

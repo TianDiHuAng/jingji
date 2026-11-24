@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**商业革命**的区别在\"生产vs交换\"：商业革命（15—17世纪）扩展了贸易网络、金融工具与殖民体系（交换的扩张）；工业革命（18世纪末起）改变了**生产方式**（机械化、工厂制），使产出与生产率爆发式增长。两者共同构成现代经济增长的起点，但工业革命才是\"人均收入持续上升\"的转折点——在此之前，增长总是被人口增长吞噬（马尔萨斯陷阱）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>工业革命：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>农业革命与要素供给改善 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>机器生产与工厂制度扩散 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>生产率与收入结构转变 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-industrial-revolution",
@@ -63,5 +63,5 @@
     "economic-history"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】 【续作EC】补写概念辨析。"
 }

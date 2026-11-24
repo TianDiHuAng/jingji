@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**规则**的区别在\"承诺的强度\"：前瞻指引是央行就未来政策路径的**沟通**（如\"在失业率降至6.5%前不加息\"），可以是\"德尔菲式\"（定性）或\"日历式\"（时点）或\"状态依赖\"（门槛）；规则（如泰勒规则）是**公式化的政策反应函数**。前瞻指引的优点是灵活、可微调；弱点是**可信度依赖**——若市场不信，指引无效；若市场太信而央行不得不偏离，则损害信誉。2013年\"缩减恐慌\"即是沟通失误的典型案例。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>前瞻指引：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>央行发布未来政策路径指引</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期变化传导至长期利率与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>支持需求（承诺\"更长时间</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-forward-guidance",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EC】补写概念辨析。"
 }

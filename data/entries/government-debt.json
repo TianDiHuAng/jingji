@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**私人债务**的区别在\"能否印钞\"：主权政府可以发行本币债务、由央行购买（货币化），因此本币债务的违约风险远低于外币债务（\"原罪\"问题）；私人部门无法印钞，只能靠收入或再融资偿债。这一区别解释了为何\"债务/GDP相同\"的国家风险可以天差地别——关键在于债务的**币种结构**与央行的独立性。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>政府债务：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府支出超过收入 → 形</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>赤字通过借贷融资 → 政</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>债务可持续性取决于利率与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-government-debt",
@@ -63,5 +63,5 @@
     "global-debt"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作EC】补写概念辨析。"
 }

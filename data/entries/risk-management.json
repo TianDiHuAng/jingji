@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**风险管理**（实务）的区别在\"框架层次\"：风险管理作为学科包含识别、度量（VaR、压力测试）、缓释（对冲、分散、资本）与治理（限额、独立风控）四个环节；而实务中的\"风控\"常被简化为合规检查。2008年的教训是：度量工具（VaR）在极端情形下失效，治理缺陷（董事会不看风险）比模型更致命。因此危机后的改革强调**治理与文化**而非仅仅模型。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>风险管理：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>识别与评估风险 → 形成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以限额、对冲与资本缓冲控</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>模型或激励失灵 → 风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-risk-management",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EC】补写概念辨析。"
 }

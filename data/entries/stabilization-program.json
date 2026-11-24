@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**结构性改革**的区别在\"时间与目标\"：稳定化计划针对**短期宏观失衡**（通胀、赤字、储备流失），工具是汇率、财政、货币与外部融资；结构性改革针对**长期供给能力**（产权、监管、劳动市场、国企改革），见效慢。两者的顺序是长期争论：\"先稳定后改革\"（华盛顿共识）vs \"改革促稳定\"（渐进主义）。危机中的现实多是先稳定（否则政治崩溃），但只稳定不改革会导致反复（拉美1980s）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>稳定化政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内外失衡（通胀、赤字、储</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率调整 + 财政紧缩 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>紧缩压低需求 → 产出与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-stabilization-policy",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】 【续作EC】补写概念辨析。"
 }

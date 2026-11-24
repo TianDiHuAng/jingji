@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**道德风险**的区别在\"时点与问题\"：柠檬市场是**交易前**的逆向选择（买方无法识别质量→只愿出平均价→优质方退出）；道德风险是**交易后**的行为改变（被保险后更冒险）。在信贷中的对应：逆向选择解释\"为何银行配给而非提价\"（提价会赶走低风险借款人）；道德风险解释\"为何需要贷款契约约束\"。证券化把两者都放大：发起方不持有风险（道德风险），投资者无法评估底层资产（逆向选择）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>柠檬市场（信息不对称与逆向选择）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>卖方掌握质量信息、买方不</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>高质量卖方退出 → 平均</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>市场萎缩或冻结 → 需以</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-lemons-market",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作DF】 【续作EC】补写概念辨析。"
 }

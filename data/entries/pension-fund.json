@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**主权财富基金**的区别在\"负债驱动vs资产驱动\"：养老基金有**明确的负债**（未来养老金支付），因此投资需匹配负债的规模、时点与久期（见 LDI 策略）；主权财富基金无确定负债，可追求收益最大化。这一区别在2022年英国LDI危机中极其关键：养老基金为匹配久期而使用杠杆对冲，反而在利率急升时被迫抛售（抵押品螺旋），成为系统性风险源。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>养老基金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>DB 计划负债久期长 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>对冲需缴纳抵押品 → 利</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>被迫抛售长期债券 → 收</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-pension-fund",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】 【续作EC】补写概念辨析。"
 }

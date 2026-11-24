@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**外汇储备**的区别在\"目的与风险偏好\"：主权财富基金为**后代储蓄或稳定财政**，可承担较高风险追求收益（挪威GPFG、阿布扎比ADIA）；外汇储备用于**干预汇率与偿付外债**，须高流动性低风险。两者在危机中的角色不同：储备是\"消防水\"（不能亏损），主权基金是\"长期储蓄\"（可在危机中逆周期投资，也可被政府抽调救急）。后者的风险是**治理与透明度**（谁决定投资、如何监督）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>主权财富基金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品出口收入或外汇储备积</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>全球配置股票、债券、地产</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>实现跨代储蓄与资产多元化</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sovereign-wealth-fund",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作EC】补写概念辨析。"
 }
