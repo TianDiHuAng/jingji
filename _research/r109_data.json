@@ -1,0 +1,30 @@
+{
+  "archegos": {
+    "title": "Archegos Capital Management",
+    "len": 5753,
+    "hits": [
+      "Archegos Capital Management was a limited partnership family office that managed the personal assets of Bill Hwang, at one time managing over $36 billion in assets.",
+      "Its derivative contracts \"exposed the firm to severe losses when the trades went bad.\" The Wall Street Journal reported that Hwang lost $8 billion in 10 days, while Bloomberg News reported that Hwang lost $20 billion in 2 days.",
+      "== History ==\nFormerly of Tiger Cub fund Tiger Asia Management, Hwang created the Archegos family office in 2013, with $10 billion under management as of 2020.",
+      "Its name is Greek for \"leader.\" Tiger Asia Management had previously pleaded guilty to insider trading of Chinese bank stocks in 2012 and paid a $44 million fine.",
+      "This sale was reported to be the cause of a 27% plunge in share price of ViacomCBS and a similar fall in the price of Discovery, Inc.",
+      "On March 29, the share price of Credit Suisse was down by 14%, while Nomura Holdings shares declined by 16%.",
+      "On March 30, Mitsubishi UFJ Financial Group (MUFG) securities arm declared a $300 million loss in its EMEA operations linked to Archegos.",
+      "The demise of Archegos helped drag the Nikkei 225 Index down by 0.77% on March 30, 2021, triggering a worldwide sell-off in banking stocks.",
+      "On April 6, 2021, Credit Suisse reported losses of $4.7 billion linked to its involvement with Archegos.",
+      "Later, the bank announced that it would have to raise up to $2 billion in fresh capital to support its equity base."
+    ],
+    "extract": "Archegos Capital Management was a limited partnership family office that managed the personal assets of Bill Hwang, at one time managing over $36 billion in assets. In November 2024, Hwang was sentenced to 18 years in prison on federal charges of fraud and racketeering.\nOn March 26, 2021, Archegos defaulted on margin calls from several global investment banks, including Credit Suisse and Nomura Holdings, as well as Goldman Sachs and Morgan Stanley. The firm had large, concentrated positions in ViacomCBS, Baidu, Vipshop, Farfetch, and other companies, and the firm's use of total return swaps had helped to hide its high exposure from lending banks. Its derivative contracts \"exposed the firm to severe losses when the trades went bad.\" The Wall Street Journal reported that Hwang lost $8 billio"
+  },
+  "ldi": {
+    "title": "Liability-driven investment strategy",
+    "len": 12284,
+    "hits": [
+      "A Bank of England speech reported that the Bank ultimately bought £19.3 billion of gilts during the operation.",
+      "Subsequent analysis using trade-level data found that forced sales by LDI funds created price discounts on the order of 7% to 10% at the peak, and that pooled LDI funds sold more than segregated mandates due to recapitalisation frictions.",
+      "The study reports pooled funds sold roughly 13 percentage points more of their gilt holdings and that discounts closed by the end of October.",
+      "Research after the 2022 gilt episode found that LDI selling created price discounts of about 7% at the peak and that pooled funds sold roughly 13 percentage points more of their gilt holdings than segregated mandates."
+    ],
+    "extract": "Liability-driven investment (LDI) is an asset–liability management approach that designs the asset portfolio around the size, timing, and risk profile of known obligations. It is used by defined benefit pension schemes and insurers to reduce funding volatility and to help ensure cash is available when benefits fall due. \nLDI techniques include cash-flow matching and duration matching. Schemes may also use interest rate and inflation swaps, gilt repos, and other derivatives to hedge sensitivity to market moves.\n\n\n== LDI for individuals ==\nIn personal retirement planning the approach first sets aside assets for essential spending. Investors then add return-seeking assets for discretionary goals, often using bond ladders or annuities to match near-term cash flows, with the remainder taking ma"
+  }
+}

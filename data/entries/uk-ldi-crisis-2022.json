@@ -1,0 +1,124 @@
+{
+  "id": "uk-ldi-crisis-2022",
+  "title": "英国LDI危机(2022)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "欧洲",
+  "crisis_type": "制度",
+  "one_line": "养老金LDI策略的利率对冲在国债收益率飙升时触发追加抵押，被迫抛售金边债形成自我强化下跌。",
+  "overview": "2022年英国\"迷你预算\"后，国债（金边债）收益率飙升，触发了以**负债驱动投资**(LDI) 为核心的养老金体系危机。LDI 是一种**资产负债管理方法**：围绕已知负债的规模、时点与风险特征来设计资产组合，被固定收益养老金计划与保险公司用于降低融资波动、确保到期有现金支付；其技术包括**现金流匹配与久期匹配**，并常使用利率互换等衍生品加杠杆对冲。危机机制是**抵押品螺旋**：收益率上升 → 互换头寸亏损 → 需追加抵押品 → 只能抛售金边债 → 价格进一步下跌、收益率再升。英格兰银行介入临时购债，据其演讲披露最终在操作中买入 **193亿英镑** 金边债。后续基于逐笔交易数据的研究发现：LDI 基金的被迫抛售在峰值造成约 **7%—10%** 的价格折价；池化(pooled)LDI 基金额外卖出了约 **13个百分点** 的金边债持仓，折价在10月底前收窄。该案例是\"**非银行金融机构＋杠杆＋抵押品**\"型危机的教科书样本，也说明养老金的\"安全资产\"策略在利率急变时可成为系统性风险源。具体数据待核实。",
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "2022年9—10月",
+      "event": "\"迷你预算\"后金边债收益率飙升，LDI触发追加抵押与被迫抛售",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年10月",
+      "event": "英格兰银行临时购债，累计买入193亿英镑金边债；折价在10月底前收窄",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "LDI 以利率互换等衍生品对冲久期 → 隐含杠杆",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "step": "国债收益率飙升 → 互换亏损、追加抵押 → 被迫抛售金边债",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "step": "抛售压低价格、推高收益率 → 自我强化的抵押品螺旋（峰值折价7%—10%）",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "英格兰银行临时购债规模",
+      "value": 19.3,
+      "unit": "十亿英镑（193亿）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：A Bank of England speech reported that the Bank ultimately bought £19.3 billion of gilts during the operation；单一来源待核实。",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "label": "LDI抛售造成的价格折价(峰值，下界)",
+      "value": 7,
+      "unit": "%（7%—10%区间下界）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：forced sales by LDI funds created price discounts on the order of 7% to 10% at the peak；单一来源待核实。",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "label": "LDI抛售造成的价格折价(峰值，上界)",
+      "value": 10,
+      "unit": "%（区间上界）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：on the order of 7% to 10% at the peak；单一来源待核实。",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "label": "池化LDI基金额外卖出的金边债持仓",
+      "value": 13,
+      "unit": "百分点（约）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：pooled funds sold roughly 13 percentage points more of their gilt holdings；单一来源待核实。",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "抵押品螺旋视角",
+      "view": "杠杆化对冲在利率急变时产生顺周期抛售，是危机核心",
+      "basis": "据折价与抛售数据归纳",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "holder": "监管缺口视角",
+      "view": "养老金此前未被作为系统性风险来源监管，杠杆与流动性错配未被充分覆盖",
+      "basis": "据事后研究归纳；因果待核实",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与2020年3月美国国债市场动荡、2023年硅谷银行（持有至到期债券的利率风险）机制同源：**利率急变 → 抵押品/资产价格下跌 → 被迫抛售 → 进一步下跌**。区别在于本次主体是养老金而非银行，且杠杆通过衍生品而非存款融资实现。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>英国LDI危机(2022)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>LDI 以利率互换等衍生</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>国债收益率飙升 → 互换</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>抛售压低价格、推高收益率</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-ldi",
+    "w-en-systemic-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CV】 【续作CV】补第二参考来源。"
+}

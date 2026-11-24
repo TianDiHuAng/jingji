@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 665,
+  "count": 667,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7977,6 +7977,30 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Settlement_risk",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-archegos",
+      "title": "Archegos Capital Management",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Archegos_Capital_Management",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API(full extract)核对(本会话抓取)"
+    },
+    {
+      "id": "w-en-ldi",
+      "title": "Liability-driven investment strategy",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Liability-driven_investment_strategy",
       "url2": null,
       "verified": true,
       "link_ok": true,

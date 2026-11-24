@@ -1,0 +1,151 @@
+{
+  "id": "archegos-2021",
+  "title": "Archegos 爆仓(2021)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U5 21世纪",
+  "period": "21世纪",
+  "region": "北美",
+  "crisis_type": "银行",
+  "one_line": "家族办公室以总收益互换隐藏高杠杆集中持仓，2021年3月保证金违约引发多家投行巨额损失。",
+  "overview": "Archegos Capital Management 是一家有限合伙形式的**家族办公室**，管理 Bill Hwang 的个人资产，一度管理超过 **360亿美元**。**2024年11月，Hwang 因联邦欺诈与敲诈勒索指控被判处18年监禁**。崩盘过程：**2021年3月26日**，Archegos 对多家全球投资银行的追加保证金通知违约，包括瑞信(Credit Suisse)、野村(Nomura) 等。其**衍生品合约\"在交易恶化时使公司暴露于严重损失\"**；据《华尔街日报》报道，**Hwang 在10天内损失了80亿美元**。强制平仓冲击了市场：据报道，这笔抛售被认为是 **ViacomCBS 股价暴跌27%** 的原因，Discovery 也出现类似跌幅。背景：Hwang 原属\"老虎幼崽\"基金 Tiger Asia Management，2013年设立 Archegos 家族办公室，**2020年管理规模为100亿美元**；Tiger Asia 曾于2012年对中资银行股票内幕交易认罪并支付 **4400万美元** 罚金。该案例的关键教训在于**披露与杠杆的不透明**：通过总收益互换(TRS)，家族办公室能在不触发大额持仓披露的情况下，对多家银行同时维持巨额集中敞口——每家银行只看到自己那一部分，无人看到全貌。具体规模与时序待核实。",
+  "timeline": [
+    {
+      "year": 2012,
+      "display": "2012年",
+      "event": "Tiger Asia 就中资银行股票内幕交易认罪，罚金4400万美元",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "year": 2013,
+      "display": "2013年",
+      "event": "Hwang 设立 Archegos 家族办公室",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年3月26日",
+      "event": "对多家投行追加保证金违约；10天内损失80亿美元",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年11月",
+      "event": "Hwang 因欺诈与敲诈勒索被判18年监禁",
+      "sources": [
+        "w-en-archegos"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "以总收益互换(TRS)建立跨多家银行的大额集中敞口 → 各银行只见局部、无人见全貌",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "step": "标的股价下跌触发追加保证金 → 2021年3月26日违约",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "step": "银行强制平仓 → 相关股票暴跌（ViacomCBS -27%），投行承担巨额损失",
+      "sources": [
+        "w-en-archegos"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "Archegos 管理资产峰值",
+      "value": 36,
+      "unit": "十亿美元（超360亿）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：at one time managing over $36 billion in assets；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "label": "Hwang 10天内损失",
+      "value": 8,
+      "unit": "十亿美元（80亿）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：The Wall Street Journal reported that Hwang lost $8 billion in 10 days；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "label": "管理规模(2020)",
+      "value": 10,
+      "unit": "十亿美元（100亿）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：Hwang created the Archegos family office in 2013, with $10 billion under management as of 2020；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "label": "Hwang 刑期",
+      "value": 18,
+      "unit": "年（2024年11月判决）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：In November 2024, Hwang was sentenced to 18 years in prison on federal charges of fraud and racketeering；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "label": "ViacomCBS 因强制平仓的跌幅",
+      "value": -27,
+      "unit": "%",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：reported to be the cause of a 27% plunge in share price of ViacomCBS；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "holder": "披露缺口视角",
+      "view": "衍生品敞口不透明使风险在多家机构间叠加而无人可见",
+      "basis": "据TRS安排与损失分布归纳",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "holder": "杠杆视角",
+      "view": "家族办公室缺乏资本与流动性约束，可承受极高杠杆",
+      "basis": "据10天损失80亿归纳；因果待核实",
+      "sources": [
+        "w-en-archegos"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "与LTCM(1998，见 ltcm)同属\"高杠杆＋不透明＋多家银行对手方\"的组合，但规模来源不同：LTCM 是基金＋模型失效，Archegos 是家族办公室＋衍生品隐藏持仓。2023年瑞信之倒闭与其在Archegos与Greensill上的损失直接相关。具体异同待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Archegos 爆仓(2021)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以总收益互换(TRS)建</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>标的股价下跌触发追加保证</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>银行强制平仓 → 相关股</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-archegos",
+    "w-en-credit-suisse-2023"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CV】 【续作CV】补第二参考来源。"
+}
