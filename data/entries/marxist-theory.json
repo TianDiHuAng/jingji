@@ -12,19 +12,19 @@
   "timeline": [],
   "causal_chain": [
     {
-      "step": "理论问题的提出 → 对危机成因的不同解释路径",
+      "step": "资本积累推动资本有机构成提高 → 活劳动占比下降，一般利润率趋于下降",
       "sources": [
-        "w-en-financial-crisis"
+        "w-en-marxist-economics"
       ]
     },
     {
-      "step": "不同学派基于各自假设 → 形成分歧的观点",
+      "step": "工资受压制限制消费能力 → 产能扩张无法实现（生产过剩/实现危机）",
       "sources": [
-        "w-en-austrian-school-of-economics"
+        "w-en-marxist-economics"
       ]
     },
     {
-      "step": "争论推动理论演化 → 危机解释框架更新",
+      "step": "危机以破产与资本贬值强制重建盈利条件，构成周期性循环",
       "sources": [
         "w-en-marxist-economics"
       ]
@@ -71,5 +71,5 @@
     "contagion"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次4补源】新增来源 w-en-marxist-economics，具体适用待核实。 【续作BX】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次4补源】新增来源 w-en-marxist-economics，具体适用待核实。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作CH】因果链已定制。"
 }
