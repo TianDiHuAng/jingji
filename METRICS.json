@@ -946,6 +946,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "related覆盖 312→416条(70%)；发现47个待补建概念并记入BACKLOG",
       "note": "DG再建10组关联(财政政策/增长与发展/微观与制度基础/银行与机构史/抵押证券化与信用/宏观指标与工具/发展议题/国际协调),为104条条目补related,覆盖312→416条(70%)。过程中发现47个被引用但不存在的概念(含bank-resolution/counterparty-risk/prisoners-dilemma/property-rights等机制概念,以及savings/investment/demand/growth等基础概念),已按价值分两档记入BACKLOG.md待补。"
+    },
+    {
+      "round": "续作DH-DI",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 30,
+      "reviewed": 30,
+      "fixed": 0,
+      "sources_total": 694,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "**案例类对照分析 0 缺失**；comparison 194→241",
+      "note": "维基百科API全站不可达(URLError,连续3次重试失败;OWID正常故为站侧问题),已记入BLOCKERS.md并转为不依赖新数据源的工作。DH/DI为30条案例补写实质性对照分析(此前19条案例comparison为空),重点是有分析价值的两两对照:1987vs1929(同为暴跌但后果迥异,差别在FDIC与最后贷款人)/LTCMvsArchegos(协调私营救助vs无监管介入)/冰岛vs爱尔兰(弃银行保主权vs兜底银行转主权危机)/铁路狂热vs互联网泡沫(真实技术革命引发过度投资)/魏玛vs津巴布韦vs委内瑞拉(赤字货币化但外生约束性质不同)。comparison覆盖241条。"
     }
   ]
 }
