@@ -1174,6 +1174,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "related 416→504条(85%)",
       "note": "维基第19轮不可达。EF为90条条目按六个主题建立关联（国际金融与汇率、货币政策、金融工具与结构、风险与监管、危机史与制度、基础概念），related覆盖 416→504条（85%）。过程中又发现19个基础概念缺失：convergence/counterparty-risk/disclosure/dividend/effective-demand/equity-premium/expectations/externalities/growth/market-failure/proprietary-trading/recession/regulatory-arbitrage/rent-seeking/subordination/taper-tantrum/term-premium/utility/special-drawing-rights，**多为经济学最基础的概念**（增长、预期、效用、衰退、市场失灵、寻租），再次印证此前判断：本站概念覆盖偏向\"金融专门术语\"，而基础经济学地基不完整。已记入BACKLOG。当前：comparison 592/592、related 504/592、key_data 357。"
+    },
+    {
+      "round": "续作EG-EH",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 89,
+      "reviewed": 89,
+      "fixed": 0,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "**related 100% 全覆盖（592/592）**",
+      "note": "维基第20轮不可达。EG/EH两批共为89条条目建立关联，**related达成100%全覆盖（592/592）**。至此**全站每个条目都同时具有 comparison（与其他条目的对照分析）与 related（语义关联）**，知识网络的两个维度均已关闭缺口。EG按主题建关联（制度机构/理论概念/案例），EH补完最后16条（ALM/指券/救助/以邻为壑/黑市/债券危机1994/看涨期权/资本结构/央行独立性/中央对手方/熔断/商业革命/商品价格指数/大陆币/可转债/创造性破坏）。过程中又发现3个缺失：recession（衰退，基础概念）、modigliani-miller（资本结构定理）、counterparty-risk（对手方风险）。当前：comparison 592/592（100%）、related 592/592（100%）、key_data 357、案例政策 85/205（41%，已达来源上限）。"
     }
   ]
 }
