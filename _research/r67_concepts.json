@@ -1,0 +1,67 @@
+{
+  "volatility": {
+    "title": "Volatility (finance)",
+    "extract": "In finance, volatility is the degree of variation of a trading price series over time, usually measured by the standard deviation of logarithmic returns.",
+    "slug": "Volatility_(finance)"
+  },
+  "diversification": {
+    "title": "Diversification (finance)",
+    "extract": "In finance, diversification is the process of allocating capital in a way that reduces the exposure to any one particular asset or risk. A common path towards diversification is to reduce risk or volatility by investing in a variety of assets. If asset prices do not change in perfect synchrony, a diversified portfolio will have less variance than the weighted average variance of its constituent assets, and often less volatility than the least volatile of its constituents.",
+    "slug": "Diversification_(finance)"
+  },
+  "risk-management": {
+    "title": "Risk management",
+    "extract": "Risk management is the identification, evaluation, and prioritization of risks, followed by the minimization, monitoring, and control of the impact or probability of those risks occurring. Risks can come from various sources, including uncertainty in international markets, political instability, dangers of project failures, legal liabilities, credit risk, accidents, natural causes and disasters, deliberate attack from an adversary, or events of uncertain or unpredictable root-cause. Retail traders also apply risk management by using fixed percentage position sizing and risk-to-reward frameworks to avoid large drawdowns and support consistent decision-making under pressure.",
+    "slug": "Risk_management"
+  },
+  "alm": {
+    "title": "Asset and liability management",
+    "extract": "Asset and liability management (ALM) is the term covering tools and techniques used by a bank or other corporate to minimise exposure to market risk and liquidity risk through holding the optimum combination of assets and liabilities.\nIt sometimes refers more specifically to the practice of managing financial risks that arise due to mismatches - \"duration gaps\" - between the assets and liabilities, on the firm's balance sheet or as part of an investment strategy.",
+    "slug": "Asset-liability_management"
+  },
+  "prudential-regulation": {
+    "title": "Financial regulation",
+    "extract": "Financial regulation is a broad set of policies that apply to the financial sector in most jurisdictions, justified by two main features of finance: systemic risk, which implies that the failure of financial firms involves public interest considerations; and information asymmetry, which justifies curbs on freedom of contract in selected areas of financial services, particularly those that involve retail clients and/or principal–agent problems. An integral part of financial regulation is the supervision of designated financial firms and markets by specialized authorities such as securities commissions and bank supervisors.",
+    "slug": "Prudential_regulation"
+  },
+  "fx-intervention": {
+    "title": "Currency intervention",
+    "extract": "Currency intervention, also known as foreign exchange market intervention or currency manipulation, is a monetary policy operation. It occurs when a government or central bank buys or sells foreign currency in exchange for its own domestic currency, generally with the intention of influencing the exchange rate and trade policy.",
+    "slug": "Foreign_exchange_intervention"
+  },
+  "sterilization": {
+    "title": "Sterilization (economics)",
+    "extract": "In macroeconomics, sterilization is action taken by a country's central bank to counter the effects on the money supply caused by a balance of payments surplus or deficit.\nThis can involve open market operations undertaken by the central bank whose aim is to neutralize the impact of associated foreign exchange operations. The opposite is unsterilized intervention, where monetary authorities have not insulated their country's domestic money supply and internal balance against foreign exchange intervention.",
+    "slug": "Sterilization_(economics)"
+  },
+  "moral-suasion": {
+    "title": "Moral suasion",
+    "extract": "Moral suasion is an appeal to morality, in order to influence or change behavior. A famous example is the attempt by William Lloyd Garrison and his American Anti-Slavery Society to end slavery in the United States by arguing that the practice was morally wrong.",
+    "slug": "Moral_suasion"
+  },
+  "hedging": {
+    "title": "Hedge (finance)",
+    "extract": "In finance, a hedge is an investment or contract that reduces the risk of losing money on another investment or business activity. Taking out a hedge is called hedging. It usually means taking an opposite position in a related asset, so that a loss on one is offset by a gain on the other. Hedges can be made with futures, forward contracts, options, swaps, insurance, and other financial instruments.",
+    "slug": "Hedge_(finance)"
+  },
+  "speculation": {
+    "title": "Speculation",
+    "extract": "In finance, speculation is the purchase of an asset with the hope that that asset will become more valuable in a brief amount of time.\nThe term can also refer to short sales, in which the speculator hopes to profit from a decline in the asset's value. Speculation often has a pejorative connotation, as the activity is linked to bubbles, economic downturns, and financial crises.",
+    "slug": "Speculation"
+  },
+  "arbitrage": {
+    "title": "Arbitrage",
+    "extract": "Arbitrage is the practice of taking advantage of a difference in prices in two or more markets – striking a combination of matching deals to capitalize on the difference, the profit being the difference between the market prices at which the unit is traded. Arbitrage has the effect of causing prices of the same or very similar assets in different markets to converge.",
+    "slug": "Arbitrage"
+  },
+  "market-maker": {
+    "title": "Market maker",
+    "extract": "A market maker is a firm or individual that provides liquidity by regularly quoting prices at which it is willing to buy an asset and sell it. It aims to earn the difference between those prices, known as the bid–ask spread, while managing the inventory and price risk created by its trades. By standing ready to trade on either side, market makers make it easier for other participants to buy or sell without waiting for a matching counterparty.",
+    "slug": "Market_maker"
+  },
+  "bid-ask": {
+    "title": "Bid–ask spread",
+    "extract": "The bid–ask spread is the difference between the prices quoted for an immediate sale (ask) and an immediate purchase (bid) for stocks, futures contracts, options, or currency pairs in some auction scenario. The size of the bid–ask spread in a security is one measure of the liquidity of the market and of the size of the transaction cost. If the spread is 0 then it is a frictionless asset.",
+    "slug": "Bid%E2%80%93ask_spread"
+  }
+}

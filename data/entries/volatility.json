@@ -1,0 +1,62 @@
+{
+  "id": "volatility",
+  "title": "波动率",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "交易价格序列随时间的变动程度，通常以对数收益率的标准差衡量。",
+  "overview": "在金融中，波动率是交易价格序列随时间的变动程度，通常以对数收益率的标准差来衡量。波动率是期权定价、风险度量（VaR）与资产配置的核心参数；波动率的突然上升常与市场压力相伴。具体度量方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "价格序列的离散程度 → 形成波动率",
+      "sources": [
+        "w-en-volatility"
+      ]
+    },
+    {
+      "step": "波动率上升 → 风险溢价与对冲成本上升",
+      "sources": [
+        "w-en-volatility"
+      ]
+    },
+    {
+      "step": "极端波动 → 保证金追缴与去杠杆",
+      "sources": [
+        "w-en-margin-finance"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "统计视角",
+      "view": "以收益率标准差刻画风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-volatility"
+      ]
+    },
+    {
+      "holder": "风险度量视角",
+      "view": "波动率是VaR与压力测试的输入",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "风险/市场微观结构概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>波动率：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>价格序列的离散程度 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>波动率上升 → 风险溢价</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>极端波动 → 保证金追缴</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-volatility",
+    "w-en-value-at-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+}

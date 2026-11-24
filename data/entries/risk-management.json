@@ -1,0 +1,62 @@
+{
+  "id": "risk-management",
+  "title": "风险管理",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "对风险进行识别、评估与排序，并最小化、监测和控制其影响或概率的过程。",
+  "overview": "风险管理是对风险进行识别、评估与排序，随后最小化、监测并控制这些风险的影响或概率（的过程）。在金融中，它涵盖信用、市场、流动性与操作风险的度量与治理。其有效性依赖模型假设与激励设计。具体方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "识别与评估风险 → 形成风险画像",
+      "sources": [
+        "w-en-risk-management"
+      ]
+    },
+    {
+      "step": "以限额、对冲与资本缓冲控制风险",
+      "sources": [
+        "w-en-risk-management"
+      ]
+    },
+    {
+      "step": "模型或激励失灵 → 风险在危机中集中暴露",
+      "sources": [
+        "w-en-value-at-risk"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "量化视角",
+      "view": "以VaR/压力测试度量与管理风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-risk-management"
+      ]
+    },
+    {
+      "holder": "治理视角",
+      "view": "激励、文化与问责决定有效性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-principal-agent"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "风险/市场微观结构概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>风险管理：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>识别与评估风险 → 形成</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以限额、对冲与资本缓冲控</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>模型或激励失灵 → 风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-risk-management",
+    "w-en-value-at-risk"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+}

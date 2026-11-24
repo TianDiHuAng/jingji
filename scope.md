@@ -490,3 +490,15 @@
 | insurance-history | 保险史 | 理论制度 | 全球 | 制度 | 重要 | 续作AL |
 | fiscal-military-state | 财政军事国家 | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
 | fiscal-capacity | 财政能力 | 见条目 | 见条目 | 见条目 | 见条目 | 续作AM |
+| volatility | 波动率 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| diversification | 分散化 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| risk-management | 风险管理 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| alm | 资产负债管理(ALM) | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| prudential-regulation | 金融监管 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| fx-intervention | 外汇干预 | 理论制度 | 全球 | 货币 | 重要 | 续作AV |
+| sterilization | 冲销操作 | 理论制度 | 全球 | 货币 | 重要 | 续作AV |
+| hedging | 套期保值 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| speculation | 投机 | 理论制度 | 全球 | 理论 | 重要 | 续作AV |
+| arbitrage | 套利 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| market-maker | 做市商 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |
+| bid-ask | 买卖价差 | 理论制度 | 全球 | 制度 | 重要 | 续作AV |

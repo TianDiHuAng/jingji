@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 558,
+  "count": 570,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -6697,6 +6697,150 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-volatility",
+      "title": "Volatility (finance)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Volatility_(finance)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-diversification",
+      "title": "Diversification (finance)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Diversification_(finance)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-risk-management",
+      "title": "Risk management",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Risk_management",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-alm",
+      "title": "Asset and liability management",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Asset-liability_management",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-prudential-regulation",
+      "title": "Financial regulation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Prudential_regulation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-fx-intervention",
+      "title": "Currency intervention",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Foreign_exchange_intervention",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-sterilization",
+      "title": "Sterilization (economics)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Sterilization_(economics)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-hedging",
+      "title": "Hedge (finance)",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Hedge_(finance)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-speculation",
+      "title": "Speculation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Speculation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-arbitrage",
+      "title": "Arbitrage",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Arbitrage",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-market-maker",
+      "title": "Market maker",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Market_maker",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-bid-ask",
+      "title": "Bid–ask spread",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
     }
   ]
 }

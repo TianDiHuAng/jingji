@@ -1,0 +1,62 @@
+{
+  "id": "speculation",
+  "title": "投机",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "购买资产以期其在短期内升值的行为；亦指卖空等操作。",
+  "overview": "在金融中，投机是购买资产、期望该资产在短时间内变得更有价值的行为。该词也可指卖空等操作。投机提供流动性并推动价格发现，但过度投机可能催生泡沫；其与投资的界限在实践中并不清晰。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "预期价格短期上涨 → 买入资产",
+      "sources": [
+        "w-en-speculation"
+      ]
+    },
+    {
+      "step": "买盘推高价格 → 吸引更多投机资金",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "step": "预期逆转 → 价格崩跌",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "功能视角",
+      "view": "投机提供流动性与价格发现",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculation"
+      ]
+    },
+    {
+      "holder": "泡沫视角",
+      "view": "过度投机使价格脱离基本面",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "风险/市场微观结构概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>投机：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>预期价格短期上涨 → 买</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>买盘推高价格 → 吸引更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>预期逆转 → 价格崩跌</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-speculation",
+    "w-en-speculative-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+}
