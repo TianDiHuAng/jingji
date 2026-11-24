@@ -23,7 +23,8 @@
 │   ├── check_quality.py  HTML结构检查（标题层次/重复id/meta/表格th等10项）
 │   ├── check_kd.py       key_data 数值可核对性（对照来源全文）
 │   ├── check_polnum.py   policy_response 数字核对（含亿/万换算）
-│   └── check_sources.py  来源可达性抽样（verified=true 是否真可达）
+│   ├── check_sources.py  来源可达性抽样（verified=true 是否真可达）
+│   └── check_body_num.py 正文数字溯源（overview/comparison/one_line）
 └── site/
     ├── index.html        首页
     ├── style.css         浅/深双模式样式（CSS变量）
@@ -42,6 +43,7 @@ python tools/check_quality.py # HTML结构检查：0 problem
 python tools/check_kd.py      # key_data 数值核对：对照来源全文
 python tools/check_polnum.py  # 政策段数字核对：392个全部可溯源
 python tools/check_sources.py # 来源可达性抽样（默认30个）
+python tools/check_body_num.py # 正文数字溯源（排除年份引用）
 ```
 
 ## 设计原则
