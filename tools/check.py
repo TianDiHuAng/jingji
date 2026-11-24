@@ -316,6 +316,16 @@ def main():
             err('R23', _e.get('id', '?'), 'tier=核心 但 level=%s（应为 L3）' % _lv)
         elif _t == '重要' and _lv not in ('L2', 'L3'):
             err('R23', _e.get('id', '?'), 'tier=重要 但 level=%s（应为 L2/L3）' % _lv)
+    # R24 每条目应至少被一条 related 引用（防"相关条目孤岛"，仅 warning）
+    if len(entries) > 1 and not single:
+        _inb = {e.get('id'): 0 for e in entries}
+        for _e in entries:
+            for _r in (_e.get('related') or []):
+                if _r in _inb:
+                    _inb[_r] += 1
+        for _id, _c in _inb.items():
+            if _c == 0:
+                warn('R24', _id, '无任何 related 入链（相关条目孤岛）')
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

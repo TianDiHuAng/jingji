@@ -310,6 +310,17 @@ def m_r23():
 
 case('R23 核心未达L3', m_r23, ['tools/check.py'], 'R23', [CORE_ENT])
 
+CB_ENT = os.path.join(ENT, 'currency-board.json')
+
+
+def m_r24():
+    d = json.load(open(CB_ENT, encoding='utf-8'))
+    d['related'] = [r for r in d.get('related', []) if r != 'cook-islands-currency']
+    json.dump(d, open(CB_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R24 related孤岛', m_r24, ['tools/check.py'], 'R24', [CB_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 

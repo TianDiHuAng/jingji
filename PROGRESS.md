@@ -2312,6 +2312,13 @@
 - check_polnum「完全找不到」= 0；十一道检查全绿。
 - 现状：**641 条**、来源 **742**、页面 **655**；案例政策 **156/209**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 28/28。
 
+- **维基百科第 134 轮可用（round 154）**。**网络仍不可用；修 related 孤岛并加 R24**。
+- **网络复测**：en wikipedia 仍 URLError，本会话持续不可用。
+- **related 一致性复核**：发现 **3 条条目无任何 related 入链**（`cook-islands-currency`／`haitian-independence-debt`／`recession-1960-1961`）。注意：另 366 处「单向 related」多为**枢纽概念被广泛引用**（如 bank-run 被数百条指向），**全对称会让枢纽 related 爆炸，不宜强行对称**；仅对这 3 条各补一条反向链接（currency-board／sovereign-default／recession）。修后 **related 孤岛 = 0**。
+- **固化为检查 R24**：每条目应至少被一条 related 引用，否则 warning。注入测试确认能捕获。
+- **纳入自测**：新增「R24 related孤岛」用例，自测 28 → **29 项**；同步更新 HEALTH_CHECK（R1–R24、自测 29）。
+- 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 29/29。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
