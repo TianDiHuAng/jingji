@@ -56,7 +56,11 @@
     "w-en-quantitative-tightening",
     "w-en-monetary-policy"
   ],
-  "related": [],
+  "related": [
+    "interest-rate",
+    "open-market-operation",
+    "quantitative-easing"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。"
 }

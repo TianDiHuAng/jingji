@@ -85,7 +85,12 @@
     "w-en-railway-mania",
     "w-en-speculative-bubble"
   ],
-  "related": [],
+  "related": [
+    "dotcom-bubble-2000",
+    "industrial-revolution",
+    "panic-1847",
+    "speculative-bubble"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。"
 }

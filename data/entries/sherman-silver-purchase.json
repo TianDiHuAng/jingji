@@ -65,7 +65,12 @@
     "w-en-sherman-silver-purchase",
     "w-en-gold-standard"
   ],
-  "related": [],
+  "related": [
+    "bimetallism",
+    "gold-standard",
+    "panic-1893",
+    "silver-standard"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

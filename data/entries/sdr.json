@@ -65,7 +65,11 @@
     "w-en-special-drawing-rights",
     "w-en-triffin-dilemma"
   ],
-  "related": [],
+  "related": [
+    "imf",
+    "reserve-currency",
+    "triffin-dilemma"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作CN】已用更完整的版本更新正文。 【续作EC】补写概念辨析。"
 }

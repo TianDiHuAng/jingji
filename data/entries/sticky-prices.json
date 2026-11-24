@@ -56,7 +56,12 @@
     "w-en-sticky-prices",
     "w-en-menu-cost"
   ],
-  "related": [],
+  "related": [
+    "menu-cost",
+    "monetary-transmission",
+    "new-keynesian",
+    "phillips-curve"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EB】补写概念辨析。"
 }

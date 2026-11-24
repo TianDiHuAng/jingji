@@ -68,7 +68,12 @@
     "w-en-debt-crisis",
     "w-en-structural-adjustment"
   ],
-  "related": [],
+  "related": [
+    "austerity",
+    "conditionality",
+    "imf",
+    "washington-consensus"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：结构与数据据维基全文，单源待核实。【续作BO】"
 }

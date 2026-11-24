@@ -74,7 +74,12 @@
     "w-en-roman-currency",
     "w-en-hyperinflation"
   ],
-  "related": [],
+  "related": [
+    "commodity-money",
+    "crisis-third-century",
+    "debasement",
+    "inflation"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体年代与数据待核实。【续作BB】"
 }

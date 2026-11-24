@@ -85,7 +85,12 @@
     "w-en-recession-1920-1921",
     "w-en-business-cycle"
   ],
-  "related": [],
+  "related": [
+    "business-cycle",
+    "deflation",
+    "great-depression",
+    "recession-1937-1938"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AP】补关键数据（单源）。 【续作CE】补齐时间线。"
 }

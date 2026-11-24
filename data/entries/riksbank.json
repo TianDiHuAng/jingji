@@ -65,7 +65,12 @@
     "w-en-riksbank",
     "w-en-central-bank"
   ],
-  "related": [],
+  "related": [
+    "bank-of-england",
+    "central-bank",
+    "fiat-money",
+    "history-of-banking"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】"
 }

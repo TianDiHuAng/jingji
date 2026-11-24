@@ -56,7 +56,12 @@
     "w-en-silver-standard",
     "w-en-gold-standard"
   ],
-  "related": [],
+  "related": [
+    "bimetallism",
+    "gold-standard",
+    "panic-1896",
+    "sherman-silver-purchase"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作EC】补写概念辨析。"
 }

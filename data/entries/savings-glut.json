@@ -56,7 +56,12 @@
     "w-en-savings-glut",
     "w-en-global-imbalances"
   ],
-  "related": [],
+  "related": [
+    "current-account",
+    "global-imbalances",
+    "reserve-currency",
+    "secular-stagnation"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作EA】补写概念辨析。"
 }

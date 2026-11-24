@@ -73,7 +73,12 @@
     "w-en-second-bank",
     "w-en-free-banking"
   ],
-  "related": [],
+  "related": [
+    "first-bank",
+    "free-banking",
+    "national-banking-act",
+    "panic-1819"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }
