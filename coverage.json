@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "total": 635,
+  "total": 636,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -8246,6 +8246,19 @@
     },
     {
       "id": "liquidity-coverage-ratio",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "bank-resolution",
       "level": "L2",
       "tier": "重要",
       "status": "written",
