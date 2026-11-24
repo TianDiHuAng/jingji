@@ -1,0 +1,62 @@
+{
+  "id": "competitive-devaluation",
+  "title": "货币战争（竞争性贬值）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "各国通过使本币汇率相对下跌来获取贸易优势的国际状况。",
+  "overview": "货币战争（亦称竞争性贬值）是国际事务中的一种状况：各国试图通过使本国货币汇率相对（他国）下跌来获得贸易优势。此类政策可能引发报复循环、损害国际贸易，是1930年代大萧条恶化的重要因素之一。具体案例待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "出口竞争力压力 → 寻求本币贬值",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    },
+    {
+      "step": "他国报复性贬值 → 形成贬值竞赛",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    },
+    {
+      "step": "贸易与资本流动受扰 → 全球经济受损",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "以邻为壑视角",
+      "view": "贬值转嫁调整成本、损害集体福利",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    },
+    {
+      "holder": "协调视角",
+      "view": "需国际协调以避免贬值竞赛",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>货币战争（竞争性贬值）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>出口竞争力压力 → 寻求</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>他国报复性贬值 → 形成</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>贸易与资本流动受扰 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-currency-war",
+    "w-en-beggar-thy-neighbour"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

@@ -509,3 +509,11 @@
 | history-of-money | 货币史 | 理论制度 | 全球 | 货币 | 重要 | 续作AW |
 | history-of-banking | 银行史 | 理论制度 | 全球 | 制度 | 重要 | 续作AW |
 | economic-history | 经济史 | 理论制度 | 全球 | 理论 | 重要 | 续作AW |
+| plaza-accord | 广场协议(1985) | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| louvre-accord | 卢浮宫协议(1987) | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| de-dollarization | 去美元化 | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| currency-internationalization | 人民币国际化 | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| exorbitant-privilege | 过高特权 | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| competitive-devaluation | 货币战争（竞争性贬值） | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| beggar-thy-neighbour | 以邻为壑政策 | 理论制度 | 全球 | 理论 | 重要 | 续作AX |
+| international-monetary-system | 国际货币体系 | 理论制度 | 全球 | 货币 | 重要 | 续作AX |

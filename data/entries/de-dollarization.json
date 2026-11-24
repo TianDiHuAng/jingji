@@ -1,0 +1,62 @@
+{
+  "id": "de-dollarization",
+  "title": "去美元化",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "政府、企业与市场参与者减少在储备、贸易计价结算、跨境金融与国内交易中使用美元的努力。",
+  "overview": "去美元化指政府、企业与市场参与者减少在储备、贸易计价与结算、跨境金融以及国内交易中使用美元的努力。其动机多样（政治、制裁风险、汇率稳定等），但美元的网络效应使替代进程缓慢。具体进展待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "对美元依赖的担忧（制裁、汇率传导）→ 寻求替代",
+      "sources": [
+        "w-en-de-dollarization"
+      ]
+    },
+    {
+      "step": "以本币或第三方货币结算、增持非美元储备",
+      "sources": [
+        "w-en-de-dollarization"
+      ]
+    },
+    {
+      "step": "网络效应与惯性 → 进程缓慢（有争议）",
+      "sources": [
+        "w-en-reserve-currency"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "多元化视角",
+      "view": "去美元化可降低单一货币依赖风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-de-dollarization"
+      ]
+    },
+    {
+      "holder": "惯性视角",
+      "view": "美元的网络外部性使替代极难",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-exorbitant-privilege"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>去美元化：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>对美元依赖的担忧（制裁、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以本币或第三方货币结算、</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>网络效应与惯性 → 进程</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-de-dollarization",
+    "w-en-reserve-currency"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

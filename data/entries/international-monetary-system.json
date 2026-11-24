@@ -1,0 +1,62 @@
+{
+  "id": "international-monetary-system",
+  "title": "国际货币体系",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "促进国际贸易、跨境投资与资本在国家间再配置的国际公认规则、惯例与支撑机构的集合。",
+  "overview": "国际货币体系是一套国际公认的规则、惯例与支撑机构，用以促进国际贸易、跨境投资以及资本在国家之间的总体再配置。其历史形态包括金本位、布雷顿森林体系与牙买加体系下的浮动汇率安排。体系设计影响调整负担的分配与危机传播。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "各国需共同规则以支持贸易与资本流动 → 形成国际货币体系",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    },
+    {
+      "step": "体系形态（金本位/固定/浮动）决定调整机制",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    },
+    {
+      "step": "体系缺陷或冲击 → 危机与体系变革",
+      "sources": [
+        "w-en-bretton-woods-system"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "规则视角",
+      "view": "稳定的规则降低交易成本与不确定性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    },
+    {
+      "holder": "权力视角",
+      "view": "体系反映主导国家的利益与货币地位",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-exorbitant-privilege"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国际货币体系：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>各国需共同规则以支持贸易</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>体系形态（金本位/固定/</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>体系缺陷或冲击 → 危机</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-international-monetary-system",
+    "w-en-bretton-woods-system"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

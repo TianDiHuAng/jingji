@@ -1,0 +1,62 @@
+{
+  "id": "beggar-thy-neighbour",
+  "title": "以邻为壑政策",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "一国试图以恶化他国经济问题的方式来解决自身经济问题的经济政策。",
+  "overview": "在经济学中，以邻为壑政策是一国试图通过那些倾向于恶化其他国家经济问题的手段，来解决自身经济问题的经济政策。典型如竞争性贬值、关税壁垒与资本管制。此类政策在大萧条期间盛行，被认为是危机深化的重要原因。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "本国失业与国际收支压力 → 采取保护或贬值措施",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    },
+    {
+      "step": "他国经济受损 → 报复与连锁反应",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    },
+    {
+      "step": "全球贸易萎缩 → 集体福利下降",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "集体行动视角",
+      "view": "单边自救导致集体受损",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-beggar-thy-neighbour"
+      ]
+    },
+    {
+      "holder": "协调视角",
+      "view": "国际协调可避免负和结果",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-international-monetary-system"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>以邻为壑政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>本国失业与国际收支压力 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>他国经济受损 → 报复与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>全球贸易萎缩 → 集体福</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-beggar-thy-neighbour",
+    "w-en-great-depression"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

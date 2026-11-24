@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 486,
+  "total": 494,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -6319,6 +6319,110 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "理论"
+    },
+    {
+      "id": "plaza-accord",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "louvre-accord",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "de-dollarization",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "currency-internationalization",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "exorbitant-privilege",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "competitive-devaluation",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
+    },
+    {
+      "id": "beggar-thy-neighbour",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "international-monetary-system",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "货币"
     }
   ]
 }

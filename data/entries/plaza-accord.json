@@ -1,0 +1,71 @@
+{
+  "id": "plaza-accord",
+  "title": "广场协议(1985)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "1985年9月22日法、西德、日、英、美在纽约广场酒店签署的联合协议，旨在使美元对（其他货币）贬值。",
+  "overview": "广场协议是1985年9月22日在纽约市广场酒店签署的联合协议，签署方为法国、西德、日本、英国与美国，目的是使美元相对于（其他主要货币）贬值。该协议是1980年代国际汇率协调的标志性事件，对日元升值与日本后续资产泡沫有重要影响。具体幅度待核实。",
+  "timeline": [
+    {
+      "year": 1985,
+      "display": "1985年9月22日",
+      "event": "五国在纽约广场酒店签署广场协议，联合干预使美元贬值（据 Wikipedia Plaza Accord）",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "1980年代美元大幅升值 → 美国贸易逆差扩大",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    },
+    {
+      "step": "五国联合干预 → 美元对日元、马克贬值",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    },
+    {
+      "step": "日元急升 → 日本转向宽松政策（与后续泡沫相关）",
+      "sources": [
+        "w-en-japanese-asset-price-bubble"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "协调干预视角",
+      "view": "联合干预可在短期显著改变汇率",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    },
+    {
+      "holder": "结构性视角",
+      "view": "汇率调整无法解决根本失衡",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-global-imbalances"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>广场协议(1985)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1980年代美元大幅升值</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>五国联合干预 → 美元对</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>日元急升 → 日本转向宽</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-plaza-accord",
+    "w-en-japanese-asset-price-bubble"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

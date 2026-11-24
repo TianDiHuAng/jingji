@@ -1,0 +1,71 @@
+{
+  "id": "louvre-accord",
+  "title": "卢浮宫协议(1987)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "货币",
+  "one_line": "1987年2月22日在巴黎签署的协议，旨在稳定国际货币市场并阻止美元在广场协议后继续下跌。",
+  "overview": "卢浮宫协议是1987年2月22日在巴黎签署的协议，旨在稳定国际货币市场、并阻止美元在1985年广场协议之后的持续下跌。它被视为对广场协议后汇率过度波动的修正尝试。其效果与后续市场反应（如1987年10月股灾）的关系存在讨论。具体内容待核实。",
+  "timeline": [
+    {
+      "year": 1987,
+      "display": "1987年2月22日",
+      "event": "七国在巴黎签署卢浮宫协议，试图稳定汇率、阻止美元续跌（据 Wikipedia Louvre Accord）",
+      "sources": [
+        "w-en-louvre-accord"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "广场协议后美元持续下跌、汇率波动加大",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    },
+    {
+      "step": "1987年2月卢浮宫协议 → 设定汇率目标区间以稳定市场",
+      "sources": [
+        "w-en-louvre-accord"
+      ]
+    },
+    {
+      "step": "协调的可持续性受各国政策分歧制约",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "协调视角",
+      "view": "目标区间可稳定预期",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-louvre-accord"
+      ]
+    },
+    {
+      "holder": "不可持续视角",
+      "view": "政策分歧使协调难以持久",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-currency-war"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "国际货币体系概念，与布雷顿森林、牙买加协定等条目互补；具体细节待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>卢浮宫协议(1987)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>广场协议后美元持续下跌、</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1987年2月卢浮宫协议</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>协调的可持续性受各国政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-louvre-accord",
+    "w-en-plaza-accord"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】"
+}

@@ -1,0 +1,42 @@
+{
+  "plaza-accord": {
+    "title": "Plaza Accord",
+    "extract": "The Plaza Accord was a joint agreement signed on September 22, 1985, at the Plaza Hotel in New York City, between France, West Germany, Japan, the United Kingdom, and the United States, to depreciate the U.S. dollar in relation to the French franc, the German Deutsche Mark, the Japanese yen and the British pound sterling by intervening in currency markets. The U.S. dollar depreciated significantly from the time of the agreement until it was replaced by the Louvre Accord in 1987. Some commentators believe the Plaza Accord contributed to the Japanese asset price bubble of the late 1980s.",
+    "slug": "Plaza_Accord"
+  },
+  "louvre-accord": {
+    "title": "Louvre Accord",
+    "extract": "The Louvre Accord was an agreement, signed on February 22, 1987, in Paris, that aimed to stabilize international currency markets and halt the continued decline of the US dollar after 1985 following the Plaza Accord. It was considered, from a relational international contract viewpoint, as a rational compromise solution between two ideal-type extremes of international monetary regimes: the perfectly flexible and the perfectly fixed exchange rates.",
+    "slug": "Louvre_Accord"
+  },
+  "de-dollarization": {
+    "title": "Dedollarisation",
+    "extract": "Dedollarisation refers to efforts by governments, firms and market participants to reduce the use of the U.S. dollar in reserves, trade invoicing and settlement, cross-border finance, and domestic transactions. Motivations are diverse, and include gaining greater economic independence, reducing exposure to U.S. monetary and sanctions policy, lowering currency mismatch and transaction costs, and building local market infrastructure. The channels of dedollarisation are distinct and progress is uneven across them.",
+    "slug": "De-dollarization"
+  },
+  "currency-internationalization": {
+    "title": "Internationalization of the renminbi",
+    "extract": "Since the late 2000s, the People's Republic of China (PRC) has sought to internationalize its official currency, the renminbi (RMB) or Chinese yuan (CNY). This initiative aims to reduce dependence on the United States dollar and enhance China's influence in the global financial system. Key strategies have included promoting the use of the yuan in international trade invoicing, cross-border lending, and bond issuance. Additionally, China has developed alternative payment systems such as the Cross-Border Interbank Payment System (CIPS) and the digital renminbi, facilitating transactions outside traditional networks like SWIFT. The establishment of central bank swap lines and the expansion of offshore yuan markets further support this goal.",
+    "slug": "Internationalization_of_the_renminbi"
+  },
+  "exorbitant-privilege": {
+    "title": "Exorbitant privilege",
+    "extract": "The term exorbitant privilege refers to the benefits that the United States, as the world's supplier of safe assets, derives from its own currency being the international reserve currency. These safe assets, primarily government debt, tend to be sold at higher prices than the debt of other governments. Exorbitant privilege enables the United States to borrow beyond the fiscal capacity of other states. It also reduces price volatility in U.S. foreign trade, and gives the U.S. the means to impose costly sanctions on other states.",
+    "slug": "Exorbitant_privilege"
+  },
+  "competitive-devaluation": {
+    "title": "Currency war",
+    "extract": "Currency war, also known as competitive devaluations, is a condition in international affairs where countries seek to gain a trade advantage over other countries by causing the exchange rate of their currency to fall in relation to other currencies. As the exchange rate of a country's currency falls, exports to other countries become more competitive, and imports into the country become more expensive. Both effects benefit the domestic industry, and thus employment, which receives a boost in demand from both domestic and foreign markets. However, the price increases for import goods are unpopular as they harm citizens' purchasing power; and when all countries adopt a similar strategy, it can lead to a general decline in international trade, harming all countries.",
+    "slug": "Competitive_devaluation"
+  },
+  "beggar-thy-neighbour": {
+    "title": "Beggar thy neighbour",
+    "extract": "In economics, a beggar-thy-neighbour policy is an economic policy through which one country attempts to remedy its economic problems by means that tend to worsen the economic problems of other countries.",
+    "slug": "Beggar_thy_neighbour"
+  },
+  "international-monetary-system": {
+    "title": "International monetary system",
+    "extract": "An international monetary system is a set of internationally agreed rules, conventions and supporting institutions that facilitate international trade, cross border investment and generally the reallocation of capital between states that have different currencies. It should provide means of payment acceptable to buyers and sellers of different nationalities, including deferred payment. To operate successfully, it needs to inspire confidence, to provide sufficient liquidity for fluctuating levels of trade, and to provide means by which global imbalances can be corrected. The system can grow organically as the collective result of numerous individual agreements between international economic factors spread over several decades. Alternatively, it can arise from a single architectural vision, as happened at Bretton Woods in 1944.",
+    "slug": "International_monetary_systems"
+  }
+}
