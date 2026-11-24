@@ -962,7 +962,7 @@
       "unit": "U5 21世纪",
       "period": "21世纪",
       "region": "全球",
-      "crisis_type": "泡沫"
+      "crisis_type": "银行"
     },
     {
       "id": "euro-area-crisis",
@@ -1690,7 +1690,7 @@
       "unit": "U6 理论与制度",
       "period": "理论制度",
       "region": "全球",
-      "crisis_type": "理论"
+      "crisis_type": "制度"
     },
     {
       "id": "impossible-trinity",
@@ -7687,7 +7687,7 @@
     },
     {
       "id": "growth",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
@@ -7700,7 +7700,7 @@
     },
     {
       "id": "recession",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
@@ -7713,7 +7713,7 @@
     },
     {
       "id": "utility",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,
@@ -7726,7 +7726,7 @@
     },
     {
       "id": "market-failure",
-      "level": "L2",
+      "level": "L3",
       "tier": "核心",
       "status": "written",
       "source_count": 1,

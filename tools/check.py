@@ -237,6 +237,16 @@ def main():
             warn('R12', 'coverage.json', f'条目 "{cid}" 在 scope 中但尚无条目文件')
         for fid in sorted(all_ids - cov_ids):
             err('R12', fid, '条目文件不在 coverage.json/scope 中')
+        # R12b coverage 的字段须与条目文件一致（防陈旧）
+        _emap = {e.get('id'): e for e in entries}
+        for c in cov.get('entries', []):
+            e = _emap.get(c.get('id'))
+            if not e:
+                continue
+            for _f in ('level', 'tier', 'unit', 'region', 'crisis_type'):
+                if _f in c and c.get(_f) != e.get(_f):
+                    warn('R12b', c.get('id'), '%s 在 coverage=%s 与条目=%s 不一致'
+                         % (_f, c.get(_f), e.get(_f)))
     # R13 全站数据一致性
     metric = defaultdict(set)
     for e in entries:

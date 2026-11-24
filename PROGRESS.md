@@ -2209,6 +2209,16 @@
 - **纳入自测**：`selftest.py` 新增「矩阵合计校验」用例，自测 21 → **22 项**；同步更新 HEALTH_CHECK。
 - 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 22/22。
 
+- **维基百科第 122 轮可用（round 142）**。**核查 coverage.json，修复 6 处字段陈旧，并加 R12b 一致性检查**。
+- **核查 `coverage.json`**：id 与条数完全一致（641/641），但**6 处字段与条目不符**：
+  - `utility`／`market-failure`／`recession`／`growth` 的 `level`（coverage=L2，条目=L3）——这 4 条早期已升 L3 且确有 deep_svg
+  - `too-big-to-fail`（crisis_type 理论 vs 制度）、`blue-monday-2009`（泡沫 vs 银行，上轮我改的）的 crisis_type
+- **修复**：以 entries 为准同步 coverage.json 的 level/tier/unit/region/crisis_type 字段，6 处全部对齐、剩余不一致 0；并确认 4 条 L3 均确有 deep_svg（名实相符）。
+- **固化为检查**：`check.py` 新增 **R12b**——coverage 字段须与条目文件一致，否则 warning。已注入测试确认能捕获。
+- **纳入自测**：`selftest.py` 新增「R12b coverage字段不一致」用例，自测 22 → **23 项**；同步更新 HEALTH_CHECK。
+- 这延续 round 141 的发现：**不在检查清单上的产出物会悄悄陈旧**（上一轮矩阵、本轮 coverage.json）。
+- 现状：**641 条**、来源 **742**、页面 **655**；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 23/23。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

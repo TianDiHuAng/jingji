@@ -211,6 +211,17 @@ def m_r12():
 case('R12 coverage含不存在条目', m_r12, ['tools/check.py'], 'R12', [COV])
 
 
+def m_r12b():
+    d = _r(COV)
+    # 把首条的 level 改成与条目文件不一致
+    e0 = d['entries'][0]['id']
+    d['entries'][0]['level'] = 'L1' if d['entries'][0].get('level') != 'L1' else 'L3'
+    _w(COV, d)
+
+
+case('R12b coverage字段不一致', m_r12b, ['tools/check.py'], 'R12b', [COV])
+
+
 # ── 扩展：check_filler 套话检测 ──
 FL = os.path.join(ENT, 'capital-adequacy.json')
 
