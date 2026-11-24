@@ -34,3 +34,22 @@
 ## 饱和进度
 - zero_gap_streak：0（2020崩盘外部阻塞未决）
 - saturated=false
+
+## 待补建概念清单（续作DG 交叉引用发现，47 个）
+
+建立条目关联时发现以下概念被引用但库中不存在。按价值排序，优先补建前两档：
+
+**第一档（机制/制度，优先）**
+`bank-resolution`（银行处置）、`counterparty-risk`（对手方风险）、`toxic-assets`（有毒资产）、
+`junk-bond`（垃圾债券）、`sacrifice-ratio`（牺牲率）、`payment-system`（支付系统）、
+`disclosure`（信息披露）、`market-failure`（市场失灵）、`prisoners-dilemma`（囚徒困境）、
+`property-rights`（产权）、`transaction-cost`（交易成本）、`rent-seeking`（寻租）
+
+**第二档（基础经济学概念）**
+`savings`、`investment`、`demand`、`growth`、`population`、`recession`、`inequality`、
+`labour-market`、`specialization`、`agriculture`、`tax-capacity`、`tax-incidence`、
+`short-term-rate`、`secured-lending`、`self-insurance`、`risk-pooling`、`actuarial`、
+`leading-indicator`、`deindustrialization`、`supervision`、`rogue-trader`、`audit-failure`、
+`bank-holiday`、`bullion`、`var`（风险价值）、`common-pool`、`pigouvian-tax`、`lloyds`
+
+**注**：`credit-anstalt` 实际 id 为 `creditanstalt`；`clearing` 无独立条目，相关机制见 `netting`。
