@@ -26,7 +26,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "无条件收敛视角",
+      "view": "资本边际报酬递减意味穷国增长应快于富国，因此差距会随时间缩小（据 Wikipedia Convergence (economics)）",
+      "sources": [
+        "w-en-convergence"
+      ]
+    },
+    {
+      "holder": "条件收敛视角",
+      "view": "收敛只在\"条件相似\"的国家组内成立；全球范围内的无条件收敛证据薄弱，穷国与富国的差距在 20 世纪大部分时间扩大（据 Wikipedia Convergence (economics)）",
+      "sources": [
+        "w-en-convergence"
+      ]
+    }
+  ],
   "key_data": [
     {
       "label": "Sachs-Warner 研究中工业化国家人均年增速",
@@ -53,5 +68,5 @@
     "w-en-convergence"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。 【续作KE】overview 由英文摘要改写为中文（原 583 字）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GI】补充 timeline/key_data。 【续作KE】overview 由英文摘要改写为中文（原 583 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。"
 }

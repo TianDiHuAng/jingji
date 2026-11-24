@@ -26,7 +26,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "一次性博弈视角",
+      "view": "在单次博弈中，背叛对每个主体单独而言都是理性的，因此合作型结果不是均衡——这正是困境之所在（据 Wikipedia Prisoner's dilemma）",
+      "sources": [
+        "w-en-prisoners-dilemma"
+      ]
+    },
+    {
+      "holder": "重复博弈视角",
+      "view": "若博弈反复进行、参与者有耐心，合作可以成为均衡（如\"以牙还牙\"策略），因此制度设计（重复互动、声誉、惩罚）能改变结果（据 Wikipedia Prisoner's dilemma 关于重复博弈的讨论）",
+      "sources": [
+        "w-en-prisoners-dilemma"
+      ]
+    }
+  ],
   "key_data": [],
   "comparison": "与**协调博弈**的区别在均衡结构：囚徒困境有**唯一**纳什均衡，且该均衡对双方都劣（背叛/背叛）；协调博弈有**多个**均衡，且都是好的（只要预期一致）。这一区分决定政策思路：囚徒困境需要**改变激励**（惩罚违约、承诺机制）；协调博弈只需**改变预期**（存款保险可\"挑选\"不挤兑的均衡）。银行挤兑、竞争性贬值、债务减免中的搭便车，分别是这两类结构的实例。",
   "related": [
@@ -41,5 +56,5 @@
     "w-zh-prisoners-dilemma"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 491 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 491 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。"
 }

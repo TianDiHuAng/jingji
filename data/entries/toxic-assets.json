@@ -26,7 +26,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "\"无法定价\"视角",
+      "view": "\"有毒\"的实质不是资产一文不值，而是市场停止交易、模型失去可信度，因而无法定价；这使机构间无法判断彼此的偿付能力（据 Wikipedia Toxic asset）",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
+    },
+    {
+      "holder": "\"价格下跌\"视角",
+      "view": "有毒资产指价值大幅下跌、且不再存在有效市场的资产；由于资产与负债相抵并常带杠杆，价格下跌对持有人可能相当危险（据 Wikipedia Toxic asset）",
+      "sources": [
+        "w-en-toxic-assets"
+      ]
+    }
+  ],
   "key_data": [
     {
       "label": "PPIP 宣布当日美股主要指数涨幅（以上）",
@@ -52,7 +67,7 @@
     "w-zh-toxic-assets"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 375 字）。",
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KF】overview 由英文摘要改写为中文（原 375 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。",
   "policy_response": [
     {
       "holder": "美国财政部（2009）",

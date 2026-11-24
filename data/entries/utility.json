@@ -33,7 +33,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "规范视角（目标函数）",
+      "view": "效用指我们希望最大化的目标，近似于边沁、密尔的功利主义概念，具有伦理与\"善\"的内涵（据 Wikipedia Utility）",
+      "sources": [
+        "w-en-utility"
+      ]
+    },
+    {
+      "holder": "描述视角（偏好表示）",
+      "view": "效用仅表示可被观测的选择偏好可被某函数排序，不必包含\"幸福\"或\"善\"；在此视角下效用是序数的，人与人之间不可比较（据 Wikipedia Utility）",
+      "sources": [
+        "w-en-utility"
+      ]
+    }
+  ],
   "key_data": [
     {
       "label": "效用概念的现代用法数（至少）",
@@ -58,7 +73,7 @@
     "w-en-utility"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 486 字）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 486 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "效用的**基数可比性**是长期争议点：现代经济学多只用其**序数**性质（可排序），不做人际比较。因此任何以\"总效用\"为依据的政策主张都需要额外的分配判断，而这已超出实证范围。",

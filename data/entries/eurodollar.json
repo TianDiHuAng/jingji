@@ -19,7 +19,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "效率视角",
+      "view": "欧洲美元市场使美元流动性可在美国境外创造，提高了国际融资效率、降低了跨境交易成本（据 Wikipedia Eurodollar）",
+      "sources": [
+        "w-en-eurodollar"
+      ]
+    },
+    {
+      "holder": "监管／风险视角",
+      "view": "它构成一个不受美国国内监管直接约束的美元市场，规模庞大且跨境自由流动；危机中的美元短缺难以由单一央行单独解决，需央行货币互换（据 Wikipedia Eurodollar）",
+      "sources": [
+        "w-en-eurodollar"
+      ]
+    }
+  ],
   "key_data": [],
   "comparison": "与**离岸人民币**等离岸货币市场同属\"境外本币\"现象：欧洲美元是存放于美国境外的美元存款，不受美国国内准备金要求与存款保险约束（这是其最初的成本优势）。与**外汇储备**的区别在持有主体与目的：欧洲美元由银行体系持有并用于同业融资，外汇储备由央行持有用于干预与偿付。其系统性意义在于：欧洲美元市场是**无最后贷款人**的美元体系——2008年该市场冻结时，美联储不得不通过央行互换额度向全球提供美元。",
   "related": [
@@ -33,5 +48,5 @@
     "w-en-eurodollar"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline。 【续作KG】overview 由英文摘要改写为中文（原 204 字）。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GO】补充 timeline。 【续作KG】overview 由英文摘要改写为中文（原 204 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。"
 }

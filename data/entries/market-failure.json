@@ -40,7 +40,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "新古典干预视角",
+      "view": "市场在公共品、外部性、信息不对称与竞争不足处无法达到帕累托效率，因此需要政府纠正；金融监管的正当性即建立在此（据 Wikipedia Market failure）",
+      "sources": [
+        "w-en-market-failure"
+      ]
+    },
+    {
+      "holder": "公共选择／奥地利视角",
+      "view": "所谓\"市场失灵\"常被用作扩大政府干预的理由，但政府同样面临信息与激励问题，干预可能带来更严重的失灵；该视角强调\"失灵\"往往是干预自身造成的（据 Wikipedia Market failure 的相关批评）",
+      "sources": [
+        "w-en-market-failure"
+      ]
+    }
+  ],
   "key_data": [],
   "comparison": "与**政府失灵**的区别在\"失灵主体\"：市场失灵指自由市场配置未达帕累托效率（外部性、公共品、信息不对称、垄断、协调失败）；政府失灵指干预本身因激励扭曲（寻租、信息不足、政治周期）而未能改善（见 public-choice）。两者必须一起看：论证监管必要性时，只指出市场失灵不够，还须证明干预的收益大于政府失灵的成本——这是2008年后\"监管改革\"争论的核心框架。",
   "related": [
@@ -60,7 +75,7 @@
     "w-zh-market-failure"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 657 字）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作HP】补中文维基作为第二来源（跨语言对照，非独立机构互证）。 【续作KC】overview 由英文摘要改写为中文（原 657 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "\"帕累托效率\"是**相对于初始禀赋与偏好**而言的，因此\"市场失灵\"的判断依赖于所设的基准；不同基准下同一现象可能不被视为失灵。本文不给出各国失灵程度的量化比较（缺乏统一口径）。",

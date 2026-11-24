@@ -26,7 +26,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "效率视角",
+      "view": "分工提高熟练度、节省转换时间并便于发明机器，是生产率提升与国家贸易收益的来源（据 Wikipedia Division of labour）",
+      "sources": [
+        "w-en-division-of-labour"
+      ]
+    },
+    {
+      "holder": "脆弱性视角",
+      "view": "专业化提高相互依赖：环节中断会沿链条传导，且知识碎片化使个体难以判断整体风险；金融体系的\"发起—分销\"分工即为典型（据 Wikipedia Division of labour 及相关讨论）",
+      "sources": [
+        "w-en-division-of-labour"
+      ]
+    }
+  ],
   "key_data": [],
   "comparison": "与**多样化**的区别在\"方向\"：专业化使个体/地区专注于特定环节以提高效率；多样化则分散风险、提供韧性。这一权衡在危机中很尖锐：高度专业化的地区（单一产业城市）在遭遇行业冲击时受损更重；而过度多样化可能牺牲规模经济。在国际层面，专业化的风险是\"比较优势被锁定\"与供应链脆弱（2020年后讨论的\"去风险\"即针对此）。",
   "related": [
@@ -42,5 +57,5 @@
     "w-zh-specialization"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 452 字）。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。 【续作KE】overview 由英文摘要改写为中文（原 452 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。"
 }

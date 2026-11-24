@@ -33,7 +33,22 @@
     }
   ],
   "causal_chain": [],
-  "schools": [],
+  "schools": [
+    {
+      "holder": "量化门槛视角",
+      "view": "衰退可由产出、就业、收入与销售等多项指标同时下降来识别，设法给出可操作的门槛（如连续两季负增长）（据 Wikipedia Recession）",
+      "sources": [
+        "w-en-recession"
+      ]
+    },
+    {
+      "holder": "机构判定视角",
+      "view": "并不存在唯一的量化门槛，不同机构采用不同判据，因此同一时期是否算\"衰退\"可能有分歧；重要的是说明所用口径（据 Wikipedia Recession 关于定义之争的讨论）",
+      "sources": [
+        "w-en-recession"
+      ]
+    }
+  ],
   "key_data": [
     {
       "label": "衰退的深度门槛：实际国民总收入降幅",
@@ -92,7 +107,7 @@
     "w-en-recession"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 454 字）。",
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。 【续作KC】overview 由英文摘要改写为中文（原 454 字）。 【续作MG】补 schools（两派观点，据本条目已有来源）。",
   "l3_detail": {
     "framework_type": "理论",
     "data_caveat": "衰退判定的三套门槛（深度／扩散／OECD）来自不同机构，**不可混用**；\"连续两季负增长\"是媒体通俗说法，并非任一官方标准。关键数据中的门槛值是该条目所据来源的表述，与其他国家的官方定义可能不同。",

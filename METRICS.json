@@ -2206,6 +2206,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0（R22 归零）+ 自测 18/18",
       "spot_check": "扩写剩余 13 条案例；R22 从 335 到 0 全部完成",
       "note": "维基第106轮可用。LW-MD：**扩写剩余 13 条案例，R22 归零（11 → 0）——R22 任务全部完成**。①本轮三批：（a）oil-price-war-2020／egypt-2023／northern-rock／indymac／credit-suisse-2023；（b）china-2015-turbulence／tulip-mania-1637／gamestop-2021／spain-2008／lehman；（c）brazil-2014／bernie-madoff／nigeria-debt。②**最后 3 条（south-sea-bubble-1720／bear-stearns／bcci）无维基全文**——本轮网络不可用（多次重试均超时），故**只用条目自身已核验的 one_line／timeline 事实 + 机制说明**扩写，**未新增任何未记录的数字、日期或人名**，并在 pending_notes 明确标注「暂无维基全文缓存，具体细节待补」。这是「宁短不编」原则的实践。③**几处从来源读到的关键事实**：credit-suisse-2023：UBS 以 **30 亿瑞郎**收购，瑞士央行提供超 **1000 亿瑞郎**流动性，**160 亿瑞郎 AT1 债券减记为零**——颠覆了债权人优先于股东的常规清偿顺序；northern-rock：「**资产充足却脆弱**」，是偿付能力与流动性必须分开的最好注脚；china-2015：**1400 家公司（超半数上市）申请停牌**，反而加剧流动性问题；tulip-mania：**现代经济学家提出理性解释**，且原始数据多来自有偏来源——提醒对历史泡沫叙事保持审慎；spain-2008：**依赖房地产的税收使财政在泡沫期保持盈余直至 2007**，是「财政假象」的典型；nigeria-debt：**石油占政府收入 2/3 但仅占 GDP 9%**——结构性风险不在体量而在财政来源的集中。④现状：641 条、来源 742、页面 655；overview 平均 **424 字**；**ERRORS 0、WARNINGS 0**。⑤**R22 从 round 112 发现（335 条）到 round 126 归零，历时 14 轮，累计扩写 335 条。**仍有 347 条无全文（含上述 3 条），已在 pending_notes 标注待补。"
+    },
+    {
+      "round": "续作ME-MG",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 11,
+      "reviewed": 641,
+      "fixed": 11,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
+      "spot_check": "全面质量审计；为 11 条概念补两派 schools",
+      "note": "维基第107轮可用。ME-MG：**全面质量审计 + 为 11 条概念补 schools**。①**审计结果（不依赖网络）**：overview 长度分布 — <150: 19（全为补充类机构条目，按既定政策可接受）、150-249: 106、250-399: 144、400-599: 295、≥600: 77；comparison 覆盖 578/641（90%）、related 641/641（平均 7.3 条）、schools 625/641、timeline 288/641、key_data 211/641；**案例中 key_data 与 timeline 双缺的为 0**、**核心/重要案例缺 timeline 的为 0**。②**发现两个结构性缺口**：缺 comparison 63 条（多为案例）、缺 schools 16 条。③**本轮补 schools 11 条**——选择**确有学术分歧**的概念，每条给出两派观点并标注到该条目已有来源：market-failure（新古典干预 vs 公共选择／奥地利）、utility（规范 vs 描述）、recession（量化门槛 vs 机构判定）、growth（增长优先 vs 限度代价）、prisoners-dilemma（一次性 vs 重复博弈）、convergence（无条件 vs 条件收敛）、specialization（效率 vs 脆弱性）、investment（实物资本 vs 金融资产）、toxic-assets（无法定价 vs 价格下跌）、eurodollar（效率 vs 监管风险）、expectations（适应性 vs 理性预期）。**未强行为机构类条目（nasdaq／mutual-fund／dividend／buyback／population）编造分歧**——没有真实争论时，留空优于虚构。schools 覆盖升至 636/641。④现状：641 条、来源 742、页面 655；overview 平均 424 字；comparison 578、schools 636；**ERRORS 0、WARNINGS 0**。⑤**遗留**：3 条案例仍缺维基全文（网络持续不可用），具体细节已在 pending_notes 标注待补。"
     }
   ]
 }
