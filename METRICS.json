@@ -526,6 +526,18 @@
       "check_result": "PASS (486); check_links 499页 0 error",
       "spot_check": "QA：tier达标/0非法来源/0缺页",
       "note": "AV(12条风险/市场微观结构:波动率/分散化/风险管理/ALM/金融监管/外汇干预/冲销操作/套期保值/投机/套利/做市商/买卖价差) + AW(7条经济史/危机总论:金融危机总论/股市崩盘/商业革命/价格革命/货币史/银行史/经济史)。总486条，来源575。"
+    },
+    {
+      "round": "续作AX",
+      "date": "2026-11-24",
+      "new_entries": 8,
+      "upgraded": 0,
+      "reviewed": 8,
+      "fixed": 2,
+      "sources_total": 583,
+      "check_result": "PASS (494); check_links 507页 0 error",
+      "spot_check": "QA：tier达标/0非法来源/0缺页",
+      "note": "AX: 新增8条国际货币体系概念(广场协议1985-09-22五国/卢浮宫协议1987-02-22/去美元化/人民币国际化/过高特权exorbitant privilege/货币战争竞争性贬值/以邻为壑/国际货币体系)。总494条，来源583。"
     }
   ]
 }
