@@ -613,6 +613,15 @@
 - 同时核查**通过**：重复 `title` **0 个**；`h1` 数量全部 **=1**；页内锚点目标**全部存在**。
 - 现状：**总592条，来源695，站点606页**；comparison 与 related 双 100%。QA全清。
 
+- **维基百科第 25 轮不可达**。
+- 续作EQ：**新增一种检查方法**——把"条目文本中的英文术语引用"与"站内 id 集合"做**差集**，系统发现概念缺口。39 个引用中 8 个站内不存在，逐一核对上下文后：
+  - 4 个属**英文术语标注**（`residency-based`／`mini-crash`／`de-risking`／`originate-to-distribute`），应保留原文
+  - 4 个是**真正的概念缺口**：`bank-resolution`（银行处置）、`leverage-ratio`（杠杆率）、`ring-fencing`（圈护）、`inflation-tax`（通胀税）→ 已记入 `BACKLOG.md`
+  - 方法固化为 `_research/EQ_refcheck.py`，每次新增内容后可重跑
+- 续作ER：**数据合理性检查全部通过**——`key_data` 极端值仅 2 个且均为真实历史数据（魏玛1923年汇率 4.2 万亿马克/美元、南斯拉夫1992年月通胀 3.13 亿%）；`timeline` 546 事件年份范围 -300 至 2026，唯一"异常"是公元前300年罗马铸币（合理）；`key_data` 7 个字段 357 条**无空值**。
+- 续作ER：**新增 `tools/check_quality.py`**——把 round 39–43 陆续发现的 **10 类 HTML 结构问题**固化为一键检查工具（标题跳级／重复 id／表格缺 th／缺 description／重复 description／重复 title／锚点不存在／h1 数量／重复 style／必需 head 元素）。首跑 606 页**全部通过**（唯一 description 606、唯一 title 606）。README 已更新。
+- 现状：**总592条，来源695，站点606页**；comparison 与 related 双 100%。三道检查（check / check_links / check_quality）全绿。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

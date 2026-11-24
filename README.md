@@ -19,7 +19,8 @@
 ├── tools/
 │   ├── check.py          数据层校验器 R1–R15
 │   ├── gen_site.py       静态站点生成器
-│   └── check_links.py    站点终检（链接/SVG/图片禁用）
+│   ├── check_links.py    站点终检（链接/SVG/图片禁用）
+│   └── check_quality.py  HTML结构检查（标题层次/重复id/meta/表格th等10项）
 └── site/
     ├── index.html        首页
     ├── style.css         浅/深双模式样式（CSS变量）
@@ -34,6 +35,7 @@
 python tools/check.py         # 数据校验：0 error
 python tools/gen_site.py      # 生成 site/，自动核验站内断链
 python tools/check_links.py   # 站点终检：0 error
+python tools/check_quality.py # HTML结构检查：0 problem
 ```
 
 ## 设计原则
