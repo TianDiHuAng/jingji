@@ -7,39 +7,31 @@
   "period": "20世纪下半",
   "region": "亚洲",
   "crisis_type": "货币",
-  "one_line": "1997亚洲金融危机：20世纪下半、亚洲的货币类核心案例/概念（轮次14读者问题清单发现的遗漏）。",
-  "overview": "1997亚洲金融危机 是读者问题清单核对发现的标志性遗漏（来源库已有核对来源）。完整内容待逐条核实后补充。",
+  "one_line": "1997亚洲金融危机：泰铢浮动引发区域货币与债务危机，多国接受IMF救助，经济深度收缩。",
+  "overview": "1997年亚洲金融危机始于泰铢的贬值。危机前东亚经济体普遍维持事实上的盯住美元汇率、放开资本账户并大量借入短期外币债务，形成\"汇率稳定+高利差\"的套利结构；一旦信心动摇，资本外流与汇率贬值相互强化。1997年7月泰铢放弃盯住、转向浮动后，冲击迅速传染至印尼、韩国、马来西亚、菲律宾等国，印尼与韩国最终接受 IMF 的大规模救助与结构性条件。危机期间区域货币大幅贬值、股市崩盘、企业外债违约激增，多国GDP出现深度收缩。该事件成为\"不可能三角\"\"资产负债表效应\"与\"金融传染\"研究的主要样本。具体各国数据与救助规模待核实。",
   "timeline": [
     {
-      "year": 1993,
-      "display": "1993–1996年",
-      "event": "东盟四国外债/GDP比从100%升至167%，危机时超180%（据 Wikipedia 1997 Asian financial crisis）",
+      "year": 1997,
+      "display": "1997年7月2日",
+      "event": "泰铢放弃盯住美元、转向浮动（通说；具体日期待核实）",
       "sources": [
         "w-en-asian-financial-crisis"
       ]
     },
     {
       "year": 1997,
-      "display": "1997年7月",
-      "event": "危机始于泰国，随后波及多国，引发对全球金融传染的担忧（同上）",
+      "display": "1997年下半年",
+      "event": "危机传染至印尼、韩国、马来西亚等",
       "sources": [
         "w-en-asian-financial-crisis"
       ]
     },
     {
-      "year": 1998,
-      "display": "1998年",
-      "event": "菲律宾经济增长降至近零；韩国、印尼、泰国受创最重（同上）",
+      "year": 1997,
+      "display": "1997年起",
+      "event": "印尼、韩国等接受IMF救助与条件",
       "sources": [
-        "w-en-asian-financial-crisis"
-      ]
-    },
-    {
-      "year": 1999,
-      "display": "1998–1999年",
-      "event": "经济快速复苏，全球崩溃担忧消退（同上）",
-      "sources": [
-        "w-en-asian-financial-crisis"
+        "w-en-imf"
       ]
     }
   ],
@@ -129,7 +121,7 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作BD】危机前增速背景来自美联储历史站。",
+  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作BD】危机前增速背景来自美联储历史站。 【续作CC】已重写正文与时间线，清除变体骨架占位。",
   "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1997亚洲金融危机：机制与反馈回路（货币）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击/失衡</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>危机/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径；单一来源均待核实。",

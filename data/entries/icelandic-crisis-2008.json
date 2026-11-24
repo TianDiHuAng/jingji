@@ -7,39 +7,39 @@
   "period": "21世纪",
   "region": "欧洲",
   "crisis_type": "银行",
-  "one_line": "冰岛金融危机(2008–2011)：发生于21世纪、地区欧洲的银行类案例（轮次5新条目，骨架）。",
-  "overview": "冰岛金融危机(2008–2011) 是经权威大纲对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
+  "one_line": "冰岛金融危机(2008–2011)：三大银行资产达GDP的11倍，外债超GDP的7倍，银行体系全面崩溃。",
+  "overview": "冰岛金融危机（2008—2011年）是2008年全球危机中最极端的国别案例之一。冰岛三家主要银行在十年间通过海外分支急速扩张，规模远超本国经济：2008年二季度末，三大银行资产合计 **14.437万亿**冰岛克朗，相当于国民GDP的 **11倍以上**；同期冰岛外债达 **9.553万亿**克朗（约 **500亿**欧元），超过2007年GDP的 **7倍**。这种规模使冰岛央行不可能充当最后贷款人。2008年秋三家银行相继倒闭并被接管，本币急剧贬值、外汇交易一度中断，股市市值大幅蒸发；2008年11月实施资本管制，IMF 主导的救助计划于2011年8月31日正式结束，资本管制此后逐步解除。该案例是\"银行体系规模超过国家救助能力\"的经典教训。具体数据待核实。",
   "timeline": [
     {
       "year": 2008,
-      "display": "2008—2010年",
-      "event": "冰岛发生重大金融危机，导致严重衰退（据 Wikipedia Icelandic financial crisis）",
+      "display": "2008年二季度末",
+      "event": "三大银行资产14.437万亿克朗（GDP的11倍以上）；外债约500亿欧元（GDP的7倍）",
       "sources": [
-        "w-en-icelandic-crisis-2008"
+        "w-en-icelandic-financial-crisis-2008"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年秋",
+      "event": "三大银行倒闭被接管；本币暴跌、外汇交易中断",
+      "sources": [
+        "w-en-icelandic-financial-crisis-2008"
       ]
     },
     {
       "year": 2008,
       "display": "2008年11月",
-      "event": "实施资本管制（同上）",
+      "event": "实施资本管制",
       "sources": [
-        "w-en-icelandic-crisis-2008"
-      ]
-    },
-    {
-      "year": 2009,
-      "display": "2009年",
-      "event": "爆发金融危机抗议活动（同上）",
-      "sources": [
-        "w-en-icelandic-crisis-2008"
+        "w-en-icelandic-financial-crisis-2008"
       ]
     },
     {
       "year": 2011,
       "display": "2011年8月31日",
-      "event": "IMF主导的国际救助计划正式结束（同上）",
+      "event": "IMF主导的救助计划正式结束",
       "sources": [
-        "w-en-icelandic-crisis-2008"
+        "w-en-icelandic-financial-crisis-2008"
       ]
     }
   ],
@@ -128,5 +128,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作AP】补关键数据（单源）。"
+  "pending_notes": "L1骨架：内容待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作AP】补关键数据（单源）。 【续作CC】已重写正文与时间线，清除变体骨架占位。"
 }

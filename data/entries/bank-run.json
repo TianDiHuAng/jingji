@@ -7,29 +7,21 @@
   "period": "理论制度",
   "region": "全球",
   "crisis_type": "银行",
-  "one_line": "银行挤兑：理论制度、全球的银行类核心案例/概念（轮次14读者问题清单发现的遗漏）。",
-  "overview": "银行挤兑 是读者问题清单核对发现的标志性遗漏（来源库已有核对来源）。完整内容待逐条核实后补充。",
+  "one_line": "银行挤兑：存款人因担心银行倒闭而集中提款，在部分准备金制度下可自我实现地使银行破产。",
+  "overview": "银行挤兑指大量存款人同时提取存款的行为。由于银行实行**部分准备金制度**——把存款投向长期不流动的贷款与证券，只保留少量现金——任何\"先到先得\"的预期都可能使所有存款人的理性反应变成集体灾难：人人都想先取款，结果银行被迫贱卖资产，最终真的倒闭。戴蒙德与迪布维格(Diamond & Dybvig, 1983) 用多重均衡模型刻画了这一逻辑：\"都不挤兑\"与\"都挤兑\"都是均衡，挤兑可由与基本面无关的事件（太阳黑子）触发。政策含义是：存款保险、最后贷款人与流动性监管能通过消除挤兑动机来\"挑选好均衡\"。1983年该模型成为银行理论的基础，2022年其作者获诺贝尔经济学奖。具体模型细节与批评待核实。",
   "timeline": [
     {
-      "year": 1931,
-      "display": "1931年6—12月",
-      "event": "大萧条期间波士顿、芝加哥、托莱多等城市爆发全城性挤兑（据 Wikipedia Bank run）",
+      "year": 1933,
+      "display": "1933年",
+      "event": "美国设立FDIC，以存款保险抑制挤兑（见 deposit-insurance）",
       "sources": [
-        "w-en-bank-run"
+        "w-en-deposit-insurance"
       ]
     },
     {
-      "year": 2008,
-      "display": "2008年",
-      "event": "金融危机以类似银行挤兑的市场流动性失效为中心（同上）",
-      "sources": [
-        "w-en-bank-run"
-      ]
-    },
-    {
-      "year": 2023,
-      "display": "2023年3月",
-      "event": "硅谷银行客户一天内提取420亿美元（近总存款1/4），为网络时代挤兑实例（同上）",
+      "year": 1983,
+      "display": "1983年",
+      "event": "Diamond-Dybvig 提出银行挤兑的多重均衡模型",
       "sources": [
         "w-en-bank-run"
       ]
@@ -119,7 +111,7 @@
     "contagion"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。",
+  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【续作CC】已重写正文与时间线，清除变体骨架占位。",
   "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>银行挤兑：机制与反馈回路（银行）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击/失衡</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>危机/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径；单一来源均待核实。",

@@ -7,31 +7,23 @@
   "period": "早期—17世纪",
   "region": "欧洲",
   "crisis_type": "货币",
-  "one_line": "Kipper und Wipper货币危机(1618–1622)：发生于前17世纪、地区欧洲的货币类案例（轮次12新条目，骨架）。",
-  "overview": "Kipper und Wipper货币危机(1618–1622) 是经权威大纲（Wikipedia List of economic crises）对照发现的遗漏案例，维基页面已核对存在。完整内容待逐条核实来源后补充。",
+  "one_line": "Kipper und Wipper(1618–1623)：神圣罗马帝国\"剪币与称币\"风潮，铸币成色普遍贬损引发恶性通胀。",
+  "overview": "\"Kipper und Wipper\"（约1618—1623年）是神圣罗马帝国境内一场由**铸币成色贬损**引发的货币混乱。名称源自当时钱币商的手法：称量(Kippen)与筛选(Wippen)——把足色硬币挑出熔化、再以低成色金属重新铸造，从中渔利。三十年战争初期各邦为筹措军费竞相降低铸币成色，形成\"劣币驱逐良币\"的恶性循环，物价飞涨、商业萎缩、工资与契约关系紊乱。1623年前后各国推行\"置币改革\"(Kipper- und Wipperzeit 的终结)，恢复足色货币，但伴随债务减记与财富再分配。该案例是\"货币成色贬损\"（见 debasement 条目）在欧洲最著名的实践之一。具体数据待核实。",
   "timeline": [
     {
       "year": 1618,
-      "display": "30年战争初期",
-      "event": "神圣罗马帝国各城邦为筹措军费大量降低铸币成色（据 Wikipedia Kipper und Wipper）",
+      "display": "约1618年",
+      "event": "\"Kipper und Wipper\"风潮开始，铸币成色普遍贬损",
       "sources": [
-        "w-en-kipper-wipper-1618"
-      ]
-    },
-    {
-      "year": 1620,
-      "display": "约1620—1623年",
-      "event": "贬值最严重时期；德意志王国出现饥荒（同上）",
-      "sources": [
-        "w-en-kipper-wipper-1618"
+        "w-en-kipper-wipper"
       ]
     },
     {
       "year": 1623,
-      "display": "1623年后",
-      "event": "当局试图抑制通胀，宣布劣币非法并退出流通（同上）",
+      "display": "1623年前后",
+      "event": "各国推行置币改革，恢复足色货币",
       "sources": [
-        "w-en-kipper-wipper-1618"
+        "w-en-kipper-wipper"
       ]
     }
   ],
@@ -95,5 +87,5 @@
     "crisis-third-century"
   ],
   "needs_verification": true,
-  "pending_notes": " 【续作H】升L2(据REST摘要)。"
+  "pending_notes": " 【续作H】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。"
 }
