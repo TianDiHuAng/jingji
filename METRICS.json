@@ -1078,6 +1078,18 @@
       "check_result": "PASS (592); check_links 606页 0 error",
       "spot_check": "案例政策覆盖 35%→39%",
       "note": "维基第11轮不可达。DV补写8条:panic-1792(汉密尔顿授权购入15万美元国债,美国最早非正式最后贷款人实践)、overend-gurney(恐慌后英格兰银行明确承担最后贷款人,白芝浩《伦巴第街》经验基础)、nyc-fiscal-1975(州设MAC/EFCB监督机构+联邦贷款)、norwegian-banking-1988(政府救助银行体系)、nz-1984-reform(Rogernomics减税+引入GST税率10%)、oil-crisis-1973(OAPEC减产并对美禁运)、oil-crisis-1979(1979-04-05卡特分阶段解除油价管制)、oil-price-war-2020(2020-03-08沙特发起价格战)。剔除无政策依据者(nz-finance-collapse/nz-property-bubble等)。案例覆盖80/205=39%。"
+    },
+    {
+      "round": "续作DW-DX",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 5,
+      "reviewed": 17,
+      "fixed": 0,
+      "sources_total": 695,
+      "check_result": "PASS (592); check_links 606页 0 error",
+      "spot_check": "案例政策覆盖 39%→41%；**已触及来源天花板**",
+      "note": "维基第12轮不可达。DW/DX补写5条:puerto-rico-debt-2014(销售税提至11%+PROMESA重组)、rhode-island-banking-1990(州关闭数十家机构+为部分存款担保)、rodrigazo-1975(贬值+提价+加息)、bcci(多国监管联合关闭)、bear-stearns(紧急收购)。**本批14条中仅2条有政策依据**——检查发现剩余120条案例的overview本身不含政策内容(按类型:银行35/泡沫26/货币22/债务12/其他10/恶性通胀8/制度7),多数是\"泡沫\"(政策内容天然少)或overview只写了成因与后果。结论:政策覆盖率85/205=41%已接近**现有来源能支撑的上限**;要进一步提高须先补充各条目的正文(需维基恢复或新数据源),不能靠提取。已记入BLOCKERS待维基恢复后处理。"
     }
   ]
 }
