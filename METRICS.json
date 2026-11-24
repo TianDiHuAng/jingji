@@ -2506,6 +2506,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
       "spot_check": "补 3 条 policy_response（150→153）；find_val 抓到 nigeria 重复并去重",
       "note": "维基第131轮可用。ON：继续据本地缓存补 policy_response，并用 find_val 抓到一处重复。\n①**补 3 条 policy_response**（事实取自各自已引来源缓存）：\nnigeria-debt（2006 年巴黎俱乐部：约 120 亿美元现金回购 + 约 180 亿美元减免，首个全额清偿巴黎俱乐部债务的非洲国家）、\nangola-oil-dependence（1987 自由化、1998 改革、2000 IMF 职员监督计划 SMP、世界银行协助私有化）、\nems（ERM 波动区间/ECU/德国马克为锚/Delors 计划三阶段）。案例 policy 150 → **153**。\n②**find_val 抓到重复**：追加 nigeria 政策段后发现 overview 本已含\"2006 年巴黎俱乐部 120 亿回购\"——`find_val \"120 亿美元\"` 显示两处重复。已删重复段、保留单一表述（180 亿减免仅留在 policy_response，源中有 $18bn 支撑），并把年份对齐为 2006。\n③check_polnum \"完全找不到\" = 0；十一道检查全绿。\n④现状：641 条、来源 742、页面 655；案例政策 153 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
+    },
+    {
+      "round": "续作OO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 4,
+      "fixed": 3,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "修 stocks-fall-2011 无源 LTRO；补 stocks/bernie policy（153→155）",
+      "note": "维基第132轮可用。OO：补 2 条 policy_response，并**发现并修复另 1 处无源断言（LTRO/扭转操作）**。\n①**发现无源**：`stocks-fall-2011` overview 称\"欧洲央行推出 LTRO、美联储启动扭转操作\"，但**所引来源未载**（来源只载 ECB 买入小国债券、日本 8/4 干预汇市、瑞士央行 8/3 降息）。已删该表述，改为来源可支撑的干预；`find_val \"LTRO\"` 全库 0 命中。\n②**补 policy_response（2 条）**：\nstocks-fall-2011（ECB 买入部分小国债券、日本干预汇市、瑞士降息）、\nbernie-madoff（SIPC 托管清算，估计直接损失约 180 亿美元、追回约 148 亿美元；SEC 此前多次调查未发现）。案例 policy 153 → **155**。\n③check_polnum \"完全找不到\" = 0；check_body_num 未匹配 81（未新增）；十一道检查全绿。\n④现状：641 条、来源 742、页面 655；案例政策 155 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }
