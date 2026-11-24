@@ -275,6 +275,10 @@ def main():
             for _i, _item in enumerate(_e.get(_f) or []):
                 if not (_item.get('sources') if isinstance(_item, dict) else None):
                     err('R19', _wid, '%s[%d] 缺 sources' % (_f, _i))
+    # R20 U1（早期—17世纪）不适用"全球"标签
+    for _e in entries:
+        if str(_e.get('unit', '')).startswith('U1') and _e.get('region') == '全球':
+            err('R20', _e.get('id', '?'), 'U1 时期尚无全球金融体系，不应标 region=全球')
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

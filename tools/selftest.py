@@ -229,6 +229,18 @@ def m_qual():
 
 case('check_quality 缺h1', m_qual, ['tools/check_quality.py'], 'h1', [QUAL])
 
+# ── 扩展：R20（U1 不得标全球）──
+U1T = os.path.join(ENT, 'roman-currency.json')
+
+
+def m_r20():
+    d = _r(U1T)
+    d['region'] = '全球'
+    _w(U1T, d)
+
+
+case('R20 U1标全球', m_r20, ['tools/check.py'], 'R20', [U1T])
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)
