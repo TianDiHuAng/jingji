@@ -1462,6 +1462,18 @@
       "check_result": "PASS (625); 七道检查中五道全绿",
       "spot_check": "L3 完整度 23/30；案例政策 69%→71%",
       "note": "维基第44轮可用。GA/GB：案例政策覆盖 69%→71%（146/205）。**本轮发现了此前未检查的维度：L3 深度条目的结构完整性**——30 条 L3 中 11 条缺 policy_response，其中包含 **lehman** 与 **subprime-crisis-2007** 两个最核心的案例。补写 5 条：lehman（2008.9.13 纽约联储盖特纳召集会议讨论但不注资；9.15 申请第11章破产；次日巴克莱宣布收购控股权、9.20 破产法院批准；随后野村收购亚太区业务）、subprime-crisis-2007（TARP 依《紧急经济稳定法》2008.10.3 签署＋ARRA 2009＋多德-弗兰克法但未拆分大行；伯南克\"不做则周一可能没有经济\"；到 2018 年 1 月救助资金含息**全部收回**，总额约 6,260 亿美元）、latin-american-debt-1975（IMF 支持借贷但被批评低估风险；墨西哥以未来石油收入抵押借美元；1975—82 年对商业银行债务年复合增 **20.4%**）、panic-1873（英格兰银行加息至 **9%**，英国未出现美欧级混乱）。dotcom-bubble-2000 经查**确无政策应对记载**（格林斯潘言论属成因而非应对）。L3 完整度：23/30，其余 7 条中 6 个为概念条目（policy_response 非 check.py 必需）。当前：案例数据 176/205、来源 732。"
+    },
+    {
+      "round": "续作GC-GF",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 4,
+      "reviewed": 639,
+      "fixed": 125,
+      "sources_total": 732,
+      "check_result": "PASS; 八道检查全绿（check_quality 新增Markdown渲染检查）",
+      "spot_check": "核心34条全为L3；修复125页Markdown粗体未渲染",
+      "note": "维基第45轮可用。GC-GF 三件事：①**核心 34 条全部升级 L3**——此前 growth/recession/utility/market-failure 四个基础概念标为 tier=核心 却只有 L2，违反\"核心→L3\"规则。已补齐 deep_svg 机制图、l3_detail（content＋data_caveat＋controversy_summary）、key_data（索洛\"技术80%/资本20%\"、2013年60%消费支出用于1869年不存在的商品、衰退判定三套门槛 1.5%／15%／75%／10%）、timeline 思想演化、policy_response。②发现 gen_site.py 只渲染 l3_detail 的 data_caveat 与 controversy_summary，新增的 content 字段未被渲染，已支持。③**本轮最重要的发现：全站 125 个页面的 Markdown 粗体 ** 从未渲染**——round 39 只修了单元导语，条目页的 overview／timeline／schools／policy_response／key_data／pending_notes 一直显示字面 **。新增 mdesc() 辅助函数（转义后把 **x** 转 <strong>）并替换全部长文本渲染点，修复后 **0 页面残留**；check_quality.py 加入第 11 项检查（未渲染 Markdown）。当前：L3 34 条（五项全备 26）、核心 34 条全为 L3、案例政策 71%、案例数据 85%、key_data 406 条。"
     }
   ]
 }

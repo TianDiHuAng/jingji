@@ -952,6 +952,20 @@
 - L3 完整度：**23/30**，其余 7 条中 6 个为概念条目（`policy_response` 非 `check.py` 必需）。
 - 现状：**625 条**、来源 732、站点 639 页；案例政策 71%、案例数据 85%。
 
+- **维基百科第 45 轮可用**。三件事，第三件最重要。
+- **① 核心 34 条全部升级 L3**：此前 `growth`／`recession`／`utility`／`market-failure` 四个基础概念标为 `tier=核心` 却只有 L2，违反"核心→L3"规则。已补齐：
+  - `deep_svg` 机制图
+  - `l3_detail`（content ＋ data_caveat ＋ controversy_summary）
+  - `key_data`：索洛"**技术 80%／资本 20%**"、2013 年 **60%** 消费支出用于 1869 年不存在的商品、衰退判定三套门槛（1.5%／15%／75%／10%）
+  - `timeline` 思想演化、`policy_response` 政策含义
+- **② 修 gen_site.py**：此前只渲染 `l3_detail` 的 `data_caveat` 与 `controversy_summary`，新增的 `content` 字段未被渲染。
+- **③ 本轮最重要的发现：全站 125 个页面的 Markdown 粗体 `**` 从未渲染**
+  - round 39 只修了**单元导语**，条目页的 `overview`／`timeline`／`schools`／`policy_response`／`key_data`／`pending_notes` **一直显示字面 `**`**
+  - 新增 `mdesc()` 辅助函数（转义后把 `**x**` 转 `<strong>`），替换**全部**长文本渲染点
+  - 修复后 **0 页面残留**
+  - `check_quality.py` 加入第 **11** 项检查（未渲染 Markdown）
+- 当前：L3 **34 条**（五项全备 26）、**核心 34 条全为 L3**、案例政策 71%、案例数据 85%、`key_data` 403 条。八道检查全绿。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
