@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 737,
+  "count": 740,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8811,6 +8811,42 @@
       "verified": true,
       "link_ok": true,
       "note": "FSB 非银行金融中介(NBFI)官方说明页；含 2013 年五项政策建议与 2020 年 3 月市场压力记述"
+    },
+    {
+      "id": "w-en-bank-holiday",
+      "title": "Emergency Banking Act of 1933",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Emergency_Banking_Act_of_1933",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-risk-pooling",
+      "title": "Risk pool",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Risk_pool",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-self-insurance",
+      "title": "Self-insurance",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Self-insurance",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
     }
   ]
 }

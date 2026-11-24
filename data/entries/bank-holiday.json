@@ -1,0 +1,96 @@
+{
+  "id": "bank-holiday",
+  "title": "1933年美国银行假日",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U3 20世纪上半",
+  "period": "20世纪上半",
+  "region": "北美",
+  "crisis_type": "银行",
+  "one_line": "1933年美国全国性银行停业与《紧急银行救济法》，用\"关门整顿+重新发钞\"止住挤兑。",
+  "overview": "1933 年美国银行假日是大萧条期间**以行政手段中止全国银行营业**、再择优选优复业的处置。起因是挤兑的连锁扩散：**1933 年 2 月 14 日**起，受大萧条打击尤重的密歇根州率先宣布**八天**银行假日；对其他银行倒闭的恐惧从一个州蔓延到另一个州，储户争相提取存款；**数周内**其余各州相继宣布本州银行假日，试图遏制挤兑。**1933 年 3 月 9 日**，国会通过《紧急银行救济法》(Emergency Banking Relief Act)，该法是 1917 年《与敌国贸易法》的修正案，**授权十二家联邦储备银行以\"良好资产\"为担保发行额外货币**，使获准复业的银行能满足一切合法提款需求。**3 月 13 日**银行复业，储户反而排队把藏起来的现金存回银行——**两周内**美国人存回了停业前合法提取的**超过一半**的通货。**3 月 15 日**华尔街复市，道琼斯工业平均指数当日上涨 **8.26 点**。同年晚些时候通过的《1933 年银行法》提供了长期回应（含设立联邦存款保险公司 FDIC）。",
+  "timeline": [
+    {
+      "year": 1933,
+      "event": "2月14日密歇根州率先宣布八天银行假日，挤兑恐慌向其他州蔓延（据 Wikipedia Emergency Banking Act of 1933）"
+    },
+    {
+      "year": 1933,
+      "event": "3月9日国会通过《紧急银行救济法》，授权联邦储备银行以良好资产发行额外货币（据 Wikipedia Emergency Banking Act of 1933）"
+    },
+    {
+      "year": 1933,
+      "event": "3月13日银行复业，储户排队存回现金；3月15日华尔街复市，道指涨8.26点（据 Wikipedia Emergency Banking Act of 1933）"
+    },
+    {
+      "year": 1933,
+      "event": "同年《1933年银行法》通过，设立联邦存款保险公司(FDIC)（据 Wikipedia Emergency Banking Act of 1933）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "\"关门整顿\"视角",
+      "view": "停业给当局争取了核查银行偿付能力的时间，并以\"资产担保发钞\"消除复业银行的流动性疑虑——挤兑因此停止，存款回流",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    },
+    {
+      "holder": "\"信心与信号\"视角",
+      "view": "止住挤兑的关键不只是资金，而是**公开的择优复业名单**这一信号：被批准复业的银行获得隐性认证，未被批准者则被市场淘汰",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "密歇根州银行假日天数",
+      "value": 8,
+      "unit": "天",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：Michigan ... declared an eight-day bank holiday；单一来源待核实。",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    },
+    {
+      "label": "华尔街复市当日道指涨幅",
+      "value": 8.26,
+      "unit": "点",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：the Dow Jones Industrial Average, gaining 8.26 point；单一来源待核实。",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    },
+    {
+      "label": "复业两周内回流存款占停业前提取额的比例（超过）",
+      "value": 50,
+      "unit": "%",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：Within two weeks, Americans had redeposited more than half of the currency that they had legally withdrawn before the bank suspension；单一来源待核实。",
+      "sources": [
+        "w-en-bank-holiday"
+      ]
+    }
+  ],
+  "comparison": "与现代**处置制度**（见 bank-resolution）的区别：1933 年的做法是**全国性临时停业 + 择优复业**，没有区分\"系统重要性\"与\"非系统重要性\"，也没有自救债券；现代处置强调按机构分级、由股东与债权人承担损失。与**存款保险**的关系：银行假日是**应急止血**，FDIC 是**长期制度**——两者在同一年先后出现，正好构成\"先救火、再防火\"的完整序列。",
+  "related": [
+    "crisis-33ce",
+    "great-depression",
+    "bank-run",
+    "deposit-insurance",
+    "bank-resolution",
+    "panic-1930"
+  ],
+  "sources": [
+    "w-en-bank-holiday"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作IM】据维基专属页全文新建；细节与年份待第二来源核实。"
+}
