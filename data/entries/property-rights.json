@@ -41,8 +41,9 @@
     "transaction-cost"
   ],
   "sources": [
-    "w-en-property-rights"
+    "w-en-property-rights",
+    "w-zh-property-rights"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GP】补充 timeline/schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
 }

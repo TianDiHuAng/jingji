@@ -27,8 +27,9 @@
     "supply-side"
   ],
   "sources": [
-    "w-en-demand"
+    "w-en-demand",
+    "w-zh-demand"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。"
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GI】补充 schools。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
 }

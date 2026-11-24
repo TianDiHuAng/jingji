@@ -42,10 +42,11 @@
     "tarp"
   ],
   "sources": [
-    "w-en-toxic-assets"
+    "w-en-toxic-assets",
+    "w-zh-toxic-assets"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。",
+  "pending_notes": "【续作EW】维基恢复后第二批新建；待补辨析与关联。 【续作EX】已补comparison与related。 【续作GJ】补充 timeline/key_data/policy_response。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。",
   "policy_response": [
     {
       "holder": "美国财政部（2009）",

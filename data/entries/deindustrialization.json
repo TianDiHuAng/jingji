@@ -49,8 +49,9 @@
     "labour-market"
   ],
   "sources": [
-    "w-en-deindustrialization"
+    "w-en-deindustrialization",
+    "w-zh-deindustrialization"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。"
+  "pending_notes": "【续作HK】据维基全文新建；数值与学派归属待核实。 【续作HS】补中文维基作为跨语言第二来源（同属维基体系，非独立机构互证）。"
 }

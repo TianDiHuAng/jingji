@@ -47,8 +47,9 @@
       "unit": "个月",
       "year": 1970,
       "comparable_price": false,
-      "note": "原文：the recession lasted for 11 months；单一来源待核实。",
+      "note": "原文：the recession lasted for 11 months（维基页面所载起止月份引自 NBER 商业周期测定委员会的判定，故 NBER 为**原始出处**、维基为转引，二者不构成相互独立的双源印证）。",
       "sources": [
+        "org-nber",
         "w-en-recession-1969-1970"
       ]
     },
@@ -72,8 +73,9 @@
     "oil-crisis-1973"
   ],
   "sources": [
-    "w-en-recession-1969-1970"
+    "w-en-recession-1969-1970",
+    "org-nber"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作HM】据维基专属页全文新建；来源为单一维基页面，数值待第二来源印证。"
+  "pending_notes": "【续作HM】据维基专属页全文新建；来源为单一维基页面，数值待第二来源印证。 【续作HT】补 NBER 作为独立机构来源（衰退起止由其商业周期测定委员会判定）。 【续作HU】修正：NBER 系数据原始出处（维基转引），不构成第二独立来源；该数值仍属单源待核实。"
 }
