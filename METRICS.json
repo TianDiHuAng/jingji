@@ -2290,6 +2290,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18",
       "spot_check": "修 14 处 key_data 来源错标 + cameroon + kipper 日期；记录 6 条缓存缺口",
       "note": "维基第113轮可用。ND-NI：继续内容抽查，发现并修复\"来源错标\"与\"缓存缺口\"两类结构性问题。\n①one_line 日期/数字 vs 来源：24 条数字疑点全为**单位换算假阴性**（亿/万↔billion/million）；日期检查 0 命中（说明 blue-monday 那类日期错已不存在）。\n②one_line 年份 vs 来源：9 条疑点，逐一核对——多为区间/短缓存，其中 russian 的\"1540\"是金额被误当年份（假阳性）。\n③**发现\"缓存缺口\"6 条**：dutch-stock-crashes／panic-1896／panic-1910／us-video-game-crash-1983／yemen-currency-divergence（另 recession 为概念条目属正常）——其 `wiki_full` 缓存存的是**通用页**（Currency crisis／Economic bubble／Bank run）而非专属来源页。**但条目内容经人工阅读核对准确、引用正确**，只是本地无法逐数核对。已在各 pending_notes 注明，并写入 BACKLOG（网络恢复后补抓专属页）。\n④**修复 kipper-wipper-1618 日期不一致**：标题原\"1618–1622\"、概述\"约1618—1623\"、来源记\"1619–1623\"彼此冲突；统一为\"约1618–1623\"并注明来源年份（Kindleberger 记 1619–1623、最严重贬损 1620–1623）。\n⑤**修复 cameroon-crisis-1987 来源错标**：key_data 的 18%／$150m 与 timeline 原误标通用来源 `w-en-debt-crisis`，实则见于专属页 `w-en-cameroonian-economic-crisis`，已改正；1994 年 CFA 贬值 50% 不在所引来源中，改为\"大幅贬值（幅度待核实）\"。\n⑥**系统修复 14 处 key_data 来源错标**：扫描全库\"仅引通用页来源\"的 key_data，逐一验证数字确在专属页缓存中，将其来源改为条目的专属来源（涉及 brexit／china-liquidity／souk-al-manakh／panic-1866／panic-1884／uk-secondary-banking-1973 等）。**0 条遗留**。\n⑦现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作NJ-NK",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 641,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 18/18（check_kd 强匹配 336→339）",
+      "spot_check": "审计：0 条案例全通用来源、crisis_type 均合理；根治 check_kd 单位换算",
+      "note": "维基第114轮可用。NJ-NK：内容审计 + 根治 check_kd 的\"单位换算\"缺陷。\n①审计\"案例 sources 全为通用页\"：**0 条**——每个案例都至少有一个专属来源，结构稳健。\n②审计 crisis_type 与标题一致性：9 条疑似不符，逐一核对**均合理**（法规/制度类如\"国民银行法\"标\"制度\"、\"银行股灾\"标\"泡沫\"，皆正确）。\n③**根治 check_kd 的单位换算缺陷**（这个缺陷在 round 106/129/132/133 反复造成假阴性）：\n（a）新增 `derived_by_unit()`：把\"亿\"按 billion(value/10)/million(value×100)、\"万\"按 million(value/100)/thousand(value×10) 推导等值数字，从而匹配来源中以 billion/million/thousand 表述的同一数值；\n（b）补齐 `UNIT_PAT` 中缺失的**裸「亿」「万」**键（原只有'亿美元''百万'等复合键，导致'万挪威克朗''亿元'等无提示词）。\n④效果：check_kd 强匹配 336 → **339**、弱匹配 46 → 44；单元测试（12亿↔$1.2 billion、750亿↔$75 billion、1200万↔12 million、6000万两↔60 million）全部 strong。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

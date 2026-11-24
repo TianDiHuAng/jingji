@@ -30,7 +30,8 @@ UNIT_PAT = {
     '倍': ['times', 'fold', '-fold'],
     '万亿美元': ['trillion'], '十亿美元': ['billion'], '亿美元': ['billion'],
     '百万美元': ['million'], '百万英镑': ['million'], '百万': ['million'],
-    '十亿': ['billion'], '人': ['people', 'persons', 'inhabitants', 'population'],
+    '十亿': ['billion'], '亿': ['billion', 'million'], '万': ['million', 'thousand'],
+    '人': ['people', 'persons', 'inhabitants', 'population'],
     '年': ['year', 'years'], '个月': ['month', 'months'],
     '天': ['day', 'days'], '点': ['points', 'point'],
 }
@@ -70,12 +71,32 @@ def variants(v):
     return out
 
 
+def derived_by_unit(value, unit):
+    """按中文单位推导等值数字，匹配来源中以 billion/million/thousand 表述的同一数值。
+    例：750（亿）→ 75（billion）；12（亿）→ 1.2（billion）、1200（million）；
+        1200（万）→ 12（million）、12000（thousand）。"""
+    out = set()
+    if not isinstance(value, (int, float)):
+        return out
+    u = str(unit or '')
+    if '万亿' in u:
+        return out
+    if '亿' in u:
+        out |= variants(value / 10.0)     # billion
+        out |= variants(value * 100.0)    # million
+    elif '万' in u:
+        out |= variants(value / 100.0)    # million
+        out |= variants(value * 10.0)     # thousand
+    return out
+
+
 def classify(k, txt):
     low = txt.lower()
     hints = unit_hints(k.get('unit'))
     zh, en = label_kws(k.get('label'))
     weak = False
-    for c in variants(k['value']):
+    cands = set(variants(k['value'])) | derived_by_unit(k['value'], k.get('unit'))
+    for c in cands:
         start = 0
         while True:
             i = txt.find(c, start)
