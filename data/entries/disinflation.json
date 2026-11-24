@@ -1,0 +1,62 @@
+{
+  "id": "disinflation",
+  "title": "反通胀（通胀放缓）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "通胀率的下降，即商品与服务总体价格水平上升速度的放缓。",
+  "overview": "反通胀（disinflation）是通胀率的下降——即一国国内生产总值中商品与服务总体价格水平相对上升速度的放缓。它与通缩（价格水平下降）不同。反通胀常伴随产出与就业的短期代价，其\"牺牲率\"是政策讨论焦点。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "紧缩政策或供给改善 → 通胀率下降",
+      "sources": [
+        "w-en-disinflation"
+      ]
+    },
+    {
+      "step": "预期调整滞后 → 产出与就业短期受损",
+      "sources": [
+        "w-en-phillips-curve"
+      ]
+    },
+    {
+      "step": "可信度高的政策可降低牺牲率",
+      "sources": [
+        "w-en-inflation-targeting"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "以可控的短期产出代价换取通胀下降",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-disinflation"
+      ]
+    },
+    {
+      "holder": "通缩视角",
+      "view": "需区分通胀放缓与价格下跌",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-deflation"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>反通胀（通胀放缓）：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>紧缩政策或供给改善 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期调整滞后 → 产出与</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>可信度高的政策可降低牺牲</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-disinflation",
+    "w-en-phillips-curve"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "forward-contract",
+  "title": "远期合约",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "双方之间非标准化的、在未来特定时间以约定价格买卖某资产的合约。",
+  "overview": "在金融中，远期合约（forward）是双方之间的一种非标准化合约：在未来特定时间、以合约中约定的价格买入或卖出某项资产。与期货不同，远期合约非标准化、通常在场外交易，因而存在对手方风险。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "双方约定未来价格与交割 → 签订非标合约",
+      "sources": [
+        "w-en-forward-contract"
+      ]
+    },
+    {
+      "step": "锁定价格以对冲或投机",
+      "sources": [
+        "w-en-hedging"
+      ]
+    },
+    {
+      "step": "场外交易 → 承担对手方信用风险",
+      "sources": [
+        "w-en-otc"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "对冲视角",
+      "view": "远期可锁定未来价格、消除不确定性",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-forward-contract"
+      ]
+    },
+    {
+      "holder": "对手方风险视角",
+      "view": "非标准化与非集中清算带来信用风险",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-otc"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>远期合约：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方约定未来价格与交割 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>锁定价格以对冲或投机</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>场外交易 → 承担对手方</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-forward-contract",
+    "w-en-otc"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+}

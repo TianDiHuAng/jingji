@@ -1,0 +1,62 @@
+{
+  "id": "nairu",
+  "title": "非加速通胀失业率(NAIRU)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "理论上若低于该失业水平、通胀预期将上升的失业率。",
+  "overview": "非加速通胀失业率（NAIRU）是一种理论上的失业水平：低于该水平，通胀预计将上升。它最初由（研究者）以 NIRU 之名提出。NAIRU 是货币政策与通胀目标的重要参考，但其估计不确定性与政策含义存在争议。具体论述待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "失业低于 NAIRU → 工资与价格上行压力",
+      "sources": [
+        "w-en-nairu"
+      ]
+    },
+    {
+      "step": "通胀加速 → 央行需收紧政策",
+      "sources": [
+        "w-en-nairu"
+      ]
+    },
+    {
+      "step": "（争议）NAIRU 水平不可直接观测、估计不稳",
+      "sources": [
+        "w-en-natural-rate-unemployment"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "货币主义视角",
+      "view": "长期失业趋向 NAIRU，扩张只带来通胀",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-nairu"
+      ]
+    },
+    {
+      "holder": "后凯恩斯视角",
+      "view": "NAIRU 非自然常数、受政策与制度影响",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-post-keynesian"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>非加速通胀失业率(NAIRU)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>失业低于 NAIRU →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通胀加速 → 央行需收紧</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>（争议）NAIRU 水平</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-nairu",
+    "w-en-natural-rate-unemployment"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+}

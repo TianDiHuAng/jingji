@@ -61,6 +61,8 @@
 | panic-1896 | 1896年美国金融恐慌 | 18—19世纪 | 北美 | 货币 | 补充 | S2,S3 |
 | black-friday-1869 | 黑色星期五黄金恐慌(1869) | 18—19世纪 | 北美 | 货币 | 重要 | S3,轮次4 |
 | norwegian-banking-1988 | 挪威银行危机(1988–1992) | 见条目 | 见条目 | 见条目 | 重要 | 续作W |
+| assignat-1790s | 法国指券通胀(1789–1796) | 18—19世纪 | 见条目 | 恶性通胀 | 重要 | 续作AY |
+| continental-currency-1775 | 大陆币通胀(1775–1780s) | 18—19世纪 | 见条目 | 恶性通胀 | 重要 | 续作AY |
 
 ## U3 20世纪上半
 
@@ -517,3 +519,11 @@
 | competitive-devaluation | 货币战争（竞争性贬值） | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
 | beggar-thy-neighbour | 以邻为壑政策 | 理论制度 | 全球 | 理论 | 重要 | 续作AX |
 | international-monetary-system | 国际货币体系 | 理论制度 | 全球 | 货币 | 重要 | 续作AX |
+| nairu | 非加速通胀失业率(NAIRU) | 理论制度 | 全球 | 理论 | 重要 | 续作AZ |
+| disinflation | 反通胀（通胀放缓） | 理论制度 | 全球 | 理论 | 重要 | 续作AZ |
+| potential-output | 潜在产出 | 理论制度 | 全球 | 理论 | 重要 | 续作AZ |
+| forward-contract | 远期合约 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
+| call-option | 看涨期权 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
+| put-option | 看跌期权 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
+| spot-contract | 即期合约 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |
+| interest-rate-swap | 利率互换 | 理论制度 | 全球 | 制度 | 重要 | 续作AZ |

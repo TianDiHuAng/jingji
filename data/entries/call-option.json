@@ -1,0 +1,62 @@
+{
+  "id": "call-option",
+  "title": "看涨期权",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "赋予买方在约定时间以约定价格买入一定数量标的资产权利的期权合约（非义务）。",
+  "overview": "在金融中，看涨期权是一种期权合约，赋予其买方在约定时间以约定价格买入约定数量的特定商品、证券或其他金融工具的权利，而非义务。看涨期权是期权的基本类型之一，其价值随标的价格上升而增加。具体定价待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "买方支付权利金 → 获得买入权利",
+      "sources": [
+        "w-en-call-option"
+      ]
+    },
+    {
+      "step": "标的价格上涨 → 期权价值上升",
+      "sources": [
+        "w-en-call-option"
+      ]
+    },
+    {
+      "step": "用于对冲上行风险或杠杆化投机",
+      "sources": [
+        "w-en-black-scholes"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "对冲视角",
+      "view": "看涨期权可锁定买入成本上限",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-call-option"
+      ]
+    },
+    {
+      "holder": "杠杆视角",
+      "view": "以小博大放大收益与损失",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-option"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>看涨期权：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>买方支付权利金 → 获得</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>标的价格上涨 → 期权价</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于对冲上行风险或杠杆化</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-call-option",
+    "w-en-option"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+}

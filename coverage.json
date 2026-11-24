@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 496,
+  "total": 504,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -6449,6 +6449,110 @@
       "period": "18—19世纪",
       "region": "北美",
       "crisis_type": "恶性通胀"
+    },
+    {
+      "id": "nairu",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "disinflation",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "potential-output",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "forward-contract",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "call-option",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "put-option",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "spot-contract",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "interest-rate-swap",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
     }
   ]
 }

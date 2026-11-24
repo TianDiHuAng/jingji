@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 585,
+  "count": 593,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7021,6 +7021,102 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API(full extract)核对(本会话抓取全文)"
+    },
+    {
+      "id": "w-en-nairu",
+      "title": "NAIRU",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/NAIRU",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-disinflation",
+      "title": "Disinflation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Disinflation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-potential-output",
+      "title": "Potential output",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Potential_output",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-forward-contract",
+      "title": "Forward contract",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Forward_contract",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-call-option",
+      "title": "Call option",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Call_option",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-put-option",
+      "title": "Put option",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Put_option",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-spot-contract",
+      "title": "Spot contract",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Spot_contract",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-interest-rate-swap",
+      "title": "Interest rate swap",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
     }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "id": "interest-rate-swap",
+  "title": "利率互换",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "两方之间交换利息率的利率衍生品，属\"线性\"IRD，是最常见的互换类型。",
+  "overview": "在金融中，利率互换（IRS）是一种利率衍生品（IRD），涉及两方之间交换利率。具体而言，它是一种\"线性\"利率衍生品，也是最常见的（互换类型）之一（通常一方付固定利率、另一方付浮动利率）。利率互换用于管理利率风险与调整资产负债敏感性。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "一方付固定、一方付浮动的利率 → 签订互换",
+      "sources": [
+        "w-en-interest-rate-swap"
+      ]
+    },
+    {
+      "step": "用于调整资产负债的利率敏感性",
+      "sources": [
+        "w-en-alm"
+      ]
+    },
+    {
+      "step": "场外交易 → 对手方与不透明风险",
+      "sources": [
+        "w-en-otc"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "风险管理视角",
+      "view": "利率互换精细调整利率敞口",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-interest-rate-swap"
+      ]
+    },
+    {
+      "holder": "系统性视角",
+      "view": "大规模场外互换在压力下放大传染",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-systemic-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "宏观/衍生品概念，与相关理论及案例互补；具体适用待核实。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>利率互换：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>一方付固定、一方付浮动的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>用于调整资产负债的利率敏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>场外交易 → 对手方与不</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-interest-rate-swap",
+    "w-en-swap"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+}

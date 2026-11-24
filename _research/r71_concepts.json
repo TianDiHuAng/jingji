@@ -1,0 +1,47 @@
+{
+  "nairu": {
+    "title": "NAIRU",
+    "extract": "The non-accelerating inflation rate of unemployment (NAIRU) is a theoretical level of unemployment below which inflation would be expected to rise. It was first introduced as the NIRU by Franco Modigliani and Loukas Demetrios Papademos in 1975, as an improvement over the \"natural rate of unemployment\" concept, which was proposed earlier by Milton Friedman.",
+    "slug": "NAIRU"
+  },
+  "disinflation": {
+    "title": "Disinflation",
+    "extract": "Disinflation is a decrease in the rate of inflation – a slowdown in the relative rate of increase of the general price level of goods and services in a nation's gross domestic product over time. It is the opposite of reflation.",
+    "slug": "Disinflation"
+  },
+  "potential-output": {
+    "title": "Potential output",
+    "extract": "In economics, potential output refers to the highest level of real gross domestic product that can be sustained over the long term. Actual output happens in real life while potential output shows the level that could be achieved.",
+    "slug": "Potential_output"
+  },
+  "forward-contract": {
+    "title": "Forward contract",
+    "extract": "In finance, a forward contract, or simply a forward, is a non-standardized contract between two parties to buy or sell an asset at a specified future time at a price agreed on in the contract, making it a type of derivative instrument. The party agreeing to buy the underlying asset in the future assumes a long position, and the party agreeing to sell the asset in the future assumes a short position. The price agreed upon is called the delivery price, which is equal to the forward price at the time the contract is entered into.",
+    "slug": "Forward_contract"
+  },
+  "call-option": {
+    "title": "Call option",
+    "extract": "In finance, a call option is an option contract that gives its buyer the right, but not the obligation, to buy an agreed quantity of a particular commodity, security, or other financial instrument from the seller at a specified price. The asset or instrument to which the option relates is known as the underlying, and the specified purchase price is known as the strike price. The right may be exercisable at or before a specified date, depending on the terms of the option.",
+    "slug": "Call_option"
+  },
+  "put-option": {
+    "title": "Put option",
+    "extract": "In finance, a put or put option is a derivative instrument in financial markets that gives the holder the right to sell an asset, at a specified price, by a specified date to the writer of the put. The purchase of a put option is interpreted as a negative sentiment about the future value of the underlying stock. The term \"put\" comes from the fact that the owner has the right to \"put up for sale\" the stock or index.",
+    "slug": "Put_option"
+  },
+  "spot-contract": {
+    "title": "Spot contract",
+    "extract": "In finance, a spot contract, spot transaction, or simply spot, is a contract of buying or selling a commodity, security or currency for immediate settlement on the spot date, which is normally two business days after the trade date. The settlement price is called spot price. A spot contract is in contrast with a forward contract or futures contract where contract terms are agreed now but delivery and payment will occur at a future date.",
+    "slug": "Spot_contract"
+  },
+  "interest-rate-swap": {
+    "title": "Interest rate swap",
+    "extract": "In finance, an interest rate swap, IRS, is an interest rate derivative, IRD. It involves exchange of interest rates between two parties. In particular it is a \"linear\" IRD and one of the most liquid, benchmark products. It has associations with forward rate agreements (FRAs), and with zero coupon swaps (ZCSs).",
+    "slug": "Interest_rate_swap"
+  },
+  "currency-swap-2": {
+    "title": "Currency swap",
+    "extract": "Currency swap may refer to:Cross-currency swap, a financial derivative\nForeign exchange swap, a simultaneous purchase and sale of identical amounts of one currency for another with two different value dates\nCentral bank liquidity swap, a swap line between central banks",
+    "slug": "Currency_swap"
+  }
+}
