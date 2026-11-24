@@ -124,8 +124,9 @@ svg .dot{fill:var(--accent)}
 footer{border-top:1px solid var(--border);color:var(--muted);font-size:13px;padding:20px 0;text-align:center}
 '''
 
-def page(title, body, depth=0):
-    """depth: 相对站点根目录的层级；条目页在 site/ 根，depth=0"""
+def page(title, body, depth=0, desc=''):
+    """depth: 相对站点根目录的层级；条目页在 site/ 根，depth=0
+    desc: 页面摘要（SEO/分享用）；缺省用站点通用描述。"""
     prefix = '../'*depth
     if depth==0: prefix=''
     nav = (f'<a href="{prefix}index.html">首页</a>'
@@ -137,9 +138,17 @@ def page(title, body, depth=0):
            f'<a href="{prefix}sources.html">来源</a>'
            f'<a href="{prefix}verification.html">核实状态</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
+    _DSC = (desc or '').strip().replace('\n', ' ')
+    _DSC = re.sub(r'\*\*|\[|\]|【|】', '', _DSC)
+    if len(_DSC) > 150:
+        _DSC = _DSC[:148].rstrip('，。；、 ') + '…'
+    if not _DSC:
+        _DSC = ('按时期、地区与危机类型组织的经济史与金融危机案例库：'
+                '含危机案例、理论概念、时间线与可核验来源。')
     return f'''<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} — 经济史与金融危机案例库</title>
+<meta name="description" content="{html.escape(_DSC)}">
 <link rel="stylesheet" href="{prefix}style.css"></head><body>
 <header><div class="wrap"><span class="brand">经济史与金融危机案例库</span><nav>{nav}</nav></div></header>
 <main><div class="wrap">{body}</div></main>
@@ -239,7 +248,8 @@ home += ['</div>',
  '<div class="card"><a href="matrix.html"><strong>覆盖矩阵</strong></a><p class="src-list">时期×地区×危机类型覆盖与空白</p></div>',
     '<div class="card"><a href="verification.html"><strong>数据核实状态</strong></a><p class="src-list">已双源印证的数据与两源差异并列项</p></div>',
  '</div>']
-open(os.path.join(SITE,'index.html'),'w',encoding='utf-8').write(page('首页',''.join(home)))
+open(os.path.join(SITE,'index.html'),'w',encoding='utf-8').write(page('首页',''.join(home),
+    desc='按时期（U1—U6）、地区与危机类型组织的经济史与金融危机案例库，含案例、概念、时间线与可核验来源。'))
 
 # ---------- 单元页 ----------
 for u in units:
@@ -251,7 +261,8 @@ for u in units:
     for e in sorted(by_unit[u], key=lambda x:x.get('period','')):
         body.append(entry_card(e))
     body.append('</div>')
-    open(os.path.join(SITE,f'unit-{uid}.html'),'w',encoding='utf-8').write(page(u,''.join(body)))
+    open(os.path.join(SITE,f'unit-{uid}.html'),'w',encoding='utf-8').write(
+        page(u, ''.join(body), desc=UNIT_INTRO.get(u, '')))
 
 # ---------- 条目页 ----------
 def src_link(sid):
@@ -354,7 +365,10 @@ def render_entry(e):
     return ''.join(b)
 
 for eid, e in entries.items():
-    open(os.path.join(SITE,f'{eid}.html'),'w',encoding='utf-8').write(page(e.get('title',eid), render_entry(e)))
+    _d = (e.get('one_line') or '') + ' ' + ' · '.join(
+        x for x in [e.get('period',''), e.get('region',''), e.get('crisis_type','')] if x)
+    open(os.path.join(SITE,f'{eid}.html'),'w',encoding='utf-8').write(
+        page(e.get('title',eid), render_entry(e), desc=_d))
 
 # ---------- 全站索引 ----------
 idx = ['<h1>全站条目索引</h1>', '<p class="lead">共 '+str(len(entries))+' 条，按单元与标题排列。</p>']
@@ -364,7 +378,8 @@ for u in units:
         idx.append(f'<div class="card"><span class="lvl">{e.get("level")}</span> '
             f'<a href="{e["id"]}.html">{esc(e.get("title"))}</a> '
             f'<span class="src-list">{esc(e.get("crisis_type"))} · {esc(e.get("region"))}</span></div>')
-open(os.path.join(SITE,'index-all.html'),'w',encoding='utf-8').write(page('全站索引',''.join(idx)))
+open(os.path.join(SITE,'index-all.html'),'w',encoding='utf-8').write(page('全站索引',''.join(idx),
+    desc='全部案例与概念条目的完整索引，按名称排序。'))
 
 # ---------- 时间线 ----------
 tl_entries = []
@@ -378,7 +393,8 @@ timeline = ['<h1>时间线</h1>', '<p class="lead">按年份排列（仅含已�
 for y,e in tl_entries:
     timeline.append(f'<tr><td>{y}</td><td><a href="{e["id"]}.html">{esc(e.get("title"))}</a></td><td>{esc(e.get("crisis_type"))}</td></tr>')
 timeline.append('</table>')
-open(os.path.join(SITE,'timeline.html'),'w',encoding='utf-8').write(page('时间线',''.join(timeline)))
+open(os.path.join(SITE,'timeline.html'),'w',encoding='utf-8').write(page('时间线',''.join(timeline),
+    desc='按年份排列的危机事件与制度变革时间线。'))
 
 # ---------- 来源列表 ----------
 sl = ['<h1>来源列表</h1>', f'<p class="lead">共 {len(src["sources"])} 条；已核对 {ver_count} 条，待核实 {len(src["sources"])-ver_count} 条。</p>',
@@ -388,7 +404,8 @@ for s in src['sources']:
     link = f'<a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["title"])}</a>' if s.get('url') else esc(s['title'])
     sl.append(f'<tr><td>{link}</td><td>{esc(s.get("author"))}</td><td>{esc(s.get("year"))}</td><td>{esc(s.get("type"))}</td><td>{flag}</td></tr>')
 sl.append('</table>')
-open(os.path.join(SITE,'sources.html'),'w',encoding='utf-8').write(page('来源列表',''.join(sl)))
+open(os.path.join(SITE,'sources.html'),'w',encoding='utf-8').write(page('来源列表',''.join(sl),
+    desc='本站引用的全部来源，标注类型、语言与可达性。'))
 
 # ---------- 覆盖矩阵页 ----------
 matrix_html = open(os.path.join(ROOT,'COVERAGE_MATRIX.md'),encoding='utf-8').read()
@@ -420,7 +437,8 @@ for line in matrix_html.replace('\r', '').splitlines():
     else:
         _flush()
 _flush()
-open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖矩阵',''.join(mbody)))
+open(os.path.join(SITE,'matrix.html'),'w',encoding='utf-8').write(page('覆盖矩阵',''.join(mbody),
+    desc='时期 × 地区 × 危机类型的覆盖矩阵与空白格子标注。'))
 
 # ---------- 数据核实状态页 ----------
 OFFICIAL_PREFIX = ('fed-', 'owid-')
@@ -514,7 +532,8 @@ for t in CONCEPT_ORDER:
         cb.append(f'<tr><td><a href="{e["id"]}.html">{esc(e.get("title"))}</a></td>'
                   f'<td>{esc(e.get("one_line"))}</td></tr>')
     cb.append('</table>')
-open(os.path.join(SITE,'concepts.html'),'w',encoding='utf-8').write(page('概念索引',''.join(cb)))
+open(os.path.join(SITE,'concepts.html'),'w',encoding='utf-8').write(page('概念索引',''.join(cb),
+    desc='经济学与金融学概念、理论与制度条目索引。'))
 
 # ---------- 案例索引页 ----------
 UNIT_ORDER = ['U1 早期—17世纪', 'U2 18—19世纪', 'U3 20世纪上半', 'U4 20世纪下半', 'U5 21世纪']
@@ -543,7 +562,8 @@ for i, u in enumerate(UNIT_ORDER):
                   f'<td>{esc(e.get("region"))}</td><td>{esc(e.get("crisis_type"))}</td>'
                   f'<td>{esc(e.get("level"))}</td></tr>')
     kb.append('</table>')
-open(os.path.join(SITE,'cases.html'),'w',encoding='utf-8').write(page('案例索引',''.join(kb)))
+open(os.path.join(SITE,'cases.html'),'w',encoding='utf-8').write(page('案例索引',''.join(kb),
+    desc='按时期分组的金融危机案例索引，标注地区与类型。'))
 
 # ---------- CSS 文件 ----------
 open(os.path.join(SITE,'style.css'),'w',encoding='utf-8').write(CSS)
