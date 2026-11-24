@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**央行行政管制与外部融资**：**2008年10月**乌克兰国家银行对**提前取款实施暂停令(moratorium)**。到 2008年12月11日，银行组合中不良贷款占比升至 **10.3%** 且继续上升；银行几乎停止放贷、客户争相提取存款。2008年11月工业产出同比**骤降 28.6%**（10月已降 19.8%）。**国际层面**：**2009年4月** IMF 预测乌克兰经济 2009 年萎缩 **8.0%**、2010 年增长 1.0%，并与乌方就救助计划展开磋商（IMF 驻乌代表团团长 Ceyla Pazarbasioglu 参与）。",
+      "basis": "据 Wikipedia「Ukrainian crisis of 2008」2008 与 2009 章节；政策主体：乌克兰国家银行/IMF；动作：对提前取款实施暂停令、IMF 救助磋商；效果评价待核实",
+      "sources": [
+        "w-en-ukrainian-crisis-2008",
+        "w-en-russian-financial-crisis-2014-2016"
+      ]
+    }
+  ],
   "comparison": "东欧转型经济体在2008危机中的案例；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2008–2009乌克兰金融危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>乌克兰受全球衰退重创；世</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -102,5 +112,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": " 【续作】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": " 【续作】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作FN】基于维基全文补写policy_response。"
 }

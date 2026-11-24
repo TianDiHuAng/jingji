@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**三方协议（1936年9月）**：该协议是**非正式、临时性**的。签署国同意**避免竞争性贬值**、将货币价值维持在现有水平——前提是这种努力不会严重妨碍**国内繁荣**。**法国**作为协议的一部分对本国货币**贬值**；其余金集团国家——**比利时、瑞士、荷兰**——也签署了该协议。",
+      "basis": "据 Wikipedia「Tripartite Agreement of 1936」Agreement 章节；政策主体：法、英、美及金集团国家；动作：承诺避免竞争性贬值、法国贬值换取协议；效果评价待核实",
+      "sources": [
+        "w-en-gold-bloc",
+        "w-en-tripartite-1936"
+      ]
+    }
+  ],
   "comparison": "与1944年布雷顿森林体系相比，1936年协定只是无约束力的协商机制；但它是战时货币合作的先声。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>三方货币协定(1936)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>金本位瓦解后各国竞争性贬</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1936年9月三方协定 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>有限合作缓解汇率摩擦（但</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -73,5 +83,5 @@
     "london-econ-1933"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体日期与数据待核实。【续作BA】 【续作DO】policy_response 由概述提炼。 【续作FN】基于维基全文补写policy_response。"
 }

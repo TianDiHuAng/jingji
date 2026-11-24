@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**以出售完成的处置（非政府救助）**：巨额损失归因于其**未对冲**的按揭资产组合（以 CDO 形式持有）价值下跌；交易对手对美林**偿付能力与货币市场再融资能力**失去信心，最终导致其被出售。部分银行甚至考虑：若雷曼倒闭，就**停止与美林交易**。为应对债券需求骤降，金融机构以**贱卖价格**出售按揭证券与 CDO 以偿付到期债务。（2008年9月的收购由美国银行完成。）",
+      "basis": "据 Wikipedia「Merrill Lynch」Sale to Bank of America 章节；处置方式：被美国银行收购（市场化并购，非政府注资）；背景为CDO损失与交易对手信心崩塌；效果评价待核实",
+      "sources": [
+        "w-en-merrill-lynch",
+        "w-en-bank-run"
+      ]
+    }
+  ],
   "comparison": "与贝尔斯登（被摩根大通收购）、雷曼（破产）、AIG（救助）共同构成2008年9月的多种处置路径。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美林(Merrill Lynch)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>美林在金融危机中被美国银</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -72,5 +82,5 @@
     "subprime-crisis-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FN】基于维基全文补写policy_response。"
 }
