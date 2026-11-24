@@ -2470,6 +2470,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
       "spot_check": "补 3 条 policy_response（政策覆盖 146→149）+ 修 finnish 残留未核实 20%",
       "note": "维基第128轮可用。OJ-OK：网络仍不可用；据本地缓存**补 3 条 case 的 policy_response**，并**修一处残留未核实数字**。\n①**找候选**：筛出\"有专属富缓存、缺 policy_response、缓存含政策词\"的 case 24 条；逐条读缓存政策段落，选事实充分者。\n②**补 3 条 policy_response**（事实均取自其已引专属来源的本地缓存，未引入外部事实）：\nnixon-shock（正文补\"90天/10%\"精确值后提炼：工资物价冻结+10%进口附加税+取消美元兑金）、\ncreditanstalt（原 overview 为 stub\"待核实补充\"，据 w-en-creditanstalt 缓存改写并加\"恩德尔救助/否决国有化/1934合并\"）、\ndrexel（补\"监管与结局\"句并加\"SECK/NYSE/纽联储存疑→和解→第11章破产、救助未落实\"）。\n案例 policy_response 覆盖 146 → **149**。\n③**发现并修复残留**：check_polnum 报 `finnish-banking-1990` \"20%\" 完全找不到——查系 **round 131 只改了 overview 的免责声明、却漏改 policy_response 仍断言\"失业率从近零升至近20%\"**（来源未载）。已把 policy_response 改为\"失业率大幅上升（具体峰值待核实）\"。check_polnum 现\"完全找不到 0\"。\n④**教训**：一处\"未核实数字\"往往在多个字段重复出现——**改一处要全字段搜同款**（overview/one_line/policy_response/…）。\n⑤现状：641 条、来源 742、页面 655；案例政策 149 条；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
+    },
+    {
+      "round": "续作OL",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 83,
+      "fixed": 3,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 28/28",
+      "spot_check": "body_num 81→83 未匹配审阅；修 blue-monday 676 / sterling 1.60（含 policy_response 同款）",
+      "note": "维基第129轮可用。OL：系统性\"全字段搜同款\"扫描 body_num 的 81→83 条未匹配，找出并修复 2 处无源数字。\n①**审阅 check_body_num 未匹配 83 条**（overview/one_line/comparison 中数字在来源找不到）：绝大多数为**日期/周期区间/示例/交叉引用**的假阴性（如\"6月\"\"3—10年\"\"从4.25%升到4.50%举例\"\"标普500\"\"127号文\"\"见cypriot-2013的47.5%\"）。\n②**发现 2 处真·无源数字**：\n（a）`blue-monday-2009` overview 免责声明仍复述\"标普 500 于 3 月见底约 676 点\"——该数不在本条来源（属另一事件），**违反\"不复述未核实数字\"**。已删该数值。\n（b）`sterling-crisis-1976` overview\"一度跌破1.60美元区间\"——所引来源**未载该汇率数值**。已改为\"具体汇率数值待核实\"。\n③**\"全字段搜同款\"当场复发**：改完 sterling 的 overview 后，check_polnum 又报 policy_response 里**同样有 1.60**（我上一轮刚在 finnish 上踩过同一坑）。已一并改 policy_response，并清理替换产生的重复表述。\n④**结果**：check_polnum \"完全找不到\" = 0；check_body_num 未匹配 83 → **81**（真去掉 2 个无源数字）；十一道检查全绿。\n⑤现状：641 条、来源 742、页面 655；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 28/28。"
     }
   ]
 }
