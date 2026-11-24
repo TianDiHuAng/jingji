@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "一连串救助措施与王室日益加强的控制，最终导致公司（商业职能）被国家接管、并在随后以《皮特印度法案》等确立政府监督。",
+      "basis": "据本条目正文严格提炼（须同时含政策主体与政策动作），未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-bengal-bubble-1769",
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
   "comparison": "18世纪早期殖民贸易泡沫案例，与南海/密西西比泡沫同期相继。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>孟加拉泡沫(1769–1784)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>东印度公司在克莱武率领下</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -104,5 +114,5 @@
     "panic-1825"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-bengal-bubble-of-1769。 【续作】升L2(据REST摘要)。 【续作BM】补关键数据（单源，据维基全文）。 【续作BY】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-bengal-bubble-of-1769。 【续作】升L2(据REST摘要)。 【续作BM】补关键数据（单源，据维基全文）。 【续作BY】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
 }

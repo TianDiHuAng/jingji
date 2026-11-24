@@ -88,5 +88,5 @@
     "chinese-stock-bubble-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-stock-market-downturn-of-2002。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-stock-market-downturn-of-2002。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。"
 }

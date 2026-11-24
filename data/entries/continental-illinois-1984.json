@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "其制度意义在于监管的应对方式：联邦存款保险公司(FDIC) 破例对**所有存款人（含超过保险限额者）**提供保护，并注入资本、更换管理层，实质上宣告了\"**太大而不能倒**\"(too big to fail) 的实践先例。",
+      "basis": "据本条目正文严格提炼（须同时含政策主体与政策动作），未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-penn-square",
+        "w-en-continental-illinois"
+      ]
+    }
+  ],
   "comparison": "与2008年雷曼（被放任倒闭）形成对照：大陆伊利诺伊的\"全保\"与雷曼的\"不救\"是危机处置光谱的两端。与北岩银行(2007)同为批发融资依赖型银行的挤兑样本。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>伊利诺伊大陆银行救助(1984)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>大额能源贷款参与（含Pe</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>批发存款为主的结构 + </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>FDIC 对所有存款人（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -111,5 +121,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
 }

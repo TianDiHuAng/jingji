@@ -126,5 +126,5 @@
     "irish-banking-2008"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作DL】部分数据经OWID二次核对。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作AT】补关键数据（单源）。 【续作BG】GDP增速已用世界银行/OWID数据核对。 【续作DL】部分数据经OWID二次核对。 【续作DO】policy_response 由概述提炼。"
 }

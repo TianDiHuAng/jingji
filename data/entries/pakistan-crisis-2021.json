@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "卢布（卢比）大幅贬值、通胀飙升至数十年高位，央行被迫大幅加息并实施进口管制。2023年巴基斯坦与IMF达成备用安排(SBA)救助协议以避免违约，此后又在2024年进入规模更大的扩展基金便利(EFF)谈判。",
+      "basis": "据本条目正文严格提炼（须同时含政策主体与政策动作），未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-debt-crisis",
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
+    }
+  ],
   "comparison": "与同为「债务」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴基斯坦经济危机(2021–2024)：机制示意（债务）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -114,5 +124,5 @@
     "stabilization-program"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-pakistani-economic-crisis-2021-2024。 【轮次10】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
 }

@@ -58,7 +58,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "委内瑞拉2009—2010年的银行危机以政府主导的接管为主要特征。2009年，政府以违规、资本不足与\"监管不合规\"为由接管了多家银行（含 Banco de Venezuela 等），并推动银行体系的国有化与集中化。",
+      "basis": "据本条目正文严格提炼（须同时含政策主体与政策动作），未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-financial-crisis",
+        "w-en-venezuelan-banking-crisis-of-2009-2010"
+      ]
+    }
+  ],
   "comparison": "委内瑞拉2009-10银行危机；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委内瑞拉银行危机(2009–2010)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>委内瑞拉政府接管多家银行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -74,5 +84,5 @@
     "venezuela-crisis-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-venezuelan-banking-crisis-of-2009-2010替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
 }

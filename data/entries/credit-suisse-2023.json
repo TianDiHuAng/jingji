@@ -89,7 +89,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "2023年3月19日，瑞士银行瑞银集团（UBS）同意以30亿瑞郎（CHF 3 billion）的全股票交易收购瑞信（Credit Suisse），该交易由瑞士政府与瑞士金融市场监管局（FINMA）促成，瑞士国家银行通过提供支持协助完成。",
+      "basis": "据本条目正文严格提炼（须同时含政策主体与政策动作），未引入新事实；效果评价待核实",
+      "sources": [
+        "w-en-credit-suisse-2023",
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
   "comparison": "与2023年硅谷银行事件同期，同属\"存款快速流失+监管紧急处置\"模式；瑞士以跨境并购而非破产处置。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>瑞信被瑞银收购(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>瑞银同意以30亿瑞郎全股</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -104,5 +114,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述严格提炼。 【续作DO】policy_response 严格提炼。"
 }
