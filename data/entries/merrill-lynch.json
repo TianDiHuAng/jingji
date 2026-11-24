@@ -8,7 +8,7 @@
   "region": "北美",
   "crisis_type": "银行",
   "one_line": "美国跨国投资管理与财富管理机构，2008年危机中被美国银行收购，现为美银旗下分部。",
-  "overview": "美林（Merrill Lynch, Pierce, Fenner & Smith Incorporated，现以 Merrill 名义经营）是一家美国跨国投资管理与财富管理机构，现为美国银行（Bank of America）旗下的投资管理与财富管理分部。此前以 Merrill Lynch 品牌闻名。2008年金融危机期间被美国银行收购。具体条款待核实。",
+  "overview": "美林（Merrill Lynch, Pierce, Fenner & Smith Incorporated，现以 Merrill 名义经营）是一家美国跨国投资管理与财富管理机构，现为美国银行（Bank of America）旗下的投资管理与财富管理分部。此前以 Merrill Lynch 品牌闻名。2008年金融危机期间被美国银行收购",
   "timeline": [
     {
       "year": 2008,
@@ -82,5 +82,5 @@
     "subprime-crisis-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FN】基于维基全文补写policy_response。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FN】基于维基全文补写policy_response。 【清理】原概述结尾含「具体条款待核实」，已移入此处。"
 }

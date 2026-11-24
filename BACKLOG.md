@@ -84,3 +84,36 @@
 
 **已于 round 111 全部完成**——38 条英文正文均改写为中文，R21 归零。
 同时改进判据：先剥离括号内容、英文专名序列与缩写，再计算占比，避免误伤「中文含专名」的条目。
+
+## 待办：R22 内容过短（335 条，round 112 记录）
+
+**性质**：tier 为「核心」或「重要」，但 overview < 150 字。已扩写 10 条，余 **325 条**。
+
+**判断原则**：不是所有都要拉长。
+- **机制类核心概念**（如 systemic-risk／currency-crisis／moral-hazard 一类）→ **应扩写**，补机制与危机关联
+- **工具性概念**（如 beta／duration／IPO／basis-point）→ **简短即完整**，强行注水反而降低质量
+
+**最短的 20 条**（优先处理）：
+
+- `initial-public-offering`（82 字，重要）
+- `beta`（83 字，重要）
+- `herd-behavior`（83 字，重要）
+- `bank-failure`（84 字，重要）
+- `collateralized-debt-obligation`（84 字，重要）
+- `new-classical`（86 字，重要）
+- `adaptive-expectations`（87 字，重要）
+- `resource-curse`（87 字，重要）
+- `federal-reserve`（88 字，重要）
+- `credit-default-swap`（89 字，重要）
+- `quantitative-tightening`（89 字，重要）
+- `risk-premium`（89 字，重要）
+- `stock-exchange`（89 字，重要）
+- `discount-window`（90 字，重要）
+- `duration-finance`（90 字，重要）
+- `fear-of-floating`（90 字，重要）
+- `fx-intervention`（90 字，重要）
+- `information-asymmetry`（90 字，重要）
+- `token-money`（90 字，重要）
+- `double-entry`（91 字，重要）
+
+**修法**：读 `_research/wiki_full/<id>.txt`（若无则先抓），扩写 overview 并补「与金融危机的关系」；改完跑 `check.py` 确认 WARNINGS 下降。

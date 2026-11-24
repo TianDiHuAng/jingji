@@ -8,7 +8,7 @@
   "region": "欧洲",
   "crisis_type": "银行",
   "one_line": "1931年欧洲金融不稳定高峰：奥地利与德国多家大银行倒闭，引发德英相继退出金本位。",
-  "overview": "1931年欧洲银行危机是一次重大的金融不稳定事件，其高峰是奥地利与德国多家大银行倒闭，包括1931年5月11日的 Creditanstalt、1931年7月11日的 Landesbank der Rheinprovinz 与1931年7月13日的 Danat-Bank。该危机触发德国于1931年7月15日退出金本位，英国随后于1931年9月19日退出，并造成广泛的（影响）。具体规模待核实。",
+  "overview": "1931年欧洲银行危机是一次重大的金融不稳定事件，其高峰是奥地利与德国多家大银行倒闭，包括1931年5月11日的 Creditanstalt、1931年7月11日的 Landesbank der Rheinprovinz 与1931年7月13日的 Danat-Bank。该危机触发德国于1931年7月15日退出金本位，英国随后于1931年9月19日退出，并造成广泛的（影响）",
   "timeline": [
     {
       "year": 1931,
@@ -147,5 +147,5 @@
     "great-depression"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作AS】补关键数据（单源）。 【续作DS】policy_response 人工核验撰写。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作AS】补关键数据（单源）。 【续作DS】policy_response 人工核验撰写。 【清理】原概述结尾含「具体规模待核实」，已移入此处。"
 }

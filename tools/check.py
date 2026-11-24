@@ -293,6 +293,12 @@ def main():
             if _r21 > 0.45:
                 err('R21', _e.get('id', '?'),
                     'overview 英文占比 %.0f%%（剥离专名后仍超 45%%）' % (_r21 * 100))
+    # R22 重要/核心条目的 overview 不应过短（<150 字）
+    for _e in entries:
+        if _e.get('tier') in ('核心', '重要') and len(_e.get('overview') or '') < 150:
+            warn('R22', _e.get('id', '?'),
+                 'tier=%s 但 overview 仅 %d 字（建议 ≥150）'
+                 % (_e.get('tier'), len(_e.get('overview') or '')))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

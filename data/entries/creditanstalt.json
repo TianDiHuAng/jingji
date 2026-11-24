@@ -8,7 +8,7 @@
   "region": "欧洲",
   "crisis_type": "银行",
   "one_line": "1855年在维也纳成立的大型奥地利银行，全称 Österreichische Credit-Anstalt für Handel und Gewerbe。",
-  "overview": "Creditanstalt（全称原为 k. k. priv. Österreichische Credit-Anstalt für Handel und Gewerbe）是一家大型奥地利银行，于1855年在维也纳成立。它是奥匈帝国时期重要的金融机构。其后续发展与1931年中欧银行危机的关系有待核实补充。具体信息待核实。",
+  "overview": "Creditanstalt（全称原为 k. k. priv. Österreichische Credit-Anstalt für Handel und Gewerbe）是一家大型奥地利银行，于1855年在维也纳成立。它是奥匈帝国时期重要的金融机构。其后续发展与1931年中欧银行危机的关系有待核实补充",
   "timeline": [
     {
       "year": 1855,
@@ -72,5 +72,5 @@
     "gold-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。"
 }

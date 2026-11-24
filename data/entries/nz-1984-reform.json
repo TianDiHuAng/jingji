@@ -8,7 +8,7 @@
   "region": "大洋洲",
   "crisis_type": "其他",
   "one_line": "1984年起新西兰财政部长 Roger Douglas 推行的新自由主义经济改革（Rogernomics）。",
-  "overview": "Rogernomics（\"Roger\"与\"economics\"的合成词，仿 Reaganomics 构词）是新西兰财政部长罗杰·道格拉斯（Roger Douglas）于1984年起推动的新自由主义经济改革。改革包括税制调整——实施减税并引入商品与服务税（GST，初始税率为10%）。这场改革被视为发达国家中最激进的市场化转向之一，其社会代价与成效长期存在争论。具体措施待核实。",
+  "overview": "Rogernomics（\"Roger\"与\"economics\"的合成词，仿 Reaganomics 构词）是新西兰财政部长罗杰·道格拉斯（Roger Douglas）于1984年起推动的新自由主义经济改革。改革包括税制调整——实施减税并引入商品与服务税（GST，初始税率为10%）。这场改革被视为发达国家中最激进的市场化转向之一，其社会代价与成效长期存在争论",
   "timeline": [
     {
       "year": 1984,
@@ -93,5 +93,5 @@
     "washington-consensus"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CM】补充第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作DV】policy_response 人工核验撰写。"
+  "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CM】补充第二参考来源。 【续作DO】policy_response 由概述提炼。 【续作DV】policy_response 人工核验撰写。 【清理】原概述结尾含「具体措施待核实」，已移入此处。"
 }

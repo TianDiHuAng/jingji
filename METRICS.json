@@ -2038,6 +2038,18 @@
       "check_result": "PASS; 十一道检查全绿 + 自测 18/18（R21 归零）",
       "spot_check": "33 条英文正文全部改写为中文；R21 判据改进以排除专名",
       "note": "维基第92轮可用。KD-KI：R21 归零——33 条英文正文全部改写为中文。①本轮分四批改写 32 条（round 110 已修 6 条，合计 38 条），条目 overview 现均以中文为主。②改写时不是翻译而是重写——保留来源中的事实，但补上该概念与金融危机的关系：inequality 补「收入/财富/消费三种不平等走势可相反，只看一个会得出相反结论」；fractional-reserve 补「期限转换正是银行的功能，也是挤兑的根源」；toxic-assets 补「有毒的实质不是一文不值，而是无法定价，于是同业拆借集体冻结」；eurodollar 补「2008 年美联储不得不通过央行货币互换向全球提供美元」；proprietary-trading 补「做市与自营在实务中难以划清界线」这一监管难点；labour-market 补「危机留下疤痕」与雇佣保护的两难；savings 补「节俭悖论」；transaction-cost 补「流动性的本质就是低交易成本」。③改进 R21 判据：4 个条目（danatbank-1931／merrill-lynch／creditanstalt／silicon-valley-bank）本是中文内容加必要的机构全称，英文占比被专名拉到 48—63%；判据改为先剥离括号内容、英文专名序列与缩写，再计算占比——既拦住英文充正文，又不误伤中文含专名。调整后仅剩 danatbank-1931，已改写为以中文译名为主。④round 94 的接线检查再次生效：改写时写了见 speculation／见 balance-sheet-recession／见 animal-spirits 却忘了加入 related，被 check_pages 逐一报出（3 处），已修复。⑤现状：641 条、来源 742、页面 655；R21 剩余 0 条；overview 平均长度 192 字。十一道检查全绿 + 自测 18/18。"
+    },
+    {
+      "round": "续作KK-KO",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 10,
+      "reviewed": 641,
+      "fixed": 211,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 335 均为 R22 提示 + 自测 18/18",
+      "spot_check": "清理 201 条套话；扩写 10 条核心概念；新增 R22",
+      "note": "维基第93轮可用。KK-KO：清理「待核实」套话 201 条，并由此发现内容单薄的系统性掩盖。①清理：564 个条目的 overview 以「具体XX待核实」结尾（占 88%），这不是纯套话（诚实声明），但它是无信息量的模板化尾巴，且让每条概述结尾雷同。已移除 **201 条**（其内容并入 pending_notes），另 **358 条因移除后不足 150 字而保留**——避免把内容不足掩盖成「已清理」。②由此发现第 10 个系统性问题：那些「待核实」的尾巴一直在掩盖内容单薄。358 条中 **326 条是概念/理论类**，多为「通货膨胀」「失业」「系统性风险」这类基础概念（66—90 字）。③加入 R22（核心/重要条目 overview 应 ≥150 字）作为 warning：实际捕获 **335 条**（3 核心 + 332 重要）。④本轮扩写最核心的 10 条（80—91 字 → 380—488 字）：leverage／inflation／deflation／systemic-risk／currency-crisis／creative-destruction／fiscal-policy／unemployment／opportunity-cost／balance-of-payments，每一条都补上了机制细节与「与危机的具体关联」。例如 systemic-risk 点明「个体审慎的加总未必等于系统稳健」这一合成谬误；balance-of-payments 指出「赤字好坏取决于融资结构，1997 年亚洲危机前赤字并不高，但短期外币外债占比高」；deflation 区分「好的通缩」（生产率推动）与「坏的通缩」（需求崩溃）。⑤**R22 保留为 warning 而非 error**：335 条不可能也不应一次性拉齐——「贝塔系数」「久期」这类工具性概念，简短定义即是完整，强行注水反而降低质量。真正需要扩写的是其中约三分之一的机制类核心概念，已列入 BACKLOG 分批处理。⑥现状：641 条、来源 742、页面 655；**ERRORS 0**、WARNINGS 335（均为 R22 提示）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

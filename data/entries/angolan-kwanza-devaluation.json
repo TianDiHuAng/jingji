@@ -8,7 +8,7 @@
   "region": "非洲",
   "crisis_type": "货币",
   "one_line": "安哥拉宽扎自独立以来经历多次更替与大幅贬值，2023年5—6月对美元贬值近40%至825宽扎。",
-  "overview": "安哥拉宽扎(Kz) 在安哥拉独立后引入，平价替代了此前的埃斯库多，并细分为100 lwei。该货币此后经历多次更替与大幅贬值：**2023年5月至6月，宽扎对美元贬值近40%，创下825宽扎兑1美元的历史低点**。安哥拉作为高度依赖石油出口的经济体（2017年石油占出口价值90%以上），油价与产量波动直接决定外汇收入，进而决定汇率压力（见 angola-oil-dependence）。历史上安哥拉曾多次更换货币单位（kwanza→new kwanza→kwanza reajustado→现行宽扎），这与长期通胀与计价单位过小有关（参见 redenomination）。具体更替年份待核实。",
+  "overview": "安哥拉宽扎(Kz) 在安哥拉独立后引入，平价替代了此前的埃斯库多，并细分为100 lwei。该货币此后经历多次更替与大幅贬值：**2023年5月至6月，宽扎对美元贬值近40%，创下825宽扎兑1美元的历史低点**。安哥拉作为高度依赖石油出口的经济体（2017年石油占出口价值90%以上），油价与产量波动直接决定外汇收入，进而决定汇率压力（见 angola-oil-dependence）。历史上安哥拉曾多次更换货币单位（kwanza→new kwanza→kwanza reajustado→现行宽扎），这与长期通胀与计价单位过小有关（参见 redenomination）",
   "timeline": [
     {
       "year": 1977,
@@ -103,5 +103,5 @@
     "zambian-kwacha-reform"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】 【续作DO】policy_response 由概述提炼。 【清理】原概述结尾含「具体更替年份待核实」，已移入此处。"
 }

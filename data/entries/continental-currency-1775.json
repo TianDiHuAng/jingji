@@ -8,7 +8,7 @@
   "region": "北美",
   "crisis_type": "恶性通胀",
   "one_line": "美国独立战争期间大陆会议发行的大陆币，因超发而大幅贬值（\"不值一个大陆币\"）。",
-  "overview": "大陆币（Continental currency）以美元计价，面额从1/6美元到80美元不等，其间还有许多奇特面额。独立战争期间，大陆会议共发行了199,990,000美元的大陆币。由于缺乏税收支撑而大量发行，大陆币急剧贬值，成为\"not worth a Continental\"（不值一个大陆币）这一说法的来源。1790年代美国宪法批准后，大陆币可按面值的1%兑换国债。具体过程待核实。",
+  "overview": "大陆币（Continental currency）以美元计价，面额从1/6美元到80美元不等，其间还有许多奇特面额。独立战争期间，大陆会议共发行了199,990,000美元的大陆币。由于缺乏税收支撑而大量发行，大陆币急剧贬值，成为\"not worth a Continental\"（不值一个大陆币）这一说法的来源。1790年代美国宪法批准后，大陆币可按面值的1%兑换国债",
   "timeline": [
     {
       "year": 1775,
@@ -121,5 +121,5 @@
     "seigniorage"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DO】policy_response 由概述提炼。 【续作DR】policy_response 人工核验撰写。"
+  "pending_notes": "L2：时间线与机制据维基全文；具体数值单源待核实。【续作AY】 【续作DO】policy_response 由概述提炼。 【续作DR】policy_response 人工核验撰写。 【清理】原概述结尾含「具体过程待核实」，已移入此处。"
 }
