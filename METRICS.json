@@ -2674,6 +2674,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "多项一致性核查干净；加 R29（案例 period↔unit），自测 34",
       "note": "维基第145轮可用。PD：多项一致性核查（均干净）+ 固化 R29（案例 period 与 unit 对应）。\n①**网络**：仍 URLError。\n②**核查均干净**：one_line／comparison **跨条目完全相同 = 0**；来源库 740 中 **724 被引用、16 未引用**（为书籍/机构参考资源，GAP_REPORT 已声明保留，不动）；**案例 unit 与 period 完全对应**（432 条\"不符\"均为 U6 概念用\"理论制度\"作 period 标签，非错）。\n③**固化 R29**：案例 period 须与 unit 对应（U1–U5；U6 不适用），防时期字段漂移。自测 33 → **34 项**。\n④十一道检查全绿。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 34/34。"
+    },
+    {
+      "round": "续作PE",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 2,
+      "fixed": 0,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
+      "spot_check": "渲染核查(lehman 页 12 章节完整)+验证页诚实性审计(2 条独立印证真实)，无数据改动",
+      "note": "维基第146轮可用。PE：渲染与\"验证页诚实性\"核查，均通过（无数据改动）。\n①**网络**：仍 URLError。\n②**渲染核查**：抽查 site/lehman.html —— 12 个章节（概述/时间线/触发机制/关键数据/各方解释/政策/比较/一图示意/L3深度说明/L3深度图/待核实/来源）齐全，style.css 挂载、内联 SVG 与来源外链均在，title 规范。最终产物渲染正常。\n③**验证页诚实性审计**：`gen_site` 分类逻辑严谨——\"独立机构印证\"须有 `fed-*` 或机构独立文献 + \"印证\"关键词，且排除\"不构成独立/系转引\"；\"统计口径对照\"\"跨语言对照\"均带诚实免责声明（明示不构成独立互证）。实际 **2 条独立机构印证**经核实均为真·独立：`black-monday-1987`（fed-stock-crash-1987）、`wall-street-1929`（fed-stock-crash-1929）——均有美联储历史站独立文献佐证，非仅维基。\n④本轮无数据改动；十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 34/34。"
     }
   ]
 }
