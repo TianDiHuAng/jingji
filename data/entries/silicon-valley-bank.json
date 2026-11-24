@@ -17,14 +17,6 @@
       "sources": [
         "w-en-silicon-valley-bank"
       ]
-    },
-    {
-      "year": 2026,
-      "display": "2026年第四季度",
-      "event": "First Citizens 计划完全整合 SVB 并停用该名称（同上）",
-      "sources": [
-        "w-en-silicon-valley-bank"
-      ]
     }
   ],
   "causal_chain": [
@@ -116,5 +108,5 @@
     "signature-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AU】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。 【续作FF】基于维基全文补写policy_response。 【清理】原概述结尾含「具体规模待核实」，已移入此处。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作AU】补关键数据（单源）。 【续作DA】related已按危机序列/同组语义重建。 【续作FF】基于维基全文补写policy_response。 【清理】原概述结尾含「具体规模待核实」，已移入此处。 【续作OV｜round157】删除 timeline 中\"2026年 First Citizens 完全整合并停用 SVB 名称\"事件——所引来源未载（且属前瞻性），不符合\"只写来源有的/不做预测\"。"
 }

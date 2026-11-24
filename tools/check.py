@@ -339,6 +339,14 @@ def main():
         if _yrs and all(not (_lo <= y <= _hi) for y in _yrs):
             warn('R25', _e.get('id', '?'), 'unit=%s 但全部 timeline 年份 %s 均超出该时期范围（疑单元误分类）'
                  % (_e.get('unit'), _yrs))
+    # R26 不得含未来年份的 timeline 事件（防预测；year 不得超过当前年）
+    import datetime as _dt
+    _cy = _dt.datetime.now().year
+    for _e in entries:
+        for _t in (_e.get('timeline') or []):
+            _y = _t.get('year')
+            if isinstance(_y, int) and _y > _cy:
+                warn('R26', _e.get('id', '?'), 'timeline 含未来年份 %d（>当前年 %d，涉预测）' % (_y, _cy))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

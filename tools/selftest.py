@@ -332,6 +332,15 @@ def m_r25():
 
 case('R25 单元时间线不符', m_r25, ['tools/check.py'], 'R25', [RW_ENT])
 
+
+def m_r26():
+    d = json.load(open(RW_ENT, encoding='utf-8'))
+    d.setdefault('timeline', []).append({'year': 2099, 'event': '未来事件测试'})
+    json.dump(d, open(RW_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R26 未来年份事件', m_r26, ['tools/check.py'], 'R26', [RW_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 

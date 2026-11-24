@@ -2566,6 +2566,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 30/30",
       "spot_check": "key_data.value vs note原文 交叉核对（445 行）→ 修 national-banking-act 引句错 1 处",
       "note": "维基第136轮可用。OT：做\"字段交叉\"检查——key_data.value 与 note 中\"原文\"引述数字是否相符（防转写/引述不符）。\n①**方法**：对全部 key_data，解析 note 里\"原文：…\"的引述，提取数字（含拼写数字与 ×/÷ 单位换算），与 value 比对。\n②**初筛 59 条**，经修正判据（绝对值/换算因子/拼写数字）后**降至 5 条**，逐一核对：\n4 条为假阳性（`half`=50%、`size/complexity/...`=4 个要素、\"nineteen\"=19 拼写、Count）；\n**1 条真问题**：`national-banking-act` 的\"第二次法定货币法后发行额=450 百万美元\"，**note 引错了句子**（引成了 1862 年法案日期句，实为 1863 年法案\"expanded the limit to $450 million\"）。\n③**修复**：据来源把该 note 改为正确引述（450 系 1863 年法案将上限扩至 $450M，非\"第二次法定货币法\"本身）；并在 label 语义上标注。\n④**结论**：445 条 key_data 中，value 与原文引述数量级/数值一致（除这 1 处引句错）；数据本身可靠，问题仅在\"引述贴错句\"。\n⑤现状：641 条、来源 742、页面 655；key_data 445 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 30/30。"
+    },
+    {
+      "round": "续作OV",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 35,
+      "fixed": 2,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 31/31",
+      "spot_check": "timeline 年份 vs 来源交叉核对（35 命中）→ 删 SVB 无源前瞻事件 + R26，自测 31",
+      "note": "维基第137轮可用。OV：做\"timeline 年份 vs 专属来源\"交叉核对，发现并删除 1 处无源前瞻事件；加 R26。\n①**方法**：逐条核 timeline 事件年份是否出现在其专属来源缓存（通用页/缓存缺口除外）。\n②**得 35 条命中**，多为**概念条目的历史里程碑**（源自通用概念页不逐年列，属正常噪音），不逐一追。\n③**1 条真问题**：`silicon-valley-bank` timeline 有\"**2026 年 First Citizens 完全整合并停用 SVB 名称**\"，但所引来源**未载**（缓存只说 2023 FDIC/First Citizens 收购），且属**前瞻性**——违反\"只写来源有的/不做预测\"。**已删除**该事件。timeline 659 → 658。\n④**核对未来年份**：全库无 ≥2027 的 timeline 事件（无预测性事件）。\n⑤**固化 R26**：timeline 事件年份不得晚于当前年（防未来/预测性事件）。自测 30 → **31 项**；同步 REPORT/HEALTH 的 timeline 658。\n⑥现状：641 条、来源 742、页面 655；timeline 658 事件；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 31/31。"
     }
   ]
 }
