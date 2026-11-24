@@ -1,0 +1,69 @@
+# -*- coding: utf-8 -*-
+"""续作JU：深化 debt-trap-diplomacy（据专属页 51,436 字符），平衡呈现两派。"""
+import json
+
+SID = 'w-en-debt-trap-diplomacy'
+p = 'data/entries/debt-trap-diplomacy.json'
+d = json.load(open(p, encoding='utf-8'))
+
+d['overview'] = (
+    '债务陷阱外交(debt-trap diplomacy) 是一个**新造词**，指一种被指称的国际金融关系：'
+    '债权国向借款国放贷，并在对方无力偿还时**提取经济或政治让步**；'
+    '这类贷款的条款**往往不公开**，借来的钱通常又**回流支付给债权国的承包商与材料供应商**。'
+    '**词源**：该词由**印度学者 Brahma Chellaney 于 2017 年**首创，'
+    '用以主张中国政府先行放贷，再**利用小国的债务负担达成地缘政治目的**。'
+    '**背景**：2008 年金融危机后，美欧央行长期维持低利率，私人市场回报低迷，'
+    '资金转而追逐新兴与前沿市场的更高收益；'
+    '**2013 年**中国启动"一带一路"倡议(BRI)，通过政策性银行与国有关联企业'
+    '为基础设施项目提供贷款，主要投向的正是这类国家。这两个条件叠加，'
+    '使"债务—影响力"的关系成为关注焦点。'
+    '**争议（两派证据并列）**：'
+    '**质疑方指出**：**2018 年 3 月**全球发展中心(CGD)的报告称，'
+    '**2001—2017 年间中国对 51 个债务国重组或豁免了贷款偿付**（其中多数为 BRI 参与国），'
+    '**并未扣押国家资产**；前利比里亚公共工程部长、CGD 高级研究员 W. Gyude Moore '
+    '在 **2018 年 9 月**表示，"债务陷阱外交"的话语"**在西方国家、尤其美国更引起共鸣，'
+    '其根源是对中国崛起为全球强国的焦虑，而非非洲的现实**"。'
+    '**支持方则强调**贷款条款不透明、资金回流本国承包商、以及个别港口与基础设施的'
+    '战略位置等事实层面的关切。'
+    '**本库不对此下结论**：这一概念在学界与政策界**存在较大争议**，'
+    '具体案例的认定亦无共识——读者应分别核对两方的证据与口径。')
+
+d['timeline'] = [
+    {'year': 2013, 'event': '中国启动"一带一路"倡议，通过政策性银行与国有关联企业'
+                            '为基础设施项目提供贷款（据 Wikipedia Debt-trap diplomacy）',
+     'sources': [SID]},
+    {'year': 2017, 'event': '印度学者 Brahma Chellaney 首创 "debt-trap diplomacy" 一词，'
+                            '主张中国利用小国债务负担达成地缘政治目的（据 Wikipedia Debt-trap diplomacy）',
+     'sources': [SID]},
+    {'year': 2018, 'event': '3 月全球发展中心报告称 2001—2017 年中国对 51 个债务国重组或豁免偿付、'
+                            '未扣押国家资产；9 月 W. Gyude Moore 批评该话语源于对中国崛起的焦虑'
+                            '（据 Wikipedia Debt-trap diplomacy）', 'sources': [SID]},
+]
+
+d['schools'] = [
+    {'holder': '债务陷阱说（Chellaney 等）',
+     'view': '中国先行放贷，待借款国无力偿还时提取经济或政治让步；'
+             '贷款条款不公开、资金回流本国承包商，且部分项目位于战略要地'
+             '（据 Wikipedia Debt-trap diplomacy）',
+     'sources': [SID]},
+    {'holder': '质疑说（CGD／Moore 等）',
+     'view': '实证记录显示中国在 2001—2017 年间对 51 个债务国重组或豁免偿付而未扣押资产；'
+             '该话语更多反映西方对中国崛起的焦虑，而非受援国的实际经历'
+             '（据 Wikipedia Debt-trap diplomacy）',
+     'sources': [SID]},
+]
+
+d['key_data'] = [
+    {'label': 'CGD 报告统计的中国重组或豁免偿付的债务国数（2001—2017）', 'value': 51,
+     'unit': '国', 'year': 2018, 'comparable_price': False,
+     'note': '原文：between 2001 and 2017, China restructured or waived loan payments for '
+             '51 debtor nations；单一来源待核实。', 'sources': [SID]},
+]
+
+d['pending_notes'] = (d.get('pending_notes', '')
+                      + ' 【续作JU】据专属页全文（51,436 字符）深化：补 2017 年 Chellaney 首创、'
+                        '2008 后低利率与 2013 年 BRI 的背景、以及 CGD 2018 报告与 Moore 的质疑；'
+                        '两派证据并列，本库不代读者下结论。')
+json.dump(d, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('debt-trap-diplomacy 已深化：overview %d 字、timeline %d、schools %d、key_data %d'
+      % (len(d['overview']), len(d['timeline']), len(d['schools']), len(d['key_data'])))
