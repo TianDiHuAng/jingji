@@ -874,6 +874,18 @@
       "check_result": "PASS (567); check_links 581页 0 error",
       "spot_check": "新增5条金融稳定概念；U6 364→369",
       "note": "CW新增5条概念:顺周期性与逆周期变量、保证金与追加保证金(含\"保证金螺旋\"机制)、长期停滞(低增长+低通胀+低r*并存)、金融化(1980年以来债务权益比上升与金融部门份额扩大)、资产负债错配(期限/币种/利率错配,含货币错配与原罪)。这5条与已有的financial-accelerator/fire-sale/procyclicality/macroprudential形成完整机制链。总567条,来源671,key_data 357。"
+    },
+    {
+      "round": "续作CX-CY",
+      "date": "2026-11-24",
+      "new_entries": 5,
+      "upgraded": 39,
+      "reviewed": 39,
+      "fixed": 8,
+      "sources_total": 676,
+      "check_result": "PASS (572); check_links 586页 0 error",
+      "spot_check": "related覆盖 133→165条；新增5概念（补related时发现的实际缺失）",
+      "note": "CX为32条近期条目补语义related(回填7条,悬空0);过程中发现7个被引用的概念实际不存在,CY补建其中5条:房地产泡沫(real-estate bubble)/非正规经济/家族办公室(Archegos的制度前提)/养老基金(LDI危机的主体)/稳定化政策;currency-substitution与既有dollarization重复故跳过。related覆盖 133→165条。总572条,来源676,key_data 357。"
     }
   ]
 }
