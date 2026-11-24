@@ -24,7 +24,8 @@
 │   ├── check_kd.py       key_data 数值可核对性（对照来源全文）
 │   ├── check_polnum.py   policy_response 数字核对（含亿/万换算）
 │   ├── check_sources.py  来源可达性抽样（verified=true 是否真可达）
-│   └── check_body_num.py 正文数字溯源（overview/comparison/one_line）
+│   ├── check_body_num.py 正文数字溯源（overview/comparison/one_line）
+│   └── check_docs.py     文档统计一致性（PROGRESS/REPORT 与真实数据）
 └── site/
     ├── index.html        首页
     ├── style.css         浅/深双模式样式（CSS变量）
@@ -44,6 +45,7 @@ python tools/check_kd.py      # key_data 数值核对：对照来源全文
 python tools/check_polnum.py  # 政策段数字核对：392个全部可溯源
 python tools/check_sources.py # 来源可达性抽样（默认30个）
 python tools/check_body_num.py # 正文数字溯源（排除年份引用）
+python tools/check_docs.py    # 文档统计一致性核对
 ```
 
 ## 设计原则
