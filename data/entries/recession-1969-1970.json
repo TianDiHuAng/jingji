@@ -1,0 +1,79 @@
+{
+  "id": "recession-1969-1970",
+  "title": "1969—1970年衰退（美国）",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "其他",
+  "one_line": "美国1969年12月至1970年11月的11个月温和衰退，GDP仅降0.6%，伴随通胀上升。",
+  "overview": "美国 1969—1970 年衰退据 NBER 判定持续 **11 个月**（1969年12月—1970年11月），是一次**相对温和**的衰退：GDP 仅下降 **0.6 个百分点**。其背景是**通胀已在上升**——可能源于充分就业时期的赤字支出扩大。这次衰退与两项紧缩同时发生：**试图缩减越战造成的财政赤字**（财政紧缩）与**美联储加息**（货币紧缩）。通胀与衰退并存的特征使它在当时的宏观政策讨论中具有特殊地位。",
+  "timeline": [
+    {
+      "year": 1968,
+      "event": "经济下滑已在年底开始，早于 NBER 判定的衰退起点（据 Wikipedia Recession of 1969–1970）"
+    },
+    {
+      "year": 1969,
+      "event": "12月衰退开始，与财政紧缩及美联储加息同时（据 Wikipedia Recession of 1969–1970）"
+    },
+    {
+      "year": 1970,
+      "event": "11月衰退结束（据 Wikipedia Recession of 1969–1970）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "财政与货币双紧缩",
+      "view": "越战赤字收紧与美联储加息同时发生，构成衰退的直接背景（据 Wikipedia Recession of 1969–1970）",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
+    },
+    {
+      "holder": "通胀先行",
+      "view": "衰退前通胀已在上升，可能与充分就业下的赤字支出有关；这使\"紧缩治通胀\"与\"紧缩致衰退\"的因果难以简单分离（据 Wikipedia Recession of 1969–1970）",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "衰退持续月数（1969—70）",
+      "value": 11,
+      "unit": "个月",
+      "year": 1970,
+      "comparable_price": false,
+      "note": "原文：the recession lasted for 11 months；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
+    },
+    {
+      "label": "GDP 降幅（1969—70）",
+      "value": 0.6,
+      "unit": "百分点",
+      "year": 1970,
+      "comparable_price": false,
+      "note": "原文：the gross domestic product of the United States fell 0.6 percen；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1969-1970"
+      ]
+    }
+  ],
+  "comparison": "与 1960—1961 年衰退的区别：两者都是短促衰退，但前者（1969—70）**伴随通胀上行**，后者发生在低通胀环境。与 1973—75 年衰退的关系：后者规模更大且与石油冲击叠加，1969—70 常被视为\"滞胀\"主题的前奏。",
+  "related": [
+    "business-cycle",
+    "monetary-policy",
+    "fiscal-policy",
+    "oil-crisis-1973"
+  ],
+  "sources": [
+    "w-en-recession-1969-1970"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HM】据维基专属页全文新建；来源为单一维基页面，数值待第二来源印证。"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "recession-1960-1961",
+  "title": "1960—1961年衰退（美国）",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U4 20世纪下半",
+  "period": "20世纪下半",
+  "region": "北美",
+  "crisis_type": "其他",
+  "one_line": "美国1960年4月至1961年2月的10个月衰退，GDP下降1.4%，随后是史上第三长的扩张期。",
+  "overview": "美国 1960—1961 年衰退据 NBER 判定持续 **10 个月**（1960年4月—1961年2月），其间美国 GDP 下降 **1.4 个百分点**。这次衰退的特殊之处在于**它开启了美国史上第三长的扩张期**（1961年2月—1969年12月）。政策背景：美联储自 1958 年起收紧货币政策、1961 年转向宽松；衰退虽在 1961 年 2 月结束，**失业率却继续上升数月**，直到 1961 年 5 月才达到该周期高点——这是\"衰退结束 ≠ 劳动力市场立刻恢复\"的经典例证。",
+  "timeline": [
+    {
+      "year": 1960,
+      "event": "4月衰退开始（据 Wikipedia Recession of 1960–1961）"
+    },
+    {
+      "year": 1961,
+      "event": "2月衰退结束，随后进入美国史上第三长扩张期（据 Wikipedia Recession of 1960–1961）"
+    },
+    {
+      "year": 1961,
+      "event": "5月失业率达到该周期高点，晚于衰退结束三个月（据 Wikipedia Recession of 1960–1961）"
+    }
+  ],
+  "causal_chain": [],
+  "schools": [
+    {
+      "holder": "货币政策成因说",
+      "view": "美联储自 1958 年起收紧、1961 年才转向宽松，紧缩的时滞与力度被视为衰退的诱因之一（据 Wikipedia Recession of 1960–1961）",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
+    },
+    {
+      "holder": "就业滞后现象",
+      "view": "衰退结束后失业率仍上升数月，说明产出转折与就业转折之间存在显著时滞（据 Wikipedia Recession of 1960–1961）",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
+    }
+  ],
+  "key_data": [
+    {
+      "label": "衰退持续月数（1960—61）",
+      "value": 10,
+      "unit": "个月",
+      "year": 1961,
+      "comparable_price": false,
+      "note": "原文：the recession lasted for 10 months；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
+    },
+    {
+      "label": "GDP 降幅（1960—61）",
+      "value": 1.4,
+      "unit": "百分点",
+      "year": 1961,
+      "comparable_price": false,
+      "note": "原文：the GDP of the United States fell 1.4 percentage points；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1960-1961"
+      ]
+    }
+  ],
+  "comparison": "与本条目库中其他美国衰退的区别：这次衰退的**幅度较小但开启了最长的扩张之一**，因此常被用来说明\"衰退深度\"与\"复苏持续性\"并非同一维度。与 1969—1970 年衰退的关系：后者紧随这次长扩张之后，成因更偏财政与货币双紧缩。",
+  "related": [
+    "business-cycle",
+    "monetary-policy",
+    "fiscal-policy",
+    "recession"
+  ],
+  "sources": [
+    "w-en-recession-1960-1961"
+  ],
+  "needs_verification": true,
+  "pending_notes": "【续作HM】据维基专属页全文新建；来源为单一维基页面，数值待第二来源印证。"
+}

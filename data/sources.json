@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 706,
+  "count": 708,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8435,6 +8435,30 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Deindustrialization",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-recession-1960-1961",
+      "title": "Recession of 1960–1961",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Recession_of_1960%E2%80%931961",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia API 核对（本会话抓取全文）"
+    },
+    {
+      "id": "w-en-recession-1969-1970",
+      "title": "Recession of 1969–1970",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Recession_of_1969%E2%80%931970",
       "url2": null,
       "verified": true,
       "link_ok": true,
