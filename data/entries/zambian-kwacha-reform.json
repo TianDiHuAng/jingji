@@ -96,7 +96,11 @@
     "w-en-redenomination",
     "w-en-zambian-kwacha"
   ],
-  "related": [],
+  "related": [
+    "hyperinflation",
+    "redenomination",
+    "zimbabwe-hyper-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】"
 }

@@ -1,0 +1,32 @@
+{
+  "housing-bubble": {
+    "title": "Real-estate bubble",
+    "extract": "A real-estate bubble or property bubble is a type of economic bubble that occurs periodically in local or global real estate markets, and it typically follows a land boom or reduced interest rates. A land boom is a rapid increase in the market price of real property, such as housing, until prices reach unsustainable levels and then decline. Market conditions during the run-up to a crash are sometimes characterized as \"frothy.\" The questions of whether real estate bubbles can be identified and prevented, and whether they have broader macroeconomic significance, are answered differently by different schools of economic thought, as detailed below.",
+    "slug": "Real_estate_bubble"
+  },
+  "informal-economy": {
+    "title": "Informal economy",
+    "extract": "An informal economy is the part of any economy that is neither taxed nor monitored by any form of government. Although the informal sector makes up a significant portion of the economies in developing countries, it is sometimes stigmatized as troublesome and unmanageable. However, the informal sector provides critical economic opportunities for the poor and has been expanding rapidly since the 1960s. Integrating the informal economy into the formal sector is an important policy challenge.",
+    "slug": "Informal_economy"
+  },
+  "family-office": {
+    "title": "Family office",
+    "extract": "A family office, or a single family office (SFO), is a privately held company that handles investment management and wealth management for a wealthy family with the goal being to effectively grow and transfer wealth across generations. The company's financial capital is the family's own wealth.",
+    "slug": "Family_office"
+  },
+  "pension-fund": {
+    "title": "Pension fund",
+    "extract": "A pension fund, also known as a superannuation fund in some countries, is any program, fund, or scheme which provides retirement income. The U.S. Government's Social Security Trust Fund, which oversees $2.57 trillion in assets, is the world's largest public pension fund. Pension funds typically have large amounts of money to invest and are the major investors in listed and private companies. They are especially important to the stock market where large institutional investors dominate. The largest 300 pension funds collectively hold about USD6 trillion in assets. In 2012, PricewaterhouseCoopers estimated that pension funds worldwide hold over $33.9 trillion in assets, the largest for any category of institutional investor ahead of mutual funds, insurance companies, currency reserves, sovereign wealth funds, hedge funds, or private equity.",
+    "slug": "Pension_fund"
+  },
+  "stabilization-program": {
+    "title": "Stabilization policy",
+    "extract": "In macroeconomics, a stabilization policy is a package or set of measures introduced to stabilize a financial system or economy. The term can refer to policies in two distinct sets of circumstances: business cycle stabilization or credit cycle stabilization. In either case, it is a form of discretionary policy.",
+    "slug": "Stabilization_policy"
+  },
+  "currency-substitution": {
+    "title": "Currency substitution",
+    "extract": "Currency substitution, also known as dollarization, is the use of a foreign currency in parallel to or instead of a domestic currency.",
+    "slug": "Currency_substitution"
+  }
+}

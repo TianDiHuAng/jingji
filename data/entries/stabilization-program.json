@@ -1,0 +1,62 @@
+{
+  "id": "stabilization-program",
+  "title": "稳定化政策",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "为稳定金融体系或经济而推出的一揽子措施，可针对需求管理或国际收支调整。",
+  "overview": "在宏观经济学中，稳定化政策(stabilization policy) 是为**稳定金融体系或经济**而引入的一揽子或一组措施。该词可用于两类政策：①**需求管理型**——财政与货币政策用于平抑产出与通胀的波动（见 fiscal-multiplier、automatic-stabilizer）；②**国际收支/危机型**——在货币或债务危机中，以汇率调整、财政紧缩、货币改革与外部融资组合恢复对外平衡，通常伴随 IMF 的条件性贷款（见 imf-programs 类讨论）。后者的典型配方包括：贬值、紧缩财政、提高利率、重组债务与结构性改革，其社会代价与效果长期存在激烈争论——紧缩可能压低需求从而推高债务率（见 greek-debt-crisis），而延迟调整又可能耗尽储备（见 sri-lanka-crisis-2019）。具体配方与效果待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "内外失衡（通胀、赤字、储备流失）→ 需要一揽子调整",
+      "sources": [
+        "w-en-stabilization-policy"
+      ]
+    },
+    {
+      "step": "汇率调整 + 财政紧缩 + 货币改革 + 外部融资 → 恢复对外平衡",
+      "sources": [
+        "w-en-imf"
+      ]
+    },
+    {
+      "step": "紧缩压低需求 → 产出与就业代价，效果存在争论",
+      "sources": [
+        "w-en-greek-government-debt-crisis"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "正统配方视角",
+      "view": "及早、可信、全面的调整可缩短危机并恢复市场信心",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-stabilization-policy"
+      ]
+    },
+    {
+      "holder": "代价视角",
+      "view": "紧缩本身压低需求，可能自我挫败并加重分配后果",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-greek-government-debt-crisis"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>稳定化政策：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内外失衡（通胀、赤字、储</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇率调整 + 财政紧缩 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>紧缩压低需求 → 产出与</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-stabilization-policy",
+    "w-en-imf"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+}

@@ -73,7 +73,12 @@
     "w-en-yemeni-rial",
     "w-en-currency-crisis"
   ],
-  "related": [],
+  "related": [
+    "black-market",
+    "currency-crisis",
+    "dollarization",
+    "syrian-pound-crisis"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】 【续作CM】补充第二参考来源。"
 }

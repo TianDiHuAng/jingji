@@ -145,7 +145,13 @@
     "w-en-archegos",
     "w-en-credit-suisse-2023"
   ],
-  "related": [],
+  "related": [
+    "credit-suisse-2023",
+    "family-office",
+    "leverage",
+    "ltcm",
+    "margin-call"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CV】 【续作CV】补第二参考来源。"
 }

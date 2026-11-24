@@ -1,0 +1,62 @@
+{
+  "id": "informal-economy",
+  "title": "非正规经济",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "其他",
+  "one_line": "任何经济中既不被征税也不被政府监测的部分。",
+  "overview": "非正规经济(informal economy) 是任何经济中**既不被征税、也不被政府以任何形式监测**的那部分。尽管非正规部门在许多经济体中都占相当大的比重，但它长期游离于官方统计与监管之外。在危机语境中，非正规经济有三重意义：①**统计失真**——官方GDP、就业与通胀数据可能系统性低估实际活动，使政策制定者对经济状况判断失误；②**传导渠道**——非正规信贷（如民间标会、地下钱庄）在正规金融收缩时膨胀，也成为风险积累的暗池（见 black-market）；③**政策盲区**——税收能力薄弱限制了财政应对危机的空间。该概念对理解新兴市场与转轨经济的危机机制尤为重要。具体度量方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "正规部门税负与管制较重 → 活动转入非正规部门",
+      "sources": [
+        "w-en-informal-economy"
+      ]
+    },
+    {
+      "step": "官方统计未覆盖 → 政策判断与危机应对依据失真",
+      "sources": [
+        "w-en-informal-economy"
+      ]
+    },
+    {
+      "step": "非正规信贷扩张 → 风险在监管视野外积累",
+      "sources": [
+        "w-en-black-market"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "结构视角",
+      "view": "非正规部门是管制与税负的产物，规模反映制度质量",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-informal-economy"
+      ]
+    },
+    {
+      "holder": "金融稳定视角",
+      "view": "非正规信贷链条断裂时缺乏最后贷款人与处置机制",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-black-market"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>非正规经济：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>正规部门税负与管制较重 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>官方统计未覆盖 → 政策</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>非正规信贷扩张 → 风险</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-informal-economy",
+    "w-en-black-market"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+}

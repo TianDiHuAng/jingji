@@ -65,7 +65,10 @@
     "w-en-settlement-risk",
     "w-en-systemic-risk"
   ],
-  "related": [],
+  "related": [
+    "contagion",
+    "systemic-risk"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
 }

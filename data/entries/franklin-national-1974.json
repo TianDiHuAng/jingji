@@ -96,7 +96,11 @@
     "w-en-franklin-national",
     "w-en-barings-1995"
   ],
-  "related": [],
+  "related": [
+    "bank-failure",
+    "barings-1995",
+    "moral-hazard"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CU】 【续作CU】补第二参考来源。"
 }

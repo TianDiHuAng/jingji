@@ -107,7 +107,12 @@
     "w-en-finnish-banking-1990",
     "w-en-swedish-crisis-1990s"
   ],
-  "related": [],
+  "related": [
+    "bail-in",
+    "finnish-banking-1990",
+    "japan-asset-bubble-1990",
+    "norwegian-banking-1988"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CS】"
 }

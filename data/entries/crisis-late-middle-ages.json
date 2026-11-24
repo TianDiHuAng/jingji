@@ -164,7 +164,9 @@
     "w-en-crisis-late-middle-ages",
     "w-en-late-middle-ages"
   ],
-  "related": [],
+  "related": [
+    "bardi-family"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实（原条目仅一个来源，属\"其他\"类复合危机，非金融事件）。【续作CQ】 【续作CQ】补第二参考来源。"
 }

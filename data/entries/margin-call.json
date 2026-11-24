@@ -56,7 +56,12 @@
     "w-en-margin-call",
     "w-en-fire-sale"
   ],
-  "related": [],
+  "related": [
+    "archegos-2021",
+    "fire-sale",
+    "procyclicality",
+    "uk-ldi-crisis-2022"
+  ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CW】"
 }

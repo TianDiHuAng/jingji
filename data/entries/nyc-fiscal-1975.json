@@ -118,7 +118,11 @@
     "w-en-nyc-fiscal-1975",
     "w-en-finnish-banking-1990"
   ],
-  "related": [],
+  "related": [
+    "australian-banking-1893",
+    "puerto-rico-debt-2014",
+    "sovereign-default"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CS】"
 }

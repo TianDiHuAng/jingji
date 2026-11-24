@@ -126,7 +126,11 @@
     "w-en-new-zealand-property-bubble",
     "w-en-housing-bubble"
   ],
-  "related": [],
+  "related": [
+    "herd-behavior",
+    "housing-bubble",
+    "japan-asset-bubble-1990"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】 【续作CM】补充第二参考来源。"
 }

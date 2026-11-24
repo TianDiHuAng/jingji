@@ -1,0 +1,71 @@
+{
+  "id": "pension-fund",
+  "title": "养老基金",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "提供退休收入的基金或计划；其资产负债久期错配与对冲策略可成为系统性风险源。",
+  "overview": "养老基金(pension fund) 是任何**提供退休收入**的计划、基金或安排（部分国家称 superannuation fund）。按筹资方式可分为**确定给付(DB)**与**确定缴费(DC)**两类：DB 计划承诺固定待遇，投资风险由雇主/计划承担；DC 计划则由个人承担投资风险。DB 计划因负债久期很长，普遍采用**负债驱动投资(LDI)** 等久期匹配策略，并借助利率互换等衍生品加杠杆对冲——这使其在利率急变时可能被迫抛售资产，成为系统性风险的来源（见 uk-ldi-crisis-2022）。此外，老龄化与低利率环境使 DB 计划的融资缺口长期承压，而 DC 化趋势把风险转移给家庭部门。具体制度差异待核实。",
+  "timeline": [
+    {
+      "year": 2022,
+      "display": "2022年",
+      "event": "英国LDI策略在国债收益率飙升时触发抵押品螺旋",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "DB 计划负债久期长 → 以久期匹配与衍生品对冲",
+      "sources": [
+        "w-en-pension-fund"
+      ]
+    },
+    {
+      "step": "对冲需缴纳抵押品 → 利率急变时需追加",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    },
+    {
+      "step": "被迫抛售长期债券 → 收益率再升（抵押品螺旋）",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "负债管理视角",
+      "view": "LDI 是对冲利率风险的必要工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-ldi"
+      ]
+    },
+    {
+      "holder": "系统性风险视角",
+      "view": "杠杆化对冲在压力下放大市场波动，需监管覆盖",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-pension-fund"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>养老基金：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>DB 计划负债久期长 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>对冲需缴纳抵押品 → 利</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>被迫抛售长期债券 → 收</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-pension-fund",
+    "w-en-ldi"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+}

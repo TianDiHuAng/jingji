@@ -1,0 +1,62 @@
+{
+  "id": "family-office",
+  "title": "家族办公室",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "为富裕家族管理投资与财富的私人持股公司，监管与披露要求通常低于基金。",
+  "overview": "家族办公室(family office)，或单一家族办公室(SFO)，是为富裕家族管理**投资与财富**的私人持股公司。与共同基金或对冲基金不同，家族办公室通常只服务一个家族，因此在多数辖区享有**更宽松的注册、披露与资本要求**。这种制度安排的风险含义在 Archegos 事件中暴露得很清楚（见 archegos-2021）：家族办公室可以通过**总收益互换**等衍生品在多家银行同时建立巨额集中敞口，而每家银行只看到自己那一部分，**无人掌握整体杠杆**；同时它不受基金那样的杠杆与投资者披露约束。监管讨论的焦点是：是否应把大型家族办公室纳入系统性风险监测，以及银行对单一交易对手的敞口限制是否足以覆盖衍生品名义敞口。具体规则待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "单一家族服务 + 门槛较低 → 披露与资本约束宽松",
+      "sources": [
+        "w-en-family-office"
+      ]
+    },
+    {
+      "step": "以衍生品建立跨行敞口 → 各银行只见局部、整体杠杆不透明",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "step": "标的价格不利变动 → 集中敞口同时触发多家银行追保",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "监管缺口视角",
+      "view": "大型家族办公室应纳入系统性风险监测",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-archegos"
+      ]
+    },
+    {
+      "holder": "对手方管理视角",
+      "view": "银行应自行以敞口限额与保证金覆盖风险，无需专门监管",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-margin-call"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>家族办公室：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>单一家族服务 + 门槛较</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以衍生品建立跨行敞口 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>标的价格不利变动 → 集</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-family-office",
+    "w-en-archegos"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作CY】"
+}

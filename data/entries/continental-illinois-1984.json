@@ -104,7 +104,12 @@
     "w-en-penn-square",
     "w-en-continental-illinois"
   ],
-  "related": [],
+  "related": [
+    "deposit-insurance",
+    "penn-square-1982",
+    "savings-loan-1986",
+    "too-big-to-fail"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CU】"
 }

@@ -96,7 +96,11 @@
     "w-en-angola-econ",
     "w-en-angolan-kwanza"
   ],
-  "related": [],
+  "related": [
+    "angola-oil-dependence",
+    "dutch-disease",
+    "redenomination"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。【续作CJ】"
 }

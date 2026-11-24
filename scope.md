@@ -590,3 +590,8 @@
 | secular-stagnation | 长期停滞 | 理论制度 | 全球 | 理论 | 重要 | 续作CW |
 | financialization | 金融化 | 理论制度 | 全球 | 其他 | 重要 | 续作CW |
 | asset-liability-mismatch | 资产负债错配（含货币错配） | 理论制度 | 全球 | 理论 | 重要 | 续作CW |
+| housing-bubble | 房地产泡沫 | 理论制度 | 全球 | 泡沫 | 重要 | 续作CY |
+| informal-economy | 非正规经济 | 理论制度 | 全球 | 其他 | 重要 | 续作CY |
+| family-office | 家族办公室 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
+| pension-fund | 养老基金 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
+| stabilization-program | 稳定化政策 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |

@@ -123,7 +123,12 @@
     "w-en-syrian-pound",
     "w-en-yemeni-rial"
   ],
-  "related": [],
+  "related": [
+    "black-market",
+    "currency-crisis",
+    "lebanese-liquidity-2019",
+    "yemen-currency-divergence"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基全文；单源待核实。伊朗条目已注明\"是否构成严格恶性通胀待核实\"。【续作CK】"
 }

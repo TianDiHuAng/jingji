@@ -121,7 +121,11 @@
     "w-en-cook-islands-dollar",
     "w-en-currency-board"
   ],
-  "related": [],
+  "related": [
+    "currency-board",
+    "dollarization",
+    "legal-tender"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要；该案例属\"货币安排/制度\"性质而非危机事件，用于说明储备充足性议题。具体机制待核实。【续作CL】 【续作CM】补充第二参考来源。"
 }
