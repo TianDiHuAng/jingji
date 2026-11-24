@@ -24,7 +24,9 @@
     {
       "holder": "监管视角",
       "view": "结算风险源于流程而非当事人意愿——即便双方同意，结算环节本身也可能中断交易，因此需中央对手方与净额结算等机制（据 Wikipedia Settlement risk）",
-      "src": "w-en-settlement-risk"
+      "sources": [
+        "w-en-settlement-risk"
+      ]
     }
   ],
   "key_data": [

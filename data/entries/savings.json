@@ -15,12 +15,16 @@
     {
       "holder": "凯恩斯视角",
       "view": "储蓄是漏出：个体增储在总量上压低需求，可能使储蓄目标无法实现（节约悖论）（据 Wikipedia Saving 与凯恩斯主义通行表述；具体出处待核实）",
-      "src": "w-en-savings"
+      "sources": [
+        "w-en-savings"
+      ]
     },
     {
       "holder": "新古典视角",
       "view": "储蓄是可贷资金的供给，通过利率与投资自动均衡（据 Wikipedia Saving；具体出处待核实）",
-      "src": "w-en-savings"
+      "sources": [
+        "w-en-savings"
+      ]
     }
   ],
   "key_data": [],

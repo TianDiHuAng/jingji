@@ -15,7 +15,9 @@
     {
       "holder": "互补品效应",
       "view": "完全互补品表现为单一商品；互补品价格上升会使另一商品的需求量下降（据 Wikipedia Demand）",
-      "src": "w-en-demand"
+      "sources": [
+        "w-en-demand"
+      ]
     }
   ],
   "key_data": [],

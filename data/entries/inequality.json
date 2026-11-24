@@ -15,7 +15,9 @@
     {
       "holder": "国内不平等的上升",
       "view": "过去 30 年**多数国家内部**的不平等显著上升，尤其在发达国家（据 Wikipedia Economic inequality）",
-      "src": "w-en-inequality"
+      "sources": [
+        "w-en-inequality"
+      ]
     }
   ],
   "key_data": [

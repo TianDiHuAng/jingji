@@ -24,12 +24,16 @@
     {
       "holder": "庇古式矫正",
       "view": "按边际外部成本征税可使产量回到社会最优（据 Wikipedia Pigouvian tax）",
-      "src": "w-en-pigouvian-tax"
+      "sources": [
+        "w-en-pigouvian-tax"
+      ]
     },
     {
       "holder": "双重红利假说的争议",
       "view": "若税收收入用于削减其他扭曲性税种，可能同时改善环境与效率；但该结论依赖于税制初始扭曲程度与收入使用方式，实证结果不一（据 Wikipedia Pigouvian tax Double-dividend hypothesis）",
-      "src": "w-en-pigouvian-tax"
+      "sources": [
+        "w-en-pigouvian-tax"
+      ]
     }
   ],
   "key_data": [],

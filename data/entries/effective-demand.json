@@ -15,7 +15,9 @@
     {
       "holder": "与名义需求的区别",
       "view": "有效需求是购买者在其他市场受到约束时实际出现的需求；名义需求则不受其他市场配给限制（据 Wikipedia Effective demand）",
-      "src": "w-en-effective-demand"
+      "sources": [
+        "w-en-effective-demand"
+      ]
     }
   ],
   "key_data": [],

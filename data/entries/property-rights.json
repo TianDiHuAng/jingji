@@ -24,12 +24,16 @@
     {
       "holder": "洛克式劳动理论",
       "view": "产权源于对自己劳动成果的自然权利（据 Wikipedia Property rights (economics)）",
-      "src": "w-en-property-rights"
+      "sources": [
+        "w-en-property-rights"
+      ]
     },
     {
       "holder": "发展与契约视角",
       "view": "产权界定与执行影响投资激励；但不完全契约意味着产权无法穷尽所有情形，剩余控制权的配置本身成为关键（据 Wikipedia Property rights (economics)）",
-      "src": "w-en-property-rights"
+      "sources": [
+        "w-en-property-rights"
+      ]
     }
   ],
   "key_data": [],

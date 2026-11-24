@@ -20,7 +20,9 @@
     {
       "holder": "挤兑的脆弱性",
       "view": "当储户希望提取的金额超过银行持有的准备金时，银行会陷入短缺——这是部分准备金制度的内在脆弱点（据 Wikipedia Fractional-reserve banking）",
-      "src": "w-en-fractional-reserve"
+      "sources": [
+        "w-en-fractional-reserve"
+      ]
     }
   ],
   "key_data": [],

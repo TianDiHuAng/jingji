@@ -15,12 +15,16 @@
     {
       "holder": "违约风险视角",
       "view": "高收益债的低评级反映更高的违约可能，投资者因此要求更高的收益率作为补偿（据 Wikipedia High-yield debt）",
-      "src": "w-en-junk-bond"
+      "sources": [
+        "w-en-junk-bond"
+      ]
     },
     {
       "holder": "再打包视角",
       "view": "高收益债可被打包成 **CDO**，使其优先级分层的评级**高于原始债务**，从而满足养老金等机构投资者的最低评级要求——这扩大了风险的市场分布（据 Wikipedia High-yield debt）",
-      "src": "w-en-junk-bond"
+      "sources": [
+        "w-en-junk-bond"
+      ]
     }
   ],
   "key_data": [],

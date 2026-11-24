@@ -15,12 +15,16 @@
     {
       "holder": "弹性决定归宿（一般规则）",
       "view": "需求曲线越**陡**、供给曲线越**平**，消费者承担的税负越多；反之则生产者承担更多（据 Wikipedia Tax incidence）",
-      "src": "w-en-tax-incidence"
+      "sources": [
+        "w-en-tax-incidence"
+      ]
     },
     {
       "holder": "供给无弹性、需求有弹性",
       "view": "生产者无论价格如何都生产相同数量，消费者对价格高度敏感——此时税负主要落在**生产者**身上（据 Wikipedia Tax incidence）",
-      "src": "w-en-tax-incidence"
+      "sources": [
+        "w-en-tax-incidence"
+      ]
     }
   ],
   "key_data": [],

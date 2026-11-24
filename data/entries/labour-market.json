@@ -20,7 +20,9 @@
     {
       "holder": "搜寻匹配视角",
       "view": "劳动市场并非无摩擦的拍卖市场：岗位与工人需要相互搜寻、匹配并议价，因此摩擦性失业是常态而非异常（据 Wikipedia Labour economics）",
-      "src": "w-en-labour-market"
+      "sources": [
+        "w-en-labour-market"
+      ]
     }
   ],
   "key_data": [],

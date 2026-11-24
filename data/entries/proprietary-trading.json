@@ -15,7 +15,9 @@
     {
       "holder": "与做市的边界",
       "view": "自营交易以自有资金为自己获利；做市则为客户提供流动性并赚取价差。沃尔克规则禁止前者、允许后者，边界模糊正是执行难点（据 Wikipedia Proprietary trading；具体条文待核实）",
-      "src": "w-en-proprietary-trading"
+      "sources": [
+        "w-en-proprietary-trading"
+      ]
     }
   ],
   "key_data": [],

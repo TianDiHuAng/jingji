@@ -28,12 +28,16 @@
     {
       "holder": "塔洛克悖论",
       "view": "寻租者为获得政治好处所付出的成本**远低于**该好处对其的价值——这一\"低成本高收益\"的落差本身构成一个待解释的悖论（据 Wikipedia Rent-seeking）",
-      "src": "w-en-rent-seeking"
+      "sources": [
+        "w-en-rent-seeking"
+      ]
     },
     {
       "holder": "批评者（1980年代）",
       "view": "批评者认为寻租理论把\"生产率\"定义为纯物理属性，忽略了围绕财产权的权利安排；且\"浪费资源\"的界定存在模糊性（据 Wikipedia Rent-seeking Criticism of theories）",
-      "src": "w-en-rent-seeking"
+      "sources": [
+        "w-en-rent-seeking"
+      ]
     }
   ],
   "key_data": [],

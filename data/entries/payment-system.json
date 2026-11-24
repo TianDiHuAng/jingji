@@ -15,7 +15,9 @@
     {
       "holder": "系统重要性",
       "view": "支付与结算系统是金融体系的\"管道\"：其稳定性直接决定交易能否完成，因此被视为需专门监管的基础设施（据 Wikipedia Payment system）",
-      "src": "w-en-payment-system"
+      "sources": [
+        "w-en-payment-system"
+      ]
     }
   ],
   "key_data": [],

@@ -20,12 +20,16 @@
     {
       "holder": "谜题本身",
       "view": "历史股权溢价约 **5%—8%**，相对标准模型所隐含的风险厌恶水平而言**高得难以置信**；\"谜题\"指的正是这一差距缺乏解释（据 Wikipedia Equity premium puzzle）",
-      "src": "w-en-equity-premium"
+      "sources": [
+        "w-en-equity-premium"
+      ]
     },
     {
       "holder": "罕见灾难假说",
       "view": "若投资者对极低概率的巨大灾难赋予足够权重，则高溢价可在理性框架内被解释（据 Wikipedia Equity premium puzzle Rare events hypothesis）",
-      "src": "w-en-equity-premium"
+      "sources": [
+        "w-en-equity-premium"
+      ]
     }
   ],
   "key_data": [

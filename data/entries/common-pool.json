@@ -24,12 +24,16 @@
     {
       "holder": "公地悲剧",
       "view": "个体理性导致集体非理性：无人能排除他人使用，因此所有人竞相过度使用（据 Wikipedia Common-pool resource）",
-      "src": "w-en-common-pool"
+      "sources": [
+        "w-en-common-pool"
+      ]
     },
     {
       "holder": "奥斯特罗姆的自主治理",
       "view": "使用者社群可通过清晰边界、集体选择规则、分级制裁与冲突解决机制实现可持续管理；既非必然私有化，也非必然国有化（据 Wikipedia Common-pool resource）",
-      "src": "w-en-common-pool"
+      "sources": [
+        "w-en-common-pool"
+      ]
     }
   ],
   "key_data": [],
