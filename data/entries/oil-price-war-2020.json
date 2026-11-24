@@ -69,6 +69,28 @@
       "sources": [
         "w-en-oil-price-war-2020"
       ]
+    },
+    {
+      "label": "价格战前油价跌幅(自2020年初，因需求下降)",
+      "value": -30,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：oil prices had already fallen 30% since the start of 2020 due to a drop in demand；单一来源待核实。",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
+    },
+    {
+      "label": "布伦特原油单日跌幅(2020-03-09，海湾战争以来最大)",
+      "value": -30,
+      "unit": "%",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：brent crude falling by 30%, the largest drop since the Gulf War；单一来源待核实。",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
     }
   ],
   "schools": [
@@ -116,5 +138,5 @@
     "venezuela-energy-2010"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DV】policy_response 人工核验撰写。 【续作LY】据来源全文扩写 108 → 753 字。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。 【续作DV】policy_response 人工核验撰写。 【续作LY】据来源全文扩写 108 → 753 字。 【续作PB｜round163】据 w-en-oil-price-war-2020 缓存补 key_data（战前-30%/布伦特单日-30%）。"
 }

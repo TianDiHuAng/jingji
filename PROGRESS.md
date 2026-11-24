@@ -2378,6 +2378,13 @@
 - check_docs 报出 REPORT 的 key_data 计数需更新（458→460），已同步 REPORT/HEALTH。
 - 现状：**641 条**、来源 **742**、页面 **655**；key_data **460** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
 
+- **维基百科第 143 轮可用（round 163）**。**随机抽 4 条有缓存案例做整体内容核对（全部准确），并为 oil-price-war-2020 补 2 条 key_data**。
+- **网络**：仍 URLError。
+- **随机抽查 4 条**（recession-1937-1938／spain-2008／oil-price-war-2020／sherman-silver-purchase）：概述关键数字逐一与缓存核对——**全部准确**（「30 percent」「8 March」等只是我的 grep 格式差异）。4 条均已有较完善 key_data。
+- **为 oil-price-war-2020 补 2 条 key_data**（据 `w-en-oil-price-war-2020` 缓存）：战前油价自 2020 年初因需求下降跌 **30%**；布伦特原油 2020-03-09 单日跌 **30%**（海湾战争以来最大）。key_data 460 → **462**；check_kd 强匹配 348 → **350**。
+- check_docs 报出 key_data 460→462 需同步，已更新 REPORT/HEALTH。
+- 现状：**641 条**、来源 **742**、页面 **655**；key_data **462** 行；**ERRORS 0、WARNINGS 0**。十一道检查通过 + 自测 32/32。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|
