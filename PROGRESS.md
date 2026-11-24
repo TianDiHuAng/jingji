@@ -9,7 +9,7 @@
 - **来源：732**（全部 verified 且可达）
 - **站点页面：639**
 - 层级：**核心 34 条全部 L3**；L3 共 **34** 条；L1 为 0
-- 内容覆盖：`comparison` **625/625**、`related` **625/625**
+- 内容覆盖：`comparison` **566/625（90%）**、`related` **625/625**
 - 案例内容：政策应对 **146/205（71%）**、关键数据 **176/205（85%）**
 - 数据量：`key_data` **410** 条、`timeline` **576** 条、`schools` **1205** 条
 - 检查：**9 道**全绿 —— check.py／check_links.py／check_quality.py／check_kd.py／check_polnum.py

@@ -82,7 +82,6 @@
       ]
     }
   ],
-  "comparison": "与同为「恶性通胀」类案例共享机制，差异在时期、地区与制度环境；具体待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>罗德里加索危机(阿根廷1975)：机制示意（恶性通胀）</text><g><rect x='20' y='60' width='210' height='52' rx='6' class='box'/><text x='29' y='83' class='lbl'>触发条件</text><text x='29' y='101' class='sub'>冲击来源</text></g><g><rect x='270' y='60' width='210' height='52' rx='6' class='box'/><text x='279' y='83' class='lbl'>传导过程</text><text x='279' y='101' class='sub'>风险扩散</text></g><g><rect x='520' y='60' width='210' height='52' rx='6' class='box'/><text x='529' y='83' class='lbl'>后果与应对</text><text x='529' y='101' class='sub'>结果与政策</text></g><line x1='230' y1='86' x2='265' y2='86' class='ar'/><line x1='480' y1='86' x2='515' y2='86' class='ar'/><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-rodrigazo-1975",
@@ -94,5 +93,5 @@
     "latin-american-debt-1975"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【轮次12抽检修复】444%年份由1975末修正为1976（据维基原文）。 【续作】案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DW】policy_response 人工核验撰写。"
+  "pending_notes": " 【轮次12】升至L2，补真实timeline与数值，单源待核实。 【轮次12抽检修复】444%年份由1975末修正为1976（据维基原文）。 【续作】案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DW】policy_response 人工核验撰写。 【续作GY】移除模板化 comparison（原文为\"与同为某类共享传导机制…\"的通用表述，对同类条目均成立、不含信息量）；待有具体对照分析时再补。"
 }
