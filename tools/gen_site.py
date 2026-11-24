@@ -466,13 +466,17 @@ for _id, e in entries.items():
         _diffkw = ('两源差异','存在差异','差异显著','数据分歧','分歧较大','口径不同','不宜直接比较','相差')
         _confkw = ('双源印证','完全一致','印证')
         _is_diff = any(w in note for w in _diffkw) and not ('方向与量级一致' in note)
+        # 维基语种集合：该数据行 + 所属条目引用的全部 wiki 来源
+        _allsrc = set(srcs) | set(e.get('sources', []) or [])
+        _langs = {str(x).split('-')[1] for x in _allsrc
+                  if str(x).startswith('w-') and len(str(x).split('-')) > 1}
+        _multilang = len({l for l in _langs if l in ('en', 'zh', 'de', 'fr', 'es', 'ja')}) >= 2
         if _is_diff:
             discrepant.append((e, k, has_official))
-        elif any(w in note for w in _confkw):
-            if has_official:
-                confirmed.append((e, k, has_official))   # 独立机构互证
-            else:
-                crosslang.append((e, k, has_official))   # 跨语言维基对照
+        elif has_official and any(w in note for w in _confkw):
+            confirmed.append((e, k, has_official))       # 独立机构互证
+        elif _multilang:
+            crosslang.append((e, k, has_official))       # 真正的跨语言维基对照
 
 def _kd_row(e, k):
     return (f'<tr><td><a href="{esc(e["id"])}.html">{esc(e.get("title"))}</a></td>'
@@ -489,7 +493,7 @@ else:
     vb.append('<p>（暂无）</p>')
 
 vb.append(f'<h2>跨语言维基对照（{len(crosslang)} 条）</h2>')
-vb.append('<p class="src-list">以下数值中英文维基百科一致，但两者<b>同属维基体系</b>，不构成严格意义的独立机构互证，仅作跨语言对照记录。</p>')
+vb.append('<p class="src-list">以下条目同时引用了<b>两种以上语言的维基百科</b>（en／zh／de／fr／es 等），可供读者跨语言对照同一概念的表述。但须明确：<b>多语种页面同属维基体系</b>，彼此不构成独立机构互证——它们是同一知识生产体系的不同语言版本，可能共享同一批原始引用，也可能各自独立。本页仅作对照记录，不作核实等级认定。</p>')
 if crosslang:
     vb.append('<table><tr><th>条目</th><th>数据项</th><th>数值</th><th>年份</th></tr>'
               + ''.join(_kd_row(e, k) for e, k, _ in sorted(crosslang, key=lambda x: x[0]['id'])) + '</table>')
