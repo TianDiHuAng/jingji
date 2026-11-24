@@ -62,7 +62,7 @@
       "unit": "%（巴西，2015年）",
       "year": 2015,
       "comparable_price": false,
-      "note": "原文：GDP fell by 3.5% in 2015；单一来源待核实。",
+      "note": "原文：GDP fell by 3.5% in 2015；单一来源待核实｜**已由世界银行/OWID 数据印证**（两源数值一致）。",
       "sources": [
         "w-en-brazil-2014"
       ]
@@ -73,9 +73,31 @@
       "unit": "%（巴西，2016年）",
       "year": 2016,
       "comparable_price": false,
-      "note": "原文：and 3.3% in 2016；单一来源待核实。",
+      "note": "原文：and 3.3% in 2016；单一来源待核实｜**已由世界银行/OWID 数据印证**（两源数值一致）。",
       "sources": [
         "w-en-brazil-2014"
+      ]
+    },
+    {
+      "label": "巴西实际GDP增速(2015，世界银行/OWID口径)",
+      "value": -3.546,
+      "unit": "%（实际GDP年增率）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "来源：OWID real-gdp-growth.csv，Brazil 2015 → −3.546%。**与本条目 −3.5% 完全一致**，双源印证。",
+      "sources": [
+        "owid-real-gdp"
+      ]
+    },
+    {
+      "label": "巴西实际GDP增速(2016，世界银行/OWID口径)",
+      "value": -3.276,
+      "unit": "%（实际GDP年增率）",
+      "year": 2016,
+      "comparable_price": false,
+      "note": "来源：OWID real-gdp-growth.csv，Brazil 2016 → −3.276%。**与本条目 −3.3% 一致**，双源印证。",
+      "sources": [
+        "owid-real-gdp"
       ]
     }
   ],
@@ -110,9 +132,10 @@
   "comparison": "与其他新兴市场衰退相比，巴西本轮以国内因素与商品周期叠加为主，而非货币或银行危机。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴西经济危机(2014–2016)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>巴西经济危机开始（据 W</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-brazil-2014"
+    "w-en-brazil-2014",
+    "owid-real-gdp"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】 【续作BH】2015/2016实际GDP增速已获世界银行/OWID双源印证。"
 }

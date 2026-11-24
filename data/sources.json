@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 610,
+  "count": 612,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -7321,6 +7321,30 @@
       "verified": true,
       "link_ok": true,
       "note": "OWID 结构化 CSV(本会话下载核对，源自世界银行，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "owid-gdp",
+      "title": "GDP, total (World Bank via Our World in Data)",
+      "author": "Our World in Data（数据源：World Bank）",
+      "year": "2024",
+      "type": "统计数据库",
+      "url": "https://ourworldindata.org/grapher/gdp-worldbank",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "OWID 结构化 CSV(本会话下载并逐年计算增速核对，源自世界银行，非维基，作为第二独立来源)"
+    },
+    {
+      "id": "owid-real-gdp",
+      "title": "Real GDP growth (World Bank via Our World in Data)",
+      "author": "Our World in Data（数据源：World Bank）",
+      "year": "2024",
+      "type": "统计数据库",
+      "url": "https://ourworldindata.org/grapher/real-gdp-growth",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "OWID 结构化 CSV(本会话下载核对，实际GDP增速口径，源自世界银行，非维基，作为第二独立来源)"
     }
   ]
 }

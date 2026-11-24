@@ -80,6 +80,17 @@
       "sources": [
         "w-en-russian-financial-crisis-2014"
       ]
+    },
+    {
+      "label": "俄罗斯GDP增速(2015，世界银行/OWID口径)",
+      "value": -1.97,
+      "unit": "%（年增率；本条目另载−3.7%，两源有差异）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "来源：OWID gdp-worldbank.csv，Russia 2014→2015 计算得 −1.97%。**与本条目所载 −3.7% 存在差异**，可能与数据修订版本、汇率换算或统计口径有关，具体原因待核实。此处并列两源。",
+      "sources": [
+        "owid-gdp"
+      ]
     }
   ],
   "schools": [
@@ -116,7 +127,8 @@
     "w-en-russian-financial-crisis-2014",
     "w-en-currency-crisis",
     "w-en-russian-financial-crisis-2014-2016",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "owid-gdp"
   ],
   "related": [
     "black-friday-1869",
@@ -124,5 +136,5 @@
     "bretton-woods"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-russian-financial-crisis-2014-2016。 【续作AP】补关键数据（单源）。 【续作BG】2015年GDP增速已并列两源（−3.7% vs 世行 −1.97%），差异待核实。"
 }

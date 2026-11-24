@@ -77,6 +77,28 @@
       "sources": [
         "w-en-german-economic-crisis-2022-present"
       ]
+    },
+    {
+      "label": "德国实际GDP增速(2023，世界银行/OWID口径)",
+      "value": -1.017,
+      "unit": "%（实际GDP年增率）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "来源：OWID real-gdp-growth.csv，Germany 2023 → −1.017%。与本条目 −0.9% 接近（差异约0.1个百分点，或因修订版本不同）。",
+      "sources": [
+        "owid-real-gdp"
+      ]
+    },
+    {
+      "label": "德国实际GDP增速(2024，世界银行/OWID口径)",
+      "value": 0.007,
+      "unit": "%（实际GDP年增率）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "来源：OWID real-gdp-growth.csv，Germany 2024 → +0.007%（近乎零增长）。**与本条目所载 −0.5% 差异显著**；可能源于统计机构初值/修订值差异或口径不同，具体待核实。此处并列两源，不替读者判断。",
+      "sources": [
+        "owid-real-gdp"
+      ]
     }
   ],
   "schools": [
@@ -112,7 +134,8 @@
   "sources": [
     "w-en-economic-history",
     "w-en-german-economic-crisis-2022-present",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "owid-real-gdp"
   ],
   "related": [
     "business-cycle",
@@ -120,5 +143,5 @@
     "oil-crisis-1979"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-german-economic-crisis-2022-present。 【续作F】升L2(据REST摘要)。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-german-economic-crisis-2022-present。 【续作F】升L2(据REST摘要)。 【续作BH】2024年增速已并列两源（−0.5% vs 世行 +0.007%），差异显著；2023年两源接近。"
 }
