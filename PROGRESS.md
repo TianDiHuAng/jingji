@@ -1964,6 +1964,24 @@
 - **round 94 的接线检查再次生效**，批量修复并对称化 **59 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 750 字**；**ERRORS 0**、WARNINGS 85（概念 55／案例 30）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 103 轮可用（round 122）**。**扩写 26 条概念（WARNINGS 85 → 59）**。
+- **第一批 14 条**：industrial-revolution／bis／cpi／dodd-frank／lucas-critique／principal-agent／purchasing-power-parity／greshams-law／is-lm／laffer-curve／yield-curve-control／aggregate-demand／dutch-disease／efficient-market。
+- **第二批 12 条**：etf／maturity-transformation／seigniorage／sovereign-wealth-fund／debasement／volcker-rule／output-gap／great-moderation／plaza-accord／louvre-accord／great-divergence／gnp。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `great-moderation` | **波动被转移了，而非消除**——风险从产出与通胀转移到金融体系的杠杆与资产负债表，而这些**不在当时的政策指标里** |
+  | `is-lm` / `lucas-critique` | 都指向同一件事——主流宏观模型**没有金融中介、忽略预期与结构变化**，这正是 2008 年后被批评之处 |
+  | `volcker-rule` | 记录一个具体的制度衰退——2019—2020 年美国对其实施实质性放松，是「**危机后改革会随时间被侵蚀**」的例证 |
+  | `debasement` | 归纳一条跨越时代的线索——**从降低金属成色到超额印钞到现代金融抑制，经济实质是同一个：以隐蔽方式重新分配财富** |
+  | `greshams-law` | 明确适用条件（**必须有法定比价**），并指出它在单一法定货币体系中**不适用**，但常被误用 |
+  | `plaza-accord` | 对「广场协议→日本泡沫」保持谨慎——「**不能把日本的经验简单归因于一份协议**」 |
+
+- 沿用三引号 + 保存前换行规范化，两批**语法与渲染均一次通过**。
+- **round 94 的接线检查再次生效**，批量修复并对称化 **40 条**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 810 字**；**ERRORS 0**、WARNINGS 59。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

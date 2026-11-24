@@ -63,7 +63,8 @@
     "basel-iii",
     "capital-adequacy",
     "lender-of-last-resort",
-    "liquidity-risk"
+    "liquidity-risk",
+    "maturity-transformation"
   ],
   "sources": [
     "w-en-liquidity-coverage-ratio"

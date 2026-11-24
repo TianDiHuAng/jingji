@@ -2158,6 +2158,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 85（R22）+ 自测 18/18",
       "spot_check": "扩写 30 条概念；对称化 59 条",
       "note": "维基第102轮可用。LJ-LK：扩写 30 条概念（WARNINGS 115 → 85）。①第一批 15 条：disinflation／fatf／gini／inflation-targeting／mark-to-market／public-good／sudden-stop／tarp／hedging／history-of-banking／middle-income-trap／ponzi-scheme／bimetallism／financial-fragility／long-depression。②第二批 15 条：fiscal-multiplier／fsb／globalization／national-income／stress-test／tranche／comparative-advantage／international-monetary-system／washington-consensus／basel-accords／basel-iii／financial-crisis／fiscal-space／lewis-turning-point／ppi。③**本轮几处关键判断**：**ponzi-scheme** 明确区分「庞氏骗局（欺诈）」与「明斯基的庞氏融资（脆弱性结构）」——两者形式相似（都依赖持续流入）但性质不同，「不该把所有高杠杆结构都称为庞氏」；**tranche** 指出分层的实质是「把同一资产池的风险在投资者之间重新分配」，而它对相关性的依赖在危机中失效——「分层能切分风险，但不能降低系统性风险」；**mark-to-market** 并列了两派（批评者称放大下跌 vs 支持者称问题在价格本身失真），并点出关键一句「**掩盖损失并不会消除损失**」；**public-good** 把金融稳定与危机中的流动性明确为公共品，直接解释「最后贷款人」的正当性；**national-income** 指出 GDP 不反映杠杆与资产泡沫——「这正是危机前宏观数据看起来很好的原因」；**financial-fragility** 提醒「脆弱性不等于即将出事」，把它当作危机将至的信号是对该概念的误用。④沿用三引号 + 保存前换行规范化，两批语法与渲染均一次通过。⑤**round 94 的接线检查再次生效**，批量修复并对称化 59 条。⑥现状：641 条、来源 742、页面 655；overview 平均 357 字；ERRORS 0、WARNINGS 85（其中概念 53／案例 32）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作LL-LM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 26,
+      "reviewed": 85,
+      "fixed": 26,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 59（R22）+ 自测 18/18",
+      "spot_check": "扩写 26 条概念；对称化 40 条",
+      "note": "维基第103轮可用。LL-LM：扩写 26 条概念（WARNINGS 85 → 59）。①第一批 14 条：industrial-revolution／bis／cpi／dodd-frank／lucas-critique／principal-agent／purchasing-power-parity／greshams-law／is-lm／laffer-curve／yield-curve-control／aggregate-demand／dutch-disease／efficient-market。②第二批 12 条：etf／maturity-transformation／seigniorage／sovereign-wealth-fund／debasement／volcker-rule／output-gap／great-moderation／plaza-accord／louvre-accord／great-divergence／gnp。③**本轮几处关键判断**：**great-moderation** 给出危机前认知失误的标准解释——「波动被转移了，而非消除：风险从产出与通胀转移到了金融体系的杠杆与资产负债表，而这些不在当时的政策指标里」；**is-lm** 与 **lucas-critique** 两处都指向同一件事——主流宏观模型**没有金融中介、忽略预期与监管的结构变化**，这正是 2008 年后被批评之处；**volcker-rule** 记录了一个具体的制度衰退——2019—2020 年美国对其实施实质性放松，是「危机后改革会随时间被侵蚀」的例证；**debasement** 归纳出一条跨越时代的线索——「从降低金属成色，到超额印钞，到现代的各种金融抑制手段，经济实质是同一个：以隐蔽的方式重新分配财富」；**greshams-law** 明确了它的适用条件（必须有法定比价），并指出它在单一法定货币体系中**不适用**，但常被误用；**plaza-accord** 对「广场协议→日本泡沫」这条因果链保持了谨慎——「不能把日本的经验简单归因于一份协议」。④沿用三引号 + 保存前换行规范化，两批语法与渲染均一次通过。⑤**round 94 的接线检查再次生效**，批量修复并对称化 40 条。⑥现状：641 条、来源 742、页面 655；overview 平均 376 字；ERRORS 0、WARNINGS 59（概念 27／案例 32）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

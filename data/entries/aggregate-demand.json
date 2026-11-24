@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "一定时期经济中对最终商品与服务的总需求，即对一国GDP的需求。",
-  "overview": "总需求（AD），亦称国内最终需求（DFD），是一定时期经济中对最终商品与服务的总需求，常被称为有效需求。它是对一国国内生产总值的需求，指明在所有可能价格水平下将被购买的商品与服务数量。与总供给共同构成 AD-AS 模型。具体构成待核实。",
+  "overview": "总需求(aggregate demand) 指**在给定价格水平下，经济中对最终产品与服务的需求总量**，由**消费、投资、政府支出与净出口**四部分组成。**它与总供给（见 aggregate-supply）的相互作用决定产出与物价**：**需求不足** → 产出下降、失业上升（这是凯恩斯式衰退）；**需求过旺** → 物价上涨（若产能已满）；**供给收缩** → 物价上涨且产出下降（滞胀，见 stagflation）。**为什么\"总需求不足\"可能持续存在（凯恩斯的核心论点）**：①**流动性偏好**（见 liquidity-preference）使储蓄未必转化为投资；②**工资与价格粘性**（见 sticky-prices）使调整缓慢；③**预期的自我实现**（见 self-fulfilling）使悲观延续；④**资产负债表效应**（见 balance-sheet-recession）使主体主动偿债而非支出。**政策含义**：这是**财政与货币政策的理论依据**；而在**零利率 + 资产负债表衰退**的组合下，**只能靠财政**（见 fiscal-multiplier）。**与危机的关系**：**危机本质上是总需求的骤降**，而金融体系的损伤使这一骤降被放大与延长（见 financial-accelerator、credit-crunch）。**一个必要的平衡**：在**供给受限**的经济中（如产能瓶颈、劳动力短缺），扩张需求只会推高物价——**因此\"需求不足\"与\"供给不足\"的区分是政策的第一道判断**。",
   "timeline": [],
   "causal_chain": [
     {
@@ -58,17 +58,23 @@
   ],
   "related": [
     "aggregate-supply",
+    "balance-sheet-recession",
     "demand",
     "durable-goods",
     "effective-demand",
     "elasticity",
+    "financial-accelerator",
     "fiscal-multiplier",
     "is-lm",
     "keynesian-economics",
+    "liquidity-preference",
     "national-income",
     "output-gap",
-    "says-law"
+    "says-law",
+    "self-fulfilling",
+    "stagflation",
+    "sticky-prices"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DY】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作P】 【续作DY】补写概念辨析。 【续作LL】overview 扩写 118 → 665 字。"
 }
