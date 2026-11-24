@@ -108,7 +108,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**处置成本与保险基金枯竭**：1985—86 年的倒闭对 FSLIC 极为昂贵——1985 年处置成本 **74 亿美元**、1986 年 **91 亿美元**，使 FSLIC 准备金在 1987 年前夕降至**不足 20 亿美元**；与此同时储贷业规模大为扩张，使这点准备金被摊得极薄。FSLIC 的即时反应是提高存款保险费率以增加收入。**资不抵债的规模**：1988 年底按 FHLBB 监管准则正式资不抵债的机构为 **250 家**，剔除无形资产后**翻倍至 508 家**；此时 FSLIC 自身也已资不抵债。**立法处置**：1989年2月6日新总统布什提出处置储贷机构倒闭的方案，最终形成 **FIRREA** 法与新设的**重组信托公司(RTC)**。",
+      "basis": "据 Wikipedia「Savings and loan crisis」FSLIC recapitalization 与 FIRREA and the RTC 章节；政策主体：FSLIC/总统/国会；动作：提高保险费率、FIRREA立法、设立RTC；效果评价待核实",
+      "sources": [
+        "w-en-financial-crisis",
+        "w-en-savings-and-loan-crisis"
+      ]
+    }
+  ],
   "comparison": "与同为「银行」类的其他案例共享相似传导机制，差异在于时期（20世纪下半）、地区（北美）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>储贷危机(1986–1995)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：银行；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
@@ -122,5 +132,5 @@
     "rhode-island-banking-1990"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-savings-and-loan-crisis替换兜底，待核实。 【续作AP】补关键数据（单源）。 【续作BD】资产增速数据来自美联储历史站。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CF】因果链与学派观点已按本条目史实定制，替换通用母版。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-savings-and-loan-crisis替换兜底，待核实。 【续作AP】补关键数据（单源）。 【续作BD】资产增速数据来自美联储历史站。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CF】因果链与学派观点已按本条目史实定制，替换通用母版。 【续作FK】基于维基全文补写policy_response。"
 }

@@ -70,7 +70,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "**资产处置**：**2023年3月19日**，FDIC 宣布 Signature Bridge Bank 的部分存款与贷款将由纽约社区银行(NYCB) 承接，其 **40 家分行**并入 Flagstar Bank 子公司（3月20日生效）。该交易**不包括约 600 亿美元贷款**，这部分留在接管程序中——其中包括 **110 亿美元**的租金管制公寓贷款。",
+      "basis": "据 Wikipedia「Signature Bank」Disposition of assets 章节；政策主体：FDIC；动作：部分资产出售给NYCB、其余留在接管程序；效果评价待核实",
+      "sources": [
+        "w-en-signature-bank",
+        "w-en-2023-united-states-banking-crisis"
+      ]
+    }
+  ],
   "comparison": "与硅谷银行（2023-03）、第一共和银行（2023）构成当年美国三家主要倒闭银行。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>签名银行倒闭(2023)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>签名银行倒闭（据 Wik</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -84,5 +94,5 @@
     "silicon-valley-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作DA】related已按危机序列/同组语义重建。 【续作FK】基于维基全文补写policy_response。"
 }
