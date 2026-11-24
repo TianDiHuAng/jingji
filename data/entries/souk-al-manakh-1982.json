@@ -39,7 +39,41 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "全股市值（暴涨前）",
+      "value": 5,
+      "unit": "十亿美元",
+      "year": 1981,
+      "comparable_price": false,
+      "note": "原文：market capitalization of all shares jumped in a few months from $5 billion to $100 billion；单一来源待核实。",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "label": "全股市值（暴涨后）",
+      "value": 100,
+      "unit": "十亿美元",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：from $5 billion to $100 billion；单一来源待核实。",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "label": "无法兑付的未结支票总值",
+      "value": 94,
+      "unit": "十亿美元",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：summed the value of worthless outstanding checks at the equivalent of US$94 billion from about 6,000 investors；单一来源待核实。",
+      "sources": [
+        "w-en-speculative-bubble"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "监管套利/道德风险视角",
@@ -82,5 +116,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。"
 }

@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "倒闭时欠债（1866年）",
+      "value": 11,
+      "unit": "百万英镑",
+      "year": 1866,
+      "comparable_price": false,
+      "note": "原文：collapsed in 1866 owing about £11 million, equivalent to £1,132 million in 2025；单一来源待核实。",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "关联度视角",
@@ -89,5 +101,5 @@
     "panic-1866"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。 【续作DV】policy_response 人工核验撰写。"
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。 【续作DV】policy_response 人工核验撰写。 【续作FQ】补充 key_data（取自维基原文）。"
 }

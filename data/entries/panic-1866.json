@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "危机后失业率",
+      "value": 8,
+      "unit": "%",
+      "year": 1866,
+      "comparable_price": false,
+      "note": "原文：The crisis led to a sharp rise in unemployment to 8%；单一来源待核实。",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "机构失败视角",
@@ -90,5 +102,5 @@
     "panic-1873"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1866替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述严格提炼。 【续作DO】policy_response 严格提炼。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-panic-of-1866替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作BZ】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DO】policy_response 由概述严格提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。"
 }

@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "存款在5000美元保险限额以下的占比",
+      "value": 98.5,
+      "unit": "%",
+      "year": 1935,
+      "comparable_price": false,
+      "note": "原文：At this time 98.5% of all deposits were under the $5,000 limit；单一来源待核实。",
+      "sources": [
+        "w-en-banking-act-1935"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "制度设计视角",
@@ -90,5 +102,5 @@
     "glass-steagall"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作DP】policy_response 人工核验撰写。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AJ】 【续作DP】policy_response 人工核验撰写。 【续作FQ】补充 key_data（取自维基原文）。"
 }

@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "私营银行占储蓄比重（1994年）",
+      "value": 10,
+      "unit": "%",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：private banks accounted for only about 10% of savings in 1994；单一来源待核实。",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    },
+    {
+      "label": "私营银行占储蓄比重（2003年）",
+      "value": 66,
+      "unit": "%",
+      "year": 2003,
+      "comparable_price": false,
+      "note": "原文：by 2003, the amount increased to about 66%；单一来源待核实。",
+      "sources": [
+        "w-en-myanmar-2003"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "信心/挤兑视角",
@@ -81,5 +104,5 @@
     "china-liquidity-2013"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【续作】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【续作】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。"
 }

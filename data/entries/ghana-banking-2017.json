@@ -47,7 +47,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "Capital Bank 与 UT Bank 无法回收债务",
+      "value": 11,
+      "unit": "十亿塞地",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：noncollectable debts of GH₵11 billion owed to Capital Bank and UT Bank；单一来源待核实。",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    },
+    {
+      "label": "对 Capital Bank 的流动性支持",
+      "value": 0.62,
+      "unit": "十亿塞地",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：The liquidity support of GH₵620 million, that was issued by the central bank of Ghana；单一来源待核实。",
+      "sources": [
+        "w-en-financial-crisis"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "银行治理/资本视角",
@@ -92,5 +115,5 @@
     "zambian-kwacha-reform"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-ghana-banking-crisis替换兜底，待核实。 【轮次9】L1→L2完整升级，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作CB】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作FQ】补充 key_data（取自维基原文）。"
 }

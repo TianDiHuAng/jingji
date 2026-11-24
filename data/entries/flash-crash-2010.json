@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "触发闪崩的单笔交易规模",
+      "value": 4.1,
+      "unit": "十亿美元",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：A $4.1 billion trade on the New York Stock Exchange (NYSE)；单一来源待核实。",
+      "sources": [
+        "w-en-flash-crash"
+      ]
+    },
+    {
+      "label": "道指盘中跌幅点数",
+      "value": 1000,
+      "unit": "点（以上）",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：a loss to the Dow Jones Industrial Average of over 1,000 points；单一来源待核实。",
+      "sources": [
+        "w-en-flash-crash"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "市场微观结构视角",
@@ -79,5 +102,5 @@
     "mini-crash-1997"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：具体点位/百分比、官方调查(FBI/CFTC-SEC报告)结论、监管措施待核实补充。 【续作】升L2。"
+  "pending_notes": "L1骨架：具体点位/百分比、官方调查(FBI/CFTC-SEC报告)结论、监管措施待核实补充。 【续作】升L2。 【续作FQ】补充 key_data（取自维基原文）。"
 }
