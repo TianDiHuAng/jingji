@@ -78,7 +78,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "多国监管机构的联合行动：1991年该行因大规模欺诈与洗钱被**多国监管机构关闭**（正文将其记为跨境银行监管失效的经典案例）。",
+      "basis": "据本条目正文（主体：多国监管机构；动作：关闭该行）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-bcci",
+        "w-en-bank-regulation"
+      ]
+    }
+  ],
   "comparison": "与安达信、安然等欺诈案相比，BCCI 的特殊性在于跨境监管真空。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>BCCI 国际信贷商业银行倒闭(1991：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>BCCI 由 Agha </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -91,5 +101,5 @@
     "money-laundering"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作DX】policy_response 人工核验撰写。"
 }

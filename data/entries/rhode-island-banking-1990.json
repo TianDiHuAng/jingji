@@ -66,7 +66,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "1991年1月1日 RISDIC 被宣告无力偿付后，州政府随即**关闭了数十家**依赖该保险的机构，储户一度无法取款；州政府随后**为部分存款提供担保**并推动重组。",
+      "basis": "据本条目正文（主体：罗得岛州政府；动作：关闭机构、为部分存款担保、推动重组）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-financial-crisis",
+        "w-en-rhode-island-banking-crisis"
+      ]
+    }
+  ],
   "comparison": "与储贷危机同期美国银行业问题相关；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>罗得岛银行危机(1990–1992)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>普罗维登斯 Herita</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
@@ -79,5 +89,5 @@
     "savings-loan-1986"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-rhode-island-banking-crisis替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。"
+  "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【轮次6体检】补专属来源w-en-rhode-island-banking-crisis替换兜底，待核实。 【续作】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。 【续作DO】policy_response 由概述提炼。 【续作DO】policy_response 严格提炼。 【续作DO】撤回误置的policy_response（原文为成因/背景而非政策）。 【续作DW】policy_response 人工核验撰写。"
 }

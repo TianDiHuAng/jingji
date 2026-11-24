@@ -97,7 +97,17 @@
       ]
     }
   ],
-  "policy_response": [],
+  "policy_response": [
+    {
+      "holder": "政策当局",
+      "view": "应对措施包括：将销售税提高至 **11%**；并依据《波多黎各监督、管理与经济稳定法》(PROMESA) 进入类似破产的重组程序（由财政监督与管理委员会主持）。",
+      "basis": "据本条目正文（主体：波多黎各当局/美国国会授权的监督委员会；动作：增税、PROMESA重组）；具体细节与效果评价待核实",
+      "sources": [
+        "w-en-puerto-rican-debt-crisis",
+        "w-en-debt-crisis"
+      ]
+    }
+  ],
   "comparison": "与同为「债务」类的其他案例共享相似传导机制，差异在于时期（21世纪）、地区（北美）与制度环境；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>波多黎各政府债务危机(2014–2022)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：债务；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
@@ -112,5 +122,5 @@
     "greek-debt-crisis"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-puerto-rican-government-debt-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。 【续作DO】policy_response 由概述提炼。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-puerto-rican-government-debt-crisis。 【续作AQ】补关键数据（单源）。 【续作BV】已用已有数据重写正文与时间线，替换骨架占位。 【续作CH】因果链与学派观点已按本条目史实定制。 【续作DO】policy_response 由概述提炼。 【续作DW】policy_response 人工核验撰写。"
 }
