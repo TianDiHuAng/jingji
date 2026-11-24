@@ -236,7 +236,7 @@ def render_entry(e):
          f'<span class="lvl">{esc(e.get("level",""))} · {esc(e.get("tier",""))}</span></p>']
     def sec(title, content):
         if content:
-            b.append(f'<div class="section"><h3>{title}</h3>{content}</div>')
+            b.append(f'<div class="section"><h2>{title}</h2>{content}</div>')
     sec('概述', f'<p>{esc(e.get("overview",""))}</p>' if e.get('overview') else '')
     tl = e.get('timeline',[])
     if tl:
