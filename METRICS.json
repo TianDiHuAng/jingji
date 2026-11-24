@@ -1426,6 +1426,18 @@
       "check_result": "PASS; 6 道检查全绿（来源抽样可达性良好）",
       "spot_check": "来源抽样 50 个：失败均为服务端瞬时问题，复测通过",
       "note": "维基第41轮可用。FV：**新增第6个检查工具 tools/check_sources.py**，抽样验证 sources.json 中 verified=true 的来源是否真可达。首次抽样30个：27可达、3失败（openlibrary 503×2、OWID 404×1）；逐项复测确认**均为服务端瞬时问题**——OWID 的 grapher 页复测返回200、openlibrary 首页与单个作品页复测200。再抽样20个：19可达、1超时（openlibrary 单项偶发）。工具设计：403/405/429（反爬、方法限制、限流）视为可达；5xx与超时自动重试一次；只有404与持续失败才报错。**结论：732 个来源可达性良好**，round 8 的全量核对结论仍成立。至此共有 **6 道检查**：check（数据合规R1-R16）、check_links（链接与SVG）、check_quality（HTML结构10项）、check_kd（key_data数值）、check_polnum（政策段数字）、check_sources（来源可达性）。当前：案例政策 142/205（69%）、案例数据 176/205（85%）、key_data 397 条。"
+    },
+    {
+      "round": "续作FW-FX",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 1502,
+      "fixed": 2,
+      "sources_total": 732,
+      "check_result": "PASS; 7 道检查全绿（正文数字1502个中34个需人工判断）",
+      "spot_check": "发现并标注2处无源数字；新增check_body_num工具",
+      "note": "维基第42轮可用。FW/FX：**新增第7个检查工具 tools/check_body_num.py**，核对 overview/comparison/one_line 中的数字能否溯源（对照来源全文 + 条目自身 key_data/timeline）。初版检查 1502 个数字，148 个未匹配；改进后排除年份引用、聚焦真实数值，降至 34 个。**发现 2 处真问题**：dotcom-bubble-2000 的\"高通上涨2619%、12只超1000%、7只超900%\"、panic-1901 的\"从170美元涨至1000美元\"——**在各自专属维基页中均找不到**，而这两条本就标着 needs_verification=true。按项目原则（不编造数字），**不删信息但改为待核实表述**：明确写出\"现行来源页面未载该数值，需补充出处\"。另重抓 dotcom 的专属页（Dot-com_bubble，20202字符），确认 600%/78%/900% 可溯源。blue-monday-2009 经查维基**无专属条目**（来源仅通用页），已记入 BACKLOG。至此共 **7 道检查**。当前：案例政策 142/205、案例数据 176/205、来源 732。"
     }
   ]
 }
