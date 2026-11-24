@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**央行流动性工具**的区别在\"谁提供、什么条件下\"：同业拆借是银行之间的**市场化**融资（按市场价格、有对手方风险）；央行的贴现窗口与各类便利是**最后贷款人**渠道（惩罚性利率、需抵押品、有污名）。危机中的关键转折是：一旦同业市场因**信任崩塌**而冻结（2008年8月、2023年3月），银行只能转向央行——这就是为何\"同业利率\"是危机早期最灵敏的指标之一（Libor-OIS 利差、SOFR 波动）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>同业拆借市场：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>银行为满足准备金与流动性</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>按同业利率成交，多为隔夜</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>信心崩塌致交易量骤降 →</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-interbank-lending",
@@ -63,5 +63,5 @@
     "money-market"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作DZ】补写概念辨析。"
 }

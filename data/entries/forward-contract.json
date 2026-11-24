@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**期货**的区别在定制与清算：远期是完全定制的场外合约，到期一次结算，无中央对手方、无每日盯市，因此承担**对手方风险**；期货是标准化的交易所合约，有中央清算与保证金。远期适合企业对冲特定现金流（金额与日期精确匹配），期货适合流动性管理与投机。危机中的教训是：远期合约的对手方风险在系统性事件中会集中暴露（结算风险、Herstatt）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>远期合约：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方约定未来价格与交割 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>锁定价格以对冲或投机</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>场外交易 → 承担对手方</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-forward-contract",
@@ -63,5 +63,5 @@
     "interest-rate-parity"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】 【续作DZ】补写概念辨析。"
 }

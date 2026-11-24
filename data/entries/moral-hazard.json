@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**逆向选择**的区别在时点：道德风险发生在**交易之后**（被保险或受保护后行为改变、风险上升）；逆向选择发生在**交易之前**（无法区分类型、按平均质量定价、优质方退出）。在金融中的对应：存款保险与\"太大而不能倒\"产生道德风险（机构冒更大风险）；信贷与证券化中的信息不对称产生逆向选择（低风险借款人/优质资产退出）。对策不同：前者靠契约约束与资本要求，后者靠信息披露与信号（担保、评级）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>道德风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>存在保险/救助预期 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>受保护方改变行为、承担更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>系统性风险上升(如存款保</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-moral-hazard",
@@ -63,5 +63,5 @@
     "too-big-to-fail"
   ],
   "needs_verification": true,
-  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。"
+  "pending_notes": "理论概念：定义出处与在具体危机中的适用待核实补充。 【续作】升L2。 【续作DZ】补写概念辨析。"
 }

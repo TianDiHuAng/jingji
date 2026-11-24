@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币史**的区别在\"机构与记账单位\"：货币史研究交换媒介与计价单位的演化（商品货币→铸币→纸币→信用货币）；银行史研究**中介机构的演化**（寺庙与商人放贷→美第奇式跨国银行→部分准备金商业银行→央行与监管体系）。两者交织：银行创造存款货币，使货币供给不再只由铸币决定；而央行的出现，正是银行危机反复发作的制度回应（见 lender-of-last-resort）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>银行史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商人提供谷物贷款 → 出</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>汇票与分支网络 → 跨境</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>中央银行与监管体系形成 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-history-of-banking",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与数据待核实。【续作AW】 【续作DZ】补写概念辨析。"
 }

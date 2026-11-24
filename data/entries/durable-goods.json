@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**非耐用品**的区别在\"使用期限与周期敏感性\"：耐用品（汽车、家电、机械）可延后购买，因此对**收入预期与利率**高度敏感，是经济周期中波动最大的部分；非耐用品（食品、能源）需求刚性，波动小。这一差别使耐用品成为**领先指标**：衰退前耐用消费品支出先降，复苏时也先反弹。1937—38年衰退中\"耐用品降幅更大\"正是这一机制。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>耐用品：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>商品可长期使用 → 购买</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>经济不确定性上升 → 耐</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>耐用品需求波动放大经济周</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-durable-goods",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作R】 【续作DZ】补写概念辨析。"
 }

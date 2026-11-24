@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**市场操纵**的区别在\"利用什么信息\"与\"做什么动作\"：内幕交易是利用**未公开的重大信息**交易（信息不对称的滥用）；市场操纵是通过**虚假交易或信息**影响价格（如洗售、拉抬、虚假消息）。前者损害\"公平获取信息\"的原则，后者损害\"价格真实性\"。两者的监管难点相同：都难以取证（需证明意图），且都随金融创新而变形（衍生品、算法）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>内幕交易：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>内部人掌握重大非公开信息</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>据此交易获取不正当优势</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>损害市场公平与信心 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-insider-trading",
@@ -62,5 +62,5 @@
     "market-manipulation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作DZ】补写概念辨析。"
 }

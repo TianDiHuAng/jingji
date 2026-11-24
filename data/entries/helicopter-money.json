@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**量化宽松**(QE) 的区别在\"直接性\"：QE 是央行购买资产（国债、MBS），向**金融体系**注入流动性，效果依赖银行放贷与市场传导；直升机货币是**直接向公众或政府**转移资金（如每人发钱、直接为财政赤字融资），绕过金融中介。这一差别决定争议焦点：QE 被批评\"推高资产价格而未刺激实体\"；直升机货币直击需求，但被视为对央行独立性（和货币财政边界）的突破。2020年的现金发放与\"现代货币理论\"(MMT) 讨论使这条界线再次模糊。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>直升机撒钱：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>经济陷入流动性陷阱 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>央行直接向个人转移资金 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>绕开金融中介，但模糊货币</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-helicopter-money",
@@ -63,5 +63,5 @@
     "seigniorage"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作DZ】补写概念辨析。"
 }

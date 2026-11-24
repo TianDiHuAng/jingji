@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**GDP**的区别在统计边界：GNP 按**国民身份**统计（含海外净要素收入），GDP 按**地理边界**统计。两者差额在危机中会放大：若一国大量依赖侨汇与外劳汇款，危机时这些流入可能骤减，使 GNP 下滑幅度大于 GDP（波多黎各、萨尔瓦多等案例）。现多改用 GNI（国民总收入）表述，含义与 GNP 接近。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国民总收入(GNI)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>居民提供要素获得收入 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>GDP 加跨境要素收入净</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于比较国民收入水平与跨</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-gnp",
@@ -63,5 +63,5 @@
     "output-gap"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DZ】补写概念辨析。"
 }

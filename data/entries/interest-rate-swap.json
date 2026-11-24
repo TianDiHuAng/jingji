@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币互换**的区别在\"交换什么\"：利率互换交换的是**同一种货币**的利息计算方式（固定↔浮动）；货币互换交换的是**不同货币**的本金与利息。两者的用途不同：利率互换用于管理利率风险（LDI 用它延长久期）；货币互换用于管理汇率风险或获取外币流动性（央行间的互换额度是危机中的重要工具）。共同点是都不交换本金（利率互换）或交换本金（货币互换），且都属场外衍生品、在危机中因抵押品要求而放大顺周期压力。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>利率互换：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>一方付固定、一方付浮动的</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>用于调整资产负债的利率敏</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>场外交易 → 对手方与不</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-interest-rate-swap",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AZ】 【续作DZ】补写概念辨析。"
 }

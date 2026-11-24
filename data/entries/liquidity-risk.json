@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**偿付能力风险**的区别是危机处置的分水岭：流动性风险是\"有资产但无法及时变现\"（可按合理价格抵押融资解决）；偿付能力问题是\"资产价值低于负债\"（需资本重组或处置）。这一区分决定政策工具：前者用最后贷款人（以良好抵押品放贷）；后者用注资、bail-in 或清算。现实中二者难以分辨——这正是白芝浩原则\"只对市场整体、只对有偿付能力者放贷\"在执行上的困难，也是2008年救助范围不断扩大（从流动性支持到资本注入）的原因。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>流动性风险：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>市场深度不足或交易中断 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>为快速出售须接受折价 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>集中抛售 → 流动性螺旋</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-liquidity-risk",
@@ -63,5 +63,5 @@
     "maturity-transformation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AH】 【续作DZ】补写概念辨析。"
 }

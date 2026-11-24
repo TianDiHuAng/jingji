@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**债务重组**的关系是\"手段与过程\"：减记(haircut) 是重组中的一种**具体手段**——直接削减本金（如希腊2012年私人部门减记约53%）；重组是更广的框架，还包括延期、降息、债转股。减记的分配后果最直接：债权人立即承担损失，债务人立即减负。争议在于\"何时减记\"：过早会奖励不负责任，过晚会拖长危机（希腊的教训是拖延使债务率反而上升）。系统性重要机构的减记（bail-in）还需考虑传染效应。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>折扣(haircut)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>抵押品存在价格与流动性风</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>折扣上升 → 同等抵押品</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>压力期折扣骤升 → 强制</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-haircut-finance",
@@ -63,5 +63,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AI】 【续作DZ】补写概念辨析。"
 }

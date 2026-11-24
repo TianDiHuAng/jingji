@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "常被简化为\"劣币驱逐良币\"，但准确表述是：当**法定比价与实际价值不一致**时，人们会把价值高的货币**贮藏或熔化**，用价值低的货币支付——于是流通中留下的是劣币。关键在于**法定比价**：若没有强制比价（自由市场定价），良币不会被驱逐（人们会按实际价值交易）。这解释了为何复本位制、金银并行、以及现代多重汇率下会出现\"好钱消失\"——不是劣币本身有力量，而是**价格管制**在起作用。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>格雷欣法则：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>两种货币按同一面值流通 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>低价值货币留在流通中 →</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>铸币成色下降 → 货币信</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-greshams-law",
@@ -63,5 +63,5 @@
     "legal-tender"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DZ】补写概念辨析。"
 }

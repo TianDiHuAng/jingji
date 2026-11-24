@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**银行史**的区别在\"风险的分摊方式\"：银行通过期限转换与信用评估中介资金；保险通过**风险汇聚**（大数法则）把个体不确定性转嫁给集合。两者在危机中交汇：存款保险把\"挤兑风险\"汇聚化（见 deposit-insurance），而保险公司（AIG、单一险种保险公司）在2008年因承保CDS而成为系统性风险源——这说明\"风险汇聚\"在**相关性骤升**时会失效（同时出险时无处分摊）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>保险史：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>远程贸易风险 → 催生海</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>精算与风险分散技术发展 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>保险与再保险网络 → 风</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-insurance-history",
@@ -60,5 +60,5 @@
     "history-of-banking"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作DZ】补写概念辨析。"
 }

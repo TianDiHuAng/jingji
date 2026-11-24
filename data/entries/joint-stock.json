@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**合伙制**的区别在责任与可转让性：股份公司把所有权分为**可转让股份**、股东承担**有限责任**、并具有独立法人地位；合伙制则无限责任、份额转让受限。这一制度创新是金融史的转折点：它使**大规模长期融资**成为可能（东印度公司、铁路公司），也使风险从个人扩展到资本市场（股东可分散持有），并催生了股票交易所与泡沫（南海、密西西比）。有限责任同时带来道德风险——这是公司治理与信息披露监管的起点。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>股份公司：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>需大规模长期资本 → 以</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>股份可转让 → 形成二级</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>有限责任与股份流通 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-joint-stock",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作DZ】补写概念辨析。"
 }

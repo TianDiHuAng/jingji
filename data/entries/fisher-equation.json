@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**货币数量论**的关系是\"局部与整体\"：费雪方程式 MV=PT（或 i = r + π）是恒等式与近似关系；货币数量论则进一步主张 V 与 T 相对稳定，故 M 的变动决定 P。费雪方程式本身不预测任何东西（它只是定义），但**费雪效应**（名义利率随预期通胀一对一上升）是可检验的命题，也是\"实际利率＝名义利率−通胀\"这一政策判断的基础。危机中的偏离（名义利率触零而通胀为负→实际利率上升）正是通缩螺旋的机制之一。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>费雪方程式：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>名义利率 = 实际利率 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>通胀上升 → 名义利率随</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>未预期的通胀 → 实际利</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-fisher-equation",
@@ -63,5 +63,5 @@
     "neutral-rate"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DZ】补写概念辨析。"
 }

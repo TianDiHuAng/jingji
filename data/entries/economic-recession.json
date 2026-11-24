@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**萧条**(depression) 的区别是\"程度与惯例\"：衰退通常指产出与就业的显著下降（美国实践中常以\"连续两季负增长\"为通俗标准，但NBER用更宽的指标判定）；萧条是**更严重、更持久**的下滑（大萧条、阿根廷1998—2002\"大萧条\"）。两者没有严格的量化界线，这本身是个问题：如果只用\"两季负增长\"判定，可能漏掉缓慢的长期恶化；若用更宽指标，则判定带有主观性。NBER的事后判定之所以被接受，正因为其多指标方法。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>经济衰退：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>总需求/供给冲击 → 产</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>收入与消费走弱 → 衰退</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策刺激 → 复苏</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-recession",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作DZ】补写概念辨析。"
 }

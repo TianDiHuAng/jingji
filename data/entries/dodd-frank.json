@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**格拉斯-斯蒂格尔法**(1933) 的取向不同：格拉斯-斯蒂格尔用**业务分离**（商业银行不得从事证券业务）来隔离风险，简单而刚性；多德-弗兰克法(2010) 用**监管强化**（压力测试、沃尔克规则、有序清算机制、消费者金融保护局）来管理风险，复杂而依赖执行。这一转变反映的是：现代金融已高度混业，\"切分\"难以执行，只能靠资本、流动性与处置框架约束。代价是规则复杂、易被规避、且高度依赖监管机构的判断与独立性。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>多德-弗兰克法案(2010)：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>2007—2008 金融</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>2010年7月21日颁布</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>引入沃尔克规则、压力测试</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-dodd-frank",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作DZ】补写概念辨析。"
 }

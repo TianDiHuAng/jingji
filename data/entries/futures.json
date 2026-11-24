@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**远期合约**的区别在标准化与对手方：期货是**交易所标准化**合约（数量、交割月份固定），由中央对手方清算，每日盯市、有保证金要求，流动性高；远期是**场外(OTC)、定制化**合约，只有到期结算、对手方风险自担。这一差别在危机中很关键：期货的中央清算降低了传染风险但集中了风险（CCP 成为系统重要节点）；远期的对手方风险无法分散（Herstatt 风险、Archegos 的TRS）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>期货合约：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>双方约定未来价格与交割时</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>缴纳保证金、每日盯市结算</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>用于对冲或投机，交割或平</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-futures",
@@ -62,5 +62,5 @@
     "hedging"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作U】 【续作DZ】补写概念辨析。"
 }

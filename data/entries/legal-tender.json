@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**法偿货币**概念本身等同，但需与\"**强制流通**\"区分：法定清偿地位（legal tender）意味着用于清偿债务时债权人必须接受；但\"法定清偿\"并不等于\"必须使用\"——在多数国家，合同双方可约定以外币或电子方式结算。这一细节在多币种并存或高通胀环境下很关键：即使本币是法定清偿手段，公众仍可能自发转向外币（美元化），因为法定地位无法强制人们**持有**它。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>法定清偿地位：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>法律赋予某货币法定清偿地</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>强化该货币的流通与接受度</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与合同货币选择、外币债务</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-legal-tender",
@@ -63,5 +63,5 @@
     "history-of-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体年代与细节待核实。【续作AL】 【续作DZ】补写概念辨析。"
 }
