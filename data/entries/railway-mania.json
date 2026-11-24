@@ -3,8 +3,8 @@
   "title": "铁路狂热(1840年代英国)",
   "level": "L2",
   "tier": "重要",
-  "unit": "U3 20世纪上半",
-  "period": "20世纪上半",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
   "region": "欧洲",
   "crisis_type": "泡沫",
   "one_line": "1840年代英国铁路投资狂潮（Railway Mania），大量资本涌入铁路股票形成泡沫，随后崩盘。",
@@ -93,5 +93,5 @@
     "speculative-bubble"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。 【续作KF】overview 由英文摘要改写为中文（原 422 字）。"
+  "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AR】补关键数据（单源）。 【续作CE】补齐时间线。 【续作DI】补写对照分析。 【续作KF】overview 由英文摘要改写为中文（原 422 字）。 【续作OS｜round155】单元误分类：铁路狂热(1845-47)原标 U3(20世纪上半)，改 U2(18—19世纪)。"
 }

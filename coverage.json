@@ -1713,8 +1713,8 @@
       "source_count": 2,
       "needs_verification": 1,
       "last_updated": "2026-11-22",
-      "unit": "U3 20世纪上半",
-      "period": "20世纪上半",
+      "unit": "U2 18—19世纪",
+      "period": "18—19世纪",
       "region": "欧洲",
       "crisis_type": "泡沫"
     },
@@ -7004,8 +7004,8 @@
       "source_count": 1,
       "needs_verification": 1,
       "last_updated": "2026-11-24",
-      "unit": "U5 21世纪",
-      "period": "21世纪",
+      "unit": "U4 20世纪下半",
+      "period": "20世纪下半",
       "region": "大洋洲",
       "crisis_type": "货币"
     },

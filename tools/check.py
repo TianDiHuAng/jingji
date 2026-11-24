@@ -326,6 +326,19 @@ def main():
         for _id, _c in _inb.items():
             if _c == 0:
                 warn('R24', _id, '无任何 related 入链（相关条目孤岛）')
+    # R25 单元与时间线一致性：若某条目所有 timeline 年份都落在其单元时期范围之外，疑单元误分类（warning）
+    _UR = {'U1': (-4000, 1699), 'U2': (1700, 1899), 'U3': (1900, 1949),
+           'U4': (1950, 1999), 'U5': (2000, 2100)}
+    for _e in entries:
+        _pre = (_e.get('unit') or '')[:2]
+        if _pre not in _UR:
+            continue
+        _lo, _hi = _UR[_pre]
+        _yrs = [t.get('year') for t in (_e.get('timeline') or [])
+                if isinstance(t.get('year'), int) and t.get('year') != 0]
+        if _yrs and all(not (_lo <= y <= _hi) for y in _yrs):
+            warn('R25', _e.get('id', '?'), 'unit=%s 但全部 timeline 年份 %s 均超出该时期范围（疑单元误分类）'
+                 % (_e.get('unit'), _yrs))
     # R14 分层顺序
     if not single and entries:
         lv = Counter(e.get('level') for e in entries)

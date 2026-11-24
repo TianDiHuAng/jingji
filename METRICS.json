@@ -2542,6 +2542,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 29/29",
       "spot_check": "修 3 条 related 孤岛；加 R24；自测 28→29",
       "note": "维基第134轮可用。OQ：网络仍不可用；修 related 孤岛并加 R24。\n①**网络复测**：en wikipedia 仍 URLError，本会话持续不可用。\n②**related 一致性复核**：发现 **3 条条目无任何 related 入链**（`cook-islands-currency`／`haitian-independence-debt`／`recession-1960-1961`）。注意：另有 366 处\"单向 related\"多为**枢纽概念被广泛引用**（如 bank-run 被数百条指向），**全对称会让枢纽 related 爆炸，不宜强行对称**；仅对这 3 条各补一条反向链接（currency-board／sovereign-default／recession）。修后 **related 孤岛 = 0**。\n③**固化为检查 R24**：每条目应至少被一条 related 引用，否则 warning（防孤岛再现）。注入测试（移除 currency-board→cook-islands-currency）确认能捕获。\n④**纳入自测**：新增\"R24 related孤岛\"用例，自测 28 → **29 项**；同步更新 HEALTH_CHECK（R1–R24、自测 29）。\n⑤现状：641 条、来源 742、页面 655；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 29/29。"
+    },
+    {
+      "round": "续作OR-OS",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 3,
+      "reviewed": 641,
+      "fixed": 4,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 30/30",
+      "spot_check": "修 2 处单元误分类（railway/cook-islands）+ creditanstalt timeline + R25，自测 30",
+      "note": "维基第135轮可用。OR-OS：核查 timeline 年份，发现并修 **2 处单元误分类** + 补齐 1 条 timeline。\n①**方法**：对每条目检查 timeline 年份是否落在其单元时期范围内；\"全部年份都超出\"是单元误分类的强信号。\n②**发现 2 处单元错**：`railway-mania`（铁路狂热 1845-47，原标 U3 20世纪上半 → 改 **U2 18—19世纪**）、\n`cook-islands-currency`（核心事件 1989-1995，原标 U5 21世纪 → 改 **U4 20世纪下半**）。\n其余\"部分超范围\"多为创立年/后续背景（如 aig 1919 创立），属正常。\n③**补齐**：`creditanstalt` timeline 原仅 1855 创立，补 **1931 危机 / 1934 合并**（据 w-en-creditanstalt 缓存）。timeline 事件 657 → 659。\n④**同步**：coverage.json、COVERAGE_MATRIX（U2 37/U3 34/U4 50/U5 78）、scope.md 时期列；check_docs 及时抓到 REPORT/HEALTH 的 timeline 657→659 需更新（守卫生效）。\n⑤**固化 R25**：条目所有 timeline 年份都超出其单元时期范围则 warning（防单元误分类再现）。自测 29 → **30 项**。\n⑥现状：641 条、来源 742、页面 655；timeline 659 事件；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 30/30。"
     }
   ]
 }

@@ -12,11 +12,24 @@
   "timeline": [
     {
       "year": 1855,
-      "display": "1855年",
-      "event": "Creditanstalt 在维也纳成立（据 Wikipedia Creditanstalt）",
       "sources": [
         "w-en-creditanstalt"
-      ]
+      ],
+      "event": "Creditanstalt 在维也纳成立"
+    },
+    {
+      "year": 1931,
+      "sources": [
+        "w-en-creditanstalt"
+      ],
+      "event": "该行 1931 年失败，引发中欧银行危机，被视为大萧条首批重大银行倒闭之一"
+    },
+    {
+      "year": 1934,
+      "sources": [
+        "w-en-creditanstalt"
+      ],
+      "event": "与维也纳银行协会(Wiener Bankverein)及下奥地利贴现公司的健全部分合并"
     }
   ],
   "causal_chain": [
@@ -81,5 +94,5 @@
     "gold-standard"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。 【续作OK｜round148】原 overview 为 stub，据 w-en-creditanstalt 缓存改写并加 policy_response。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作X】 【续作BM】补足第二方视角(schools≥2)。 【清理】原概述结尾含「具体信息待核实」，已移入此处。 【续作OK｜round148】原 overview 为 stub，据 w-en-creditanstalt 缓存改写并加 policy_response。 【续作OS｜round155】timeline 原仅 1855 创立，补 1931 危机/1934 合并。"
 }

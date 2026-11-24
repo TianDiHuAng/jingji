@@ -321,6 +321,17 @@ def m_r24():
 
 case('R24 related孤岛', m_r24, ['tools/check.py'], 'R24', [CB_ENT])
 
+RW_ENT = os.path.join(ENT, 'railway-mania.json')
+
+
+def m_r25():
+    d = json.load(open(RW_ENT, encoding='utf-8'))
+    d['unit'] = 'U3 20世纪上半'   # 1845/47 全落在 U3 外 → 触发 R25
+    json.dump(d, open(RW_ENT, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('R25 单元时间线不符', m_r25, ['tools/check.py'], 'R25', [RW_ENT])
+
 REPORT_MD = os.path.join(ROOT, 'REPORT.md')
 
 
