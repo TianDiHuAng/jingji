@@ -2362,6 +2362,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 20/20",
       "spot_check": "页面结构完整；check_pages 加站点完整性断言；自测 19→20",
       "note": "维基第119轮可用。NS-NT：审计页面结构完整性并把\"站点完整性\"固化为检查。\n①**页面结构审计（全部 655 页）**：缺概述 **0**、空 tbody **0**、L3 缺 SVG **0**、有 key_data 却无关键数据表 **0**——条目页结构完整。\n②**聚合页与导航完整性**：timeline.html 658 行（表头+657 事件，与数据 657 一致）、sources.html 完整列出 742 来源；\n`index-all.html` 链接到 **641/641** 条目、`cases.html` **209**、`concepts.html` **432**——导航无遗漏；站点共 14 静态页 + 641 条目页 = 655。\n③**固化为检查**：`check_pages.py` 新增\"站点完整性\"三项断言——（a）每条目均有页面；（b）index-all 列全所有条目 id；（c）timeline 页行数不少于事件总数。防 gen_site 截断/漏生成。\n④**纳入自测**：`selftest.py` 新增\"站点完整性(未列全)\"用例（移除 index-all 一条链接应报\"未列全\"），自测 19 → **20 项**，全通过。\n⑤现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 20/20。"
+    },
+    {
+      "round": "续作NU-NW",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 641,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 21/21",
+      "spot_check": "SVG 无越界、overview 无重复；check_filler 加整段重复检测，自测 20→21",
+      "note": "维基第120轮可用。NU-NW：审计 SVG 与重复内容，并把\"整段重复\"纳入 check_filler。\n①**SVG 机制图审计（34 条 L3）**：全部有 viewBox（780×300 共 31 条、780×280 共 3 条），**元素坐标无一越出 viewBox**（不会被裁剪）——图形渲染合规。（首版脚本误用双引号正则，未匹配单引号属性而全报\"no viewBox\"，已修正。）\n②**overview 重复检测**：用 6-gram Jaccard 比对全部 overview，**相似度≥0.55 的条目对为 0**——无复制粘贴。\n③**固化为检查**：`check_filler.py` 新增\"整段 overview 高度相似（Jaccard≥0.55）\"检测，防未来复制粘贴。\n④**纳入自测**：`selftest.py` 新增\"check_filler 整段重复\"用例（把一条 overview 复制到另一条应报\"高度相似\"），自测 20 → **21 项**，全通过；并同步更新 `HEALTH_CHECK.md` 的自测数。\n⑤现状：641 条、来源 742、页面 655；L3 机制图 34 张；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 21/21。"
     }
   ]
 }

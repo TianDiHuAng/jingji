@@ -114,6 +114,19 @@ def m_complete():
 
 case('站点完整性(未列全)', m_complete, ['tools/check_pages.py'], '未列全', [INDEXALL])
 
+_DUP_A = os.path.join(ENT, 'capital-adequacy.json')
+_DUP_B = os.path.join(ENT, 'liquidity-coverage-ratio.json')
+
+
+def m_dupov():
+    a = json.load(open(_DUP_A, encoding='utf-8'))
+    b = json.load(open(_DUP_B, encoding='utf-8'))
+    b['overview'] = a['overview']          # 制造整段重复
+    json.dump(b, open(_DUP_B, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+case('check_filler 整段重复', m_dupov, ['tools/check_filler.py'], '高度相似', [_DUP_B])
+
 # ── 扩展：核心数据规则 ──
 def _w(path, d):
     json.dump(d, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)

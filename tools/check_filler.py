@@ -93,6 +93,20 @@ def main():
         if n >= 3:
             issues.append((sent_owner[s][0], '多条目', '跨条目重复句（%d次）' % n, s[:60]))
 
+    # 整段 overview 高度相似（防复制粘贴）：字符 6-gram Jaccard >= 0.55
+    def _sh(s):
+        s = ''.join(ch for ch in s if not ch.isspace())
+        return set(s[i:i + 6] for i in range(len(s) - 5)) if len(s) >= 6 else set()
+    _ovs = [(e['id'], _sh(e.get('overview') or '')) for e in entries if len(e.get('overview') or '') >= 80]
+    for _a in range(len(_ovs)):
+        for _b in range(_a + 1, len(_ovs)):
+            ia, sa = _ovs[_a]; ib, sb = _ovs[_b]
+            if not sa or not sb:
+                continue
+            u = len(sa | sb)
+            if u and len(sa & sb) / u >= 0.55:
+                issues.append((ia, 'overview', '与 %s 整段高度相似' % ib, ''))
+
     print('扫描条目: %d' % len(entries))
     if issues:
         print('发现疑似无信息量内容 %d 处：' % len(issues))
