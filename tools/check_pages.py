@@ -144,6 +144,21 @@ def main():
         if _tl_have < _tl_need:      # 每事件至少 1 行（表头另计）
             problems.append(('timeline.html', '事件行数不足', str(_tl_have), str(_tl_need)))
 
+    # ── 覆盖矩阵：matrix.html 的合计须等于条目总数（防 COVERAGE_MATRIX.md 陈旧）──
+    _mx = os.path.join(SITE, 'matrix.html')
+    if os.path.exists(_mx):
+        _mxt = open(_mx, encoding='utf-8').read()
+        _totals = re.findall(r'<tr>\s*<td[^>]*>合计</td>(.*?)</tr>', _mxt, re.S)
+        _bad = False
+        for _row in _totals:
+            _cells = re.findall(r'<td[^>]*>(\d+)</td>', _row)
+            if _cells and int(_cells[-1]) != len(es):
+                _bad = True
+                problems.append(('matrix.html', '矩阵合计≠条目数', _cells[-1], str(len(es))))
+                break
+        if _totals and not _bad:
+            pass
+
     print('期望值:', expect)
     print('页面数:', pages)
     print()

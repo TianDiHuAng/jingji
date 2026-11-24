@@ -127,6 +127,17 @@ def m_dupov():
 
 case('check_filler 整段重复', m_dupov, ['tools/check_filler.py'], '高度相似', [_DUP_B])
 
+MATRIX = os.path.join(ROOT, 'site', 'matrix.html')
+
+
+def m_matrix():
+    t = open(MATRIX, encoding='utf-8').read()
+    t2 = t.replace('<td>641</td>', '<td>999</td>')
+    open(MATRIX, 'w', encoding='utf-8').write(t2)
+
+
+case('矩阵合计校验', m_matrix, ['tools/check_pages.py'], '矩阵合计', [MATRIX])
+
 # ── 扩展：核心数据规则 ──
 def _w(path, d):
     json.dump(d, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)

@@ -2374,6 +2374,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 21/21",
       "spot_check": "SVG 无越界、overview 无重复；check_filler 加整段重复检测，自测 20→21",
       "note": "维基第120轮可用。NU-NW：审计 SVG 与重复内容，并把\"整段重复\"纳入 check_filler。\n①**SVG 机制图审计（34 条 L3）**：全部有 viewBox（780×300 共 31 条、780×280 共 3 条），**元素坐标无一越出 viewBox**（不会被裁剪）——图形渲染合规。（首版脚本误用双引号正则，未匹配单引号属性而全报\"no viewBox\"，已修正。）\n②**overview 重复检测**：用 6-gram Jaccard 比对全部 overview，**相似度≥0.55 的条目对为 0**——无复制粘贴。\n③**固化为检查**：`check_filler.py` 新增\"整段 overview 高度相似（Jaccard≥0.55）\"检测，防未来复制粘贴。\n④**纳入自测**：`selftest.py` 新增\"check_filler 整段重复\"用例（把一条 overview 复制到另一条应报\"高度相似\"），自测 20 → **21 项**，全通过；并同步更新 `HEALTH_CHECK.md` 的自测数。\n⑤现状：641 条、来源 742、页面 655；L3 机制图 34 张；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 21/21。"
+    },
+    {
+      "round": "续作NX-NY",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 655,
+      "fixed": 2,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 22/22",
+      "spot_check": "修复 matrix.html 陈旧（592→641）；check_pages 加矩阵合计断言；自测 21→22",
+      "note": "维基第121轮可用。NX-NY：核验覆盖矩阵，**发现并修复一个陈旧聚合页**（matrix.html 显示 592 条，实际 641）。\n①**核验 matrix.html**：解析三张矩阵发现——矩阵 A/B/C 合计均为 **592**，而实际条目 **641**、案例 209（矩阵仅 205），\n且 U3/U4/U5 期计数（34/47/78）与实际（35/49/79）均不符——**matrix.html 数据陈旧**。\n②**根因**：`matrix.html` 由 `gen_site.py` 读取静态文件 `COVERAGE_MATRIX.md` 渲染，而该 md 从未随条目增长更新（停在 592 条）。\n③**修复**：用当前 641 条数据**重生成 `COVERAGE_MATRIX.md`**（矩阵 A/B/C + 空白清单），gen_site 重新渲染后合计 **641**、各期 10/36/35/49/79/432 与实际完全一致；空白格子 9 个。\n④**固化为检查**：`check_pages.py` 新增\"覆盖矩阵合计须等于条目总数\"断言（解析 matrix.html 三张表的合计行），防 COVERAGE_MATRIX.md 再次陈旧。已注入测试（改 641→999）确认能捕获。\n⑤**纳入自测**：`selftest.py` 新增\"矩阵合计校验\"用例，自测 21 → **22 项**，全通过；同步更新 HEALTH_CHECK。\n⑥现状：641 条、来源 742、页面 655；overview 平均 425 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 22/22。"
     }
   ]
 }
