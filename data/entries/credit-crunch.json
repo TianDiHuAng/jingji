@@ -61,8 +61,11 @@
     "capital-requirement",
     "credit-cycle",
     "credit-rationing",
+    "economic-recession",
     "financial-accelerator",
-    "financial-disintermediation"
+    "financial-disintermediation",
+    "monetary-policy",
+    "monetary-transmission"
   ],
   "needs_verification": true,
   "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与细节待核实。 【续作CE】扩写概述。 【续作DJ】补写概念辨析。 【清理】原概述结尾含「具体机制与度量待核实」，已移入此处。"

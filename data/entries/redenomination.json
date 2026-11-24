@@ -61,7 +61,8 @@
     "dollarization",
     "fiat-money",
     "hyperinflation",
-    "indexation"
+    "indexation",
+    "legal-tender"
   ],
   "needs_verification": true,
   "pending_notes": "L2：据维基摘要（也门页数据有限，key_data暂缺）；具体数据待核实。【续作CI】 【清理】原概述结尾含「具体案例待核实」，已移入此处。"

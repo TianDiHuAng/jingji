@@ -1830,6 +1830,24 @@
 - **round 94 的接线检查再次生效**：30 条扩写引入多处「见 xxx」未入 `related`，用既定脚本批量修复（补入 21 条、对称化 16 条）。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 430 字**；**ERRORS 0**、WARNINGS 275（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 96 轮可用（round 115）**。**扩写 30 条（WARNINGS 275 → 245）**。
+- **第一批 17 条**：token-money／double-entry／history-of-money／economic-history／iosco／kitchin-cycle／money-market／put-option／real-business-cycle／usury／bid-ask／current-account／de-dollarization／depression-economics／economic-recession／minsky-moment／monetary-policy。
+- **第二批 13 条**：monetary-transmission／option／prudential-regulation／welfare-economics／financial-inclusion／fiscal-dominance／free-trade／futures／gatt／legal-tender／leverage-cycle／loanable-funds／**beta**（连纯工具指标也一并补齐）。
+- **几处值得单列的判断**：
+
+  | 条目 | 关键判断 |
+  |---|---|
+  | `double-entry` | 危机的会计根源几乎从不是「算错」，而是「**该记的没记进去**」（表外、估值假设、合并范围） |
+  | `bid-ask` | 价差扩大可在**价格几乎不变**时发生——它衡量的不是「资产值多少」而是「**现在还能不能交易**」 |
+  | `minsky-moment` | 明斯基**未给出「何时」的公式**；该概念是描述机制的、**不是择时信号** |
+  | `beta` | 危机中「**所有相关性都变成 1**」，使基于 β 的对冲同时失效 |
+  | `loanable-funds` | 可贷资金是「流量」框架，而现代银行是「**内生货币**」——「储蓄池决定可贷资金」在有银行体系的经济中并不成立 |
+  | `financial-inclusion` | 问题不在「穷人获得信贷」，而在**掠夺性条款与审慎标准的放弃** |
+  | `kitchin`／`kondratiev` | 两类周期均注明**统计基础有争议，本库不据周期位置作预测** |
+
+- **round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 34 条。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 470 字**；**ERRORS 0**、WARNINGS 245（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

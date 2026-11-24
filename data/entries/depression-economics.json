@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "持续且严重的产出下降与高失业，比一般衰退更深更久。",
-  "overview": "经济萧条(economic depression)指长期、深度的经济收缩与高失业，显著严重于一般衰退（如1929大萧条）。界定标准并无统一阈值，学界多以持续时间与深度判断。具体划分待核实。",
+  "overview": "萧条经济学(depression economics) 指研究**深度、持久的经济收缩**及其政策应对的分析框架。**它与一般衰退研究的关键差别**：在普通衰退中，常规的降息与自动稳定器通常足够；而在萧条中，**货币政策可能失效**（利率已近零，见 liquidity-trap），财政乘数更大，且**通缩与债务的互动**会自我强化（见 debt-deflation、balance-sheet-recession）。**凯恩斯的核心诊断**：萧条不是\"价格没调整到位\"，而是**总需求持续不足**；因此政策必须直接作用于需求，而非等待市场出清。**现代补充的两个机制**：①**金融加速器**——资产价格下跌削弱借款人净值，使外部融资成本上升、投资进一步下降（见 financial-accelerator）；②**资产负债表衰退**——企业从\"利润最大化\"转向\"负债最小化\"，即使利率为零也不愿借款，货币政策因此失效。**与危机的关系**：大萧条（见 great-depression）是这一框架的源头，2008 年后与 2020 年的政策实践（量化宽松、财政扩张）在很大程度上是对其教训的应用。**争议仍在**：萧条中**财政扩张的时点与规模**、以及**何时退出**，至今没有共识答案。",
   "timeline": [],
   "causal_chain": [
     {
@@ -58,10 +58,12 @@
   ],
   "related": [
     "debt-deflation",
+    "financial-accelerator",
+    "great-depression",
     "keynesian-economics",
     "liquidity-trap",
     "secular-stagnation"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作ED】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据来源与标准口径，具体数据待核实。 【续作ED】补写概念辨析。 【续作KW】overview 扩写 94 → 547 字。"
 }

@@ -2074,6 +2074,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 275（R22）+ 自测 18/18",
       "spot_check": "扩写 30 条核心概念；批量修复接线",
       "note": "维基第95轮可用。KU-KV：扩写 30 条核心概念（WARNINGS 305 → 275）。①第一批 16 条（95—96 字 → 411—512 字）：adverse-selection／austerity／behavioral-finance／bond／classical-economics／core-inflation／fiat-money／hot-money／odious-debt／representative-money／speculation／capital-structure／collateral／debt-restructuring／haircut-finance／quantitative-easing。②第二批 14 条（94—97 字 → 414—567 字）：tragedy-commons／velocity-of-money／volatility／arbitrage／cryptocurrency／currency-union／division-of-labour／exchange-rate-regime／exorbitant-privilege／hyperinflation／insider-trading／liquidity-risk／convertible-bond／world-bank。③**本轮扩写中出现几处特别有价值的「易错点」**：**velocity-of-money** 解释了「为什么量化宽松没引发高通胀」——M 上升而 V 骤降，且点明「若信心恢复、V 回升，前期积累的货币存量可能迅速转化为通胀」；**volatility** 指出「风险的度量本身会改变风险」——低波动率诱发加杠杆、波动率骤升强制减仓；**liquidity-risk** 把融资流动性与市场流动性拆开，并说明两者如何**互相强化**；**haircut-finance** 点出「haircut 上调等于在不改变价格的情况下抽走流动性」；**tragedy-commons** 把系统性风险类比为「金融的公地」，直接支撑宏观审慎监管的正当性；**odious-debt** 与 **cryptocurrency** 两处明确守住本库边界——前者「不对具体国家的债务性质作判断」，后者指出 FTX 的教训是「同样的金融活动若处在监管边界之外，失败将由客户全额承担」。④**round 94 的接线检查再次生效**：30 条扩写引入多处「见 xxx」未入 related，用既定脚本批量修复（补入 21 条、对称化 16 条）。⑤现状：641 条、来源 742、页面 655；overview 平均 227 字、related 平均 6.0 条；ERRORS 0、WARNINGS 275（R22）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作KW-KX",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 30,
+      "reviewed": 275,
+      "fixed": 30,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 245（R22）+ 自测 18/18",
+      "spot_check": "扩写 30 条（含 beta）；批量修复接线并对称化 34 条",
+      "note": "维基第96轮可用。KW-KX：扩写 30 条（WARNINGS 275 → 245）。①第一批 17 条：token-money／double-entry／history-of-money／economic-history／iosco／kitchin-cycle／money-market／put-option／real-business-cycle／usury／bid-ask／current-account／de-dollarization／depression-economics／economic-recession／minsky-moment／monetary-policy。②第二批 13 条：monetary-transmission／option／prudential-regulation／welfare-economics／financial-inclusion／fiscal-dominance／free-trade／futures／gatt／legal-tender／leverage-cycle／loanable-funds／beta（连纯工具指标也一并补齐）。③**几处值得单列的判断**：**double-entry** 指出危机中的会计根源几乎从不是「算错」，而是「**该记的没记进去**」（表外、估值假设、合并范围）；**bid-ask** 强调价差扩大可在**价格几乎不变**时发生——它衡量的不是「资产值多少」而是「**现在还能不能交易**」；**minsky-moment** 明确澄清明斯基**未给出「何时」的公式**，该概念是描述机制的、不是择时信号；**beta** 点出危机中「**所有相关性都变成 1**」，使基于 β 的对冲同时失效；**loanable-funds** 指出可贷资金是「流量」框架而现代银行是「内生货币」，因此「储蓄池决定可贷资金」在有银行体系的经济中并不成立；**financial-inclusion** 把「包容与稳定的张力」讲清——问题不在「穷人获得信贷」，而在**掠夺性条款与审慎标准的放弃**；**kitchin／kondratiev 两类周期**均注明统计基础有争议、本库不据周期位置作预测。④**round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 34 条。⑤现状：641 条、来源 742、页面 655；overview 平均 246 字；ERRORS 0、WARNINGS 245（R22）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "中央银行调节货币供给与利率以实现物价稳定等目标的政策。",
-  "overview": "货币政策是央行通过利率、准备金、公开市场操作等工具调节货币与信贷条件的政策。目标通常包括物价稳定、充分就业与金融稳定；政策传导存在时滞。不同央行的目标框架（如通胀目标制）各异，具体待核实。",
+  "overview": "货币政策(monetary policy) 指**中央银行通过调节货币与信贷条件来影响物价、产出与就业**的行动。**主要工具**：**政策利率**（最主要的价格工具）、**准备金要求**、**公开市场操作**（见 open-market-operation）、以及危机中的**非常规工具**（量化宽松、前瞻指引、各类流动性便利，见 quantitative-easing、forward-guidance）。**传导渠道**（见 monetary-transmission）：利率渠道、信贷渠道、资产价格渠道、汇率渠道与预期渠道。**为什么传导会失效**：**零利率下限**（利率不能再降，见 liquidity-trap）、**银行资本不足**（无法放贷，见 credit-crunch）、以及**预期失灵**（市场不相信政策会持续）——这三者在危机中往往同时出现。**与财政的边界**：危机后的大规模资产购买使央行持有大量国债，与财政政策的界限变得模糊（见 fiscal-dominance）；而\"**央行是否应承担金融稳定职责**\"也仍有争论。**本库的处理**：记录政策工具与效果的历史证据，**不对未来政策路径作预测或建议**。",
   "timeline": [],
   "causal_chain": [
     {
@@ -61,6 +61,7 @@
     "cbdc",
     "central-bank",
     "central-bank-independence",
+    "credit-crunch",
     "discount-window",
     "endogenous-money",
     "federal-reserve",
@@ -83,8 +84,9 @@
     "neutral-rate",
     "new-keynesian",
     "open-market-operation",
+    "quantitative-easing",
     "taylor-rule"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-010。"
+  "pending_notes": "概念条目：定义/机理据标准口径与维基来源，具体数据与学派细节待核实补充。 【续作EB】补写概念辨析。 【续作GS】补上已注册但未引用的来源 w-zh-010。 【续作KW】overview 扩写 94 → 520 字。"
 }

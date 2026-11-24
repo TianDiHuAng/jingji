@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "货币政策决策通过资产价格、货币市场与总体经济状况等多渠道影响宏观经济的过程。",
-  "overview": "货币政策传导机制是货币政策决策通过资产价格、货币市场与总体经济状况等多个渠道影响更广泛宏观经济的过程。传导渠道包括利率、信贷、资产价格、汇率与预期等；传导受阻会使政策失效。具体渠道待核实。",
+  "overview": "货币政策传导机制(monetary transmission) 指**央行的政策操作如何一步步影响最终目标（物价与产出）** 的链条。**五条主要渠道**：①**利率渠道**——政策利率影响短端，再通过预期作用于长端，进而影响投资与消费；②**信贷渠道**——银行的可贷资金与风险偏好决定信贷供给（在银行资本不足时最先失效）；③**资产价格渠道**——利率与流动性影响股票与房地产价格，再通过**财富效应**与**托宾 q** 影响支出；④**汇率渠道**——降息压低本币，改善净出口；⑤**预期与信息渠道**——政策声明本身改变对未来的判断（见 forward-guidance）。**为什么它在危机中会失效**：**利率已近零**（见 liquidity-trap）、**银行资本受损不愿放贷**（见 credit-crunch）、**风险溢价飙升**使企业融资成本不降反升（见 risk-premium）、以及**资产负债表受损**使借款人即使面对低利率也不愿借款（见 balance-sheet-recession）。**这解释了危机中为何必须转向非常规工具**——常规渠道全部堵塞时，央行只能绕开中介、直接购买资产或向特定市场提供流动性。",
   "timeline": [],
   "causal_chain": [
     {
@@ -57,15 +57,19 @@
     "w-en-monetary-policy"
   ],
   "related": [
+    "balance-sheet-recession",
+    "credit-crunch",
     "credit-rationing",
     "financial-accelerator",
+    "forward-guidance",
     "interest-rate",
     "liquidity-trap",
     "monetary-policy",
     "money-creation",
     "ppi",
+    "risk-premium",
     "sticky-prices"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EB】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EB】补写概念辨析。 【续作KX】overview 扩写 94 → 524 字。"
 }
