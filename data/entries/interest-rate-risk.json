@@ -1,0 +1,66 @@
+{
+  "id": "interest-rate-risk",
+  "title": "利率风险",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "利率波动导致金融损失的潜在风险；对债券、银行与保险公司的作用机制各不相同。",
+  "overview": "利率风险(interest rate risk) 指**因利率波动而遭受潜在财务损失**的风险。该风险对不同主体的作用方式不同：对**债券**持有人，利率上升使既有债券价格下跌（久期越长、跌幅越大）；对**银行**，利率上升可能压缩净息差、并使持有的固定利率资产市值下跌（硅谷银行2023年倒闭的核心即在于此，见 silicon-valley-bank）；对**保险公司与养老金**，利率变动同时影响资产与负债的现值，久期错配会放大缺口（英国LDI危机2022即为此机制，见 uk-ldi-crisis-2022）。在低利率长期持续后，机构往往积累了大量长久期固定利率资产与隐性杠杆，此时利率快速上行会把\"账面浮亏\"转化为\"实际偿付危机\"——这正是2022—2023年多起银行与养老金事件的共同脉络。具体度量方法待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "低利率期积累长久期固定利率资产 → 久期错配",
+      "sources": [
+        "w-en-interest-rate-risk"
+      ]
+    },
+    {
+      "step": "利率快速上行 → 资产市值下跌、浮亏扩大",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    },
+    {
+      "step": "浮亏触及偿付或抵押要求 → 被迫抛售/挤兑（LDI与SVB）",
+      "sources": [
+        "w-en-ldi"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "资产负债表视角",
+      "view": "利率风险以市值为口径衡量，浮亏即真实损失",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-silicon-valley-bank"
+      ]
+    },
+    {
+      "holder": "银行账簿视角",
+      "view": "持有至到期资产可按摊余成本计量，浮亏不立即体现（争议）",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-interest-rate-risk"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>利率风险：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>低利率期积累长久期固定利</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>利率快速上行 → 资产市</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>浮亏触及偿付或抵押要求 </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-interest-rate-risk",
+    "w-en-silicon-valley-bank"
+  ],
+  "related": [
+    "asset-liability-mismatch",
+    "silicon-valley-bank",
+    "uk-ldi-crisis-2022"
+  ],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+}

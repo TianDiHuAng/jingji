@@ -1,0 +1,66 @@
+{
+  "id": "indexation",
+  "title": "指数化",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "以价格指数调整收入支付以维持购买力的技术；解除该安排称\"去指数化\"。",
+  "overview": "指数化(indexation) 是一种**以价格指数调整收入支付、从而在高通胀后维持公众购买力**的技术；而**去指数化(deindexation)** 则是解除这一安排的过程。它常被用于使工资、养老金、债券利息与租约等随物价调整。在危机语境中，指数化具有**两面性**：①**缓冲作用**——在高通胀中保护实际收入与债务关系的可预期性；②**惯性作用**——一旦工资与价格普遍挂钩，通胀便获得自我延续的动能（\"通胀惯性\"），使反通胀的成本大幅上升。巴西1980—1990年代的恶性通胀（见 brazil-hyper-1980）即被视为指数化惯性的典型案例，其终结（1994年雷亚尔计划）需要同时切断指数化与财政赤字。因此稳定化方案（见 stabilization-program）常把\"去指数化\"作为核心步骤之一。具体机制待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "高通胀侵蚀实际收入 → 以价格指数调整工资/利息/养老金",
+      "sources": [
+        "w-en-indexation"
+      ]
+    },
+    {
+      "step": "普遍挂钩 → 通胀具备惯性，自我延续",
+      "sources": [
+        "w-en-hyperinflation-in-brazil"
+      ]
+    },
+    {
+      "step": "反通胀需同时\"去指数化\"与调整财政 → 否则紧缩成本极高",
+      "sources": [
+        "w-en-stabilization-policy"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "保护视角",
+      "view": "指数化在高通胀中维持购买力与契约公平",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-indexation"
+      ]
+    },
+    {
+      "holder": "惯性视角",
+      "view": "普遍指数化使通胀难以自行消退，是稳定化的主要障碍",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-hyperinflation-in-brazil"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>指数化：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>高通胀侵蚀实际收入 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>普遍挂钩 → 通胀具备惯</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>反通胀需同时\"去指数化\"</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-indexation",
+    "w-en-hyperinflation-in-brazil"
+  ],
+  "related": [
+    "brazil-hyper-1980",
+    "hyperinflation",
+    "stabilization-program"
+  ],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+}

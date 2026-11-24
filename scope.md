@@ -72,6 +72,8 @@
 | free-banking | 自由银行时代 | 18—19世纪 | 北美 | 制度 | 补充 | 续作CZ |
 | national-banking-act | 国民银行法(1863–1864) | 18—19世纪 | 北美 | 制度 | 补充 | 续作CZ |
 | sherman-silver-purchase | 谢尔曼购银法(1890) | 18—19世纪 | 北美 | 货币 | 补充 | 续作CZ |
+| first-bank | 美国第一合众国银行 | 18—19世纪 | 北美 | 制度 | 补充 | 续作DB |
+| overend-gurney | Overend, Gurney 倒闭(1866) | 18—19世纪 | 欧洲 | 银行 | 重要 | 续作DB |
 
 ## U3 20世纪上半
 
@@ -600,3 +602,5 @@
 | family-office | 家族办公室 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
 | pension-fund | 养老基金 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
 | stabilization-program | 稳定化政策 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
+| indexation | 指数化 | 理论制度 | 全球 | 制度 | 补充 | 续作DB |
+| interest-rate-risk | 利率风险 | 理论制度 | 全球 | 理论 | 补充 | 续作DB |

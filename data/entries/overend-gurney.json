@@ -1,0 +1,83 @@
+{
+  "id": "overend-gurney",
+  "title": "Overend, Gurney 倒闭(1866)",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "欧洲",
+  "crisis_type": "银行",
+  "one_line": "伦敦\"银行的银行\"1866年倒闭，欠债约1100万英镑（≈2025年11.32亿），直接触发1866年恐慌。",
+  "overview": "Overend, Gurney and Company 是一家伦敦的**批发贴现银行**，被称为\"**银行的银行**\"(the bankers' bank)。该行于 **1866 年** 倒闭，**欠债约 1100 万英镑——相当于 2025 年的 11.32 亿英镑**。其倒闭**直接触发了银行恐慌**（见 panic-1866）。该事件的重要性有三层：①**规模与关联性**——它作为批发贴现银行，是众多银行流动性的来源，其倒闭使\"关联度\"而非\"规模\"成为系统性风险的核心；②**有限责任与治理**——该行在倒闭前不久才转为有限责任公司，财务不透明与治理失误（包括对单一行业的过度敞口）被广泛批评；③**最后贷款人的确立**——恐慌中的流动性枯竭使英格兰银行在事后明确承担最后贷款人角色，白芝浩的《伦巴第街》(1873) 即以此类经验为基础写成（见 lender-of-last-resort）。该案例是\"批发融资银行＋高关联度\"型危机的早期原型。具体细节待核实。",
+  "timeline": [
+    {
+      "year": 1866,
+      "display": "1866年",
+      "event": "Overend, Gurney 倒闭，欠债约1100万英镑（≈2025年11.32亿），触发银行恐慌",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
+    },
+    {
+      "year": 1873,
+      "display": "1873年",
+      "event": "白芝浩《伦巴第街》出版，系统阐述最后贷款人原则（年份待核实）",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "批发贴现银行成为众多银行的流动性来源 → 高关联度",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
+    },
+    {
+      "step": "财务不透明 + 治理失误 → 1866年倒闭（欠债约1100万英镑）",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
+    },
+    {
+      "step": "流动性枯竭引发恐慌 → 英格兰银行明确最后贷款人角色",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "关联度视角",
+      "view": "系统性风险来自关联度而非单体规模",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
+    },
+    {
+      "holder": "最后贷款人视角",
+      "view": "恐慌中需央行以良好抵押品自由放贷以止住挤兑",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-lender-of-last-resort"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Overend, Gurney 倒闭(1：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>批发贴现银行成为众多银行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财务不透明 + 治理失误</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>流动性枯竭引发恐慌 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-overend-gurney",
+    "w-en-lender-of-last-resort"
+  ],
+  "related": [
+    "lender-of-last-resort",
+    "panic-1857",
+    "panic-1866"
+  ],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+}

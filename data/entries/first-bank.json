@@ -1,0 +1,91 @@
+{
+  "id": "first-bank",
+  "title": "美国第一合众国银行",
+  "level": "L2",
+  "tier": "补充",
+  "unit": "U2 18—19世纪",
+  "period": "18—19世纪",
+  "region": "北美",
+  "crisis_type": "制度",
+  "one_line": "1791年2月25日由美国国会特许、期限二十年的国家银行，美国中央银行的第一次尝试。",
+  "overview": "\"合众国银行总裁、董事与公司\"（通称**第一合众国银行**）是一家国家银行，由**美国国会于 1791 年 2 月 25 日**特许，**期限为二十年**。它是美国建立中央银行职能的第一次尝试：兼具商业银行业务与代理国库、约束州银行纸币发行的准中央银行角色，其章程设计参照了汉密尔顿的金融方案。该行从一开始就陷入宪法与政治争论（联邦权力 vs 州权、金融集中 vs 民主问责），二十年期满后未获续期。此后美国经历了近二十年的\"无国家银行\"时期，直到 1816 年设立第二合众国银行（见 second-bank）。该线索与第二合众国银行、自由银行时代、国民银行法、联邦储备法共同构成美国\"长期缺乏中央银行 → 危机频发\"的制度史。具体条款与争论细节待核实。",
+  "timeline": [
+    {
+      "year": 1791,
+      "display": "1791年2月25日",
+      "event": "国会特许第一合众国银行，期限二十年",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    },
+    {
+      "year": 1811,
+      "display": "1811年",
+      "event": "二十年期满后未获续期（年份据特许期推算待核实）",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    },
+    {
+      "year": 1816,
+      "display": "1816年",
+      "event": "第二合众国银行获联邦特许",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "联邦需统一货币与代理国库 → 设立国家银行",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    },
+    {
+      "step": "兼营商业银行业务 + 准央行职能 → 引发权力集中与合宪性争论",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "step": "期满未续 → 进入无国家银行时期，州银行与纸币失序",
+      "sources": [
+        "w-en-free-banking"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "汉密尔顿视角",
+      "view": "国家银行是统一信用与经济现代化的必要工具",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-first-bank"
+      ]
+    },
+    {
+      "holder": "杰斐逊视角",
+      "view": "集中的金融权力威胁民主与州权",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国第一合众国银行：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>联邦需统一货币与代理国库</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>兼营商业银行业务 + 准</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>期满未续 → 进入无国家</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
+  "sources": [
+    "w-en-first-bank",
+    "w-en-second-bank"
+  ],
+  "related": [
+    "free-banking",
+    "panic-1792",
+    "second-bank"
+  ],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+}

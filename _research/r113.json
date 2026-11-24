@@ -1,0 +1,22 @@
+{
+  "first-bank": {
+    "title": "First Bank of the United States",
+    "extract": "The President, Directors and Company of the Bank of the United States, commonly known as the First Bank of the United States, was a national bank, chartered for a term of twenty years, by the United States Congress on February 25, 1791. It followed the Bank of North America, the nation's first de facto national bank. However, neither served the functions of a modern central bank: they did not set monetary policy, regulate private banks, hold their excess reserves, or act as a lender of last resort. They were national insofar as they were allowed to have branches in multiple states and lend money to the US government. Other banks in the US were each chartered by, and only allowed to have branches in, a single state.",
+    "slug": "First_Bank_of_the_United_States"
+  },
+  "indexation": {
+    "title": "Indexation",
+    "extract": "Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while deindexation is the unwinding of indexation. It is often used to make sure regular payments, such as pension payments keep pace with inflation, so that they have the same value in real terms over time.",
+    "slug": "Indexation"
+  },
+  "interest-rate-risk": {
+    "title": "Interest rate risk",
+    "extract": "Interest rate risk refers to the potential for financial loss due to fluctuations in interest rates. It will, in turn, impact differently re market risk, i.e. impacting instruments such as Bonds, re banks and re insurers.",
+    "slug": "Interest_rate_risk"
+  },
+  "overend-gurney": {
+    "title": "Overend, Gurney and Company",
+    "extract": "Overend, Gurney and Company was a London wholesale discount bank, known as \"the bankers' bank\", which collapsed in 1866 owing about £11 million, equivalent to £1,132 million in 2025. The collapse of the institution triggered a banking panic.",
+    "slug": "Overend,_Gurney_and_Company"
+  }
+}

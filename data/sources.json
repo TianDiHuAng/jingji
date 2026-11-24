@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 681,
+  "count": 685,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8169,6 +8169,54 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-first-bank",
+      "title": "First Bank of the United States",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/First_Bank_of_the_United_States",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-overend-gurney",
+      "title": "Overend, Gurney and Company",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Overend,_Gurney_and_Company",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-indexation",
+      "title": "Indexation",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Indexation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "Wikipedia REST API核对(本会话抓取摘要)"
+    },
+    {
+      "id": "w-en-interest-rate-risk",
+      "title": "Interest rate risk",
+      "author": "Wikipedia contributors",
+      "year": "2026",
+      "type": "权威百科",
+      "url": "https://en.wikipedia.org/wiki/Interest_rate_risk",
       "url2": null,
       "verified": true,
       "link_ok": true,
