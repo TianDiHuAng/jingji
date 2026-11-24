@@ -87,7 +87,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与2000年互联网泡沫（见 dotcom-bubble-2000）的相似之处是\"过度进入＋质量失控\"：1983年主机与卡带供给过剩、劣质产品充斥，渠道库存崩塌；2000年则是无盈利公司大量上市。关键差别在于**恢复机制**：游戏业靠任天堂以许可制度重建内容质量控制与渠道秩序（1985年NES），互联网业则靠市场出清与幸存者（如亚马逊）继续演化。该案例的独特价值在于它展示了一个**非金融的产业泡沫**——没有杠杆、没有银行，但同样经历了\"狂热—崩塌—制度重建\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1983年美国游戏业大萧条：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>政策/信贷</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>价格自我强化</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>崩盘/调控</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-zh-us-video-game-crash-1983",
@@ -98,5 +98,5 @@
     "dotcom-bubble-2000"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次13】升L2，补中文维基原文实证的timeline与数值，单源待核实。 【续作CD】已重写正文与时间线，清除变体骨架占位。"
+  "pending_notes": " 【轮次13】升L2，补中文维基原文实证的timeline与数值，单源待核实。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。"
 }

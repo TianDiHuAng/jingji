@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与第一合众国银行（见 first-bank）同型：联邦特许、代理国库、约束州银行。其独特之处在于冲突的激烈程度——\"银行战\"把央行存废变成了政党政治的核心议题，结果不只是\"到期不续\"，而是形成了\"任何集中的金融权力都难以在美国立足\"的政治传统。这一传统使美国在1913年设立美联储时也必须采用**分权式**（12家地区储备银行）的结构。与英国1694年后的英格兰银行（见 bank-of-england）长期存续形成鲜明对照。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国第二合众国银行：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>联邦特许的国家银行兼具商</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>特许失效 → 进入自由银</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>失序与频繁恐慌 → 19</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
   "sources": [
     "w-en-second-bank",
@@ -75,5 +75,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

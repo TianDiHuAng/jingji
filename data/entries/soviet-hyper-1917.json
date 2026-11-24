@@ -87,7 +87,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与魏玛1923（见 weimar-hyper-1921）的对照在于**政权能力**：两者都靠印钞填补财政缺口，但苏俄的产出崩溃更彻底（内战＋战时共产主义），因此货币职能丧失得更早、更彻底（\"唯一繁荣的产业是纸币生产\"）。差别在恢复路径：魏玛依靠外部贷款（道威斯计划，见 dawes-plan-1924）与地租马克，苏俄则依靠**重建税收与预算约束**（新经济政策）并发行切尔文金本位货币。这一对照说明：货币稳定的前提是财政能力的重建，而非技术性换币。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏俄早期恶性通胀(1917–1924)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：恶性通胀；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-soviet-hyperinflation",
@@ -100,5 +100,5 @@
     "weimar-hyper-1921"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AS】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【续作AS】补关键数据（单源）。 【续作BW】已用已有数据重写正文与时间线，替换骨架占位。 【续作CG】因果链与学派观点已按本条目史实定制。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。"
 }

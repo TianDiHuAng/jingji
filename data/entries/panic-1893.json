@@ -79,7 +79,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与1907年恐慌（见 panic-1907）相隔14年，但两者的**制度教训指向同一个结论**：国民银行体系（见 national-banking-act）既无弹性货币也无最后贷款人。1893年的触发因素是谢尔曼购银法（见 sherman-silver-purchase）导致的黄金储备流失与铁路过度扩张；1907年的触发因素是信托公司的投机与挤兑。两次恐慌之后，改革呼声最终在1913年结成果实（见 federal-reserve-act）——1907年之所以成为转折点，是因为摩根等人的私人救市已无法覆盖整个体系。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1893年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：银行；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -92,5 +92,5 @@
     "sherman-silver-purchase"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1893替换兜底，待核实。 【轮次7深化】补入来源核实的timeline与数值，单源部分待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1893替换兜底，待核实。 【轮次7深化】补入来源核实的timeline与数值，单源部分待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DH】补写对照分析。"
 }

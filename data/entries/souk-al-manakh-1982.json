@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "苏克阿尔马纳克崩盘是**非正规远期市场**（post-dated cheques，见该条目机制）失控的极端案例，与阿尔巴尼亚金字塔骗局（见 albania-pyramid-1997）同属\"监管视野外的金融链条断裂\"。差别在于科威特市场的参与者是商人阶层而非普通储户，且损失通过政府救助与债务重组被社会化，因此未引发社会动乱。与1982年拉美债务危机同期发生，但机制完全无关——后者是主权外债，前者是本地投机链条。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏克阿尔马纳克股市崩盘(1982)：机制示意（泡沫）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-speculative-bubble",
@@ -72,5 +72,5 @@
     "kennedy-slide-1962"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。"
+  "pending_notes": " 【轮次6体检】补专属来源w-en-souk-al-manakh-stock-market-crash。 【轮次11】L1→L2完整升级，单源待核实。 【轮次19】causal_chain/schools已案例化（据本地维基语料），非通用模板。 【续作CA】已重写正文与时间线，替换骨架占位。 【续作DI】补写对照分析。"
 }

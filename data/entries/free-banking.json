@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与\"单一央行＋统一纸币\"模式（如英格兰银行体系、1913年后的美联储）形成两极对照：自由银行把货币发行交给竞争，央行体系把发行权集中。现代理论对自由银行的评价分歧很大——支持者认为竞争能约束过度发行（\"良币驱逐劣币\"的反向逻辑），批评者指出1857等恐慌中大量银行倒闭、纸币折价交易，说明竞争性发钞在信息不对称下难以稳定。美国1863—64年国民银行法（见 national-banking-act）选择了集中化，而加拿大的分支银行体系在同一时期表现更稳，提示\"集中 vs 分散\"并非唯一变量，**分支网络**同样关键。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>自由银行时代：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>特许失效 + 一般公司法</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>纸币成色与兑付能力参差 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>恐慌中大量倒闭 → 18</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
   "sources": [
     "w-en-free-banking",
@@ -75,5 +75,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

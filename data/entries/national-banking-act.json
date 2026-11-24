@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与联邦储备法（见 federal-reserve-act）是\"两步走\"：1863—64年解决了**发钞统一**（谁发行、以什么担保），1913年才解决**弹性与最后贷款人**（危机时谁供流动性）。这一分工解释了为何1873、1893、1907年恐慌一次比一次严重——货币供给在恐慌时无法扩张，且无人承担最后贷款人。与英国的对照很直接：英格兰银行在1866年Overend Gurney倒闭后（见 overend-gurney）已明确承担该角色，而美国要等到47年后。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>国民银行法(1863–1864)：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>自由银行时代纸币混乱 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>银行券以联邦债券为担保 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>缺乏最后贷款人 → 恐慌</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
   "sources": [
     "w-en-national-bank-act",
@@ -75,5 +75,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

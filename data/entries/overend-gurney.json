@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与北岩银行2007年挤兑（见 northern-rock）机制高度相似：两者都是**批发融资依赖型**机构，一旦短期资金提供方撤离便迅速失去偿付能力，而其资产端是难以快速变现的长期债权。差别在于关联度：Overend Gurney 是\"银行的银行\"，它的倒闭直接抽干众多银行的流动性；北岩的关联度相对集中于英国零售存款保险体系之内。两次事件都促成了制度回应——1866年之后是最后贷款人原则的确立，2007年之后是英国银行处置与流动性监管的改革。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>Overend, Gurney 倒闭(1：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>批发贴现银行成为众多银行</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>财务不透明 + 治理失误</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>流动性枯竭引发恐慌 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-overend-gurney",
@@ -79,5 +79,5 @@
     "panic-1866"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。"
 }

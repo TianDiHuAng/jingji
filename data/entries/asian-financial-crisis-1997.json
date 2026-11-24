@@ -98,7 +98,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与1994年墨西哥危机（见 mexican-peso-1994）相比，亚洲危机不是单一国家的汇率崩溃，而是**区域性传染**：共同的\"钉住美元＋短期外币债务＋资本账户开放\"结构使多国同时受击。与1980年代拉美债务危机（见 latin-american-debt-1975）的关键差别在于债权人结构——拉美主要欠银行，可通过巴黎俱乐部式重组协商；亚洲则更多是私人部门外债，需要企业与银行逐一处理，因此产出损失更集中、复苏更快。与2008年危机的对照在于：亚洲危机的核心是**外债与货币错配**，2008年则是**内部杠杆与证券化**。",
   "svg": "",
   "sources": [
     "w-en-asian-financial-crisis",
@@ -114,7 +114,7 @@
     "sudden-stop"
   ],
   "needs_verification": true,
-  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作BD】危机前增速背景来自美联储历史站。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。",
+  "pending_notes": " 【轮次14】升L3，补维基原文实证timeline与数值，单源待核实。 【轮次25】causal_chain/schools案例化（据本地维基语料）。 【续作BD】危机前增速背景来自美联储历史站。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。",
   "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>1997亚洲金融危机：机制与反馈回路（货币）</text><g><rect x='30' y='60' width='160' height='52' rx='6' class='box'/><text x='39' y='83' class='lbl'>触发条件</text><text x='39' y='101' class='sub'>冲击/失衡</text></g><g><rect x='215' y='60' width='160' height='52' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>预期/杠杆</text></g><g><rect x='400' y='60' width='160' height='52' rx='6' class='box'/><text x='409' y='83' class='lbl'>临界转折</text><text x='409' y='101' class='sub'>信心逆转</text></g><g><rect x='585' y='60' width='160' height='52' rx='6' class='box'/><text x='594' y='83' class='lbl'>后果与应对</text><text x='594' y='101' class='sub'>危机/政策</text></g><line x1='190' y1='86' x2='215' y2='86' class='ar'/><line x1='375' y1='86' x2='400' y2='86' class='ar'/><line x1='560' y1='86' x2='585' y2='86' class='ar'/><path d='M665 112 L665 170 L295 170 L295 112' fill='none' class='ar' style='stroke-dasharray:5,4'/><text x='400' y='163' class='sub'>反馈：后果强化放大机制</text><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "l3_detail": {
     "data_caveat": "数值须注明来源/年份/口径；单一来源均待核实。",

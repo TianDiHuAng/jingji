@@ -79,7 +79,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与Archegos 2021（见 archegos-2021）是最有教育意义的一对：两者都是高杠杆、集中持仓、通过多家银行融资，且都在崩盘时把损失传导给大型银行。关键差别在**监管反应**：LTCM 时纽约联储**协调**私营部门救助（未用公共资金），Archegos 时监管未介入，损失完全由各银行承担。这一差别反映了2008年后的政策取向：不再为对冲基金/家族办公室的失败提供隐性兜底，而是要求银行自行管理对手方风险。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>长期资本管理公司倒闭(1998)：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-ltcm",
@@ -91,5 +91,5 @@
     "savings-loan-1986"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CC】已重写正文与时间线，清除变体骨架占位。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次8】L1→L2完整升级，单源待核实。 【轮次20】causal_chain/schools案例化（据本地维基语料）。 【续作CC】已重写正文与时间线，清除变体骨架占位。 【续作DI】补写对照分析。"
 }

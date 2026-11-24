@@ -75,7 +75,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与第二合众国银行（见 second-bank）构成\"同一实验的两次尝试\"：两者都是联邦特许、兼具商业与准央行职能的国家银行，都因权力集中与合宪性争议而未能延续。差别在于第一家的争论更偏原则（联邦权力边界），第二家的争论更偏人格与政治（杰克逊与比德尔之争）。两次失败之后，美国用了近百年才在1913年重新建立中央银行（见 federal-reserve-act）——这段\"空白期\"正是美国危机频发的制度背景。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>美国第一合众国银行：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>联邦需统一货币与代理国库</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>兼营商业银行业务 + 准</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>期满未续 → 进入无国家</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-first-bank",
@@ -87,5 +87,5 @@
     "second-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】"
+  "pending_notes": "L2：据维基摘要与标准口径；单源待核实。【续作DB】 【续作DH】补写对照分析。"
 }

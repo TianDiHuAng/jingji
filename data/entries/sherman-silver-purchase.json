@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与复本位制（见 bimetallism）和金本位（见 gold-standard）的关系是\"半个妥协\"：它既不恢复自由铸造银币（白银派的核心诉求），也不纯粹坚持金本位，而是要求政府按量购银——结果两头不讨好：白银派嫌不足，金本位派担忧黄金流失。1930年代美国的白银政策（如1934年白银购买法）在机制上与之相似：都以购买白银支撑银价，也都把成本外部化给贸易伙伴与国内持币人。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>谢尔曼购银法(1890)：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>白银派政治压力 → 立法</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>国库券可兑黄金 → 持券</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>对金本位的信心危机 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
   "sources": [
     "w-en-sherman-silver-purchase",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。"
 }

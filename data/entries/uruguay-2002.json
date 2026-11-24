@@ -67,7 +67,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与阿根廷2001—02年（见 argentina-crisis-2001）是**传染型危机**的教科书组合：乌拉圭的银行体系长期吸收大量阿根廷非居民存款，当阿根廷危机爆发、储户抽资时，乌拉圭银行体系迅速失血。差别在处置方式：阿根廷放弃钉住并违约，乌拉圭则**以公共债务置换银行存款**（延长期限）并寻求外部紧急融资，避免了全面违约。与塞浦路斯2013年（见 cypriot-2013）的存款减记相比，乌拉圭是\"冻结/延期\"而非\"直接减记\"，痛苦更分散但时间更长。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>2002年乌拉圭银行危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发条件</text><text x='29' y='96' class='sub'>冲击来源</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导过程</text><text x='279' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果与应对</text><text x='529' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-uruguay-2002",
@@ -79,5 +79,5 @@
     "south-america-2002"
   ],
   "needs_verification": true,
-  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【轮次10】L1→L2完整升级，单源待核实。 【轮次24】causal_chain/schools案例化（据本地维基语料）。 【续作CD】已重写正文与时间线，清除变体骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DI】补写对照分析。"
 }

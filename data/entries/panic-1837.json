@@ -79,7 +79,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与1857年恐慌（见 panic-1857）同为**跨大西洋传导**的危机，且都以铁路/运河投资过热为前奏；但1837年的制度背景更脆弱：自由银行时代（见 free-banking）刚成形，缺乏统一的纸币与最后贷款人，各州银行在棉花价格下跌时成批倒闭。1837年之后美国进入长达数年的萧条，其深度常被拿来与1873年（见 panic-1873）和1893年（见 panic-1893）比较——三者共同的特征是\"单一商品（棉花/铁路/白银）冲击＋银行体系无弹性\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1837年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='30' y='78' class='lbl'>触发条件</text><text x='30' y='96' class='sub'>机制起点</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='280' y='78' class='lbl'>传导过程</text><text x='280' y='96' class='sub'>风险扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='530' y='78' class='lbl'>后果与应对</text><text x='530' y='96' class='sub'>结果与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>类型：银行；框架来源：见本页来源列表。具体年份/数字以正文标注为准。</text></svg>",
   "sources": [
     "w-en-financial-crisis",
@@ -92,5 +92,5 @@
     "second-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1837替换兜底，待核实。 【轮次7深化】补入来源核实的timeline与数值，单源部分待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。"
+  "pending_notes": "时间线节点、关键数据数值与口径、各方解释的具体学者归属、政策应对细节待核实原文后补充。 【轮次6体检】补专属来源w-en-panic-of-1837替换兜底，待核实。 【轮次7深化】补入来源核实的timeline与数值，单源部分待核实。 【轮次23】causal_chain/schools案例化（据本地维基语料）。 【续作BX】已重写正文与时间线，替换骨架占位。 【续作DA】related已按危机序列/同组语义重建。 【续作DH】补写对照分析。"
 }

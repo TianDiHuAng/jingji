@@ -59,7 +59,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与1863—64年国民银行法（见 national-banking-act）的分工是：后者解决了**发钞统一**，前者解决了**弹性与最后贷款人**。与英格兰银行（见 bank-of-england）的演化路径对照很有意思：英格兰银行是从商业银行业务中逐步\"长出\"央行职能（尤其1866年Overend Gurney之后，见 overend-gurney），而美联储是**一次性立法创设**的——这带来不同的治理问题：白芝浩式原则靠惯例沉淀，美联储则必须在成文法框架内解释自己的权限边界。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>联邦储备法(1913)：制度要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1907年恐慌中只能靠私</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>1913年立法创设联邦储</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>此后成为危机应对核心；1</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体条款以正文为准。</text></svg>",
   "sources": [
     "w-en-federal-reserve-act",
@@ -67,5 +67,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DI】补写对照分析。"
 }
