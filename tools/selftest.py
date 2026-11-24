@@ -174,6 +174,61 @@ def m_r12():
 case('R12 coverage含不存在条目', m_r12, ['tools/check.py'], 'R12', [COV])
 
 
+# ── 扩展：check_filler 套话检测 ──
+FL = os.path.join(ENT, 'capital-adequacy.json')
+
+_FILLER_CASES = [
+    ('与同为「银行」类危机共享相似传导机制', '模板句/套话'),
+    ('与同类案例共享这一特征', '模板句/套话'),
+    ('本案例对其他案例均适用', '模板句/套话'),
+]
+
+
+def _mk_filler(text):
+    def _m():
+        d = _r(FL)
+        d['comparison'] = text + '。' + ('补充说明' * 20)
+        _w(FL, d)
+    return _m
+
+
+for _i, (_txt, _name) in enumerate(_FILLER_CASES, 1):
+    case('check_filler 套话%d' % _i, _mk_filler(_txt), ['tools/check_filler.py'], '模板', [FL])
+
+# 占位数值
+def m_ph():
+    d = _r(FL)
+    d['key_data'] = [{'label': '测试指标', 'value': 0, 'unit': '待补', 'year': 2020,
+                      'comparable_price': False, 'note': '待补', 'sources': [d['sources'][0]]}]
+    _w(FL, d)
+
+
+case('check_filler 占位值', m_ph, ['tools/check_filler.py'], '占位', [FL])
+
+# ── 扩展：check_links（站内断链）与 check_quality（HTML 质量）──
+PAGE = os.path.join(ROOT, 'site', 'bank-resolution.html')
+QUAL = os.path.join(ROOT, 'site', 'capital-adequacy.html')
+
+
+def m_link():
+    t = open(PAGE, encoding='utf-8').read()
+    t = t.replace('</main>', '<a href="zzz-nonexistent-page.html">断链测试</a></main>', 1)
+    open(PAGE, 'w', encoding='utf-8').write(t)
+
+
+case('check_links 站内断链', m_link, ['tools/check_links.py'], '断链', [PAGE])
+
+
+def m_qual():
+    t = open(QUAL, encoding='utf-8').read()
+    # 删除 <h1> 以触发结构检查
+    import re as _re
+    t2 = _re.sub(r'<h1[^>]*>.*?</h1>', '', t, count=1, flags=_re.S)
+    open(QUAL, 'w', encoding='utf-8').write(t2)
+
+
+case('check_quality 缺h1', m_qual, ['tools/check_quality.py'], 'h1', [QUAL])
+
 print('=' * 62)
 print('检查器自测结果')
 print('=' * 62)
