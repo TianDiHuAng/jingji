@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**通胀预期**的关系是\"机制与心理\"：工资-价格螺旋是**具体机制**——工资上涨推高成本、企业提价、工人再要求加薪，形成自我强化；通胀预期是**心理基础**——人们相信物价会继续涨，因此提前调价与加薪。两者的政策含义一致：需要用**可信的紧缩**打破预期，而不能只靠压制工资或价格（那样只会制造短缺）。指数化（见 indexation）是这一螺旋的制度化加速器。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>工资-价格螺旋：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>工资上涨 → 企业成本上</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>物价上涨 → 工人要求更</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>正反馈循环；长期随总需求</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-wage-price-spiral",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作O】 【续作EA】补写概念辨析。"
 }

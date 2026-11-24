@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**太大而不能倒**(TBTF) 的关系是\"认定与后果\"：TBTF 是一种**现象与问题**（机构大到倒闭会引发系统性风险）；SIFI（系统重要性金融机构）是**监管认定**（由FSB与各国按规模、关联度、可替代性、复杂性、跨境活动等指标列出名单）。被认定为 SIFI 意味着更高的资本要求、更严的监管与\"生前遗嘱\"（恢复与处置计划），目的是把 TBTF 的隐性补贴显性化并加以约束。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>系统重要性金融机构：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>规模大、关联强、可替代性</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>被视为\"太大而不能倒\" </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>施加附加资本与处置规划以</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sifi",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作T】 【续作EA】补写概念辨析。"
 }

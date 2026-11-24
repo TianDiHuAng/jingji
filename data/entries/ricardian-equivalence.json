@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**凯恩斯式财政乘数**直接对立：李嘉图等价主张，政府以**债务**融资的减税不会增加总需求——因为理性家庭预期未来增税，会把这笔钱储蓄起来。若成立，财政政策的刺激效果为零。实证上该命题基本被否定（消费对减税确有反应），但其洞见有价值：**债务的可持续性预期**会影响当期行为，高债务国家的财政乘数往往更小（\"财政空间\"约束）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>李嘉图等价：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>政府以借债替代征税 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>前瞻性消费者增加储蓄、抵</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>财政政策的净效果被削弱（</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-ricardian-equivalence",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作S】 【续作EA】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**不冲销干预**的区别在货币供给是否被动变化：央行买入外汇会投放本币（扩张货币）；**冲销**是通过卖出本币债券等方式回笼本币、抵消这一扩张，从而在维持汇率的同时不改货币政策立场。代价是：冲销有成本（本币债券利息 vs 外汇储备收益），且规模受限（债券市场容量）。这解释了为何资本持续流入时，冲销难以无限期维持——\"不可能三角\"在此表现为冲销的财政成本。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>冲销操作：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>外汇流入导致本币投放增加</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以公开市场操作/提高准备</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>冲销有成本（如央行票据利</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-sterilization",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EA】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**伦敦俱乐部**的区别在债权人类型：巴黎俱乐部是**官方债权人**（主权国家）的协调机制，处理政府间贷款与出口信贷的重组；伦敦俱乐部是**商业银行**债权人的协调机制。这一分工决定了重组的顺序与条件：通常先巴黎俱乐部（官方）达成条件，商业银行再按可比条款重组。20世纪80年代拉美债务危机与1990年代转型国家债务都经历了这一流程。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>巴黎俱乐部：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>债务国偿付困难 → 需与</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>债权国集团协商重组条件（</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形成协调一致的重组方案，</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-paris-club",
@@ -63,5 +63,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作V】 【续作EA】补写概念辨析。"
 }

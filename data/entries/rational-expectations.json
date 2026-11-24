@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**适应性预期**的区别在信息使用：理性预期假设主体用**所有可得信息**（含政策规则）形成预期，因此系统性政策无法被\"欺骗\"（政策无效性命题）；适应性预期只用过去数据外推，会系统性犯错。这一差别在实践中的意义是：**政策可信度**变得关键——若公众相信央行会坚持反通胀，降低通胀的产出代价（牺牲率）会小得多。这也是通胀目标制与央行独立性的理论依据。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>理性预期：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>主体收集并利用所有可得信</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>预期影响工资、价格与投资</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策效果取决于是否被预期</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-rational-expectations",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AF】 【续作EA】补写概念辨析。"
 }

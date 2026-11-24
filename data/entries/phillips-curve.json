@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**自然率假说**的关系是\"短期与长期\"：原始的菲利普斯曲线主张通胀与失业存在稳定的替代关系（可用通胀换就业）；自然率假说（弗里德曼）指出这种替代只在**短期**成立——长期中预期会调整，失业回到自然率，只留下更高的通胀。这一修正是货币主义的核心贡献，也解释了为何1970年代\"用通胀换就业\"的政策最终失败：滞胀正是替代关系崩溃的表现。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>菲利普斯曲线：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>失业率下降 → 工资与价</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>形成失业-通胀的短期权衡</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>预期调整与供给冲击 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-phillips-curve",
@@ -62,5 +62,5 @@
     "natural-rate-unemployment"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作EA】补写概念辨析。"
 }

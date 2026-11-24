@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**通胀**的区别在\"增长方向\"：通胀是物价上涨（通常伴随增长）；滞胀是**通胀与停滞并存**（增长停滞、失业上升而物价仍涨）。这一组合在标准凯恩斯框架中\"不可能\"（菲利普斯曲线不允许），因此它的出现（1970年代）直接动摇了需求管理的共识，并催生了货币主义与供给学派。其成因是**供给冲击**（油价）＋通胀预期固化，这使需求紧缩与需求扩张都难以奏效。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>滞胀：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>供给冲击（如油价飙升）→</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>同时产出停滞、失业上升 </text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>传统需求管理政策陷入两难</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-stagflation",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作EA】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**收益率曲线控制**(YCC) 的关系是\"观察与操作\"：收益率曲线是**市场现象**（不同期限债券的利率关系），通常向上倾斜，倒挂被视为衰退的领先指标；YCC 是**政策操作**——央行承诺将特定期限的收益率钉在目标水平（如日本央行），通过无限量购债实现。YCC 的代价是丧失对长端利率的市场定价与资产负债表规模失控，因此被视为非常规工具中的\"极端选项\"。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>收益率曲线：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>不同期限债券的收益率 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>曲线形态（陡峭/平坦/倒</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>形态变化被视为经济与政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-yield-curve",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据、学派细节与实际应用待核实补充。【续作M】 【续作EA】补写概念辨析。"
 }

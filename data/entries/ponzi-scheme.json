@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**金字塔骗局**常被混用，但严格区分有差别：庞氏骗局由**一个中心主体**虚构投资收益、用新钱付旧账（麦道夫）；金字塔/传销则依赖**参与者发展下线**、以层级返利维持。两者共同点是\"现金流依赖新增资金\"，必然崩塌；差别在结构（中心化 vs 层级化）与查处难度（金字塔涉及大量\"参与者\"作为共犯）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>庞氏骗局：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>以高回报承诺吸引投资者 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>用新资金支付早期投资者\"</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>新增资金枯竭 → 骗局崩</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-ponzi-scheme",
@@ -62,5 +62,5 @@
     "bernie-madoff"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作Q】 【续作EA】补写概念辨析。"
 }

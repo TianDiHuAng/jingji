@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**主权违约/重组**的关系是\"理由与手段\"：恶债(odious debt) 是一个**法律/伦理主张**——若债务由不民主政权为自身目的借入、且未用于人民利益，新政权可主张不承担；违约/重组是**实际操作**（无论债务是否\"恶\"）。该主张的争议在于认定标准模糊、且会推高未来借款成本，实践中很少被正式援引（多用于政治叙事而非法律裁定）。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>恶债：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>专制政权借债用于非公益目</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>继任政府主张债务不可执行</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>与主权债务重组、债权人协</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-odious-debt",
@@ -62,5 +62,5 @@
     "sovereign-default"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AG】 【续作EA】补写概念辨析。"
 }

@@ -50,7 +50,7 @@
     }
   ],
   "policy_response": [],
-  "comparison": "",
+  "comparison": "与**道德风险**的关系是\"结构与应用\"：委托-代理问题描述**委托人与代理人利益不一致**且信息不对称的结构（股东 vs 管理层、存款人 vs 银行）；道德风险是这一结构导致的**行为后果**（代理人承担风险而收益归自己）。两者是\"问题框架\"与\"具体表现\"的关系。对策包括激励合约（股权、奖金递延）、监督与披露。2008年后的\"薪酬递延与追回\"条款正是针对银行高管的委托-代理问题。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>委托代理问题：概念示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>委托人授权代理人行动 →</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>代理人可能偏离委托人利益</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>需激励合约、监督与治理机</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
   "sources": [
     "w-en-principal-agent",
@@ -58,5 +58,5 @@
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与学派细节待核实。【续作N】 【续作EA】补写概念辨析。"
 }
