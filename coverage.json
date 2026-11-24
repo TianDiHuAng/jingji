@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 550,
+  "total": 551,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7151,6 +7151,19 @@
       "period": "20世纪上半",
       "region": "北美",
       "crisis_type": "制度"
+    },
+    {
+      "id": "crisis-late-middle-ages",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 1,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U1 早期—17世纪",
+      "period": "早期—17世纪",
+      "region": "欧洲",
+      "crisis_type": "其他"
     }
   ]
 }
