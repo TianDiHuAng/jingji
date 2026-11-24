@@ -65,7 +65,7 @@
       "unit": "百万美元",
       "year": 1862,
       "comparable_price": false,
-      "note": "原文：The Second Legal Tender Act, enacted July 11, 1862；单一来源待核实。",
+      "note": "原文：a later Legal Tender Act, enacted March 3, 1863, expanded the limit to $450 million（450 系此后法案将上限扩大至该额；非\"第二次法定货币法\"本身）；单一来源待核实。",
       "sources": [
         "w-en-national-bank-act"
       ]
@@ -107,5 +107,5 @@
     "second-bank"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FS】补充 key_data。 【清理】原概述结尾含「具体条款与税率待核实」，已移入此处。"
+  "pending_notes": "L2：据维基摘要；单源待核实。【续作CZ】 【续作DH】补写对照分析。 【续作DO】policy_response 由概述提炼。 【续作FS】补充 key_data。 【清理】原概述结尾含「具体条款与税率待核实」，已移入此处。 【续作OT｜round156】key_data 450百万美元的 note 原引错句（引成 1862 法案日期），据来源改为 1863 年法案扩大至 $450M 的正确引述。"
 }
