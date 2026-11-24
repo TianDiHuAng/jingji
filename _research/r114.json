@@ -1,0 +1,27 @@
+{
+  "european-central-bank": {
+    "title": "European Central Bank",
+    "extract": "The European Central Bank (ECB) is the central component of the Eurosystem and the European System of Central Banks (ESCB) as well as one of seven institutions of the European Union. It is one of the world's most important central banks, heading a system with a combined balance sheet of close to €7 trillion.",
+    "slug": "European_Central_Bank"
+  },
+  "circuit-breaker": {
+    "title": "Trading curb",
+    "extract": "A trading curb is a financial regulatory instrument that the relevant stock exchange organization implements to prevent stock market crashes. Since their inception, circuit breakers have been modified to prevent both speculative gains and dramatic losses within a small time frame. When triggered, circuit breakers either stop trading for a small amount of time or close trading early to allow accurate information to flow among market makers and for institutional traders to assess their positions and make rational decisions.",
+    "slug": "Trading_curb"
+  },
+  "commodity-price-cycle": {
+    "title": "Commodity price index",
+    "extract": "A commodity price index is a fixed-weight index or (weighted) average of selected commodity prices, which may be based on spot or futures prices. It is designed to be representative of the broad commodity asset class or a specific subset of commodities, such as energy or metals. It is an index that tracks a basket of commodities to measure their performance. They are similar to stock market indices but track the price of a basket of specific commodities. These indexes are often traded on exchanges, allowing investors to gain easier access to commodities without having to enter the futures market. The value of these indexes fluctuates based on their underlying commodities, and this value can be traded on an exchange in much the same way as stock index futures.",
+    "slug": "Commodity_price_index"
+  },
+  "bank-guarantee": {
+    "title": "Deposit insurance",
+    "extract": "\nDeposit insurance, deposit protection or deposit guarantee is a measure implemented in many countries to protect bank depositors, in full or in part, from losses caused by a bank's inability to pay its debts when due. Deposit insurance or deposit guarantee systems are one component of a financial system safety net that promotes financial stability, and are typically integrated with bank regulation and supervision.",
+    "slug": "Deposit_insurance"
+  },
+  "local-government-debt": {
+    "title": "Municipal bond",
+    "extract": "A municipal bond is a bond issued by state or local governments, or entities they create such as authorities and special districts. In the United States, interest income received by holders of municipal bonds is often, but not always, exempt from federal and state income taxation. Typically, only investors in the highest tax brackets benefit from buying tax-exempt municipal bonds instead of taxable bonds. Taxable equivalent yield calculations are required to make fair comparisons between the two categories.",
+    "slug": "Municipal_bond"
+  }
+}

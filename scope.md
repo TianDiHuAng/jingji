@@ -604,3 +604,7 @@
 | stabilization-program | 稳定化政策 | 理论制度 | 全球 | 制度 | 重要 | 续作CY |
 | indexation | 指数化 | 理论制度 | 全球 | 制度 | 补充 | 续作DB |
 | interest-rate-risk | 利率风险 | 理论制度 | 全球 | 理论 | 补充 | 续作DB |
+| european-central-bank | 欧洲中央银行(ECB) | 理论制度 | 欧洲 | 制度 | 重要 | 续作DD |
+| circuit-breaker | 熔断机制（交易限制） | 理论制度 | 全球 | 制度 | 重要 | 续作DD |
+| commodity-price-index | 商品价格指数与商品周期 | 理论制度 | 全球 | 理论 | 重要 | 续作DD |
+| municipal-bond | 市政债券与地方政府债务 | 理论制度 | 全球 | 制度 | 重要 | 续作DD |

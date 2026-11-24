@@ -160,7 +160,11 @@
     "w-en-dubai-world",
     "w-en-economy-dubai"
   ],
-  "related": [],
+  "related": [
+    "egypt-2023",
+    "lebanese-liquidity-2019",
+    "sovereign-wealth-fund"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：事件与数值据维基 Dubai World / Economy of Dubai 全文；单源待核实。【续作BP】"
 }

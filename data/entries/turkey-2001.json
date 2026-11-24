@@ -96,7 +96,12 @@
     "w-en-turkey-2001",
     "w-en-currency-crisis"
   ],
-  "related": [],
+  "related": [
+    "argentina-2018",
+    "original-sin",
+    "stabilization-program",
+    "turkish-crisis-2018"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作W】 【续作AQ】补关键数据（单源）。"
 }

@@ -1,0 +1,62 @@
+{
+  "id": "commodity-price-index",
+  "title": "商品价格指数与商品周期",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "理论",
+  "one_line": "以选定商品价格构成的固定权重指数，用于刻画大宗商品的总体价格走势与周期。",
+  "overview": "商品价格指数(commodity price index) 是**以选定商品价格构成的固定权重指数或加权平均值**，可基于现货或期货价格，设计目的是**代表广义商品市场**的价格走势。它在危机分析中的用途有三：①**判断冲击性质**——商品价格骤变可区分供给侧冲击（如1973年石油禁运）与需求侧衰退；②**识别商品周期**——资源出口国的财政与汇率往往随商品周期剧烈波动（见 dutch-disease、resource-curse）；③**预警通胀**——商品价格常领先于消费物价。商品周期的下行对资源依赖型经济体具有系统性影响：安哥拉、尼日利亚、委内瑞拉、俄罗斯的危机都与商品价格回落直接相关。具体指数编制与权重待核实。",
+  "timeline": [],
+  "causal_chain": [
+    {
+      "step": "全球需求与供给冲击 → 商品价格总体波动",
+      "sources": [
+        "w-en-commodity-price-index"
+      ]
+    },
+    {
+      "step": "资源出口国财政与汇率随商品周期放大波动",
+      "sources": [
+        "w-en-dutch-disease"
+      ]
+    },
+    {
+      "step": "价格下行 → 外汇与财政双重恶化，触发危机",
+      "sources": [
+        "w-en-angola-econ"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "周期视角",
+      "view": "商品价格具有长周期，资源国需以财政规则对冲",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-commodity-price-index"
+      ]
+    },
+    {
+      "holder": "结构视角",
+      "view": "资源依赖本身（而非价格波动）才是脆弱性根源",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-resource-curse"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>商品价格指数与商品周期：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>全球需求与供给冲击 → </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>资源出口国财政与汇率随商</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>价格下行 → 外汇与财政</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-commodity-price-index",
+    "w-en-resource-curse"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+}

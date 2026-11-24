@@ -107,7 +107,12 @@
     "w-en-nigeria-econ",
     "w-en-oil-price-war-2020"
   ],
-  "related": [],
+  "related": [
+    "angola-oil-dependence",
+    "dutch-disease",
+    "ghana-banking-2017",
+    "southafrica-debt"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：结构与数据据维基（含国家经济页；非危机专题页），单源待核实。【续作BN】 【续作CE】补齐时间线。"
 }

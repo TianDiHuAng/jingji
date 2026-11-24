@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "total": 581,
+  "total": 585,
   "entries": [
     {
       "id": "crisis-33ce",
@@ -7554,6 +7554,58 @@
       "period": "理论制度",
       "region": "全球",
       "crisis_type": "理论"
+    },
+    {
+      "id": "european-central-bank",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "欧洲",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "circuit-breaker",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
+    },
+    {
+      "id": "commodity-price-index",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "理论"
+    },
+    {
+      "id": "municipal-bond",
+      "level": "L2",
+      "tier": "重要",
+      "status": "written",
+      "source_count": 2,
+      "needs_verification": 1,
+      "last_updated": "2026-11-24",
+      "unit": "U6 理论与制度",
+      "period": "理论制度",
+      "region": "全球",
+      "crisis_type": "制度"
     }
   ]
 }

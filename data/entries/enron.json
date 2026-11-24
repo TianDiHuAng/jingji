@@ -96,7 +96,13 @@
     "w-en-enron",
     "w-en-principal-agent"
   ],
-  "related": [],
+  "related": [
+    "bernie-madoff",
+    "credit-rating",
+    "ponzi-scheme",
+    "shadow-banking",
+    "worldcom"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AA】 【续作AQ】补关键数据（单源）。"
 }

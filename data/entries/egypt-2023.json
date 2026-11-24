@@ -96,7 +96,12 @@
     "w-en-egypt-2023",
     "w-en-currency-crisis"
   ],
-  "related": [],
+  "related": [
+    "dubai-debt-2009",
+    "lebanese-liquidity-2019",
+    "sri-lanka-crisis-2019",
+    "stabilization-program"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】 【续作AQ】补关键数据（单源）。"
 }

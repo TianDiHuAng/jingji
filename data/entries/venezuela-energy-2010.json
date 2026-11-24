@@ -68,7 +68,10 @@
   "related": [
     "business-cycle",
     "german-crisis-2022",
-    "oil-crisis-1973"
+    "oil-crisis-1973",
+    "oil-price-war-2020",
+    "resource-curse",
+    "venezuela-crisis-2013"
   ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景条件、传导机制、关键数据、各方解释、政策应对、SVG图示均待核实补充。 【续作G】升L2(据REST摘要)。 【续作CB】已重写正文与时间线，替换骨架占位——本轮完成后全站骨架清零。"

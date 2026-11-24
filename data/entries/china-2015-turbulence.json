@@ -104,7 +104,12 @@
     "w-en-china-2015-turbulence",
     "w-en-margin-finance"
   ],
-  "related": [],
+  "related": [
+    "capital-flight",
+    "china-liquidity-2013",
+    "china-realestate-2020",
+    "chinese-stock-bubble-2007"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AQ】补关键数据（单源）。"
 }

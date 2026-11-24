@@ -105,7 +105,12 @@
     "w-en-bankruptcy-ftx",
     "w-en-financial-crisis"
   ],
-  "related": [],
+  "related": [
+    "bernie-madoff",
+    "crypto-bubble",
+    "ponzi-scheme",
+    "terra-luna-2022"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：causal_chain/schools据维基摘要；时间线、具体数值与政策细节待核实补充。 【续作AS】补关键数据（单源）。 【续作CE】补齐时间线。"
 }

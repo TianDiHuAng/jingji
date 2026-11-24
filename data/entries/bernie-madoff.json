@@ -85,7 +85,12 @@
     "w-en-bernie-madoff",
     "w-en-ponzi-scheme"
   ],
-  "related": [],
+  "related": [
+    "bankruptcy-ftx",
+    "enron",
+    "ponzi-scheme",
+    "worldcom"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AB】"
 }

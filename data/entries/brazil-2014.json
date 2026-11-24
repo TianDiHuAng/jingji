@@ -126,7 +126,10 @@
     "w-en-brazil-2014",
     "owid-real-gdp"
   ],
-  "related": [],
+  "related": [
+    "argentina-2018",
+    "venezuela-crisis-2013"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作Z】 【续作BH】2015/2016实际GDP增速已获世界银行/OWID双源印证。"
 }

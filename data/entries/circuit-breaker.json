@@ -1,0 +1,71 @@
+{
+  "id": "circuit-breaker",
+  "title": "熔断机制（交易限制）",
+  "level": "L2",
+  "tier": "重要",
+  "unit": "U6 理论与制度",
+  "period": "理论制度",
+  "region": "全球",
+  "crisis_type": "制度",
+  "one_line": "交易所为防股灾实施的价格限制或暂停交易工具，1987年股灾后在美国等市场引入。",
+  "overview": "熔断机制（trading curb，又称 circuit breaker）是**相关交易所为防范股市崩盘而实施的金融监管工具**。其形式包括：按价格波动幅度触发**短暂暂停交易**（如美国的三级熔断）、个股层面的限价区间（limit up/limit down）与收盘集合竞价等。该机制在 **1987 年黑色星期一**（见 black-monday-1987）之后被广泛引入，目的是给市场参与者时间消化信息、防止程序化抛售的自我强化。自设立以来，熔断规则被多次修改——这本身反映了争议：**熔断可能在暂停后引发更集中的抛售**（\"磁吸效应\"），也可能干扰价格发现、损害流动性。2016年1月中国实施熔断后数日即暂停，即为争议的典型案例。该机制是\"用行政手段打断顺周期放大\"的代表性工具。具体规则待核实。",
+  "timeline": [
+    {
+      "year": 1987,
+      "display": "1987年后",
+      "event": "黑色星期一股灾后，熔断机制在美国等市场引入",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    }
+  ],
+  "causal_chain": [
+    {
+      "step": "程序化抛售与流动性不足 → 单日暴跌（1987年-22.6%）",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "step": "以价格限制或暂停交易打断抛售 → 给市场消化信息的时间",
+      "sources": [
+        "w-en-trading-curb"
+      ]
+    },
+    {
+      "step": "副作用：磁吸效应与价格发现受损 → 规则反复修改",
+      "sources": [
+        "w-en-trading-curb"
+      ]
+    }
+  ],
+  "key_data": [],
+  "schools": [
+    {
+      "holder": "稳定视角",
+      "view": "熔断可阻断恐慌性抛售的自我强化",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-trading-curb"
+      ]
+    },
+    {
+      "holder": "副作用视角",
+      "view": "暂停交易可能集中抛压、干扰价格发现",
+      "basis": "据来源/标准口径归纳；具体表述待核实",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    }
+  ],
+  "policy_response": [],
+  "comparison": "",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>熔断机制（交易限制）：要点</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>程序化抛售与流动性不足 </text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>以价格限制或暂停交易打断</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>副作用：磁吸效应与价格发</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；定义据标准口径。</text></svg>",
+  "sources": [
+    "w-en-trading-curb",
+    "w-en-black-monday-1987"
+  ],
+  "related": [],
+  "needs_verification": true,
+  "pending_notes": "L2：据维基摘要与标准口径；具体细节待核实。【续作DD】"
+}

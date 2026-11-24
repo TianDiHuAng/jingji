@@ -96,7 +96,13 @@
     "w-en-crypto-bubble",
     "w-en-leverage"
   ],
-  "related": [],
+  "related": [
+    "bankruptcy-ftx",
+    "defi",
+    "speculative-bubble",
+    "stablecoin",
+    "terra-luna-2022"
+  ],
   "needs_verification": true,
   "pending_notes": "L2：时间线与机制据维基摘要；具体数值、政策规模与影响程度待核实补充。【续作Y】 【续作AR】补关键数据（单源）。"
 }

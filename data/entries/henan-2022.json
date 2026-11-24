@@ -88,7 +88,9 @@
   "related": [
     "argentina-crisis-2001",
     "bank-crisis-2023",
-    "china-liquidity-2013"
+    "bank-run",
+    "china-liquidity-2013",
+    "deposit-insurance"
   ],
   "needs_verification": true,
   "pending_notes": "L1骨架：时间线、背景、传导机制、关键数据、各方解释、政策应对、图示待核实补充。 【续作】升L2(据REST摘要)。 【续作CD】已重写正文与时间线，清除变体骨架占位。"
