@@ -93,9 +93,10 @@
   "comparison": "与 contemporaneous 的英国\"廉价货币\"+公共工程思路相比，NIRA 的独特之处是**允许甚至鼓励卡特尔化以抬价**，而非单纯扩大需求。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>全国工业复兴法(1933)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>1929—1933年通缩</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>授权规范工业的工资与价格</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>被最高法院裁定违宪 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-nira-1933"
+    "w-en-nira-1933",
+    "w-en-great-depression"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。"
 }

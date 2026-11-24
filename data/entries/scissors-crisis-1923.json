@@ -93,9 +93,10 @@
   "comparison": "与当代\"初级产品 vs 制成品\"贸易条件恶化（如 Prebisch-Singer 假说）机制相通，但苏联案例中价格并非完全由市场决定。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>苏联剪刀差危机(1923)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>工业恢复慢于农业 + 流</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>农民交售意愿下降（\"谷物</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>政策压价与整顿流通 → </text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
-    "w-en-scissors-crisis"
+    "w-en-scissors-crisis",
+    "w-en-soviet-hyperinflation"
   ],
   "related": [],
   "needs_verification": true,
-  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】"
+  "pending_notes": "L2：据维基全文；单源待核实。【续作CP】 【续作CQ】补第二参考来源。"
 }
