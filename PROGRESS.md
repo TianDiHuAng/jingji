@@ -1341,6 +1341,17 @@
 - **重定向陷阱再次出现**（`ring-fencing`／`leverage-ratio`），按既定标准不作来源。
 - 现状：**635 条**（案例 207／概念 428）、来源 **733**、页面 **649**、监管类 **7→9**。**十一道检查全绿**。
 
+- **维基百科第 68 轮可用（round 87）**。**核查危机理论类，补充 `original-sin`，并自我纠正一处"定义充数据"**。
+- **危机理论类核查**：20 个概念中 **16 项已覆盖**（minsky-theory／debt-deflation／balance-sheet-recession／sudden-stop／self-fulfilling／contagion／original-sin／twin-crises／bank-run／liquidity-trap／debt-overhang／credit-crunch／fire-sale／asset-liability-mismatch／procyclicality／financial-accelerator）。
+- 剩余判定：
+  - `currency-mismatch` —— **已被 `original-sin` 覆盖**（后者概述即"货币错配使这些国家在贬值时承受资产负债表冲击"），不另建
+  - `doom-loop`／`disclosure`／`bank-resolution` —— 维基无专属页或仅通用页，不作来源
+- **补充 `original-sin`**（据专属页全文 12,562 字符）：
+  - timeline 3 条：**1999** Eichengreen-Hausmann 提出／**2001** 与 Panizza 扩展为 OSIN1–3／**2003** 转向"原罪的赎免"
+  - 概述扩写：三指标定义（OSIN 均为"1 − 本币计价证券占比"，0—1）+ **六个决定因素**（发展水平／货币可信度／债务负担／汇率制度／收益率曲线斜率／投资者基础规模）
+- **④ 自我纠正**：起初把"OSIN 取值范围 0—1""3 个指标""6 个决定因素"写成 3 条 `key_data`，随后意识到这些是**概念定义而非具体数值数据**——放进 `key_data` 会让读者误以为该条目有量化证据。**已全部移除（3 → 0）**，并注明"具体国别指标值待补来源后再录"。另修正 timeline 一处中英混杂错字。
+- 现状：**635 条**、来源 733、页面 649。**十一道检查全绿**。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

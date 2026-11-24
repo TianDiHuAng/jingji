@@ -1738,6 +1738,18 @@
       "check_result": "PASS; 十一道检查全绿（635 条、649 页）",
       "spot_check": "概念类别审计：监管类 7→9 条",
       "note": "维基第67轮可用。IB：**审计概念维度的类别覆盖，发现监管类偏少，新建 2 条**。①按语义分组统计 426 个概念：宏观 49／货币 60／金融 54／国际 14／理论 20／危机 14／**监管仅 7**——监管是危机分析的核心维度，明显偏少。②逐项核查 26 个关键监管概念，已覆盖 14 项（basel-accords／basel-iii／macroprudential／stress-test／capital-requirement／deposit-insurance／lender-of-last-resort／too-big-to-fail／moral-hazard／volcker-rule／dodd-frank／shadow-banking／capital-control／bank-regulation），**缺 12 项**。③测试剩余概念的维基页面可用性：`countercyclical-capital-buffer` 无页面；`ring-fencing` 重定向到「指定用途税」（**完全不相干**）；`regulatory-arbitrage` 重定向到 Arbitrage（通用页）；`leverage-ratio` 重定向到「杠杆(金融)」（非监管指标页）——均不宜作专属来源，记入缺口。④**新建 2 条**：**资本充足率**（Basel I 1988 的 8% 最低要求／Basel II 内部评级／Basel III 提高核心一级资本；两派观点：缓冲视角 vs 成本与规避视角；关键局限是风险权重可被模型调低）；**流动性覆盖率 LCR**（Basel III 要求 HQLA 覆盖压力情景 **30 天**净流出；引入理由正是\"一些资本充足的银行因流动性管理不善陷入困境\"；与 NSFR、准备金要求的区别）。⑤两处技术细节：`ring-fencing` 与 `leverage-ratio` 的**重定向陷阱**再次出现（抓到的页面不相干或非专属），按标准不作来源。现状：**635 条**（案例 207／概念 428）、来源 733、页面 649、timeline 620、schools 1237、key_data 422。**十一道检查全绿**。"
+    },
+    {
+      "round": "续作IC-ID",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 20,
+      "fixed": 2,
+      "sources_total": 733,
+      "check_result": "PASS; 十一道检查全绿",
+      "spot_check": "危机理论 16/20 覆盖；original-sin 补充并移除定义性 key_data",
+      "note": "维基第68轮可用。IC-ID：**核查危机理论类，补充 original-sin，并自我纠正一处\"定义充数据\"**。①核查 20 个危机理论概念，**16 项已覆盖**（minsky-theory／debt-deflation／balance-sheet-recession／sudden-stop／self-fulfilling／contagion／original-sin／twin-crises／bank-run／liquidity-trap／debt-overhang／credit-crunch／fire-sale／asset-liability-mismatch／procyclicality／financial-accelerator）。②剩余的 `currency-mismatch` 经查**已被 `original-sin` 覆盖**（后者概述即\"货币错配使这些国家在贬值时承受资产负债表冲击\"），不另建；`doom-loop`／`disclosure`／`bank-resolution` 的维基页均无专属页面或为通用页，不作专属来源。③**补充 `original-sin`**：抓取其专属页全文（12,562 字符），补 timeline 3 条（1999 Eichengreen-Hausmann 提出／2001 与 Panizza 扩展为 OSIN1-3／2003 转向\"原罪的赎免\"），并把概述扩写为包含三个指标定义与**六个决定因素**（发展水平／货币可信度／债务负担／汇率制度／收益率曲线斜率／投资者基础规模）。④**自我纠正**：起初把\"OSIN 取值范围 0—1\"\"3 个指标\"\"6 个决定因素\"写成 3 条 key_data，随后意识到这些是**概念定义而非具体数值数据**，放进 key_data 会让读者误以为该条目有量化证据；已全部移除（key_data 3 → 0），并在 pending_notes 注明\"具体国别指标值待补来源后再录\"。同时修正 timeline 中一处中英混杂错字。⑤现状：**635 条**（案例 207／概念 428）、来源 733、页面 649、timeline 623、key_data 422。**十一道检查全绿**。"
     }
   ]
 }
