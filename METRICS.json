@@ -2698,6 +2698,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
       "spot_check": "网络精化诊断：TCP通/github TLS通/维基被DNS+TLS阻断，多种绕过失败，记入 BLOCKERS",
       "note": "维基第147轮可用。PF：网络出口精化诊断——并非全断网，而是维基被针对性阻断；尝试多种绕过均失败，记入 BLOCKERS。\n①**探测**：TCP 层通（8.8.8.8:53、github:443、维基IP:443 均 OPEN）；TLS 到 github.com **成功**；\n但 DNS 把 en.wikipedia.org／wikiwand／google 解析到 Facebook/Twitter IP（污染），直连维基真实 IP 则 **TLS 握手被黑洞**（:80 RST）。\n②**尝试绕过**：DoH（1.1.1.1/dns.google）超时；CORS 代理 allorigins/codetabs 取维基 API **HTTP 522**；corsproxy 401；DBpedia 可达但目标资源 `dbo:abstract` **SPARQL 返回 0 行**。\n③**结论**：通用 HTTPS 可用、**唯维基被 DNS+TLS 针对性阻断**，现有免费代理无法绕过；3 条缺全文 + 5 条缓存缺口本会话仍无法补齐。已把精化诊断表记入 BLOCKERS。\n④本轮无数数据改动；十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 34/34。"
+    },
+    {
+      "round": "续作PG",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 0,
+      "fixed": 1,
+      "sources_total": 740,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 34/34",
+      "spot_check": "出网白名单结论补记 BLOCKERS；质量快照 kd强350/polnum强443(找不到0)/body强984",
+      "note": "维基第148轮可用。PG：确认出网为白名单式（补记 BLOCKERS）+ 完整质量快照。\n①**网络**：进一步探测确认出网为**白名单式**——仅 github.com／baidu 等少数可达，维基/archive/google/duckduckgo 均阻断；DNS 对 8.8.8.8 的查询亦被透明污染（返回 Twitter/Facebook IP），直连 archive.org 真实 IP 亦 Reset/超时。**无本地手段取回维基全文**，3+5 条待网络解除。已补记 BLOCKERS。\n②**完整质量快照（内容溯源三项）**：\ncheck_kd：可核对 451，强匹配 **350（78%）**、弱 50、未匹配 51（多为 OWID/单位/概念）；\ncheck_polnum：强 **443**、弱 141、**完全找不到 0**；\ncheck_body_num：强 **984**、弱 427、未匹配 81（多为日期/举例/交叉引用）。\n③未匹配/弱匹配均为已归类的\"非错误\"类（格式/单位/OWID/跨事件引用），此前多轮抽查已确认。\n④十一道检查全绿、自测 34/34。\n⑤现状：641 条、来源 740、页面 655；key_data 462；overview 平均 426 字；ERRORS 0、WARNINGS 0。"
     }
   ]
 }
