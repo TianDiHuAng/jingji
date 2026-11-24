@@ -1,7 +1,7 @@
 {
   "id": "recession",
   "title": "衰退",
-  "level": "L2",
+  "level": "L3",
   "tier": "核心",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -9,10 +9,68 @@
   "crisis_type": "理论",
   "one_line": "经济活动普遍而持续的收缩；判定通常依据产出、就业、收入与销售的共同下降，而非单一指标。",
   "overview": "（据 Wikipedia「Recession」摘要归纳）In economics, a recession is a business cycle contraction that occurs when there is a period of broad decline in economic activity. Recessions generally occur when there is a widespread drop in spending. This may be triggered by various events, such as a financial crisis, an external trade shock, an adverse supply shock, the bursting of an economic bubble, or a large-scale anthropogenic or natural disaster. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1945,
+      "event": "美国开始以 NBER 的多指标方法事后判定衰退起止（据 Wikipedia Recession）"
+    },
+    {
+      "year": 1975,
+      "event": "奥肯法则被用于估计产出缺口与失业的关系（据 Wikipedia Recession）"
+    },
+    {
+      "year": 2008,
+      "event": "资产负债表衰退与流动性陷阱在危机后被广泛讨论（据 Wikipedia Recession）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "衰退的深度门槛：实际国民总收入降幅",
+      "value": 1.5,
+      "unit": "%",
+      "year": 0,
+      "comparable_price": false,
+      "note": "原文：A 1.5% decline in real gross national income；单一来源待核实。",
+      "sources": [
+        "w-en-recession"
+      ]
+    },
+    {
+      "label": "衰退的深度门槛：非农就业降幅",
+      "value": 15,
+      "unit": "%",
+      "year": 0,
+      "comparable_price": false,
+      "note": "原文：a 15% decline in non-agricultural employment；单一来源待核实。",
+      "sources": [
+        "w-en-recession"
+      ]
+    },
+    {
+      "label": "衰退的扩散门槛：非农就业下降的行业占比（以上）",
+      "value": 75,
+      "unit": "%",
+      "year": 0,
+      "comparable_price": false,
+      "note": "原文：A decline in non-agricultural employment in more than 75% of industries；单一来源待核实。",
+      "sources": [
+        "w-en-recession"
+      ]
+    },
+    {
+      "label": "被界定为\"萧条\"的GDP降幅门槛",
+      "value": 10,
+      "unit": "%",
+      "year": 0,
+      "comparable_price": false,
+      "note": "原文：A severe (GDP down by 10%) or prolonged (three or four years) recession is referred to as an economic depression；单一来源待核实。",
+      "sources": [
+        "w-en-recession"
+      ]
+    }
+  ],
   "comparison": "与**萧条**的区别在程度与持续性：衰退是产出与就业的显著下降，萧条是更严重、更持久的下滑（如大萧条、阿根廷1998—2002\"大萧条\"）。与**增长放缓**的区别在广度：衰退要求多个指标（产出、就业、收入、销售）**共同**下降，单一指标下滑不足以判定。这一区分很关键：\"连续两季负增长\"只是通俗标准，NBER 用多指标事后判定——因为仅看GDP会漏掉就业与收入的持续恶化。",
   "related": [
     "business-cycle",
@@ -24,5 +82,22 @@
     "w-en-recession"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "l3_detail": {
+    "framework_type": "理论",
+    "data_caveat": "衰退判定的三套门槛（深度／扩散／OECD）来自不同机构，**不可混用**；\"连续两季负增长\"是媒体通俗说法，并非任一官方标准。关键数据中的门槛值是该条目所据来源的表述，与其他国家的官方定义可能不同。",
+    "controversy_summary": "衰退的**成因**长期存在分歧：需求侧（信心与支出崩塌）、金融侧（信贷与资产负债表）、供给侧（技术与能源冲击）各有解释力，且不同衰退的主因不同。**处方**亦随之分歧：需求管理 vs 结构改革 vs 清算。本站并列呈现，不替读者下结论。",
+    "content": "**判定标准（多套并行）**：深度（实际国民总收入降 1.5%、非农就业降 15%、失业率升两点至至少 6%）；扩散（非农就业在超 75% 的行业中下降、跨度六个月以上）；以及 OECD 定义（至少两年累计产出缺口达阈值）。**衰退 vs 萧条**：严重（GDP 降 10%）或持久（三至四年）的衰退称萧条，但两者成因与处方可能不同，界线并非纯量化。**两种特殊形态**：资产负债表衰退（私人部门集体偿债，货币政策失效）与流动性陷阱（利率触零）。**悖论**：节约悖论与去杠杆悖论——个体理性的紧缩在总量上可能自我挫败。"
+  },
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img'><text x='20' y='26' class='ttl'>衰退：冲击—放大—政策对冲示意</text><g><rect x='30' y='60' width='150' height='56' rx='6' class='box'/><text x='39' y='83' class='lbl'>初始冲击</text><text x='39' y='101' class='sub'>需求/供给/金融</text></g><g><rect x='215' y='60' width='150' height='56' rx='6' class='box'/><text x='224' y='83' class='lbl'>放大机制</text><text x='224' y='101' class='sub'>资产负债表·预期</text></g><g><rect x='400' y='60' width='150' height='56' rx='6' class='box'/><text x='409' y='83' class='lbl'>产出与就业</text><text x='409' y='101' class='sub'>收缩</text></g><g><rect x='585' y='60' width='160' height='56' rx='6' class='box'/><text x='594' y='83' class='lbl'>政策对冲</text><text x='594' y='101' class='sub'>货币+财政</text></g><g><rect x='215' y='190' width='350' height='60' rx='6' class='box'/><text x='224' y='213' class='lbl'>自我强化回路</text><text x='224' y='231' class='sub'>收入↓→支出↓→收入↓</text></g><text x='20' y='286' class='sub'>框内为传导环节；判定门槛见 key_data。来源见本页。</text></svg>",
+  "policy_response": [
+    {
+      "holder": "政策当局（逆周期政策）",
+      "view": "应对工具分为货币与财政两类：**货币政策**通过降息与流动性工具刺激需求，但在**流动性陷阱**与**资产负债表衰退**中效果受限；**财政政策**通过支出与减税直接支撑需求，乘数在经济闲置时更大。全文同时指出\"节约悖论\"与\"去杠杆悖论\"——个体理性的紧缩在总量上可能自我挫败，因此政策需对冲私人部门的同步收缩。",
+      "basis": "据 Wikipedia「Recession」Balance sheet recession／Liquidity trap／Paradoxes 章节归纳；具体效果待核实",
+      "sources": [
+        "w-en-recession"
+      ]
+    }
+  ]
 }

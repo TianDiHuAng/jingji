@@ -1,7 +1,7 @@
 {
   "id": "market-failure",
   "title": "市场失灵",
-  "level": "L2",
+  "level": "L3",
   "tier": "核心",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -9,7 +9,24 @@
   "crisis_type": "理论",
   "one_line": "自由市场对商品与服务的配置未达到帕累托效率的情形，常导致经济价值的净损失。",
   "overview": "（据 Wikipedia「Market failure」摘要归纳）In neoclassical economics, market failure is a situation in which the allocation of goods and services by a free market is not Pareto efficient, often leading to a net loss of economic value. The first known use of the term by economists was in 1958, but the concept has been traced back to the Victorian writers John Stuart Mill and Henry Sidgwick. Market failures are often associated with public goods, time-inconsistent preferences, information asymmetries, failures of competition, principal–agent problems, externalities, unequal bargaining power, behavioral irrationality, and macro-economic failures. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1776,
+      "event": "斯密提出\"看不见的手\"，为市场配置效率提供早期论证（据 Wikipedia Market failure）"
+    },
+    {
+      "year": 1920,
+      "event": "庇古系统分析外部性，提出征税/补贴的矫正思路（据 Wikipedia Market failure）"
+    },
+    {
+      "year": 1954,
+      "event": "萨缪尔森给出公共品的正式定义（据 Wikipedia Market failure）"
+    },
+    {
+      "year": 1970,
+      "event": "阿克洛夫\"柠檬市场\"揭示信息不对称导致的市场萎缩（据 Wikipedia Market failure）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
   "key_data": [],
@@ -24,5 +41,22 @@
     "w-en-market-failure"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "l3_detail": {
+    "framework_type": "理论",
+    "data_caveat": "\"帕累托效率\"是**相对于初始禀赋与偏好**而言的，因此\"市场失灵\"的判断依赖于所设的基准；不同基准下同一现象可能不被视为失灵。本文不给出各国失灵程度的量化比较（缺乏统一口径）。",
+    "controversy_summary": "**市场失灵是否足以证明干预正当**存在根本分歧：一方认为纠正失灵可提高福利；另一方强调政府失灵（信息不足、寻租、政治周期）可能使结果更糟，主张\"比较制度\"而非\"默认干预\"。这一分歧在金融监管中尤为突出。本站并列呈现，不替读者下结论。",
+    "content": "**定义**：自由市场对商品与服务的配置未达到帕累托效率，常导致经济价值的净损失。该概念在新古典经济学中形成，早期集中于外部性与公共品，后扩展到信息不对称、垄断与协调失败。**主要类型**：外部性、公共品、信息不对称、市场势力、协调失败、宏观波动与系统性风险。**金融领域的应用**：金融稳定兼具公共品与公共池属性，过度冒险的成本由全体承担而收益归个体，这构成审慎监管的理论基础。"
+  },
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img'><text x='20' y='26' class='ttl'>市场失灵：类型与矫正工具示意</text><g><rect x='24' y='60' width='138' height='56' rx='6' class='box'/><text x='33' y='83' class='lbl'>外部性</text><text x='33' y='101' class='sub'>庇古税·产权</text></g><g><rect x='178' y='60' width='138' height='56' rx='6' class='box'/><text x='187' y='83' class='lbl'>公共品</text><text x='187' y='101' class='sub'>公共供给</text></g><g><rect x='332' y='60' width='138' height='56' rx='6' class='box'/><text x='341' y='83' class='lbl'>信息不对称</text><text x='341' y='101' class='sub'>披露·准入</text></g><g><rect x='486' y='60' width='138' height='56' rx='6' class='box'/><text x='495' y='83' class='lbl'>市场势力</text><text x='495' y='101' class='sub'>反垄断</text></g><g><rect x='640' y='60' width='130' height='56' rx='6' class='box'/><text x='649' y='83' class='lbl'>协调失败</text><text x='649' y='101' class='sub'>可信承诺</text></g><g><rect x='178' y='190' width='420' height='60' rx='6' class='box'/><text x='187' y='213' class='lbl'>判断标准</text><text x='187' y='231' class='sub'>干预收益 > 政府失灵成本</text></g><text x='20' y='286' class='sub'>框内为失灵类型与对应工具；右下方为决策判据。来源见本页。</text></svg>",
+  "policy_response": [
+    {
+      "holder": "政策当局（矫正性干预）",
+      "view": "针对不同类型，工具不同：外部性用**庇古税/补贴**或**科斯式产权界定**；公共品用**公共供给或政府采购**；信息不对称用**强制披露与准入审查**；市场势力用**反垄断**；协调失败用**可信承诺**（如存款保险\"挑选\"好均衡）。全文强调判断标准：干预的收益须**大于**政府失灵的成本，而这需要逐案评估而非按类型套用。",
+      "basis": "据 Wikipedia「Market failure」相关章节归纳；具体政策效果待核实",
+      "sources": [
+        "w-en-market-failure"
+      ]
+    }
+  ]
 }

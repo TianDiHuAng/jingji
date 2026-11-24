@@ -157,6 +157,11 @@ def page(title, body, depth=0, desc=''):
 
 def esc(s): return html.escape(str(s or ''))
 
+def mdesc(s):
+    """转义后把 Markdown 粗体 **x** 转为 <strong>（用于正文类长文本）。"""
+    t = html.escape(str(s or ''))
+    return re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
+
 _SVG_SEQ = {'n': 0}   # 单页内 SVG 计数，用于生成唯一 marker id
 
 def fix_svg(svg, reset=False):
@@ -286,7 +291,7 @@ def render_entry(e):
     def sec(title, content):
         if content:
             b.append(f'<div class="section"><h2>{title}</h2>{content}</div>')
-    sec('概述', f'<p>{esc(e.get("overview",""))}</p>' if e.get('overview') else '')
+    sec('概述', f'<p>{mdesc(e.get("overview",""))}</p>' if e.get('overview') else '')
     tl = e.get('timeline',[])
     if tl:
         sec('时间线', '<ul>'+''.join(f'<li><strong>{esc(t.get("display",""))}</strong>：{esc(t.get("event",""))} '
@@ -319,26 +324,32 @@ def render_entry(e):
                 ' <a href="verification.html">数据核实状态</a>页。</p>')
     sch = e.get('schools',[])
     if sch:
-        sec('各方解释','<ul>'+''.join(f'<li><strong>{esc(s.get("holder"))}</strong>：{esc(s.get("view"))} '
+        sec('各方解释','<ul>'+''.join(f'<li><strong>{esc(s.get("holder"))}</strong>：{mdesc(s.get("view"))} '
             f'<span class="src-list">（依据：{esc(s.get("basis",""))} [{", ".join(src_link(x) for x in s.get("sources",[]))}]）</span></li>' for s in sch)+'</ul>')
     pol = e.get('policy_response',[])
     if pol:
-        sec('政策应对及评价分歧','<ul>'+''.join(f'<li><strong>{esc(p.get("holder"))}</strong>：{esc(p.get("view"))} '
+        sec('政策应对及评价分歧','<ul>'+''.join(f'<li><strong>{esc(p.get("holder"))}</strong>：{mdesc(p.get("view"))} '
             f'<span class="src-list">（{esc(p.get("basis",""))}）</span></li>' for p in pol)+'</ul>')
     if e.get('comparison'):
-        sec('与其他案例的相似与不同', f'<p>{esc(e["comparison"])}</p>')
+        sec('与其他案例的相似与不同', f'<p>{mdesc(e["comparison"])}</p>')
     if e.get('svg'):
         sec('一图：机制示意', f'<figure>{fix_svg(e["svg"])}</figure>')
     # L3 深度：数据口径说明 + 复杂反馈回路图
     l3 = e.get('l3_detail')
     if l3:
-        detail = (f'<p>{esc(l3.get("data_caveat",""))}</p>'
-                  f'<p>{esc(l3.get("controversy_summary",""))}</p>')
+        _parts = []
+        if l3.get('content'):
+            _parts.append(f'<p>{mdesc(l3["content"])}</p>')   # 深度说明（可选，仅部分条目提供）
+        if l3.get('data_caveat'):
+            _parts.append(f'<p>{mdesc(l3["data_caveat"])}</p>')
+        if l3.get('controversy_summary'):
+            _parts.append(f'<p>{mdesc(l3["controversy_summary"])}</p>')
+        detail = ''.join(_parts)
         sec('L3 深度说明：数据口径与争议', detail)
     if e.get('deep_svg'):
         sec('L3 深度图：机制与反馈回路', f'<figure>{fix_svg(e["deep_svg"])}</figure>')
     if e.get('pending_notes'):
-        sec('待核实', f'<div class="note">{esc(e["pending_notes"])}</div>')
+        sec('待核实', f'<div class="note">{mdesc(e["pending_notes"])}</div>')
     srcs = e.get('sources',[])
     sec('来源', '<div class="src-list">' + ('<br>'.join('• '+src_link(s) for s in srcs) if srcs else '<span class="empty">暂无</span>') + '</div>')
     if e.get('related'):
@@ -465,7 +476,7 @@ for _id, e in entries.items():
 
 def _kd_row(e, k):
     return (f'<tr><td><a href="{esc(e["id"])}.html">{esc(e.get("title"))}</a></td>'
-            f'<td>{esc(k.get("label"))}</td>'
+            f'<td>{mdesc(k.get("label"))}</td>'
             f'<td class="num">{esc(k.get("value"))} {esc(k.get("unit"))}</td>'
             f'<td>{esc(k.get("year"))}</td></tr>')
 

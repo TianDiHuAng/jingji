@@ -1,7 +1,7 @@
 {
   "id": "growth",
   "title": "经济增长",
-  "level": "L2",
+  "level": "L3",
   "tier": "核心",
   "unit": "U6 理论与制度",
   "period": "理论制度",
@@ -9,10 +9,68 @@
   "crisis_type": "理论",
   "one_line": "经济体所生产的商品与服务在数量与质量上的增加；通常以剔除通胀后的产出（实际GDP）增长率衡量。",
   "overview": "（据 Wikipedia「Economic growth」摘要归纳）In economics, economic growth is an increase in the quantity and quality of the economic goods and services that a society produces. It can be measured as the increase in the inflation-adjusted output of an economy in a given year or over a period of time. It focuses on the economic activities of a country. 具体定义边界与学术争议待核实。",
-  "timeline": [],
+  "timeline": [
+    {
+      "year": 1776,
+      "event": "斯密《国富论》讨论分工与市场范围对生产率的作用（据 Wikipedia Economic growth）"
+    },
+    {
+      "year": 1956,
+      "event": "索洛增长模型把技术视为外生、以资本积累解释趋同（据 Wikipedia Economic growth）"
+    },
+    {
+      "year": 1980,
+      "event": "内生增长理论把技术与人力资本内生化（据 Wikipedia Economic growth）"
+    }
+  ],
   "causal_chain": [],
   "schools": [],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "技术进步对美国长期人均收入增长的贡献（索洛估计）",
+      "value": 80,
+      "unit": "%",
+      "year": 1957,
+      "comparable_price": false,
+      "note": "原文：technological progress has accounted for 80 percent of the long-term rise in U.S. per capita income；单一来源待核实。",
+      "sources": [
+        "w-en-growth"
+      ]
+    },
+    {
+      "label": "资本投资增加对同一增长的贡献",
+      "value": 20,
+      "unit": "%",
+      "year": 1957,
+      "comparable_price": false,
+      "note": "原文：with increased investment in capital explaining only the remaining 20 percent；单一来源待核实。",
+      "sources": [
+        "w-en-growth"
+      ]
+    },
+    {
+      "label": "2013年消费支出中用于1869年不存在的商品与服务的比例",
+      "value": 60,
+      "unit": "%",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "原文：about 60% of consumer spending in 2013 went on goods and services that did not exist in 1869；单一来源待核实。",
+      "sources": [
+        "w-en-growth"
+      ]
+    },
+    {
+      "label": "20世纪许多商品实际价格的降幅（以上）",
+      "value": 90,
+      "unit": "%",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "原文：Over the 20th century, the real price of many goods fell by over 90%；单一来源待核实。",
+      "sources": [
+        "w-en-growth"
+      ]
+    }
+  ],
   "comparison": "与**发展**的区别在\"量\"与\"结构\"：增长指产出规模的扩大（可用人均实际GDP增长率度量），发展还包括结构转型、健康、教育与制度改善（见 development-economics）。与**商业周期**的区别在时间尺度：增长是长期趋势，周期是围绕趋势的短期波动。二者的混淆会导致政策误判——把周期的短期反弹当作增长提速，或把趋势放缓当作周期衰退。",
   "related": [
     "development-economics",
@@ -24,5 +82,22 @@
     "w-en-growth"
   ],
   "needs_verification": true,
-  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。"
+  "pending_notes": "【续作ET】维基恢复后新建；内容据摘要归纳，需补对照辨析与关联。 【续作EV】已补comparison与related。 【续作GC】升级为L3（补 deep_svg/l3_detail/key_data/timeline/policy_response）。",
+  "l3_detail": {
+    "framework_type": "理论",
+    "data_caveat": "索洛\"技术进步占80%、资本占20%\"是**历史估计**，依赖时期与测算方法，不同研究结果有差异；\"2013年60%消费支出用于1869年不存在的商品\"为示例性估计，口径未在来源中详述。跨国增长率比较还受购买力平价与统计能力影响。",
+    "controversy_summary": "关于**制度与增长**的因果存在显著分歧：一方认为产权保护与民主制度通过可预期性促进长期投资；另一方指出威权体制在特定阶段能更快动员资源，且\"制度好→增长快\"可能部分源于反向因果（增长带来制度改善）。本站并列各方说法，不替读者下结论。",
+    "content": "**增长的三个来源**：①生产率（技术进步与效率改善）；②要素积累（资本与劳动投入）；③人力资本与制度（教育、健康、产权与政治制度）。索洛的著名估计认为技术进步解释了美国长期人均收入增长的约 80%，资本投资只解释剩余 20%——这一\"余值\"即全要素生产率(TFP)。**创新如何进入消费**：2013 年美国约 60% 的消费支出用于 1869 年尚不存在的商品与服务；20 世纪许多商品的实际价格下降超过 90%。增长的实质不是\"生产更多同样的东西\"，而是新产品与新工艺的持续出现。**度量陷阱**：GDP 只计入市场交易，漏掉家务劳动、非正规经济与环境损耗。"
+  },
+  "deep_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' role='img'><text x='20' y='26' class='ttl'>经济增长：来源与传导示意</text><g><rect x='30' y='60' width='150' height='56' rx='6' class='box'/><text x='39' y='83' class='lbl'>要素积累</text><text x='39' y='101' class='sub'>资本·劳动</text></g><g><rect x='215' y='60' width='150' height='56' rx='6' class='box'/><text x='224' y='83' class='lbl'>人力资本</text><text x='224' y='101' class='sub'>教育·健康</text></g><g><rect x='400' y='60' width='150' height='56' rx='6' class='box'/><text x='409' y='83' class='lbl'>技术进步</text><text x='409' y='101' class='sub'>创新·效率</text></g><g><rect x='585' y='60' width='160' height='56' rx='6' class='box'/><text x='594' y='83' class='lbl'>制度</text><text x='594' y='101' class='sub'>产权·竞争</text></g><g><rect x='215' y='190' width='350' height='60' rx='6' class='box'/><text x='224' y='213' class='lbl'>全要素生产率(TFP)</text><text x='224' y='231' class='sub'>索洛余值≈长期增长的主要来源</text></g><text x='20' y='286' class='sub'>框内为增长来源；索洛估计技术进步约占美国长期人均收入增长的80%。来源见本页。</text></svg>",
+  "policy_response": [
+    {
+      "holder": "政策当局（增长政策）",
+      "view": "增长政策的着力点依来源分为三组：**要素积累**（提高储蓄与投资、改善基础设施）、**人力资本**（教育与健康）、**制度与创新**（产权保护、研发激励、竞争政策）。全文指出制度质量与政治安排对长期增长的影响仍有争论，而单纯提高投资率在不改善 TFP 的情况下会遭遇边际收益递减。",
+      "basis": "据 Wikipedia「Economic growth」Determinants 与 Growth theories 章节归纳；具体政策效果待核实",
+      "sources": [
+        "w-en-growth"
+      ]
+    }
+  ]
 }

@@ -89,7 +89,13 @@ def main():
         if re.search(r'<[^>]*style=[^>]*style=[^>]*>', d):
             problems.append((name, '重复style属性', ''))
 
-        # 10) 必需 head 元素
+        # 10) 未渲染的 Markdown 标记（** 粗体、[[link]] 等）
+        for pat, name in ((r'\*\*[^*]+\*\*', '未渲染粗体**'), (r'\[\[[^\]]+\]\]', '未渲染双链[[]]')):
+            if re.search(pat, d):
+                problems.append((name, '未渲染Markdown', ''))
+                break
+
+        # 11) 必需 head 元素
         if 'charset' not in d[:800]:
             problems.append((name, '缺charset', ''))
         if 'viewport' not in d[:800]:
