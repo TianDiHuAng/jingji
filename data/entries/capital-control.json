@@ -65,6 +65,7 @@
     "impossible-trinity",
     "interest-rate-parity",
     "money-laundering",
+    "speculative-attack",
     "tobin-tax"
   ],
   "needs_verification": true,

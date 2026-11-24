@@ -1867,6 +1867,24 @@
 - **round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 **30 条**。
 - 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 500 字**；**ERRORS 0**、WARNINGS 216（R22）。十一道检查通过 + 自测 18/18。
 
+- **维基百科第 98 轮可用（round 117）**。**扩写 28 条（WARNINGS 216 → 188）**。
+- **第一批 14 条**：jamaica-accords／physiocracy／political-economy／price-revolution／silver-standard／alm／capital-account／competitive-devaluation／credit-enhancement／development-economics／diversification／elasticity／ems／hedge-fund。
+- **第二批 14 条**：seniority／tariff／basis-point／fire-sale／interbank-lending／joint-stock／menu-cost／oecd／smithsonian-agreement／speculative-attack／stablecoin／debt-overhang／endogenous-money／fisher-equation。
+- **本轮几处关键判断**：
+
+  | 条目 | 判断 |
+  |---|---|
+  | `credit-enhancement` | **增级只能重新分配风险、不能消灭风险**；外部担保依赖担保方自身偿付能力——2008 年 monoline 被降级后，担保反而把风险传导回被担保证券 |
+  | `fire-sale` | 提出「**贱卖外部性**」——卖出者自己承担的价格损失有一部分强加给同行 |
+  | `interbank-lending` | 同业市场为何是最灵敏的体温计：**无抵押品保护、完全依赖对交易对手的信任** |
+  | `debt-overhang` | 与「资产替代」方向**相反**——濒临违约时倾向赌博、已资不抵债时倾向躺平，两者可同时存在 |
+  | `endogenous-money` | 纠正教科书顺序：**贷款创造存款，而非存款创造贷款**；故央行控制的是利率而非货币数量 |
+  | `fisher-equation` | 名义利率高**不等于**政策紧——1970 年代与 2021—22 年都出现过实际利率为负的「金融抑制」 |
+
+- **过程教训**：本轮出现 **4 处字符串未闭合**的语法错误，全部由 `ast.parse` 定位修正；这已是连续两轮出现同类失误，原因是长文写作时跨行拼接遗漏引号。
+- **round 94 的接线检查再次生效**，批量修复并对称化 **35 条**。
+- 现状：**641 条**、来源 **742**、页面 **655**；overview 平均 **约 530 字**；**ERRORS 0**、WARNINGS 188（R22）。十一道检查通过 + 自测 18/18。
+
 ## 轮次记录
 | 轮次 | 日期 | 新增 | 深化/升级 | 修复 | 抽检 | 检查 |
 |---|---|---|---|---|---|---|

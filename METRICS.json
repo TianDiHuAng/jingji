@@ -2098,6 +2098,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 216（R22）+ 自测 18/18",
       "spot_check": "扩写 29 条；批量修复接线并对称化 30 条",
       "note": "维基第97轮可用。KY-KZ：扩写 29 条（WARNINGS 245 → 216）。①第一批 14 条：pmi／potential-output／poverty-trap／twin-deficits／bank-regulation／call-option／commodity-money／currency-board／financial-repression／game-theory／interest-rate／risk-management／sovereign-risk／sterilization。②第二批 15 条：automatic-stabilizer／bad-bank／budget-balance／crowding-out／forward-guidance／mercantilism／money-multiplier／self-fulfilling／credit-rationing／financial-disintermediation／forward-contract／market-manipulation／new-keynesian／open-market-operation／commercial-revolution。③**本轮几处关键判断**：**potential-output** 指出危机会降低潜在产出本身，因此**危机后的产出缺口可能被高估**（分母已下移）；**money-multiplier** 强调乘数「不是常数而是结果」，危机中乘数与流通速度同时下降，这解释了为何「基础货币大增而通胀未现」；**credit-rationing** 用斯蒂格利茨-韦斯逻辑说明「加息会先赶走低风险借款人、银行预期收益反而下降」，故银行宁可配给而不加息；**self-fulfilling** 指出若危机是自我实现的，则**改变预期**（存款保险、最后贷款人、暂停兑换）即可阻止危机——但也提醒「基本面确实恶化的危机靠喊话无法解决」；**sovereign-risk** 点出主权债务与私人债务的三个根本差别（无破产程序、「不愿」与「不能」难分、资产难扣押）；**currency-board** 指出它把货币危机转化为银行与债务危机，且无法充当最后贷款人；**bad-bank** 的经验结论是「分拆＋政府担保」的折中优于直接定价。④过程中出现两处字符串未闭合的语法错误，用 ast.parse 定位并修正——比逐个读报错更快。⑤**round 94 的接线检查再次生效**，用既定脚本批量修复并对称化 30 条。⑥现状：641 条、来源 742、页面 655；overview 平均 264 字；ERRORS 0、WARNINGS 216（R22）。十一道检查通过 + 自测 18/18。"
+    },
+    {
+      "round": "续作LA-LB",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 28,
+      "reviewed": 216,
+      "fixed": 28,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 188（R22）+ 自测 18/18",
+      "spot_check": "扩写 28 条；批量修复接线并对称化 35 条",
+      "note": "维基第98轮可用。LA-LB：扩写 28 条（WARNINGS 216 → 188）。①第一批 14 条：jamaica-accords／physiocracy／political-economy／price-revolution／silver-standard／alm／capital-account／competitive-devaluation／credit-enhancement／development-economics／diversification／elasticity／ems／hedge-fund。②第二批 14 条：seniority／tariff／basis-point／fire-sale／interbank-lending／joint-stock／menu-cost／oecd／smithsonian-agreement／speculative-attack／stablecoin／debt-overhang／endogenous-money／fisher-equation。③**本轮几处关键判断**：**credit-enhancement** 点破「增级只能重新分配风险、不能消灭风险」，且外部担保依赖担保方自身偿付能力——2008 年 monoline 被降级后担保反而把风险传导回被担保证券；**fire-sale** 提出「贱卖外部性」——卖出者自己承担的价格损失有一部分强加给同行，这正是宏观审慎监管的理由；**interbank-lending** 说明同业市场为何是最灵敏的体温计：**无抵押品保护、完全依赖对交易对手的信任**，一旦怀疑即瞬间关闭；**debt-overhang** 指出它与「资产替代」方向相反——濒临违约时倾向赌博、已经资不抵债时倾向躺平，两者可同时存在；**endogenous-money** 纠正教科书顺序「贷款创造存款而非存款创造贷款」，并解释为何央行控制的是利率而非货币数量；**fisher-equation** 提醒名义利率高不等于政策紧——1970 年代与 2021—22 年都出现过实际利率为负的「金融抑制」。④**教训（过程层面）**：本轮出现 4 处字符串未闭合的语法错误，全部由 `ast.parse` 定位修正；这已是连续两轮出现同类失误，原因是长文写作时跨行拼接遗漏引号。⑤**round 94 的接线检查再次生效**，批量修复并对称化 35 条。⑥现状：641 条、来源 742、页面 655；overview 平均 281 字；ERRORS 0、WARNINGS 188（R22）。十一道检查通过 + 自测 18/18。"
     }
   ]
 }

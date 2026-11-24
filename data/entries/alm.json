@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "制度",
   "one_line": "银行或企业通过匹配资产与负债来最小化市场风险与流动性风险的工具与技术。",
-  "overview": "资产负债管理（ALM）是涵盖银行或其他企业所用工具与技术的术语，通过（匹配资产与负债）来最小化市场和流动性风险敞口。ALM 关注利率敏感性、期限结构与流动性缓冲，是银行稳健经营的核心职能。具体方法待核实。",
+  "overview": "资产负债管理(asset-liability management, ALM) 指**统筹管理资产与负债的规模、期限、利率与币种结构**，使二者在风险与收益上相互匹配。**核心是管理\"错配\"**：**期限错配**——以短期负债支撑长期资产（银行的核心功能，也是挤兑的根源，见 maturity-transformation）；**利率错配**——固定利率资产对应浮动利率负债时，利率上升会压缩净息差；**币种错配**——外币负债对应本币资产，本币贬值直接恶化净值（见 original-sin、currency-mismatch）。**主要工具**：久期匹配（见 duration-finance）、缺口分析、现金流匹配、以及衍生品对冲。**与危机的关系**：**ALM 失效是许多银行倒闭的直接原因**——2023 年硅谷银行（见 bank-crisis-2023）以短期存款支撑长久期债券，美联储加息后债券浮亏巨大，而存款集中度高、一旦提款便须**实现亏损**，最终导致倒闭。**这一案例的教训**：ALM 不只是一张表的技术问题，它需要**对负债稳定性的判断**——若负债本身不可靠，再精细的久期匹配也无意义。",
   "timeline": [],
   "causal_chain": [
     {
@@ -58,10 +58,13 @@
   ],
   "related": [
     "asset-liability-mismatch",
+    "bank-crisis-2023",
     "bank-run",
+    "duration-finance",
     "interest-rate-risk",
-    "maturity-transformation"
+    "maturity-transformation",
+    "original-sin"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EE】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体细节待核实。【续作AV】 【续作EE】补写概念辨析。 【续作LA】overview 扩写 102 → 508 字。"
 }

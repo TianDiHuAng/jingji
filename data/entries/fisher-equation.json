@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "理论",
   "one_line": "表达名义利率、实际利率与通胀之间关系的方程式，以欧文·费雪命名。",
-  "overview": "在金融数学与经济学中，费雪方程式表达名义利率、实际利率与通胀之间的关系。它以美国经济学家欧文·费雪（Irving Fisher）命名。该关系是区分名义与实际利率、分析通胀对债务影响的基础工具。具体形式待核实。",
+  "overview": "费雪方程式(Fisher equation) 表达**名义利率、实际利率与通胀**之间的关系：**名义利率 ≈ 实际利率 + 预期通胀率**。**它的直观含义**：贷款人要求的名义回报，必须同时覆盖\"放弃消费的补偿\"（实际利率）与\"货币贬值的补偿\"（通胀）。**由它可直接推出两个重要结论**：①**实际利率 = 名义利率 − 通胀**——这是判断货币政策松紧的关键：名义利率很高但通胀更高时，**实际利率为负**，政策实际上是宽松的（1970 年代与 2021—22 年都出现过这种\"**金融抑制**\"见 financial-repression）；②**费雪效应**——长期看，名义利率会随预期通胀同比例上升，因此**货币的长期中性**（见 neutrality-of-money）得以保持。**必须注意的局限**：它用的是**预期**通胀而非实际通胀，而预期不可直接观测；同时它假设**实际利率由实体因素决定**，未考虑流动性偏好与风险溢价的影响（凯恩斯正是在此批评古典理论，见 liquidity-preference）。**与危机的关系**：**实际利率的骤升**是债务危机的常见触发——名义利率上升而通胀下降，使债务人实际负担骤增（见 debt-deflation）。",
   "timeline": [],
   "causal_chain": [
     {
@@ -57,12 +57,16 @@
     "w-en-interest-rate"
   ],
   "related": [
+    "debt-deflation",
+    "financial-repression",
     "inflation",
     "interest-rate",
+    "liquidity-preference",
     "monetarism",
     "neutral-rate",
+    "neutrality-of-money",
     "quantity-theory-money"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DZ】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据与细节待核实。【续作AD】 【续作DZ】补写概念辨析。 【续作LB】overview 扩写 104 → 540 字。"
 }

@@ -35,7 +35,8 @@
     "deposit-insurance",
     "money-creation",
     "money-multiplier",
-    "representative-money"
+    "representative-money",
+    "stablecoin"
   ],
   "sources": [
     "w-en-fractional-reserve"

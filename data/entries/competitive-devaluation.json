@@ -8,7 +8,7 @@
   "region": "全球",
   "crisis_type": "货币",
   "one_line": "各国通过使本币汇率相对下跌来获取贸易优势的国际状况。",
-  "overview": "货币战争（亦称竞争性贬值）是国际事务中的一种状况：各国试图通过使本国货币汇率相对（他国）下跌来获得贸易优势。此类政策可能引发报复循环、损害国际贸易，是1930年代大萧条恶化的重要因素之一。具体案例待核实。",
+  "overview": "竞争性贬值(competitive devaluation)，又称\"**货币战争**\"，指**多国竞相压低本币汇率以获取出口优势**，结果相互抵消、全体受损的现象。**为什么它是\"以邻为壑\"的典型**（见 beggar-thy-neighbour）：一国的贬值改善自身净出口，但这**是以贸易伙伴的产出下降为代价**；若伙伴国也贬值，则**相对价格回到原状，而所有国家的通胀与不确定性都上升了**。**历史教训最深刻的一次是 1930 年代**：各国相继放弃金本位并贬值，同时配合关税壁垒（见 smoot-hawley-1930），结果是**全球贸易萎缩、大萧条加深**。**这正是战后建立布雷顿森林体系（见 bretton-woods）与 GATT（见 gatt）的直接动因**——用规则约束汇率与贸易政策，避免重演。**当代的形态更为隐蔽**：直接的汇率干预较为少见，更多是通过**量化宽松**（见 quantitative-easing）、**负利率**或**外汇储备积累**间接实现。**一个必要的分辨**：并非所有贬值都是\"竞争性\"的——由市场力量驱动的贬值是**必要的调整**，而人为压低汇率以获取贸易优势才是货币战争。",
   "timeline": [],
   "causal_chain": [
     {
@@ -58,12 +58,16 @@
   ],
   "related": [
     "beggar-thy-neighbour",
+    "bretton-woods",
     "currency-war",
     "devaluation",
     "fx-intervention",
+    "gatt",
     "gold-standard",
-    "prisoners-dilemma"
+    "prisoners-dilemma",
+    "quantitative-easing",
+    "smoot-hawley-1930"
   ],
   "needs_verification": true,
-  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】 【续作ED】补写概念辨析。"
+  "pending_notes": "概念条目：定义/机理据维基摘要与标准口径；具体数据待核实。【续作AX】 【续作ED】补写概念辨析。 【续作LA】overview 扩写 102 → 516 字。"
 }

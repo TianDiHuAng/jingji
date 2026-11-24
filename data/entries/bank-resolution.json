@@ -70,6 +70,7 @@
     "bank-failure",
     "deposit-insurance",
     "lender-of-last-resort",
+    "seniority",
     "too-big-to-fail"
   ],
   "sources": [
