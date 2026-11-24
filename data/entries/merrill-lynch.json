@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "次贷相关减记(2007-11，名义)",
+      "value": 8.4,
+      "unit": "十亿美元",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：write-down $8.4 billion in losses associated with the subprime mortgage crisis；单一来源待核实。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    },
+    {
+      "label": "次贷相关减记(2025年等值)",
+      "value": 12.5,
+      "unit": "十亿美元",
+      "year": 2007,
+      "comparable_price": true,
+      "note": "原文：~$12.5 billion in 2025（2025 美元等值）；单一来源待核实。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "并购处置视角",
@@ -82,5 +105,5 @@
     "subprime-crisis-2007"
   ],
   "needs_verification": true,
-  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FN】基于维基全文补写policy_response。 【清理】原概述结尾含「具体条款待核实」，已移入此处。"
+  "pending_notes": "L2：时间线与机制据维基摘要；具体数值与影响程度待核实补充。【续作AC】 【续作FN】基于维基全文补写policy_response。 【清理】原概述结尾含「具体条款待核实」，已移入此处。 【续作OY｜round160】据 w-en-merrill-lynch 缓存补 key_data（次贷减记 8.4B / 2025等值12.5B）。"
 }

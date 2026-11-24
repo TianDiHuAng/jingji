@@ -2602,6 +2602,18 @@
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
       "spot_check": "edict-maximum-prices 补 5 条 key_data（445→450）；修 check_docs 的 key_data 计数盲区",
       "note": "维基第139轮可用。OX：为 1 条重要案例补 5 条 key_data，并发现并修复 check_docs 的 key_data 计数盲区。\n①**审计无 key_data 的 26 条案例**：多数为补充/无量化或缓存缺失（核心 `south-sea-bubble-1720` 亦无 key_data 且无缓存，受网络所限）。\n②**为 `edict-maximum-prices`（重要，罗马价格敕令301）补 5 条 key_data**（据 w-en-edict-maximum-prices 缓存原文）：argenteus=100第纳里、nummus=25、radiate=4、aureus≥1200、紫染丝一磅限价150000第纳里。key_data 总 445 → **450**。\n③**踩坑即修**：新增 key_data 时先报 R9（缺 year/comparable_price），已补 year=301、comparable_price=False。\n④**发现 check_docs 盲区**：REPORT 的 \"key_data 445 条\" **未加反引号**，不匹配 check_docs 的 `` `key_data` `` 判据 → 陈旧不被发现。已把 REPORT 改为 \"`key_data` 450 条\"（带反引号），使 key_data 计数纳入核对；同步 HEALTH。\n⑤现状：641 条、来源 742、页面 655；key_data 450 行（案例有数据 184/209）；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
+    },
+    {
+      "round": "续作OY",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 2,
+      "reviewed": 4,
+      "fixed": 0,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 32/32",
+      "spot_check": "showa/merrill 补 key_data（450→453）；check_kd 强匹配 339→342；验证 check_docs 修复生效",
+      "note": "维基第140轮可用。OY：继续为有缓存的案例补 key_data（showa/merrill），key_data 450→453。\n①**网络**：仍 URLError。\n②**补 2 条案例 key_data**（据各自专属缓存）：\n`showa-crisis-1927`（1927 昭和金融危机：三周银行假日 + 紧急贷款，据 w-en-sh-wa-financial-crisis）、\n`merrill-lynch`（2007-11 次贷相关减记 8.4 十亿美元、2025 年等值 12.5 十亿美元，据 w-en-merrill-lynch）。\n③**验证 check_docs 修复生效**：key_data 由 450→453，check_docs **成功报出** REPORT 的 `key_data` 450 需更新为 453（上轮加反引号后该项已纳入核对），同步 REPORT/HEALTH。\n④check_kd 强匹配 339 → **342**（3 条新增均 strong）；十一道检查全绿。\n⑤现状：641 条、来源 742、页面 655；key_data 453 行；overview 平均 426 字；ERRORS 0、WARNINGS 0。十一道检查通过 + 自测 32/32。"
     }
   ]
 }
