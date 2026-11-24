@@ -26,7 +26,8 @@
 │   ├── check_sources.py  来源可达性抽样（verified=true 是否真可达）
 │   ├── check_body_num.py 正文数字溯源（overview/comparison/one_line）
 │   ├── check_docs.py     文档统计一致性（PROGRESS/REPORT 与真实数据）
-│   └── check_filler.py   无信息量内容检测（模板套话/占位数值/过短字段）
+│   ├── check_filler.py   无信息量内容检测（模板套话/占位数值/过短字段）
+│   └── check_pages.py    页面间数字一致性（首页/验证页 vs 真实数据）
 └── site/
     ├── index.html        首页
     ├── style.css         浅/深双模式样式（CSS变量）
@@ -48,6 +49,7 @@ python tools/check_sources.py # 来源可达性抽样（默认30个）
 python tools/check_body_num.py # 正文数字溯源（排除年份引用）
 python tools/check_docs.py    # 文档统计一致性核对
 python tools/check_filler.py  # 无信息量内容检测（10万级重复句/模板/占位值）
+python tools/check_pages.py   # 页面间数字一致性（防止改了A忘了B）
 ```
 
 ## 设计原则
