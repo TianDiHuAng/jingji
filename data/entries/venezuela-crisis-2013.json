@@ -99,6 +99,28 @@
       "sources": [
         "owid-population"
       ]
+    },
+    {
+      "label": "极端贫困人口比例(2021)",
+      "value": 77,
+      "unit": "%",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：95% of the population by 2021 was living in poverty, and 77% lived under extreme poverty；单一来源待核实。",
+      "sources": [
+        "w-en-crisis-in-venezuela"
+      ]
+    },
+    {
+      "label": "制裁造成的损失(2016—2019，Weisbrot与Sachs估计)",
+      "value": 38,
+      "unit": "十亿美元（单方估计，有争议）",
+      "year": 2019,
+      "comparable_price": false,
+      "note": "原文：According to Mark Weisbrot and Jeffrey Sachs, sanctions caused Venezuela a loss of $38 billion between 2016 and 2019；系特定作者估计，非共识，单一来源待核实。",
+      "sources": [
+        "w-en-crisis-in-venezuela"
+      ]
     }
   ],
   "schools": [

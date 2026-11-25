@@ -30,7 +30,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美国CPI通胀率(1973年中管制解除后)",
+      "value": 8.5,
+      "unit": "%",
+      "year": 1973,
+      "comparable_price": false,
+      "note": "原文：when the controls were lifted in mid-1973 the CPI surged to 8.5%；单一来源待核实。",
+      "sources": [
+        "w-en-stagflation"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "供给冲击视角",

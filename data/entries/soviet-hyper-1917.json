@@ -66,6 +66,17 @@
       "sources": [
         "w-en-soviet-hyperinflation"
       ]
+    },
+    {
+      "label": "俄国工业总产值(1920)",
+      "value": 0.836,
+      "unit": "十亿金卢布（自战前60.59亿降超85%）",
+      "year": 1920,
+      "comparable_price": false,
+      "note": "原文：by 1920 the total production of Russian industry had fallen from a pre-war level of 6.059 billion gold rubles to the equivalent of just 836 million — a decline of more than 85%；单一来源待核实。",
+      "sources": [
+        "w-en-soviet-hyperinflation"
+      ]
     }
   ],
   "schools": [
