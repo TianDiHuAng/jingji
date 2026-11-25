@@ -30,7 +30,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "消费者金融保护局(CFPB)向消费者返还金额",
+      "value": 21,
+      "unit": "十亿美元（超过210亿）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：The CFPB has returned over $21 billion to consumers harmed by illegal practices；统计时点原文未写，年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-dodd-frank"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "改革视角",

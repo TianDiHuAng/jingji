@@ -63,6 +63,17 @@
       "sources": [
         "w-en-debt-trap-diplomacy"
       ]
+    },
+    {
+      "label": "非洲总债务与欠中国实体债务(2019年末)",
+      "value": 78,
+      "unit": "十亿美元（占非洲总债务9640亿的约8%）",
+      "year": 2019,
+      "comparable_price": false,
+      "note": "原文：At the end of 2019, Africa’s total debt was equal to US$964 billion and the total debt owed to Chinese entities was equal to US$78 billion, which is equal to about 8 per cent of the region’s total debt；单一来源待核实。",
+      "sources": [
+        "w-en-debt-trap-diplomacy"
+      ]
     }
   ],
   "schools": [
