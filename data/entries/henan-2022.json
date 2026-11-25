@@ -58,6 +58,17 @@
       "sources": [
         "w-en-henan-2022"
       ]
+    },
+    {
+      "label": "中国农村中小银行占高风险机构比重",
+      "value": 29,
+      "unit": "%（122家高风险农村银行）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：A total of 122 rural banks were high-risk institutions, occupying about 29% of all high-risk institutions；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-henan-2022"
+      ]
     }
   ],
   "schools": [

@@ -80,6 +80,28 @@
       "sources": [
         "w-en-nixon-shock"
       ]
+    },
+    {
+      "label": "外国央行持有美元与美国黄金储备(1966)",
+      "value": 14,
+      "unit": "十亿美元（外国央行持美元140亿；美国黄金储备132亿，仅32亿可覆盖外国持有）",
+      "year": 1966,
+      "comparable_price": false,
+      "note": "原文：By 1966, non-U.S. central banks held $14 billion in U.S. dollars, while the United States had only $13.2 billion in gold reserves, of which only $3.2 billion was available to cover foreign holdings；单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
+    },
+    {
+      "label": "美元兑德国马克跌幅(此后三个月)",
+      "value": -7.5,
+      "unit": "%",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：In the following three months, the U.S. dollar dropped 7.5% against the Deutschmark；时段起点以原文上下文为准，单一来源待核实。",
+      "sources": [
+        "w-en-nixon-shock"
+      ]
     }
   ],
   "schools": [
