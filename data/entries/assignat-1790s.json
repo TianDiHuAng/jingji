@@ -96,6 +96,28 @@
       "sources": [
         "w-en-assignat"
       ]
+    },
+    {
+      "label": "100里弗指券市值(1793年5月)",
+      "value": 52,
+      "unit": "%（占面值）",
+      "year": 1793,
+      "comparable_price": false,
+      "note": "原文：An assignat note of 100 livres had fallen in May 1793 to 52 per cent of its face value；单一来源待核实。",
+      "sources": [
+        "w-en-assignat"
+      ]
+    },
+    {
+      "label": "指券市值(1795年4月)",
+      "value": 8,
+      "unit": "%（占面值；1794年8月为31%）",
+      "year": 1795,
+      "comparable_price": false,
+      "note": "原文：The assignat fell from 31% of its face value in August 1794 to 24% in November, 17% in February, and 8% in April 1795；单一来源待核实。",
+      "sources": [
+        "w-en-assignat"
+      ]
     }
   ],
   "schools": [

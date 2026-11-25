@@ -118,6 +118,17 @@
       "sources": [
         "w-en-archegos"
       ]
+    },
+    {
+      "label": "瑞士信贷股价单日跌幅(2021年3月29日)",
+      "value": -14,
+      "unit": "%（同日野村跌16%）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：On March 29, the share price of Credit Suisse was down by 14%, while Nomura Holdings shares declined by 16%；单一来源待核实。",
+      "sources": [
+        "w-en-archegos"
+      ]
     }
   ],
   "schools": [
