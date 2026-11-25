@@ -58,6 +58,17 @@
       "sources": [
         "w-en-kennedy-slide-of-1962"
       ]
+    },
+    {
+      "label": "道指单日跌幅(1962-05-28)",
+      "value": -5.7,
+      "unit": "%（跌34.95点）",
+      "year": 1962,
+      "comparable_price": false,
+      "note": "原文：The Dow Jones Industrial Average dropped 5.7% on May 28, 1962；单一来源待核实。",
+      "sources": [
+        "w-en-kennedy-slide-of-1962"
+      ]
     }
   ],
   "schools": [

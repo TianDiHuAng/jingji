@@ -213,3 +213,4 @@
 - 续作QQ: us-state-defaults-1840s 维基全文缓存错配（.slug=Panic_of_1837，非州违约专页），未据此取数；网络恢复后重抓。
 - 续作QQ: smithsonian-agreement 维基全文缓存无.slug且内容为Nixon shock条目（疑错配），未据此取数；网络恢复后重抓。
 - 续作QR: 缓存审计(_research/audit_cache_slug.py)补记——jamaica-accords 缓存实为 Nixon shock、panic-1910 缓存实为通用 Bank run 条目，均非条目本身页面；animal-spirits / bank-resolution / leading-indicator / liquidity-coverage-ratio / taper-tantrum 缓存页面对题但不在条目 sources 中，其中数字不可直接引用。网络恢复后重抓或补登来源。
+- 续作QT: hainan-property-bubble-1992 维基全文缓存实为 2007 年中国股灾条目（错配），未据此取数。

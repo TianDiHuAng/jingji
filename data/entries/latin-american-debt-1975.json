@@ -96,6 +96,17 @@
       "sources": [
         "w-en-latin-american-debt-crisis"
       ]
+    },
+    {
+      "label": "拉美偿还债务(1982—1985)",
+      "value": 108,
+      "unit": "十亿美元（1080亿）",
+      "year": 1985,
+      "comparable_price": false,
+      "note": "原文：Between 1982 and 1985, Latin America paid back US$108 billion；单一来源待核实。",
+      "sources": [
+        "w-en-latin-american-debt-crisis"
+      ]
     }
   ],
   "schools": [

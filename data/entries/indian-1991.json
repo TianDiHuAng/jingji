@@ -58,6 +58,39 @@
       "sources": [
         "w-en-indian-1991"
       ]
+    },
+    {
+      "label": "卢比贬值幅度(1991年7月)",
+      "value": -18,
+      "unit": "%（约）",
+      "year": 1991,
+      "comparable_price": false,
+      "note": "原文：the rupee was devalued by about 18%；单一来源待核实。",
+      "sources": [
+        "w-en-indian-1991"
+      ]
+    },
+    {
+      "label": "中央与邦合并财政赤字/GDP(1980年代后半)",
+      "value": 10.1,
+      "unit": "%（自约8%升至10.1%）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：the combined fiscal deficit rose from about 8% to 10.1% of GDP；年份为1980年代后半近似，单一来源待核实。",
+      "sources": [
+        "w-en-indian-1991"
+      ]
+    },
+    {
+      "label": "外债(1980–81→1989–90)",
+      "value": 64.4,
+      "unit": "十亿美元（由206亿增至644亿）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：External debt rose from $20.6 billion in 1980–81 to $64.4 billion in 1989-90；单一来源待核实。",
+      "sources": [
+        "w-en-indian-1991"
+      ]
     }
   ],
   "schools": [

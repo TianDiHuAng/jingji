@@ -61,6 +61,17 @@
       "sources": [
         "w-en-indymac"
       ]
+    },
+    {
+      "label": "总存款(2008-03-31)",
+      "value": 18.9,
+      "unit": "十亿美元（189亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：With $18.9 billion in total deposits reported on March 31；年份以原文上下文为2008，单一来源待核实。",
+      "sources": [
+        "w-en-indymac"
+      ]
     }
   ],
   "schools": [

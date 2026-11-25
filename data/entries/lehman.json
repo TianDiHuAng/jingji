@@ -58,6 +58,17 @@
       "sources": [
         "w-en-lehman"
       ]
+    },
+    {
+      "label": "破产前总资产(2008年5月)",
+      "value": 639,
+      "unit": "十亿美元（6390亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：In May 2008, prior to going bankrupt, the firm had $639 billion in assets；单一来源待核实。",
+      "sources": [
+        "w-en-lehman"
+      ]
     }
   ],
   "schools": [
