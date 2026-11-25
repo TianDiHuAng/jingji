@@ -77,6 +77,17 @@
       "sources": [
         "w-en-cypriot-financial-crisis"
       ]
+    },
+    {
+      "label": "欧元集团国际救助规模(2013-03-25)",
+      "value": 10,
+      "unit": "十亿欧元（100亿）",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "原文：On 25 March 2013, a €10 billion international bailout by the Eurogroup；单一来源待核实。",
+      "sources": [
+        "w-en-cypriot-financial-crisis"
+      ]
     }
   ],
   "schools": [

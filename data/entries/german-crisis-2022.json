@@ -101,6 +101,17 @@
       "sources": [
         "owid-real-gdp"
       ]
+    },
+    {
+      "label": "德国年通胀率(2022)",
+      "value": 6.9,
+      "unit": "%",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：Annual inflation reached 6.9% in 2022；单一来源待核实。",
+      "sources": [
+        "w-en-german-economic-crisis-2022-present"
+      ]
     }
   ],
   "schools": [

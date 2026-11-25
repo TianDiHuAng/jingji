@@ -106,6 +106,28 @@
       "sources": [
         "fed-great-depression"
       ]
+    },
+    {
+      "label": "国际贸易降幅(大萧条期间)",
+      "value": -50,
+      "unit": "%（超过50%）",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：International trade fell by more than 50%；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-great-depression"
+      ]
+    },
+    {
+      "label": "美国GDP收缩幅度(1929—1932)",
+      "value": -30,
+      "unit": "%",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：in the U.S., the Depression resulted in a 30% contraction in GDP；单一来源待核实。",
+      "sources": [
+        "w-en-great-depression"
+      ]
     }
   ],
   "schools": [
