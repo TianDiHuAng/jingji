@@ -1,0 +1,1893 @@
+{
+"Albania": {
+"banking": [
+1994
+],
+"currency": [
+1997
+],
+"sovereign": [
+1990
+],
+"restructuring": [
+1992
+]
+},
+"Algeria": {
+"banking": [
+1990
+],
+"currency": [
+1988,
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Angola": {
+"banking": [],
+"currency": [
+1991,
+1996,
+2015
+],
+"sovereign": [
+1988
+],
+"restructuring": [
+1992
+]
+},
+"Argentina": {
+"banking": [
+1980,
+1989,
+1995,
+2001
+],
+"currency": [
+1975,
+1981,
+1987,
+2002,
+2013
+],
+"sovereign": [
+1982,
+2001,
+2014
+],
+"restructuring": [
+1993,
+2005,
+2016
+]
+},
+"Armenia": {
+"banking": [
+1994
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Australia": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Austria": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Azerbaijan": {
+"banking": [
+1995
+],
+"currency": [
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Bangladesh": {
+"banking": [
+1987
+],
+"currency": [
+1976
+],
+"sovereign": [],
+"restructuring": []
+},
+"Barbados": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Belarus": {
+"banking": [
+1995
+],
+"currency": [
+1997,
+2009,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Belgium": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Belize": {
+"banking": [],
+"currency": [
+2007,
+2012,
+2017
+],
+"sovereign": [
+2007,
+2013,
+2017
+],
+"restructuring": []
+},
+"Benin": {
+"banking": [
+1988
+],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Bhutan": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Bolivia": {
+"banking": [
+1986,
+1994
+],
+"currency": [
+1973,
+1981
+],
+"sovereign": [
+1980
+],
+"restructuring": [
+1992
+]
+},
+"Bosnia and Herzegovina": {
+"banking": [
+1992
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Botswana": {
+"banking": [],
+"currency": [
+1984
+],
+"sovereign": [],
+"restructuring": []
+},
+"Brazil": {
+"banking": [
+1990,
+1994
+],
+"currency": [
+1976,
+1982,
+1987,
+1992,
+1999,
+2015
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1994
+]
+},
+"Brunei": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Bulgaria": {
+"banking": [
+1996
+],
+"currency": [
+1996
+],
+"sovereign": [
+1990
+],
+"restructuring": [
+1994
+]
+},
+"Burkina Faso": {
+"banking": [
+1990
+],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Burundi": {
+"banking": [
+1994
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Cambodia": {
+"banking": [],
+"currency": [
+1971,
+1992
+],
+"sovereign": [],
+"restructuring": []
+},
+"Cameroon": {
+"banking": [
+1987,
+1995
+],
+"currency": [
+1994
+],
+"sovereign": [
+1989
+],
+"restructuring": [
+1992
+]
+},
+"Canada": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Cape Verde": {
+"banking": [
+1993
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Central African Rep.": {
+"banking": [
+1976,
+1995
+],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Chad": {
+"banking": [
+1983,
+1992
+],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Chile": {
+"banking": [
+1976,
+1981
+],
+"currency": [
+1972,
+1982
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1990
+]
+},
+"China, P.R.": {
+"banking": [
+1998
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Colombia": {
+"banking": [
+1982,
+1998
+],
+"currency": [
+1985
+],
+"sovereign": [],
+"restructuring": []
+},
+"Comoros": {
+"banking": [],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Congo, Dem. Rep. of": {
+"banking": [
+1983,
+1991,
+1994
+],
+"currency": [
+1976,
+1983,
+1989,
+1994,
+1999,
+2009,
+2016
+],
+"sovereign": [
+1976
+],
+"restructuring": [
+1989
+]
+},
+"Congo, Rep. of": {
+"banking": [
+1992
+],
+"currency": [
+1994
+],
+"sovereign": [
+1986
+],
+"restructuring": [
+1992
+]
+},
+"Costa Rica": {
+"banking": [
+1987,
+1994
+],
+"currency": [
+1981,
+1991
+],
+"sovereign": [
+1981
+],
+"restructuring": [
+1990
+]
+},
+"Côte d’Ivoire": {
+"banking": [
+1988
+],
+"currency": [
+1994
+],
+"sovereign": [
+1984,
+2001,
+2010
+],
+"restructuring": [
+1997,
+2010
+]
+},
+"Croatia": {
+"banking": [
+1998
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Czech Republic": {
+"banking": [
+1996
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Cyprus": {
+"banking": [
+2011
+],
+"currency": [],
+"sovereign": [
+2013
+],
+"restructuring": [
+2013
+]
+},
+"Denmark": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Djibouti": {
+"banking": [
+1991
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Dominica": {
+"banking": [],
+"currency": [],
+"sovereign": [
+2002
+],
+"restructuring": [
+2004
+]
+},
+"Dominican Republic": {
+"banking": [
+2003
+],
+"currency": [
+1985,
+1990,
+2003
+],
+"sovereign": [
+1982,
+1999,
+2003
+],
+"restructuring": [
+1994,
+1995,
+2000,
+2005
+]
+},
+"Ecuador": {
+"banking": [
+1982,
+1998
+],
+"currency": [
+1982,
+1999
+],
+"sovereign": [
+2008
+],
+"restructuring": [
+2009
+]
+},
+"Egypt": {
+"banking": [
+1980
+],
+"currency": [
+1979,
+1990,
+2016
+],
+"sovereign": [
+1984
+],
+"restructuring": [
+1992
+]
+},
+"El Salvador": {
+"banking": [
+1989
+],
+"currency": [
+1986
+],
+"sovereign": [],
+"restructuring": []
+},
+"Equatorial Guinea": {
+"banking": [
+1983
+],
+"currency": [
+1980,
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Eritrea": {
+"banking": [
+1993
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Estonia": {
+"banking": [
+1992
+],
+"currency": [
+1992
+],
+"sovereign": [],
+"restructuring": []
+},
+"Ethiopia": {
+"banking": [],
+"currency": [
+1993
+],
+"sovereign": [],
+"restructuring": []
+},
+"Fiji": {
+"banking": [],
+"currency": [
+1998
+],
+"sovereign": [],
+"restructuring": []
+},
+"Finland": {
+"banking": [
+1991
+],
+"currency": [
+1993
+],
+"sovereign": [],
+"restructuring": []
+},
+"France": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Gabon": {
+"banking": [],
+"currency": [
+1994
+],
+"sovereign": [
+1986,
+2002
+],
+"restructuring": [
+1994
+]
+},
+"Gambia, The": {
+"banking": [],
+"currency": [
+1985,
+2003
+],
+"sovereign": [
+1986
+],
+"restructuring": [
+1988
+]
+},
+"Georgia": {
+"banking": [
+1991
+],
+"currency": [
+1992,
+1999
+],
+"sovereign": [],
+"restructuring": []
+},
+"Germany": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Ghana": {
+"banking": [
+1982
+],
+"currency": [
+1978,
+1983,
+1993,
+2000,
+2009,
+2014
+],
+"sovereign": [],
+"restructuring": []
+},
+"Greece": {
+"banking": [
+2008
+],
+"currency": [
+1983
+],
+"sovereign": [
+2012
+],
+"restructuring": [
+2012
+]
+},
+"Grenada": {
+"banking": [],
+"currency": [],
+"sovereign": [
+2004
+],
+"restructuring": [
+2005,
+2015
+]
+},
+"Guatemala": {
+"banking": [],
+"currency": [
+1986
+],
+"sovereign": [],
+"restructuring": []
+},
+"Guinea": {
+"banking": [
+1985,
+1993
+],
+"currency": [
+1982,
+2005
+],
+"sovereign": [
+1985
+],
+"restructuring": [
+1992
+]
+},
+"Guinea-Bissau": {
+"banking": [
+1995,
+2014
+],
+"currency": [
+1980,
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Guyana": {
+"banking": [
+1993
+],
+"currency": [
+1987
+],
+"sovereign": [
+1982
+],
+"restructuring": [
+1992
+]
+},
+"Haiti": {
+"banking": [
+1994
+],
+"currency": [
+1992,
+2003
+],
+"sovereign": [],
+"restructuring": []
+},
+"Honduras": {
+"banking": [],
+"currency": [
+1990
+],
+"sovereign": [
+1981
+],
+"restructuring": [
+1992
+]
+},
+"China, P.R.: Hong Kong": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Hungary": {
+"banking": [
+1991,
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Iceland": {
+"banking": [
+2008
+],
+"currency": [
+1975,
+1981,
+1989,
+2008
+],
+"sovereign": [],
+"restructuring": []
+},
+"India": {
+"banking": [
+1993
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Indonesia": {
+"banking": [
+1997
+],
+"currency": [
+1979,
+1998
+],
+"sovereign": [
+1999
+],
+"restructuring": [
+2002
+]
+},
+"Iran, I.R. of": {
+"banking": [],
+"currency": [
+1985,
+1993,
+2000,
+2013
+],
+"sovereign": [
+1992
+],
+"restructuring": [
+1994
+]
+},
+"Ireland": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Israel": {
+"banking": [
+1983
+],
+"currency": [
+1975,
+1980,
+1985
+],
+"sovereign": [],
+"restructuring": []
+},
+"Italy": {
+"banking": [
+2008
+],
+"currency": [
+1981
+],
+"sovereign": [],
+"restructuring": []
+},
+"Jamaica": {
+"banking": [
+1996
+],
+"currency": [
+1978,
+1983,
+1991
+],
+"sovereign": [
+1978,
+2010
+],
+"restructuring": [
+1990,
+2010,
+2013
+]
+},
+"Japan": {
+"banking": [
+1997
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Jordan": {
+"banking": [
+1989
+],
+"currency": [
+1989
+],
+"sovereign": [
+1989
+],
+"restructuring": [
+1993
+]
+},
+"Kazakhstan": {
+"banking": [
+2008
+],
+"currency": [
+1999,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Kenya": {
+"banking": [
+1985,
+1992
+],
+"currency": [
+1993
+],
+"sovereign": [],
+"restructuring": []
+},
+"Korea": {
+"banking": [
+1997
+],
+"currency": [
+1998
+],
+"sovereign": [],
+"restructuring": []
+},
+"Kuwait": {
+"banking": [
+1982
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Kyrgyz Republic": {
+"banking": [
+1995
+],
+"currency": [
+1997
+],
+"sovereign": [],
+"restructuring": []
+},
+"Lao People’s Dem. Rep.": {
+"banking": [],
+"currency": [
+1972,
+1978,
+1986,
+1997
+],
+"sovereign": [],
+"restructuring": []
+},
+"Latvia": {
+"banking": [
+1995,
+2008
+],
+"currency": [
+1992
+],
+"sovereign": [],
+"restructuring": []
+},
+"Lebanon": {
+"banking": [
+1990
+],
+"currency": [
+1984,
+1990
+],
+"sovereign": [],
+"restructuring": []
+},
+"Lesotho": {
+"banking": [],
+"currency": [
+1985,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Liberia": {
+"banking": [
+1991
+],
+"currency": [],
+"sovereign": [
+1980
+],
+"restructuring": []
+},
+"Libya": {
+"banking": [],
+"currency": [
+2002
+],
+"sovereign": [],
+"restructuring": []
+},
+"Lithuania": {
+"banking": [
+1995
+],
+"currency": [
+1992
+],
+"sovereign": [],
+"restructuring": []
+},
+"Luxembourg": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Macedonia": {
+"banking": [
+1993
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Madagascar": {
+"banking": [
+1988
+],
+"currency": [
+1984,
+1994,
+2004
+],
+"sovereign": [
+1981
+],
+"restructuring": [
+1992
+]
+},
+"Malawi": {
+"banking": [],
+"currency": [
+1994,
+2012
+],
+"sovereign": [
+1982
+],
+"restructuring": [
+1988
+]
+},
+"Malaysia": {
+"banking": [
+1997
+],
+"currency": [
+1998
+],
+"sovereign": [],
+"restructuring": []
+},
+"Maldives": {
+"banking": [],
+"currency": [
+1975
+],
+"sovereign": [],
+"restructuring": []
+},
+"Mali": {
+"banking": [
+1987
+],
+"currency": [
+1994
+],
+"sovereign": [],
+"restructuring": []
+},
+"Mauritania": {
+"banking": [
+1984
+],
+"currency": [
+1993
+],
+"sovereign": [],
+"restructuring": []
+},
+"Mauritius": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Mexico": {
+"banking": [
+1981,
+1994
+],
+"currency": [
+1977,
+1982,
+1995
+],
+"sovereign": [
+1982
+],
+"restructuring": [
+1990
+]
+},
+"Moldova": {
+"banking": [
+2014
+],
+"currency": [
+1999
+],
+"sovereign": [
+2002
+],
+"restructuring": [
+2002
+]
+},
+"Mongolia": {
+"banking": [
+2008
+],
+"currency": [
+1990,
+1997
+],
+"sovereign": [],
+"restructuring": []
+},
+"Morocco": {
+"banking": [
+1980
+],
+"currency": [
+1981
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1990
+]
+},
+"Mozambique": {
+"banking": [
+1987
+],
+"currency": [
+1987,
+2015
+],
+"sovereign": [
+1984
+],
+"restructuring": [
+1991
+]
+},
+"Myanmar": {
+"banking": [],
+"currency": [
+1975,
+1990,
+1996,
+2001,
+2007,
+2012
+],
+"sovereign": [],
+"restructuring": []
+},
+"Namibia": {
+"banking": [],
+"currency": [
+1984,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Nepal": {
+"banking": [
+1988
+],
+"currency": [
+1984,
+1992
+],
+"sovereign": [],
+"restructuring": []
+},
+"Netherlands": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"New Caledonia": {
+"banking": [],
+"currency": [
+1981
+],
+"sovereign": [],
+"restructuring": []
+},
+"New Zealand": {
+"banking": [],
+"currency": [
+1984
+],
+"sovereign": [],
+"restructuring": []
+},
+"Nicaragua": {
+"banking": [
+1990,
+2000
+],
+"currency": [
+1979,
+1985,
+1990
+],
+"sovereign": [
+1980
+],
+"restructuring": [
+1995
+]
+},
+"Niger": {
+"banking": [
+1983
+],
+"currency": [
+1994
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1991
+]
+},
+"Nigeria": {
+"banking": [
+1991,
+2009
+],
+"currency": [
+1983,
+1989,
+1997,
+2016
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1992
+]
+},
+"Norway": {
+"banking": [
+1991
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Pakistan": {
+"banking": [],
+"currency": [
+1972
+],
+"sovereign": [],
+"restructuring": []
+},
+"Panama": {
+"banking": [
+1988
+],
+"currency": [],
+"sovereign": [
+1983
+],
+"restructuring": [
+1996
+]
+},
+"Papua New Guinea": {
+"banking": [],
+"currency": [
+1995
+],
+"sovereign": [],
+"restructuring": []
+},
+"Paraguay": {
+"banking": [
+1995
+],
+"currency": [
+1984,
+1989,
+2002
+],
+"sovereign": [
+1982
+],
+"restructuring": [
+1992
+]
+},
+"Peru": {
+"banking": [
+1983
+],
+"currency": [
+1976,
+1981,
+1988
+],
+"sovereign": [
+1978
+],
+"restructuring": [
+1996
+]
+},
+"Philippines": {
+"banking": [
+1983,
+1997
+],
+"currency": [
+1983,
+1998
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1992
+]
+},
+"Poland": {
+"banking": [
+1992
+],
+"currency": [],
+"sovereign": [
+1981
+],
+"restructuring": [
+1994
+]
+},
+"Portugal": {
+"banking": [
+2008
+],
+"currency": [
+1983
+],
+"sovereign": [],
+"restructuring": []
+},
+"Romania": {
+"banking": [
+1998
+],
+"currency": [
+1996
+],
+"sovereign": [
+1982
+],
+"restructuring": [
+1987
+]
+},
+"Russia": {
+"banking": [
+1998,
+2008
+],
+"currency": [
+1998,
+2014
+],
+"sovereign": [
+1998
+],
+"restructuring": [
+2000
+]
+},
+"Rwanda": {
+"banking": [],
+"currency": [
+1991
+],
+"sovereign": [],
+"restructuring": []
+},
+"St. Kitts and Nevis": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": [
+2012
+]
+},
+"São Tomé and Principe": {
+"banking": [
+1992
+],
+"currency": [
+1987,
+1992,
+1997
+],
+"sovereign": [],
+"restructuring": []
+},
+"Senegal": {
+"banking": [
+1988
+],
+"currency": [
+1994
+],
+"sovereign": [
+1981
+],
+"restructuring": [
+1996
+]
+},
+"Serbia, Republic of": {
+"banking": [],
+"currency": [
+2000
+],
+"sovereign": [],
+"restructuring": []
+},
+"Seychelles": {
+"banking": [],
+"currency": [
+2008
+],
+"sovereign": [
+2008
+],
+"restructuring": [
+2009
+]
+},
+"Sierra Leone": {
+"banking": [
+1990
+],
+"currency": [
+1983,
+1989,
+1998
+],
+"sovereign": [
+1977
+],
+"restructuring": [
+1995
+]
+},
+"Singapore": {
+"banking": [],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Slovak Republic": {
+"banking": [
+1998
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Slovenia": {
+"banking": [
+1992,
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"South Africa": {
+"banking": [],
+"currency": [
+1984,
+2015
+],
+"sovereign": [
+1985
+],
+"restructuring": [
+1993
+]
+},
+"South Sudan": {
+"banking": [],
+"currency": [
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Spain": {
+"banking": [
+1977,
+2008
+],
+"currency": [
+1983
+],
+"sovereign": [],
+"restructuring": []
+},
+"Sri Lanka": {
+"banking": [
+1989
+],
+"currency": [
+1978
+],
+"sovereign": [],
+"restructuring": []
+},
+"Sudan": {
+"banking": [],
+"currency": [
+1981,
+1988,
+1993,
+2012
+],
+"sovereign": [
+1979
+],
+"restructuring": [
+1985
+]
+},
+"Suriname": {
+"banking": [],
+"currency": [
+1990,
+1995,
+2001,
+2016
+],
+"sovereign": [],
+"restructuring": []
+},
+"Swaziland": {
+"banking": [
+1995
+],
+"currency": [
+1985,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Sweden": {
+"banking": [
+1991,
+2008
+],
+"currency": [
+1993
+],
+"sovereign": [],
+"restructuring": []
+},
+"Syrian Arab Republic": {
+"banking": [],
+"currency": [
+1988
+],
+"sovereign": [],
+"restructuring": []
+},
+"Switzerland": {
+"banking": [
+2008
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Tajikistan": {
+"banking": [],
+"currency": [
+1999,
+2015
+],
+"sovereign": [],
+"restructuring": []
+},
+"Tanzania": {
+"banking": [
+1987
+],
+"currency": [
+1985,
+1990
+],
+"sovereign": [
+1984
+],
+"restructuring": [
+1992
+]
+},
+"Thailand": {
+"banking": [
+1983,
+1997
+],
+"currency": [
+1998
+],
+"sovereign": [],
+"restructuring": []
+},
+"Togo": {
+"banking": [
+1993
+],
+"currency": [
+1994
+],
+"sovereign": [
+1979
+],
+"restructuring": [
+1997
+]
+},
+"Trinidad and Tobago": {
+"banking": [],
+"currency": [
+1986
+],
+"sovereign": [
+1989
+],
+"restructuring": [
+1989
+]
+},
+"Tunisia": {
+"banking": [
+1991
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Turkey": {
+"banking": [
+1982,
+2000
+],
+"currency": [
+1978,
+1984,
+1991,
+1996,
+2001
+],
+"sovereign": [
+1978
+],
+"restructuring": [
+1982
+]
+},
+"Turkmenistan": {
+"banking": [],
+"currency": [
+2008
+],
+"sovereign": [],
+"restructuring": []
+},
+"Uganda": {
+"banking": [
+1994
+],
+"currency": [
+1980,
+1988
+],
+"sovereign": [
+1981
+],
+"restructuring": [
+1993
+]
+},
+"Ukraine": {
+"banking": [
+1998,
+2008,
+2014
+],
+"currency": [
+1998,
+2009,
+2014
+],
+"sovereign": [
+1998,
+2015
+],
+"restructuring": [
+1999,
+2015
+]
+},
+"United Kingdom": {
+"banking": [
+2007
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"United States": {
+"banking": [
+1988,
+2007
+],
+"currency": [],
+"sovereign": [],
+"restructuring": []
+},
+"Uruguay": {
+"banking": [
+1981,
+2002
+],
+"currency": [
+1972,
+1983,
+1990,
+2002
+],
+"sovereign": [
+1983,
+2002
+],
+"restructuring": [
+1991,
+2003
+]
+},
+"Uzbekistan": {
+"banking": [],
+"currency": [
+2000
+],
+"sovereign": [],
+"restructuring": []
+},
+"Venezuela": {
+"banking": [
+1994
+],
+"currency": [
+1984,
+1989,
+1994,
+2002,
+2010
+],
+"sovereign": [
+1982,
+2017
+],
+"restructuring": [
+1990
+]
+},
+"Vietnam": {
+"banking": [
+1997
+],
+"currency": [
+1972,
+1981,
+1987
+],
+"sovereign": [
+1985
+],
+"restructuring": [
+1997
+]
+},
+"Yemen": {
+"banking": [
+1996
+],
+"currency": [
+1985,
+1995
+],
+"sovereign": [],
+"restructuring": []
+},
+"Yugoslavia, SFR": {
+"banking": [],
+"currency": [],
+"sovereign": [
+1983
+],
+"restructuring": [
+1988
+]
+},
+"Zambia": {
+"banking": [
+1995
+],
+"currency": [
+1983,
+1989,
+1996,
+2009,
+2015
+],
+"sovereign": [
+1983
+],
+"restructuring": [
+1994
+]
+},
+"Zimbabwe": {
+"banking": [
+1995
+],
+"currency": [
+1983,
+1991,
+1998,
+2003
+],
+"sovereign": [],
+"restructuring": []
+}
+}

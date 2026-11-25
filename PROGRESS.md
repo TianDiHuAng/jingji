@@ -2479,3 +2479,7 @@
 - 两说并列处理：津巴布韦峰值月通胀、巴尔迪弗罗林币种、1920—21年GNP三种估计。
 - 缓存审计脚本 _research/audit_cache_slug.py、批量扫描脚本 _research/scan_batch.py 已入库。
 - 离线可做项已饱和；剩余均需联网：347 个无缓存条目、已登记的错配缓存重抓、GitHub 推送，见 BLOCKERS.md。
+
+## 年表对照（Laeven–Valencia 2018）
+- 新增来源 org-imf-lv2018；解析附录 Table 1 共 165 国。
+- 新增 data/chronology_lv.json 与 site/chronology.html：38 个案例并列，一致 25、相差1年 2、年份不同 8、数据库未列 3。不一致只表示口径不同，不改动条目。

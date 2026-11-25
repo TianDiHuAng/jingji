@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 740,
+  "count": 741,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8881,6 +8881,18 @@
       "verified": true,
       "link_ok": true,
       "note": "Wikipedia API 核对（本会话抓取全文 7590 字符）"
+    },
+    {
+      "id": "org-imf-lv2018",
+      "title": "Systemic Banking Crises Revisited (IMF Working Paper WP/18/206)",
+      "author": "Luc Laeven; Fabian Valencia",
+      "year": "2018",
+      "type": "官方机构",
+      "url": "https://www.imf.org/-/media/files/publications/wp/2018/wp18206.pdf",
+      "url2": "https://www.elibrary.imf.org/view/journals/001/2018/206/article-A001-en.xml",
+      "verified": true,
+      "note": "2026-11-25 经代理下载 PDF（48页，2611489字节）核对；附录 Table 1 Crisis Dates 按单词坐标解析",
+      "link_ok": true
     }
   ]
 }

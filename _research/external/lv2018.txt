@@ -1,0 +1,2280 @@
+=====P1
+WP/18/206 
+Systemic Banking Crises Revisited 
+by Luc Laeven and Fabian Valencia 
+IMF Working Papers describe research in progress by the author(s) and are published 
+to elicit comments and to encourage debate. The views expressed in IMF Working Papers 
+are those of the author(s) and do not necessarily represent the views of the IMF, its 
+Executive Board, or IMF management.  
+=====P2
+© 2018 International Monetary Fund WP/18/206  
+IMF Working Paper 
+Strategy, Policy, and Review Department 
+Systemic Banking Crises Revisited 
+Prepared by Luc Laeven and Fabian Valencia 1 
+Authorized for distribution by Vikram Haksar  
+September 2018 
+Abstract 
+This paper updates the database on systemic banking crises presented in Laeven and 
+Valencia (2008, 2013). Drawing on 151 systemic banking crises episodes around the 
+globe during 1970-2017, the database includes information on crisis dates, policy 
+responses to resolve banking crises, and the fiscal and output costs of crises. We provide 
+new evidence that crises in high-income countries tend to last longer and be associated 
+with higher output losses, lower fiscal costs, and more extensive use of bank guarantees 
+and expansionary macro policies than crises in low- and middle-income countries. We 
+complement the banking crises dates with sovereign debt and currency crises dates to find 
+that sovereign debt and currency crises tend to coincide or follow banking crises. 
+JEL Classification Numbers: E50; E60; G20. 
+Keywords: banking crisis; financial crisis; bank restructuring; crisis resolution. 
+Author’s E-Mail Address: Luc.Laeven@ecb.europa.eu and Fvalencia@imf.org. 
+1 Luc Laeven is Director-General of the Directorate General Research at the European Central Bank and  
+Fabian Valencia is Deputy Chief in the Macrofinancial Analysis Unit in the Strategy, Policy and Review 
+Department at the IMF. The authors thank Sergei Antoshin, Ashok Bhatia, Raymond Chaudron, 
+Luis Cortavarria-Checkley, Ingimundur Friðriksson, Vikram Haksar, Samba Mbaye, Aiko Mineshima, 
+Herimandimby Razafindramanana, Mohamed Sidi Bouna, and Jón Þ. Sigurgeirsson for insightful comments 
+and Eugenia Menaguale for outstanding research assistance. The views expressed in this paper are those of the 
+authors and do not reflect the views of the ECB, the ECB Executive Board, the IMF, the IMF Executive Board, 
+or IMF Management. 
+IMF Working Papers describe research in progress by the author(s) and are published to 
+elicit comments and to encourage debate. The views expressed in IMF Working Papers are 
+those of the author(s) and do not necessarily represent the views of the IMF, its Executive Board, 
+or IMF management.  
+=====P3
+2 
+ Contents Page 
+I. Introduction ............................................................................................................................3 
+II. Definition of a Banking Crisis ..............................................................................................4 
+III. Banking Crises Episodes During 1970–2017 ......................................................................8 
+IV. Crises Sequencing ................................................................................................................9 
+V. Policy Response to Banking Crises ....................................................................................12 
+A. Financial Sector Interventions during Crises ..........................................................12 
+B. Macro Policies .........................................................................................................15 
+VI. Crisis Outcomes .................................................................................................................16 
+A. Fiscal Costs of Banking Crises ...............................................................................17 
+B. Peak Nonperforming Loans ....................................................................................20 
+C. Systemic Banking Crisis Duration ..........................................................................21 
+D. Output Losses ..........................................................................................................23 
+VII. Conclusions ......................................................................................................................24 
+ 
+References……………………………………………………………………………………26 
+ 
+Appendix ..................................................................................................................................30 
+ 
+Figures 
+1. Frequency of Systemic Banking Crises Around the World, 1970–2011 ...............................7 
+2. Systemic Banking Crises Episodes by Income Level 1970-2017 .........................................9 
+3. Currency and Sovereign Debt Crises Episodes by Income level .........................................10 
+4. Financial Crises by Type .....................................................................................................11 
+5. Sequencing of Crises............................................................................................................12 
+6. Containment and Resolution Policies ..................................................................................15 
+7. Short-term Interest Rates and Fiscal Balances around Banking Crises ...............................16 
+8. Gross and Net Fiscal Costs of Banking Crises ....................................................................18 
+9. Fiscal Costs in Percent of Financial System Assets.............................................................19 
+10. Increases in Public Debt around Banking Crises ...............................................................20 
+11. Peak NPLs in Banking Crises Episodes .............................................................................21 
+12. Banking Crises Duration ....................................................................................................22 
+13. Output Losses around Banking Crises ...............................................................................23 
+14. Output and Export Volume Paths around Banking Crises.................................................24 
+ 
+Appendix Tables 
+1. Crisis Dates ..........................................................................................................................30 
+2. Banking Crises Resolution and Outcomes ...........................................................................34 
+3. Banking Crisis Policy Responses.........................................................................................39 
+  
+=====P4
+ 3  
+I.   INTRODUCTION 
+Systemic banking crises are highly disruptive events which lead to sustained declines in 
+economic activity, financial intermediation, and ultimately in welfare. It is then no surprise 
+that academics and policymakers devote significant efforts to develop models to attempt to 
+predict crises and to design policies to resolve them and mitigate their economic impacts. But 
+much of these efforts crucially depend on the proper identification of the dates when these 
+crises occur. The use of an inappropriate crisis dating measure may obscure a true 
+relationship between a crisis event and other economic variables or create the appearance of a 
+causal link when there is none.  
+To facilitate this endeavor, this paper updates the comprehensive global database on systemic 
+banking crises in Laeven and Valencia (2008, 2013), which has become the standard 
+reference for information on banking crises worldwide, to cover all episodes during the 
+period 1970–2017. As in our previous versions of the database, we date systemic banking 
+crises based on the intensity of the policy response to reduce the use of subjective criteria to 
+identify crisis episodes. As in Laeven and Valencia (2013), the database on banking crises 
+episodes during the period 1970–2017 is further complemented with dates of sovereign debt 
+and currency crises during the same period. In total, we identify 151 banking crises, 236 
+currency crises, and 74 sovereign crises.  
+The database also includes information about policy responses, fiscal costs, output losses, 
+and other stylized facts about banking crises. When comparing banking crises episodes 
+across countries of different income levels, we find significant differences. In terms of policy 
+responses, we find that the use of financial intervention policies in high-income countries 
+tends to be similar to that in low and middle-income economies, except for guarantees on 
+bank liabilities. The use of the latter has been relatively more common in high-income 
+countries, arguably due to a higher quality of institutions and/or larger fiscal space which 
+rendered the guarantees relatively more credible. Moreover, we document a more extensive 
+use of expansionary monetary and fiscal policies in banking crises episodes in high-income 
+economies than in low- and middle-income ones. Availability of fiscal and monetary space 
+and/or ability to finance larger deficits allowed high-income countries to act 
+countercyclically to mitigate the impact of the crisis on the real economy. In contrast, low- 
+and middle-income countries may have faced binding borrowing constraints that forced them 
+to act procyclically during crisis episodes.  
+We also find that direct fiscal costs of banking crises—defined as fiscal outlays directly 
+related to government intervention measures in the financial sector—tend to be larger in low- 
+and middle-income countries than in high-income countries. However, using a broader 
+definition of fiscal costs that includes fiscal outlays not directly targeting the financial 
+sector—measured as the increase in public debt-to-GDP ratios around banking crises—we 
+find the exact opposite: increase in public indebtedness tend to be more pronounced for high-
+income countries. This result follows from a combination of a greater ability of high-income 
+=====P5
+ 4  
+countries to use fiscal stimulus during banking crises, which increases public debt, and larger 
+output losses in high-income countries in the aftermath of banking crises.2 
+The literature on banking crisis dating has attracted increased attention since the global 
+financial crisis with notable contributions including Reinhart and Rogoff (2009), Schularick 
+and Taylor (2012), Romer and Romer (2017), and Baron and others (2018). Several of these 
+studies document similarities and differences in outcomes with our earlier versions of the 
+database (Laeven and Valencia, 2008, 2013). Relative to these other papers, the main 
+advantage of our database is the dating of banking crises for a comprehensive sample of 
+countries and the documentation of policy responses during such crises.3 This distinction is 
+important, particularly for drawing implications of banking crises beyond advanced 
+economies and large emerging markets. 
+The remainder of the paper is organized as follows. Section II presents our definition of 
+banking crises. Section III shows the resulting list of crises during the period 1970–2017. 
+Section IV complements our banking crises dates with those for currency and sovereign debt 
+crises. Section V presents the policy responses and Section VI presents the crisis outcomes, 
+including fiscal costs and output losses. Section VII concludes. 
+II.   DEFINITION OF A BANKING CRISIS 
+We follow in this paper the same definition adopted in Laeven and Valencia (2013), 
+reproduced below for convenience, where we define a banking crisis as an event that meets 
+two conditions: 
+1) Significant signs of financial distress in the banking system (as indicated by significant 
+bank runs, losses in the banking system, and/or bank liquidations). 
+2) Significant banking policy intervention measures in response to significant losses in the 
+banking system. 
+We consider the first year that both criteria are met to be the year when the crisis became 
+systemic. This is to ensure that we date the crisis at the first signs of major problems in the 
+banking system. 
+When the losses in the banking sector and/or liquidations are severe, we treat the first 
+criterion as a sufficient condition to date a systemic banking crisis. We operationalize this 
+                                                 
+2 The studies by Schularick and Taylor (2012), Romer and Romer (2017), and Baron and others (2018) cover 
+only a comparatively small number of countries. 
+3 The studies by Schularick and Taylor (2012), Romer and Romer (2017), and Baron and others (2018) cover 
+only a comparatively small number of countries. 
+ 
+=====P6
+ 5  
+definition by considering that losses are severe when either (i) a country’s banking system 
+exhibits significant losses resulting in a share of nonperforming loans above 20 percent of 
+total loans or bank closures of at least 20 percent of banking system assets or (ii) fiscal 
+restructuring costs of the banking sector are sufficiently high, exceeding 5 percent of GDP.4 
+However, relying exclusively on the first criterion is problematic because it is not always 
+straightforward to quantify the degree of financial distress in a banking system, particularly 
+in low- and middle-income countries, and also because losses can be mitigated by policy 
+responses. To address this problem, we also rely on the second criterion, if policy 
+intervention meets the requirement of being significant. We consider policy interventions in 
+the banking sector to be significant if at least three out of the following six measures have 
+been used:5 
+1) deposit freezes and/or bank holidays; 
+2)  significant bank nationalizations; 
+3) bank restructuring fiscal costs (at least 3 percent of GDP); 
+4) extensive liquidity support (at least 5 percent of deposits and liabilities to nonresidents); 
+5) significant guarantees put in place; and 
+6) significant asset purchases (at least 5 percent of GDP); 
+The above categories cover all policy interventions that have been employed to resolve a 
+banking crisis (see Honohan and Laeven, 2005, and Laeven and Valencia, 2008). Since not 
+all policies are used in all crises, we require that at least three measures have been put in 
+place. It is worth noting that setting thresholds sufficiently high helps us avoid labeling a 
+non-systemic event or the preemptive use of some of these policies as a systemic banking 
+crisis.6 For interventions that can be quantified more easily, such as liquidity support, asset 
+purchases, and financial restructuring costs, we also adopt quantitative thresholds to define 
+what significant intervention means.  
+ 
+                                                 
+4 Examples of such severity include Latvia’s 1995 crisis, when banks totaling 40 percent of financial system’s 
+assets were closed; and more recently Moldova (2014) and Ukraine (2014).  
+5 We express our measure of fiscal costs in terms of GDP. However, whenever available, we also report fiscal 
+costs expressed in percent of financial system assets. 
+6 Other researchers (e.g., Demirgüç-Kunt and Detragiache, 1998) have used milder thresholds resulting in more 
+crisis episodes. However, milder thresholds tend to increase the proportion of non-systemic events in the 
+sample, while our focus is on systemic crises.  
+=====P7
+ 6  
+The policy variables we used in our crisis definition are more specifically defined as follows: 
+ Deposit freeze and bank holidays: indicates whether the government introduced 
+restrictions on deposit withdrawals or a bank holiday. If implemented, we also collect 
+information on the duration of the deposit freeze and bank holiday, and the affected 
+instruments. 
+ Significant nationalizations: takeovers by the government of systemically important 
+financial institutions, including cases where the government takes a majority stake in the 
+capital of such financial institutions. 
+ Significant bank guarantees: a significant government guarantee on bank liabilities, 
+indicating that either a full protection of liabilities has been issued by the government or 
+that government guarantees have been extended to non-deposit liabilities of banks.7 
+Actions that only raise the level of deposit insurance coverage are not included.8 
+ Liquidity support: It is measured as central bank claims on other depository institutions 
+(from IFS) and liquidity support directly provided by the Treasury. We normalize this 
+variable by the total deposits and bank liabilities to non-residents. We consider liquidity 
+support to be extensive when this ratio exceeds 5 percent and more than doubles relative 
+to its pre-crisis level.9 
+ Bank restructuring costs: defined as gross fiscal outlays directed to the restructuring of 
+the financial sector, with the most important component being recapitalization costs. We 
+consider restructuring costs to be significant if they exceed 3 percent of GDP, excluding 
+liquidity assistance provided directly from the treasury. We focus on gross fiscal costs 
+instead of net because it takes time to record recoveries. However, wherever data on 
+recoveries were available we report also net fiscal costs. 
+ Asset purchases: This variable refers to purchases of assets from financial institutions 
+implemented by the central bank, the treasury, or a government entity (such as an asset 
+management company). We define significant asset purchases as those exceeding 5 
+percent of GDP. 
+ 
+                                                 
+7 Although we do not consider a quantitative threshold for this criterion, in all cases guarantees involved 
+significant financial sector commitments relative to the size of the corresponding economies. 
+8 Laeven and Valencia (2013) present also information on whether a previous explicit deposit insurance 
+arrangement was in place at the time of the introduction of the blanket guarantee. 
+9 This measure of liquidity would also capture the impact of currency swap lines among central banks, agreed 
+during the global financial crisis, to the extent that they were used to inject liquidity in the financial sector. 
+=====P8
+ 
+  7    
+Figure 1. Frequency of Systemic Banking Crises Around the World, 1970–2017 
+ 
+ Source: Authors’ calculations. 
+
+=====P9
+8 
+The logic for choosing this approach to date banking crises is to reduce the use of subjective 
+criteria in identifying these events, which gives our database a clear advantage over existing 
+databases such as Caprio and Klingebiel (1996) and Reinhart and Rogoff (2009). Moreover, 
+the chosen thresholds for policy intervention help us focus only on systemic events, where 
+subjectivity in the identification of crises is further reduced. And finally, it is a relatively 
+simple definition that allows a consistent implementation across time periods and countries 
+of different income levels. In Laeven and Valencia (2013) we showed that many episodes in 
+our dataset can be replicated by a simple alternative definition based on credit and real GDP 
+growth, particularly in high-income countries.  
+More recent studies have explored alternative crisis dating strategies, such as Romer and 
+Romer (2017), who rely on a narrative approach to identify episodes of financial distress in 
+24 OECD countries; Baron and others (2018), who identify crises in 46 countries by looking 
+at large declines in banks’ stock prices; and Chaudron and de Haan (2014), who study four 
+crises for which the timing strongly differs across databases. Chaudron and de Haan (2014) 
+conclude that using information on the number and size of bank failures allows determining 
+the timing of banking crises more precisely. Their dating for these four episodes corresponds 
+closely with ours. More generally, all these studies note important similarities with our crisis 
+dating to the extent that the samples overlap. However, our approach allows a more 
+comprehensive coverage of countries. 
+III.   BANKING CRISES EPISODES DURING 1970–2017 
+Our definition identifies 151 banking crises since 1970, of which 4 episodes started since 
+2011: Cyprus (2011), Guinea Bissau (2014), Moldova (2014), and Ukraine (2014). The 
+complete dataset is included in the accompanying data file with the main variables reported 
+in the appendix. The banking crises dates—years for all cases, and year and month whenever 
+feasible—include borderline systemic crises, defined as cases where our definition is close to 
+being met. Most countries have experienced at least one systemic banking crisis during 
+1970–2017, with many going through multiple episodes (Figure 1). However, only three 
+countries experienced more than two systemic banking crises during the past 48 years: 
+Argentina (4), the Democratic Republic of Congo (3), and Ukraine (3).  
+Following the World Bank’s historical income classification, we group episodes according to 
+the income level of the affected country at the start of the crisis (Figure 2). Figure 2 shows 
+that systemic banking crises are rarely single-country events, with waves of crises clearly 
+visible in the figure, starting with the episodes in Latin America in the early 1980s, the crises 
+in the aftermath of the breakup of the Soviet Union, the Tequila Crisis, the Asian crisis, and 
+more recently the global financial crisis. The period around the mid-2000s was unusual in 
+terms of the low incidence of crises, which was disrupted by the global financial crisis. Since 
+then, some episodes have taken place in low- and middle-income countries, but in general we 
+are facing again a period of relative calm in what pertains to systemic banking crises. The 
+figure also shows that the late eighties and nineties included some episodes in high-income 
+=====P10
+ 9  
+countries, reflecting the savings and loans crisis in the United States, the crises in the Nordic 
+countries in the early 1990s, and the one in Japan in the late 1990s. However, prior to the 
+2008 global financial crises, banking crises had predominantly been a low and middle-
+income country phenomenon, at least since 1970. As noted by Reinhart and Rogoff (2009), 
+the global financial crisis made it clear that “financial crises are an equal opportunity 
+menace” for high-and low and middle-income countries. 
+Figure 2. Systemic Banking Crises Episodes by Income Level 1970–2017 
+ 
+Source: Authors’ calculations. 
+ 
+IV.   CRISES SEQUENCING 
+To assess the sequencing of crisis, we complement the database with currency and sovereign 
+crises dates. We follow the same definitions employed in Laeven and Valencia (2008, 2013), 
+which in turn build on Frankel and Rose’s (1996) approach. We define a currency crisis as a 
+“sharp” nominal depreciation of the currency vis-a-vis the U.S. dollar. We consider two 
+thresholds for a depreciation to meet this definition: i) a year-on-year depreciation of at least 
+30 percent; and ii) of at least 10 percentage points higher than the rate of depreciation 
+observed in the year before.10 Under this definition, there were 236 currency crises during the 
+period 1970–2017.11 We choose bilateral exchange rates because we are interested in the loss 
+                                                 
+10 We use end-of-period official nominal bilateral exchange rates from the IMF’s World Economic Outlook 
+(WEO) database. For countries that meet the currency crisis criteria for several continuous years, we use the 
+first year of each five-year window to identify the crisis. While our approach resembles that of Frankel and 
+Rose (1996), our thresholds are not identical to theirs. 
+11 As in Laeven and Valencia (2013), we exclude from the list currency crises that occur in countries that were 
+early in the process of transition toward market economies. 
+
+=====P11
+ 10 
+of value relative to a reserve currency. Admittedly, the identified episodes can vary with the 
+thresholds, as noted in Laeven and Valencia (2013). However, it is a simple definition that 
+can be implemented easily across countries.  
+We also date episodes of sovereign debt default and restructuring by relying on information 
+from Beim and Calomiris (2001), World Bank (2002), Sturzenegger and Zettelmeyer (2006), 
+IMF Staff reports, and reports from rating agencies and the media. The compiled data on 
+sovereign debt crises reported in our database include the year of sovereign default to private 
+creditors and/or restructuring. If public debt was restructured without a suspension of 
+payments, the sovereign crisis year is recorded as the year of the restructuring. Using this 
+approach, we identify 75 episodes of sovereign debt crises during 1970–2017, 11 of which 
+took place since 2007. Figure 3 shows the frequency of currency and sovereign debt crises 
+episodes by year and income level.  
+Figure 3. Currency and Sovereign Debt Crises Episodes by Income level 
+  
+Source: Authors’ calculations. 
+ 
+Note: We distinguish high income countries from low and middle-income countries, based on the level of 
+GNI per capita in US$ in the year in which the banking crisis episode started. The classification is assigned 
+by comparing such level of GNI per capita to the income thresholds defined by the World Bank for that same 
+year. 
+Currency crises are a rare phenomenon among high-income countries, including during the 
+global financial crisis, in part due to the reserve currency status of some of these economies. 
+The global financial crisis brought about sovereign debt crises in high-income countries: 
+Greece with its 2012 restructuring and the 2015 default to the IMF, and Cyprus with the 2013 
+debt exchange. 
+Banking and sovereign debt crises can coincide, either because the entire economy is hit by a 
+large shock, or because there are sizeable spillovers from the public to the banking sector 
+(i.e., through banks’ sovereign exposures) or from the banking to the public sector (i.e. 
+through sovereign bailouts of banks) (IMF, 2015; Dell’Ariccia and others, 2018). And 
+analogous connections can be drawn between banking and currency crises: for instance, 
+
+=====P12
+ 11 
+when a sharp depreciation of the currency wipes out banks’ capital due to large open foreign 
+exchange positions of their own or their borrowers or when significant bank failures lead 
+depositors to seek shelter in foreign assets, simultaneously provoking a run on the currency.  
+Figure 4 shows the incidence of banking, currency, and sovereign debt crises over the sample 
+period covered in our database. We find that all three types of crises, not just banking crises, 
+come in waves. The number of sovereign debt crises peaked in the mid-1980s, driven 
+predominantly by Latin America, with recent episodes including both high and low and 
+middle-income economies. The frequency of currency crises peaked in the mid-1990s and 
+saw surges around the global financial crisis. Their incidence increased in 2015 due to the 
+large currency depreciations in many commodity-exporter countries triggered by a decline in 
+commodity prices (Kohlscheen and others, 2017). The figure also reports the number of 
+standalone crises as well as those that coincided with other types of crises.12 In total we 
+document 11 triple crises (i.e., simultaneous banking, currency, and sovereign debt crises in a 
+given country) over the period 1970–2017. Among twin crises, the currency/banking and 
+currency/debt crisis pairs tend to be more common than the banking/debt crisis pair. 
+Figure 4. Financial Crises by Type 
+  
+Source: Authors’ calculations. 
+To better identify a crisis sequencing pattern, we show in Figure 5 the incidence of currency 
+and sovereign debt crises along a time scale (in years) in countries that experienced a 
+banking crisis in year T. A clearer pattern now emerges. Currency and sovereign debt crises, 
+on average, tend to coincide or follow banking crises, with currency crises peaking at one 
+year after the beginning of the banking crisis. This pattern is in line with findings in earlier 
+                                                 
+12 We define a twin crisis in year T as a banking crisis in year t, combined with a currency (sovereign debt) 
+crisis during the period [T-1, T+1], and we define a triple crisis in year T as a banking crisis in year T, 
+combined with a currency crisis during the period [T-1, T+1] and a sovereign debt crisis during the period [T-1, 
+T+1]. Identifying the overlap between banking (currency) and sovereign crises follows the same approach, with 
+T the year of a banking (currency) crisis.  
+
+=====P13
+ 12 
+studies that have examined the causes as well as the sequencing of crises (e.g., Kaminsky and 
+Reinhart, 1999; Fratzscher and others, 2011; Reinhart and Rogoff, 2011; Gourinchas and 
+Obstfeld, 2012). Although they covered different sample periods and relied on different 
+definitions of crises, the similarity in the conclusion is quite clear: it is common for banking 
+crises to happen at the same time or precede currency and sovereign debt crises. This 
+provides a clear rationale for our emphasis on banking crises. 
+Figure 5. Sequencing of Crises 
+ 
+Source: Authors’ calculations. 
+ 
+Note: The figure is constructed by selecting banking crises episodes and plotting the 
+percentage of them that were followed, coincided, or were preceded by a sovereign or 
+currency crisis, with T denoting the start of the banking crisis.  
+ 
+V.   POLICY RESPONSE TO BANKING CRISES 
+To complement our crisis dating database, we collect information on policy responses 
+deployed during these episodes and directed towards containing and/or resolving a banking 
+crisis. While our focus is predominantly on financial sector policy interventions, we also look 
+at crude measures of monetary and fiscal policy to offer a broad perspective on policy 
+responses during banking crises.  
+A.   Financial Sector Interventions during Crises 
+Initially, a country’s policy response to bank distress typically includes the deployment of 
+liquidity support to the banking sector, particularly in response to bank runs. The provision of 
+extensive liquidity support during systemic banking crises is pervasive in our sample. We 
+measure liquidity support as the ratio of central bank claims on the financial sector to 
+
+=====P14
+ 13 
+deposits and foreign liabilities.13 We report two measures of liquidity support: the peak of 
+this ratio, labeled as peak liquidity support in Table 2 in the appendix, and the change 
+between the peak and the average of the ratio during the year before the start of the crisis, 
+labeled as liquidity support. The median peak liquidity support ratio reaches 20.2 percent, 
+with 100 out of 151 episodes recording a positive value of up to 28 percent. However, the 
+median peak liquidity at 12 percent for high-income countries is less than half of the  
+23 percent recorded for low-and middle-income countries. The second measure, liquidity 
+support, shows up with a median of 10.8 percent, with 95 out of 151 episodes exhibiting a 
+positive value of up to 16 percent. Again, the median value for high-income countries, at  
+6.4 percent, is less than half of the 14.8 percent corresponding to low and middle-income 
+countries. 
+While both high and low and middle-income countries have relied extensively on liquidity 
+support when hit by a crisis, Laeven and Valencia (2010), Claessens and others (2011), and 
+Stone and others (2011), have noted the wider array of instruments used by high-income 
+countries when experiencing a crisis, including through the coordinated deployment of 
+central bank swap facilities during the global financial crisis. These studies have also pointed 
+out that low and middle-income countries tend to rely on liquidity provision as a containment 
+tool for much longer than high-income countries, on average, before introducing bank 
+recapitalization and restructuring measures. Weaker institutions, including non-independent 
+central banks and regulators, in some low and middle-income countries particularly in the 
+1980s and 1990s, may have led to the prolonged reliance on liquidity support and a delayed 
+recognition of bank solvency problems. Bank recapitalization measures, such as the Trouble 
+Asset Relief Program (TARP) in the United States, were deployed much quicker during the 
+global financial crises, compared to episodes prior to the global financial crisis 
+(predominantly in low and middle-income countries). The more prolonged reliance on 
+liquidity support in low and middle-income economies may explain why it tended to be 
+higher in these episodes than in high-income countries.  
+During the early stages of banking crises, and often in combination with liquidity support, 
+governments have also resorted to limited or full guarantees on some or most bank liabilities, 
+to help stem bank runs and alleviate liquidity pressures on these entities. They typically buy 
+policymakers time to develop more comprehensive resolution and restructuring plans. 
+Laeven and Valencia (2012) examine the experience of 42 crisis episodes, of which 14 made 
+use of explicit guarantees on bank liabilities and find that these guarantees do help to reduce 
+liquidity pressures on banks. Altogether, we report in our database 34 crisis episodes where 
+blanket guarantees were announced, of which 19 cases corresponded to high-income 
+countries, mostly during the 2008 global financial crisis. Guarantees are often left in place for 
+many years and are only gradually removed. The blanket guarantees announced in Mexico in 
+                                                 
+13 We exclude domestic non-deposit liabilities from the denominator of this ratio because information on such 
+liabilities is not readily available on a gross basis. 
+=====P15
+ 14 
+1993 and in Malaysia in 1998 were fully removed only in 2003 and 2005, respectively. At 
+end-2016, European Union governments collectively still had 120 billion euros in 
+outstanding guarantees issued in support of the financial system, according to the European 
+Commission’s 2017 State Aid Scoreboard. While this amount represents a sharp decline from 
+its peak of 835 billion euros in 2009, it remains non-trivial. 
+In cases where liquidity pressures have been significant, countries have in some cases 
+resorted to administrative measures, suspending the convertibility of deposits into cash and 
+restricting foreign payments. These “deposit freezes” have often been preceded by bank 
+holidays—the temporary closure of banks—often by design as banks need some time to 
+adapt their IT systems and procedures to the new regime. However, bank holidays and 
+deposit freezes have been rarely used. We report in our database only 8 episodes were 
+deposit freezes were imposed. The most recent cases include Cyprus in 2013, Ukraine in 
+2014, and Greece in 2015. In Cyprus, restrictions to domestic payments were removed in 
+May 2014, while those on external payments remained in place until April 2015. For 
+Ukraine, cash withdrawals from domestic currency bank accounts were lifted in September 
+2016 and those from FX accounts in August 2017, although some restrictions on FX 
+transactions remained in place as of early 2018. Similarly, in Greece, the restrictions on 
+deposits have been gradually relaxed since their introduction in July 2015, but there were 
+restrictions still in place as of early 2018, including a monthly limit on cash withdrawals and 
+limits on cross-border bank transfers.  
+We report 6 bank holidays, with Cyprus and Greece being the only recent cases. In 5 of the 6 
+cases, the bank holiday was in place for a length between 4 and 8 days. The exception is 
+Greece where the bank holiday was in place for 21 days. In all the 6 reported instances, the 
+bank holiday was followed by a deposit freeze.  
+The above policies are intended to contain liquidity pressures. However, banks experiencing 
+significant drains in liquidity often see a deterioration in their capital position as they are 
+forced into asset disposals at fire sale prices to meet liquidity needs. Compounded by a 
+deterioration in asset quality as financially weakened borrowers fall delinquent on their 
+loans, additional measures are often needed to restore solvency of affected banks. These may 
+include private or public recapitalization of viable institutions, resolution of insolvent ones, 
+and even outright nationalization. The appropriateness and effectiveness of these tools in 
+situations of severe financial distress have been widely studied in the literature. There is 
+theoretical research showing that in those circumstances recapitalizing banks with public 
+money can increase welfare (e.g., Philippon and Schnabl, 2013; and Sandri and Valencia, 
+2013) and there is empirical evidence suggesting that recapitalizing banks with public money 
+can alleviate the real effects of banking crises (e.g., Homar and others, 2017; Giannetti and 
+Simonov, 2013; and Laeven and Valencia, 2013). Implementation, however, may take many 
+forms (Laeven and Valencia, 2008; Claessens and others, 2014). 
+=====P16
+ 15 
+Bank recapitalization is a tool that has been used in most crises we report in our database, 
+and it is also the most important component of direct fiscal costs from government 
+intervention in the financial sector. Government capital injections, encompassing often a 
+combination of preferred and common equity, have also been accompanied by conditions or 
+restrictions, for instance requiring board seats for government representatives, and limiting or 
+prohibiting dividend payments (Laeven and Valencia, 2008). These recapitalizations can 
+often lead governments to own a majority share of a bank’s capital, in which cases we 
+classify the intervention as a nationalization, together with outright nationalization cases. 
+Finally, we also report if the treasury or the central bank engaged in asset purchases to 
+support the banking system and whether an asset management company was established to 
+administer or resolve these assets.  
+Figure 6. Containment and Resolution Policies  
+ 
+   Source: Authors’ calculations. 
+The differences in financial policy mix to resolve banking crises between high income and 
+low-and middle-income economies is shown in Figure 6. The figure makes it clear that 
+countries of both income groups resort broadly to the same types of policies to resolve 
+systemic banking crises, except for guarantees. Significant guarantees on bank liabilities are 
+more common among high-income countries, arguably because of generally better 
+institutions or fiscal space that make the guarantees more credible. However, as noted in 
+Claessens and others (2011), guarantees during the global financial crises were on average 
+less comprehensive (i.e., more targeted) than in countries of lower income levels. In those 
+countries, governments tended to announce blanket guarantees of banks’ liabilities. In many 
+cases, limited protection of deposits was introduced after a banking crisis (Laeven and  
+  
+
+=====P17
+ 16 
+Valencia, 2013). The absence of these schemes in many episodes in low and middle-income 
+countries may have prompted policymakers to announce comprehensive guarantees of bank 
+liabilities.  
+B.   Macro Policies 
+In addition to using financial sector intervention measures to resolve banking crises, 
+policymakers often use monetary and fiscal policy to mitigate their economic consequences. 
+But as we report in this section, there is a difference between the use of these tools among 
+high-income and low- and middle-income countries.  
+Figure 7. Short-term Interest Rates and Fiscal Balances around Banking Crises 
+  
+   Source: World Economic Outlook, IMF, IFS, and authors’ calculations. 
+We trace the median evolution of short-term interest rates around systemic banking crises to 
+gauge whether countries tended to ease or tighten monetary policy. Figure 7 shows that in 
+high-income countries, short-term interest rates declined to a median level very close to zero 
+in the year after the start of the crisis, from a median of about 5 percent. In contrast, the 
+median short-term interest rate increases in low and middle-income countries, reflecting the 
+often-limited space to conduct countercyclical monetary policy at times of heightened 
+financial distress in these countries.14 Concerns about sharp currency depreciations and the 
+resulting impact on private balance sheets exposed to exchange rate risk often force these 
+countries to raise interest rates, ultimately leading also to sharper deterioration in banks’ asset 
+quality.  
+A similar outcome emerges when comparing the evolution of primary fiscal balances. While 
+the median primary balance tends to deteriorate sharply in high-income countries, it 
+                                                 
+14 Laeven and Valencia (2013) report also the increase in reserve money across episodes, which captures also 
+the use of unconventional monetary policy, to also conclude the greater use of monetary policy in high-income 
+countries.  
+
+=====P18
+ 17 
+improves in low and middle-income countries.  The latter group is forced to adopt a 
+procyclical fiscal policy as these countries tend to face limited financing options in those 
+circumstances. 
+VI.   CRISIS OUTCOMES 
+We collect and report data on the following outcomes for banking crises: i) the direct fiscal 
+costs, measured as fiscal outlays linked to government intervention policies in the banking 
+system; ii) a broader measure of fiscal costs, determined by the increase in public debt; iii) 
+peak nonperforming loans (NPLs); iv) crisis duration, measured in number of years between 
+the start and end of the crisis; and v) output losses.  
+A.   Fiscal Costs of Banking Crises 
+We measure fiscal costs of banking crises as the sum of all fiscal outlays directly linked to 
+government interventions to stabilize the banking system since the start of the crisis. These 
+interventions include capital injections in financial institutions, operating costs of agencies or 
+entities such as asset management companies, exercised public guarantees, and any other 
+fiscal cost directly attributable to the rescue of financial institutions.  
+In reporting the fiscal costs of a banking crisis episode, we normalize the outlays by the 
+nominal gross domestic product of the year in which they are incurred and sum them up. We 
+also report these fiscal costs in percent of financial system assets, where the latter are 
+measured as of the year before the start of the banking crisis. In reporting fiscal costs, we do 
+not include government guarantees of bank liabilities or assets because they do not represent 
+an outlay,15 although they are critical if one wanted to measure the total ex-ante risk taken by 
+the public sector during the early stages of a banking crisis. Our ex-post analysis focuses on 
+the actual fiscal costs of a banking crisis episode.16 Data on fiscal costs are collected from 
+official country publications, supranational agencies, and IMF staff reports.17 
+  
+                                                 
+15 Our calculation of fiscal costs also excludes deferred tax assets (i.e. for Spain, these deferred tax assets 
+amounted to €70 billion as of end-2016 according to IMF, 2017).  
+16 The fiscal costs are reported in percent of GDP where nominal outlays have been converted in domestic 
+currency and are divided by the nominal GDP of the corresponding year when the outlays took place.  
+17 The fiscal costs and recoveries for this paper are taken from Laeven and Valencia (2013). For episodes 
+starting in 2007 or later, fiscal costs and recoveries have been updated using national official publications. For 
+European countries, whenever national sources did not publish information on these costs, we took data from 
+the European commission scoreboard and Eurostat (http://ec.europa.eu/eurostat/web/government-finance-
+statistics/excessive-deficit/supplemtary-tables-financial-crisis). 
+=====P19
+ 18 
+Figure 8. Gross and Net Fiscal Costs of Banking Crises 
+ 
+ 
+Source: Authors’ calculations. 
+ 
+Note: Fiscal costs corresponds to government outlays directly linked to policies to stabilize the 
+financial system. Net fiscal costs refer to fiscal costs minus recoveries whenever there were 
+available data on them. Samples differ as recoveries are collected for a subset of episodes. 
+We collect recoveries of government outlays for a subset of episodes using the same data 
+sources from which we collect fiscal costs. Data on recoveries allow us to report the net 
+fiscal cost (i.e., outlays minus recoveries) of a banking crisis episode. We define recoveries 
+as proceeds from sales of financial assets—acquired to resolve a banking crisis—revenues 
+from fees on guarantees, dividends, interest, and any other cash inflow for the government 
+that can be directly attributable to unwinding financial sector intervention measures. Our 
+definition of recoveries means that we exclude unrealized capital gains on assets that are still 
+
+=====P20
+ 19 
+on the government balance sheet, which implies that over a longer horizon, recoveries can 
+exceed what we report in our database.18 
+The histograms in Figure 8 show substantial variation in the fiscal costs of systemic banking 
+crises episodes, both in high-income and low and middle-income economies. Still, the 
+median cost for crises in high-income countries is 6.7 percent of GDP and 10 percent of GDP 
+for low and middle-income countries. The difference in fiscal costs between the two groups 
+of countries increases to slightly above 6 percentage points of GDP after subtracting 
+recoveries: The median net fiscal cost reaches 3.3 percent of GDP for high-income countries 
+and 9.6 percent of GDP for low- and middle-income countries. 
+ 
+Figure 9. Fiscal Costs in Percent of Financial System Assets 
+ 
+Source: Authors’ calculations. 
+The difference in fiscal costs between the two groups of countries becomes even more 
+pronounced when fiscal costs are measured relative to the size of the financial system, as 
+shown in Figure 9.19 Relative to the size of financial systems, banking crises appear to have 
+                                                 
+18 A case in point is Iceland, where we report net fiscal costs for 3.3 percent of GDP, which excludes bank 
+equity held by the government valued at approximately 12 percent of GDP in 2016. This exclusion explains the 
+bulk of the difference between our estimates of the net fiscal costs and the -9 percent of GDP reported in the 
+2016 IMF Article IV Staff Report. 
+19 For most countries, the financial system assets data are taken from the World Bank’s Financial Structure 
+database and consist of domestic claims on the private sector by banks and non-bank financial institutions. In 
+the case of European Union countries, for which cross-border claims can be sizeable, we instead use data from 
+the European Central Bank (ECB) on the consolidated assets of financial institutions (excluding the Eurosystem 
+and other national central banks), after netting out the aggregated balance sheet positions between financial 
+institutions. Moreover, in the case of Iceland where cross-border claims are also sizable we use the assets of 
+monetary and other financial institutions obtained from its national central bank. 
+ 
+
+=====P21
+ 20 
+been much costlier, in terms of direct fiscal costs, in low- to middle-income economies. But 
+these differences may also be the outcome of the greater reliance on macroeconomic policy 
+tools, as noted in the previous section, which reduces the burden on financial sector policies 
+to resolve the crisis.20 
+Figure 10. Increases in Public Debt around Banking Crises 
+ 
+Source: Authors’ calculations. 
+ 
+The use of fiscal space leads also to larger increases in public debt—our broader measure of 
+fiscal costs of banking crises—in high-income countries compared to low and middle-income 
+countries. Discretionary fiscal policy and automatic stabilizers affect directly this broader 
+measure of fiscal costs of crises. These factors play a much smaller role in driving up public 
+debt after a banking crisis in low- and middle-income countries. The median increase in 
+public debt, measured over T-1, T+3, where T is the starting year of the banking crisis, 
+reaches 21.1 percent of GDP in high-income countries compared to 16.4 percent of GDP in 
+low- and middle-income countries (Figure 10).21 
+                                                 
+20 A handful of episodes appear with fiscal costs of more than 100 percent of financial system assets. This 
+anomaly is the outcome of hyperinflation, since we take financial system assets as of the year preceding the 
+banking crisis and fiscal outlays as of the year when they are incurred.  
+21 We approximate the increase in public debt by computing the difference between pre- and post-crisis debt 
+projections. For crises starting in 2007 or later, we use as pre-crisis projected debt increase, between T-1 and 
+T+3, reported in the World Economic Outlook (WEO) issued in the fall of the year before the crisis start date 
+(T) while the post-crisis actual debt increase, again over T-1 and T+3, from the Fall 2017 WEO. The ratios to 
+GDP are computing using the latest GDP series. For past episodes, we simply report the actual change in debt. 
+
+=====P22
+ 21 
+B.   Peak Nonperforming Loans 
+The sharper deterioration in asset quality of banks in low- and middle-income countries can 
+be noted by looking at the peak nonperforming loans (NPLs) across crisis episodes. Figure 
+11 shows the distribution of peak NPLs in the two groups of countries. In both income 
+groups there is quite a bit of dispersion in the distribution, although in about 70 percent of 
+crises in high-income countries, NPLs never surpassed 20 percent of total loans. The median 
+peak NPL among crises in countries within this income bracket slightly exceeds 11 percent. 
+In contrast, the median peak NPL reaches 30 percent among crises episodes in low and 
+middle-income economies. While cross-country differences in the definition of NPLs makes 
+it difficult to directly compare levels of NPLs across countries, the systematic and sizable 
+difference between the two groups is unlikely to be entirely driven by differences in 
+definitions. 
+ 
+Figure 11. Peak NPLs in Banking Crises Episodes 
+ 
+Source: Authors’ calculations. 
+C.   Systemic Banking Crisis Duration 
+Following the same definition as in Laeven and Valencia (2013), we also report end dates for 
+each crisis episode, defined as the year before both real GDP growth and real credit growth 
+are positive for at least two consecutive years.22 The rationale for identifying the end of a 
+                                                 
+22 In computing end dates, we use bank credit to the private sector (in national currency) from IFS (line 22d). 
+Bank credit series are deflated using CPI from WEO. GDP in constant prices (in national currency) also comes 
+from the WEO. When credit data are not available, the end date is determined as the first year before GDP 
+growth is positive for at least two years. When the definition is met in the first year of the crisis, then we set the 
+crisis end year equal to the starting year. 
+
+=====P23
+ 22 
+banking crisis through this approach hinges on the notion that a deterioration in bank 
+solvency can disrupt the supply of credit (e.g. Bernanke and Gertler, 1987; Van Den Heuvel, 
+2006; Valencia, 2014; Abbasi and others, 2016) and these disruptions to the supply of credit 
+can have real effects (e.g. Peek and Rosengren, 1997; Ashcraft, 2005; Kroszner and others, 
+2007; Dell’Ariccia and others, 2008; and Alfaro and others, 2017). Therefore, we look for 
+evidence of a reversal in the negative effects of a banking crisis. 
+Figure 12. Banking Crises Duration 
+  
+Source: Authors’ calculations. 
+In all cases, we truncate the duration of a crisis at five years, starting from the first year of the 
+crisis. The rationale for this truncation is twofold: first, our metric is based on credit stocks 
+not flows (new lending), and stocks are affected by write-offs and restructurings. Therefore, a 
+potential measurement error in the recovery of new lending could bias upwards the duration 
+of the crisis episode. Second, as the length of time increases, our simple metric may start 
+picking up the impact of other shocks. Therefore, whenever we report a crisis lasting five 
+years, it should be read as five years or more. Figure 12 shows the distribution of the 
+estimated duration of banking crisis episodes. The chart on the left shows that, according to 
+our definition of end dates, about two-thirds of crises ended in less than five years. But these 
+aggregate statistics mask some important differences among countries of different income 
+levels. More than half of the episodes we record in high-income countries experienced crises 
+that were quite persistent, lasting five years or more. In contrast, most crises in low and 
+middle-income countries lasted four years or less. 
+Crisis severity may be an important factor explaining these differences in duration as many 
+crises in high-income countries corresponded to the global financial crisis. At the same time, 
+larger financial systems and institutions in these countries adds a layer of complexity to the 
+resolution of the crisis, which could help explain the longer duration of crises. Finally, the 
+ability of high-income countries to rely also on monetary and fiscal policy to mitigate the real 
+effects of banking crises may also discourage more active bank restructuring which could 
+ultimately prolong the duration of a crisis (Claessens et al., 2011). 
+
+=====P24
+ 23 
+D.   Output Losses 
+We report output losses associated with banking crises episodes, computed as deviations of 
+actual GDP from its trend. 23 The output losses are reported in cumulative terms over [T, 
+T+3], with T denoting the starting year of the crisis, and expressed in percent of one year’s 
+trend GDP. It is important to note that these losses should not be interpreted as solely 
+stemming from banking crises, as they may include the impact of other shocks happening 
+around crises. They should instead be read as what happens to output in the aftermath of a 
+banking crisis. While admittedly the level of output losses is sensitive to how the trend is 
+calculated, Laeven and Valencia (2013) showed that the ranking of crises is robust to using 
+alternative sample periods when computing the trend. Therefore, the metric is primarily 
+adequate to capture the relative size and heterogeneity of output losses across crises. 
+ 
+Figure 13. Output Losses around Banking Crises 
+ 
+Source: Authors’ calculations. 
+Figure 13 shows that the output losses in high-income countries tend to be much larger than 
+those in low and middle-income countries. As with the earlier result on crisis duration, the 
+larger output losses in high-income countries could be explained by the presence of larger 
+and deeper financial systems, whose disruption has stronger effects on the real economy. 
+ 
+                                                 
+23 Output losses are computed as the cumulative sum of the differences between actual and trend real GDP over 
+the period [T, T+3], expressed as a percentage of trend real GDP, with T the starting year of the crisis. Trend 
+real GDP is computed by applying an HP filter (with λ=100) to the log of real GDP series over [T-20, T-1] or 
+the longest available series as long it includes at least 4 pre-crisis observations. Real GDP is extrapolated using 
+the trend growth rate over the same period. Real GDP data come from the fall 2017 WEO. 
+ 
+
+=====P25
+ 24 
+The evolution of output in the aftermath of banking crises suggest that these episodes tend to 
+be followed by a very persistent decline in the level of real output, as highlighted in Figure 
+14. This stylized fact is consistent with new and old empirical work assessing the real 
+consequences of banking crises which has highlighted the persistent real effects of these 
+episodes (see for instance Cerra and Saxena, 2008, 2017; Abiad and others, 2014; Jorda and 
+others, 2015; and Romer and Romer, 2017, 2018).24 However, this persistence in the decline 
+of output in the aftermath of banking crises appears to be much more pronounced, on 
+average, in high-income countries than in low- and middle-income countries, as suggested by 
+Figure 14.25 Aslam and others (forthcoming) look at the recovery in the aftermath of banking 
+crises and find that output remains below trend for longer in advanced economies than in 
+emerging economies, consistent with the simple stylized fact presented here.  
+ Figure 14. Output and Export Volume Paths around Banking Crises 
+  
+Source: Authors’ calculations.  
+In addition to differences in the size of financial systems between high- and low and middle-
+income countries, one additional element that could explain the difference in output paths in 
+the aftermath of crises is the evolution of export volumes. Consistent with the slowdown in 
+trade volumes documented in IMF (2016), Figure 14 shows a sluggish evolution in export 
+volumes in the aftermath of banking crises in high-income countries, comprising mostly 
+episodes during the global financial crisis. In contrast, the median path among crisis episodes 
+in low-and middle-income countries does not show a slowdown. Countries in this income  
+  
+                                                 
+24 Cerra and Saxena (2017) argue that, on average, all types of recessions, not just those associated with 
+financial and political crises, lead to permanent output losses.  
+25 This conclusion is different than the one in Mishkin (1996), written prior to the global financial crisis which 
+affected mostly advanced countries with an intensity and global proportion not seen since the Great Depression. 
+
+=====P26
+ 25 
+group, comprising episodes mostly prior to the global financial crisis, often benefited from a 
+boost from external demand that resulted in a faster recovery in the aftermath of the banking 
+crisis. 
+VII.   CONCLUSIONS 
+A decade since the start of the global financial crisis has allowed sufficient time for some 
+crisis episodes to end. However, many countries have been left with important legacy issues 
+in terms of permanent output losses, elevated levels of public debt, policy support still to be 
+fully unwound, and significant government ownership of financial assets. While these crisis 
+episodes have enriched our experience, much remains to be learned regarding how to predict 
+banking crises, how to prevent them, and how best to resolve them. To make progress in such 
+an ambitious endeavor, a key prerequisite is the availability of high-quality data on banking 
+crises. To help in this direction, this paper provides a comprehensive database on systemic 
+banking crises during the period 1970–2017, reflecting updates to outcomes from banking 
+crises reported in our earlier releases (Laeven and Valencia, 2008, 2010, and 2013) and new 
+events that occurred since then.  
+It is our hope that these data will assist academics and policymakers in improving our 
+understanding of the causes and consequences of banking crises, and how best to resolve 
+them. While only a few countries have experienced a crisis in recent years, this period may 
+just be the lull before the storm. 
+  
+=====P27
+ 26 
+References 
+ 
+Abbassi, Puriya, Raj Iyer, and Francesc R. Tous, 2016, “Securities Trading by Banks and 
+Credit Supply: Micro-Evidence,” Journal of Financial Economics, Vol. 121(3), 569–
+594. 
+ 
+Abiad, Abdul, Ravi Balakrishnan, Petya Koeva Brooks, Daniel Leigh, and Irina Tytell, 2014, 
+“What’s the Damage? Medium-Term Output Dynamics after Financial Crises, In: 
+Claessens, Stijn, M. Ayhan Kose, Luc Laeven, and Fabian Valencia (eds.). Financial 
+Crises: Causes, Consequences, and Policy Responses, International Monetary Fund, 
+Washington D.C. 
+ 
+Alfaro, Laura, Manuel Garcia-Santana, and Enrique Moral-Benito, 2017, “Credit Supply 
+Shocks, Network Effects, and the Real Economy,” Harvard Business School 
+manuscript. 
+ 
+Aslam, Aqib, Patrick Blagrave, Eugenio Cerutti, Sung Eun Jung, and Carolina Osorio-
+Buitron, forthcoming, “Recessions and Recoveries: Are EMs different from AEs?” 
+IMF Working Paper. 
+ 
+Ashcraft, Adam, 2005, “Are Banks Really Special? New Evidence from the FDIC-Induced 
+ Failure of Healthy Banks,” American Economic Review, Vol. 95, pp. 1712–1730. 
+Baron, Matthew, Emil Verner, and Wei Xiong, 2018, “Identifying Banking Crises,” 
+Princeton University manuscript. 
+ 
+Beim, David and Charles Calomiris, 2001, “Emerging Financial Markets.” Appendix to 
+Chapter 1. New York: McGraw-Hill/Irwin Publishers. 
+ 
+Bernanke, Ben and Mark Gertler, 1987, “Banking and Macroeconomic Equilibrium,” In: 
+New Approaches to Monetary Economics, ed. W. Barnett and K. Singleton, New 
+York: Cambridge University Press. 
+ 
+Caprio, Gerard, and Daniela Klingebiel, 1996, “Bank Insolvencies: Cross-Country 
+Experience,” Policy Research Working Paper No. 1620 (Washington: World Bank). 
+ 
+Cerra, Valerie and Sweta Saxena, 2008, “Growth Dynamics: The Myth of Economic 
+Recovery,” American Economic Review, Vol. 98(1), pp. 439–57. 
+ 
+Cerra, Valerie and Sweta Saxena, 2017, “Booms, Crises, and Recoveries: A New Paradigm 
+of the Business Cycle and its Policy Implications,” IMF Working Paper 2017/250. 
+ 
+Chaudron, Raymond and Jakob de Haan, 2014, “Dating banking crises using incidence and 
+size of bank failures: Four crises reconsidered,” Journal of Financial Stability, Vol. 
+15, pp. 63-75. 
+ 
+=====P28
+ 27 
+Claessens, Stijn, Ceyla Pazarbasioglu, Luc Laeven, Marc Dobler, Fabian Valencia, Oana 
+Nedelescu, Katharine Seal, 2011, “Crisis Management and Resolution: Early Lessons 
+from the Financial Crisis,” IMF Staff Discussion Note No. 11/05. 
+ 
+Claessens, Stijn, M. Ayhan Kose, Luc Laeven, and Fabian Valencia (eds.), 2014, Financial 
+Crises: Causes, Consequences, and Policy Responses, International Monetary Fund, 
+Washington D.C. 
+ 
+Dell’Ariccia, Giovanni, Enrica Detragiache, and Raghuram Rajan, 2008, “The Real Effects 
+of Banking Crises,” Journal of Financial Intermediation, Vol. 17, pp. 89-112. 
+ 
+Dell’Ariccia, Giovanni, Maria Soledad Martinez Peria, Deniz O Igan, Elsie Addo Awadzi, 
+Marc Dobler, and Damiano Sandri, 2018, “Trade-offs in Bank Resolution, IMF Staff 
+Discussion note 18/02.  
+ 
+Demirgüç-Kunt, Asli and Enrica Detragiache, 1998, “The Determinants of Banking Crises: 
+Evidence from Developed and Developing Countries”, IMF Staff Papers, Vol. 45 (1).  
+ 
+Fratzscher, Marcel, Arnaud Mehl, and Isabel Vansteenkiste, 2011, “130 Years of Fiscal 
+Vulnerabilities and Currency Crashes in Advanced Economies,” IMF Economic 
+Review, Vol. 59, pp. 683–716.  
+ 
+Frankel, Jeffrey and Andrew Rose, 1996, “Currency Crashes in Emerging Markets: An 
+Empirical Treatment,” Journal of International Economics, Vol. 41, pp. 351–366. 
+ 
+Giannetti, Mariassunta and Andrei Simonov, 2013, “On the Real Effects of Bank Bailouts: 
+Micro Evidence from Japan,” American Economic Journal: Macroeconomics, Vol. 5, 
+pp.135–167. 
+ 
+Gourinchas, Pierre-Olivier and Maurice Obstfeld, 2012, “Stories of the Twentieth Century 
+for the Twenty-First,” American Economic Journal: Macroeconomics, Vol. 4(1), pp 
+226–65. 
+ 
+Homar, Timotej, and Sweder J.G. van Wijnbergen, 2017, “Bank Recapitalization and 
+Economic Recovery after Financial Crises,” Journal of Financial Intermediation, 
+Vol. 32, pp. 16–28. 
+ 
+Honohan, Patrick, and Luc Laeven, eds., 2005, Systemic Financial Crises: Containment and 
+Resolution (Cambridge, UK: Cambridge University Press. 
+ 
+IMF, 2014, “From Banking to Sovereign Stress: Implications for Public Debt,” IMF Board 
+paper. 
+ 
+IMF, 2016, “Global Trade: What’s behind the Slowdown?” IMF World Economic Outlook, 
+Chapter 2, October. 
+ 
+=====P29
+ 28 
+IMF, 2017, “Spain—Publication of Financial Sector Assessment Program Documentation— 
+Technical Note on Impaired Assets and Nonperforming Loans,” IMF country report 
+No. 17/343. 
+ 
+Jorda, Oscar, Moritz Schularick, and Alan M. Taylor, 2015, “Leveraged Bubbles,” Journal of 
+Monetary Economics, Vol. 76, pp. S1–S20. 
+ 
+Kaminsky, Graciela and Carmen Reinhart, 1999, “The Twin Crises: The Causes of Banking 
+and Balance-of-Payments Problems,” American Economic Review, Vol. 89, pp. 473–
+500. 
+ 
+Kohlscheen, Emanuel, Fernando Avalos, and Andreas Schrimpf, 2017, “When the Walk Is 
+Not Random: Commodity Prices and Exchange Rates, ” International Journal of 
+Central Banking, Vol. 13(2), pp. 121–158. 
+ 
+Kroszner, Randall, Luc Laeven, and Daniela Klingebiel, 2007, “Banking Crises, Financial 
+Dependence, and Growth,” Journal of Financial Economics, Vol. 84, pp. 187–228. 
+ 
+Laeven, Luc and Fabian Valencia, 2008, “Systemic Banking Crises: A New Database,” IMF 
+Working Paper No. 08/224, (Washington: International Monetary Fund). 
+ 
+Laeven, Luc and Fabian Valencia, 2010, “Resolution of Banking Crises: The Good, the Bad, 
+and the Ugly,” IMF Working Paper No. 10/44, (Washington: International Monetary 
+Fund). 
+ 
+Laeven, Luc and Fabian Valencia, 2012, “The Use of Blanket Guarantees in Banking 
+Crises”, Journal of International Money and Finance, Vol. 1(5), pp. 1220–248. 
+ 
+Laeven, Luc, and Fabian Valencia, 2013a, “Systemic Banking Crises Database,” IMF 
+Economic Review, Vol. 61 (2), pp. 225–270. 
+ 
+Laeven, Luc and Fabian Valencia, 2013b, “The Real Effects of Financial Sector 
+Interventions during Crises,” Journal of Money, Credit, and Banking, Vol. 45(1), pp. 
+147–177. 
+ 
+Mishkin, Frederic, 1996, “Understanding Financial Crises: A Developing Country 
+Perspective”, NBER Working Paper No. 5600. 
+ 
+Peek, Joe, and Erik Rosengren, 1997, “The International Transmission of Financial Shocks: 
+The Case of Japan,” American Economic Review, Vol. 87(4), pp. 495–505. 
+ 
+Philippon, Thomas and Philipp Schnabl, 2013, “Efficient Recapitalization,” Journal of 
+Finance. 
+ 
+Reinhart, Carmen and Kenneth Rogoff, 2009, This Time is Different: Eight Centuries of 
+Financial Folly, Princeton University Press. 
+=====P30
+ 29 
+ 
+Reinhart, Carmen and Kenneth Rogoff, 2011, “From Financial Crash to Debt Crisis,” 
+American Economic Review, Vol. 101, pp. 1676–1706. 
+ 
+Romer, David and Christina Romer, 2017, “New Evidence on the Aftermath of Financial 
+Crises in Advanced Countries,” American Economic Review, Vol. 107(10), pp. 3072–
+3118. 
+ 
+Romer, David and Christina Romer, 2018, “Phillips Lecture – Why Some Times are 
+Different: Macroeconomic Policy and the Aftermath of Financial Crises,” 
+Economica, Vol. 85, pp. 1–40. 
+ 
+Sandri, Damiano and Fabian Valencia, 2013, “Financial Crises and Recapitalizations,” 
+Journal of Money, Credit, and Banking, Vol 45(S2), pp. 59–86. 
+ 
+Schularick, Moritz, and Alan M. Taylor, 2012, “Credit Booms Gone Bust: Monetary Policy, 
+Leverage Cycles, and Financial Crises, 1870-2008,” American Economic Review, 
+Vol. 102(2), pp. 1029–1061. 
+ 
+Stone, M., K. Fujita, and K. Ishi, 2011, “Should Unconventional Balance Sheet Policies Be 
+Added to the Central Bank Toolkit?” IMF Working Paper 2011/145. 
+ 
+Sturzenegger, Federico and Jeromin Zettelmeyer, 2006, Debt Defaults and Lessons from a 
+Decade of Crises. Cambridge: MIT Press. 
+ 
+Valencia, Fabian, 2014, “Banks’ Precautionary Capital and Credit Crunches,” 
+Macroeconomic Dynamics, Vol. 18(8), pp. 1726–1750.  
+ 
+Van Den Heuvel, Skander, 2006, “The Bank Capital Channel of Monetary Policy,” 
+University of Pennsylvania unpublished manuscript. 
+ 
+World Bank, 2002, Global Development Finance. Appendix on Commercial Debt 
+Restructuring. Washington, D.C.: World Bank. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+=====P31
+ 30 
+Appendix 
+ 
+Table 1. Crisis Dates 
+Country Banking Currency Sovereign   Sovereign (Restructuring) 
+Albania 1994 1997 1990 1992 
+     
+Algeria 1990 1988, 1994   
+Angola  1991, 1996, 2015 1988 1992 
+Argentina 
+1980, 1989, 1995, 
+2001 1975, 1981, 1987, 2002, 2013 
+1982, 2001, 
+2014 
+1993, 2005, 
+2016 
+Armenia 1994    
+Australia     
+Austria 2008    
+Azerbaijan 1995 2015   
+Bangladesh 1987 1976   
+Barbados     
+Belarus 1995 1997, 2009, 2015   
+Belgium 2008    
+Belize   2007,2012,2017 2007,2013,2017 
+Benin 1988 1994   
+Bhutan                 
+Bolivia 1986, 1994 1973, 1981 1980 1992 
+Bosnia and 
+Herzegovina 1992 
+Botswana 1984 
+Brazil 1990, 1994 1976, 1982, 1987, 1992, 1999, 2015 1983 1994 
+Brunei     
+Bulgaria 1996 1996 1990 1994 
+Burkina Faso 1990 1994   
+Burundi 1994    
+Cambodia              1971, 1992   
+Cameroon 1987, 1995 1994 1989 1992 
+Canada     
+Cape Verde 1993    
+Central African 
+Rep. 1976, 1995 1994   
+Chad 1983, 1992 1994   
+Chile 1976, 1981 1972, 1982 1983 1990 
+China, P.R. 1998    
+Colombia 1982, 1998 1985   
+Comoros               1994   
+Congo, Dem. Rep. 
+of 1983, 1991, 1994 
+1976, 1983, 1989, 1994, 1999, 
+2009, 2016 1976 1989 
+Congo, Rep. of 1992 1994 1986 1992 
+Costa Rica 1987, 1994 1981, 1991 1981 1990 
+Côte d’Ivoire 1988 1994 
+1984, 2001, 
+2010 1997, 2010 
+Croatia 1998    
+Czech Republic 1996    
+Cyprus 2011  2013 2013 
+Denmark 2008    
+Djibouti 1991    
+=====P32
+ 31 
+Country Banking Currency Sovereign   Sovereign (Restructuring) 
+Dominica   2002 2004 
+Dominican 
+Republic 2003 1985, 1990, 2003 1982, 2003 1994, 2005 
+Ecuador 1982, 1998 1982, 1999 
+1982, 1999, 
+2008 
+1995, 2000, 
+2009 
+Egypt 1980 1979, 1990, 2016 1984 1992 
+El Salvador 1989 1986   
+Equatorial Guinea 1983 1980, 1994   
+Eritrea 1993    
+Estonia 1992 1992   
+Ethiopia              1993   
+Fiji                  1998   
+Finland 1991 1993   
+France 2008    
+Gabon  1994 1986, 2002 1994 
+Gambia, The  1985, 2003 1986 1988 
+Georgia 1991 1992, 1999   
+Germany 2008    
+Ghana 1982 1978, 1983, 1993, 2000, 2009, 2014   
+Greece 2008 1983 2012 2012 
+Grenada   2004 2005, 2015 
+Guatemala  1986   
+Guinea 1985, 1993 1982, 2005 1985 1992 
+Guinea-Bissau 1995, 2014 1980, 1994   
+Guyana               1993 1987 1982 1992 
+Haiti          1994 1992, 2003 
+Honduras          1990 1981 1992 
+China, P.R.: Hong 
+Kong     
+Hungary 1991, 2008    
+Iceland 2008 1975, 1981, 1989, 2008   
+India 1993    
+Indonesia 1997 1979, 1998 1999 2002 
+Iran, I.R. of  1985, 1993, 2000, 2013 1992 1994 
+Ireland 2008    
+Israel 1983 1975, 1980, 1985   
+Italy 2008 1981   
+Jamaica 1996 1978, 1983, 1991 1978, 2010 
+1990, 2010, 
+2013 
+Japan 1997    
+Jordan 1989 1989 1989 1993 
+Kazakhstan      2008 1999, 2015   
+Kenya 1985, 1992 1993   
+Korea 1997 1998   
+Kuwait 1982    
+Kyrgyz Republic    1995 1997   
+Lao People’s Dem. 
+Rep.  1972, 1978, 1986, 1997   
+Latvia 1995, 2008 1992   
+Lebanon 1990 1984, 1990   
+Lesotho  1985, 2015   
+Liberia 1991  1980  
+Libya          2002   
+=====P33
+ 32 
+Country Banking Currency Sovereign   Sovereign (Restructuring) 
+Lithuania 1995 1992   
+Luxembourg 2008    
+Macedonia 1993    
+Madagascar 1988 1984, 1994, 2004 1981 1992 
+Malawi  1994, 2012 1982 1988 
+Malaysia 1997 1998   
+Maldives        1975   
+Mali 1987 1994   
+Mauritania 1984 1993   
+Mauritius     
+Mexico 1981, 1994 1977, 1982, 1995 1982 1990 
+Moldova        2014 1999 2002 2002 
+Mongolia       2008 1990, 1997   
+Morocco 1980 1981 1983 1990 
+Mozambique 1987 1987, 2015 1984 1991 
+Myanmar  1975, 1990, 1996, 2001,2007, 2012   
+Namibia         1984, 2015   
+Nepal 1988 1984, 1992   
+Netherlands 2008    
+New Caledonia  1981   
+New Zealand  1984   
+Nicaragua 1990, 2000 1979, 1985, 1990 1980 1995 
+Niger 1983 1994 1983 1991 
+Nigeria 1991, 2009 1983, 1989, 1997, 2016 1983 1992 
+Norway 1991 
+Pakistan 1972 
+Panama 1988  1983 1996 
+Papua New Guinea  1995   
+Paraguay 1995 1984, 1989, 2002 1982 1992 
+Peru 1983 1976, 1981, 1988 1978 1996 
+Philippines 1983, 1997 1983, 1998 1983 1992 
+Poland 1992  1981 1994 
+Portugal 2008 1983   
+Romania 1998 1996 1982 1987 
+Russia 1998, 2008 1998, 2014 1998 2000 
+Rwanda  1991   
+St. Kitts and Nevis    2012 
+São Tomé and 
+Principe 1992 1987, 1992, 1997   
+Senegal 1988 1994 1981 1996 
+Serbia, Republic of  2000   
+Seychelles  2008 2008 2009 
+Sierra Leone 1990 1983, 1989, 1998 1977 1995 
+Singapore     
+Slovak Republic 1998    
+Slovenia 1992, 2008    
+South Africa  1984, 2015 1985 1993 
+South Sudan  2015   
+Spain 1977, 2008 1983   
+Sri Lanka 1989 1978   
+Sudan  1981, 1988, 1993, 2012 1979 1985 
+Suriname  1990, 1995, 2001, 2016   
+=====P34
+ 33 
+Country Banking Currency Sovereign   Sovereign (Restructuring) 
+Swaziland 1995 1985, 2015   
+Sweden 1991, 2008 1993   
+Syrian Arab 
+Republic  1988   
+Switzerland 2008    
+Tajikistan  1999, 2015   
+Tanzania 1987 1985, 1990 1984 1992 
+Thailand 1983, 1997 1998   
+Togo 1993 1994 1979 1997 
+Trinidad and 
+Tobago  1986 1989 1989 
+Tunisia 1991    
+Turkey 1982, 2000 1978, 1984, 1991, 1996, 2001 1978 1982 
+Turkmenistan  2008   
+Uganda 1994 1980, 1988 1981 1993 
+Ukraine 1998, 2008, 2014 1998, 2009, 2014 1998, 2015 1999, 2015  
+United Kingdom 2007    
+United States 1988, 2007    
+Uruguay 1981, 2002 1972, 1983, 1990, 2002 1983, 2002 1991, 2003 
+Uzbekistan  2000   
+Venezuela 1994 1984, 1989, 1994, 2002, 2010 1982, 2017 1990 
+Vietnam 1997 1972, 1981, 1987 1985 1997 
+Yemen 1996 1985, 1995   
+Yugoslavia, SFR   1983 1988 
+Zambia 1995 1983, 1989, 1996, 2009, 2015 1983 1994 
+Zimbabwe 1995 1983, 1991, 1998, 2003     
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  
+=====P35
+ 34 
+Table 2. Banking Crises Resolution and Outcomes 
+Country Crisis Dates 
+ 
+Output 
+Loss 1/ 
+ 
+Fiscal Costs 2/ 
+ 
+Liquidity Provision 
+ 
+Peak 
+NPLs 4/ 
+Increase 
+in Public 
+Debt 5/ 
+ Start End 
+ 
+% of 
+trend 
+GDP 
+ 
+ 
+% of 
+GDP 
+Net, 
+% of 
+GDP 
+% of 
+Financial 
+Sector 
+Assets 
+ 
+Peak3/ Liquidity Support 3/ 
+ 
+  
+Albania 1994 1994 
+ 
+… 
+ 
+... ... ... 
+ 
+7.6 ... 
+ 
+26.8 ... 
+Algeria 1990 1994 7 /  41.4  ... ... ...  37.6 29.9  30.0 19.1 
+Argentina 1980 1982 6 /  58.2  55.1 55.1 213.9  64.6 62.2  9.0 33.1 
+Argentina 1989 1991  12.6  6.0 6.0 21.6  151.6 135.7  27.0 -21.3 
+Argentina 8/ 1995 1995  0.0  2.0 2.0 8.6  71.4 63.0  17.0 8.7 
+Argentina 2001 2003  71.0  9.6 9.6 28.1  22.9 22.6  20.1 81.9 
+Armenia 4/ 1994 1994 6 /  …  ... ... ...  41.4 23.0  ... ... 
+Austria 2008 2012 7 /  19.2  5.2 1.6 1.6  10.0 6.4  4.1 19.8 
+Azerbaijan  1995 1995 6 /  ...  ... ... ...  127.6 84.5  ... 0.9 
+Bangladesh 1987 1987  0.0  ... ... ...  26.0 2.8  20.0 3.5 
+Belarus  1995 1995  ...  ... ... ...  35.8 ...  ... -16.5 
+Belgium 2008 2012 7 /  15.7  6.2 0.5 1.6  13.7 9.7  4.2 22.2 
+Benin 1988 1992 7 /  14.9  17.0 ... 64.3  99.6 48.6  80.0 5.7 
+Bolivia 1986 1986  49.2  ... ... ...  57.5 25.9  30.0 -107.3 
+Bolivia 1994 1994  0.0  6.0 2.7 15.2  31.9 12.9  6.2 -19.2 
+Bosnia and 
+Herzegovina  1992 1996 7 / 
+ 
+... 
+ 
+... ... ... 
+ 
+... ... 
+ 
+... ... 
+Brazil 8/ 1990 1994 7 /  62.3  0.0 0.0 0.0  11.3 10.7  ... -22.6 
+Brazil 1994 1998  0.0  13.2 10.2 28.6  20.1 17.6  16.0 -33.8 
+Bulgaria 1996 1997  59.5  14.0 13.9 21.4  17.3 9.9  75.0 -30.1 
+Burkina Faso 1990 1994  ...  ... ... ...  9.4 4.5  16.0 8.9 
+Burundi 1994 1998 7 /  121.2  ... ... ...  23.4 18.3  25.0 10.9 
+Cameroon 1987 1991 7 /  105.5  ... ... ...  59.1 40.9  65.0 18.0 
+Cameroon 1995 1997  8.1  ... ... ...  12.3 6.2  30.0 -1.1 
+Cape Verde 1993 1993  0.0  ... ... ...  4.0 ...  30.0 18.2 
+Central African 
+Rep 1976 1976 
+ 
+0.0 
+ 
+... ... ... 
+ 
+90.8 10.5 
+ 
+... -4.8 
+Central African 
+Rep 1995 1996 
+ 
+9.0 
+ 
+... ... ... 
+ 
+24.8 20.9 
+ 
+40.0 -16.3 
+Chad 1983 1983  0.0  ... ... ...  199.3 41.3  ... -7.2 
+Chad 1992 1996 7 /  0.0  ... ... ...  120.9 41.4  35.0 27.1 
+Chile 1976 1976  19.9  ... ... ...  32.2 23.6  ... -69.5 
+Chile 1981 1985 7 /  8.6  42.9 16.8 134.3  61.2 52.7  35.6 87.9 
+China, Mainland 1998 1998  19.4  18.0 ... 19.5  62.0 7.2  20.0 11.2 
+Colombia 1982 1982  47.0  5.0 5.0 16.5  21.1 7.7  4.1 16.6 
+Colombia 1998 2000  43.4  6.3 2.5 15.9  5.1 4.3  14.0 15.4 
+Congo, Dem Rep 1983 1983  1.4  ... ... ...  20.0 18.9  ... 39.5 
+Congo, Dem Rep 1991 1994 7 /  129.5  ... ... ...  44.7 30.2  ... 42.2 
+=====P36
+ 35 
+Country Crisis Dates 
+ 
+Output 
+Loss 1/ 
+ 
+Fiscal Costs 2/ 
+ 
+Liquidity Provision 
+ 
+Peak 
+NPLs 4/ 
+Increase 
+in Public 
+Debt 5/ 
+ Start End 
+ 
+% of 
+trend 
+GDP 
+ 
+ 
+% of 
+GDP 
+Net, 
+% of 
+GDP 
+% of 
+Financial 
+Sector 
+Assets 
+ 
+Peak3/ Liquidity Support 3/ 
+ 
+  
+Congo, Dem Rep 1994 1998 7 /  79.0  ... ... ...  77.3 77.1  75.0 39.3 
+Congo, Rep 1992 1994  47.4  ... ... ...  30.7 16.6  ... 103.5 
+Costa Rica 1987 1991  0.0  ... ... ...  20.2 6.1  ... -27.5 
+Costa Rica 1994 1995  0.0  ... ... ...  15.2 6.3  32.0 4.8 
+Cote d'Ivoire 1988 1992 7 /  45.0  25.0 25.0 63.6  76.9 22.5  50.0 13.6 
+Croatia  1998 1999  ...  6.9 6.9 15.0  3.2 3.1  10.5 14.1 
+Czech Republic 8/ 1996 2000 7 /  ...  6.8 5.8 9.6  12.7 4.2  18.0 1.8 
+Cyprus 2011 2015 7 /  76.5  18.0 18.0 2.6  20.3 14.1  47.8 21.3 
+Denmark 2008 2009  35.0  5.9 2.4 3.1  17.7 9.7  5.95 32.8 
+Djibouti 1991 1995 7 /  42.6  ... ... ...  5.2 3.2  ... ... 
+Dominican Rep 2003 2004  12.5  22.0 20.8 63.7  43.4 38.1  9.0 16.5 
+Ecuador 1982 1986 7 /  98.2  ... ... ...  146.7 100.0  ... 24.4 
+Ecuador 1998 2002  25.4  21.7 16.3 76.8  26.0 22.5  40.0 9.1 
+Egypt 1980 1980  0.9  ... ... ...  66.7 22.7  ... -4.2 
+El Salvador 1989 1990  0.0  ... ... ...  51.6 11.5  37.0 -29.6 
+Equatorial Guinea 1983 1983 6 /  0.0  ... ... ...  75.8 ...  ... ... 
+Eritrea 1993 1993 6 /  ...  ... ... ...  ... ...  ... ... 
+Estonia  1992 1994  ...  1.9 1.6 ...  30.9 ...  7.0 ... 
+Finland 1991 1995  69.6  12.8 11.1 15.5  12.0 5.5  13.0 43.6 
+France 8/ 2008 2009  23.3  1.3 1.1 0.3  9.6 8.2  4.5 15.9 
+Georgia  1991 1995 7 /  ...  ... ... ...  ... ...  33.0 ... 
+Germany 2008 2009  12.3  2.7 0.7 0.9  12.9 4.0  3.7 16.2 
+Ghana 1982 1983  45.3  6.0 6.0 105.8  0.2 0.1  35.0 15.5 
+Greece 2008 2012 7 /  64.9  28.7 17.1 17.1  61.7 59.8  37.1 43.9 
+Guinea 1985 1985 6 /  0.0  3.0 ... ...  ... ...  ... ... 
+Guinea 1993 1993  0.0  ... ... ...  14.6 3.9  45.0 6.7 
+Guinea-Bissau 1995 1998  29.6  ... ... ...  137.3 39.2  45.0 108.1 
+Guinea-Bissau 2014 ongoing  0.0  ... ... ...  33.4 22.4  25.7 3.2 
+Guyana 1993 1993  0.0  ... ... ...  1.8 1.7  ... -241.0 
+Haiti 1994 1998  37.5  ... ... ...  4.8 ...  ... -119.4 
+Hungary  1991 1995 7 /  0.0  10.0 ... 21.3  47.0 4.6  23.0 19.6 
+Hungary 8/ 2008 2012 7 /  37.3  2.9 0.1 4.1  2.3 2.2  17.3 3.8 
+Iceland 2008 2012 7 /  34.5  37.6 3.3 14.3  33.8 28.1  61.2 67.9 
+India 1993 1993  0.0  ... ... ...  4.3 3.6  20.0 -7.7 
+Indonesia 1997 2001 7 /  69.0  56.8 52.2 105.4  23.1 17.2  32.5 67.6 
+Ireland 2008 2012 7 /  107.7  37.6 26.8 4.5  18.1 15.4  25.7 76.5 
+Israel 1983 1986  42.7  30.0 ... 30.9  5.3 …  ... ... 
+=====P37
+ 36 
+Country Crisis Dates 
+ 
+Output 
+Loss 1/ 
+ 
+Fiscal Costs 2/ 
+ 
+Liquidity Provision 
+ 
+Peak 
+NPLs 4/ 
+Increase 
+in Public 
+Debt 5/ 
+ Start End 
+ 
+% of 
+trend 
+GDP 
+ 
+ 
+% of 
+GDP 
+Net, 
+% of 
+GDP 
+% of 
+Financial 
+Sector 
+Assets 
+ 
+Peak3/ Liquidity Support 3/ 
+ 
+  
+Italy 2008 2009  32.2  0.7 0.7 0.3  19.4 17.8  18.0 8.6 
+Jamaica 1996 1998  37.8  43.9 39.0 161.4  0.4 0.3  28.9 2.9 
+Japan 1997 2001 7 /  45.0  8.6 8.5 3.2  2.4 1.6  35.0 41.7 
+Jordan 1989 1991  106.4  10.0 ... 12.5  20.7 16.1  ... -61.0 
+Kazakhstan 8/ 2008 2008  0.0  3.7 3.7 7.5  6.6 5.3  37.7 6.5 
+Kenya 1985 1985  23.7  ... ... ...  2.0 1.9  ... 11.0 
+Kenya 1992 1994  50.3  ... ... ...  25.2 24.3  ... 12.1 
+Korea 1997 1998  57.6  31.2 23.2 57.2  27.4 11.9  35.0 9.9 
+Kuwait 1982 1985  143.4  ... ... ...  9.6 2.9  40.0 16.2 
+Kyrgyz Rep  1995 1999 7 /  ...  ... ... ...  286.1 51.8  85.0 42.9 
+Latvia  1995 1996  ...  3.0 3.0 10.1  9.2 5.5  20.0 0.4 
+Latvia 2008 2012 7 /  93.9  8.1 3.9 11.0  3.6 3.4  15.9 27.6 
+Lebanon 1990 1993  102.2  ... ... ...  4.4 2.8  ... ... 
+Liberia 1991 1995 7 /  ...  ... ... ...  85.2 84.2  ... ... 
+Lithuania  1995 1996  ...  3.1 2.9 18.8  27.5 18.9  32.2 10.8 
+Luxembourg 2008 2012 7 /  43.3  7.2 5.0 0.2  6.0 1.1  1.7 12.7 
+Macedonia, FYR  1993 1995  0.0  32.0 ... ...  22.3 ...  70.0 ... 
+Madagascar 1988 1988  0.0  ... ... ...  20.2 19.4  25.0 -25.8 
+Malaysia 1997 1999  31.4  16.4 5.1 12.7  9.7 8.8  30.0 0.2 
+Mali 1987 1991 7 /  0.0  ... ... ...  50.5 14.8  75.0 -11.3 
+Mauritania 1984 1984  7.5  15.0 ... 53.2  48.4 27.7  70.0 ... 
+Mexico 1981 1985 7 /  26.6  ... ... ...  5.3 2.6  ... 22.6 
+Mexico 1994 1996  13.7  19.3 18.0 54.9  16.8 15.8  18.9 16.4 
+Moldova 2014 ongoing    11.7 11.7 26.1  24.7 24.0  16.4 19.5 
+Mongolia 2008 2009  0.0  5.1 5.1 15.3  34.5 33.2  20.0 -5.0 
+Morocco 1980 1984 7 /  21.9  ... ... ...  22.1 8.6  ... 35.6 
+Mozambique 1987 1991 7 /  0.0  ... ... ...  4.2 4.2  ... 60.9 
+Nepal 1988 1988  0.0  ... ... ...  14.6 3.8  29.0 11.7 
+Netherlands 2008 2009  26.1  14.3 5.1 4.0  5.5 3.5  3.2 24.9 
+Nicaragua 1990 1993  11.4  ... ... ...  195.1 156.5  50.0 -31.0 
+Nicaragua 2000 2001  0.0  13.6 12.6 45.7  21.8 20.9  12.7 14.9 
+Niger 1983 1985  97.2  ... ... ...  45.6 14.1  50.0 25.9 
+Nigeria 1991 1995 7 /  0.0  ... ... ...  6.6 5.4  77.0 63.3 
+Nigeria 2009 2012  14.0  11.8 11.8 32.2  49.6 32.9  30.1 8.4 
+Norway 1991 1993  5.1  2.7 0.6 2.8  16.9 4.2  16.4 19.2 
+Panama 1988 1989  85.0  12.9 ... 24.4  3.6 3.2  ... -2.6 
+Paraguay 1995 1995  15.3  12.9 10.0 54.9  27.3 23.8  8.1 -1.2 
+=====P38
+ 37 
+Country Crisis Dates 
+ 
+Output 
+Loss 1/ 
+ 
+Fiscal Costs 2/ 
+ 
+Liquidity Provision 
+ 
+Peak 
+NPLs 4/ 
+Increase 
+in Public 
+Debt 5/ 
+ Start End 
+ 
+% of 
+trend 
+GDP 
+ 
+ 
+% of 
+GDP 
+Net, 
+% of 
+GDP 
+% of 
+Financial 
+Sector 
+Assets 
+ 
+Peak3/ Liquidity Support 3/ 
+ 
+  
+Peru 1983 1983 6 /  55.2  ... ... ...  16.8 9.7  ... 14.3 
+Philippines 1983 1986  91.7  3.0 ... 5.9  19.4 1.5  19.0 44.8 
+Philippines  1997 2001 7 /  0.0  13.2 13.2 22.5  1.4 0.7  20.0 10.4 
+Poland  1992 1994  0.0  3.5 ... 13.7  45.9 8.7  24.0 -21.6 
+Portugal  2008 2012 7 /  35.0  11.1 7.6 4.4  25.7 24.7  12.9 38.5 
+Romania  1998 1999 6 /  0.0  6.5 ... 34.3  129.1 ...  30.0 ... 
+Russia  1998 1998 6 /  ...  6.0 6.0 0.3  23.7 21.1  40.0 -7.1 
+Russia 8/ 2008 2009  0.0  2.3 2.3 6.4  24.2 23.3  9.6 6.1 
+São Tomé & 
+Príncipe 1992 1992 6 / 
+ 
+1.9 
+ 
+... ... ... 
+ 
+... ... 
+ 
+90.0 -706.3 
+Senegal 1988 1991  5.6  17.0 ... 64.2  74.7 6.6  50.0 -14.2 
+Sierra Leone 1990 1994 7 /  34.5  ... ... ...  0.0 0.0  45.0 62.9 
+Slovak Rep 1998  2002 7 /  0.0  ... ... ...  13.0 4.8  35.0 15.4 
+Slovenia  1992 1992  ...  14.6 ... 38.1  10.0 ...  3.6 ... 
+Slovenia  2008 2012 7 /  39.1  9.9 8.4 8.0  14.2 14.0  18.0 20.9 
+Spain 1977 1981 7 /  58.5  7.7 ... 8.6  7.6 3.5  5.8 3.8 
+Spain 2008 2012 7 /  38.8  5.4 4.8 2.0  33.5 31.3  9.4 31.8 
+Sri Lanka 1989 1991  19.6  5.0 5.0 22.0  8.0 2.0  35.0 -5.5 
+Swaziland 1995 1999 7 /  45.7  ... ... ...  3.6 3.2  ... 2.5 
+Sweden 1991 1995  32.9  3.6 0.2 3.0  3.1 0.2  13.0 36.2 
+Sweden 8/ 2008 2009  25.5  0.2 0.0 0.2  11.1 11.0  2.0 12.8 
+Switzerland 8/ 2008 2009  0.0  1.1 -0.4 0.7  4.6 3.3  0.5 1.6 
+Tanzania 1987 1988  0.0  10.0 ... 53.9  100.9 97.6  70.0 64.6 
+Thailand 1983 1983  24.8  0.7 ... 1.3  8.5 2.0  ... 15.7 
+Thailand 1997 2000  109.3  43.8 34.8 30.6  5.1 4.4  33.0 42.1 
+Togo 1993 1994  38.8  ... ... ...  6.2 1.7  ... 23.8 
+Tunisia 1991 1991  1.3  3.0 ... 5.0  31.5 15.1  ... 4.2 
+Turkey 1982 1984  35.0  2.5 ... 11.7  71.7 29.3  ... 12.3 
+Turkey 2000 2001  37.6  32.0 30.7 107.2  20.5 15.2  27.6 15.3 
+Uganda 1994 1994  0.0  ... ... ...  7.6 3.9  ... -26.9 
+Ukraine  1998 1999  0.0  0.0 0.0 0.0  19.1 3.3  62.4 6.0 
+Ukraine 2008 2010  0.0  4.5 4.5 10.1  16.4 15.8  15.5 26.5 
+Ukraine 2014 ongoing  93.2  13.9 13.9 17.2  14.0 4.4  55.1 53.4 
+United Kingdom 2007 2011 7 /  25.3  8.8 3.8 5.8  3.4 2.5  4.0 27.0 
+United States 8/ 1988 1988  0.0  3.7 ... 2.7  0.1 0.1  4.1 10.5 
+United States 2007 2011  30.0  4.5 0.6 2.2  4.7 4.7  5.0 21.9 
+Uruguay 1981 1985 7 /  38.1  31.2 ... 101.2  24.6 18.5  ... 83.3 
+Uruguay 2002 2005  66.1  20.0 10.8 35.7  12.8 7.9  36.3 37.0 
+=====P39
+ 38 
+Country Crisis Dates 
+ 
+Output 
+Loss 1/ 
+ 
+Fiscal Costs 2/ 
+ 
+Liquidity Provision 
+ 
+Peak 
+NPLs 4/ 
+Increase 
+in Public 
+Debt 5/ 
+ Start End 
+ 
+% of 
+trend 
+GDP 
+ 
+ 
+% of 
+GDP 
+Net, 
+% of 
+GDP 
+% of 
+Financial 
+Sector 
+Assets 
+ 
+Peak3/ Liquidity Support 3/ 
+ 
+  
+Venezuela 1994 1998 7 /  1.2  15.0 12.5 60.8  2.9 1.6  24.0 -23.0 
+Vietnam 1997 1997  0.0  10.0 10.0 54.3  64.9 24.8  35.0 -52.7 
+Yemen 1996 1996  16.4  ... ... ...  0.8 0.7  ... -56.7 
+Zambia 1995 1998  31.1  1.4 ... 14.7  27.9 24.9  ... 36.2 
+Zimbabwe 1995 1999 7 / 
+ 
+10.4 
+ 
+... ... ... 
+ 
+8.6 5.0 
+ 
+... 20.9 
+ 
+1/ In percent of GDP. Output losses are computed as the cumulative sum of the differences between actual and trend real GDP over the period [T, 
+T+3], expressed in percent of trend real GDP, with T denoting the starting year of the crisis. The trend is computed by applying an HP filter (λ=100) 
+to the GDP series over [T-20, T-1]. No output losses are reported for crises in transition economies that took place during the period of transition to 
+market economies. 
+2/ Fiscal costs refer to outlays directly related to the restructuring of the financial sector.  
+3/ Liquidity is measured as the ratio of central bank claims on deposit money banks (line 12 in IFS) and liquidity support from the Treasury to total 
+deposits and liabilities to non-residents. Total deposits are computed as the sum of demand deposits (line 24), other deposits (line 25), and liabilities 
+to non-residents (line 26). 
+4/ In percent of total loans. 
+5/ In percent of GDP. For episodes starting in 2007 and later, the increase in public debt is measured as the change in debt projections, over [T-1, 
+T+3], relative to the pre-crisis debt projections, where T is the starting year of the crisis. 
+6/ Credit data missing. For these countries, end dates are based on GDP growth only. 
+7/ We truncate the duration of crises at 5 years, starting with the first crisis year.  
+8/ Borderline cases. 
+Source: WEO, IFS, IMF Staff reports, IMF Financial Soundness Indicators, Laeven and Valencia (2013), and authors’ calculation. 
+	
+	
+=====P40
+ 
+  39   
+Table 3. Banking Crisis Policy Responses 
+ 
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Argentina Mar-80 
+       
+Y N 
+ 
+1983 
+Argentina Dec-89 28-Dec-
+1989 
+120 1-Jan-1990 4 
+   
+N N 
+ 
+1990 
+Argentina Jan-95 
+       
+N N 0.28 1995 
+Argentina Nov-01 3-Dec-2001 12 31-Dec-
+2001 
+5 
+   
+Y N 9.58 2000 
+Austria Sep-08 
+    
+Dec-08 
+ 
+Unlimited 
+coverage to 
+depositors, 
+bank and 
+non-bank 
+bonds. 
+Y N 3.96 
+ 
+Belgium Sep-08 
+    
+Oct-08 
+ 
+Deposit-like 
+insurance 
+instruments. 
+Interbank 
+loans and 
+short-term 
+debt. Specific 
+guarantees 
+for Dexia. 
+Y N 5.80 
+ 
+Bolivia Nov-94 
+       
+N Y 0.95 
+ 
+Brazil Feb-90 1-Mar-1990 29 
+     
+N N 0.00 1989 
+Brazil Dec-94 
+       
+N N 4.98 
+ 
+Bulgaria Jan-96 
+       
+Y Y 2.31 1996 
+Chile Nov-81 
+       
+N Y 34.33 1983 
+Colombia Jul-82 
+       
+Y N 1.87 
+ 
+Colombia Jun-98 
+       
+Y Y 4.26 
+ 
+Cote d'Ivoire 1988 
+       
+N Y small 1985 
+Croatia Mar-98 
+       
+Y Y 3.20 
+ 
+=====P41
+ 
+  40   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Czech 
+Republic 
+Jun-96 
+    
+Jun-96 18 Depositors, 
+except 
+shareholders 
+up to CZK4m 
+(at the 18 
+banks under 
+restructuring) 
+and CZK0 
+1m 
+everywhere 
+else 
+N Y 0.98 
+ 
+Cyprus Jun-11 28-Mar-
+2013 
+14 18-Mar-
+2013 
+8 
+   
+Y Y 18.90 2013 
+Denmark Sep-08 
+    
+Feb-09 
+ 
+Deposits and 
+unsecured 
+claims of 
+PCA banks. 
+Y N 2.80 
+ 
+Dominican 
+Republic 
+Apr-03 
+       
+N Y 0.00 2004 
+Ecuador Aug-98 12-Mar-
+1999 
+6 8-Mar-1999 5 Dec-98 37 All creditors 
+except for 
+subordinated 
+debt and 
+related parties 
+Y Y 1.90 2000 
+Estonia Nov-92 
+       
+Y Y 1.26 1993 
+Finland Sep-91 
+    
+Feb-93 70 All creditors 
+except for 
+shareholders 
+Y Y 8.63 
+ 
+France Sep-08 
+    
+Oct-08 
+  
+N N 1.00 
+ 
+Germany Sep-08 
+    
+Oct-08 
+ 
+Unlimited 
+coverage of 
+household 
+deposits. 
+Y Y 1.80 
+ 
+Ghana Jan-82 
+       
+N Y 6.00 
+ 
+Greece Sep-08 20-Jul-2015 ongoi ng 29-Jun-2015 21 Oct-08 
+  
+N Y 25.40 2010, 
+2012 
+Hungary Sep-08 
+    
+Oct-08 
+ 
+Unlimited 
+protection to 
+N N 0.23 2008 
+=====P42
+ 
+  41   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+depositors of 
+small banks. 
+Iceland Sep-08 
+    
+Oct-08 
+ 
+Unlimited 
+coverage to 
+domestic 
+deposits. 
+Y N 24.30 2008 
+Indonesia Nov-97 
+    
+Jan-98 78 All liabilities 
+of domestic 
+banks 
+(excluding 
+shareholders’ 
+capital, 
+subordinated 
+debt, and 
+related-
+parties 
+deposits). 
+Y Y 37.30 1998 
+Ireland Sep-08 
+    
+Sep-08 
+ 
+Unlimited 
+coverage to 
+most 
+liabilities of 
+10 banks. 
+Y Y 37.13 2010 
+Italy Sep-08 
+    
+Nov-
+08 
+ 
+State 
+guarantee for 
+new bank 
+liabilities. 
+N N 0.30 
+ 
+Jamaica Dec-96 
+    
+Feb-97 11 Depositors’ 
+funds in 
+licensed 
+deposit-
+taking 
+institutions, 
+pension funds 
+managed by 
+authorized 
+institutions, 
+and policy-
+holders funds 
+in insurance 
+companies 
+Y Y 13.90 
+ 
+=====P43
+ 
+  42   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Japan Nov-97 
+    
+Nov-
+97 
+89 All deposits, 
+including 
+interbank 
+deposits 
+Y Y 6.61 
+ 
+Kazakhstan Sep-08 
+       
+N N 2.40 
+ 
+Korea Aug-97 
+    
+Nov-
+97 
+37 All liabilities 
+(excluding 
+shareholders’ 
+capital and 
+subordinated 
+debt) of 
+banks, 
+securities 
+companies, 
+insurance 
+companies, 
+merchant 
+banks, mutual 
+savings and 
+finance 
+companies, 
+and credit 
+unions. 
+Overseas 
+branches 
+were also 
+included. 
+Y Y 19.31 1998 
+Latvia Apr-95 
+       
+N N 0.00 1993 
+Latvia Sep-08 1-Dec-2008 6 
+  
+Dec-08 
+ 
+Guarantees 
+on Parex 
+syndicated 
+loans 
+Y N 3.10 2009 
+Lithuania Dec-95 
+       
+Y Y 1.70 
+ 
+Luxembourg Sep-08 
+    
+Oct-08 
+ 
+Guarantees 
+on Dexia's 
+debt 
+Y N 7.70 
+ 
+=====P44
+ 
+  43   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Malaysia Jul-97 
+    
+Jan-98 91 Deposits only 
+of 
+commercial 
+banks, 
+finance 
+companies 
+and merchant 
+banks, 
+including 
+overseas 
+branches of 
+domestic 
+banking 
+institutions. 
+Y Y 16.40 
+ 
+Mexico Dec-94 
+    
+Dec-93 109 All bank 
+liabilities 
+except 
+subordinated 
+debt 
+Y Y 3.80 1995 
+Moldova Nov-14 
+       
+N N 0.00 
+ 
+Mongolia Sep-08 
+      
+Unlimited 
+coverage to 
+all deposits. 
+Y N 4.20 2009 
+Netherlands Sep-08 
+    
+Oct-08 
+ 
+Interbank 
+loans of 
+solvent 
+banks. 
+Y N 6.30 
+ 
+Nicaragua Aug-00 
+    
+Jan-01 14 All deposit 
+liabilities 
+except for 
+related 
+parties. 
+N Y 0.00 
+ 
+Nigeria Aug-09 
+    
+Oct-09 
+ 
+Guarantees 
+on all 
+interbank 
+transactions, 
+foreign credit 
+lines and 
+pension 
+deposits. 
+Y Y 11.80 
+ 
+=====P45
+ 
+  44   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Norway Oct-91 
+       
+Y N 2.61 
+ 
+Paraguay May-95 
+    
+Jul-95 11 Announceme
+nt included 
+backing of all 
+deposits, but 
+no explicit 
+breakdown 
+was given. 
+N N 1.22 
+ 
+Philippines Jul-97 
+       
+N N 0.20 1998 
+Portugal Sep-08 
+    
+Oct-08 
+ 
+Debt issued 
+by credit 
+institutions. 
+N N 0.00 2011 
+Russia Aug-98 
+       
+Y Y 0.00 1999 
+Russia Sep-08 
+    
+Nov-
+08 
+ 
+Interbank 
+borrowing for 
+qualifying 
+banks. 
+N N 2.30 
+ 
+Slovenia Sep-08 
+    
+Dec-08 
+ 
+Unlimited 
+protection for 
+all deposits 
+by 
+individuals 
+and small 
+enterprises 
+until end-
+2010, and 
+capped at 
+€100,000 
+thereafter 
+N N 0.80 
+ 
+Spain Sep-08 
+    
+Oct-08 
+  
+N Y 2.00 
+ 
+Sri Lanka Jun-05 
+       
+N N 3.60 
+ 
+Sweden Sep-91 
+    
+Sep-92 46 All liabilities, 
+except for 
+shareholders 
+Y Y 1.85 
+ 
+Sweden Sep-08 
+    
+Oct-08 
+ 
+Medium-term 
+debt of banks 
+and mortgage 
+institutions 
+N N 0.20 
+ 
+=====P46
+ 
+  45   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Switzerland Sep-08 
+       
+N Y 1.10 
+ 
+Thailand Jul-97 
+    
+Aug-
+97 
+89 Deposits, 
+contingent 
+and foreign 
+liabilities 
+(excluding 
+shareholders’ 
+capital and 
+subordinated 
+debt) of 
+banks and 
+finance 
+companies. 
+Directors’ 
+and related 
+persons’ 
+deposits 
+and/or claims 
+were not 
+covered 
+unless it 
+could be 
+proven that 
+the 
+transactions 
+were at arms’ 
+length. 
+Y Y 18.80 1998 
+Turkey Nov-00 
+    
+Dec-00 43 All liabilities 
+(including 
+contingent) of 
+domestically 
+incorporated 
+banks except 
+for owners' 
+deposits, 
+deposits 
+linked to 
+criminal 
+activities, 
+subordinated 
+Y Y 24.50 2000 
+=====P47
+ 
+  46   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+debt, and 
+equity 
+Ukraine Aug-98 
+       
+N N 0.00 1995 
+Ukraine Sep-08 
+       
+Y N 4.50 2009, 
+2010 
+Ukraine Feb-14 1-Mar-2014 40 
+     
+Y N 7.20 2014 
+United 
+Kingdom 
+Sep-07 
+    
+Oct-08 
+ 
+Guarantee on 
+short-to-
+medium term 
+debt; blanket 
+guarantee on 
+Northern 
+Rock and 
+Bradford & 
+Bingley 
+wholesale 
+deposits. 
+Y Y 5.00 
+ 
+United States Dec-07 
+    
+Oct-08 
+ 
+Money 
+market funds 
+(capped at 
+US$50 
+billion); full 
+guarantee on 
+transaction 
+deposits; 
+newly issued 
+senior 
+unsecured 
+debt. 
+Y Y 3.60 
+ 
+Uruguay Jan-02 5-Aug-2002 36 30-Apr-2002 5 
+   
+Y Y 6.18 1996 
+Venezuela Jan-94 
+       
+Y N 5.59 1996 
+Vietnam Nov-97 
+       
+N Y 5.00 
+ 
+=====P48
+ 
+  47   
+Country Start 1/ Deposit Freeze   Bank Holiday  Guarantees on Ba nk Liabilities  Bank Nationalization Asset Purchase Bank Recapitalization  IMF Program  
+ 
+ Date  Duration  Date  Durati on  Start  Duration  Coverage   
+   
+In percent of 
+GDP 
+  
+       (in months)    (in days)    (in months)    
+Source: Laeven and Valencia (2013), and authors' calculations          
+1/ Where feasible, the date includes the month of the crisis         
+ 

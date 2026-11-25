@@ -1,0 +1,80 @@
+albania-pyramid-1997 | 1996 | 欧洲 | 泡沫 | 阿尔巴尼亚金字塔骗局与1997年动乱
+angolan-kwanza-devaluation | 1977 | 非洲 | 货币 | 安哥拉宽扎贬值与货币更替
+archegos-2021 | 2012 | 北美 | 银行 | Archegos 爆仓(2021)
+argentina-crisis-2001 | 1980 | 拉美 | 银行 | 阿根廷经济危机(2001–2002)
+asian-financial-crisis-1997 | 1997 | 亚洲 | 货币 | 1997亚洲金融危机
+bcci | 1972 | 全球 | 银行 | BCCI 国际信贷商业银行倒闭(1991)
+bear-stearns | 2008 | 北美 | 银行 | 贝尔斯登(Bear Stearns)
+black-monday-1987 | 1987 | 北美 | 泡沫 | 1987年黑色星期一
+black-wednesday-1992 | 1990 | 欧洲 | 货币 | 黑色星期三/英镑危机(1992)
+blue-monday-2009 | 2009 | 全球 | 银行 | 2009蓝色星期一崩盘
+bond-crisis-1994 | 1994 | 全球 | 债务 | 1994年债券市场危机
+brexit-crash-2016 | 2016 | 欧洲 | 泡沫 | 英国脱欧公投股市崩盘(2016)
+cameroon-crisis-1987 | 1987 | 非洲 | 债务 | 喀麦隆经济危机(1987–2000s)
+chilean-crisis-1982 | 1982 | 拉美 | 债务 | 智利危机(1982)
+china-2015-turbulence | 2015 | 亚洲 | 泡沫 | 中国股市动荡(2015–2016)
+china-liquidity-2013 | 2013 | 亚洲 | 银行 | 2013年中国银行流动性危机
+chinese-stock-bubble-2007 | 2007 | 亚洲 | 泡沫 | 2007年中国股市泡沫
+cook-islands-currency | 1987 | 大洋洲 | 货币 | 库克群岛货币安排与储备不足
+crypto-bubble | 2017 | 全球 | 泡沫 | 加密货币泡沫
+cypriot-2013 | 2011 | 欧洲 | 银行 | 2012–2013塞浦路斯金融危机
+dotcom-bubble-2000 | 1995 | 北美 | 泡沫 | 互联网泡沫(2000–2004)
+drexel | 1990 | 北美 | 银行 | 德崇证券破产(1990)
+dubai-debt-2009 | 2009 | 中东 | 债务 | 迪拜债务危机(2009)
+ems | 1979 | 欧洲 | 货币 | 欧洲货币体系(EMS)
+euro-area-crisis | 2009 | 欧洲 | 债务 | 欧元区主权债务危机
+finnish-banking-1990 | 1991 | 欧洲 | 银行 | 1990年代芬兰银行危机
+flash-crash-2010 | 2010 | 北美 | 泡沫 | 2010年闪崩（Flash Crash）
+franklin-national-1974 | 1974 | 北美 | 银行 | Franklin National 银行倒闭(1
+ghana-banking-2017 | 2017 | 非洲 | 银行 | 加纳银行危机(2017–2018)
+great-recession-russia | 2008 | 欧洲 | 银行 | 俄罗斯大衰退
+greek-debt-crisis | 1981 | 欧洲 | 债务 | 希腊政府债务危机
+hainan-property-bubble-1992 | 1988 | 亚洲 | 泡沫 | 1992–1993年海南房地产泡沫
+icelandic-crisis-2008 | 2008 | 欧洲 | 银行 | 冰岛金融危机(2008–2011)
+indian-1991 | 1991 | 亚洲 | 货币 | 1991年印度经济危机
+indymac | 2008 | 北美 | 银行 | IndyMac 银行倒闭(2008)
+irish-banking-2008 | 2008 | 欧洲 | 银行 | 爱尔兰银行危机(2008–)
+israel-bank-1983 | 1983 | 中东 | 泡沫 | 以色列银行股灾(1983)
+jamaica-accords | 1976 | 全球 | 货币 | 牙买加协定(1976)
+japan-asset-bubble-1990 | 1985 | 亚洲 | 泡沫 | 日本资产价格泡沫崩溃(1990–1992)
+latin-american-debt-1975 | 1975 | 拉美 | 债务 | 拉丁美洲债务危机(1975–1982)
+ltcm | 1998 | 北美 | 银行 | 长期资本管理公司倒闭(1998)
+merrill-lynch | 2008 | 北美 | 银行 | 美林(Merrill Lynch)
+mexican-peso-1994 | 1994 | 拉美 | 货币 | 墨西哥比索危机(1994–1996)
+mini-crash-1997 | 1997 | 全球 | 泡沫 | 1997年10月27日小崩盘
+myanmar-2003 | 2003 | 亚洲 | 银行 | 2003年缅甸银行危机
+nigeria-debt | 2016 | 非洲 | 债务 | 尼日利亚债务与经济结构风险
+nixon-shock | 1971 | 全球 | 货币 | 尼克松冲击(1971)
+northern-rock | 1997 | 欧洲 | 银行 | 北岩银行挤兑(2007)
+norwegian-banking-1988 | 1988 | 欧洲 | 银行 | 挪威银行危机(1988–1992)
+nyc-fiscal-1975 | 1971 | 北美 | 债务 | 纽约市财政危机(1975)
+nz-finance-collapse | 2006 | 大洋洲 | 银行 | 新西兰金融公司倒闭潮(2006–2012)
+nz-property-bubble | 1987 | 大洋洲 | 泡沫 | 新西兰房地产泡沫(1990s–)
+penn-square-1982 | 1982 | 北美 | 银行 | Penn Square 银行倒闭(1982)
+puerto-rico-debt-2014 | 2014 | 北美 | 债务 | 波多黎各政府债务危机(2014–2022)
+rhode-island-banking-1990 | 1991 | 北美 | 银行 | 罗得岛银行危机(1990–1992)
+russian-1998 | 1996 | 欧洲 | 货币 | 1998年俄罗斯金融危机
+russian-crisis-2014 | 2014 | 欧洲 | 货币 | 俄罗斯金融危机(2014–2016)
+savings-loan-1986 | 1985 | 北美 | 银行 | 储贷危机(1986–1995)
+smithsonian-agreement | 1971 | 全球 | 货币 | 史密森协定(1971)
+souk-al-manakh-1982 | 1982 | 中东 | 泡沫 | 苏克阿尔马纳克股市崩盘(1982)
+south-america-2002 | 1999 | 拉美 | 债务 | 南美经济危机(2002)
+spain-2008 | 2008 | 欧洲 | 银行 | 西班牙金融危机(2008–2014)
+sterling-crisis-1976 | 1976 | 欧洲 | 货币 | 1976年英镑危机
+stock-crash-1973 | 1973 | 全球 | 泡沫 | 1973–1974股市崩盘
+stock-downturn-2002 | 2002 | 全球 | 泡沫 | 2002年股市下跌
+stocks-fall-2011 | 2011 | 全球 | 泡沫 | 2011年8月股市下跌
+subprime-crisis-2007 | 2007 | 北美 | 银行 | 次贷危机(2007–)
+swedish-crisis-1990s | 1990 | 欧洲 | 银行 | 瑞典金融危机(1990–1994)
+taiwan-bubble | 1985 | 亚洲 | 泡沫 | 台湾泡沫经济
+taper-tantrum | 2012 | 全球 | 货币 | 2013年缩减恐慌
+turkey-2001 | 2001 | 中东 | 货币 | 土耳其经济危机(2001)
+uk-secondary-banking-1973 | 1971 | 欧洲 | 银行 | 英国二级银行危机(1973–1975)
+ukrainian-crisis-2008 | 2008 | 欧洲 | 货币 | 2008–2009乌克兰金融危机
+uruguay-2002 | 2002 | 拉美 | 银行 | 2002年乌拉圭银行危机
+us-video-game-crash-1983 | 1982 | 北美 | 泡沫 | 1983年美国游戏业大萧条
+venezuelan-banking-1994 | 1994 | 拉美 | 银行 | 委内瑞拉银行危机(1994)
+venezuelan-banking-2009 | 2009 | 拉美 | 银行 | 委内瑞拉银行危机(2009–2010)
+washington-mutual | 2008 | 北美 | 银行 | 华盛顿互惠银行倒闭(2008)
+yemen-currency-divergence | 2014 | 中东 | 货币 | 也门货币分裂与里亚尔贬值(2015–)
+zambian-kwacha-reform | 2013 | 非洲 | 货币 | 赞比亚克瓦查重定面值(2013)
