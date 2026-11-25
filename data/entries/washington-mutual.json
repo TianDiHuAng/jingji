@@ -72,6 +72,17 @@
       "sources": [
         "w-en-washington-mutual"
       ]
+    },
+    {
+      "label": "总资产(2008年6月30日)",
+      "value": 307,
+      "unit": "十亿美元（3070亿；存款1883亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：On June 30, 2008, WaMu had total assets of $307 billion … deposits of $188.3 billion；单一来源待核实。",
+      "sources": [
+        "w-en-washington-mutual"
+      ]
     }
   ],
   "schools": [

@@ -69,6 +69,17 @@
       "sources": [
         "w-en-uruguay-2002"
       ]
+    },
+    {
+      "label": "IMF支持总额",
+      "value": 3,
+      "unit": "十亿美元（30亿）",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：the International Monetary Fund to receive payouts from a total of US$3 billion；单一来源待核实。",
+      "sources": [
+        "w-en-uruguay-2002"
+      ]
     }
   ],
   "schools": [

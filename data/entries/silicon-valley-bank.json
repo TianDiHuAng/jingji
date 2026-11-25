@@ -61,6 +61,17 @@
       "sources": [
         "w-en-collapse-of-svb"
       ]
+    },
+    {
+      "label": "存款增长(2020年3月→2021年3月)",
+      "value": 124,
+      "unit": "十亿美元（由620亿增至1240亿）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：The bank’s deposits increased from $62 billion in March 2020 to $124 billion in March 2021；单一来源待核实。",
+      "sources": [
+        "w-en-collapse-of-svb"
+      ]
     }
   ],
   "schools": [
