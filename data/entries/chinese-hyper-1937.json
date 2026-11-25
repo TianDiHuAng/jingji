@@ -87,12 +87,12 @@
       ]
     },
     {
-      "label": "进口降幅(1942年较前)",
+      "label": "进口降幅(1942年较1941年)",
       "value": -50,
       "unit": "%",
       "year": 1942,
       "comparable_price": false,
-      "note": "原文：This led to a 50% decrease in imports in 1942；比较基期见原文，单一来源待核实。",
+      "note": "原文：This led to a 50% decrease in imports in 1942 compared to the previous year；单一来源待核实。",
       "sources": [
         "w-en-chinese-hyperinflation"
       ]

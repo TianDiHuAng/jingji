@@ -85,6 +85,17 @@
       "sources": [
         "w-en-hyperinflation-in-brazil"
       ]
+    },
+    {
+      "label": "月通胀率(1990年4月，Collor计划后)",
+      "value": 11.3,
+      "unit": "%（自3月81.3%回落）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：reducing monthly inflation from 81.3% in March 1990 to 11.3% in April 1990；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-brazil"
+      ]
     }
   ],
   "schools": [

@@ -101,6 +101,17 @@
       "sources": [
         "owid-real-gdp"
       ]
+    },
+    {
+      "label": "Selic利率峰值",
+      "value": 14.25,
+      "unit": "%（年率）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：caused the Selic Rate to rise successively until reaching 14.25% per year；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-brazil-2014"
+      ]
     }
   ],
   "schools": [

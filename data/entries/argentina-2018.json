@@ -81,6 +81,28 @@
       "sources": [
         "owid-inflation"
       ]
+    },
+    {
+      "label": "IMF初始贷款",
+      "value": 50,
+      "unit": "十亿美元（500亿）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：The initial loan was $50 billion；单一来源待核实。",
+      "sources": [
+        "w-en-argentina-2018"
+      ]
+    },
+    {
+      "label": "央行政策利率峰值",
+      "value": 60,
+      "unit": "%",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：The Central Bank increased the interest rate again, to 60%；单一来源待核实。",
+      "sources": [
+        "w-en-argentina-2018"
+      ]
     }
   ],
   "schools": [

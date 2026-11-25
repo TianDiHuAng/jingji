@@ -58,6 +58,17 @@
       "sources": [
         "w-en-barings-1995"
       ]
+    },
+    {
+      "label": "里森交易造成的总损失",
+      "value": 827,
+      "unit": "百万英镑（约13亿美元，为银行可用资本两倍）",
+      "year": 1995,
+      "comparable_price": false,
+      "note": "原文：Leeson’s activities had generated losses totalling £827 million ($1.3 billion), twice the bank’s available trading capital；单一来源待核实。",
+      "sources": [
+        "w-en-barings-1995"
+      ]
     }
   ],
   "schools": [
