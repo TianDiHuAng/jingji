@@ -1,0 +1,31 @@
+# Disinflation
+# source w-en-disinflation
+Disinflation is a decrease in the rate of inflation – a slowdown in the relative rate of increase of the general price level of goods and services in a nation's gross domestic product over time. It is the opposite of reflation. 
+If the inflation rate is not very high to start with, disinflation can lead to deflation – decreases in the general price level of goods and services. For example if the annual inflation rate one month is 5% and it is 4% the following month, prices disinflated by 1% but are still increasing at a 4% annual rate. If the current rate is 1% and it is -2% the following month, prices disinflated by 3% and are decreasing at a 2% annual rate.
+
+
+== See also ==
+Hyperinflation
+Stagflation
+Devaluation
+Chronic inflation
+Deflation
+
+
+== References ==
+
+
+== Further reading ==
+Meltzer, A.H. (2006), "From Inflation to More Inflation, Disinflation, and Low Inflation", American Economic Review, 96 (2): 185–188, doi:10.1257/000282806777211900, S2CID 3789479
+Goodfriend, M.; King, R.G. (2005), "The incredible Volcker disinflation", Journal of Monetary Economics, 52 (5): 981–1015, doi:10.1016/j.jmoneco.2005.07.001
+Calvo, G.A.; Celasun, O.Y.A.; Kumhof, M. (2003), "Inflation Inertia and Credible Disinflation-The Open Economy Case", NBER Working Paper No. 9557, doi:10.3386/w9557
+Siklos, P.L.; Waterloo, O.N.; Zhang, Y.; Ottawa, O.N. (2006), "Inflation, Disinflation, and Deflation in China: Identifying the Shocks Driving Inflation" (PDF), Western Economic Association Meetings in San Diego, California, and the Summer Workshop of the Hong Kong Institute for Monetary Research, archived from the original (PDF) on 2016-03-03, retrieved 2008-11-17
+Guillermo Calvo; Carlos A. Vegh (1999), "Inflation Stabilization and BOP Crisis in Developing Countries", NBER Working Paper No. 6925, doi:10.3386/w6925
+
+
+== External links ==
+Globalization and Global Disinflation by Kenneth Rogoff, at IMF.com
+What is Disinflation by Timothy McMahon, at InflationData.com
+voxeu.org
+investopedia.com - Disinflation
+http://economia.unipv.it/pagp/pagine_personali/gascari/disiflation_msvsirr_may_2011.pdf Archived 2012-04-25 at the Wayback Machine

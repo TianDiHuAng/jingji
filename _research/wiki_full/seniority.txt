@@ -1,0 +1,18 @@
+# Seniority (financial)
+# source w-en-seniority
+In finance, seniority refers to the order of repayment in the event of a sale or bankruptcy of the issuer. Seniority can refer to either debt or preferred stock. Senior debt must be repaid before subordinated (or junior) debt is repaid. Each security, either debt or equity, that a company issues has a specific seniority or ranking. Bonds that have the same seniority in a company's capital structure are described as being pari passu. Preferred stock is senior to common stock in a sale when preferred shareholders must receive back their preference, typically their original investment amount, before the common shareholders receive anything.
+
+
+== FpML ==
+The seniority of bonds recognised in FpML (Financial products Markup Language) are as follows:
+
+
+== See also ==
+Security interest
+Secured creditor
+Senior debt
+Unsecured creditor
+Preferential creditor
+
+
+== References ==

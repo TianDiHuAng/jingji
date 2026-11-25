@@ -1,0 +1,25 @@
+# Call option
+# source w-en-call-option
+In finance, a call option (often simply a "call") is an option contract that gives its buyer the right, but not the obligation, to buy an agreed quantity of a particular commodity, security, or other financial instrument from the seller at a specified price. The asset or instrument to which the option relates is known as the underlying, and the specified purchase price is known as the strike price. The right may be exercisable at or before a specified date, depending on the terms of the option.
+The seller, or "writer", of the call option is obliged to sell the underlying to the buyer if the buyer exercises the option. The buyer pays the seller a premium for this right. A call option gives the buyer positive exposure to the underlying asset, while the writer has the corresponding obligation if the option is exercised. The term "call" comes from the fact that the owner has the right to "call the stock away" from the seller.
+
+
+== Price of options ==
+The value of an option depends on factors including the price of the underlying instrument, the strike price, the time to expiry, interest rates, expected dividends, and expected volatility.
+For a call option, the payoff at expiry is the excess, if any, of the market value of the underlying instrument over the strike price, written as max⁡(ST−X,0). Greater volatility generally increases the value of a call option, because it increases the probability of a high payoff. A longer time to expiry can also increase the value of an option, because it gives the option more opportunity to finish in the money. Interest rates affect the present value of the future payoff, while expected dividends or other distributions may reduce the value of a call option by reducing the value of the underlying instrument when they are paid.
+Determining option values is one of the central functions of financial mathematics. A common method is the Black–Scholes model, which gives a theoretical price for European-style options under specified assumptions.
+
+
+== See also ==
+Covered call
+Moneyness
+Naked call
+Naked put
+Option time value
+Pre-emption right
+Put option
+Put–call parity
+Right of first refusal
+
+
+== References ==

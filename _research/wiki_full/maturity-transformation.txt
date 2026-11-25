@@ -1,0 +1,11 @@
+# Maturity transformation
+# source w-en-maturity-transformation
+Maturity transformation is the practice by financial institutions of borrowing money on shorter timeframes than they lend money out. Financial markets also have the effect of maturity transformation whereby investors such as shareholders and bondholders can sell their shares and bonds in the secondary market (i.e. the larger part of the stock market) at any time without affecting the company that issued the shares or bonds. Thus the company can be a long-term borrower from a market of short-term lenders. The short-term lenders are simply buying and selling the ownership of the shares or bonds on the stock market. The company keeps a register of owners and changes the name whenever there is a sale.
+
+
+== See also ==
+Asset–liability mismatch
+Fractional reserve banking
+
+
+== References ==

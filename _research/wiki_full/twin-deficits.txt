@@ -1,0 +1,51 @@
+# Twin deficits hypothesis
+# source w-en-twin-deficits
+In macroeconomics, the twin deficits hypothesis or the twin deficits phenomenon, is the observation that, theoretically, there is a strong causal link between a nation's government budget balance and its current account balance.
+
+
+== Definition ==
+Standard macroeconomic theory points to how a budget deficit can be a contributing factor to a current account deficit. This link can be seen from considering the national accounting model of the economy:
+
+Y=C+I+G+(X−M),
+where Y represents national income or GDP, C is consumption, I is investment, G is government spending and X–M stands for net exports. This represents GDP because all the production in an economy (the left hand side of the equation) is used as consumption (C), investment (I), government spending (G), and goods that are exported in excess of imports (NX). Another equation defining GDP using alternative terms (which in theory results in the same value) is
+
+Y=C+S+T,
+where Y is again GDP, C is consumption, S is private saving, and T is taxes. This is because national income is also equal to output, and all individual income either goes to pay for consumption (C), to pay taxes (T), or is saved (S).
+
+
+== Proof ==
+
+Since
+Y=C+I+G+NX, and
+Y−C−T=S, then
+S=G−T+NX+I, which simplifies to the sectoral balances identity
+(S−I)+(T−G)=(NX)
+If (T-G) is negative, we have a budget deficit.
+Now, assume an economy already at potential output, meaning Y is fixed. In this case, if the budget deficit increases, and saving remains the same, then this last equation implies that either investment (I) must fall (see crowding out), or net exports (NX) must fall, causing a trade deficit. Hence, a budget deficit can also lead to a trade deficit, causing a twin deficit.
+Though the economics guiding which of the two is used to finance the government deficit can get more complicated than what is shown above, the essence of it is that if foreigners' savings pay for the budget deficit, the current account deficit grows. If the country's own citizens' savings finance the borrowing, it may cause a crowding out effect (in an economy at or near potential output, or full employment).
+
+
+== Example ==
+
+In the US, the budget deficit is financed about half from foreigners, half domestically. When the US imports more goods and services than it exports, the difference is made up by exporting dollars (usually in the form of Treasury securities). 
+
+An economy is deemed to have a double deficit if it has a current account deficit and a fiscal deficit. In effect, the economy is borrowing from foreigners in exchange for foreign-made goods. Traditional macroeconomics predicts that persistent double deficits will lead to currency devaluation/depreciation that can be severe and sudden.
+In the case of the United States, the twin deficit graph as a percentage of GDP shows that the budget and current account deficits did move broadly in sync from 1981 until the early 1990s, but since then, they have moved apart. Data thus confirm that as a government budget deficit widens, the current account falls, but the relationship is complicated by what happens to investment and private saving.
+
+In the above equation, it is verifiable that CA will deteriorate as government expenditure exceeds the amount of tax that is collected.
+One way to understand this process is to consider two different markets. The first example is the foreign exchange market. At equilibrium, the 'quantity supplied' = the 'quantity demanded'. Thus, 'Imports' + 'Capital outflow' = 'Exports' + 'Capital inflow'. Rearranging this equation leads to the equation 'Imports' − 'Exports' = 'Capital inflow' − 'Capital outflow'. Because 'Imports' − 'Exports' = 'Trade deficit', and because 'Capital inflow' − 'Capital outflow' = 'Net capital inflow', it follows that 'Trade deficit' = 'Net capital inflow' (or 'Current Account deficit' = 'Capital account surplus').
+The second example the market for loanable funds on international money markets. The equilibrium here is 'Saving' + 'Net capital inflow' = 'Investment' + 'Budget deficit'. However, taking the Forex (foreign exchange) market into consideration, it is clear that the trade deficit is equal to the net capital inflow. Hence 'Saving' + 'Trade deficit' = 'Investment' + 'Budget deficit'.
+Rearranging algebraically, 'Budget deficit' = 'Saving' + 'Trade deficit' − 'Investment'.
+From this analysis, it should be clear why an increased budget deficit goes up and down in tandem with the Trade Deficit. This is where we derive the appellation the Twin Deficits: if the US budget deficit goes up then either household savings must go up, the trade deficit must go up, or private investment will decrease.
+
+
+== See also ==
+Double Deficit (economics)
+
+
+== References ==
+
+
+== Further reading ==
+Ghosh, Atish; Ramakrishnan, Uma (December 2006), "Do Current Account Deficits Matter?", Finance and Development, 43 (4)
+Understanding the Twin Deficits: New Approaches, New Results FRBSF Economic Letter.

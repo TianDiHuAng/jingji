@@ -1,0 +1,52 @@
+# Core inflation
+# source w-en-core-inflation
+Core inflation is a type of inflation measure which seeks to represent the underlying long-run trend of aggregate price levels in the economy. This is achieved by removing certain items exhibiting short-term significant price fluctuations within the overall consumer basket (as typically measured by the headline Consumer Price Index or other relevant price indices). Core inflation is thus intended to be an indicator and predictor of underlying long-term inflation.
+The most common approach in accomplishing this is by excluding items frequently subject to volatile price movements, like food and energy. Every country maintains its own calculation of its official core inflation figure and usually reported as complementary to the overall headline inflation by most national statistical agencies. Throughout the years, econometricians have likewise devised alternative approaches in computing core inflation using more formal methodologies.
+
+
+== History ==
+The concept of core inflation as aggregate price growth excluding food and energy was introduced in a 1975 paper by Robert J. Gordon. This is the definition of "core inflation" most used for political purposes. The core inflation model was subsequently developed and advocated by Otto Eckstein, in a paper published in 1981.  According to the economic theory historian Mark A. Wynne, "Eckstein was the first to propose a formal definition of core inflation, as the 'trend rate of increase of the price of aggregate supply.'”
+
+
+== Usage ==
+In the United States, the Federal Open Market Committee states its 2 percent longer-run inflation objective in terms of the overall personal consumption expenditures price index, not the core index. Federal Reserve policymakers also examine core measures, which commonly exclude food and energy prices, to help identify inflation trends, while ultimately seeking to stabilize overall consumer prices.  
+Several central banks also utilize core inflation as their primary target from the perceived impact of monetary policy to influence economic demand. This is due to the overall headline inflation including volatile commodity items wherein short-term seasonal price fluctuations cannot be sufficiently addressed through monetary policy alone, and may require non-monetary interventions such as price controls, addressing supply chain bottlenecks, or other forms of fiscal policies.
+In 2006, an analysis by the Federal Reserve Bank of New York indicated that as a measure, core inflation was no better than a moving average of the Consumer Price Index or CPI as a predictor of inflation.
+
+
+== Approaches to core inflation ==
+Core inflation can be computed using various approaches in order to capture underlying inflationary pressures. Central banks, at times, calculate core inflation outside of the official figure by statistical agencies to enable them to determine specific sources of inflationary pressures.
+
+
+=== Exclusion-based methods ===
+This approach is the most common method of determining core inflation adopted by various countries and central banks, which involves computing a separate index by removing a pre-determined set of volatile items (typically food and energy items) from the overall headline inflation. These policy-setting bodies broadly cited ease of understanding by the public for utilizing this approach in reporting official core inflation compared to other approaches. Some countries also consider removing items which can be indirectly influenced by monetary policy, such as the United Kingdom's RPIX, which excludes mortgage interest payments from the headline Retail Price Index (RPI) figure.
+While seen as the simplest method in computing core inflation, exclusion-based methods can mask structural changes in inflation dynamics driven by shifts in fiscal policies, such as price regulations on less volatile items, price subsidies, tax policies, among others.
+
+
+=== Trimmed mean ===
+
+The trimmed mean core inflation is derived by removing items with both extreme positive and negative price fluctuations at certain percentage threshold levels. This is done to capture inflation using only items that are unlikely to have been influenced by strong extraneous or seasonal factors. In the United States, the Dallas Federal Reserve computes trimming at 19.4% at the lower tail end and 25.4% at the upper tail end. The Bank of Canada use 20% trim for both the lower and upper tail ends.
+
+
+=== Weighted median ===
+The median inflation is derived from arranging the changes in price levels at specific item level specifications, then the cumulative weight influence is computed wherein the price change exactly located at the 50th percentile is reported as median core inflation. In the US, the median core inflation is usually higher than the trimmed core inflation figures (both PCE and CPI). The Cleveland Federal Reserve computes a Median CPI and a 16% trimmed mean CPI. There also is a median PCE, but it is not widely used as a predictor of inflation.
+Trimmed mean and median inflation offer formal approaches of stripping out commodity items which exhibit significant price movements on a regular basis, in contrast to the exclusion-based approach which fixes the excluded items in its calculation. However, its more rigorous methodology and the constant shifting of excluded items are seen to potentially cause confusion to the public, especially in high inflationary environments. This phenomenon while using more formal approaches can likewise confuse policymakers in identifying persistent sources of price pressures.
+
+
+=== Econometric-based models ===
+Some central banks utilize econometric-based approaches to core inflation which consider historical patterns of price behaviors and attempt to explain current price movements with the aid of statistical techniques, such as regression analysis. The Bank of Canada uses an approach based on the common component, called "CPI-common" in its set of core inflation figures. However, its less intuitive nature limits its use to economists and experts. This approach can also become prone to substantial revisions as unusual economic behaviors or disruptions (e.g. the COVID-19 pandemic) might warrant changes in the assumptions used for this approach. The Bank of Canada likewise advised the public that "caution is necessary when interpreting real-time estimates of CPI-common in the current environment [i.e. pandemic]."
+
+
+== See also ==
+Headline inflation
+Inflationism
+Inflation hedge
+
+
+== References ==
+
+
+== External links ==
+Core Inflation: A Review of Some Conceptual Issues, Mark A.Wynne, Federal Reserve Bank of St. Louis Review, May/June 2008
+OECD inflation statistics
+Core Logic, Paul Krugman,  February 26, 2010 – explanation of concept and motivation

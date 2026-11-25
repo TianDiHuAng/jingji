@@ -1,0 +1,151 @@
+# Swap (finance)
+# source w-en-swap
+In finance, a swap is a contract in which two parties agree to exchange one stream of payments for another, using an agreed formula. Swaps are a type of derivative. The most common kind is the interest rate swap, in which one party pays a fixed interest rate and the other pays a floating rate, both worked out on the same notional amount. In most swaps the original loan amount is not exchanged. 
+Swaps are mostly private deals, called over-the-counter contracts, between banks, companies and other large institutions. Retail investors rarely use them. Companies use swaps to manage interest rate and currency risk, to match their assets and debts, or to lower borrowing costs. The main types are interest rate, basis, currency, inflation, credit default, commodity and equity swaps.
+Swaps became publicly known in 1981, when IBM and the World Bank agreed one.  Most are still written to suit the two parties involved. However, in 2010 the US Dodd–Frank Act required many swaps to be reported and cleared through clearing houses, and created swap execution facilities for trading them. This led to swap data repositories, which collect trade records.
+
+
+== Over-the-counter swaps ==
+Swaps were first introduced to the public in 1981 when IBM and the World Bank entered into a swap agreement. Today, swaps are among the most heavily traded financial contracts in the world.
+Originally, swaps were a private deal between two parties rather than a standard contract sold by an exchange. Swaps were customised bilateral agreements to exchange cash flows over a set period, calculated on an agreed notional amount. Most swaps were traded over-the-counter, OTC, and drafted specifically for the counterparties.
+After the 2008 financial crisis, regulators moved to narrow the gap between OTC and exchange-traded markets. Central clearing for standardised swaps was introduced. Regulators in most major markets required certain standardised OTC derivatives, particularly interest rate swaps and credit default swaps, to be centrally cleared. Also, a margin was required for swaps that stayed uncleared. The final phase of initial margin rules took effect in September 2017 and required all financial counterparties to post initial margin on uncleared OTC derivatives.
+
+
+== Swap exchanges ==
+In the United States a swap execution facility (SEF) or  swaps execution facility is a platform for financial swap trading that provides pre-trade information (i.e. bid and offer prices) and a mechanism for executing swap transactions among eligible participants.
+Swap execution facilities are regulated by the Securities and Exchange Commission and the Commodity Futures Trading Commission.  The regulated trading of certain swaps is a result of requirements in the United States by the Dodd–Frank Wall Street Reform and Consumer Protection Act (in particular Title VII). Financial swaps have traditionally been traded in over-the-counter (OTC) markets. However, regulatory changes have driven reporting, clearing, and settlement functions to SEFs, which are much more tightly regulated.
+As of 2 October 2013, any swap listed by a SEF may be traded by the parties on the SEF, but may also be traded off-SEF in any other lawful manner. The swaps that must be traded on SEFs are both subject to a CFTC-centralized clearing mandate and have been determined to be "made available to trade" (MAT) by at least one SEF. Four categories of interest rate swaps and two categories of credit default swaps are currently subject to clearing mandates. 
+
+
+=== Swap data repositories ===
+The Dodd-Frank act mandates that swaps be reported to and cleared through exchanges or clearing houses. This subsequently led to the formation of swap data repositories (SDR), a central facility for swap data reporting and recordkeeping. Data vendors, such as Bloomberg, and large exchanges, such as the Chicago Mercantile Exchange, were among the first to register as SDRs. Other exchanges followed, such as the Intercontinental Exchange and Frankfurt-based Eurex AG. 
+According to the 2018 SEF Market Share Statistics, Bloomberg dominates the credit rate swap market with 80% share; TP dominates the FX dealer to dealer market (46% share); Reuters dominates the FX dealer to client market (50% share); Tradeweb is strongest in the vanilla interest rate swap market (38% share); TP is the biggest platform in the basis swap market (53% share); BGC dominates both the swaption and XCS markets; Tradition is the biggest platform for caps and floors (55% share).
+
+2017 Bank for International Settlements IRS, FX & Equity. 2025 Bank for International Settlements Credit & Commodity.
+
+
+== Documentation ==
+
+
+== Swap market efficiency ==
+Firms using currency swaps have statistically higher levels of long-term foreign-denominated debt than firms that use no currency derivatives. Conversely, the primary users of currency swaps are non-financial, global firms with long-term foreign-currency financing needs. From a foreign investor's perspective, valuation of foreign-currency debt would exclude the exposure effect that a domestic investor would see for such debt. Financing foreign-currency debt using domestic currency and a currency swap is therefore superior to financing directly with foreign-currency debt.
+The two primary reasons for swapping interest rates are to better match maturities of assets and liabilities and/or to obtain a cost savings via the quality spread differential (QSD). Empirical evidence suggests that the spread between AAA-rated commercial paper (floating) and A-rated commercial paper is slightly less than the spread between AAA-rated five-year obligation (fixed) and an A-rated obligation of the same tenor. These findings suggest that firms with lower (higher) credit ratings are more likely to pay fixed (floating) in swaps, and fixed-rate payers would use more short-term debt and have shorter debt maturity than floating-rate payers. In particular, the A-rated firm would borrow using commercial paper at a spread over the AAA rate and enter into a (short-term) fixed-for-floating swap as payer.
+
+
+== Types of swaps ==
+The generic types of swaps, in order of their quantitative importance, are: interest rate swaps, basis swaps, currency swaps, inflation swaps, credit default swaps, commodity swaps and equity swaps. There are also many other types of swaps.
+
+
+=== Interest rate swaps ===
+
+The most common type of swap is an interest rate swap. Some companies may have comparative advantage in fixed rate markets, while other companies have a comparative advantage in floating rate markets. When companies want to borrow, they look for cheap borrowing, i.e. from the market where they have comparative advantage. However, this may lead to a company borrowing fixed when it wants floating, or borrowing floating when it wants fixed. This is where a swap comes in. A swap has the effect of transforming a fixed rate loan into a floating rate loan or vice versa.
+For example, party B makes periodic interest payments to party A based on a variable interest rate of LIBOR +70 basis points. Party A, in return, makes periodic interest payments based on a fixed rate of 8.65%. The payments are calculated over the notional amount. The first rate is called variable because it is reset at the beginning of each interest calculation period to the then current reference rate, such as LIBOR. In reality, the actual rate received by A and B is slightly lower due to a bank taking a spread.
+
+
+==== Basis swaps ====
+
+A basis swap involves exchanging floating interest rates based on different money markets. The principal is not exchanged. The swap effectively limits the interest-rate risk as a result of having differing lending and borrowing rates.
+
+
+=== Currency swaps ===
+
+A currency swap involves exchanging principal and fixed rate interest payments on a loan in one currency for principal and fixed rate interest payments on an equal loan in another currency. Like interest rate swaps, the currency swaps are also motivated by comparative advantage. Currency swaps entail swapping both principal and interest between the parties, with the cashflows in one direction being in a different currency than those in the opposite direction. It is also a crucial uniform pattern in individuals and customers.
+
+
+=== Inflation swaps ===
+
+An inflation-linked swap involves exchanging a fixed rate on a principal for an inflation index expressed in monetary terms. The primary objective is to hedge against inflation and interest-rate risk.
+
+
+=== Commodity swaps ===
+
+A commodity swap is an agreement whereby a floating (or market or spot) price is exchanged for a fixed price over a specified period. The vast majority of commodity swaps involve crude oil.
+
+
+=== Credit default swap ===
+
+An agreement whereby the payer periodically pays premiums, sometimes also or only a one-off or initial premium, to the protection seller on a notional principal for a period of time so long as a specified credit event has not occurred. The credit event can refer to a single asset or a basket of assets, usually debt obligations. In the event of default, the payer receives compensation, for example the principal, possibly plus all fixed rate payments until the end of the swap agreement, or any other way that suits the protection buyer or both counterparties. The primary objective of a CDS is to transfer one party's credit exposure to another party.
+
+
+=== Subordinated risk swaps ===
+A subordinated risk swap (SRS), or equity risk swap, is a contract in which the buyer (or equity holder) pays a premium to the seller (or silent holder) for the option to transfer certain risks. These can include any form of equity, management or legal risk of the underlying (for example a company). Through execution the equity holder can (for example) transfer shares, management responsibilities or else. Thus, general and special entrepreneurial risks can be managed, assigned or prematurely hedged. Those instruments are traded over-the-counter (OTC) and there are only a few specialized investors worldwide.
+
+
+=== Equity swap ===
+
+An agreement to exchange future cash flows between two parties where one leg is an equity-based cash flow such as the performance of a stock asset, a basket of stocks or a stock index. The other leg is typically a fixed-income cash flow such as a benchmark interest rate.
+
+
+=== Other variations ===
+There are myriad different variations on the vanilla swap structure, which are limited only by the imagination of financial engineers and the desire of corporate treasurers and fund managers for exotic structures.
+
+A total return swap is a swap in which party A pays the total return of an asset, and party B makes periodic interest payments. The total return is the capital gain or loss, plus any interest or dividend payments. Note that if the total return is negative, then party A receives this amount from party B. The parties have exposure to the return of the underlying stock or index, without having to hold the underlying assets. The profit or loss of party B is the same for him as actually owning the underlying asset.
+A swaption (a portmanteau of "swap" and "option") is an option granting its owner the right but not the obligation to enter into an underlying swap on specified terms at a future date. In practice the term is most commonly used for options on interest rate swaps, where the holder has the right to enter into a fixed-for-floating interest rate swap.
+A variance swap is an over-the-counter financial derivative that allows one to speculate on or hedge risks associated with the magnitude of movement, i.e. volatility, of some underlying product, like an exchange rate, interest rate, or stock index.
+A constant maturity swap (CMS) is a swap that allows the purchaser to fix the duration of received flows on a swap.
+An amortizing swap is usually an interest rate swap in which the notional principal for the interest payments declines during the life of the swap, perhaps at a rate tied to the prepayment of a mortgage or to an interest rate benchmark such as the LIBOR. It is suitable to those customers of banks who want to manage the interest rate risk involved in predicted funding requirement, or investment programs.
+A zero coupon swap is of use to those entities which have their liabilities denominated in floating rates but at the same time would like to conserve cash for operational purposes.
+A deferred rate swap is particularly attractive to those users of funds that need funds immediately but do not consider the current rates of interest very attractive and feel that the rates may fall in future.
+An accreting swap is used by banks which have agreed to lend increasing sums over time to its customers so that they may fund projects.
+A forward swap is an agreement created through the synthesis of two swaps differing in duration for the purpose of fulfilling the specific time-frame needs of an investor. Also referred to as a forward start swap, delayed start swap, and a deferred start swap.
+A quanto swap is a cash-settled, cross-currency interest rate swap in which one counterparty pays a foreign interest rate to the other, but the notional amount is in domestic currency. The second party may be paying a fixed or floating rate. For example, a swap in which the notional amount is denominated in Canadian dollars, but where the floating rate is set as USD LIBOR, would be considered a quanto swap. Quanto swaps are known as differential or rate-differential or diff swaps.
+A range accrual swap (or range accrual note) is an agreement to pay a fixed or floating rate while receiving cash flows from a fixed or floating rate which are accrued only on those days where the second rate falls within a preagreed range. The received payments are maximized when the second rate stays entirely within the range for the duration of the swap.
+A three-zone digital swap is a generalization of the range accrual swap, the payer of a fixed rate receives a floating rate if that rate stays within a certain preagreed range, or a fixed rate if the floating rate goes above the range, or a different fixed rate if the floating rate falls below the range.
+
+
+== Valuation and pricing ==
+
+The value of a swap is the net present value (NPV) of all expected future cash flows, essentially the difference in leg values. 
+A swap is thus "worth zero" when it is first initiated, otherwise one party would be at an advantage, and arbitrage would be possible; 
+however after this time its value may become positive or negative.
+While this principle holds true for any swap, the following discussion is for plain vanilla interest rate swaps and is representative of pure rational pricing as it excludes credit risk. 
+For interest rate swaps, there are in fact two methods, which will (must) return the same value: 
+in terms of bond prices, or as a portfolio of forward contracts. The fact that these methods agree, underscores the fact that rational pricing will apply between instruments also.
+
+
+=== Arbitrage arguments ===
+
+As mentioned, to be arbitrage free, the terms of a swap contract are such that, initially, the NPV of these future cash flows is equal to zero. Where this is not the case, arbitrage would be possible.
+For example, consider a plain vanilla fixed-to-floating interest rate swap where Party A pays a fixed rate, and Party B pays a floating rate. In such an agreement the fixed rate would be such that the present value of future fixed rate payments by Party A are equal to the present value of the expected future floating rate payments (i.e. the NPV is zero). Where this is not the case, an Arbitrageur, C, could:
+
+assume the position with the lower present value of payments, and borrow funds equal to this present value
+meet the cash flow obligations on the position by using the borrowed funds, and receive the corresponding payments – which have a higher present value
+use the received payments to repay the debt on the borrowed funds
+pocket the difference – where the difference between the present value of the loan and the present value of the inflows is the arbitrage profit.
+Subsequently, once traded, the price of the Swap must equate to the price of the various corresponding instruments as mentioned above. Where this is not true, an arbitrageur could similarly short sell the overpriced instrument, and use the proceeds to purchase the correctly priced instrument, pocket the difference, and then use payments generated to service the instrument which he is short.
+
+
+=== Using bond prices ===
+While principal payments are not exchanged in an interest rate swap, assuming that these are received and paid at the end of the swap does not change its value. Thus, from the point of view of the floating-rate payer, a swap is equivalent to a long position in a fixed-rate bond (i.e. receiving fixed interest payments), and a short position in a floating rate note (i.e. making floating interest payments):
+
+Vswap=Bfixed−Bfloating
+From the point of view of the fixed-rate payer, the swap can be viewed as having the opposite positions. That is,
+
+Vswap=Bfloating−Bfixed
+Similarly, currency swaps can be regarded as having positions in bonds whose cash flows correspond to those in the swap. Thus, the home currency value is:
+
+Vswap=Bdomestic−S0Bforeign, where Bdomestic is the domestic cash flows of the swap, Bforeign is the foreign cash flows of the LIBOR is the rate of interest offered by banks on deposit from other banks in the eurocurrency market. One-month LIBOR is the rate offered for 1-month deposits, 3-month LIBOR for three months deposits, etc.
+LIBOR rates are determined by trading between banks and change continuously as economic conditions change. Just like the prime rate of interest quoted in the domestic market, LIBOR is a reference rate of interest in the international market.
+
+
+== Crypto exchange futures controversy ==
+A controversy has emerged in 2026 due to the Chicago Mercantile Exchange Group's lawsuit of its regulator, the Commodities Futures Trading Commission (CFTC), allowing crypto exchanges to offer perpetual futures. CME claims that they are actually swaps and are not futures. If the CFTC were to reclassify perpetual futures as swaps, it would likely result in narrower adoption of the practice since retail use of such contracts is uncommon.
+
+
+== See also ==
+Auction – Process of offering goods or services up for bids
+Fuel price risk management – Strategies used to reduce financial exposure to fuel-price volatility
+Multi-curve framework – Mathematical finance concept
+Yield curve – Relationships among bond yields of different maturities
+
+
+== References ==
+Saunders, A.; Cornett, M. (2006). Financial Institutions Management. McGraw-Hill Irwin.
+
+
+== External links ==
+Understanding Derivatives: Markets and Infrastructure, Federal Reserve Bank of Chicago, Financial Markets Group
+Investment-foundations: Derivatives. Archived 2020-10-27 at the Wayback Machine, CFA Institute
+Bank for International Settlements
+International Swaps and Derivatives Association
+First take, Dodd-Frank's SEC's Cross-Border Derivatives Rule

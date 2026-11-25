@@ -1,0 +1,65 @@
+# Exorbitant privilege
+# source w-en-exorbitant-privilege
+The term exorbitant privilege refers to the benefits that the United States, as the world's supplier of safe assets, derives from its own currency (the US dollar) being the international reserve currency. These safe assets, primarily government debt, tend to be sold at higher prices than the debt of other governments. Exorbitant privilege enables the United States (and other states in a similar situation in history) to borrow beyond the fiscal capacity of other states. It also reduces price volatility in U.S. foreign trade, and gives the U.S. the means to impose costly sanctions on other states. 
+The Dutch Republic had exorbitant privilege in the 17th and early 18th century. The United Kingdom had exorbitant privilege for much of the 19th and early 20th century. Around 1815, British national debt accounted for more than half of the world’s traded securities. Prior to World War I, the UK was at the center of global trade, the pound was the world's reserve currency, and the UK was the world’s safe asset supplier. When exorbitant privilege is lost, investors into government bonds suffer substantial losses and the affected government resorts to financial repression.
+As of 2025, U.S. dollars were 58% of central bank reserves held outside of the United States; the overwhelming share of international trade is conducted in U.S. dollars (including 74% of trade in Asia and 96% of trade in the Americas); and approximately 90% of foreign exchange transactions involve U.S. dollars. During times of international financial stress, demand for U.S. dollars typically increases, as it is perceived to be a safe asset.
+Scholars have debated to what extent the position of the United States as the supplier of the world's safe assets is in peril for the future. On one hand, there are positive feedback effects associated with the exorbitant privilege that makes it hard for other currencies to become strong alternatives. U.S. administrations have also tended to maintain international alliances and safeguard domestic institutions (such as the independence of the Federal Reserve) that make the dollar desirable. On the other hand, recent U.S. political instability and attempts by the second Donald Trump administration to weaken Federal Reserve independence, attack official statistical agencies, and question international commitments have raised concerns among economists.
+
+
+== Origin ==
+The term exorbitant privilege was coined in the 1960s by Valéry Giscard d'Estaing, then Minister of Finance, who would later become president of France. The phrase is often incorrectly credited to Charles de Gaulle, although he also did share similar views. 
+Some scholars argue that democracies tend to some of the advantages associated with the exorbitant privilege, as investors perceive democracies to be less risky for investment. 
+
+
+== Opposition in France ==
+In the Bretton Woods system put in place in 1944, U.S. dollars were convertible to gold between countries. In France, it was called "America's exorbitant privilege" as it resulted in an "asymmetric financial system" where foreigners "see themselves supporting American living standards and subsidizing American multinationals". As American economist Barry Eichengreen summarized: "It costs only a few cents for the Bureau of Engraving and Printing to produce a $100 bill, but other countries had to pony up $100 of actual goods in order to obtain one."
+In February 1965, President Charles de Gaulle announced his intention that France exchange its U.S. dollar reserves for gold at the official exchange rate. He sent the French Navy across the Atlantic to pick up the French reserve of gold and was followed by several countries. As it resulted in considerably reducing U.S. gold stock and U.S. economic influence, it led U.S. President Richard Nixon to end the convertibility of the dollar to gold on August 15, 1971 (the "Nixon Shock"). This was meant to be a temporary measure but the dollar became permanently a floating fiat money and in October 1976, the U.S. government officially changed the definition of the dollar; references to gold were removed from statutes.
+
+
+== Effects of the exorbitant privilege ==
+Lower Borrowing Costs: The US can borrow at lower interest rates because there is a high demand for dollar-denominated assets.
+Trade Deficits: The US can run larger trade deficits without facing a balance of payments crisis, as its imports are purchased in its own currency.
+Currency Stability: The dollar's status provides domestic stability and liquidity in global markets.
+Economic Influence: The US has greater influence over global economic policies and financial markets.
+Global Financial Stability: Since many countries hold reserves in US dollars, any significant shift in the value of the dollar can affect global financial stability.
+Geopolitical Power: The dominance of the dollar enhances the US's geopolitical influence, as many countries rely on it for international transactions.
+Export Consequences: A stronger dollar can make US exports more expensive and less competitive in global markets.
+Capital Flows: The US experiences significant inflows of foreign investment
+Monetary Policy Autonomy: The Federal Reserve has greater flexibility in setting monetary policy without worrying as much about the immediate effect on exchange rates or capital flows.
+Seigniorage revenue: to obtain U.S. dollars, other countries have to supply the U.S. with goods and services in return for those dollars.
+
+
+== The position puzzle ==
+Academically, the exorbitant privilege literature analyzes two empirical puzzles, the position puzzle and the income puzzle. The position puzzle refers to the difference between the (negative) U.S. net international investment position (NIIP) and the accumulated U.S. current account deficits, the former being much smaller than the latter. The income puzzle is that despite a deeply negative NIIP, the U.S. income balance is positive, i.e. despite having much more liabilities than assets, earned income is higher than interest expenses.
+
+
+== See also ==
+Demurrage currency
+Reserve currency
+Seigniorage
+Euro
+
+
+== References ==
+
+
+== Literature ==
+Curcuru, Stephanie; Thomas, Charles P.; Warnock, Francis E. (2013). "On Returns Differentials" (PDF). International Finance Discussion Papers. 2013 (1077). Board of Governors of the Federal Reserve System: 1–53. doi:10.17016/IFDP.2013.1077. 1077.
+Curcuru, Stephanie; Dvorak, Tomas; Warnock, Francis (2008). "Cross-Border Returns Differentials" (PDF). The Quarterly Journal of Economics. 123 (4). Oxford University Press: 1495–1530. doi:10.1162/qjec.2008.123.4.1495. JSTOR 40506215.
+Curcuru, Stephanie; Thomas, Charles P.; Warnock, Francis E. (2009). "Current account sustainability and relative reliability". In Frankel, J.; Pissarides, C. (eds.). NBER International Seminar on Macroeconomics 2008. University of Chicago Press. pp. 67–109.
+de Vries, Margaret Garritsen (1976). The International Monetary Fund, 1966–1971: The System Under Stress. Washington: International Monetary Fund. ISBN 978-0-939934-11-9.
+Eichengreen, Barry (2011). Exorbitant privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System. Oxford: Oxford University Press. ISBN 978-0-19-959671-3.
+Forbes, Kristin J. (2010). "Why do foreigners invest in the United States?". Journal of International Economics. 80 (1): 3–21. doi:10.1016/j.jinteco.2009.09.001. hdl:1721.1/65425. S2CID 39665017.
+Gohrband, Christopher A.; Howell, Kristy L. (2015). Hulten, Charles R.; Reinsdorf, Marshall B. (eds.). "U.S. International Financial Flows and the U.S. Net Investment Position: New Perspectives Arising from New International Standards". Wealth, Financial Intermediation, and the Real Economy. 73. National Bureau of Economic Research: 231–270. doi:10.7208/Chicago/9780226204437.003.0008.
+Gourinchas, Pierre-Olivier; Rey, Hélène (2007a). "From world banker to world venture capitalist: The U.S. external adjustment and the exorbitant privilege". In Clarida, Richard (ed.). G7 Current Account Imbalances: Sustainability and Adjustment. University of Chicago Press. pp. 11–55.
+Gourinchas, Pierre-Olivier; Rey, Hélène (2007b). "International Financial Adjustment" (PDF). Journal of Political Economy. 115 (4). University of Chicago Press: 665–703. doi:10.1086/521966. JSTOR 10.1086/521966.
+Gourinchas, Pierre-Olivier; Rey, Hélène; Govillot, Nicolas (2010). "Exorbitant privilege and exorbitant duty" (PDF). IMES Discussion Paper. Bank of Japan. 2010-E-20.
+Habib, Maurizio Michael (2010). "Excess returns on net foreign assets – the exorbitant privilege from a global perspective" (PDF). European Central Bank Working Paper Series. European Central Bank. 1158.
+Lane, Philip R.; Milesi-Ferretti, Gian Maria (2005). "A Global Perspective on External Positions" (PDF). NBER Working Paper Series. National Bureau of Economic Research. 11589.
+Lane, Philip R.; Milesi-Ferretti, Gian Maria (2009). "Where did all the borrowing go? A forensic analysis of the U.S. external position". Journal of the Japanese and International Economies. 23 (2): 177-199. doi:10.1016/j.jjie.2008.11.002. S2CID 154476552.
+Lane, Philip R.; Pels, Barbara (2012). Current Account Imbalances in Europe. CEPR Discussion Papers. Centre for Economic Policy Research. 8958.
+Lin, Ken-Hou; Neely, Megan Tobias (2020). Divested: Inequality in financialized America. Oxford University Press. pp. 18–20. ISBN 978-0-19-063831-3.
+Meissner, C.M.; Taylor, A. M. (2006). "Losing our marbles in the new century? The Great Rebalancing in historical perspective". NBER Working Paper Series. National Bureau of Economic Research: 12580.
+Rogoff, K. S.; Obstfeld, M. (2005). "Global Current Account Imbalances and Exchange Rate Adjustments". Brookings Papers on Economic Activity. 36 (1): 67–146.
+Varoufakis, Yanis (2016). And the weak suffer what they must? : Europe's crisis and America's economic future. London: Penguin Random House. ISBN 978-1-78470-411-7.
+White, Eugène; Simard, Dominique; Bordo, Michael (1993). "La France et le système monétaire de Bretton Woods" [France and the Bretton Woods monetary system]. Revue d'économie financière (in French). 26 (3): 249–286. doi:10.3406/ecofi.1993.2015.

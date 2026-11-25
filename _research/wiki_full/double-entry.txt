@@ -1,0 +1,101 @@
+# Double-entry bookkeeping
+# source w-en-double-entry
+Double-entry bookkeeping, also known as double-entry accounting, is a method of bookkeeping in which every financial transaction is recorded with equal and opposite entries (debits and credits) - thus "balancing the books". The purpose of double-entry bookkeeping is to maintain accuracy in financial records and allow detection of errors or fraud.   
+The basis of double-entry bookkeeping is the accounting equation:
+Assets=Liabilities+Equity
+Every transaction recorded will keep this equation in balance.  For example, a company can buy a new piece of equipment (increasing an asset), it can spend cash (reducing an asset) or take on a loan (increasing a liability).  Based upon where an account sits within the accounting equation determines its normal balance - in this example, a debit to assets increases assets, whereas a credit to liabilities increases liabilities.
+The use of double-entry bookkeeping is a standard process for tracking business transactions that improves the ability of the users of financial information to read, process, and understand the financial picture of a company's operations.  As the complexity and volume of transactions increases, companies use ledgers and accounting information systems to automate the tracking of individual transactions and to create financial statements.
+
+
+== History ==
+
+
+=== Early Evolution ===
+One of the earliest known records of double-entry bookkeeping comes from a ledger kept by Florentine bankers in 1211. The ledger, kept by money changers working at a regional fair in Bologna, utilizes a relatively progressed version of double-entry with clear evidence of use of debit and credit systems, though some standardization shown in later records is missing. This may imply that the system began to evolve in the 12th century in order to reach a more refined form by 1211. Another early record that follows the modern double-entry system in Europe comes from Amatino Manucci, a Florentine merchant at the end of the 13th century.  Manucci was employed by the Farolfi firm and the firm's ledger of 1299–1300 evidences full double-entry bookkeeping. Giovannino Farolfi & Company, a firm of Florentine merchants  headquartered in Nîmes, acted as moneylenders to the Archbishop of Arles, their most important customer. Some sources suggest that Giovanni di Bicci de' Medici introduced this method for the Medici bank in the 14th century, though evidence for this is lacking.
+
+
+=== Diffusion Throughout Europe ===
+The double-entry system began to propagate between Italian merchant cities during the 14th century, and soon it was used regularly by bankers and traders. From there, it began to spread outside of Italy. In the Champagne fairs in France, Italian merchants and bankers used the double-entry system when recording ledgers. When international trade in Europe shifted to Venice in the 14th century, wholesale merchants trading there used it, and when it shifted again to Lyon and Antwerp in the 15th century, merchants at the fairs were had to use double-entry throughout the fair if they wanted to participate. From then on, most if not all international fairs used this system. However, only Italian bankers and merchants used double-entry bookkeeping outside of these international events until later writings spread the system across Europe. 
+In the course of the late 15th to 16th century, double-entry bookkeeping as a system was recorded and refined through the writings of Luca Pacioli, Domenico Manzoni, Barolomeo Fontana, the accountant Alvise Casanova, the erudite Giovanni Antonio Tagliente, and others. Benedetto Cotrugli (Benedikt Kotruljević), a Ragusan merchant and ambassador to Naples, described double-entry bookkeeping in his treatise Della mercatura e del mercante perfetto. Although it was originally written in 1458, no manuscript older than 1475 is known to remain, and the treatise was not printed until 1573. The printer shortened and altered Cotrugli's treatment of double-entry bookkeeping, obscuring the history of the subject. Luca Pacioli, a Franciscan friar and collaborator of Leonardo da Vinci, first codified the system in his mathematics textbook Summa de arithmetica, geometria, proportioni et proportionalità published in Venice in 1494. Pacioli is often called the "father of accounting" because he was the first to publish a detailed description of the double-entry system, thus enabling others to study and use it.
+After Pacioli and the diffusion of these methods through the international trade fairs, the double-entry system spread widely through Europe. Though attempts by state governments to standardize double-entry bookkeeping across their departments failed, its adoption across the country in European financial markets began in the 16th century and continued to spread through the 17th and 18th centuries, and was especially popular in England, where it was used within the East India Company and the Bank of England. In Spain, it began to be used commonly in large merchant cities, where it spread to the slave trade. In the Iberian slave trade, traders used double-entry account books as part of their system of valuation and depersonalization of slaves, where they were seen as property and traded for other goods or for currency in these ledgers. The necessity of a reliable system of accounting across the slave trade network facilitated the spread of the system across slave trading hubs and beyond, further diffusing the method.
+
+
+=== Impact on European Ideas ===
+In early modern Europe, double-entry bookkeeping had theological and cosmological connotations, recalling "both the scales of justice and the symmetry of God's world". In this period, where financial methods were shifting due to increased international trade as well as the slave trade, double-entry bookkeeping was seen as morally and factually correct. The idea of the system being objective truth lended a reputation of honesty to the merchants that used it, and its established system meant it was more reliable for future reference and for use as evidence in things such as legal proceedings. The double-entry system was also an early contributor to the concept of the "modern fact", the concept of a fact that is objectively true and separate from previously biased conclusions that began to form in the 16th-17th centuries, during the same time period double-entry bookkeeping was becoming widely used across Europe.
+
+
+== Approaches ==
+The double-entry system can be applied using two main methods: the traditional approach (British approach) and the accounting equation approach (American approach). Regardless of the method, every transaction maintains two aspects, debit and credit.
+
+
+=== Traditional approach ===
+Under the traditional (British) approach, accounts are divided into three categories: real accounts, personal accounts, and nominal accounts. Real accounts are accounts relating to assets both tangible and intangible in nature. Personal accounts are accounts relating to persons or organisations with whom the business has transactions and will mainly consist of accounts of debtors and creditors. Nominal accounts are accounts relating to revenue, expenses, gains, and losses. The golden rules of accounting guide the traditional approach:
+
+Real accounts: Debit what comes in, credit what goes out.
+Personal accounts: Debit the receiver, credit the giver.
+Nominal accounts: Debit expenses and losses, credit incomes and gains.
+
+
+=== Accounting equation approach ===
+Also known as the American approach, this method records transactions on the basis of the accounting equation : 
+Assets=Liabilities+Equity
+The accounting equation is a statement of equality between the debits and the credits. The rules of debit and credit depend on the nature of an account. For the purpose of the accounting equation approach, all the accounts are classified into the following five types: assets, capital, liabilities, revenues/incomes, or expenses/losses.
+If there is an increase or decrease in a set of accounts, there will be equal decrease or increase in another set of accounts.
+
+
+=== Classification in German-language bookkeeping ===
+German-language textbooks classify accounts by their relation to the balance sheet and the income statement. Balance sheet accounts (Bestandskonten), divided into asset accounts and liability and equity accounts, start with the opening balance of a period, record increases and decreases during the period and show the closing balance as the difference. Income statement accounts (Erfolgskonten), divided into expense and revenue accounts, collect the expenses and revenues of a period by type; their combined balance is the profit or loss of the period, which is transferred to the equity account, increasing equity in the case of a profit and reducing it in the case of a loss. Mixed accounts (gemischte Konten), such as an undivided merchandise account, combine both functions, so that their balance mixes the closing stock with a profit component and is only meaningful once the closing stock determined by a physical count has been entered. For the sake of clarity, such accounts are usually split into a pure balance sheet account and a pure income statement account, for example separate purchase and sales accounts.
+Because of this structure, double-entry bookkeeping determines the profit or loss of a period in two independent ways: by comparing net assets at the end of the period with net assets at the beginning, adjusted for owner withdrawals and contributions (profit = closing net assets − opening net assets + withdrawals − contributions), and by comparing revenues with expenses (profit = revenues − expenses).
+
+
+== Books of accounts ==
+
+In double-entry bookkeeping, every financial transaction is entered into at least two nominal ledger accounts to ensure that total debits equal total credits, maintaining balance in the general ledger. This is a partial check that each and every transaction has been correctly recorded. Each transaction is recorded as a "debit entry" (Dr) in one account, and a "credit entry" (Cr) in a second account. Per convention, debits are posted on the left-hand side of a ledger account, while credits are posted on the right-hand side. If the total of the entries on the debit side of one account is greater than the total on the credit side of the same nominal account, that account is said to have a debit balance.
+Double entry is applied within nominal ledgers, while daybooks (journals) typically serve as preliminary records and are not part of the nominal ledger itself. The information from the daybooks will be used in the nominal ledger and it is the nominal ledgers that will ensure the integrity of the resulting financial information created from the daybooks (provided that the information recorded in the daybooks is correct).
+The reason for this is to limit the number of entries in the nominal ledger: entries in the daybooks can be totalled before they are entered in the nominal ledger. If there are only a relatively small number of transactions it may be simpler instead to treat the daybooks as an integral part of the nominal ledger and thus of the double-entry system.
+However, as can be seen from the examples of daybooks shown below, it is still necessary to check, within each daybook, that the postings from the daybook balance.
+Nominal ledger accounts form the basis for preparing a trial balance, which lists debit and credit balances in two columns to confirm that total debits equal total credits. The trial balance lists all the nominal ledger account balances. The list is split into two columns, with debit balances placed in the left hand column and credit balances placed in the right hand column. Another column will contain the name of the nominal ledger account describing what each value is for. The total of the debit column must equal the total of the credit column.
+
+
+== Debits and credits ==
+
+A debit entry in an account represents a transfer of value to that account, and a credit entry represents a transfer from the account. Since both sides of a double-entry bookkeeping entry must remain in balance, accounts then have a normal balance, which is based upon whether a debit or a credit increases the account.  Normal balance accounts for typical account types is listed below in bold:
+
+Due to the format of a ledger, historically debits are recorded on the left side of the ledger, and credits are recorded on the right side of the ledger.  This may be represented graphically with the use of a T account. 
+
+
+=== Transaction Example ===
+Note the normal balance of the account, and whether the transaction is recorded on the left or right side of the ledger.  Assume a business entity performs the following activities:
+
+Purchases $10,000 of inventory from a vendor, on credit.
+Transfers the inventory to a customer in exchange for $15,000 of cash.
+Pays $10,000 of cash to the vendor for inventory purchased with credit.
+
+Note in the example above that both sides of the transaction are equal in each case.
+(Or for the reader who is scientifically literate but a layperson in accounting: if we view debits as positive amount, credits as negative amounts, and blank squares as zero, then equity = assets + liabilities in each line.)
+Also note the normal balance of the account, and which transactions are written on the left or right sides of the ledger.  The net impact of the above transactions are increase in cash of $5,000 and an increase in equity of $5,000 - this is reasonable because the company bought inventory for $10,000 and sold it for $15,000, leaving $5,000 as the profit in the business.
+The net impact of all transactions is that the owner's equity in the business has increased by $5,000, because it purchased inventory for $10,000 and in turn sold it to an end customer for $15,000.
+
+
+== See also ==
+Christie Malry's Own Double-Entry, a novel about a man who applies double-entry bookkeeping to his own life.
+Desi Namu, Indian accounting system
+Merdiban, accounting system of the Ottoman Empire, Abbasid Caliphate and Ilkhanate
+Momentum accounting and triple-entry bookkeeping
+Nostro and vostro accounts, typically held by one bank on behalf of another bank
+Single-entry bookkeeping
+
+
+== Notes and references ==
+
+
+== Further reading ==
+Gleeson-White, Jane (November 2011). Double Entry. Allen & Unwin. ISBN 978-1-74175-755-2.
+Soll, Jacob (April 2014). The Reckoning: Financial Accountability and the Rise and Fall of Nations. Basic Books. ISBN 978-0-46503-152-8.
+
+
+== External links ==
+
+A Concise Explanation of the Accounting Equation
+Bean Counter's bookkeeping tutorial
+GnuCash data entry concepts, GnuCash website

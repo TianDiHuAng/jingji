@@ -1,0 +1,36 @@
+# Procyclical and countercyclical variables
+# source w-en-procyclicality
+Procyclical and countercyclical variables are variables that fluctuate in a way that is positively or negatively correlated with business cycle fluctuations in gross domestic product (GDP).  The scope of the concept may differ between the context of macroeconomic theory and that of economic policy–making. 
+The concept is often encountered in the context of a government's approach to spending and taxation. A 'procyclical fiscal policy' can be summarised simply as governments choosing to increase government spending and reduce taxes during an economic expansion, but reduce spending and increase taxes during a recession. A 'countercyclical' fiscal policy takes the opposite approach: reducing spending and raising taxes during a boom period, and increasing spending and cutting taxes during a recession.
+
+
+== Business cycle theory ==
+
+
+=== Procyclical ===
+In business cycle theory and finance, any economic quantity that is positively correlated with the overall state of the economy is said to be procyclical. That is, any quantity that tends to increase in expansion and tend to decrease in a recession is classified as procyclical. Gross domestic product (GDP) is an example of a procyclical economic indicator. Many stock prices are also procyclical because they tend to increase when the economy is growing quickly.
+
+
+=== Countercyclical ===
+Conversely, any economic quantity that is negatively correlated with the overall state of the economy is said to be countercyclical. That is, quantities that tend to increase when the overall economy is slowing down are classified as 'countercyclical'.  Unemployment is an example of a countercyclical variable.  Similarly, business failures and stock market prices tend to be countercyclical. In finance, an asset that tends to do well while the economy as a whole is doing poorly is referred to as countercyclical, and could be for example a business or a financial instrument whose value is derived from sales of an inferior good.
+
+
+== Economic policy making ==
+
+
+=== Procyclical ===
+Procyclical has a different meaning in the context of economic policy. In this context, it refers to any aspect of economic policy that could magnify economic or financial fluctuations. Of course, since the effects of particular policies are often uncertain or disputed, a policy will be often procyclical, countercyclical or acyclical according to the view of the one judging it. 
+Thus, the financial regulations of the Basel II Accord have been criticized for their possible procyclicality. The accord requires banks to increase their capital ratios when they face greater risks. Unfortunately, this may require them to lend less during a recession or a credit crunch, which could aggravate the downturn. A similar criticism has been directed at fair value accounting rules.  The effect of the single Eurozone interest rate on the relatively high-inflation countries in the Eurozone periphery is also pro-cyclical, leading to very low or even negative real interest rates during an upturn which magnifies the boom (e.g. 'Celtic Tiger' upturn in Ireland) and property and asset price bubbles whose subsequent bust magnifies the downturns.
+
+
+=== Countercyclical ===
+Conversely, an economic or financial policy is called countercyclical if it works against the cyclical tendencies in the economy. That is, countercyclical policies are ones that cool down the economy when it is in an upswing, and stimulate the economy when it is in a downturn.
+Keynesian economics advocates the use of automatic and discretionary countercyclical policies to lessen the impact of the business cycle. One example of an automatically countercyclical fiscal policy is progressive taxation. By taxing a larger proportion of income when the economy expands, a progressive tax tends to decrease demand when the economy is booming, thus reining in the boom.  Other schools of economic thought, such as new classical macroeconomics, hold that countercyclical policies may be counterproductive or destabilizing, and therefore favor a laissez-faire fiscal policy as a better method for maintaining an overall robust economy.  When the government adopts a countercyclical fiscal policy in response to a threat of  recession the government might increase infrastructure spending.
+
+
+== See also ==
+Automatic stabilizer
+Business cycle
+
+
+== References ==

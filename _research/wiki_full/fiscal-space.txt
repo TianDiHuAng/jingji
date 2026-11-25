@@ -1,0 +1,11 @@
+# Fiscal space
+# source w-en-fiscal-space
+Fiscal space is the flexibility of a government in its spending choices, and, more generally, to the financial well-being of a government. Peter Heller (2005) defined it “as room in a government’s budget that allows it to provide resources for a desired purpose without jeopardizing the sustainability of its financial position or the stability of the economy.” 
+There are different exact definitions for the term, and different metrics on how to measure it. The most influential definitions of the term come from international institutions, e.g., the International Monetary Fund (IMF) and the World Bank, the United Nations agencies, e.g., United Nations Development Program, World Health Organization and UNICEF, and the aid organizations, e.g. Organisation for Economic Co-operation and Development.
+The crucial point of debate is in how resources that define the 'fiscal space' should be viewed and thus calculated. In particular, unlike the IMF-World Bank, the UN agencies advocates defining it in relation to the extent to which a government can mobilize resources to a means to combat poverty and achieve the Millennium Development Goals.
+The term featured during campaigning ahead of the 2016 Irish general election.
+Moody's Analytics provides monthly estimates of the fiscal space of many countries. They define it as the difference between an estimated upper limit of public debt (beyond which action would have to be taken to avoid default) and actual public debt, expressed as a percentage of GDP or equivalently as the difference between the debt-limit-to-GDP percentage and the actual-debt-to-GDP percentage.
+The World Bank's 2019 World Development Report on the future of work  suggests ways governments increase fiscal space in order to prepare for the future of work through investments in human capital and social protection.
+
+
+== Notes ==

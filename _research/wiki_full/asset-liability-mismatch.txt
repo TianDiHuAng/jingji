@@ -1,0 +1,43 @@
+# Asset and liability management
+# source w-en-alm
+Asset and liability management (ALM) is the term covering tools and techniques used by a bank or other corporate to minimise exposure to market risk and liquidity risk through holding the optimum combination of assets and liabilities.
+It sometimes refers more specifically to the practice of managing financial risks that arise due to mismatches - "duration gaps" - between the assets and liabilities, on the firm's balance sheet or as part of an investment strategy.
+ALM sits between risk management and strategic planning. It is focused on a long-term perspective rather than mitigating immediate risks; see, here, treasury management.
+The exact roles and perimeter around ALM can however vary significantly from one bank (or other financial institution) to another depending on the business model adopted and can encompass a broad area of risks. 
+Traditional ALM programs focus on interest rate risk and liquidity risk because they represent the most prominent risks affecting the organization.
+Its scope, though, includes the allocation and management of assets, equity, interest rate and credit risk management including risk overlays, and the calibration of company-wide tools within these risk frameworks for optimisation and management in the local regulatory and capital environment.
+Often an ALM approach passively matches assets against liabilities (fully hedged) and leaves surplus to be actively managed.
+
+
+== Scope and objectives ==
+Asset and liability management is primarily concerned with managing the structure of a financial institution’s balance sheet so as to control exposure to interest rate risk and liquidity risk. Banking supervisors describe interest rate risk in the banking book as the risk to a bank’s capital and earnings arising from adverse movements in interest rates that affect assets, liabilities, and off-balance-sheet positions.
+In practice, ALM also supports liquidity planning by helping institutions manage the maturity structure of funding and assets. The Basel III framework states that the Net Stable Funding Ratio was developed to promote a more sustainable maturity structure of assets and liabilities over a one-year horizon, which is closely linked to asset and liability management practice.
+
+
+== See also ==
+Financial risk management § Corporate finance
+Interest rate risk
+Liquidity at risk
+Earnings at risk
+Cash flow at risk
+
+
+== References ==
+Cited
+
+Bibliography
+
+Crockford, Neil (1986). An Introduction to Risk Management. Woodhead-Faulkner. ISBN 978-0-85941-332-9.
+Deventer, Donald R. Van; Imai, Kenji; Mesler, Mark (2005). Advanced Financial Risk Management: Tools and Techniques for Integrated Credit Risk and Interest Rate Risk Managements. Wiley. ISBN 978-0-470-82126-8.
+Choudhry, Moorad (2007). Bank Asset and Liability Management: Strategy, Trading, Analysis. John Wiley & Sons. ISBN 978-0-470-82135-0.
+
+
+== External links ==
+
+Society of Actuaries Professional Actuarial Specialty Guide describing Asset Liability Management
+Asset-Liability Management by riskglossary.com
+Asset - Liability Management System in banks - Guidelines Reserve Bank of India
+Vaidyanathan, R (1999). "Asset-liability management: Issues and trends in Indian context". ASCI Journal of Management. 29 (1): 39–48.
+Price Waterhouse Coopers Status of balance sheet management practices among international banks 2009
+Bank for International Settlements Principles for the management and supervision of interest rate risk - final document
+Bank for International Settlements Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools

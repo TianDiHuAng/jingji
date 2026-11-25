@@ -1,0 +1,15 @@
+# Malinvestment
+# source w-en-malinvestment
+In Austrian business cycle theory, malinvestments are badly allocated business investments resulting from artificially low interest rates for borrowing and an unsustainable increase in money supply. Central banks are often blamed for causing malinvestments, such as the dot-com bubble and the United States housing bubble. Austrian economists such as F. A. Hayek advocate the idea that malinvestment occurs due to the combination of fractional reserve banking and artificially low interest rates sending out misleading relative price signals which eventually necessitate a corrective contraction – a boom followed by a bust.
+In the Austrian business cycle theory and all its different frameworks, the actual definition of malinvestment is the same: an investment with high potential that loses value. A malinvestment only occurs if the loss in value is due to increased interest rates. The classification of a malinvestment only applies when there is an increased amount of credit which causes it to become worthless. Many economists believe that malinvestments occur at different times and to certain companies. Åkerman and Dahmén, who came up with the Åkerman-Dahmén theory, which is different from the Austrian Business Cycle Theory, believe that a malinvestment will occur during the "boom" to companies who cannot keep up with the interest rate growth.
+The concept dates back to at least 1867. In 1940, Ludwig von Mises wrote, "The popularity of inflation and credit expansion, the ultimate source of the repeated attempts to render people prosperous by credit expansion, and thus the cause of the cyclical fluctuations of business, manifests itself clearly in the customary terminology. The boom is called good business, prosperity, and upswing. Its unavoidable aftermath, the readjustment of conditions to the real data of the market, is called crisis, slump, bad business, depression. People rebel against the insight that the disturbing element is to be seen in the malinvestment and the overconsumption of the boom period and that such an artificially induced boom is doomed. They are looking for the philosophers' stone to make it last."
+
+
+== See also ==
+Demonstrated preference
+Market failure
+Government failure
+Partial knowledge
+
+
+== References ==

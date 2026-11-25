@@ -1,0 +1,26 @@
+# Representative money
+# source w-en-representative-money
+Representative money or receipt money is any medium of exchange, physical or digital, that represents something of value, but has little or no value of its own (intrinsic value).
+More specifically, the term representative money has been used variously to mean:
+
+A claim on a commodity, for example gold and silver certificates. In this sense, it may be called "commodity-backed money".
+Any type of money that has face value greater than its value as material substance. In this sense, most types of fiat money are a type of representative money.
+Decidedly, commodity money is not a form of representative money, because the former has significant value of its own by being a commodity. Unlike fiat money (which may have no commodity backing), commodity-backed money (a form of representative money) must have its face value supported by something of intrinsic value.
+
+
+== History ==
+
+There is no concrete evidence that the clay tokens used as an accounting tool to keep track of warehouse stores in ancient Mesopotamia were also used as representative money. However, the idea has been suggested.
+In 1895, English economist Joseph Shield Nicholson wrote that credit expansion and contraction was in fact the expansion and contraction of representative money.
+In 1934, economist William Howard Steiner wrote that the term was used "at one time to signify that a certain amount of bullion was stored in the Treasury while the equivalent paper in circulation" represented the bullion.
+
+
+== See also ==
+Commodity money
+Gold standard
+Hard currency
+Silver standard
+Store of value
+
+
+== References ==
