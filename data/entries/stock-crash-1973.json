@@ -88,6 +88,28 @@
       "sources": [
         "w-en-1973-1974-stock-crash"
       ]
+    },
+    {
+      "label": "英国FT30指数跌幅(崩盘期间)",
+      "value": -73,
+      "unit": "%",
+      "year": 1974,
+      "comparable_price": false,
+      "note": "原文：the London Stock Exchange’s FT 30, which lost 73% of its value during the crash；单一来源待核实。",
+      "sources": [
+        "w-en-1973-1974-stock-crash"
+      ]
+    },
+    {
+      "label": "美国CPI通胀率(1974)",
+      "value": 12.3,
+      "unit": "%（1972年3.4%）",
+      "year": 1974,
+      "comparable_price": false,
+      "note": "原文：inflation (by CPI) jumped from 3.4% in 1972 to 12.3% in 1974；单一来源待核实。",
+      "sources": [
+        "w-en-1973-1974-stock-crash"
+      ]
     }
   ],
   "schools": [

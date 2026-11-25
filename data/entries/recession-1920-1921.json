@@ -58,6 +58,28 @@
       "sources": [
         "w-en-recession-1920-1921"
       ]
+    },
+    {
+      "label": "批发价格跌幅",
+      "value": -36.8,
+      "unit": "%",
+      "year": 1921,
+      "comparable_price": false,
+      "note": "原文：Wholesale prices fell 36.8%；单一来源待核实。",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
+    },
+    {
+      "label": "GNP降幅(三种估计)",
+      "value": -6.9,
+      "unit": "%（商务部6.9%；Balke-Gordon 3.5%；Romer 2.4%，诸说并列）",
+      "year": 1921,
+      "comparable_price": false,
+      "note": "原文：The U.S. Department of Commerce estimates that GNP declined 6.9%; Nathan Balke and Robert J. Gordon estimate a decline of 3.5%; and Christina Romer estimates a decline of 2.4%；估计口径不同并列不取舍，单一来源待核实。",
+      "sources": [
+        "w-en-recession-1920-1921"
+      ]
     }
   ],
   "schools": [

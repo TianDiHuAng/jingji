@@ -56,6 +56,17 @@
       "sources": [
         "w-en-shadow-banking"
       ]
+    },
+    {
+      "label": "影子银行资产占全球GDP(2022年底)",
+      "value": 78,
+      "unit": "%（2009年为68%，资产28万亿美元）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：representing 78% of global GDP, up from $28 trillion and 68% of global GDP in 2009；单一来源待核实。",
+      "sources": [
+        "w-en-shadow-banking"
+      ]
     }
   ],
   "schools": [

@@ -63,7 +63,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "内战致GDP累计损失(2011—2016，世界银行)",
+      "value": 226,
+      "unit": "十亿美元（2260亿）",
+      "year": 2016,
+      "comparable_price": false,
+      "note": "原文：According to the World Bank, a cumulative total of $226 billion in GDP was lost due to the conflict from 2011 to 2016；单一来源待核实。",
+      "sources": [
+        "w-en-economy-of-syria"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "内部冲突视角",
