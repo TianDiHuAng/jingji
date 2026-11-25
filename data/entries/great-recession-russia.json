@@ -58,6 +58,39 @@
       "sources": [
         "w-en-great-recession-in-russia"
       ]
+    },
+    {
+      "label": "俄罗斯GDP增速(2009)",
+      "value": -7.9,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：GDP contracted by 7.9% for the whole of 2009；单一来源待核实。",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "label": "外汇储备降幅(2008年8月—2009年1月)",
+      "value": 210,
+      "unit": "十亿美元（降至3860亿）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：Russia’s foreign exchange reserves (FXR) fell by $210 billion from their peak to $386 billion；单一来源待核实。",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "label": "卢布兑美元贬值幅度(危机开始以来)",
+      "value": -35,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：The ruble weakened 35% against the dollar from the onset of the crisis；单一来源待核实。",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
     }
   ],
   "schools": [
