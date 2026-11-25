@@ -69,6 +69,17 @@
       "sources": [
         "w-en-panic-of-1819"
       ]
+    },
+    {
+      "label": "第二合众国银行活期负债/硬币准备比(1818年7月)",
+      "value": 10,
+      "unit": "倍（负债超2240万美元，硬币准备240万；可持续水平约5倍）",
+      "year": 1818,
+      "comparable_price": false,
+      "note": "原文：By July 1818, the Second Bank of the United States had demand liabilities exceeding $22.4 million, whereas its specie fund stood at $2.4 million—a 10:1 ratio and double the 5:1 ratio considered sustainable；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1819"
+      ]
     }
   ],
   "schools": [
