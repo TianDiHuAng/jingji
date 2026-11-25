@@ -116,6 +116,39 @@
       "sources": [
         "w-en-subprime-mortgage-crisis"
       ]
+    },
+    {
+      "label": "产出损失(LV2018)·United States 2007",
+      "value": 30.0,
+      "unit": "%（占趋势GDP，累计）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：United States 2007–2011 银行危机，output_loss=30.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·United States 2007",
+      "value": 4.5,
+      "unit": "%（占GDP）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：United States 2007–2011 银行危机，fiscal_gross=4.5。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "不良贷款峰值(LV2018)·United States 2007",
+      "value": 5.0,
+      "unit": "%（占贷款总额）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：United States 2007–2011 银行危机，npl_peak=5.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
     }
   ],
   "schools": [
@@ -154,7 +187,8 @@
     "fed-subprime",
     "w-en-subprime-mortgage-crisis",
     "w-zh-018",
-    "bk-the-big-short"
+    "bk-the-big-short",
+    "org-imf-lv2018"
   ],
   "related": [
     "aig",

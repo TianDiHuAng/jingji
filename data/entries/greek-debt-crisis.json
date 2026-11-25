@@ -118,6 +118,39 @@
       "sources": [
         "owid-population"
       ]
+    },
+    {
+      "label": "产出损失(LV2018)·Greece 2008",
+      "value": 64.9,
+      "unit": "%（占趋势GDP，累计）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Greece 2008–2012 银行危机，output_loss=64.9。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·Greece 2008",
+      "value": 28.7,
+      "unit": "%（占GDP）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Greece 2008–2012 银行危机，fiscal_gross=28.7。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "不良贷款峰值(LV2018)·Greece 2008",
+      "value": 37.1,
+      "unit": "%（占贷款总额）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Greece 2008–2012 银行危机，npl_peak=37.1。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
     }
   ],
   "schools": [
@@ -154,7 +187,8 @@
     "w-en-debt-crisis",
     "w-en-greek-government-debt-crisis",
     "w-en-financial-crisis",
-    "owid-population"
+    "owid-population",
+    "org-imf-lv2018"
   ],
   "related": [
     "argentina-crisis-2001",

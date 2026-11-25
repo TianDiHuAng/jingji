@@ -91,6 +91,39 @@
       "sources": [
         "w-en-turkey-2001"
       ]
+    },
+    {
+      "label": "产出损失(LV2018)·Turkey 2000",
+      "value": 37.6,
+      "unit": "%（占趋势GDP，累计）",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Turkey 2000–2001 银行危机，output_loss=37.6。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·Turkey 2000",
+      "value": 32.0,
+      "unit": "%（占GDP）",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Turkey 2000–2001 银行危机，fiscal_gross=32.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "不良贷款峰值(LV2018)·Turkey 2000",
+      "value": 27.6,
+      "unit": "%（占贷款总额）",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Turkey 2000–2001 银行危机，npl_peak=27.6。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
     }
   ],
   "schools": [
@@ -126,7 +159,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>土耳其经济危机(2001)：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>土耳其爆发经济危机：股市</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-turkey-2001",
-    "w-en-currency-crisis"
+    "w-en-currency-crisis",
+    "org-imf-lv2018"
   ],
   "related": [
     "argentina-2018",

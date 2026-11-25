@@ -88,6 +88,28 @@
       "sources": [
         "w-en-1998-russian-financial-crisis"
       ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·Russia 1998",
+      "value": 6.0,
+      "unit": "%（占GDP）",
+      "year": 1998,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Russia 1998–1998 银行危机，fiscal_gross=6.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "不良贷款峰值(LV2018)·Russia 1998",
+      "value": 40.0,
+      "unit": "%（占贷款总额）",
+      "year": 1998,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Russia 1998–1998 银行危机，npl_peak=40.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
     }
   ],
   "schools": [
@@ -123,7 +145,8 @@
   "sources": [
     "w-en-1998-russian-financial-crisis",
     "w-en-latin-american-debt-crisis",
-    "w-en-russian-financial-crisis-2014-2016"
+    "w-en-russian-financial-crisis-2014-2016",
+    "org-imf-lv2018"
   ],
   "related": [
     "argentina-crisis-2001",

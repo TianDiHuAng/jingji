@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "产出损失(LV2018)·Israel 1983",
+      "value": 42.7,
+      "unit": "%（占趋势GDP，累计）",
+      "year": 1983,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Israel 1983–1986 银行危机，output_loss=42.7。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·Israel 1983",
+      "value": 30.0,
+      "unit": "%（占GDP）",
+      "year": 1983,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Israel 1983–1986 银行危机，fiscal_gross=30.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "市场操纵/托价视角",
@@ -74,7 +97,8 @@
   "sources": [
     "w-en-speculative-bubble",
     "w-en-financial-crisis",
-    "w-en-israel-bank-1983"
+    "w-en-israel-bank-1983",
+    "org-imf-lv2018"
   ],
   "related": [
     "japan-asset-bubble-1990",

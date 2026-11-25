@@ -69,6 +69,39 @@
       "sources": [
         "w-en-finnish-banking-1990"
       ]
+    },
+    {
+      "label": "产出损失(LV2018)·Finland 1991",
+      "value": 69.6,
+      "unit": "%（占趋势GDP，累计）",
+      "year": 1991,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Finland 1991–1995 银行危机，output_loss=69.6。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "银行危机总财政成本(LV2018)·Finland 1991",
+      "value": 12.8,
+      "unit": "%（占GDP）",
+      "year": 1991,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Finland 1991–1995 银行危机，fiscal_gross=12.8。本条目另载纳税人成本约占GNP 8%（维基）；LV按GDP计总财政成本12.8%、净11.1%，口径不同，并列不作取舍。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
+    },
+    {
+      "label": "不良贷款峰值(LV2018)·Finland 1991",
+      "value": 13.0,
+      "unit": "%（占贷款总额）",
+      "year": 1991,
+      "comparable_price": false,
+      "note": "Laeven–Valencia(2018) Table 2：Finland 1991–1995 银行危机，npl_peak=13.0。单一来源（IMF 数据库，独立于维基）。",
+      "sources": [
+        "org-imf-lv2018"
+      ]
     }
   ],
   "schools": [
@@ -103,7 +136,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1990年代芬兰银行危机：机制示意（银行）</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='78' class='lbl'>触发</text><text x='29' y='96' class='sub'>背景</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='78' class='lbl'>传导</text><text x='279' y='96' class='sub'>扩散</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='78' class='lbl'>后果</text><text x='529' y='96' class='sub'>结果/政策</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-finnish-banking-1990",
-    "w-en-secondary-banking-crisis"
+    "w-en-secondary-banking-crisis",
+    "org-imf-lv2018"
   ],
   "related": [
     "bailout",
