@@ -77,6 +77,17 @@
       "sources": [
         "w-en-1998-russian-financial-crisis"
       ]
+    },
+    {
+      "label": "央行维持汇率耗用美元储备(1997-10—1998-08-17)",
+      "value": 27,
+      "unit": "十亿美元（约270亿）",
+      "year": 1998,
+      "comparable_price": false,
+      "note": "原文：the Central Bank expended approximately $27 billion of its U.S. dollar reserves；单一来源待核实。",
+      "sources": [
+        "w-en-1998-russian-financial-crisis"
+      ]
     }
   ],
   "schools": [

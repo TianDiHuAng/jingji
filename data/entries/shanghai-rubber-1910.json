@@ -69,6 +69,17 @@
       "sources": [
         "w-en-shanghai-rubber-1910"
       ]
+    },
+    {
+      "label": "上海钱庄倒闭家数(1910)",
+      "value": 48,
+      "unit": "家（91家中占53%）",
+      "year": 1910,
+      "comparable_price": false,
+      "note": "原文：had 91 native banks. Due to the influence of this crisis, 48 of them (53%) went bankrupt；单一来源待核实。",
+      "sources": [
+        "w-en-shanghai-rubber-1910"
+      ]
     }
   ],
   "schools": [

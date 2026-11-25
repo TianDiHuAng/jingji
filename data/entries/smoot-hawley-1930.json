@@ -99,6 +99,17 @@
       "sources": [
         "w-en-smoot-hawley"
       ]
+    },
+    {
+      "label": "美国对报复国出口降幅",
+      "value": -31,
+      "unit": "%（对仅抗议国降18%）",
+      "year": 1932,
+      "comparable_price": false,
+      "note": "原文：American exports to the protesters fell by 18%, and exports to those which retaliated fell by 31%；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-smoot-hawley"
+      ]
     }
   ],
   "schools": [

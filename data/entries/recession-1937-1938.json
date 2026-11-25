@@ -88,6 +88,17 @@
       "sources": [
         "w-en-recession-1937-1938"
       ]
+    },
+    {
+      "label": "制造业产出降幅(自1937年峰值)",
+      "value": -37,
+      "unit": "%",
+      "year": 1938,
+      "comparable_price": false,
+      "note": "原文：Manufacturing output fell by 37% from the 1937 peak；与既有工业生产近30%口径不同，并列，单一来源待核实。",
+      "sources": [
+        "w-en-recession-1937-1938"
+      ]
     }
   ],
   "schools": [
