@@ -209,3 +209,4 @@
 
 **教训**：第 ⑤、⑥ 次是同一错误的两次复发——**写脚本前应先枚举，而不是凭记忆**。
 - 续作QD: swedish-crisis-1990s 维基全文缓存错配（内容为芬兰银行危机），网络不可用暂无法重抓；已在条目 pending_notes 记录。
+- 续作QO: bk-the-wealth-of-nations (openlibrary.org/works/OL76827W) 近几轮抽样时好时坏(HTTP 421/URLError，单独重跑曾恢复)，判断为对方站点或网络不稳，暂不改来源，持续观察。

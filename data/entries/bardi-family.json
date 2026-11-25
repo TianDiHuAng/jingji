@@ -51,10 +51,10 @@
     {
       "label": "巴尔迪家族贷予爱德华三世",
       "value": 900000,
-      "unit": "金弗罗林（golds florins）",
+      "unit": "弗罗林（币种两说：同一来源一处作gold florins，另一处作silver florins，并列不取舍）",
       "year": 1340,
       "comparable_price": false,
-      "note": "原文：lent Edward III of England 900,000 gold florins；单一来源待核实。",
+      "note": "原文：lent Edward III of England 900,000 gold florins；单一来源待核实。 同源另处原文：He borrowed 600,000 silver florins from the Peruzzi banking family and another 900,000 from the Bardi family；金/银币种来源内部不一致，待核实。",
       "sources": [
         "w-en-bardi-family"
       ]
@@ -62,10 +62,10 @@
     {
       "label": "佩鲁齐家族贷予爱德华三世",
       "value": 600000,
-      "unit": "金弗罗林",
+      "unit": "弗罗林（币种两说：同一来源一处作gold florins，另一处作silver florins，并列不取舍）",
       "year": 1340,
       "comparable_price": false,
-      "note": "原文：600,000 florins borrowed from the Peruzzi family；单一来源待核实。",
+      "note": "原文：600,000 florins borrowed from the Peruzzi family；单一来源待核实。 同源另处原文：He borrowed 600,000 silver florins from the Peruzzi banking family and another 900,000 from the Bardi family；金/银币种来源内部不一致，待核实。",
       "sources": [
         "w-en-bardi-family"
       ]
