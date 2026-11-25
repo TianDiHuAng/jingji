@@ -53,6 +53,17 @@
       "sources": [
         "w-en-convergence"
       ]
+    },
+    {
+      "label": "Sachs-Warner研究：开放型发展中国家人均年增速",
+      "value": 4.5,
+      "unit": "%（封闭型仅2%）",
+      "year": 1995,
+      "comparable_price": false,
+      "note": "原文：open economy developing countries 4.5% and closed economy developing countries had only 2%；年份为研究发表年近似，单一来源待核实。",
+      "sources": [
+        "w-en-convergence"
+      ]
     }
   ],
   "comparison": "与**分化**的区别在方向：收敛假说主张贫穷经济体人均收入增长更快、从而缩小与富国的差距；分化则是差距扩大（见 great-divergence）。需区分两种收敛：**绝对收敛**（所有经济体趋向同一水平）在现实中很少成立；**条件收敛**（各自趋向自身稳态）得到较多实证支持。这一区分解释了为何\"开放就能追上\"的简单主张失败——收敛取决于储蓄率、人力资本与制度等条件。",

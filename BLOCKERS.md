@@ -220,3 +220,4 @@
 - 续作RC: dutch-stock-crashes 维基全文缓存实为通用 Economic bubble 条目（错配），未据此取数。
 - 续作RD: esrb 维基全文缓存实为 Eurozone crisis 条目（错配），未据此取数。
 - 续作RD: stock-market-crash 维基全文缓存实为 Margin (finance) 条目（错配），未据此取数。
+- 续作RF: bank-resolution 缓存实为通用 Bank regulation 条目；leading-indicator 缓存实为 Economic indicator 条目——均已在QR审计中登记，本轮未取数。

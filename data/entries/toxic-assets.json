@@ -55,12 +55,12 @@
       ]
     },
     {
-      "label": "公私合营投资计划(PPIP)预计规模",
+      "label": "公私合营投资计划(PPIP)宣布时计划规模(2009)",
       "value": 500,
       "unit": "十亿美元",
       "year": 2009,
       "comparable_price": false,
-      "note": "原文：the size of the Public Private Investment Partnership is projected to be $500 billion；单一来源待核实。",
+      "note": "原文：the size of the Public Private Investment Partnership is projected to be $500 billion；系2009年宣布时的计划规模，非实际投入，单一来源待核实。",
       "sources": [
         "w-en-toxic-assets"
       ]
