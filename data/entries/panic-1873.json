@@ -80,6 +80,28 @@
       "sources": [
         "w-en-panic-of-1873"
       ]
+    },
+    {
+      "label": "纽约市银行准备金(1873年9月→10月)",
+      "value": 17,
+      "unit": "百万美元（由5000万降至1700万）",
+      "year": 1873,
+      "comparable_price": false,
+      "note": "原文：bank reserves, which in New York City plummeted from $50 million to $17 million between September and October；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1873"
+      ]
+    },
+    {
+      "label": "纽约失业工人比例(危机后)",
+      "value": 25,
+      "unit": "%",
+      "year": 1873,
+      "comparable_price": false,
+      "note": "原文：New York (where 25% of workers became unemployed)；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1873"
+      ]
     }
   ],
   "schools": [

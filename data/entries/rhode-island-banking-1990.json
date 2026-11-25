@@ -58,6 +58,17 @@
       "sources": [
         "w-en-rhode-island-banking-crisis"
       ]
+    },
+    {
+      "label": "储户被冻结资金总额",
+      "value": 1.7,
+      "unit": "十亿美元（约17亿）",
+      "year": 1991,
+      "comparable_price": false,
+      "note": "原文：lost access to their money, totaling about $1.7 billion；年份为危机期近似，单一来源待核实。",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
     }
   ],
   "schools": [

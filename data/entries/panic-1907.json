@@ -96,6 +96,17 @@
       "sources": [
         "w-en-panic-of-1907"
       ]
+    },
+    {
+      "label": "美股跌幅(1907年前九个月)",
+      "value": -24.4,
+      "unit": "%",
+      "year": 1907,
+      "comparable_price": false,
+      "note": "原文：In the first nine months of 1907, stocks were lower by 24.4%；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1907"
+      ]
     }
   ],
   "schools": [
