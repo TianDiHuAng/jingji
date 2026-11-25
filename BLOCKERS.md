@@ -216,3 +216,4 @@
 - 续作QT: hainan-property-bubble-1992 维基全文缓存实为 2007 年中国股灾条目（错配），未据此取数。
 - 续作QY: us-video-game-crash-1983 维基全文缓存实为通用 Economic bubble 条目（错配），未据此取数。
 - 续作QY: panic-1896 维基全文缓存实为通用 Currency crisis 条目（错配），未据此取数。
+- 续作QZ: yemen-currency-divergence 维基全文缓存实为通用 Currency crisis 条目（错配），未据此取数。

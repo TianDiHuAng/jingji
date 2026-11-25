@@ -69,6 +69,17 @@
       "sources": [
         "w-en-bond-crisis-1994"
       ]
+    },
+    {
+      "label": "联邦基金利率(1994年末)",
+      "value": 5.5,
+      "unit": "%（年初3%）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：By its last meeting of the year, the rate resided at 5.5%；单一来源待核实。",
+      "sources": [
+        "w-en-bond-crisis-1994"
+      ]
     }
   ],
   "schools": [

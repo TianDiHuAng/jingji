@@ -120,6 +120,17 @@
       "sources": [
         "fed-stock-crash-1929"
       ]
+    },
+    {
+      "label": "黑色星期四开盘跌幅(1929-10-24)",
+      "value": -11,
+      "unit": "%",
+      "year": 1929,
+      "comparable_price": false,
+      "note": "原文：On October 24, Black Thursday, the market lost 11% of its value at the opening bell；单一来源待核实。",
+      "sources": [
+        "w-en-wall-street-crash-of-1929"
+      ]
     }
   ],
   "schools": [

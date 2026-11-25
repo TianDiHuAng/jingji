@@ -66,6 +66,17 @@
       "sources": [
         "w-en-fannie-mae"
       ]
+    },
+    {
+      "label": "两房股价较一年前跌幅(2008)",
+      "value": -90,
+      "unit": "%（超过90%）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：shares of both Fannie Mae and Freddie Mac had tumbled more than 90% from their one-year prior levels；单一来源待核实。",
+      "sources": [
+        "w-en-fannie-mae"
+      ]
     }
   ],
   "schools": [

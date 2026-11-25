@@ -77,6 +77,17 @@
       "sources": [
         "w-en-financial-crisis-1914"
       ]
+    },
+    {
+      "label": "英国基础货币(1914→1918)",
+      "value": 531,
+      "unit": "百万英镑（由2.88亿增至5.31亿）",
+      "year": 1918,
+      "comparable_price": false,
+      "note": "原文：The monetary base was expanded from £288 million in 1914 to £531 million in 1918；单一来源待核实。",
+      "sources": [
+        "w-en-financial-crisis-1914"
+      ]
     }
   ],
   "schools": [

@@ -58,6 +58,17 @@
       "sources": [
         "w-en-bernie-madoff"
       ]
+    },
+    {
+      "label": "投资者实际直接损失(SIPC估计)",
+      "value": 18,
+      "unit": "十亿美元（已追回148.29亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：trustee estimated actual direct losses to investors of $18 billion, of which $14.829 billion has been recovered；年份为案发年近似，单一来源待核实。",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
     }
   ],
   "schools": [
