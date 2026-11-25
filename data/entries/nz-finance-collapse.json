@@ -110,6 +110,17 @@
       "sources": [
         "w-en-nz-finance-collapse"
       ]
+    },
+    {
+      "label": "家庭存入金融公司的存款(至2007年6月)",
+      "value": 7.1,
+      "unit": "十亿美元（由51亿升至71亿，增39%）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：the deposits invested by households in finance companies rose from $5.1 billion to $7.1 billion, an increase of 39 percent；起始时点见原文，单一来源待核实。",
+      "sources": [
+        "w-en-nz-finance-collapse"
+      ]
     }
   ],
   "schools": [

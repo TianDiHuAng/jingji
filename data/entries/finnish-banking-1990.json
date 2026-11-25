@@ -58,6 +58,17 @@
       "sources": [
         "w-en-finnish-banking-1990"
       ]
+    },
+    {
+      "label": "Helibor利率峰值(危机期间,一度)",
+      "value": 15,
+      "unit": "%（一度超过15%）",
+      "year": 1990,
+      "comparable_price": false,
+      "note": "原文：the Helibor exceeded 15% at times；年份为危机期近似，单一来源待核实。",
+      "sources": [
+        "w-en-finnish-banking-1990"
+      ]
     }
   ],
   "schools": [

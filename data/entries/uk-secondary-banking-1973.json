@@ -69,6 +69,17 @@
       "sources": [
         "w-en-secondary-banking-crisis"
       ]
+    },
+    {
+      "label": "伦敦房地产价格涨幅(1971年)",
+      "value": 50,
+      "unit": "%",
+      "year": 1971,
+      "comparable_price": false,
+      "note": "原文：a bubble of housing prices that saw a 50% increase in London real estate prices over 1971；系来源所引1982年一项研究的解释，单一来源待核实。",
+      "sources": [
+        "w-en-secondary-banking-crisis"
+      ]
     }
   ],
   "schools": [
