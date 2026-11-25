@@ -96,6 +96,17 @@
       "sources": [
         "w-en-syrian-pound"
       ]
+    },
+    {
+      "label": "叙利亚镑黑市汇率(2019-12-02)",
+      "value": 950,
+      "unit": "镑/美元（较前次再贬25%）",
+      "year": 2019,
+      "comparable_price": false,
+      "note": "原文：The black-market rate fell to LS 950 on 2 December 2019, another 25% decrease；单一来源待核实。",
+      "sources": [
+        "w-en-syrian-pound"
+      ]
     }
   ],
   "schools": [

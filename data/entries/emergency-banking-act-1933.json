@@ -80,6 +80,17 @@
       "sources": [
         "w-en-emergency-banking-act-1933"
       ]
+    },
+    {
+      "label": "道指单日涨幅(1933-03-15)",
+      "value": 15.34,
+      "unit": "%",
+      "year": 1933,
+      "comparable_price": false,
+      "note": "原文：gaining 8.26 points to close at 62.10; a gain of 15.34%；单一来源待核实。",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
     }
   ],
   "schools": [
