@@ -77,6 +77,17 @@
       "sources": [
         "w-en-1973-oil-crisis"
       ]
+    },
+    {
+      "label": "美国石油进口增幅(1969—1972)",
+      "value": 52,
+      "unit": "%",
+      "year": 1972,
+      "comparable_price": false,
+      "note": "原文：Oil imports rose by 52% between 1969 and 1972；单一来源待核实。",
+      "sources": [
+        "w-en-1973-oil-crisis"
+      ]
     }
   ],
   "schools": [
