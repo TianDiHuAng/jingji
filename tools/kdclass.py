@@ -28,7 +28,7 @@ INDEP_DOC_IDS = {'org-imf-glossary', 'org-bis', 'org-fsb',
 # 汇总各国官方统计的数据源
 STAT_DATA_IDS = {'owid-dataset', 'owid-inflation', 'owid-gdp', 'owid-real-gdp',
                  'owid-unemployment', 'owid-population', 'org-imf-data',
-                 'org-worldbank', 'org-fred', 'org-bea', 'org-ourworldindata'}
+                 'org-worldbank', 'org-hbs-rr-global', 'org-fred', 'org-bea', 'org-ourworldindata'}
 
 
 def classify(kd):

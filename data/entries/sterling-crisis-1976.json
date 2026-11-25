@@ -46,10 +46,11 @@
       "unit": "%（接近25%，英国CPI，1975年）",
       "year": 1975,
       "comparable_price": false,
-      "note": "原文：Inflation (at close to 25% in 1975)；\"接近\"为约数表述，单一来源待核实。 【双源印证·DM】世界银行/OWID同项为 24.207（United Kingdom 1975），与本值 25 属同一量级（相对偏差约 3.3%）；该小数差别可能源于年均口径与统计修订。",
+      "note": "原文：Inflation (at close to 25% in 1975)；\"接近\"为约数表述，单一来源待核实。 【双源印证·DM】世界银行/OWID同项为 24.207（United Kingdom 1975），与本值 25 属同一量级（相对偏差约 3.3%）；该小数差别可能源于年均口径与统计修订。 Reinhart–Rogoff 全球危机数据（年均CPI变动）United Kingdom 1975 为 24.2%，与本行数值相近，构成统计口径对照印证（两者口径未必完全相同）。",
       "sources": [
         "w-en-1976-sterling-crisis",
-        "owid-dataset"
+        "owid-dataset",
+        "org-hbs-rr-global"
       ]
     }
   ],
@@ -86,7 +87,8 @@
   "sources": [
     "w-en-currency-crisis",
     "w-en-1976-sterling-crisis",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "org-hbs-rr-global"
   ],
   "related": [
     "black-wednesday-1992",

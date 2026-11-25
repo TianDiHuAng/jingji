@@ -62,10 +62,11 @@
       "unit": "%（年率）",
       "year": 2014,
       "comparable_price": false,
-      "note": "原文：In 2014, the annual inflation rate reached 69%；单一来源待核实。 【两源差异·DL】OWID为 62.169。委内瑞拉2014年通胀：本条目取69%，世界银行/OWID口径为62.17%。因委内瑞拉官方统计长期中断，各方估算本就分歧。两说并列。",
+      "note": "原文：In 2014, the annual inflation rate reached 69%；单一来源待核实。 【两源差异·DL】OWID为 62.169。委内瑞拉2014年通胀：本条目取69%，世界银行/OWID口径为62.17%。因委内瑞拉官方统计长期中断，各方估算本就分歧。两说并列。 Reinhart–Rogoff 全球危机数据（年均CPI变动）Venezuela 2014 为 62.2%，与本行 69% 口径不同，两数并列，不作取舍；该值与本条目所列世界银行/OWID 的 62.17% 相同，二者可能同源，不视为独立印证。",
       "sources": [
         "w-en-hyperinflation-in-venezuela",
-        "owid-dataset"
+        "owid-dataset",
+        "org-hbs-rr-global"
       ]
     },
     {
@@ -74,9 +75,10 @@
       "unit": "%（年率）",
       "year": 2016,
       "comparable_price": false,
-      "note": "原文：The rate reached 800% in 2016；单一来源待核实。",
+      "note": "原文：The rate reached 800% in 2016；单一来源待核实。 Reinhart–Rogoff 全球危机数据（年均CPI变动）Venezuela 2016 为 481.5%，与本行 800% 口径不同（本行可能为年末同比或其他统计口径），两数并列，不作取舍。",
       "sources": [
-        "w-en-hyperinflation-in-venezuela"
+        "w-en-hyperinflation-in-venezuela",
+        "org-hbs-rr-global"
       ]
     },
     {
@@ -118,9 +120,10 @@
       "unit": "%（年率）",
       "year": 2015,
       "comparable_price": false,
-      "note": "原文：In 2015, the inflation rate was 181%；单一来源待核实。",
+      "note": "原文：In 2015, the inflation rate was 181%；单一来源待核实。 Reinhart–Rogoff 全球危机数据（年均CPI变动）Venezuela 2015 为 121.7%，与本行 181% 口径不同（本行可能为年末同比或其他统计口径），两数并列，不作取舍。",
       "sources": [
-        "w-en-hyperinflation-in-venezuela"
+        "w-en-hyperinflation-in-venezuela",
+        "org-hbs-rr-global"
       ]
     }
   ],
@@ -158,7 +161,8 @@
     "w-en-hyperinflation-in-venezuela",
     "w-en-hyperinflation",
     "w-en-financial-crisis",
-    "owid-inflation"
+    "owid-inflation",
+    "org-hbs-rr-global"
   ],
   "related": [
     "brazil-hyper-1980",

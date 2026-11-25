@@ -106,9 +106,10 @@
       "unit": "%（1972年3.4%）",
       "year": 1974,
       "comparable_price": false,
-      "note": "原文：inflation (by CPI) jumped from 3.4% in 1972 to 12.3% in 1974；单一来源待核实。",
+      "note": "原文：inflation (by CPI) jumped from 3.4% in 1972 to 12.3% in 1974；单一来源待核实。 Reinhart–Rogoff 全球危机数据（年均CPI变动）United States 1974 为 11.5%，与本行 12.3% 口径不同（本行可能为年末同比或其他统计口径），两数并列，不作取舍。",
       "sources": [
-        "w-en-1973-1974-stock-crash"
+        "w-en-1973-1974-stock-crash",
+        "org-hbs-rr-global"
       ]
     }
   ],
@@ -135,7 +136,8 @@
   "sources": [
     "w-en-1973-1974-stock-crash",
     "w-en-speculative-bubble",
-    "w-en-financial-crisis"
+    "w-en-financial-crisis",
+    "org-hbs-rr-global"
   ],
   "related": [
     "israel-bank-1983",

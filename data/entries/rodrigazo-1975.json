@@ -46,10 +46,11 @@
       "unit": "%（阿根廷CPI，1976年）",
       "year": 1976,
       "comparable_price": false,
-      "note": "原文：inflation rate rose from 24.4% in 1974 to 182.4% in 1975 and 444% in 1976；444%属1976年；【双源印证】西语维基《Rodrigazo》原文\"24,4% en 1974 al 182,4% en 1975 y 444% en 1976\"，一致（并验证444%属1976年）。",
+      "note": "原文：inflation rate rose from 24.4% in 1974 to 182.4% in 1975 and 444% in 1976；444%属1976年；【双源印证】西语维基《Rodrigazo》原文\"24,4% en 1974 al 182,4% en 1975 y 444% en 1976\"，一致（并验证444%属1976年）。 Reinhart–Rogoff 全球危机数据（年均CPI变动）Argentina 1976 为 419.5%，与本行 444% 口径不同（本行可能为年末同比或其他统计口径），两数并列，不作取舍。",
       "sources": [
         "w-en-rodrigazo-1975",
-        "w-es-rodrigazo"
+        "w-es-rodrigazo",
+        "org-hbs-rr-global"
       ]
     }
   ],
@@ -85,7 +86,8 @@
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 280' role='img'><text x='20' y='26' class='ttl'>罗德里加索危机(阿根廷1975)：机制示意（恶性通胀）</text><g><rect x='20' y='60' width='210' height='52' rx='6' class='box'/><text x='29' y='83' class='lbl'>触发条件</text><text x='29' y='101' class='sub'>冲击来源</text></g><g><rect x='270' y='60' width='210' height='52' rx='6' class='box'/><text x='279' y='83' class='lbl'>传导过程</text><text x='279' y='101' class='sub'>风险扩散</text></g><g><rect x='520' y='60' width='210' height='52' rx='6' class='box'/><text x='529' y='83' class='lbl'>后果与应对</text><text x='529' y='101' class='sub'>结果与政策</text></g><line x1='230' y1='86' x2='265' y2='86' class='ar'/><line x1='480' y1='86' x2='515' y2='86' class='ar'/><text x='20' y='230' class='note'>框架来源见本页来源列表；具体数值以正文为准。</text></svg>",
   "sources": [
     "w-en-rodrigazo-1975",
-    "w-en-latin-american-debt-crisis"
+    "w-en-latin-american-debt-crisis",
+    "org-hbs-rr-global"
   ],
   "related": [
     "argentina-crisis-2001",

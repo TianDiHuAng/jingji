@@ -70,9 +70,10 @@
       "unit": "%（约）",
       "year": 1995,
       "comparable_price": false,
-      "note": "原文：The Mexican economy experienced inflation of around 52%；单一来源待核实。",
+      "note": "原文：The Mexican economy experienced inflation of around 52%；单一来源待核实。 Reinhart–Rogoff 全球危机数据（年均CPI变动）Mexico 1995 为 35.1%，与本行 52% 口径不同（本行可能为年末同比或其他统计口径），两数并列，不作取舍。",
       "sources": [
-        "w-en-mexican-peso-crisis"
+        "w-en-mexican-peso-crisis",
+        "org-hbs-rr-global"
       ]
     },
     {
@@ -176,7 +177,8 @@
     "w-en-currency-crisis",
     "w-en-mexican-peso-crisis",
     "w-en-financial-crisis",
-    "org-imf-lv2018"
+    "org-imf-lv2018",
+    "org-hbs-rr-global"
   ],
   "related": [
     "argentina-crisis-2001",
