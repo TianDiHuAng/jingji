@@ -77,6 +77,17 @@
       "sources": [
         "w-en-pakistani-economic-crisis-2021-2024"
       ]
+    },
+    {
+      "label": "通胀率峰值(2023年5月)",
+      "value": 37.97,
+      "unit": "%（有记录以来最高）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：in May 2023, Pakistan’s inflation rate reached 37.97%, the highest level ever recorded；单一来源待核实。",
+      "sources": [
+        "w-en-pakistani-economic-crisis-2021-2024"
+      ]
     }
   ],
   "schools": [

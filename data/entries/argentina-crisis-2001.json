@@ -96,6 +96,28 @@
       "sources": [
         "w-en-argentine-economic-crisis"
       ]
+    },
+    {
+      "label": "经济累计收缩(1998—2002)",
+      "value": -28,
+      "unit": "%",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：The economy shrank by 28 per cent from 1998 to 2002；单一来源待核实。",
+      "sources": [
+        "w-en-argentine-economic-crisis"
+      ]
+    },
+    {
+      "label": "贫困线以下人口比例(危机期)",
+      "value": 50,
+      "unit": "%（超过50%，另25%为赤贫）",
+      "year": 2002,
+      "comparable_price": false,
+      "note": "原文：over 50 per cent of Argentines lived below the official poverty line and 25 per cent were indigent；年份为危机期近似，单一来源待核实。",
+      "sources": [
+        "w-en-argentine-economic-crisis"
+      ]
     }
   ],
   "schools": [

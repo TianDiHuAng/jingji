@@ -111,6 +111,17 @@
       "sources": [
         "owid-inflation"
       ]
+    },
+    {
+      "label": "委内瑞拉通胀率(2015)",
+      "value": 181,
+      "unit": "%（年率）",
+      "year": 2015,
+      "comparable_price": false,
+      "note": "原文：In 2015, the inflation rate was 181%；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-venezuela"
+      ]
     }
   ],
   "schools": [
