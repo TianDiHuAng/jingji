@@ -108,6 +108,17 @@
       "sources": [
         "owid-gdp"
       ]
+    },
+    {
+      "label": "RTS指数跌幅(2014年12月初起)",
+      "value": -30,
+      "unit": "%",
+      "year": 2014,
+      "comparable_price": false,
+      "note": "原文：the RTS Index dropping 30% from the beginning of December；单一来源待核实。",
+      "sources": [
+        "w-en-russian-financial-crisis-2014"
+      ]
     }
   ],
   "schools": [

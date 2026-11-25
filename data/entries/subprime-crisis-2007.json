@@ -105,6 +105,17 @@
       "sources": [
         "fed-subprime"
       ]
+    },
+    {
+      "label": "就业岗位损失(2008—2009)",
+      "value": 9,
+      "unit": "百万个（近900万，约占劳动力6%）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：nearly 9 million jobs lost during 2008 and 2009, roughly 6% of the workforce；单一来源待核实。",
+      "sources": [
+        "w-en-subprime-mortgage-crisis"
+      ]
     }
   ],
   "schools": [
