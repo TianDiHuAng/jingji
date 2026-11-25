@@ -81,6 +81,28 @@
       "sources": [
         "w-en-too-big-to-fail"
       ]
+    },
+    {
+      "label": "美国前五大银行占银行业资产比重(2010)",
+      "value": 48,
+      "unit": "%（1998年约30%，2008年45%，2011年47%）",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：The top 5 U.S. banks had approximately 30% of the U.S. banking assets in 1998; this rose to 45% by 2008 and to 48% by 2010, before falling to 47% in 2011；单一来源待核实。",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
+    },
+    {
+      "label": "美国十大银行占全国存款比重(2011)",
+      "value": 50,
+      "unit": "%（近50%）",
+      "year": 2011,
+      "comparable_price": false,
+      "note": "原文：The ten largest U.S. banks held nearly 50% of U.S. deposits as of 2011；单一来源待核实。",
+      "sources": [
+        "w-en-too-big-to-fail"
+      ]
     }
   ],
   "schools": [
