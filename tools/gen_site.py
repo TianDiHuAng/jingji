@@ -610,17 +610,23 @@ if os.path.exists(_chp):
           '两者口径不同：该数据库只收录<strong>系统性</strong>银行危机及货币、主权债务危机，起始年按其自身判定标准；本库时间段取条目时间线最早与最晚年份。',
           '因此「不一致」只说明口径或定义不同，本页不判断哪一方正确。</p>',
           '<p class="src-list">来源：' + src_link(_sid) + '。泡沫类案例按银行危机列对照。</p>']
+    def _rr(r):
+        if r.get('rr') is None: return '数据未收录该国'
+        t = '；'.join(f'{esc(k)} {"、".join(map(str, v))}' for k, v in r['rr'].items() if v)
+        return t or '时段内无标记'
+    if _ch.get('source2'):
+        cb.append('<p class="src-list">第二套年表：' + src_link(_ch['source2']) + '。' + esc(_ch.get('note2', '')) + '。两套数据库各自独立编制，彼此定年也不尽相同。</p>')
     for st in _order:
         rs = [r for r in _ch['rows'] if r['status'] == st]
         if not rs: continue
         cb.append(f'<h2>{esc(st)}（{len(rs)}）</h2><p class="src-list">{esc(_expl[st])}</p>')
-        cb.append('<table><thead><tr><th>案例</th><th>国家</th><th>本库时间段</th><th>对照类型</th><th>数据库起始年</th><th>同期其他类型</th></tr></thead><tbody>')
+        cb.append('<table><thead><tr><th>案例</th><th>国家</th><th>本库时间段</th><th>对照类型</th><th>数据库起始年</th><th>同期其他类型</th><th>Reinhart–Rogoff 标记年（±1年）</th></tr></thead><tbody>')
         for r in sorted(rs, key=lambda r: r['our_span'][0]):
             e = entries.get(r['id'], {})
             oth = '；'.join(f'{esc(k)} {"、".join(map(str, v))}' for k, v in r['lv_other_in_span'].items()) or '—'
             cb.append(f'<tr><td><a href="{esc(r["id"])}.html">{esc(e.get("title", r["id"]))}</a></td>'
                       f'<td>{esc(r["country"])}</td><td>{r["our_span"][0]}–{r["our_span"][1]}</td>'
-                      f'<td>{esc(r["lv_type"])}</td><td>{"、".join(map(str, r["lv_years"])) or "—"}</td><td>{oth}</td></tr>')
+                      f'<td>{esc(r["lv_type"])}</td><td>{"、".join(map(str, r["lv_years"])) or "—"}</td><td>{oth}</td><td>{_rr(r)}</td></tr>')
         cb.append('</tbody></table>')
     open(os.path.join(SITE, 'chronology.html'), 'w', encoding='utf-8').write(
         page('年表对照', ''.join(cb), desc='本库危机案例年份与 IMF Laeven–Valencia 系统性危机数据库并列对照'))

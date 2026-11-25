@@ -2483,3 +2483,4 @@
 ## 年表对照（Laeven–Valencia 2018）
 - 新增来源 org-imf-lv2018；解析附录 Table 1 共 165 国。
 - 新增 data/chronology_lv.json 与 site/chronology.html：38 个案例并列，一致 25、相差1年 2、年份不同 8、数据库未列 3。不一致只表示口径不同，不改动条目。
+- 年表对照页加入第二套年表 Reinhart–Rogoff（org-hbs-rr-global，70 国国家-年份标记）：38 案例中 31 个可对照，一致 27、相差1年 1、时段内未标记 3。

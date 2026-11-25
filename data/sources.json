@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 741,
+  "count": 742,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -8892,6 +8892,18 @@
       "url2": "https://www.elibrary.imf.org/view/journals/001/2018/206/article-A001-en.xml",
       "verified": true,
       "note": "2026-11-25 经代理下载 PDF（48页，2611489字节）核对；附录 Table 1 Crisis Dates 按单词坐标解析",
+      "link_ok": true
+    },
+    {
+      "id": "org-hbs-rr-global",
+      "title": "Global Crises Data by Country (Reinhart–Rogoff, Behavioral Finance & Financial Stability, 2016-09-23 data file)",
+      "author": "Carmen M. Reinhart; Kenneth S. Rogoff; Harvard Business School BFFS",
+      "year": "2016",
+      "type": "官方机构",
+      "url": "https://www.hbs.edu/faculty/initiatives/behavioral-finance-and-financial-stability/Pages/global.aspx",
+      "url2": "https://www.hbs.edu/behavioral-finance-and-financial-stability/Documents/ChartData/MapCharts/20160923_global_crisis_data.xlsx",
+      "verified": true,
+      "note": "2026-11-25 经代理下载 xlsx（1634548字节，70国，1800–2016）核对；取 Banking Crisis / Currency Crises / Sovereign External Debt 1 三列",
       "link_ok": true
     }
   ]

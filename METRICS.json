@@ -2795,7 +2795,20 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "接入 IMF Laeven-Valencia(2018) 危机年表；新增 chronology.html（38 案例：一致25/相差1年2/年份不同8/未列3）",
       "site_pages": 656
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "年表对照页加入 Reinhart-Rogoff 全球危机数据（HBS 2016）：31 案例可对照，一致27/相差1年1/未标记3",
+      "site_pages": 656
     }
   ],
-  "sources_total": 741
+  "sources_total": 742
 }
