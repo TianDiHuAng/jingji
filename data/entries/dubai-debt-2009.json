@@ -124,6 +124,17 @@
       "sources": [
         "w-en-economy-dubai"
       ]
+    },
+    {
+      "label": "阿布扎比对迪拜世界的援助(2009年12月14日)",
+      "value": 10,
+      "unit": "十亿美元（100亿，其中41亿用于偿还Nakheel伊斯兰债券）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：received $10 billion in surprise aid from Abu Dhabi for debt-laden Dubai World, which said it would use $4.1 billion of it to repay its Nakheel unit’s Islamic bond；单一来源待核实。",
+      "sources": [
+        "w-en-dubai-world"
+      ]
     }
   ],
   "schools": [
