@@ -161,6 +161,7 @@ def page(title, body, depth=0, desc=''):
            f'<a href="{prefix}verification.html">核实状态</a>'
            f'<a href="{prefix}chronology.html">年表对照</a>'
            f'<a href="{prefix}policy-tools.html">政策工具</a>'
+           f'<a href="{prefix}bubble-stages.html">泡沫阶段</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
     _DSC = (desc or '').strip().replace('\n', ' ')
     _DSC = re.sub(r'\*\*|\[|\]|【|】', '', _DSC)
@@ -293,8 +294,9 @@ home += ['</div>',
     '<div class="card"><a href="verification.html"><strong>数据核实状态</strong></a><p class="src-list">已双源印证的数据与两源差异并列项</p></div>',
     '<div class="card"><a href="chronology.html"><strong>年表对照</strong></a><p class="src-list">本库案例年份与 IMF 系统性危机数据库并列</p></div>',
     '<div class="card"><a href="policy-tools.html"><strong>按政策工具浏览</strong></a><p class="src-list">各案例的政策应对按干预工具归类</p></div>',
+    '<div class="card"><a href="bubble-stages.html"><strong>泡沫阶段对比</strong></a><p class="src-list">按 Kindleberger 五阶段并列比较泡沫案例</p></div>',
  '</div>']
-_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology','policy-tools'}
+_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology','policy-tools','bubble-stages'}
 _SPECIAL |= {'unit-' + u.split()[0].lower() for u in units}
 _removed = _cleanup_stale_pages(SITE, set(entries.keys()), _SPECIAL)
 if _removed:
@@ -657,6 +659,24 @@ if os.path.exists(_ptp):
     open(os.path.join(SITE, 'policy-tools.html'), 'w', encoding='utf-8').write(
         page('按政策工具浏览', ''.join(pb), desc='按干预工具归类的危机政策应对索引'))
     print('生成 policy-tools.html：%d 条记录、%d 类' % (len(_pt), len(_grp)))
+
+
+# ---------- 泡沫阶段对比（Kindleberger） ----------
+_kbp = os.path.join(os.path.dirname(SITE), 'data', 'kindleberger.json')
+if os.path.exists(_kbp):
+    _kb = json.load(open(_kbp, encoding='utf-8'))
+    kb = ['<h1>泡沫阶段对比</h1>',
+          '<p>经济史学家金德尔伯格（Charles Kindleberger）把投机狂热概括为五个阶段：替代性冲击、繁荣（信贷扩张）、狂热、困境、厌恶（崩溃）。下表把本库泡沫类案例时间线中的事件放进这五个阶段并列比较。</p>',
+          '<p><strong>注意：</strong>' + esc(_kb['note']) + '该框架本身也有争议，并非所有泡沫都完整经历五个阶段。</p>',
+          '<table><thead><tr><th>案例</th>' + ''.join(f'<th>{esc(s)}</th>' for s in _kb['stages']) + '</tr></thead><tbody>']
+    for r in sorted(_kb['rows'], key=lambda r: min((ev['year'] for v in r['stages'].values() for ev in v if isinstance(ev['year'], int)), default=0)):
+        e = entries.get(r['id'], {})
+        cells = ''.join('<td>' + ('<br>'.join(f'{ev["year"]}：{esc(ev["event"])}' for ev in r['stages'][s]) or '—') + '</td>' for s in _kb['stages'])
+        kb.append(f'<tr><td><a href="{esc(r["id"])}.html">{esc(e.get("title", r["id"]))}</a></td>{cells}</tr>')
+    kb.append('</tbody></table>')
+    open(os.path.join(SITE, 'bubble-stages.html'), 'w', encoding='utf-8').write(
+        page('泡沫阶段对比', ''.join(kb), desc='按金德尔伯格五阶段框架并列比较泡沫案例'))
+    print('生成 bubble-stages.html：%d 个案例' % len(_kb['rows']))
 
 
 # ---------- 概念索引页 ----------
