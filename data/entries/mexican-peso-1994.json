@@ -96,6 +96,17 @@
       "sources": [
         "w-en-mexican-peso-crisis"
       ]
+    },
+    {
+      "label": "经常账户赤字/GDP(1994)",
+      "value": 7,
+      "unit": "%（约）",
+      "year": 1994,
+      "comparable_price": false,
+      "note": "原文：Mexico’s current account deficit grew to roughly 7% of GDP that same year；单一来源待核实。",
+      "sources": [
+        "w-en-mexican-peso-crisis"
+      ]
     }
   ],
   "schools": [

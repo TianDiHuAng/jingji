@@ -85,6 +85,28 @@
       "sources": [
         "w-en-icelandic-financial-crisis-2008"
       ]
+    },
+    {
+      "label": "冰岛股市市值跌幅",
+      "value": -90,
+      "unit": "%（超过90%）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：market capitalisation of the Icelandic stock exchange fell by more than 90%；单一来源待核实。",
+      "sources": [
+        "w-en-icelandic-financial-crisis-2008"
+      ]
+    },
+    {
+      "label": "克朗兑欧元跌幅(2008年1—9月)",
+      "value": -35,
+      "unit": "%（超过35%）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：The Icelandic króna declined more than 35% against the euro from January to September；单一来源待核实。",
+      "sources": [
+        "w-en-icelandic-financial-crisis-2008"
+      ]
     }
   ],
   "schools": [

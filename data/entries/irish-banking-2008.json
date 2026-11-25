@@ -58,6 +58,17 @@
       "sources": [
         "w-en-post-2008-irish-banking-crisis"
       ]
+    },
+    {
+      "label": "政府银行救助规模",
+      "value": 64,
+      "unit": "十亿欧元（640亿）",
+      "year": 2010,
+      "comparable_price": false,
+      "note": "原文：the Irish government instigated a €64 billion bank bailout；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
     }
   ],
   "schools": [

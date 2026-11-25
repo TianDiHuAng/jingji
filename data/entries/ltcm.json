@@ -58,6 +58,17 @@
       "sources": [
         "w-en-ltcm"
       ]
+    },
+    {
+      "label": "14家机构注资重组规模(1998-09-23)",
+      "value": 3.65,
+      "unit": "十亿美元（36.5亿）",
+      "year": 1998,
+      "comparable_price": false,
+      "note": "原文：agreement on September 23, 1998, among 14 financial institutions for a $3.65 billion recapitalization；导言另作$3.6 billion（约数），单一来源待核实。",
+      "sources": [
+        "w-en-ltcm"
+      ]
     }
   ],
   "schools": [
