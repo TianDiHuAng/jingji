@@ -69,6 +69,17 @@
       "sources": [
         "w-en-terra-luna-2022"
       ]
+    },
+    {
+      "label": "一周内蒸发的市值",
+      "value": 45,
+      "unit": "十亿美元（近450亿）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：an event that wiped out almost $45 billion in market capitalization within a week；单一来源待核实。",
+      "sources": [
+        "w-en-terra-luna-2022"
+      ]
     }
   ],
   "schools": [
