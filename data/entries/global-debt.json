@@ -71,6 +71,39 @@
       "sources": [
         "w-en-global-debt"
       ]
+    },
+    {
+      "label": "全球总债务/全球GDP(IMF,2025年9月)",
+      "value": 235,
+      "unit": "%（其中政府债务93%、私人债务143%）",
+      "year": 2025,
+      "comparable_price": false,
+      "note": "原文：According to the International Monetary Fund in September 2025 total global debt was equivalent to 235 percent of global gross domestic product, of which 93% was government debt and 143% was private；分项合计236与总数235差1，原文如此（或为四舍五入），单一来源待核实。",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    },
+    {
+      "label": "全球债务年均增速(2015—2019)",
+      "value": 6,
+      "unit": "%（约）",
+      "year": 2019,
+      "comparable_price": false,
+      "note": "原文：Between 2015 and 2019 global debt increased by approximately 6% per year；单一来源待核实。",
+      "sources": [
+        "w-en-global-debt"
+      ]
+    },
+    {
+      "label": "跨境债务总额(2019)",
+      "value": 76,
+      "unit": "万亿美元",
+      "year": 2019,
+      "comparable_price": false,
+      "note": "原文：debt owed by public and private debtors to creditors in other countries amounted to $76 trillion in 2019；单一来源待核实。",
+      "sources": [
+        "w-en-global-debt"
+      ]
     }
   ],
   "schools": [
