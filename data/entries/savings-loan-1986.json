@@ -88,6 +88,17 @@
       "sources": [
         "fed-savings-loan"
       ]
+    },
+    {
+      "label": "被关闭机构持有资产",
+      "value": 519,
+      "unit": "十亿美元（1043家机构）",
+      "year": 1995,
+      "comparable_price": false,
+      "note": "原文：The two agencies closed 1,043 banks that held $519 billion in assets；年份为处置期近似，单一来源待核实。",
+      "sources": [
+        "w-en-savings-and-loan-crisis"
+      ]
     }
   ],
   "schools": [

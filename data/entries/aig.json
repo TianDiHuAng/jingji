@@ -58,6 +58,17 @@
       "sources": [
         "w-en-aig"
       ]
+    },
+    {
+      "label": "2008年危机救助规模",
+      "value": 180,
+      "unit": "十亿美元（1800亿；至2012年偿还2050亿）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：AIG received a $180 billion bailout from the United States Federal government … by 2012, repaid the United States government $205 billion；单一来源待核实。",
+      "sources": [
+        "w-en-aig"
+      ]
     }
   ],
   "schools": [

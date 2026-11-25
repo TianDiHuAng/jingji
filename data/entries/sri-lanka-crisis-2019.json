@@ -77,6 +77,17 @@
       "sources": [
         "w-en-sri-lankan-economic-crisis"
       ]
+    },
+    {
+      "label": "印度提供的信贷额度",
+      "value": 4,
+      "unit": "十亿美元（40亿）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：due to a credit line of $4 billion provided by the Indian government；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-sri-lankan-economic-crisis"
+      ]
     }
   ],
   "schools": [

@@ -80,6 +80,17 @@
       "sources": [
         "w-en-penn-square"
       ]
+    },
+    {
+      "label": "大陆伊利诺伊注销的购入贷款",
+      "value": 326,
+      "unit": "百万美元",
+      "year": 1982,
+      "comparable_price": false,
+      "note": "原文：Continental Illinois National Bank and Trust Company of Chicago, which had to write off $326 million in loans purchased from Penn Square；单一来源待核实。",
+      "sources": [
+        "w-en-penn-square"
+      ]
     }
   ],
   "schools": [

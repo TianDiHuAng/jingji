@@ -61,6 +61,28 @@
       "sources": [
         "w-en-turkish-economic-crisis"
       ]
+    },
+    {
+      "label": "通胀率历史峰值",
+      "value": 83,
+      "unit": "%",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：inflation is at 47.09%, down from its all-time high of 83%；峰值年份原文未写，为近似，单一来源待核实。",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
+    },
+    {
+      "label": "政策利率(2024年3月起)",
+      "value": 50,
+      "unit": "%",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：The interest rate has stood at 50% since March 2024；单一来源待核实。",
+      "sources": [
+        "w-en-turkish-economic-crisis"
+      ]
     }
   ],
   "schools": [
