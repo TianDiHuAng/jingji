@@ -79,12 +79,23 @@
       ]
     },
     {
-      "label": "纳斯达克自2001年初的跌幅(至2002-09-24)",
+      "label": "纳斯达克自峰值跌幅(至2001年初)",
       "value": -44,
       "unit": "%",
-      "year": 2002,
+      "year": 2001,
       "comparable_price": false,
-      "note": "原文：The Dow Jones had already lost 9% of its peak value at the start of 2001, while the Nasdaq had lost 44%；口径以原文为准，单一来源待核实。",
+      "note": "原文：The Dow Jones had already lost 9% of its peak value at the start of 2001, while the Nasdaq had lost 44%；即至2001年初自峰值累计跌幅，单一来源待核实。",
+      "sources": [
+        "w-en-stock-market-downturn-of-2002"
+      ]
+    },
+    {
+      "label": "道指自峰值跌幅(至2001年初)",
+      "value": -9,
+      "unit": "%",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：The Dow Jones had already lost 9% of its peak value at the start of 2001；单一来源待核实。",
       "sources": [
         "w-en-stock-market-downturn-of-2002"
       ]
