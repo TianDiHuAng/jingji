@@ -69,6 +69,28 @@
       "sources": [
         "w-en-turkey-2001"
       ]
+    },
+    {
+      "label": "隔夜利率峰值(危机期)",
+      "value": 3000,
+      "unit": "%",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：Stocks plummeted and the interest rate reached 3,000%；单一来源待核实。",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
+    },
+    {
+      "label": "央行外汇储备损失",
+      "value": 5,
+      "unit": "十亿美元（50亿）",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：causing the Turkish central bank to lose $5 billion of its reserves；单一来源待核实。",
+      "sources": [
+        "w-en-turkey-2001"
+      ]
     }
   ],
   "schools": [

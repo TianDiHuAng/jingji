@@ -50,6 +50,28 @@
       "sources": [
         "w-en-signature-bank"
       ]
+    },
+    {
+      "label": "总资产(2022年末)",
+      "value": 110.4,
+      "unit": "十亿美元（存款826亿）",
+      "year": 2022,
+      "comparable_price": false,
+      "note": "原文：At the end of 2022, the bank had total assets of US$110.4 billion and deposits of $82.6 billion；单一来源待核实。",
+      "sources": [
+        "w-en-signature-bank"
+      ]
+    },
+    {
+      "label": "倒闭前存款提取额",
+      "value": 10,
+      "unit": "十亿美元（超100亿）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：nervous customers withdrew more than $10 billion in deposits；单一来源待核实。",
+      "sources": [
+        "w-en-signature-bank"
+      ]
     }
   ],
   "schools": [

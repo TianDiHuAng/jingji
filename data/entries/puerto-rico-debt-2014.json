@@ -77,6 +77,17 @@
       "sources": [
         "w-en-puerto-rican-debt-crisis"
       ]
+    },
+    {
+      "label": "未备资养老金负债(截至2017年5月)",
+      "value": 49,
+      "unit": "十亿美元（490亿；另有债券债务740亿）",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：the Commonwealth had $74 billion in bond debt and $49 billion in unfunded pension liabilities as of May 2017；单一来源待核实。",
+      "sources": [
+        "w-en-puerto-rican-debt-crisis"
+      ]
     }
   ],
   "schools": [

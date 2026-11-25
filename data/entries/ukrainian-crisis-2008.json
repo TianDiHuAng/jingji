@@ -69,6 +69,17 @@
       "sources": [
         "w-en-ukrainian-crisis-2008"
       ]
+    },
+    {
+      "label": "商品出口降幅(2009年1—9月同比)",
+      "value": -48.7,
+      "unit": "%（降至274.78亿美元；进口降53.5%）",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：export of goods over the period decreased by 48.7%, to $27.478 billion, while imports fell by 53.5%；单一来源待核实。",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
     }
   ],
   "schools": [
