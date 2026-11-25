@@ -68,12 +68,12 @@
       ]
     },
     {
-      "label": "未保险存款流出(至2023年3月末)",
+      "label": "第一共和银行未保险存款流出(至2023年3月末)",
       "value": 100,
-      "unit": "十亿美元（未保险存款占比由68%降至27%）",
+      "unit": "十亿美元（该行未保险存款占比由68%降至27%）",
       "year": 2023,
       "comparable_price": false,
-      "note": "原文：such deposits constituted 68% of the bank’s total at year-end 2022, declining to 27% by the end of March, as $100 billion in uninsured deposits were withdrawn；指单一银行，单一来源待核实。",
+      "note": "原文：such deposits constituted 68% of the bank’s total at year-end 2022, declining to 27% by the end of March, as $100 billion in uninsured deposits were withdrawn；指第一共和银行(First Republic Bank)，单一来源待核实。",
       "sources": [
         "w-en-2023-united-states-banking-crisis"
       ]
