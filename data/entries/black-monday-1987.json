@@ -71,6 +71,28 @@
       "sources": [
         "w-en-black-monday-1987"
       ]
+    },
+    {
+      "label": "全球损失估计",
+      "value": 1.71,
+      "unit": "万亿美元",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：Worldwide losses were estimated at US$1.71 trillion；单一来源待核实。",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
+    },
+    {
+      "label": "标普500跌幅(至1987年11月)",
+      "value": -31.6,
+      "unit": "%（跌至230.30）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：The S&P 500 index fell to 230.30 by November 1987, a 31.6% drop；单一来源待核实。",
+      "sources": [
+        "w-en-black-monday-1987"
+      ]
     }
   ],
   "schools": [

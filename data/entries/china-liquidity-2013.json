@@ -58,6 +58,17 @@
       "sources": [
         "w-en-chinese-banking-liquidity-crisis-of-2013"
       ]
+    },
+    {
+      "label": "沪深300单日跌幅",
+      "value": -5.3,
+      "unit": "%（近4年最大单日跌幅）",
+      "year": 2013,
+      "comparable_price": false,
+      "note": "原文：caused the blue-chip Shanghai Composite Index (CSI300) to plummet 5.3% the largest daily decline in nearly 4 years；单一来源待核实。",
+      "sources": [
+        "w-en-chinese-banking-liquidity-crisis-of-2013"
+      ]
     }
   ],
   "schools": [

@@ -69,6 +69,17 @@
       "sources": [
         "w-en-chinese-stock-bubble-of-2007"
       ]
+    },
+    {
+      "label": "道指同日跌幅(2007-02-27)",
+      "value": -3.29,
+      "unit": "%（跌416.02点）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：the Dow Jones Industrial Average in the United States dropped 416.02 points, or 3.29%；单一来源待核实。",
+      "sources": [
+        "w-en-chinese-stock-bubble-of-2007"
+      ]
     }
   ],
   "schools": [
