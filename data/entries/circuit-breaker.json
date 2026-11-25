@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "道指单日跌幅(2020-03-09)",
+      "value": -7.79,
+      "unit": "%（2013点）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：On March 9, 2020, the Dow Jones fell by 7.79% (2,013 points)；单一来源待核实。",
+      "sources": [
+        "w-en-trading-curb"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "稳定视角",

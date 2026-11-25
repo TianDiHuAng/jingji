@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美元贬值幅度(广场协议后至卢浮宫协议)",
+      "value": -25,
+      "unit": "%（超过25%）",
+      "year": 1987,
+      "comparable_price": false,
+      "note": "原文：the dollar exchange rate against other currencies had fallen more than 25%；单一来源待核实。",
+      "sources": [
+        "w-en-louvre-accord"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "协调视角",

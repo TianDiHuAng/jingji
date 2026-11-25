@@ -39,7 +39,30 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美元兑日元等升值幅度(1980—1985)",
+      "value": 50,
+      "unit": "%（约）",
+      "year": 1985,
+      "comparable_price": false,
+      "note": "原文：From 1980 to 1985, the dollar had appreciated by about 50% against the Japanese yen, Deutsche Mark…；单一来源待核实。",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    },
+    {
+      "label": "美国经常账户赤字/GDP(协议前)",
+      "value": 3.5,
+      "unit": "%",
+      "year": 1985,
+      "comparable_price": false,
+      "note": "原文：the U.S. current account deficit, which had reached 3.5% of the GDP；单一来源待核实。",
+      "sources": [
+        "w-en-plaza-accord"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "协调干预视角",

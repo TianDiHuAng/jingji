@@ -30,7 +30,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美国失业率峰值(1878)",
+      "value": 8.25,
+      "unit": "%",
+      "year": 1878,
+      "comparable_price": false,
+      "note": "原文：Unemployment peaked in 1878 at 8.25%；单一来源待核实。",
+      "sources": [
+        "w-en-long-depression"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "通缩/金本位视角",

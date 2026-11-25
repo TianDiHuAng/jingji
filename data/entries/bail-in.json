@@ -39,7 +39,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "TARP回收资金与收益",
+      "value": 441.7,
+      "unit": "十亿美元（投入4264亿，盈利153亿）",
+      "year": 2014,
+      "comparable_price": false,
+      "note": "原文：TARP recovered funds totalling $441.7 billion from $426.4 billion invested, earning a $15.3 billion profit；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-bailout"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "市场约束视角",

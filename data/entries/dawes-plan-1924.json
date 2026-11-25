@@ -82,6 +82,17 @@
       "sources": [
         "w-en-dawes-plan"
       ]
+    },
+    {
+      "label": "德国经济产出增幅(1924—1929，五年)",
+      "value": 50,
+      "unit": "%",
+      "year": 1929,
+      "comparable_price": false,
+      "note": "原文：Overall economic production increased 50% in five years；单一来源待核实。",
+      "sources": [
+        "w-en-dawes-plan"
+      ]
     }
   ],
   "schools": [

@@ -54,12 +54,12 @@
       ]
     },
     {
-      "label": "援助占受援国合计国民收入比重",
+      "label": "援助占受援国合计国民收入比重(1948—1951)",
       "value": 3,
       "unit": "%（约）",
-      "year": 1952,
+      "year": 1951,
       "comparable_price": false,
-      "note": "原文：aid accounted for about 3% of the combined national income of the recipient countries；年份为近似，单一来源待核实。",
+      "note": "原文：aid accounted for about 3% of the combined national income of the recipient countries between 1948 and 1951；单一来源待核实。",
       "sources": [
         "w-en-marshall-plan"
       ]
