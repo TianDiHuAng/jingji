@@ -58,6 +58,28 @@
       "sources": [
         "w-en-october-27-1997-mini-crash"
       ]
+    },
+    {
+      "label": "恒生指数跌幅(1997-10-27隔夜)",
+      "value": -6,
+      "unit": "%（日经225同日跌2%）",
+      "year": 1997,
+      "comparable_price": false,
+      "note": "原文：Hong Kong’s Hang Seng Index fell 6%, although … Japan’s Nikkei 225, only fell 2% on the day；单一来源待核实。",
+      "sources": [
+        "w-en-october-27-1997-mini-crash"
+      ]
+    },
+    {
+      "label": "道指触发首次熔断时跌幅",
+      "value": -4.54,
+      "unit": "%（350点熔断）",
+      "year": 1997,
+      "comparable_price": false,
+      "note": "原文：the Dow hit the first trading curb at 350 points, its loss was only 4.54%；单一来源待核实。",
+      "sources": [
+        "w-en-october-27-1997-mini-crash"
+      ]
     }
   ],
   "schools": [
