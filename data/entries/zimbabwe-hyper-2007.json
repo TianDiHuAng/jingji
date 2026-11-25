@@ -62,7 +62,18 @@
       "unit": "十亿%（月环比，约7906亿%）",
       "year": 2008,
       "comparable_price": false,
-      "note": "原文：Zimbabwe's peak month of inflation is estimated at 790.6 billion percent month-on-month；单一来源待核实。",
+      "note": "原文：Zimbabwe’s peak month of inflation is estimated at 790.6 billion percent month-on-month；同一来源另处写作 79,600,000,000% per month（约796亿%，小一个数量级），来源内部不一致，两说并列，待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-zimbabwe"
+      ]
+    },
+    {
+      "label": "津巴布韦峰值月通胀(2008年11月中，另一说)",
+      "value": 79.6,
+      "unit": "十亿%（月率，约796亿%；与上条差一个数量级）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：The peak month of hyperinflation occurred in mid-November 2008 with a rate estimated at 79,600,000,000% per month；与同源790.6 billion percent并列，不作取舍，待核实。",
       "sources": [
         "w-en-hyperinflation-in-zimbabwe"
       ]
