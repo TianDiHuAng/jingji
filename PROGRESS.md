@@ -2472,3 +2472,10 @@
 - BACKLOG.md / METRICS.json / SATURATION.json / GAP_REPORT.md / READER_QUESTIONS.md / HEALTH_CHECK.md / HEALTH_CHECK_F.md / BLOCKERS.md / DECISIONS.md
 
 （未写完成标记 — 已判定 SATURATED=true，转入维护模式，持续运行）
+
+
+## 离线饱和收尾（续作QS—RF）
+- 按“待核实”排序逐个核对全部 276 个有维基全文缓存的条目，原文确有的数字据实补入 key_data（单源均标“单一来源待核实”），key_data 542→610。
+- 两说并列处理：津巴布韦峰值月通胀、巴尔迪弗罗林币种、1920—21年GNP三种估计。
+- 缓存审计脚本 _research/audit_cache_slug.py、批量扫描脚本 _research/scan_batch.py 已入库。
+- 离线可做项已饱和；剩余均需联网：347 个无缓存条目、已登记的错配缓存重抓、GitHub 推送，见 BLOCKERS.md。
