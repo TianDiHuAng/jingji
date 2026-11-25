@@ -59,3 +59,10 @@ def counts(entries):
             if r:
                 c[r] += 1
     return c
+
+
+def is_single(kd):
+    """单一来源判据（唯一口径）：该行 sources 去重后少于 2 个。
+    不看 note 措辞——round 297 发现按 note 中"单一来源待核实"字样计数会漏掉
+    "单源待核实""待第二来源核实"等写法及 OWID/IMF 对照行，README 因此少计。"""
+    return len(set(kd.get('sources') or [])) < 2

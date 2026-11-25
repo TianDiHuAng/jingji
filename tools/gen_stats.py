@@ -105,8 +105,9 @@ def skind(s):
 
 
 charts.append(hbar('sources_by_kind', f'来源库构成（共 {len(SRC)} 条，全部 verified）', cnt(skind(s) for s in SRC)))
-single = sum(1 for k in kd if '单一来源待核实' in (k.get('note') or ''))
-charts.append(hbar('key_data_status', f'key_data 共 {len(kd)} 条：来源状态', [('多来源 / 已对照', len(kd) - single), ('单一来源待核实', single)],
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(__file__)); from kdclass import is_single
+single = sum(1 for k in kd if is_single(k))
+charts.append(hbar('key_data_status', f'key_data 共 {len(kd)} 条：来源状态', [('本行列有 ≥2 个来源', len(kd) - single), ('本行只有 1 个来源', single)],
                    note='单一来源的数据已在页面明示“待核实”，不视为已独立印证。'))
 
 # 仪表盘页

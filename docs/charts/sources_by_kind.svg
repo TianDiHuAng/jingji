@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" width="640" height="240" role="img" aria-label="来源库构成（共 740 条，全部 verified）">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" width="640" height="240" role="img" aria-label="来源库构成（共 742 条，全部 verified）">
 <style>
 .t{font:600 15px sans-serif;fill:#1f2328}.l{font:12px sans-serif;fill:#1f2328}.v{font:12px sans-serif;fill:#57606a}
 .b{fill:#2f6fb3}.b2{fill:#c0602a}.g{stroke:#d0d7de;stroke-width:1}.bg{fill:#ffffff}
 @media (prefers-color-scheme:dark){.t,.l{fill:#e6edf3}.v{fill:#9da7b3}.b{fill:#5aa0e6}.b2{fill:#e08a55}.g{stroke:#30363d}.bg{fill:#0d1117}}
 </style>
 <rect class="bg" width="640" height="240" rx="6"/>
-<text class="t" x="16" y="26">来源库构成（共 740 条，全部 verified）</text>
+<text class="t" x="16" y="26">来源库构成（共 742 条，全部 verified）</text>
 <text class="l" x="142" y="59" text-anchor="end">英文维基</text>
 <rect class="b" x="150" y="47" width="420.0" height="17" rx="2"/>
 <text class="v" x="576.0" y="60">643</text>
@@ -16,8 +16,8 @@
 <rect class="b" x="150" y="99" width="13.7" height="17" rx="2"/>
 <text class="v" x="169.7" y="112">21</text>
 <text class="l" x="142" y="137" text-anchor="end">机构文件</text>
-<rect class="b" x="150" y="125" width="10.5" height="17" rx="2"/>
-<text class="v" x="166.5" y="138">16</text>
+<rect class="b" x="150" y="125" width="11.8" height="17" rx="2"/>
+<text class="v" x="167.8" y="138">18</text>
 <text class="l" x="142" y="163" text-anchor="end">美联储史</text>
 <rect class="b" x="150" y="151" width="3.9" height="17" rx="2"/>
 <text class="v" x="159.9" y="164">6</text>
