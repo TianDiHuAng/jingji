@@ -61,6 +61,17 @@
       "sources": [
         "w-en-merrill-lynch"
       ]
+    },
+    {
+      "label": "一年累计亏损(2007年7月—2008年7月)",
+      "value": 19.2,
+      "unit": "十亿美元（192亿，日均5200万）",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：In one year between July 2007 and July 2008, Merrill Lynch lost $19.2 billion, or $52 million daily；单一来源待核实。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
     }
   ],
   "schools": [

@@ -91,6 +91,17 @@
       "sources": [
         "w-en-oil-price-war-2020"
       ]
+    },
+    {
+      "label": "卢布兑美元跌幅(价格战宣布后)",
+      "value": -7,
+      "unit": "%（至4年低点）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：the Russian ruble fell 7% to a 4-year low against the U.S. dollar；单一来源待核实。",
+      "sources": [
+        "w-en-oil-price-war-2020"
+      ]
     }
   ],
   "schools": [

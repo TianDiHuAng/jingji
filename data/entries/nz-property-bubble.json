@@ -99,6 +99,17 @@
       "sources": [
         "w-en-new-zealand-property-bubble"
       ]
+    },
+    {
+      "label": "新西兰名义房价跌幅(2008)",
+      "value": -10,
+      "unit": "%",
+      "year": 2008,
+      "comparable_price": false,
+      "note": "原文：The Great Recession led to a 10% drop in nominal prices in 2008；单一来源待核实。",
+      "sources": [
+        "w-en-new-zealand-property-bubble"
+      ]
     }
   ],
   "schools": [
