@@ -41,6 +41,17 @@
       "sources": [
         "w-en-debt-ceiling"
       ]
+    },
+    {
+      "label": "债务上限(1953)",
+      "value": 275,
+      "unit": "十亿美元",
+      "year": 1953,
+      "comparable_price": false,
+      "note": "原文：In 1953, the U.S. Treasury risked reaching the debt ceiling of $275 billion；单一来源待核实。",
+      "sources": [
+        "w-en-debt-ceiling"
+      ]
     }
   ],
   "schools": [

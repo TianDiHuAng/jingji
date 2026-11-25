@@ -47,7 +47,19 @@
       ]
     }
   ],
-  "key_data": [],
+  "key_data": [
+    {
+      "label": "美国市政债务余额(2021年一季度)",
+      "value": 4,
+      "unit": "万亿美元（公司及外国债市近15万亿）",
+      "year": 2021,
+      "comparable_price": false,
+      "note": "原文：total municipal debt outstanding was $4 trillion as of the first quarter of 2021, compared to nearly $15 trillion in the corporate and foreign markets；单一来源待核实。",
+      "sources": [
+        "w-en-municipal-bond"
+      ]
+    }
+  ],
   "schools": [
     {
       "holder": "财政纪律视角",

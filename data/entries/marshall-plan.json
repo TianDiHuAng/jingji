@@ -41,6 +41,28 @@
       "sources": [
         "w-en-marshall-plan"
       ]
+    },
+    {
+      "label": "英国所获援助占总额比重",
+      "value": 26,
+      "unit": "%（约；法国18%、西德11%）",
+      "year": 1952,
+      "comparable_price": false,
+      "note": "原文：the largest recipient of Marshall Plan money was the United Kingdom (receiving about 26% of the total). The next highest contributions went to France (18%) and West Germany (11%)；年份为计划结束年近似，单一来源待核实。",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
+    },
+    {
+      "label": "援助占受援国合计国民收入比重",
+      "value": 3,
+      "unit": "%（约）",
+      "year": 1952,
+      "comparable_price": false,
+      "note": "原文：aid accounted for about 3% of the combined national income of the recipient countries；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-marshall-plan"
+      ]
     }
   ],
   "schools": [
