@@ -2808,6 +2808,19 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "年表对照页加入 Reinhart-Rogoff 全球危机数据（HBS 2016）：31 案例可对照，一致27/相差1年1/未标记3",
       "site_pages": 656
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "新增 policy-tools.html：166 条政策应对按 14 类干预工具归类（参照 YPFS），未归类 13",
+      "site_pages": 657
     }
   ],
   "sources_total": 742

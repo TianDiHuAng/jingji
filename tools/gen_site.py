@@ -160,6 +160,7 @@ def page(title, body, depth=0, desc=''):
            f'<a href="{prefix}sources.html">来源</a>'
            f'<a href="{prefix}verification.html">核实状态</a>'
            f'<a href="{prefix}chronology.html">年表对照</a>'
+           f'<a href="{prefix}policy-tools.html">政策工具</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
     _DSC = (desc or '').strip().replace('\n', ' ')
     _DSC = re.sub(r'\*\*|\[|\]|【|】', '', _DSC)
@@ -291,8 +292,9 @@ home += ['</div>',
  '<div class="card"><a href="matrix.html"><strong>覆盖矩阵</strong></a><p class="src-list">时期×地区×危机类型覆盖与空白</p></div>',
     '<div class="card"><a href="verification.html"><strong>数据核实状态</strong></a><p class="src-list">已双源印证的数据与两源差异并列项</p></div>',
     '<div class="card"><a href="chronology.html"><strong>年表对照</strong></a><p class="src-list">本库案例年份与 IMF 系统性危机数据库并列</p></div>',
+    '<div class="card"><a href="policy-tools.html"><strong>按政策工具浏览</strong></a><p class="src-list">各案例的政策应对按干预工具归类</p></div>',
  '</div>']
-_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology'}
+_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology','policy-tools'}
 _SPECIAL |= {'unit-' + u.split()[0].lower() for u in units}
 _removed = _cleanup_stale_pages(SITE, set(entries.keys()), _SPECIAL)
 if _removed:
@@ -631,6 +633,30 @@ if os.path.exists(_chp):
     open(os.path.join(SITE, 'chronology.html'), 'w', encoding='utf-8').write(
         page('年表对照', ''.join(cb), desc='本库危机案例年份与 IMF Laeven–Valencia 系统性危机数据库并列对照'))
     print('生成 chronology.html：%d 个案例对照' % len(_ch['rows']))
+
+
+# ---------- 按政策工具浏览 ----------
+_ptp = os.path.join(os.path.dirname(SITE), 'data', 'policy_tools.json')
+if os.path.exists(_ptp):
+    _pt = json.load(open(_ptp, encoding='utf-8'))
+    _grp = {}
+    for r in _pt:
+        for t in (r['tags'] or ['其他/未归类']):
+            _grp.setdefault(t, []).append(r)
+    pb = ['<h1>按政策工具浏览</h1>',
+          '<p>把各条目「政策应对」中的记录按干预工具归类，分类框架参照耶鲁大学金融稳定项目（YPFS）对危机干预工具的划分方式。',
+          '归类按记录文字中的关键词机械完成，一条记录可属多类；分类只帮助检索，不评价政策效果。</p>',
+          '<p class="src-list">共 %d 条政策应对记录。</p>' % len(_pt), '<ul>']
+    _ks = sorted(_grp, key=lambda k: (k == '其他/未归类', -len(_grp[k])))
+    pb += [f'<li><a href="#pt{i}">{esc(k)}</a>（{len(_grp[k])}）</li>' for i, k in enumerate(_ks)] + ['</ul>']
+    for i, k in enumerate(_ks):
+        pb.append(f'<h2 id="pt{i}">{esc(k)}（{len(_grp[k])}）</h2><ul>')
+        for r in sorted(_grp[k], key=lambda r: r['title']):
+            pb.append(f'<li><a href="{esc(r["id"])}.html">{esc(r["title"])}</a>：{mdesc(r["view"][:160] + ("…" if len(r["view"]) > 160 else ""))}</li>')
+        pb.append('</ul>')
+    open(os.path.join(SITE, 'policy-tools.html'), 'w', encoding='utf-8').write(
+        page('按政策工具浏览', ''.join(pb), desc='按干预工具归类的危机政策应对索引'))
+    print('生成 policy-tools.html：%d 条记录、%d 类' % (len(_pt), len(_grp)))
 
 
 # ---------- 概念索引页 ----------
