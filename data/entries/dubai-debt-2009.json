@@ -135,6 +135,28 @@
       "sources": [
         "w-en-dubai-world"
       ]
+    },
+    {
+      "label": "迪拜股市单日跌幅(2009年11月30日)",
+      "value": -7.3,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：On 30 November, shares dropped in Dubai and Abu Dhabi by 7.3% and 8.3%, respectively；单一来源待核实。",
+      "sources": [
+        "w-en-dubai-world"
+      ]
+    },
+    {
+      "label": "阿布扎比股市单日跌幅(2009年11月30日)",
+      "value": -8.3,
+      "unit": "%",
+      "year": 2009,
+      "comparable_price": false,
+      "note": "原文：On 30 November, shares dropped in Dubai and Abu Dhabi by 7.3% and 8.3%, respectively；单一来源待核实。",
+      "sources": [
+        "w-en-dubai-world"
+      ]
     }
   ],
   "schools": [
