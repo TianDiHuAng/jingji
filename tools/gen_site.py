@@ -162,6 +162,7 @@ def page(title, body, depth=0, desc=''):
            f'<a href="{prefix}chronology.html">年表对照</a>'
            f'<a href="{prefix}policy-tools.html">政策工具</a>'
            f'<a href="{prefix}bubble-stages.html">泡沫阶段</a>'
+           f'<a href="{prefix}decisions.html">关键决策</a>'
            f'<a href="{prefix}matrix.html">覆盖矩阵</a>')
     _DSC = (desc or '').strip().replace('\n', ' ')
     _DSC = re.sub(r'\*\*|\[|\]|【|】', '', _DSC)
@@ -295,8 +296,9 @@ home += ['</div>',
     '<div class="card"><a href="chronology.html"><strong>年表对照</strong></a><p class="src-list">本库案例年份与 IMF 系统性危机数据库并列</p></div>',
     '<div class="card"><a href="policy-tools.html"><strong>按政策工具浏览</strong></a><p class="src-list">各案例的政策应对按干预工具归类</p></div>',
     '<div class="card"><a href="bubble-stages.html"><strong>泡沫阶段对比</strong></a><p class="src-list">按 Kindleberger 五阶段并列比较泡沫案例</p></div>',
+    '<div class="card"><a href="decisions.html"><strong>关键决策点</strong></a><p class="src-list">核心案例中决策者的选择，附来源原文摘录</p></div>',
  '</div>']
-_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology','policy-tools','bubble-stages'}
+_SPECIAL = {'index','cases','concepts','index-all','timeline','sources','verification','matrix','chronology','policy-tools','bubble-stages','decisions'}
 _SPECIAL |= {'unit-' + u.split()[0].lower() for u in units}
 _removed = _cleanup_stale_pages(SITE, set(entries.keys()), _SPECIAL)
 if _removed:
@@ -677,6 +679,36 @@ if os.path.exists(_kbp):
     open(os.path.join(SITE, 'bubble-stages.html'), 'w', encoding='utf-8').write(
         page('泡沫阶段对比', ''.join(kb), desc='按金德尔伯格五阶段框架并列比较泡沫案例'))
     print('生成 bubble-stages.html：%d 个案例' % len(_kb['rows']))
+
+
+# ---------- 关键决策点（核心案例） ----------
+_dcd = os.path.join(os.path.dirname(SITE), '_research', 'decisions')
+if os.path.isdir(_dcd):
+    _dc = [json.load(open(os.path.join(_dcd, f), encoding='utf-8')) for f in sorted(os.listdir(_dcd)) if f.endswith('.json')]
+    _dc = [d for d in _dc if d.get('points') and d['id'] in entries]
+    _np = sum(len(d['points']) for d in _dc)
+    db = ['<h1>关键决策点</h1>',
+          '<p>核心案例中，决策者（政府、央行、国际机构或个人）在关键时刻做出的决定。每一点都附有英文维基原文的逐字摘录，经脚本核对确为原文的精确子串；中文概述不超出摘录内容。',
+          '「当时的其他选项或争论」只在原文明确写到时才列出。本页只记录发生了什么，不评价决定对错，也不推断「本应如何」。</p>',
+          '<p class="src-list">共 %d 个案例、%d 个决策点。年份标「约」者为原句未写年份、按上下文推定。</p>' % (len(_dc), _np)]
+    def _yr(p):
+        if not isinstance(p.get('year'), int): return '年份不详'
+        return ('约 ' if p.get('year_inferred') else '') + str(p['year'])
+    for d in sorted(_dc, key=lambda d: min((p['year'] for p in d['points'] if isinstance(p.get('year'), int)), default=9999)):
+        e = entries[d['id']]
+        db.append(f'<h2><a href="{esc(d["id"])}.html">{esc(e["title"])}</a></h2><ol>')
+        for p in sorted(d['points'], key=lambda p: p['year'] if isinstance(p.get('year'), int) else 9999):
+            s = f'<li><strong>{_yr(p)} · {esc(p["actor"])}</strong>：{esc(p["decision"])}'
+            s += f'<blockquote lang="en">{esc(p["evidence"])}</blockquote>'
+            if p.get('options'):
+                s += f'<p>当时的其他选项或争论：{esc(p["options"])}</p>'
+                if p.get('evidence2'): s += f'<blockquote lang="en">{esc(p["evidence2"])}</blockquote>'
+            s += f'<p class="src-list">来源：{src_link(p["source"])}</p></li>'
+            db.append(s)
+        db.append('</ol>')
+    open(os.path.join(SITE, 'decisions.html'), 'w', encoding='utf-8').write(
+        page('关键决策点', ''.join(db), desc='核心危机案例中的关键决策点，附来源原文摘录'))
+    print('生成 decisions.html：%d 个案例、%d 个决策点' % (len(_dc), _np))
 
 
 # ---------- 概念索引页 ----------

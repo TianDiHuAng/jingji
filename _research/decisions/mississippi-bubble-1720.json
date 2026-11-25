@@ -1,0 +1,33 @@
+{
+ "id": "mississippi-bubble-1720",
+ "points": [
+  {
+   "year": 1719,
+   "actor": "摄政王",
+   "decision": "1719年5月21日摄政王颁布敕令认可合并交易，并将合并实体命名为印度公司。",
+   "options": "",
+   "evidence": "On 21 May 1719, a royal edict issued by the Regent endorsed the transaction and gave the name Compagnie des Indes to the merged entity.",
+   "evidence2": "",
+   "source": "w-en-john-law-company"
+  },
+  {
+   "year": 1720,
+   "actor": "法国政府",
+   "decision": "1720年5月，在密西西比公司和受让人投诉后，法国政府禁止向路易斯安那遣送囚犯。",
+   "options": "",
+   "evidence": "In May 1720, after complaints from the Mississippi Company and the concessioners about this class of French immigrants, the French government prohibited such deportations.",
+   "evidence2": "",
+   "source": "w-en-john-law-company"
+  },
+  {
+   "year": 1721,
+   "actor": "法国国家",
+   "decision": "重组中，法国国家向公司支付5.14亿里弗赔偿，并保留原有股东。",
+   "options": "",
+   "evidence": "As part of the restructuring, the French state paid the company an indemnity of 514 million livres to make it whole, and it kept its prior shareholders",
+   "evidence2": "",
+   "source": "w-en-john-law-company",
+   "year_inferred": true
+  }
+ ]
+}

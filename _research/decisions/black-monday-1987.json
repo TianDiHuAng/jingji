@@ -1,0 +1,23 @@
+{
+  "id": "black-monday-1987",
+  "points": [
+    {
+      "year": 1987,
+      "actor": "美联储",
+      "decision": "10月20日通过公开市场向银行体系注入170亿美元。",
+      "options": "",
+      "evidence": "On October 20 it injected $17 billion into the banking system through the open market",
+      "evidence2": "",
+      "source": "w-en-black-monday-1987"
+    },
+    {
+      "year": 1987,
+      "actor": "香港联合交易所委员会与期货交易所委员会",
+      "decision": "担心本地市场暴跌或崩溃，宣布两所休市。",
+      "options": "",
+      "evidence": "the Hong Kong Stock Exchange Committee and the committee of the Futures Exchange announced the following morning that both would be closed.",
+      "evidence2": "",
+      "source": "w-en-black-monday-1987"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+ "id": "wall-street-1929",
+ "points": [
+  {
+   "year": 1929,
+   "actor": "纽约主要银行家",
+   "decision": "推选交易所副总裁 Richard Whitney 代表银行家行事。",
+   "options": "",
+   "evidence": "They chose Richard Whitney, vice president of the Exchange, to act on their behalf.",
+   "evidence2": "",
+   "source": "w-en-wall-street-crash-of-1929"
+  },
+  {
+   "year": 1932,
+   "actor": "美国参议院",
+   "decision": "设立 Pecora 委员会研究股灾成因。",
+   "options": "",
+   "evidence": "In 1932, the Pecora Commission was established by the U.S. Senate to study the causes of the crash.",
+   "evidence2": "",
+   "source": "w-en-wall-street-crash-of-1929"
+  },
+  {
+   "year": 1933,
+   "actor": "美国国会",
+   "decision": "通过《1933年银行法》（格拉斯-斯蒂格尔法），分离商业银行与投资银行。",
+   "options": "",
+   "evidence": "Congress responded to the events by passing the Banking Act of 1933 (Glass–Steagall Act), which separated commercial and investment banking",
+   "evidence2": "",
+   "source": "w-en-wall-street-crash-of-1929"
+  }
+ ]
+}

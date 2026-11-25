@@ -1,0 +1,32 @@
+{
+ "id": "mexican-peso-1994",
+ "points": [
+  {
+   "year": 1994,
+   "actor": "总统塞迪略／墨西哥央行",
+   "decision": "1994年12月20日塞迪略宣布央行将比索贬值13%至15%。",
+   "options": "",
+   "evidence": "On December 20, 1994, nineteen days after his inauguration, President Ernesto Zedillo announced the Mexican central bank's devaluation of the peso between 13% and 15%.",
+   "evidence2": "",
+   "source": "w-en-mexican-peso-crisis"
+  },
+  {
+   "year": 1994,
+   "actor": "墨西哥政府",
+   "decision": "12月22日墨西哥政府允许比索自由浮动。",
+   "options": "",
+   "evidence": "On December 22, the Mexican government allowed the peso to float, after which the peso depreciated another 15%.",
+   "evidence2": "",
+   "source": "w-en-mexican-peso-crisis"
+  },
+  {
+   "year": 1995,
+   "actor": "美国总统克林顿",
+   "decision": "克林顿决定寻求国会批准对墨西哥的救助，并与萨默斯一起争取国会支持。",
+   "options": "原文记载有议员认同赛德曼的观点，即墨西哥应自行与债权人谈判而不让美国介入；格林斯潘等则支持美国介入。",
+   "evidence": "Clinton decided nevertheless to seek Congressional approval for a bailout and began working with Summers to secure commitments from Congress.",
+   "evidence2": "Some congressional representatives agreed with American economist and former chairman of the Federal Deposit Insurance Corporation, L. William Seidman, that Mexico should just negotiate with creditors without involving the United States",
+   "source": "w-en-mexican-peso-crisis"
+  }
+ ]
+}

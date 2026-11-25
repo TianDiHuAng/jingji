@@ -1,0 +1,24 @@
+{
+ "id": "asian-financial-crisis-1997",
+ "points": [
+  {
+   "year": 1997,
+   "actor": "印度尼西亚货币当局",
+   "decision": "1997年7月泰国让泰铢浮动后，将印尼盾交易区间从8%扩大至12%。",
+   "options": "",
+   "evidence": "In July 1997, when Thailand floated the baht, Indonesia's monetary authorities widened the rupiah currency trading band from 8% to 12%.",
+   "evidence2": "",
+   "source": "w-en-asian-financial-crisis"
+  },
+  {
+   "year": 1998,
+   "actor": "马来西亚当局／马来西亚国家银行（Bank Negara）",
+   "decision": "将林吉特由自由浮动改为固定汇率（3.8兑1美元），实施资本管制并拒绝IMF援助。",
+   "options": "",
+   "evidence": "The principal measure taken were to move the ringgit from a free float to a fixed exchange rate regime. Bank Negara fixed the ringgit at 3.8 to the dollar. Capital controls were imposed while aid offered from the IMF was refused.",
+   "evidence2": "",
+   "source": "w-en-asian-financial-crisis",
+   "year_inferred": true
+  }
+ ]
+}

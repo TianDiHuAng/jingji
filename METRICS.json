@@ -2834,6 +2834,19 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "新增 bubble-stages.html：15 个泡沫案例按 Kindleberger 五阶段并列（编者归纳，页面已注明）",
       "site_pages": 658
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 742,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "补抓346条维基全文缓存；新增 decisions.html：24 核心案例 68 个关键决策点，均附原文逐字摘录并经脚本核对",
+      "site_pages": 659
     }
   ],
   "sources_total": 742

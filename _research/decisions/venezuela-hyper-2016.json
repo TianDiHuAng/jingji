@@ -1,0 +1,41 @@
+{
+  "id": "venezuela-hyper-2016",
+  "points": [
+    {
+      "year": 2003,
+      "actor": "委内瑞拉财政部与委内瑞拉中央银行",
+      "decision": "2003年1月23日暂停外汇交易，以支撑玻利瓦尔、维护外汇储备。",
+      "options": "",
+      "evidence": "In an attempt to support the Venezuelan bolívar, bolster the government's declining level of international reserves, and mitigate the impact of the oil industry work stoppage on the economy, the Ministry of Finance and the Central Bank of Venezuela (BCV) suspended foreign exchange trading on 23 January 2003.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-venezuela"
+    },
+    {
+      "year": 2007,
+      "actor": "查韦斯政府",
+      "decision": "宣布2008年1月1日起以1000:1重新定值并更名为强势玻利瓦尔。",
+      "options": "",
+      "evidence": "On 7 March 2007, the Chávez administration announced that the bolívar would be revalued at a ratio of 1,000 to 1 on 1 January 2008",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-venezuela"
+    },
+    {
+      "year": 2017,
+      "actor": "马杜罗",
+      "decision": "宣布推出国家加密货币 Petro。",
+      "options": "",
+      "evidence": "In December 2017, Maduro announced that Venezuela would introduce a state cryptocurrency called the 'Petro' in an attempt to shore up its struggling economy.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-venezuela"
+    },
+    {
+      "year": 2018,
+      "actor": "委内瑞拉中央银行",
+      "decision": "2018年2月5日宣布贬值，汇率调至每美元25,000 Bs.F。",
+      "options": "",
+      "evidence": "On 5 February 2018, the BCV announced a 99.6% [sic] devaluation, with the exchange rate going to 25,000 Bs.F per USD.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-venezuela"
+    }
+  ]
+}

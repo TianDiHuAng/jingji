@@ -1,0 +1,32 @@
+{
+  "id": "south-sea-bubble-1720",
+  "points": [
+    {
+      "year": 1719,
+      "actor": "南海公司",
+      "decision": "宣布将1719年圣诞股息推迟12个月发放。",
+      "options": "",
+      "evidence": "Perhaps the first sign of difficulty came when the South Sea Company announced that its Christmas 1719 dividend would be deferred for 12 months.",
+      "evidence2": "",
+      "source": "w-en-south-sea-company"
+    },
+    {
+      "year": 1720,
+      "actor": "英国下议院",
+      "decision": "经 John Hungerford 提议，设立由其主持的委员会调查泡沫公司。",
+      "options": "",
+      "evidence": "On 22 February 1720, John Hungerford raised the question of bubble companies in the House of Commons, and persuaded the House to set up a committee, which he chaired, to investigate.",
+      "evidence2": "",
+      "source": "w-en-south-sea-company"
+    },
+    {
+      "year": 1720,
+      "actor": "南海公司",
+      "decision": "在崩盘前推动《1720年泡沫法》，该法禁止未获皇家特许状设立股份公司。",
+      "options": "",
+      "evidence": "The Bubble Act 1720 (6 Geo. 1 c. 18), which forbade the creation of joint-stock companies without royal charter, was promoted by the South Sea Company itself before its collapse.",
+      "evidence2": "",
+      "source": "w-en-south-sea-company"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": "panic-1857",
+ "points": [
+  {
+   "year": 1857,
+   "actor": "英国政府",
+   "decision": "1857年11月12日英国政府被迫再次暂停《1844年银行特许法》。",
+   "options": "",
+   "evidence": "The government was forced to suspend the Bank Charter Act 1844 again on November 12.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1857"
+  },
+  {
+   "year": 1859,
+   "actor": "美国总统布坎南",
+   "decision": "布坎南认定纸币体系是恐慌根源，决定撤回20美元以下银行券的使用。",
+   "options": "",
+   "evidence": "President James Buchanan announced that the paper-money system seemed to be the root cause of the Panic and then decided to withdraw the usage of all bank notes under twenty dollars.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1857"
+  }
+ ]
+}

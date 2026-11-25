@@ -1,0 +1,41 @@
+{
+  "id": "euro-area-crisis",
+  "points": [
+    {
+      "year": 2010,
+      "actor": "欧盟27个成员国",
+      "decision": "2010年5月9日同意设立欧洲金融稳定基金（EFSF），为陷入困境的欧元区国家提供援助。",
+      "options": "",
+      "evidence": "On 9 May 2010, the 27 EU member states agreed to create the European Financial Stability Facility",
+      "evidence2": "",
+      "source": "w-en-euro-area-crisis"
+    },
+    {
+      "year": 2011,
+      "actor": "希腊总理帕潘德里欧（Papandreou）",
+      "decision": "2011年11月3日撤回此前宣布的救助方案全民公投。",
+      "options": "10月31日他曾宣布就救助方案举行公投，让希腊人民作最终决定。",
+      "evidence": "On 3 November 2011 the promised Greek referendum on the bailout package was withdrawn by Prime Minister Papandreou.",
+      "evidence2": "Greek Prime Minister George Papandreou announced that a referendum would be held so that the Greek people would have the final say on the bailout",
+      "source": "w-en-euro-area-crisis"
+    },
+    {
+      "year": 2012,
+      "actor": "欧洲央行（ECB）",
+      "decision": "2012年9月6日宣布直接货币交易（OMT），为参与EFSF/ESM救助计划的欧元区国家购买债券。",
+      "options": "",
+      "evidence": "On 6 September 2012, the ECB announced to offer additional financial support in the form of some yield-lowering bond purchases (OMT)",
+      "evidence2": "",
+      "source": "w-en-euro-area-crisis"
+    },
+    {
+      "year": 2013,
+      "actor": "塞浦路斯议会",
+      "decision": "2013年3月19日否决修订后的救助协议。",
+      "options": "",
+      "evidence": "This revised deal was also rejected by the Cypriot parliament on 19 March 2013 with 36 votes against, 19 abstentions and one not present for the vote.",
+      "evidence2": "",
+      "source": "w-en-euro-area-crisis"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "subprime-crisis-2007",
+  "points": [
+    {
+      "year": 2008,
+      "actor": "财政部长 Henry Paulson 与美联储主席 Ben Bernanke",
+      "decision": "2008年9月18日会见主要议员，提议7000亿美元银行体系紧急救助。",
+      "options": "",
+      "evidence": "In a meeting on September 18, 2008, Treasury Secretary Henry Paulson and Fed Chairman Ben Bernanke met with key legislators to propose a $700 billion (~$1.03 trillion in 2025) emergency bailout of the banking system.",
+      "evidence2": "",
+      "source": "w-en-subprime-mortgage-crisis"
+    },
+    {
+      "year": 2008,
+      "actor": "美国政府",
+      "decision": "《紧急经济稳定法》（TARP）于2008年10月3日签署成为法律。",
+      "options": "",
+      "evidence": "The Emergency Economic Stabilization Act, also called the Troubled Asset Relief Program (TARP), was signed into law on October 3, 2008.",
+      "evidence2": "",
+      "source": "w-en-subprime-mortgage-crisis"
+    }
+  ]
+}

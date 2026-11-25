@@ -1,0 +1,32 @@
+{
+ "id": "japan-asset-bubble-1990",
+ "points": [
+  {
+   "year": 1987,
+   "actor": "日本银行",
+   "decision": "1987年8月底日本银行曾释放收紧货币政策的信号，但鉴于美国1987年黑色星期一相关的经济不确定性，决定推迟该决定。",
+   "options": "",
+   "evidence": "At the end of August 1987, the BOJ signaled the possibility of tightening monetary policy but decided to delay the decision in view of economic uncertainty related to Black Monday of 1987 in the United States.",
+   "evidence2": "",
+   "source": "w-en-japanese-asset-price-bubble"
+  },
+  {
+   "year": 1989,
+   "actor": "日本银行",
+   "decision": "日本银行收紧货币政策，至1989年12月下旬将官方贴现率由2.5%提高至4.25%。",
+   "options": "",
+   "evidence": "BOJ tightened monetary policy by hiking the official discount rate from 2.5% to 4.25% by late December 1989.",
+   "evidence2": "",
+   "source": "w-en-japanese-asset-price-bubble"
+  },
+  {
+   "year": 1993,
+   "actor": "日本政府",
+   "decision": "1993年日本政府决定大幅增加政府支出。",
+   "options": "",
+   "evidence": "In 1993, the Japanese government decided on a major increase in government spending.",
+   "evidence2": "",
+   "source": "w-en-japanese-asset-price-bubble"
+  }
+ ]
+}

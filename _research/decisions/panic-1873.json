@@ -1,0 +1,23 @@
+{
+ "id": "panic-1873",
+ "points": [
+  {
+   "year": 1873,
+   "actor": "英格兰银行",
+   "decision": "危机来临时英格兰银行将利率提高至9%。",
+   "options": "",
+   "evidence": "When the crisis came, the Bank of England raised interest rates to 9 percent.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1873"
+  },
+  {
+   "year": 1874,
+   "actor": "美国总统格兰特",
+   "decision": "1874年国会通过允许印钞的“费里法案”，格兰特总统否决该法案。",
+   "options": "国会主张通过印钞增加通胀、减轻债务价值。",
+   "evidence": "The bill was vetoed by President Grant.",
+   "evidence2": "In 1874, Congress passed \"the Ferry Bill\" to allow for the printing of currency, increasing inflation and reducing the value of debts.",
+   "source": "w-en-panic-of-1873"
+  }
+ ]
+}

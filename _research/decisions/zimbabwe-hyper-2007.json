@@ -1,0 +1,41 @@
+{
+  "id": "zimbabwe-hyper-2007",
+  "points": [
+    {
+      "year": 2006,
+      "actor": "津巴布韦储备银行",
+      "decision": "宣布印制更大面额纸币以购买外币。",
+      "options": "",
+      "evidence": "In 2006, before hyperinflation reached its peak, the bank announced it would print larger notes to buy foreign currencies.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-zimbabwe"
+    },
+    {
+      "year": 2008,
+      "actor": "储备银行行长 Gideon Gono",
+      "decision": "宣布新津元，去掉10个零。",
+      "options": "",
+      "evidence": "In July 2008, the governor of the Reserve Bank of Zimbabwe, Gideon Gono, announced a new Zimbabwean dollar, this time with 10 zeros removed.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-zimbabwe"
+    },
+    {
+      "year": 2009,
+      "actor": "津巴布韦政府",
+      "decision": "完全放弃印制津巴布韦元。",
+      "options": "",
+      "evidence": "In 2009, the government abandoned printing Zimbabwean dollars entirely.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-zimbabwe"
+    },
+    {
+      "year": 2019,
+      "actor": "津巴布韦政府",
+      "decision": "宣布重新引入 RTGS 元（称“津巴布韦元”），外币不再是法定货币。",
+      "options": "",
+      "evidence": "In June 2019, the Zimbabwean government announced the reintroduction of the Real Time Gross Settlement dollar (RTGS), to be known simply as the \"Zimbabwe dollar\", and that all foreign currency was no longer legal tender.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-zimbabwe"
+    }
+  ]
+}

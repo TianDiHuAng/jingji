@@ -1,0 +1,32 @@
+{
+ "id": "oil-crisis-1973",
+ "points": [
+  {
+   "year": 1969,
+   "actor": "美国总统尼克松",
+   "decision": "舒尔茨委员会建议以关税取代石油进口配额，但尼克松因强烈政治反对决定保留配额。",
+   "options": "舒尔茨委员会建议废除配额、改用关税。",
+   "evidence": "Shultz's committee recommended that the quotas be abolished and replaced with tariffs, but Nixon decided to keep the quotas due to vigorous political opposition.",
+   "evidence2": "Shultz's committee recommended that the quotas be abolished and replaced with tariffs",
+   "source": "w-en-1973-oil-crisis"
+  },
+  {
+   "year": 1973,
+   "actor": "OAPEC",
+   "decision": "1973年10月OAPEC宣布对在赎罪日战争中支持以色列的国家实施全面石油禁运。",
+   "options": "",
+   "evidence": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel",
+   "evidence2": "",
+   "source": "w-en-1973-oil-crisis"
+  },
+  {
+   "year": 1973,
+   "actor": "日本政府",
+   "decision": "1973年12月日本政府下令主要产业立即削减20%用油和电力；并拒绝企业放宽污染管制的要求。",
+   "options": "原文提到日本企业要求政府放宽空气和水污染管制，政府拒绝。",
+   "evidence": "In December 1973, it ordered an immediate 20% cut in oil use and electric power to Japan's major industries, and cutbacks in leisure automobile usage.",
+   "evidence2": "Seeking to take advantage of the crisis, Japanese business called on the government to relax its controls on air pollution and water pollution. The government refused.",
+   "source": "w-en-1973-oil-crisis"
+  }
+ ]
+}

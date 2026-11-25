@@ -1,0 +1,32 @@
+{
+  "id": "great-depression",
+  "points": [
+    {
+      "year": 1930,
+      "actor": "美国总统胡佛（Herbert Hoover）",
+      "decision": "1930年签署《斯穆特—霍利关税法》。",
+      "options": "原文称胡佛不愿大力干预经济。",
+      "evidence": "in 1930 he signed the Smoot–Hawley Tariff Act",
+      "evidence2": "President Herbert Hoover was unwilling to intervene heavily in the economy",
+      "source": "w-en-great-depression"
+    },
+    {
+      "year": 1931,
+      "actor": "英格兰银行",
+      "decision": "1931年9月停止英镑兑换黄金，英镑在外汇市场浮动。",
+      "options": "",
+      "evidence": "in September 1931 the Bank of England ceased exchanging pound notes for gold and the pound was floated on foreign exchange markets.",
+      "evidence2": "",
+      "source": "w-en-great-depression"
+    },
+    {
+      "year": 1933,
+      "actor": "美国总统罗斯福",
+      "decision": "1933年4月5日签署第6102号行政令，禁止私人持有黄金。",
+      "options": "",
+      "evidence": "On 5 April 1933, President Roosevelt signed Executive Order 6102, making the private ownership of gold certificates, coins, and bullion illegal",
+      "evidence2": "",
+      "source": "w-en-great-depression"
+    }
+  ]
+}

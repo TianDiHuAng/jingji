@@ -1,0 +1,32 @@
+{
+ "id": "latin-american-debt-1975",
+ "points": [
+  {
+   "year": 1982,
+   "actor": "墨西哥（财政部长席尔瓦-埃尔索格）",
+   "decision": "1982年8月墨西哥宣布无法偿债，单方面宣布90天延期偿付，并请求重新谈判还款期和新贷款。",
+   "options": "",
+   "evidence": "Mexico stated that it could not meet its payment due dates, and announced unilaterally a moratorium of 90 days; it also requested a renegotiation of payment periods and new loans in order to fulfill its prior obligations.",
+   "evidence2": "",
+   "source": "w-en-latin-american-debt-crisis"
+  },
+  {
+   "year": 1982,
+   "actor": "多数商业银行",
+   "decision": "墨西哥主权违约后，多数商业银行大幅削减或停止对拉美的新增贷款。",
+   "options": "",
+   "evidence": "In the wake of Mexico's sovereign default, most commercial banks reduced significantly or halted new lending to Latin America.",
+   "evidence2": "",
+   "source": "w-en-latin-american-debt-crisis"
+  },
+  {
+   "year": null,
+   "actor": "拉美多数国家",
+   "decision": "作为对危机的回应，多数国家放弃进口替代工业化模式，转向出口导向工业化战略。",
+   "options": "原文提到智利和哥斯达黎加等例外国家采取了改良主义战略。",
+   "evidence": "In response to the crisis, most nations abandoned their import substitution industrialization (ISI) models of economy and adopted an export-oriented industrialization strategy",
+   "evidence2": "although there were exceptions such as Chile and Costa Rica, which adopted reformist strategies.",
+   "source": "w-en-latin-american-debt-crisis"
+  }
+ ]
+}

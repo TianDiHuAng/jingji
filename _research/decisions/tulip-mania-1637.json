@@ -1,0 +1,25 @@
+{
+ "id": "tulip-mania-1637",
+ "points": [
+  {
+   "year": 1637,
+   "actor": "在阿姆斯特丹集会的各方代表",
+   "decision": "决定折中：1636年12月前的合约有效，之后的合约可支付价格10%的费用取消。",
+   "options": "",
+   "evidence": "They decided on a compromise where all contracts entered before December 1636 would be binding, but later contracts could be cancelled by paying a fee amounting to 10% of the price.",
+   "evidence2": "",
+   "source": "w-en-tulip-mania",
+   "year_inferred": true
+  },
+  {
+   "year": 1637,
+   "actor": "荷兰立法机构",
+   "decision": "决定取消全部合约，以便夏季重新交易。",
+   "options": "",
+   "evidence": "The Dutch legislature decided to cancel all contracts to allow fresh deals to be struck during the summer.",
+   "evidence2": "",
+   "source": "w-en-tulip-mania",
+   "year_inferred": true
+  }
+ ]
+}

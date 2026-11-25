@@ -1,0 +1,43 @@
+{
+ "id": "panic-1907",
+ "points": [
+  {
+   "year": 1907,
+   "actor": "J.P. 摩根及其同事",
+   "decision": "审查尼克博克信托账目后认定其已资不抵债，未出手阻止挤兑。",
+   "options": "",
+   "evidence": "Morgan and his associates examined the books of the Knickerbocker Trust and decided it was insolvent, so they did not intervene to stop the run.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1907"
+  },
+  {
+   "year": 1907,
+   "actor": "美国财政部长 Cortelyou",
+   "decision": "周四上午向纽约多家银行存入约2500万美元。",
+   "options": "",
+   "evidence": "On Thursday morning Cortelyou deposited around $25 million into a number of New York banks.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1907",
+   "year_inferred": true
+  },
+  {
+   "year": 1907,
+   "actor": "J.P. 摩根",
+   "decision": "为避免纽约市破产发出灾难性信号，签约购买3000万美元市政债券。",
+   "options": "",
+   "evidence": "In an effort to avoid the disastrous signal that a New York City bankruptcy would send, Morgan contracted to purchase $30 million worth of city bonds.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1907",
+   "year_inferred": true
+  },
+  {
+   "year": 1908,
+   "actor": "美国国会",
+   "decision": "1908年5月通过《奥尔德里奇-弗里兰法》，设立国家货币委员会调查恐慌并提出银行监管立法。",
+   "options": "",
+   "evidence": "In May 1908, Congress passed the Aldrich–Vreeland Act, which established the National Monetary Commission to investigate the panic and to propose legislation to regulate banking.",
+   "evidence2": "",
+   "source": "w-en-panic-of-1907"
+  }
+ ]
+}

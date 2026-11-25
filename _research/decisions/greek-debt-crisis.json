@@ -1,0 +1,41 @@
+{
+  "id": "greek-debt-crisis",
+  "points": [
+    {
+      "year": 2010,
+      "actor": "欧元区国家与IMF",
+      "decision": "2010年5月3日同意提供为期三年、1100亿欧元的贷款，以实施紧缩为条件。",
+      "options": "",
+      "evidence": "On 3 May, the eurozone countries and the IMF agreed to a three-year €110 billion loan, paying 5.5% interest, conditional on the implementation of austerity measures.",
+      "evidence2": "",
+      "source": "w-en-greek-government-debt-crisis"
+    },
+    {
+      "year": 2015,
+      "actor": "希腊总理齐普拉斯（Alexis Tsipras）",
+      "decision": "宣布7月5日就三驾马车6月25日方案举行公投。",
+      "options": "四个反对党认为该公投违宪。",
+      "evidence": "Greek prime minister Alexis Tsipras announced that a referendum would be held on 5 July to approve or reject the Troika's 25 June proposal.",
+      "evidence2": "four opposition parties (PASOK, To Potami, KIDISO and New Democracy) objected that the proposed referendum was unconstitutional",
+      "source": "w-en-greek-government-debt-crisis"
+    },
+    {
+      "year": 2015,
+      "actor": "欧洲央行（ECB）",
+      "decision": "决定停止对希腊银行的紧急流动性援助（ELA）。",
+      "options": "",
+      "evidence": "The ECB decided to stop its Emergency Liquidity Assistance to Greek banks.",
+      "evidence2": "",
+      "source": "w-en-greek-government-debt-crisis"
+    },
+    {
+      "year": 2015,
+      "actor": "齐普拉斯领导的希腊政府",
+      "decision": "2015年7月12日签署第三轮经济调整计划。",
+      "options": "",
+      "evidence": "The third and last Economic Adjustment Programme for Greece was signed on 12 July 2015 by the Greek Government under prime minister Alexis Tsipras",
+      "evidence2": "",
+      "source": "w-en-greek-government-debt-crisis"
+    }
+  ]
+}

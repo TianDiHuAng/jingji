@@ -1,0 +1,32 @@
+{
+  "id": "weimar-hyper-1921",
+  "points": [
+    {
+      "year": 1914,
+      "actor": "德国",
+      "decision": "一战爆发时暂停金本位以支付战争开支。",
+      "options": "",
+      "evidence": "To pay for the large costs of the First World War, Germany suspended the gold standard (the convertibility of its currency to gold) when the war broke out in 1914.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-the-weimar-republic"
+    },
+    {
+      "year": 1923,
+      "actor": "德国政府",
+      "decision": "法比占领鲁尔后，下令在鲁尔实行消极抵抗。",
+      "options": "",
+      "evidence": "The German government's response was to order a policy of passive resistance in the Ruhr, with workers being told to do nothing which helped the French and Belgians in any way.",
+      "evidence2": "",
+      "source": "w-en-hyperinflation-in-the-weimar-republic"
+    },
+    {
+      "year": 1923,
+      "actor": "农业部长 Hans Luther",
+      "decision": "提议以黄金替代黑麦作为债券指数，促成地租马克发行。",
+      "options": "Helfferich 曾提议以黑麦价格挂钩债券支持的“黑麦马克”，因黑麦纸马克价格波动大被否决。",
+      "evidence": "Agriculture Minister Hans Luther proposed a plan that substituted gold for rye and led to the issuance of the Rentenmark",
+      "evidence2": "The plan was rejected because of the greatly fluctuating price of rye in paper marks.",
+      "source": "w-en-hyperinflation-in-the-weimar-republic"
+    }
+  ]
+}
