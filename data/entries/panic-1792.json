@@ -66,6 +66,28 @@
       "sources": [
         "w-en-panic-of-1792"
       ]
+    },
+    {
+      "label": "合众国银行现金准备降幅(至1792-03-09)",
+      "value": -34,
+      "unit": "%",
+      "year": 1792,
+      "comparable_price": false,
+      "note": "原文：cash reserves for the Bank of the United States decreased by 34%；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1792"
+      ]
+    },
+    {
+      "label": "证券价格跌幅(数周内)",
+      "value": -20,
+      "unit": "%（超过20%）",
+      "year": 1792,
+      "comparable_price": false,
+      "note": "原文：the price of securities fell more than 20%, all in a matter of weeks；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1792"
+      ]
     }
   ],
   "schools": [

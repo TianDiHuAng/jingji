@@ -58,6 +58,17 @@
       "sources": [
         "w-en-panic-of-1819"
       ]
+    },
+    {
+      "label": "公共土地债务(1815→1818)",
+      "value": 17,
+      "unit": "百万美元（由300万增至1700万）",
+      "year": 1818,
+      "comparable_price": false,
+      "note": "原文：Public land debt ballooned from $3 million in 1815 to $17 million in 1818；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1819"
+      ]
     }
   ],
   "schools": [

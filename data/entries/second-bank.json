@@ -58,6 +58,17 @@
       "sources": [
         "w-en-second-bank"
       ]
+    },
+    {
+      "label": "特许资本上限",
+      "value": 35,
+      "unit": "百万美元（政府持股750万）",
+      "year": 1816,
+      "comparable_price": false,
+      "note": "原文：the bank had a capital limit of $35 million, $7.5 million of which represented the government-owned share；单一来源待核实。",
+      "sources": [
+        "w-en-second-bank"
+      ]
     }
   ],
   "schools": [
