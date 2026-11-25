@@ -77,6 +77,28 @@
       "sources": [
         "w-en-continental-illinois"
       ]
+    },
+    {
+      "label": "大额储户提款(1984年5月初)",
+      "value": 10,
+      "unit": "十亿美元（超100亿）",
+      "year": 1984,
+      "comparable_price": false,
+      "note": "原文：Large depositors withdrew over $10 billion of deposits in early May 1984；单一来源待核实。",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
+    },
+    {
+      "label": "FDIC注资",
+      "value": 4.5,
+      "unit": "十亿美元（45亿）",
+      "year": 1984,
+      "comparable_price": false,
+      "note": "原文：The FDIC infused $4.5 billion to rescue the bank；单一来源待核实。",
+      "sources": [
+        "w-en-continental-illinois"
+      ]
     }
   ],
   "schools": [

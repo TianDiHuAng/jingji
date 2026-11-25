@@ -69,6 +69,28 @@
       "sources": [
         "w-en-credit-suisse-2023"
       ]
+    },
+    {
+      "label": "瑞士央行向瑞银提供的流动性",
+      "value": 100,
+      "unit": "十亿瑞郎（超1000亿，约1040亿美元）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：providing more than CHF 100 billion (US$104 billion) in liquidity to UBS；单一来源待核实。",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
+    },
+    {
+      "label": "政府损失担保上限",
+      "value": 9,
+      "unit": "十亿瑞郎（约96亿美元）",
+      "year": 2023,
+      "comparable_price": false,
+      "note": "原文：provided a guarantee to UBS to cover losses of up to CHF 9 billion (US$9.6 billion)；单一来源待核实。",
+      "sources": [
+        "w-en-credit-suisse-2023"
+      ]
     }
   ],
   "schools": [

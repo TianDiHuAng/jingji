@@ -58,6 +58,17 @@
       "sources": [
         "w-en-british-credit-1772"
       ]
+    },
+    {
+      "label": "东印度公司股价单日跌幅(9月19日)",
+      "value": -14,
+      "unit": "%",
+      "year": 1772,
+      "comparable_price": false,
+      "note": "原文：On 19 September, the value of its shares dropped by 14%；年份以条目时段为准，单一来源待核实。",
+      "sources": [
+        "w-en-british-credit-1772"
+      ]
     }
   ],
   "schools": [

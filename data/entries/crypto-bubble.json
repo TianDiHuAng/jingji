@@ -69,6 +69,17 @@
       "sources": [
         "w-en-crypto-bubble"
       ]
+    },
+    {
+      "label": "加密货币自峰值跌幅(至2018年9月)",
+      "value": -80,
+      "unit": "%（峰值为2018年1月）",
+      "year": 2018,
+      "comparable_price": false,
+      "note": "原文：By September 2018, cryptocurrencies collapsed 80% from their peak in January 2018；单一来源待核实。",
+      "sources": [
+        "w-en-crypto-bubble"
+      ]
     }
   ],
   "schools": [

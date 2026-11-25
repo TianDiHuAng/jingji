@@ -77,6 +77,17 @@
       "sources": [
         "w-en-china-2015-turbulence"
       ]
+    },
+    {
+      "label": "上证指数较泡沫破裂前低(2017年1月)",
+      "value": -50,
+      "unit": "%（约3000点）",
+      "year": 2017,
+      "comparable_price": false,
+      "note": "原文：the Shanghai Composite Index was stable around 3,000 points as of January 2017, 50% less than before the bubble popped；单一来源待核实。",
+      "sources": [
+        "w-en-china-2015-turbulence"
+      ]
     }
   ],
   "schools": [
