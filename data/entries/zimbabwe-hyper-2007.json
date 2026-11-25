@@ -88,6 +88,39 @@
       "sources": [
         "owid-inflation"
       ]
+    },
+    {
+      "label": "失业率(危机期)",
+      "value": 80,
+      "unit": "%",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：Unemployment rose to 80%；年份为危机期近似，单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-zimbabwe"
+      ]
+    },
+    {
+      "label": "制造业产出降幅(2007)",
+      "value": -28,
+      "unit": "%（2005年-29%、2006年-26%）",
+      "year": 2007,
+      "comparable_price": false,
+      "note": "原文：manufacturing output fell by 29% in 2005, 26% in 2006 and 28% in 2007；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-zimbabwe"
+      ]
+    },
+    {
+      "label": "津巴布韦通胀率(2020年7月,估计)",
+      "value": 737,
+      "unit": "%（年率）",
+      "year": 2020,
+      "comparable_price": false,
+      "note": "原文：By July 2020, annual inflation was estimated to be 737%；单一来源待核实。",
+      "sources": [
+        "w-en-hyperinflation-in-zimbabwe"
+      ]
     }
   ],
   "schools": [
