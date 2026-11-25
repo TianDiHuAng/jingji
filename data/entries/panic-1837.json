@@ -58,6 +58,28 @@
       "sources": [
         "w-en-panic-of-1837"
       ]
+    },
+    {
+      "label": "倒闭银行比例",
+      "value": 40,
+      "unit": "%（超过40%）",
+      "year": 1843,
+      "comparable_price": false,
+      "note": "原文：Over 40% of all banks failed；年份为衰退期近似，单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
+    },
+    {
+      "label": "纽约银行倒闭损失(数月内)",
+      "value": 100,
+      "unit": "百万美元（近1亿）",
+      "year": 1837,
+      "comparable_price": false,
+      "note": "原文：the losses from bank failures in New York alone aggregated nearly $100 million；单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1837"
+      ]
     }
   ],
   "schools": [

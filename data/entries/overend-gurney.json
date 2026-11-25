@@ -58,6 +58,17 @@
       "sources": [
         "w-en-overend-gurney"
       ]
+    },
+    {
+      "label": "倒闭后银行利率",
+      "value": 10,
+      "unit": "%（维持三个月）",
+      "year": 1866,
+      "comparable_price": false,
+      "note": "原文：the bank rate rise to 10 per cent for three months；单一来源待核实。",
+      "sources": [
+        "w-en-overend-gurney"
+      ]
     }
   ],
   "schools": [

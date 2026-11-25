@@ -58,6 +58,17 @@
       "sources": [
         "w-en-panic-of-1893"
       ]
+    },
+    {
+      "label": "失业率(高估计，危机期)",
+      "value": 19,
+      "unit": "%（17%—19%区间上限）",
+      "year": 1894,
+      "comparable_price": false,
+      "note": "原文：According to high estimates, about 17%–19% of the workforce was unemployed；年份为近似，单一来源待核实。",
+      "sources": [
+        "w-en-panic-of-1893"
+      ]
     }
   ],
   "schools": [
