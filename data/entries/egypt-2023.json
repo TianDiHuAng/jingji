@@ -69,6 +69,17 @@
       "sources": [
         "w-en-egypt-2023"
       ]
+    },
+    {
+      "label": "IMF等国际支持规模",
+      "value": 22,
+      "unit": "十亿美元（220亿；另有阿联酋350亿协议）",
+      "year": 2024,
+      "comparable_price": false,
+      "note": "原文：along with $22 billion in support from the International Monetary Fund；单一来源待核实。",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
     }
   ],
   "schools": [

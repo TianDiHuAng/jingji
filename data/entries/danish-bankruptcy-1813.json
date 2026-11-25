@@ -50,6 +50,17 @@
       "sources": [
         "w-en-danish-state-bankruptcy-of-1813"
       ]
+    },
+    {
+      "label": "物价涨幅(1813年全年)",
+      "value": 300,
+      "unit": "%（约）",
+      "year": 1813,
+      "comparable_price": false,
+      "note": "原文：in 1813 alone prices rose by some 300 per cent；单一来源待核实。",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
     }
   ],
   "schools": [

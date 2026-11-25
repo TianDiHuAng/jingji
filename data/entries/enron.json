@@ -69,6 +69,28 @@
       "sources": [
         "w-en-enron"
       ]
+    },
+    {
+      "label": "股东诉讼实际获赔",
+      "value": 7.2,
+      "unit": "十亿美元（索赔400亿，获赔72亿）",
+      "year": 2001,
+      "comparable_price": false,
+      "note": "原文：Shareholders filed a $40 billion lawsuit, for which they were eventually partially compensated $7.2 billion；年份为破产年近似，单一来源待核实。",
+      "sources": [
+        "w-en-enron"
+      ]
+    },
+    {
+      "label": "安然股价涨幅(2000)",
+      "value": 87,
+      "unit": "%（1999年涨56%）",
+      "year": 2000,
+      "comparable_price": false,
+      "note": "原文：the stock increased by 56% in 1999 and a further 87% in 2000；单一来源待核实。",
+      "sources": [
+        "w-en-enron"
+      ]
     }
   ],
   "schools": [
