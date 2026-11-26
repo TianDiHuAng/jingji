@@ -2497,3 +2497,4 @@
 - 第二批时间线扩充：58 个案例补 215 条（797→1012），合并前复核摘录、年份、来源与重复，剔除 1 条（panic-1884 同年倒闭事件）。
 - 新发现 5 个缓存放错页面：jamaica-accords、smithsonian-agreement（均为 Nixon shock）、yemen-currency-divergence（Currency crisis）、swedish-crisis-1990s（芬兰银行危机）、us-state-defaults-1840s（Panic of 1837），记入 BLOCKERS.md。
 - 修复第二批 5 个缓存放错页面的条目：来源库里已有专题页来源，只是缓存抓错，重抓后补 14 条时间线（1012→1026）；史密森协定 1973 条来源由牙买加协定改为专题页。
+- 统一跨度事件年份规则：display 为「A—B年」时 year 取起点年 A；修正 24 条（原多取终点年）。规则写入 DECISIONS.md。
