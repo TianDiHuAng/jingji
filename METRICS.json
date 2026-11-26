@@ -2949,7 +2949,7 @@
       "sources_total": 749,
       "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
-      "note": "22个概念条目依据缓存补概述",
+      "note": "17个概念条目依据缓存补概述",
       "site_pages": 659,
       "overview_avg": 435
     }
