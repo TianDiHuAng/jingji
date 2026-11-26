@@ -1,0 +1,33 @@
+{
+ "id": "panic-1884",
+ "add": [
+  {
+   "year": 1882,
+   "display": "1882—1884年",
+   "event": "逾1.5亿美元黄金从美国流出",
+   "evidence": "more than $150 million in gold was exported from the United States between 1882 and 1884",
+   "sources": [
+    "w-en-panic-of-1884"
+   ]
+  },
+  {
+   "year": 1884,
+   "display": "1884年4月",
+   "event": "纽约市审计官削减该市在银行的存款，致银行倒闭、Ward 骗局曝光",
+   "evidence": "In April 1884, the city's comptroller reduced the city's deposits with the bank, causing the bank to fail and Ward's scheme to be exposed.",
+   "sources": [
+    "w-en-panic-of-1884"
+   ]
+  },
+  {
+   "year": 1884,
+   "display": "1884年",
+   "event": "John Chester Eno 从 Second National Bank 侵吞逾300万美元",
+   "evidence": "Another cause of the panic and mistrust in 1884 was John Chester Eno's embezzlement of over $3 million from the Second National Bank.",
+   "sources": [
+    "w-en-panic-of-1884"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

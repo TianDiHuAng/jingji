@@ -1,0 +1,42 @@
+{
+ "id": "stocks-fall-2011",
+ "add": [
+  {
+   "year": 2011,
+   "display": "2011年8月4日",
+   "event": "股市收出2009年以来最差的一天",
+   "evidence": "August 4, 2011 was a below average day in the stock market but ended in the worst day since 2009.",
+   "sources": [
+    "w-en-august-2011-stock-markets-fall"
+   ]
+  },
+  {
+   "year": 2011,
+   "display": "2011年8月18日",
+   "event": "德国DAX指数下跌5.8%",
+   "evidence": "Germany: The DAX fell by 5.8% on 18 August 2011.",
+   "sources": [
+    "w-en-august-2011-stock-markets-fall"
+   ]
+  },
+  {
+   "year": 2011,
+   "display": "2011年9月22日",
+   "event": "富时100指数下跌4.7%，为2009年3月2日以来最大单日跌幅",
+   "evidence": "On 22 September 2011, the FTSE 100 fell 4.7%, the largest daily fall since 2 March 2009.",
+   "sources": [
+    "w-en-august-2011-stock-markets-fall"
+   ]
+  },
+  {
+   "year": 2011,
+   "display": "2011年5月2日至10月4日",
+   "event": "标普500指数进入短暂熊市，跌幅21.58%",
+   "evidence": "S&P 500 entered a short-lived bear market between 2 May 2011 (intraday high: 1,370.58) and 4 October 2011 (intraday low: 1,074.77), a decline of 21.58%.",
+   "sources": [
+    "w-en-august-2011-stock-markets-fall"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

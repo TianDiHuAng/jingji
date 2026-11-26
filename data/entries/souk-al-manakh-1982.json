@@ -11,11 +11,35 @@
   "overview": "苏克阿尔马纳克(Souk Al-Manakh)崩盘是1982年科威特一场场外股票市场的崩溃，被认为是当时中东最大规模的金融事件之一。该市场交易的是未在官方交易所上市的（多为海湾地区）公司股票，并以**远期支票(post-dated cheques)**作为主要支付手段，形成巨额隐性杠杆与信用链条。1982年市场崩盘后，支票违约连锁爆发，涉及金额远超银行体系资本；大量投资者因无法偿付而入狱，政府被迫介入并接管相关银行。该案例是\"场外市场+杠杆+支付工具创新\"引发系统性风险的经典样本",
   "timeline": [
     {
+      "year": 1977,
+      "display": "1977年",
+      "event": "科威特官方股市投机繁荣以崩盘告终",
+      "sources": [
+        "w-en-souk-al-manakh-stock-market-crash"
+      ]
+    },
+    {
+      "year": 1979,
+      "display": "1979年",
+      "event": "Souk Al-Manakh 设立，科威特股票数量居海湾国家之首",
+      "sources": [
+        "w-en-souk-al-manakh-stock-market-crash"
+      ]
+    },
+    {
       "year": 1982,
       "display": "1982年",
       "event": "苏克阿尔马纳克非官方股市崩盘，远期支票违约连锁爆发",
       "sources": [
         "w-en-speculative-bubble"
+      ]
+    },
+    {
+      "year": 1982,
+      "display": "1982年9月",
+      "event": "科威特财政部下令上交可疑支票清算，并关闭该市场",
+      "sources": [
+        "w-en-souk-al-manakh-stock-market-crash"
       ]
     }
   ],

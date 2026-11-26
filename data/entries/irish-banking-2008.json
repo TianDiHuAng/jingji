@@ -19,9 +19,41 @@
       ]
     },
     {
+      "year": 2009,
+      "display": "2009年1月20日",
+      "event": "政府认定注资不足以挽救，Anglo Irish Bank 被国有化",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年2月11日",
+      "event": "财长 Lenihan 宣布向AIB与BoI各提供35亿欧元救助",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
       "year": 2010,
       "display": "2010年",
       "event": "接受欧盟/IMF外部救助；设立NAMA处置不良资产",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
+      "year": 2013,
+      "display": "2013年12月15日",
+      "event": "爱尔兰成功退出救助计划",
+      "sources": [
+        "w-en-post-2008-irish-banking-crisis"
+      ]
+    },
+    {
+      "year": 2014,
+      "display": "2014年12月",
+      "event": "国债管理机构NTMA以更低利率借款，偿还90亿欧元IMF贷款",
       "sources": [
         "w-en-post-2008-irish-banking-crisis"
       ]

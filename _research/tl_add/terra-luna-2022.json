@@ -1,0 +1,51 @@
+{
+ "id": "terra-luna-2022",
+ "add": [
+  {
+   "year": 2019,
+   "display": "2019年",
+   "event": "Terraform Labs发行首个加密代币",
+   "evidence": "In 2019, Terraform Labs launched its first cryptocurrency token.",
+   "sources": [
+    "w-en-terra-luna-2022"
+   ]
+  },
+  {
+   "year": 2022,
+   "display": "2022年1月",
+   "event": "Luna基金会护卫(LFG)在新加坡成立，Do Kwon任董事",
+   "evidence": "In January 2022, the Luna Foundation Guard (LFG) was established as a non-profit based in Singapore, with Do Kwon as director.",
+   "sources": [
+    "w-en-terra-luna-2022"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年2月",
+   "event": "美国证交会以欺诈起诉Terraform Labs与Do Kwon",
+   "evidence": "In February 2023, the SEC charged Terraform Labs and Kwon with fraud.",
+   "sources": [
+    "w-en-terra-luna-2022"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年1月21日",
+   "event": "Terraform Labs在美国申请第11章破产",
+   "evidence": "On January 21, 2024, Terraform Labs declared Chapter 11 bankruptcy in the United States",
+   "sources": [
+    "w-en-terra-luna-2022"
+   ]
+  },
+  {
+   "year": 2025,
+   "display": "2025年8月",
+   "event": "Do Kwon承认两项欺诈指控，同意没收1900万美元",
+   "evidence": "In August 2025, Do Kwon pleaded guilty on two fraud charges, and agreed to forfeit US$19 million as part of a plea deal.",
+   "sources": [
+    "w-en-terra-luna-2022"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

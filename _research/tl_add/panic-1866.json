@@ -1,0 +1,33 @@
+{
+ "id": "panic-1866",
+ "add": [
+  {
+   "year": 1862,
+   "display": "1862年",
+   "event": "《1862年公司法》催生金融繁荣",
+   "evidence": "The Companies Act 1862 had created a financial boom",
+   "sources": [
+    "w-en-panic-of-1866"
+   ]
+  },
+  {
+   "year": 1866,
+   "display": "1866年5月12日",
+   "event": "白芝浩在《经济学人》指出英格兰银行拒绝以统一公债作抵押放贷令人担忧",
+   "evidence": "In the 12 May 1866 issue of The Economist, Walter Bagehot noted that the Bank of England's refusal to lend with Consol bonds as collateral was troubling.",
+   "sources": [
+    "w-en-panic-of-1866"
+   ]
+  },
+  {
+   "year": 1867,
+   "display": "1867年",
+   "event": "经济冲击被认为部分推动了《1867年人民代表法》前的改革运动",
+   "evidence": "The economic impacts are held partially responsible for public agitation for political reform in the months leading up to the Representation of the People Act 1867.",
+   "sources": [
+    "w-en-panic-of-1866"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

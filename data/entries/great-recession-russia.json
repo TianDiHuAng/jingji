@@ -19,11 +19,51 @@
       ]
     },
     {
+      "year": 2008,
+      "display": "2008年7月24日",
+      "event": "普京批评其CEO后，Mechel 股价暴跌近38%",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年9月",
+      "event": "RTS 股指暴跌近54%",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年12月8日",
+      "event": "标普下调俄罗斯外币信用评级至BBB（长期）与A-3",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
       "year": 2009,
       "display": "2009年",
       "event": "GDP大幅收缩（1998年后最大降幅，数据待核实）",
       "sources": [
         "w-en-financial-crisis"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2008年7月—2009年1月",
+      "event": "外汇储备从峰值减少2100亿美元至3860亿美元",
+      "sources": [
+        "w-en-great-recession-in-russia"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年第三季度",
+      "event": "经历两个季度创纪录负增长后，经济走出衰退",
+      "sources": [
+        "w-en-great-recession-in-russia"
       ]
     }
   ],

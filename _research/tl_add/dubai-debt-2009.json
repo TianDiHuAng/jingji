@@ -1,0 +1,33 @@
+{
+ "id": "dubai-debt-2009",
+ "add": [
+  {
+   "year": 2006,
+   "display": "2006年3月2日",
+   "event": "迪拜统治者批准法令设立迪拜世界",
+   "evidence": "Dubai World was established under a decree ratified on 2 March 2006 by Sheikh Mohammed bin Rashid Al Maktoum, Ruler of Dubai.",
+   "sources": [
+    "w-en-dubai-world"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年12月14日",
+   "event": "阿布扎比向迪拜政府提供100亿美元援助，其中41亿美元用于偿还Nakheel伊斯兰债券",
+   "evidence": "On 14 December 2009 the Dubai government received $10 billion in surprise aid from Abu Dhabi for debt-laden Dubai World, which said it would use $4.1 billion of it to repay its Nakheel unit's Islamic bond",
+   "sources": [
+    "w-en-dubai-world"
+   ]
+  },
+  {
+   "year": 2010,
+   "display": "2010年5月20日",
+   "event": "迪拜世界与多数银行债权人就重组235亿美元债务达成原则性协议",
+   "evidence": "Dubai World on 20 May 2010 said that it had reached an agreement \"in principle\" with most of its bank lenders to restructure debt worth $23.5bn",
+   "sources": [
+    "w-en-dubai-world"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

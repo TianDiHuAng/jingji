@@ -1,0 +1,42 @@
+{
+ "id": "turkey-2001",
+ "add": [
+  {
+   "year": 1996,
+   "display": "1996年",
+   "event": "IMF团队因赤字警告金融危机迫近",
+   "evidence": "The International Monetary Fund (IMF) team in 1996 warned of an impending financial crisis because of the deficit",
+   "sources": [
+    "w-en-turkey-2001"
+   ]
+  },
+  {
+   "year": 2000,
+   "display": "2000年11月",
+   "event": "IMF向土耳其提供114亿美元贷款",
+   "evidence": "In November 2000, the IMF provided Turkey with $11.4 billion in loans",
+   "sources": [
+    "w-en-turkey-2001"
+   ]
+  },
+  {
+   "year": 2001,
+   "display": "2001年2月21日",
+   "event": "国家安全委员会会议上总统与总理争执，引发全面危机",
+   "evidence": "On 21 February 2001, during a quarrel in a National Security Council meeting, President Ahmet Necdet Sezer threw the constitutional code book at the elderly Prime Minister Bülent Ecevit, sparking a full-blown crisis.",
+   "sources": [
+    "w-en-turkey-2001"
+   ]
+  },
+  {
+   "year": 2001,
+   "display": "2001年前八个月",
+   "event": "失业14875个岗位，美元升至150万里拉",
+   "evidence": "In the first eight months of 2001, 14,875 jobs were lost, the dollar rose to 1,500,000 liras",
+   "sources": [
+    "w-en-turkey-2001"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

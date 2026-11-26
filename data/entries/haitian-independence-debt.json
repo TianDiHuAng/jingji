@@ -25,6 +25,38 @@
       "sources": [
         "w-en-haitian-independence-debt"
       ]
+    },
+    {
+      "year": 1875,
+      "display": "1875年",
+      "event": "海地借款偿还原贷款最后部分，最大受益银行为Crédit Industriel et Commercial",
+      "sources": [
+        "w-en-haitian-independence-debt"
+      ]
+    },
+    {
+      "year": 1883,
+      "display": "1883年",
+      "event": "剩余债务的最后一笔款项付清",
+      "sources": [
+        "w-en-haitian-independence-debt"
+      ]
+    },
+    {
+      "year": 1947,
+      "display": "1947年",
+      "event": "海地才向纽约国民城市银行付清全部相关利息",
+      "sources": [
+        "w-en-haitian-independence-debt"
+      ]
+    },
+    {
+      "year": 2016,
+      "display": "2016年",
+      "event": "法国议会废除查理十世1825年敕令，但未提供赔偿",
+      "sources": [
+        "w-en-haitian-independence-debt"
+      ]
     }
   ],
   "causal_chain": [

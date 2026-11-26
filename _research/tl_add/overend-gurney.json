@@ -1,0 +1,33 @@
+{
+ "id": "overend-gurney",
+ "add": [
+  {
+   "year": 1800,
+   "display": "1800年",
+   "event": "以 Richardson, Overend and Company 名义创立",
+   "evidence": "The business was founded in 1800 as Richardson, Overend and Company",
+   "sources": [
+    "w-en-overend-gurney"
+   ]
+  },
+  {
+   "year": 1825,
+   "display": "1825年",
+   "event": "1825年金融危机中，该行得以向众多银行提供短期贷款",
+   "evidence": "During the financial crisis of 1825, the firm was able to make short loans to many other bankers.",
+   "sources": [
+    "w-en-overend-gurney"
+   ]
+  },
+  {
+   "year": 1865,
+   "display": "1865年7月",
+   "event": "为恢复流动性改组为有限公司，15英镑股票溢价9英镑发售",
+   "evidence": "the business was incorporated as a limited company in July 1865 and sold its £15 shares at a £9 premium",
+   "sources": [
+    "w-en-overend-gurney"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

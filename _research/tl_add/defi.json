@@ -1,0 +1,42 @@
+{
+ "id": "defi",
+ "add": [
+  {
+   "year": 2017,
+   "display": "2017年",
+   "event": "以太坊区块链普及了作为DeFi基础的智能合约",
+   "evidence": "The Ethereum blockchain popularized smart contracts, which are the basis of DeFi, in 2017.",
+   "sources": [
+    "w-en-defi"
+   ]
+  },
+  {
+   "year": 2021,
+   "display": "2021年",
+   "event": "MakerDAO、Compound、Aave、Uniswap等协议推动总锁仓价值超过1800亿美元",
+   "evidence": "By 2021, DeFi protocols such as MakerDAO, Compound, Aave, and Uniswap had driven total value locked (TVL) to over $180 billion.",
+   "sources": [
+    "w-en-defi"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年",
+   "event": "DeFi开始复苏",
+   "evidence": "In 2023, DeFi began recovering.",
+   "sources": [
+    "w-en-defi"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年9月",
+   "event": "MakerDAO更名为Sky，其稳定币DAI更名为USDS",
+   "evidence": "In September 2024, MakerDAO rebranded as Sky, and its stablecoin DAI was renamed USDS.",
+   "sources": [
+    "w-en-defi"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,51 @@
+{
+ "id": "northern-rock",
+ "add": [
+  {
+   "year": 1965,
+   "display": "1965年",
+   "event": "两家英格兰东北部建房互助社合并组建北岩建房互助社",
+   "evidence": "Northern Rock Building Society was formed in 1965 by the merger of two North East of England building societies",
+   "sources": [
+    "w-en-northern-rock"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年2月22日",
+   "event": "两次收购报价均失败后，北岩银行被收归国有",
+   "evidence": "On 22 February 2008, the bank was taken into state ownership as a result of two unsuccessful bids to take over the bank",
+   "sources": [
+    "w-en-northern-rock"
+   ]
+  },
+  {
+   "year": 2010,
+   "display": "2010年1月1日",
+   "event": "银行被拆分为资产与银行业务两部分",
+   "evidence": "On 1 January 2010 the bank was split into two parts, assets and banking.",
+   "sources": [
+    "w-en-northern-rock"
+   ]
+  },
+  {
+   "year": 2011,
+   "display": "2011年11月17日",
+   "event": "宣布 Virgin Money 以7.47亿英镑收购 Northern Rock plc",
+   "evidence": "On 17 November 2011, it was announced that Virgin Money was going to buy Northern Rock plc for £747 million.",
+   "sources": [
+    "w-en-northern-rock"
+   ]
+  },
+  {
+   "year": 2016,
+   "display": "2016年",
+   "event": "高风险按揭资产 NRAM plc 出售给 Cerberus Capital Management",
+   "evidence": "remained in public ownership until it was sold to Cerberus Capital Management in 2016.",
+   "sources": [
+    "w-en-northern-rock"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

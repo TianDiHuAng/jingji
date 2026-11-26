@@ -1,0 +1,42 @@
+{
+ "id": "egypt-2023",
+ "add": [
+  {
+   "year": 2023,
+   "display": "2023年7月",
+   "event": "埃及年通胀率创36.5%的纪录",
+   "evidence": "the annual inflation rate in Egypt continued to rise, registering a record level of 36.5% in July 2023.",
+   "sources": [
+    "w-en-egypt-2023"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年10月21日",
+   "event": "标普下调埃及外币及本币主权评级",
+   "evidence": "On October 21, 2023, S&P Global Ratings downgraded Egypt's foreign and local currency sovereign rating",
+   "sources": [
+    "w-en-egypt-2023"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年3月6日",
+   "event": "埃及央行在货币政策委员会特别会议上加息600个基点",
+   "evidence": "On March 6, 2024, in an extraordinary meeting of the Monetary Policy Committee, the Central Bank of Egypt decided to raise interest rates by 600 basis points",
+   "sources": [
+    "w-en-egypt-2023"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年",
+   "event": "通过大规模外国投资、多边援助与全面经济改革，危机基本化解",
+   "evidence": "The crisis was largely resolved in 2024 through a combination of large-scale foreign investment, multilateral aid, and sweeping economic reforms.",
+   "sources": [
+    "w-en-egypt-2023"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

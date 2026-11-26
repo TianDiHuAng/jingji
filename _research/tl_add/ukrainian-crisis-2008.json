@@ -1,0 +1,51 @@
+{
+ "id": "ukrainian-crisis-2008",
+ "add": [
+  {
+   "year": 2008,
+   "display": "2008年",
+   "event": "格里夫纳兑美元下跌38%",
+   "evidence": "In 2008 the hryvnia dropped 38% against the US dollar",
+   "sources": [
+    "w-en-ukrainian-crisis-2008"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年10月",
+   "event": "乌克兰国家银行提前实施取款暂停令",
+   "evidence": "In October 2008, the National Bank of Ukraine introduced a moratorium on withdrawals ahead of schedule.",
+   "sources": [
+    "w-en-ukrainian-crisis-2008"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年",
+   "event": "乌克兰经济萎缩15%",
+   "evidence": "The Ukrainian economy shrank 15 percent in 2009.",
+   "sources": [
+    "w-en-ukrainian-crisis-2008"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年9月17日",
+   "event": "世界银行批准向乌克兰贷款4亿美元",
+   "evidence": "On 17 September 2009 the World Bank approved a loan for Ukraine in the amount of $400 million.",
+   "sources": [
+    "w-en-ukrainian-crisis-2008"
+   ]
+  },
+  {
+   "year": 2010,
+   "display": "2010年第一季度",
+   "event": "乌克兰经济复苏",
+   "evidence": "The Ukrainian economy recovered in the first quarter of 2010.",
+   "sources": [
+    "w-en-ukrainian-crisis-2008"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

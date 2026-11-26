@@ -1,0 +1,42 @@
+{
+ "id": "angolan-kwanza-devaluation",
+ "add": [
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "新宽扎（AON）推出",
+   "evidence": "In 1990, the novo kwanza was introduced, with the ISO 4217 code AON.",
+   "sources": [
+    "w-en-angolan-kwanza"
+   ]
+  },
+  {
+   "year": 1995,
+   "display": "1995年",
+   "event": "调整宽扎以1000比1取代旧宽扎",
+   "evidence": "In 1995, the kwanza reajustado (plural kwanzas reajustados) replaced the previous kwanza at a rate of 1,000 to 1.",
+   "sources": [
+    "w-en-angolan-kwanza"
+   ]
+  },
+  {
+   "year": 1999,
+   "display": "1999年",
+   "event": "推出第二种名为宽扎的货币",
+   "evidence": "In 1999, a second currency was introduced simply called the kwanza.",
+   "sources": [
+    "w-en-angolan-kwanza"
+   ]
+  },
+  {
+   "year": 2016,
+   "display": "2016年",
+   "event": "币值稳定期结束，宽扎再度贬值",
+   "evidence": "its value became stable until 2016, when the currency started devaluing again.",
+   "sources": [
+    "w-en-angolan-kwanza"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

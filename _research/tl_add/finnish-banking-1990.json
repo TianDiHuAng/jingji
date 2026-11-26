@@ -1,0 +1,33 @@
+{
+ "id": "finnish-banking-1990",
+ "add": [
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "SKOP多次依赖芬兰银行隔夜借款维持流动性",
+   "evidence": "On several occasions during 1990, SKOP had to resort to overnight debt from the Bank of Finland to cover its liquidity position",
+   "sources": [
+    "w-en-finnish-banking-1990"
+   ]
+  },
+  {
+   "year": 1992,
+   "display": "1992年",
+   "event": "政府向银行提供71亿马克（12亿欧元）初期零息可转换贷款",
+   "evidence": "In 1992, to stabilize the financial sector and to prevent a credit crunch, the government gave a 7.1 billion markka (€1.2 billion), initially zero-interest, convertible loan to Finnish banks.",
+   "sources": [
+    "w-en-finnish-banking-1990"
+   ]
+  },
+  {
+   "year": 1995,
+   "display": "1995年",
+   "event": "两大商业银行合并为Merita银行（后为Nordea）",
+   "evidence": "The two largest Finnish commercial banks, Suomen Yhdyspankki and Kansallis-Osake-Pankki, merged in 1995 to become Merita Bank, later Nordea.",
+   "sources": [
+    "w-en-finnish-banking-1990"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

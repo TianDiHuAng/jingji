@@ -1,0 +1,42 @@
+{
+ "id": "argentina-2018",
+ "add": [
+  {
+   "year": 2017,
+   "display": "2017年",
+   "event": "阿根廷年通胀率达25%，为G20最高",
+   "evidence": "with an annual rate of 25% in 2017, second only to Venezuela in South America and the highest in the G20",
+   "sources": [
+    "w-en-argentina-2018"
+   ]
+  },
+  {
+   "year": 2018,
+   "display": "2018年5月8日",
+   "event": "马克里宣布阿根廷将向国际货币基金组织寻求贷款",
+   "evidence": "Macri announced on 8 May 2018 that Argentina would seek a loan from the International Monetary Fund (IMF).",
+   "sources": [
+    "w-en-argentina-2018"
+   ]
+  },
+  {
+   "year": 2022,
+   "display": "2022年",
+   "event": "通胀率达100%，2023年11月升至143%",
+   "evidence": "In 2022, Argentina's inflation rate reached 100%, and in November 2023 reached 143%",
+   "sources": [
+    "w-en-argentina-2018"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年1月",
+   "event": "一系列经济休克措施出台后，通胀达32年高点211%",
+   "evidence": "In January 2024, after a series of economic shock measures were introduced, inflation reached a 32-year high at 211%.",
+   "sources": [
+    "w-en-argentina-2018"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

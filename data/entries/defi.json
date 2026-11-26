@@ -11,9 +11,25 @@
   "overview": "去中心化金融（DeFi）通过可编程、无需许可（permissionless）区块链上的智能合约提供金融工具与服务。这一方式减少了对经纪商、交易所或银行等中介机构的需要。DeFi 带来效率与可及性，但也伴随智能合约漏洞、治理与监管风险。具体规模待核实。",
   "timeline": [
     {
+      "year": 2017,
+      "display": "2017年",
+      "event": "以太坊区块链普及了作为DeFi基础的智能合约",
+      "sources": [
+        "w-en-defi"
+      ]
+    },
+    {
       "year": 2020,
       "display": "2020年代",
       "event": "DeFi 通过智能合约提供借贷、交易等金融服务（据 Wikipedia Decentralized finance）",
+      "sources": [
+        "w-en-defi"
+      ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年",
+      "event": "MakerDAO、Compound、Aave、Uniswap等协议推动总锁仓价值超过1800亿美元",
       "sources": [
         "w-en-defi"
       ]
@@ -24,6 +40,22 @@
       "event": "加密市场崩盘中 DeFi 协议亦受冲击（细节待核实）",
       "sources": [
         "w-en-crypto-bubble"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "DeFi开始复苏",
+      "sources": [
+        "w-en-defi"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年9月",
+      "event": "MakerDAO更名为Sky，其稳定币DAI更名为USDS",
+      "sources": [
+        "w-en-defi"
       ]
     }
   ],

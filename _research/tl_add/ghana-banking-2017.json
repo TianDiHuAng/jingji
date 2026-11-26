@@ -1,0 +1,33 @@
+{
+ "id": "ghana-banking-2017",
+ "add": [
+  {
+   "year": 2015,
+   "display": "2015年",
+   "event": "加纳央行资产质量审查发现uniBank严重资本不足",
+   "evidence": "during its Asset Quality Review (AQR) of banks conducted in 2015, and reviewed in 2016, uniBank Ghana LTD was identified to be significantly undercapitalized.",
+   "sources": [
+    "w-en-ghana-banking-crisis"
+   ]
+  },
+  {
+   "year": 2017,
+   "display": "2017年8月14日",
+   "event": "加纳央行批准GCB银行接管UT银行与Capital银行",
+   "evidence": "On 14 August 2017, the BoG in its press release announced its approval for the takeover of two indigenous banks, UT Bank LTD and Capital Bank LTD, by GCB Bank LTD.",
+   "sources": [
+    "w-en-ghana-banking-crisis"
+   ]
+  },
+  {
+   "year": 2020,
+   "display": "2020年",
+   "event": "银行危机接近尾声时新冠疫情传入加纳，进一步打击经济",
+   "evidence": "The COVID-19 pandemic arrived in Ghana towards the end of the banking crisis in 2020, dealing further damage to the country's economy.",
+   "sources": [
+    "w-en-ghana-banking-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

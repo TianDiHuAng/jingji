@@ -25,6 +25,38 @@
       "sources": [
         "w-en-emergency-banking-act-1933"
       ]
+    },
+    {
+      "year": 1933,
+      "display": "1933年2月14日",
+      "event": "密歇根州宣布八天银行假日",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "year": 1933,
+      "display": "1933年3月13日",
+      "event": "银行重新开业，储户排队将现金存回",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "year": 1933,
+      "display": "1933年3月15日",
+      "event": "华尔街复市首日道指涨15.34%至62.10点",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
+    },
+    {
+      "year": 1933,
+      "display": "1933年4月5日",
+      "event": "罗斯福签署第6102号行政令，禁止私人持有货币黄金",
+      "sources": [
+        "w-en-emergency-banking-act-1933"
+      ]
     }
   ],
   "causal_chain": [

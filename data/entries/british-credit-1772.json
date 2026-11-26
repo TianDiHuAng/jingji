@@ -11,6 +11,14 @@
   "overview": "英国信用危机（1772—1773年）常被视为英国第一场现代意义上的银行与信贷危机。其背景是1760年代苏格兰与伦敦的银行扩张、对美洲殖民地的贸易敞口，以及投机性票据融资。1772年，苏格兰的艾尔银行(Ayr Bank，Douglas, Heron & Co.)因过度发行票据与地产投机失败而倒闭，引发伦敦的连锁挤兑，多家银行与商号（包括与东印度公司相关的机构）陷入困境。危机波及北美与加勒比贸易链条。该事件影响了此后对银行券发行与银行资本约束的讨论 **政策应对**：**1773 年 1 月 10 日英格兰银行出面救助，允许从银行提取金银(specie)**，以缓解伦敦的连锁挤兑。",
   "timeline": [
     {
+      "year": 1769,
+      "display": "1769年11月",
+      "event": "苏格兰资本方创办艾尔银行，意图承担类似中央银行的职能",
+      "sources": [
+        "w-en-british-credit-1772"
+      ]
+    },
+    {
       "year": 1772,
       "display": "1772年",
       "event": "艾尔银行(Ayr Bank)倒闭，伦敦信贷恐慌蔓延",
@@ -19,11 +27,43 @@
       ]
     },
     {
+      "year": 1772,
+      "display": "1772年6月",
+      "event": "Alexander Fordyce 做空东印度公司股票亏损30万英镑",
+      "sources": [
+        "w-en-british-credit-1772"
+      ]
+    },
+    {
       "year": 1773,
       "display": "1773年",
       "event": "危机延续，多家银行与商号陷入困境",
       "sources": [
         "w-en-debt-crisis"
+      ]
+    },
+    {
+      "year": 1773,
+      "display": "1773年1月第一周",
+      "event": "伦敦与阿姆斯特丹之间的贸易与金融往来陷入停顿",
+      "sources": [
+        "w-en-british-credit-1772"
+      ]
+    },
+    {
+      "year": 1773,
+      "display": "1773年3月",
+      "event": "丹麦 Kurantbanken 被国有化",
+      "sources": [
+        "w-en-british-credit-1772"
+      ]
+    },
+    {
+      "year": 1775,
+      "display": "1775年8月",
+      "event": "226名合伙人中仅112人仍具偿付能力",
+      "sources": [
+        "w-en-british-credit-1772"
       ]
     }
   ],

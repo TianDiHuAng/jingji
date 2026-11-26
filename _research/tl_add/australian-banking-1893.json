@@ -1,0 +1,33 @@
+{
+ "id": "australian-banking-1893",
+ "add": [
+  {
+   "year": 1888,
+   "display": "1888年后",
+   "event": "土地繁荣崩溃，大量借款企业无力偿债",
+   "evidence": "following the collapse of the land boom after 1888, a large number of enterprises that had borrowed money found themselves unable to repay these debts",
+   "sources": [
+    "w-en-australian-banking-crisis-of-1893"
+   ]
+  },
+  {
+   "year": 1891,
+   "display": "1891年9月",
+   "event": "Mutual Provident, Land, Investing, and Building Society 倒闭",
+   "evidence": "September 1891 – Mutual Provident, Land, Investing, and Building Society",
+   "sources": [
+    "w-en-australian-banking-crisis-of-1893"
+   ]
+  },
+  {
+   "year": 1893,
+   "display": "1893年5月1日",
+   "event": "维多利亚政府实施五天银行假日以缓解恐慌、防止挤兑",
+   "evidence": "on 1 May 1893, the Victorian government implemented a five-day bank holiday to ameliorate the financial panic and prevent any further run on the banks",
+   "sources": [
+    "w-en-australian-banking-crisis-of-1893"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

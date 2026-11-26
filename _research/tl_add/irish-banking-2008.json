@@ -1,0 +1,42 @@
+{
+ "id": "irish-banking-2008",
+ "add": [
+  {
+   "year": 2009,
+   "display": "2009年1月20日",
+   "event": "政府认定注资不足以挽救，Anglo Irish Bank 被国有化",
+   "evidence": "Anglo Irish was nationalised on 20 January 2009, when the Irish government determined that recapitalisation would not be enough to save the bank.",
+   "sources": [
+    "w-en-post-2008-irish-banking-crisis"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年2月11日",
+   "event": "财长 Lenihan 宣布向AIB与BoI各提供35亿欧元救助",
+   "evidence": "On 11 February 2009, Lenihan announced the provision of two €3.5 billion bailouts to AIB and BoI as part of his government's recapitalisation scheme.",
+   "sources": [
+    "w-en-post-2008-irish-banking-crisis"
+   ]
+  },
+  {
+   "year": 2013,
+   "display": "2013年12月15日",
+   "event": "爱尔兰成功退出救助计划",
+   "evidence": "On 15 December 2013, Ireland successfully exited the bailout programme, with market bond rates at a recent historic low.",
+   "sources": [
+    "w-en-post-2008-irish-banking-crisis"
+   ]
+  },
+  {
+   "year": 2014,
+   "display": "2014年12月",
+   "event": "国债管理机构NTMA以更低利率借款，偿还90亿欧元IMF贷款",
+   "evidence": "In December 2014, Ireland's debt management body, the NTMA, repaid €9 billion in IMF loans, by borrowing that €9 billion at cheaper rates.",
+   "sources": [
+    "w-en-post-2008-irish-banking-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

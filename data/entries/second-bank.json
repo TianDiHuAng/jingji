@@ -19,9 +19,49 @@
       ]
     },
     {
+      "year": 1823,
+      "display": "1823年",
+      "event": "Nicholas Biddle 被门罗总统任命为第三任也是最后一任行长",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
       "year": 1832,
       "display": "1832年前后",
       "event": "特许续期之争（\"银行战\"），最终未能延续（细节待核实）",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "year": 1833,
+      "display": "1833年",
+      "event": "杰克逊以行政命令将联邦收入转存至选定的私人银行",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "year": 1836,
+      "display": "1836年2月",
+      "event": "该行依宾夕法尼亚州法律成为私人公司",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "year": 1841,
+      "display": "1841年2月",
+      "event": "该行永久停止兑付",
+      "sources": [
+        "w-en-second-bank"
+      ]
+    },
+    {
+      "year": 1852,
+      "display": "1852年",
+      "event": "冗长清算结束，剩余资产移交受托人并交回州特许状",
       "sources": [
         "w-en-second-bank"
       ]

@@ -1,0 +1,42 @@
+{
+ "id": "first-republic",
+ "add": [
+  {
+   "year": 1985,
+   "display": "1985年2月",
+   "event": "Jim Herbert 创立第一共和银行",
+   "evidence": "First Republic was founded in February 1985 by Jim Herbert",
+   "sources": [
+    "w-en-first-republic"
+   ]
+  },
+  {
+   "year": 1986,
+   "display": "1986年8月",
+   "event": "在纳斯达克首次公开募股，每股10美元",
+   "evidence": "It became a public company via an initial public offering on the Nasdaq in August 1986, selling stock at $10 a share.",
+   "sources": [
+    "w-en-first-republic"
+   ]
+  },
+  {
+   "year": 2007,
+   "display": "2007年9月",
+   "event": "美林以18亿美元现金加股票收购第一共和",
+   "evidence": "In September 2007, First Republic was acquired by Merrill Lynch for $1.8 billion in cash and stock.",
+   "sources": [
+    "w-en-first-republic"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月16日",
+   "event": "摩根大通等11家美国银行向第一共和存入300亿美元以缓解挤兑担忧",
+   "evidence": "on March 16, 2023, eleven American banks including JPMorgan Chase, Bank of America, Wells Fargo, Citigroup, and Truist Financial deposited $30 billion with First Republic.",
+   "sources": [
+    "w-en-first-republic"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -25,6 +25,22 @@
       "sources": [
         "w-en-speculative-bubble"
       ]
+    },
+    {
+      "year": 1997,
+      "display": "1997年10月27日",
+      "event": "纽交所成交量超6.95亿股，打破1997年1月23日6.84亿股纪录",
+      "sources": [
+        "w-en-october-27-1997-mini-crash"
+      ]
+    },
+    {
+      "year": 1997,
+      "display": "1997—1998年冬",
+      "event": "美加消费者信心与经济增长小幅下降",
+      "sources": [
+        "w-en-october-27-1997-mini-crash"
+      ]
     }
   ],
   "causal_chain": [

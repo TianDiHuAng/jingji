@@ -1,0 +1,33 @@
+{
+ "id": "franklin-national-1974",
+ "add": [
+  {
+   "year": 1926,
+   "display": "1926年",
+   "event": "以 Franklin Square National Bank 名义创立，1947年更名",
+   "evidence": "The bank was founded as Franklin Square National Bank in 1926 and changed its name to Franklin National Bank in 1947.",
+   "sources": [
+    "w-en-franklin-national"
+   ]
+  },
+  {
+   "year": 1972,
+   "display": "1972年",
+   "event": "与黑手党关系密切的银行家辛多纳购得该行控股权",
+   "evidence": "In 1972, Michele Sindona, a banker with close ties to the Mafia, the masonic lodge P2, and the Nixon administration, purchased a controlling interest in Long Island's Franklin National Bank",
+   "sources": [
+    "w-en-franklin-national"
+   ]
+  },
+  {
+   "year": 1975,
+   "display": "1975年",
+   "event": "前国际部执行副董事长Peter Shaddick认罪欺诈",
+   "evidence": "In 1975, Peter Shaddick, the former executive vice-chairman of the bank's international division, pleaded guilty to fraud.",
+   "sources": [
+    "w-en-franklin-national"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

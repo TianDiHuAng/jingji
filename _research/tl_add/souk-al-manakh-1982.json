@@ -1,0 +1,33 @@
+{
+ "id": "souk-al-manakh-1982",
+ "add": [
+  {
+   "year": 1977,
+   "display": "1977年",
+   "event": "科威特官方股市投机繁荣以崩盘告终",
+   "evidence": "a speculation boom in the official stock market in the mid-1970s that culminated in a crash in 1977",
+   "sources": [
+    "w-en-souk-al-manakh-stock-market-crash"
+   ]
+  },
+  {
+   "year": 1979,
+   "display": "1979年",
+   "event": "Souk Al-Manakh 设立，科威特股票数量居海湾国家之首",
+   "evidence": "By 1979, the year Souk Al-Manakh was established, Kuwait already had a robust financial sector and more stocks than any other Gulf country.",
+   "sources": [
+    "w-en-souk-al-manakh-stock-market-crash"
+   ]
+  },
+  {
+   "year": 1982,
+   "display": "1982年9月",
+   "event": "科威特财政部下令上交可疑支票清算，并关闭该市场",
+   "evidence": "By September 1982, the Kuwaiti Ministry of Finance ordered all dubious checks to be turned in for clearance, and shut down the Souk Al-Manakh.",
+   "sources": [
+    "w-en-souk-al-manakh-stock-market-crash"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "panic-1837",
+ "add": [
+  {
+   "year": 1832,
+   "display": "1832年7月",
+   "event": "杰克逊总统否决第二合众国银行续期特许法案",
+   "evidence": "In July 1832, President Jackson vetoed the bill to recharter the Second Bank of the United States",
+   "sources": [
+    "w-en-panic-of-1837"
+   ]
+  },
+  {
+   "year": 1837,
+   "display": "1837年2月—3月",
+   "event": "棉花价格下跌25%",
+   "evidence": "The price of cotton fell by 25% in February and March 1837.",
+   "sources": [
+    "w-en-panic-of-1837"
+   ]
+  },
+  {
+   "year": 1844,
+   "display": "1837—1844年",
+   "event": "工资与物价普遍通缩",
+   "evidence": "From 1837 to 1844, deflation in wages and prices was widespread.",
+   "sources": [
+    "w-en-panic-of-1837"
+   ]
+  },
+  {
+   "year": 1848,
+   "display": "1848年",
+   "event": "加州发现黄金，带来新的繁荣",
+   "evidence": "gold was discovered in California in 1848, setting off a prosperity of its own.",
+   "sources": [
+    "w-en-panic-of-1837"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

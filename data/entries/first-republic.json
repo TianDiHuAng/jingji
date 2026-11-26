@@ -11,9 +11,41 @@
   "overview": "第一共和银行（First Republic Bank）是一家总部位于美国加利福尼亚州旧金山的商业银行与财富管理服务提供者，服务高净值个人，在11个州运营93个办公室。该行于2023年倒闭，是当年美国银行业危机的又一案例。具体规模待核实。",
   "timeline": [
     {
+      "year": 1985,
+      "display": "1985年2月",
+      "event": "Jim Herbert 创立第一共和银行",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
+      "year": 1986,
+      "display": "1986年8月",
+      "event": "在纳斯达克首次公开募股，每股10美元",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
+      "year": 2007,
+      "display": "2007年9月",
+      "event": "美林以18亿美元现金加股票收购第一共和",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
       "year": 2023,
       "display": "2023年",
       "event": "第一共和银行倒闭（据 Wikipedia First Republic Bank）",
+      "sources": [
+        "w-en-first-republic"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月16日",
+      "event": "摩根大通等11家美国银行向第一共和存入300亿美元以缓解挤兑担忧",
       "sources": [
         "w-en-first-republic"
       ]

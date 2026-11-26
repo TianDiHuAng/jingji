@@ -1,0 +1,42 @@
+{
+ "id": "bond-crisis-1994",
+ "add": [
+  {
+   "year": 1993,
+   "display": "1993年",
+   "event": "债券市场在此前衰退后处于相对牛市",
+   "evidence": "In 1993, the bond market was enjoying a relatively bullish run following a recession",
+   "sources": [
+    "w-en-bond-crisis-1994"
+   ]
+  },
+  {
+   "year": 1994,
+   "display": "1994年2月3—4日",
+   "event": "美联储公开市场委员会会议成为美国债市崩跌的直接导火索，日本债价此前一个月已开始暴跌",
+   "evidence": "The immediate trigger of the crash in the US occurred at the Federal Open Market Committee (FOMC) on February 3 and 4, 1994, although bond prices in Japan had started plummeting just a month earlier.",
+   "sources": [
+    "w-en-bond-crisis-1994"
+   ]
+  },
+  {
+   "year": 1994,
+   "display": "1994年底",
+   "event": "债市崩跌前后时期成为随后墨西哥比索危机的前奏",
+   "evidence": "The period of time leading up to and following the crash was a precursor to the Mexican peso crisis that ensued at the end of 1994.",
+   "sources": [
+    "w-en-bond-crisis-1994"
+   ]
+  },
+  {
+   "year": 2013,
+   "display": "2013年",
+   "event": "亚洲约25亿美元永续债遭抛售，被拿来与1994年崩跌相比",
+   "evidence": "In 2013, a selloff of about $2.5 billion in perpetual bonds across Asia prompted some observers to compare it to the crash of 1994.",
+   "sources": [
+    "w-en-bond-crisis-1994"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "worldcom",
+ "add": [
+  {
+   "year": 2000,
+   "display": "2000年12月",
+   "event": "分析师Kim Emigh被要求将资本项目人工费记为资本支出而非运营成本",
+   "evidence": "In December 2000, WorldCom financial analyst Kim Emigh was told to allocate labor for capital projects in WorldCom's network systems division as capital expenditure rather than operating costs.",
+   "sources": [
+    "w-en-worldcom"
+   ]
+  },
+  {
+   "year": 2002,
+   "display": "2002年7月21日",
+   "event": "世通申请第11章破产保护",
+   "evidence": "The company filed for Chapter 11 bankruptcy protection on July 21, 2002.",
+   "sources": [
+    "w-en-worldcom"
+   ]
+  },
+  {
+   "year": 2005,
+   "display": "2005年",
+   "event": "陪审团裁定CEO埃伯斯欺诈、共谋及向监管机构提交虚假文件罪成立",
+   "evidence": "In 2005, a jury found CEO Bernard Ebbers guilty of fraud, conspiracy, and filing false documents with regulators.",
+   "sources": [
+    "w-en-worldcom"
+   ]
+  },
+  {
+   "year": 2006,
+   "display": "2006年1月",
+   "event": "更名为MCI的世通被威瑞森收购",
+   "evidence": "WorldCom, renamed MCI, was acquired by Verizon Communications in January 2006.",
+   "sources": [
+    "w-en-worldcom"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

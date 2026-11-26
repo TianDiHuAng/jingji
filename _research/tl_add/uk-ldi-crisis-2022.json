@@ -1,0 +1,51 @@
+{
+ "id": "uk-ldi-crisis-2022",
+ "add": [
+  {
+   "year": 2001,
+   "display": "2001年",
+   "event": "Boots养老金计划将资产转入长期英镑债券以降低融资风险，成为广为引用的早期案例",
+   "evidence": "A widely cited early case was the Boots pension scheme in 2001, which moved its assets into long-dated sterling bonds to reduce funding risk.",
+   "sources": [
+    "w-en-ldi"
+   ]
+  },
+  {
+   "year": 2022,
+   "display": "2022年10月10日",
+   "event": "英格兰银行推出临时扩大抵押回购工具(TECRF)",
+   "evidence": "On 10 October 2022 the Bank launched the Temporary Expanded Collateral Repo Facility (TECRF)",
+   "sources": [
+    "w-en-ldi"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月",
+   "event": "金融政策委员会建议LDI基金至少能承受250个基点的收益率冲击",
+   "evidence": "In March 2023 the Financial Policy Committee recommended that LDI funds be resilient to at least a 250 basis point yield shock",
+   "sources": [
+    "w-en-ldi"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年",
+   "event": "英格兰银行宣布针对金边债市场压力时期的非银行或有回购工具",
+   "evidence": "In 2024 the Bank announced a contingent non-bank repo facility for periods of gilt market stress",
+   "sources": [
+    "w-en-ldi"
+   ]
+  },
+  {
+   "year": 2025,
+   "display": "2025年",
+   "event": "政府将养老基金清算豁免改为永久性",
+   "evidence": "In 2025 the government made the pension fund clearing exemption permanent",
+   "sources": [
+    "w-en-ldi"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

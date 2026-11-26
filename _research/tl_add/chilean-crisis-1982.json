@@ -1,0 +1,33 @@
+{
+ "id": "chilean-crisis-1982",
+ "add": [
+  {
+   "year": 1979,
+   "display": "1979年",
+   "event": "智利放弃自由浮动汇率原则",
+   "evidence": "In 1979 however, Chile decided to depart from the principle of free floating exchange rates, with disastrous results.",
+   "sources": [
+    "w-en-chilean-crisis-1982"
+   ]
+  },
+  {
+   "year": 1981,
+   "display": "1981年11月",
+   "event": "政府救助过度冒险的银行",
+   "evidence": "In November 1981, banks were bailed out by the government after they had taken excessive risks",
+   "sources": [
+    "w-en-chilean-crisis-1982"
+   ]
+  },
+  {
+   "year": 1983,
+   "display": "1983年1月13日",
+   "event": "政府大规模干预银行业，救助五家、解散三家",
+   "evidence": "On January 13, 1983, the government made a massive bank intervention, bailing out five banks and dissolving three others.",
+   "sources": [
+    "w-en-chilean-crisis-1982"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

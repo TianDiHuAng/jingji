@@ -1,0 +1,42 @@
+{
+ "id": "shanghai-rubber-1910",
+ "add": [
+  {
+   "year": 1909,
+   "display": "1909年",
+   "event": "橡胶价格上涨，相关股票价格大幅上升",
+   "evidence": "Accomplished with the higher price of rubber in 1909, the related stock prices got a huge increase.",
+   "sources": [
+    "w-en-shanghai-rubber-1910"
+   ]
+  },
+  {
+   "year": 1910,
+   "display": "1910年7月21日",
+   "event": "正元、兆康、谦余三家钱庄倒闭",
+   "evidence": "On July 21, 1910, three Chinese native banks Zhengyuan (正元), Yaokang (兆康), Qianyu (谦余) bankrupted",
+   "sources": [
+    "w-en-shanghai-rubber-1910"
+   ]
+  },
+  {
+   "year": 1911,
+   "display": "1911年3月",
+   "event": "义善源倒闭后，钱庄及渣打银行等外国银行均损失惨重",
+   "evidence": "In March 1911, after Yishanyuan's bankrupt, not only the native banks, but the foreign banks such as Chartered Bank suffered huge losses.",
+   "sources": [
+    "w-en-shanghai-rubber-1910"
+   ]
+  },
+  {
+   "year": 1911,
+   "display": "1911年",
+   "event": "四川爆发保路运动",
+   "evidence": "After that, Railway Protection Movement (保路运动) broke out in Sichuan 1911.",
+   "sources": [
+    "w-en-shanghai-rubber-1910"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

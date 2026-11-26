@@ -1,0 +1,42 @@
+{
+ "id": "haitian-independence-debt",
+ "add": [
+  {
+   "year": 1875,
+   "display": "1875年",
+   "event": "海地借款偿还原贷款最后部分，最大受益银行为Crédit Industriel et Commercial",
+   "evidence": "Haiti had to take a loan in 1875 to pay back the final portion of the original loan, and the bank that benefited most from this was Crédit Industriel et Commercial.",
+   "sources": [
+    "w-en-haitian-independence-debt"
+   ]
+  },
+  {
+   "year": 1883,
+   "display": "1883年",
+   "event": "剩余债务的最后一笔款项付清",
+   "evidence": "in 1838 France agreed to reduce the remaining debt to 60 million to be paid over 30 years, with the final payment paid in 1883.",
+   "sources": [
+    "w-en-haitian-independence-debt"
+   ]
+  },
+  {
+   "year": 1947,
+   "display": "1947年",
+   "event": "海地才向纽约国民城市银行付清全部相关利息",
+   "evidence": "it took until 1947 for Haiti to finally pay off all the associated interest to the National City Bank of New York (now Citibank).",
+   "sources": [
+    "w-en-haitian-independence-debt"
+   ]
+  },
+  {
+   "year": 2016,
+   "display": "2016年",
+   "event": "法国议会废除查理十世1825年敕令，但未提供赔偿",
+   "evidence": "In 2016, the Parliament of France repealed the 1825 ordinance of Charles X, though no reparations have been offered by France.",
+   "sources": [
+    "w-en-haitian-independence-debt"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

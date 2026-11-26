@@ -2494,3 +2494,5 @@
 - 为 34 个单薄案例补充 119 条时间线事件（3 个子任务从维基原文提取，合并前脚本复核：摘录为缓存子串、年份在摘录中、来源属该条目、与已有事件不重复；剔除 4 条与已有破产/倒闭事件重复者）。timeline 658→777。
 - 发现 6 个条目的维基缓存放错页面（steel-crisis-1973、panic-1796、panic-1910、venezuela-energy-2010、israel-bank-1983、crisis-33ce），记入 BLOCKERS.md 待重抓。
 - 修复 6 个缓存放错页面的条目：找到维基专题页（Steel crisis、Panic of 1796–1797、Panic of 1910–11、Energy crisis in Venezuela、1983 Israel bank stock crisis、Financial crisis of 33），新增来源 4 个（742→746），重抓原文，补 20 条时间线（777→797）；panic-1910 专题页仅一段，无新事件可补。
+- 第二批时间线扩充：58 个案例补 215 条（797→1012），合并前复核摘录、年份、来源与重复，剔除 1 条（panic-1884 同年倒闭事件）。
+- 新发现 5 个缓存放错页面：jamaica-accords、smithsonian-agreement（均为 Nixon shock）、yemen-currency-divergence（Currency crisis）、swedish-crisis-1990s（芬兰银行危机）、us-state-defaults-1840s（Panic of 1837），记入 BLOCKERS.md。

@@ -19,11 +19,43 @@
       ]
     },
     {
+      "year": 1857,
+      "display": "1857年",
+      "event": "瑞典银行危机后，民众对私人银行与私人发钞机构的支持上升",
+      "sources": [
+        "w-en-free-banking"
+      ]
+    },
+    {
       "year": 1863,
       "display": "1863—1864年",
       "event": "国民银行法以统一银行券与税制终结该格局",
       "sources": [
         "w-en-national-bank-act"
+      ]
+    },
+    {
+      "year": 1864,
+      "display": "1864年",
+      "event": "瑞典议会通过新银行法，放开利率管制",
+      "sources": [
+        "w-en-free-banking"
+      ]
+    },
+    {
+      "year": 1881,
+      "display": "1881年",
+      "event": "瑞士联邦银行法颁布前，银行管辖权一直归各州",
+      "sources": [
+        "w-en-free-banking"
+      ]
+    },
+    {
+      "year": 1901,
+      "display": "1901年",
+      "event": "私人货币发行被禁止",
+      "sources": [
+        "w-en-free-banking"
       ]
     }
   ],

@@ -11,6 +11,22 @@
   "overview": "巴尔迪家族（House of Bardi）是佛罗伦萨一个颇具影响力的家族，创办了实力雄厚的银行公司 Compagnia dei Bardi。14世纪，巴尔迪家族向英格兰国王爱德华三世贷出90万金弗罗林；连同佩鲁齐家族（Peruzzi）借出的60万弗罗林，爱德华三世均未偿还，导致两大家族（银行）双双崩溃。这是中世纪银行业危机的经典案例",
   "timeline": [
     {
+      "year": 1310,
+      "display": "约1310年",
+      "event": "Ridolfo de Bardi继承巨额遗产并执掌巴尔迪公司",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "year": 1338,
+      "display": "1338年",
+      "event": "佛罗伦萨已有八十多家银行",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
       "year": 1340,
       "display": "14世纪（约1340年代）",
       "event": "巴尔迪与佩鲁齐家族向英王爱德华三世放贷（据 Wikipedia Bardi family）",
@@ -22,6 +38,14 @@
       "year": 1345,
       "display": "14世纪（约1340年代）",
       "event": "爱德华三世未偿还贷款，两大家族银行崩溃（同上；具体年份待核实）",
+      "sources": [
+        "w-en-bardi-family"
+      ]
+    },
+    {
+      "year": 1434,
+      "display": "1434年",
+      "event": "科西莫·德·美第奇掌权后恢复巴尔迪家族政治权利",
       "sources": [
         "w-en-bardi-family"
       ]

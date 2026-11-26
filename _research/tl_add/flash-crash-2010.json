@@ -1,0 +1,15 @@
+{
+ "id": "flash-crash-2010",
+ "add": [
+  {
+   "year": 2015,
+   "display": "2015年4月21日",
+   "event": "美国司法部对交易员 Navinder Singh Sarao 提出22项刑事指控，含欺诈与操纵市场",
+   "evidence": "On April 21, 2015, the U.S. Department of Justice laid \"22 criminal counts, including fraud and market manipulation\" against Navinder Singh Sarao, a trader.",
+   "sources": [
+    "w-en-flash-crash"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

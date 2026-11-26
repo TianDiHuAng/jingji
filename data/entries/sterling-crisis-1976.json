@@ -11,9 +11,33 @@
   "overview": "1976年英镑危机是英国战后最严重的货币与财政危机。1970年代中期英国通胀一度超过20%、财政赤字与经常账户赤字扩大，市场对英镑信心崩塌，汇率持续下跌（具体汇率数值待核实：所引来源未载），政府被迫向国际货币基金组织(IMF)申请贷款（当时史上最大规模的IMF贷款之一），并接受包括公共支出削减在内的条件。该事件成为\"财政主导+通胀+汇率危机\"以及IMF条件性(conditionality)争议的重要案例，也被视为英国1979年后转向货币主义与结构性改革的背景之一",
   "timeline": [
     {
+      "year": 1972,
+      "display": "1972年",
+      "event": "通胀周期被追溯至 Anthony Barber 的1972年预算",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    },
+    {
       "year": 1976,
       "display": "1976年",
       "event": "英镑大幅贬值，英国向IMF申请贷款并接受紧缩条件",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    },
+    {
+      "year": 1976,
+      "display": "1976年6月",
+      "event": "英镑兑美元跌至历史低点",
+      "sources": [
+        "w-en-1976-sterling-crisis"
+      ]
+    },
+    {
+      "year": 1979,
+      "display": "1979年5月4日",
+      "event": "IMF贷款仅动用一半，并于大选次日还清",
       "sources": [
         "w-en-1976-sterling-crisis"
       ]

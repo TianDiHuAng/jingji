@@ -1,0 +1,42 @@
+{
+ "id": "oil-price-war-2020",
+ "add": [
+  {
+   "year": 2016,
+   "display": "2016年9月",
+   "event": "沙特与俄罗斯同意合作管理油价",
+   "evidence": "In September 2016, Saudi Arabia and Russia agreed to cooperate in managing the price of oil",
+   "sources": [
+    "w-en-oil-price-war-2020"
+   ]
+  },
+  {
+   "year": 2020,
+   "display": "2020年3月6日",
+   "event": "俄罗斯拒绝减产要求，非正式伙伴关系终结，油价随即下跌10%",
+   "evidence": "On 6 March 2020, Russia rejected the demand, marking the end of the unofficial partnership, with oil prices falling 10% after the announcement.",
+   "sources": [
+    "w-en-oil-price-war-2020"
+   ]
+  },
+  {
+   "year": 2020,
+   "display": "2020年3月9日",
+   "event": "新冠恐慌叠加价格战，全球股市大幅下跌",
+   "evidence": "On Monday, 9 March 2020, stock markets globally experienced major point drops due to a combination of panic over the COVID-19 pandemic and the price war between Saudi Arabia and Russia.",
+   "sources": [
+    "w-en-oil-price-war-2020"
+   ]
+  },
+  {
+   "year": 2020,
+   "display": "2020年4月初及6月",
+   "event": "沙特与俄罗斯达成石油减产协议",
+   "evidence": "In early April 2020 and again in June 2020, Saudi Arabia and Russia agreed to oil production cuts.",
+   "sources": [
+    "w-en-oil-price-war-2020"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

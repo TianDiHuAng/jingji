@@ -1,0 +1,42 @@
+{
+ "id": "ems",
+ "add": [
+  {
+   "year": 1972,
+   "display": "1972年10月",
+   "event": "EEC巴黎峰会采纳维尔纳报告，成员国货币以“蛇形浮动”可调整地相互挂钩",
+   "evidence": "In October 1972, the EEC's Paris summit adopted the recommendations of the Werner Report and, as a result, the EEC currencies were adjustably pegged to one another in a scheme known as the snake in the tunnel.",
+   "sources": [
+    "w-en-ems"
+   ]
+  },
+  {
+   "year": 1978,
+   "display": "1978年12月5日",
+   "event": "德斯坦与施密特在布鲁塞尔EEC会议上成功推动建立EMS",
+   "evidence": "At a meeting of the EEC in Brussels on 5 December 1978, French President Valéry Giscard d'Estaing and German Chancellor Helmut Schmidt successfully championed the EMS",
+   "sources": [
+    "w-en-ems"
+   ]
+  },
+  {
+   "year": 1993,
+   "display": "1993年8月",
+   "event": "法郎遭投机攻击后达成布鲁塞尔妥协，波动区间由±2.25%扩至±15%",
+   "evidence": "Speculative attacks on the French franc during the following year led to the Brussels compromise in August 1993 which broadened the fluctuation band from +/-2.25% to +/-15% for all the participating currencies.",
+   "sources": [
+    "w-en-ems"
+   ]
+  },
+  {
+   "year": 1999,
+   "display": "1999年",
+   "event": "EMS由经济与货币联盟(EMU)取代",
+   "evidence": "The European Monetary System lasted from 1979 to 1999, when it was succeeded by the Economic and Monetary Union (EMU)",
+   "sources": [
+    "w-en-ems"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

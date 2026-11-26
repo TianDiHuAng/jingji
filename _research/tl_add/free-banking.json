@@ -1,0 +1,42 @@
+{
+ "id": "free-banking",
+ "add": [
+  {
+   "year": 1857,
+   "display": "1857年",
+   "event": "瑞典银行危机后，民众对私人银行与私人发钞机构的支持上升",
+   "evidence": "Following a bank crisis in 1857, there was a rise in popular support for private banks and private money issuers",
+   "sources": [
+    "w-en-free-banking"
+   ]
+  },
+  {
+   "year": 1864,
+   "display": "1864年",
+   "event": "瑞典议会通过新银行法，放开利率管制",
+   "evidence": "A new bank law was adopted by parliament in 1864, deregulating the interest rate.",
+   "sources": [
+    "w-en-free-banking"
+   ]
+  },
+  {
+   "year": 1881,
+   "display": "1881年",
+   "event": "瑞士联邦银行法颁布前，银行管辖权一直归各州",
+   "evidence": "Cantons retained jurisdiction over banking until the enactment of the Federal Banking Law of 1881.",
+   "sources": [
+    "w-en-free-banking"
+   ]
+  },
+  {
+   "year": 1901,
+   "display": "1901年",
+   "event": "私人货币发行被禁止",
+   "evidence": "In 1901, issuing of private money was prohibited.",
+   "sources": [
+    "w-en-free-banking"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "zambian-kwacha-reform",
+ "add": [
+  {
+   "year": 2012,
+   "display": "2012年1月23日",
+   "event": "赞比亚银行提出克瓦查重定面值的相关措施",
+   "evidence": "On January 23, 2012, the Bank of Zambia proposed certain measures in regards of the redenomination of the Zambian kwacha.",
+   "sources": [
+    "w-en-zambian-kwacha"
+   ]
+  },
+  {
+   "year": 2012,
+   "display": "2012年12月3日",
+   "event": "《货币重定面值法》（2012年第8号法）颁布",
+   "evidence": "Later, The Re-Domination of Currency Act (Act 8 of 2012) was enacted on December 3, 2012.",
+   "sources": [
+    "w-en-zambian-kwacha"
+   ]
+  },
+  {
+   "year": 2013,
+   "display": "2013年1月1日",
+   "event": "赞比亚银行宣布以此日为新旧货币转换日",
+   "evidence": "The Bank of Zambia announced January 1, 2013, as the changeover date.",
+   "sources": [
+    "w-en-zambian-kwacha"
+   ]
+  },
+  {
+   "year": 2013,
+   "display": "2013年6月30日",
+   "event": "新旧货币并行流通六个月的过渡期结束",
+   "evidence": "The old and new currencies were allowed to circulate side by side for a transition period of six months, until June 30, 2013.",
+   "sources": [
+    "w-en-zambian-kwacha"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

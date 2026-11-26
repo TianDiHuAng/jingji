@@ -1,0 +1,42 @@
+{
+ "id": "railway-mania",
+ "add": [
+  {
+   "year": 1825,
+   "display": "1825年",
+   "event": "政府废除《泡沫法》，放松对新企业与股份公司的限制",
+   "evidence": "In 1825 the government had repealed the Bubble Act",
+   "sources": [
+    "w-en-railway-mania"
+   ]
+  },
+  {
+   "year": 1830,
+   "display": "1830年",
+   "event": "利物浦—曼彻斯特铁路开通，客货运输均获成功",
+   "evidence": "the Liverpool and Manchester Railway (the L&M), opened in 1830 and proved to be successful for transporting both passengers and freight",
+   "sources": [
+    "w-en-railway-mania"
+   ]
+  },
+  {
+   "year": 1845,
+   "display": "1845年末",
+   "event": "英格兰银行加息",
+   "evidence": "in late 1845 the Bank of England increased interest rates",
+   "sources": [
+    "w-en-railway-mania"
+   ]
+  },
+  {
+   "year": 1846,
+   "display": "1846年",
+   "event": "狂热达顶峰：议会通过263项设立新铁路公司的法案，拟建线路共9500英里",
+   "evidence": "The mania reached its zenith in 1846, when 263 Acts of Parliament for setting up new railway companies were passed, with the proposed routes totalling 9,500 miles",
+   "sources": [
+    "w-en-railway-mania"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

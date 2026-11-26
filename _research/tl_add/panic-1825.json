@@ -1,0 +1,33 @@
+{
+ "id": "panic-1825",
+ "add": [
+  {
+   "year": 1797,
+   "display": "1797年2月",
+   "event": "英国通过《1797年银行限制法》",
+   "evidence": "In February 1797, Britain passed the Bank Restriction Act 1797.",
+   "sources": [
+    "w-en-panic-of-1825"
+   ]
+  },
+  {
+   "year": 1821,
+   "display": "1821年",
+   "event": "通缩之后英格兰银行恢复完全兑换",
+   "evidence": "This caused deflation but allowed the Bank to resume full convertibility in 1821.",
+   "sources": [
+    "w-en-panic-of-1825"
+   ]
+  },
+  {
+   "year": 1826,
+   "display": "1826年",
+   "event": "1825年余下时间破产显著增加，1826年近乎翻倍",
+   "evidence": "Bankruptcies increased significantly during the remainder of 1825 and nearly doubled in 1826.",
+   "sources": [
+    "w-en-panic-of-1825"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

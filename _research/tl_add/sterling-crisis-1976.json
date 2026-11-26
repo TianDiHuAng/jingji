@@ -1,0 +1,33 @@
+{
+ "id": "sterling-crisis-1976",
+ "add": [
+  {
+   "year": 1972,
+   "display": "1972年",
+   "event": "通胀周期被追溯至 Anthony Barber 的1972年预算",
+   "evidence": "Initiation of the inflationary cycle is traced to Anthony Barber's 1972 budget",
+   "sources": [
+    "w-en-1976-sterling-crisis"
+   ]
+  },
+  {
+   "year": 1976,
+   "display": "1976年6月",
+   "event": "英镑兑美元跌至历史低点",
+   "evidence": "by June 1976, the pound had reached a record low against the dollar.",
+   "sources": [
+    "w-en-1976-sterling-crisis"
+   ]
+  },
+  {
+   "year": 1979,
+   "display": "1979年5月4日",
+   "event": "IMF贷款仅动用一半，并于大选次日还清",
+   "evidence": "Only half of the loan was actually drawn by the British government and it was repaid by 4 May 1979, the day after the general election.",
+   "sources": [
+    "w-en-1976-sterling-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

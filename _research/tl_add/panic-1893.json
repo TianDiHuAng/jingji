@@ -1,0 +1,42 @@
+{
+ "id": "panic-1893",
+ "add": [
+  {
+   "year": 1890,
+   "display": "1890年",
+   "event": "《麦金莱关税法》颁布，关税最高提至50%",
+   "evidence": "The McKinley Tariff, enacted in 1890, raised tariffs as high as 50%.",
+   "sources": [
+    "w-en-panic-of-1893"
+   ]
+  },
+  {
+   "year": 1893,
+   "display": "1893年5月5日",
+   "event": "National Cordage Company 破产后，道指单日下跌24%",
+   "evidence": "on May 5, 1893, the Dow Jones Industrial Average fell 24% in a single day after the bankruptcy of National Cordage Company.",
+   "sources": [
+    "w-en-panic-of-1893"
+   ]
+  },
+  {
+   "year": 1894,
+   "display": "1894年5月—7月",
+   "event": "普尔曼大罢工使北方各州大部分铁路运输停摆",
+   "evidence": "The great Pullman Strike shut down most rail traffic in the Northern states from May to July 1894.",
+   "sources": [
+    "w-en-panic-of-1893"
+   ]
+  },
+  {
+   "year": 1895,
+   "display": "1895年2月2日",
+   "event": "财政部黄金储备降至约4200万美元，远低于法定1亿美元",
+   "evidence": "By February 2, 1895, the Treasury's gold reserves had fallen to approximately $42 million, well below the $100 million level required by the Resumption Act of 1875.",
+   "sources": [
+    "w-en-panic-of-1893"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

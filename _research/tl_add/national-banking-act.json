@@ -1,0 +1,42 @@
+{
+ "id": "national-banking-act",
+ "add": [
+  {
+   "year": 1862,
+   "display": "1862年",
+   "event": "国会通过1862年法定货币法，允许发行1.5亿美元绿背纸币",
+   "evidence": "Congress approved the Legal Tender Act of 1862, allowing the issue of $150 million in national notes known as greenbacks",
+   "sources": [
+    "w-en-national-bank-act"
+   ]
+  },
+  {
+   "year": 1864,
+   "display": "1864年",
+   "event": "1864年法案使联邦政府开始积极监管商业银行",
+   "evidence": "The 1864 act, based on a New York State law, brought the federal government into active supervision of commercial banks.",
+   "sources": [
+    "w-en-national-bank-act"
+   ]
+  },
+  {
+   "year": 1865,
+   "display": "1865年3月3日",
+   "event": "新法案对州银行券征收10%的税，自1866年7月1日生效",
+   "evidence": "A later act, passed on March 3, 1865, imposed a tax of 10 percent on the notes of state banks to take effect on July 1, 1866.",
+   "sources": [
+    "w-en-national-bank-act"
+   ]
+  },
+  {
+   "year": 1868,
+   "display": "1868年",
+   "event": "州银行数量由1863年的1466家减至247家",
+   "evidence": "the number of state banks dwindled from 1,466 in 1863 to 247 in 1868.",
+   "sources": [
+    "w-en-national-bank-act"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -25,6 +25,38 @@
       "sources": [
         "w-en-stock"
       ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年8月4日",
+      "event": "股市收出2009年以来最差的一天",
+      "sources": [
+        "w-en-august-2011-stock-markets-fall"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年8月18日",
+      "event": "德国DAX指数下跌5.8%",
+      "sources": [
+        "w-en-august-2011-stock-markets-fall"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年9月22日",
+      "event": "富时100指数下跌4.7%，为2009年3月2日以来最大单日跌幅",
+      "sources": [
+        "w-en-august-2011-stock-markets-fall"
+      ]
+    },
+    {
+      "year": 2011,
+      "display": "2011年5月2日至10月4日",
+      "event": "标普500指数进入短暂熊市，跌幅21.58%",
+      "sources": [
+        "w-en-august-2011-stock-markets-fall"
+      ]
     }
   ],
   "causal_chain": [

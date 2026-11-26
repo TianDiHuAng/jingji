@@ -1,0 +1,51 @@
+{
+ "id": "british-credit-1772",
+ "add": [
+  {
+   "year": 1769,
+   "display": "1769年11月",
+   "event": "苏格兰资本方创办艾尔银行，意图承担类似中央银行的职能",
+   "evidence": "In November 1769 the moneyed interests in Scotland founded the Ayr Bank to assume many of the responsibilities associated with a central bank",
+   "sources": [
+    "w-en-british-credit-1772"
+   ]
+  },
+  {
+   "year": 1772,
+   "display": "1772年6月",
+   "event": "Alexander Fordyce 做空东印度公司股票亏损30万英镑",
+   "evidence": "In June 1772 Alexander Fordyce lost £300,000 shorting East India Company stock",
+   "sources": [
+    "w-en-british-credit-1772"
+   ]
+  },
+  {
+   "year": 1773,
+   "display": "1773年1月第一周",
+   "event": "伦敦与阿姆斯特丹之间的贸易与金融往来陷入停顿",
+   "evidence": "In the first week of January 1773, trade and finance between London and Amsterdam came to a halt.",
+   "sources": [
+    "w-en-british-credit-1772"
+   ]
+  },
+  {
+   "year": 1773,
+   "display": "1773年3月",
+   "event": "丹麦 Kurantbanken 被国有化",
+   "evidence": "The Danish Kurantbanken was nationalized in March 1773",
+   "sources": [
+    "w-en-british-credit-1772"
+   ]
+  },
+  {
+   "year": 1775,
+   "display": "1775年8月",
+   "event": "226名合伙人中仅112人仍具偿付能力",
+   "evidence": "only 112 out of 226 partners remained solvent by August 1775.",
+   "sources": [
+    "w-en-british-credit-1772"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

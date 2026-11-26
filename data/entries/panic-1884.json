@@ -11,9 +11,25 @@
   "overview": "1884年恐慌主要源于美国铁路证券市场的紧张。1884年5月，由于铁路公司财务状况恶化与欧洲投资者撤资，纽约股市出现集中抛售；Marine National Bank 与经纪行 Grant & Ward 相继倒闭（后者与前总统格兰特关联），加剧信心冲击。与1873、1893年相比，本次危机持续时间较短、波及范围有限，部分原因是银行体系与清算安排的改善，以及黄金储备相对充足。该案例常被用来说明\"危机强度取决于资产负债表与制度缓冲\"",
   "timeline": [
     {
+      "year": 1882,
+      "display": "1882—1884年",
+      "event": "逾1.5亿美元黄金从美国流出",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
       "year": 1884,
       "display": "1884年5月",
       "event": "铁路证券抛售，Marine National Bank 与 Grant & Ward 倒闭",
+      "sources": [
+        "w-en-panic-of-1884"
+      ]
+    },
+    {
+      "year": 1884,
+      "display": "1884年",
+      "event": "John Chester Eno 从 Second National Bank 侵吞逾300万美元",
       "sources": [
         "w-en-panic-of-1884"
       ]

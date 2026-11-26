@@ -25,6 +25,38 @@
       "sources": [
         "w-en-nyc-fiscal-1975"
       ]
+    },
+    {
+      "year": 1975,
+      "display": "1975年9月9日",
+      "event": "州长凯里签署法案，给予纽约市23亿美元救命资金，足够支撑三个月",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "year": 1975,
+      "display": "1975年10月29日",
+      "event": "福特总统宣布拒绝对纽约市纾困",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "year": 1977,
+      "display": "1977年",
+      "event": "财政保守派民主党人郭德华当选市长",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
+    },
+    {
+      "year": 1985,
+      "display": "1985年",
+      "event": "纽约市不再需要市政援助公司支持，该公司投票解散",
+      "sources": [
+        "w-en-nyc-fiscal-1975"
+      ]
     }
   ],
   "causal_chain": [

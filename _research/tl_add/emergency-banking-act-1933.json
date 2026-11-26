@@ -1,0 +1,42 @@
+{
+ "id": "emergency-banking-act-1933",
+ "add": [
+  {
+   "year": 1933,
+   "display": "1933年2月14日",
+   "event": "密歇根州宣布八天银行假日",
+   "evidence": "Beginning on February 14, 1933, Michigan, an industrial state that had been hit particularly hard by the Great Depression in the United States, declared an eight-day bank holiday.",
+   "sources": [
+    "w-en-emergency-banking-act-1933"
+   ]
+  },
+  {
+   "year": 1933,
+   "display": "1933年3月13日",
+   "event": "银行重新开业，储户排队将现金存回",
+   "evidence": "When the institutions reopened for business on March 13, 1933, depositors stood in line to return their stashed cash to neighborhood banks.",
+   "sources": [
+    "w-en-emergency-banking-act-1933"
+   ]
+  },
+  {
+   "year": 1933,
+   "display": "1933年3月15日",
+   "event": "华尔街复市首日道指涨15.34%至62.10点",
+   "evidence": "On March 15, 1933, the first day of stock trading after the extended closure of Wall Street, the Dow Jones Industrial Average, gaining 8.26 points to close at 62.10; a gain of 15.34%.",
+   "sources": [
+    "w-en-emergency-banking-act-1933"
+   ]
+  },
+  {
+   "year": 1933,
+   "display": "1933年4月5日",
+   "event": "罗斯福签署第6102号行政令，禁止私人持有货币黄金",
+   "evidence": "on April 5, 1933, President Roosevelt signed Executive Order 6102 criminalizing the possession of monetary gold",
+   "sources": [
+    "w-en-emergency-banking-act-1933"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

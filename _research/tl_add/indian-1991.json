@@ -1,0 +1,42 @@
+{
+ "id": "indian-1991",
+ "add": [
+  {
+   "year": 1985,
+   "display": "1985年",
+   "event": "进口激增，印度经济问题恶化",
+   "evidence": "India's economic problems worsened in 1985 as imports swelled",
+   "sources": [
+    "w-en-indian-1991"
+   ]
+  },
+  {
+   "year": 1991,
+   "display": "1991年2月",
+   "event": "穆迪下调印度债券评级后，钱德拉·谢卡尔政府未能通过预算",
+   "evidence": "In February 1991, the Chandra Shekhar ministry could not pass the budget after Moody's downgraded India's bond ratings.",
+   "sources": [
+    "w-en-indian-1991"
+   ]
+  },
+  {
+   "year": 1991,
+   "display": "1991年6月",
+   "event": "外汇储备低企，卢比大幅贬值",
+   "evidence": "In June 1991, the rupee depreciated sharply due to low foreign exchange reserves",
+   "sources": [
+    "w-en-indian-1991"
+   ]
+  },
+  {
+   "year": 2024,
+   "display": "2024年",
+   "event": "印度储备银行自1991年以来首次将100吨黄金储备从英国运回国内",
+   "evidence": "In 2024, the RBI has returned its 100 tonnes of gold reserves to India from the UK for the first time since 1991",
+   "sources": [
+    "w-en-indian-1991"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,24 @@
+{
+ "id": "banking-act-1935",
+ "add": [
+  {
+   "year": 1934,
+   "display": "1934年11月15日",
+   "event": "埃克尔斯出任联邦储备委员会主席",
+   "evidence": "Marriner Stoddard Eccles became the governor of the Federal Reserve Board on November 15, 1934.",
+   "sources": [
+    "w-en-banking-act-1935"
+   ]
+  },
+  {
+   "year": 1935,
+   "display": "1935年2月5日",
+   "event": "\"政府银行法案\"提交众议院银行与货币委员会",
+   "evidence": "On February 5, 1935, the \"Administration banking bill\", as it was initially titled, was given to the House Committee on Banking and Currency.",
+   "sources": [
+    "w-en-banking-act-1935"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

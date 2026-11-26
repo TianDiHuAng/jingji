@@ -1,0 +1,51 @@
+{
+ "id": "great-recession-russia",
+ "add": [
+  {
+   "year": 2008,
+   "display": "2008年7月24日",
+   "event": "普京批评其CEO后，Mechel 股价暴跌近38%",
+   "evidence": "On 24 July 2008, Mechel's stock plunged by almost 38 percent after Russia's Prime Minister Vladimir Putin criticized its CEO Igor Zyuzin",
+   "sources": [
+    "w-en-great-recession-in-russia"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年9月",
+   "event": "RTS 股指暴跌近54%",
+   "evidence": "By September 2008, the RTS stock index plunged almost 54%",
+   "sources": [
+    "w-en-great-recession-in-russia"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年12月8日",
+   "event": "标普下调俄罗斯外币信用评级至BBB（长期）与A-3",
+   "evidence": "On 8 December 2008, Standard & Poor's additionally lowered Russia's foreign currency credit ratings to BBB (long term) and A-3.",
+   "sources": [
+    "w-en-great-recession-in-russia"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2008年7月—2009年1月",
+   "event": "外汇储备从峰值减少2100亿美元至3860亿美元",
+   "evidence": "From July 2008 – January 2009, Russia's foreign exchange reserves (FXR) fell by $210 billion from their peak to $386 billion",
+   "sources": [
+    "w-en-great-recession-in-russia"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年第三季度",
+   "event": "经历两个季度创纪录负增长后，经济走出衰退",
+   "evidence": "Russia's economy emerged from recession in the third quarter of 2009 after two-quarters of record negative growth.",
+   "sources": [
+    "w-en-great-recession-in-russia"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,51 @@
+{
+ "id": "edict-maximum-prices",
+ "add": [
+  {
+   "year": 301,
+   "display": "301年",
+   "event": "同年戴克里先还颁布货币法令，试图改革税制、稳定币制",
+   "evidence": "in 301 around the same time as the Edict on Prices, Diocletian issued Currency Decrees, which attempted to reform the system of taxation and to stabilize the coinage",
+   "sources": [
+    "w-en-edict-maximum-prices"
+   ]
+  },
+  {
+   "year": 302,
+   "display": "302年",
+   "event": "敕令大致可认为已在罗马为人所知",
+   "evidence": "The edict can tentatively be said to have been known in Rome in 302",
+   "sources": [
+    "w-en-edict-maximum-prices"
+   ]
+  },
+  {
+   "year": 305,
+   "display": "305年",
+   "event": "至戴克里先统治结束时，敕令基本被无视，可能已被正式废止",
+   "evidence": "By the end of Diocletian's reign in 305, it was mostly ignored and may have been formally abrogated.",
+   "sources": [
+    "w-en-edict-maximum-prices"
+   ]
+  },
+  {
+   "year": 1709,
+   "display": "1709年",
+   "event": "英国驻士麦那领事 William Sherard 首次发现并抄录斯特拉托尼基亚的敕令铭文",
+   "evidence": "was the first to be discovered and copied, by William Sherard, the English consul at Smyrna, in 1709.",
+   "sources": [
+    "w-en-edict-maximum-prices"
+   ]
+  },
+  {
+   "year": 1826,
+   "display": "1826年",
+   "event": "William Martin Leake 首次尝试整理敕令的合成文本",
+   "evidence": "The first attempt at a composite text was made in 1826 by William Martin Leake",
+   "sources": [
+    "w-en-edict-maximum-prices"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

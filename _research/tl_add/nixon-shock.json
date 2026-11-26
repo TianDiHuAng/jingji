@@ -1,0 +1,42 @@
+{
+ "id": "nixon-shock",
+ "add": [
+  {
+   "year": 1968,
+   "display": "1968年3月",
+   "event": "伦敦黄金总库崩溃",
+   "evidence": "In March 1968, the London Gold Pool collapsed.",
+   "sources": [
+    "w-en-nixon-shock"
+   ]
+  },
+  {
+   "year": 1971,
+   "display": "1971年5月",
+   "event": "西德退出布雷顿森林体系",
+   "evidence": "In May 1971, West Germany left the Bretton Woods system",
+   "sources": [
+    "w-en-nixon-shock"
+   ]
+  },
+  {
+   "year": 1971,
+   "display": "1971年8月9日",
+   "event": "美元兑欧洲货币走弱，瑞士退出布雷顿森林体系",
+   "evidence": "On August 9, 1971, as the dollar dropped in value against European currencies, Switzerland left the Bretton Woods system.",
+   "sources": [
+    "w-en-nixon-shock"
+   ]
+  },
+  {
+   "year": 1971,
+   "display": "1971年12月",
+   "event": "十国集团代表在华盛顿史密森学会举行会议",
+   "evidence": "In December 1971, representatives of the Group of Ten met at the Smithsonian Institution in Washington, D.C.",
+   "sources": [
+    "w-en-nixon-shock"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

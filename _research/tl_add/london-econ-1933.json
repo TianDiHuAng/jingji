@@ -1,0 +1,24 @@
+{
+ "id": "london-econ-1933",
+ "add": [
+  {
+   "year": 1931,
+   "display": "1931年",
+   "event": "美国总统胡佛呼吁召开会议，讨论降低关税并扭转通缩",
+   "evidence": "US President Herbert Hoover in 1931 called for a conference to decide how to reduce tariffs and also revive prices by reversing the deflation associated with the Depression.",
+   "sources": [
+    "w-en-london-economic-conference"
+   ]
+  },
+  {
+   "year": 1932,
+   "display": "1932年",
+   "event": "六个主要国家代表在日内瓦起草会议议程",
+   "evidence": "The agenda for the Conference was drafted by representatives of six major nations who met in Geneva in 1932.",
+   "sources": [
+    "w-en-london-economic-conference"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

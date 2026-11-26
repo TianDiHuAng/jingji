@@ -25,6 +25,46 @@
       "sources": [
         "w-en-imf"
       ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年",
+      "event": "格里夫纳兑美元下跌38%",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年10月",
+      "event": "乌克兰国家银行提前实施取款暂停令",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年",
+      "event": "乌克兰经济萎缩15%",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年9月17日",
+      "event": "世界银行批准向乌克兰贷款4亿美元",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
+    },
+    {
+      "year": 2010,
+      "display": "2010年第一季度",
+      "event": "乌克兰经济复苏",
+      "sources": [
+        "w-en-ukrainian-crisis-2008"
+      ]
     }
   ],
   "causal_chain": [

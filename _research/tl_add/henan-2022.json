@@ -1,0 +1,42 @@
+{
+ "id": "henan-2022",
+ "add": [
+  {
+   "year": 2018,
+   "display": "2018年8月7日",
+   "event": "许昌银保监分局警告许昌农商行并罚款20万元",
+   "evidence": "On 7 August 2018, the Xuchang China Banking and Insurance Regulatory Commission (Xuchang CBIRC) issued a warning to Xuchang Rural Commercial Bank and fined it 200,000 yuan.",
+   "sources": [
+    "w-en-henan-2022"
+   ]
+  },
+  {
+   "year": 2020,
+   "display": "2020年7月",
+   "event": "开封新东方村镇银行相关信息在微信群传播，引发挤兑",
+   "evidence": "As early as 14-15 July 2020, Zhu, a resident of Xiangfu district, Kaifeng, spread related information regarding New Oriental Country Bank of Kaifeng in a WeChat group, causing a bank run.",
+   "sources": [
+    "w-en-henan-2022"
+   ]
+  },
+  {
+   "year": 2022,
+   "display": "2022年3月",
+   "event": "银行主要股东Sun Zhenfu被政府以“严重金融犯罪”逮捕",
+   "evidence": "In March 2022, Sun Zhenfu, the main stockholder of the banks, was arrested by the government",
+   "sources": [
+    "w-en-henan-2022"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年1月9日",
+   "event": "涉事银行开始为50万元以上储户预约登记",
+   "evidence": "On January 9, 2023, it was reported that the bank involved began to make an appointment to register depositors with more than 500,000 yuan.",
+   "sources": [
+    "w-en-henan-2022"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

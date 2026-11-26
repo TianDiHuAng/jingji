@@ -25,6 +25,38 @@
       "sources": [
         "w-en-egypt-2023"
       ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年7月",
+      "event": "埃及年通胀率创36.5%的纪录",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年10月21日",
+      "event": "标普下调埃及外币及本币主权评级",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年3月6日",
+      "event": "埃及央行在货币政策委员会特别会议上加息600个基点",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年",
+      "event": "通过大规模外国投资、多边援助与全面经济改革，危机基本化解",
+      "sources": [
+        "w-en-egypt-2023"
+      ]
     }
   ],
   "causal_chain": [

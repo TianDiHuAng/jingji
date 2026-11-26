@@ -1,0 +1,51 @@
+{
+ "id": "crypto-bubble",
+ "add": [
+  {
+   "year": 2013,
+   "display": "2013年11月",
+   "event": "比特币价格升至1127.45美元",
+   "evidence": "In November 2013, Bitcoin's price rose to US$1,127.45.",
+   "sources": [
+    "w-en-crypto-bubble"
+   ]
+  },
+  {
+   "year": 2015,
+   "display": "2015年1月",
+   "event": "比特币价格逐步回落，于172.15美元见底",
+   "evidence": "It then gradually declined, bottoming out at US$172.15 in January 2015.",
+   "sources": [
+    "w-en-crypto-bubble"
+   ]
+  },
+  {
+   "year": 2018,
+   "display": "2018年9月",
+   "event": "加密货币较2018年1月峰值暴跌80%，跌幅超过互联网泡沫的78%",
+   "evidence": "By September 2018, cryptocurrencies collapsed 80% from their peak in January 2018, making the 2018 cryptocurrency crash worse than the dot-com bubble's 78% collapse.",
+   "sources": [
+    "w-en-crypto-bubble"
+   ]
+  },
+  {
+   "year": 2025,
+   "display": "2025年10月",
+   "event": "比特币创历史新高，达125835.92美元",
+   "evidence": "reaching a new all-time high in October of 2025, when it was valued at US$125,835.92.",
+   "sources": [
+    "w-en-crypto-bubble"
+   ]
+  },
+  {
+   "year": 2026,
+   "display": "2026年2月",
+   "event": "比特币价格跌至低于2024年时的水平",
+   "evidence": "By February 2026 the price of Bitcoin was lower than it had been in 2024.",
+   "sources": [
+    "w-en-crypto-bubble"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

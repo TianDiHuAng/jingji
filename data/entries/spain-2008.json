@@ -19,9 +19,49 @@
       ]
     },
     {
+      "year": 2008,
+      "display": "2008年第三季度",
+      "event": "国内生产总值15年来首次收缩",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年3月底",
+      "event": "失业率达17.4%",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
       "year": 2012,
       "display": "2012年",
       "event": "西班牙无力救助本国金融部门，成为欧元区危机的晚参与者（同上）",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年6月9日",
+      "event": "欧元区财长同意向西班牙银行提供至多1000亿欧元救助贷款",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年7月26日",
+      "event": "德拉吉称欧洲央行将不惜一切代价保卫欧元，成为西班牙主权债务危机转折点",
+      "sources": [
+        "w-en-spain-2008"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年11月28日",
+      "event": "欧委会批准重组 Bankia 等三家大银行并出售 Banco de Valencia",
       "sources": [
         "w-en-spain-2008"
       ]

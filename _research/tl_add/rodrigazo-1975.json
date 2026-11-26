@@ -1,0 +1,33 @@
+{
+ "id": "rodrigazo-1975",
+ "add": [
+  {
+   "year": 1975,
+   "display": "1975年7月21日",
+   "event": "经济部长 Celestino Rodrigo 与副手 Ricardo Zinn 一同辞职",
+   "evidence": "On 21 July 1975 he resigned, along with his deputy Ricardo Zinn.",
+   "sources": [
+    "w-en-rodrigazo-1975"
+   ]
+  },
+  {
+   "year": 1975,
+   "display": "1975年8月11日",
+   "event": "Antonio Cafiero 出任经济部长，但未能扭转经济颓势",
+   "evidence": "On 11 August 1975, Antonio Cafiero assumed office as minister, but failed to alter the catastrophic course of the economy",
+   "sources": [
+    "w-en-rodrigazo-1975"
+   ]
+  },
+  {
+   "year": 1976,
+   "display": "1976年",
+   "event": "通胀率由1974年24.4%升至1975年182.4%、1976年444%",
+   "evidence": "the inflation rate rose from 24.4% in 1974 to 182.4% in 1975 and 444% in 1976",
+   "sources": [
+    "w-en-rodrigazo-1975"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,24 @@
+{
+ "id": "kipper-wipper-1618",
+ "add": [
+  {
+   "year": 1620,
+   "display": "约1620—1623年",
+   "event": "货币成色贬损最为严重",
+   "evidence": "The most severe debasing occurred around 1620–1623.",
+   "sources": [
+    "w-en-kipper-wipper-1618"
+   ]
+  },
+  {
+   "year": 1620,
+   "display": "1620—1623年",
+   "event": "德意志王国发生饥荒，常被归因于此次货币乱象",
+   "evidence": "The years 1620–1623 saw famine in the Kingdom of Germany, often attributed to Kipper und Wipper",
+   "sources": [
+    "w-en-kipper-wipper-1618"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

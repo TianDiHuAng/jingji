@@ -1,0 +1,42 @@
+{
+ "id": "recession-1920-1921",
+ "add": [
+  {
+   "year": 1919,
+   "display": "1919年11月3日",
+   "event": "道琼斯工业平均指数在衰退开始前两个月见顶于119.6点",
+   "evidence": "The Dow Jones Industrial Average reached a peak of 119.6 on November 3, 1919, two months before the recession began.",
+   "sources": [
+    "w-en-recession-1920-1921"
+   ]
+  },
+  {
+   "year": 1920,
+   "display": "1920年6月",
+   "event": "利率上调至7%",
+   "evidence": "A month later it was raised to 6%, and in June 1920 it was raised to 7%",
+   "sources": [
+    "w-en-recession-1920-1921"
+   ]
+  },
+  {
+   "year": 1921,
+   "display": "1921年8月24日",
+   "event": "股市见底于63.9点，跌幅47%",
+   "evidence": "The market bottomed on August 24, 1921, at 63.9, a decline of 47%",
+   "sources": [
+    "w-en-recession-1920-1921"
+   ]
+  },
+  {
+   "year": 1922,
+   "display": "1922年10月",
+   "event": "工业生产恢复至峰值水平",
+   "evidence": "Industrial production returned to its peak levels by October 1922.",
+   "sources": [
+    "w-en-recession-1920-1921"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}
