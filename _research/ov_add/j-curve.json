@@ -1,0 +1,21 @@
+{
+ "id": "j-curve",
+ "sentences": [
+  {
+   "text": "贬值后进口总值会立即上升，而出口大体不变，部分原因是既有贸易合同必须履行。",
+   "evidence": "Immediately following the depreciation or devaluation of the currency, the total value of imports will increase and exports remain largely unchanged due in part to pre-existing trade contracts that have to be honored.",
+   "source": "w-en-j-curve"
+  },
+  {
+   "text": "同理，若本币升值，则会出现倒J形曲线。",
+   "evidence": "Likewise, if there is a currency revaluation or appreciation the same reasoning may be applied and will lead to an inverted J curve.",
+   "source": "w-en-j-curve"
+  },
+  {
+   "text": "对J曲线的实证研究有时关注汇率变动对贸易比率（出口除以进口）的影响，而非贸易差额本身。",
+   "evidence": "Empirical investigations of the J curve have sometimes focused on the effect of exchange rate changes on the trade ratio, i.e. exports divided by imports",
+   "source": "w-en-j-curve"
+  }
+ ],
+ "skip_reason": ""
+}

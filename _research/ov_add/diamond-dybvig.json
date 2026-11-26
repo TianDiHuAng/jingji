@@ -1,0 +1,21 @@
+{
+ "id": "diamond-dybvig",
+ "sentences": [
+  {
+   "text": "Diamond 与 Dybvig 因该模型与 Ben Bernanke 共获2022年诺贝尔经济学奖。",
+   "evidence": "Douglas Diamond and Philip H. Dybvig, along with Ben Bernanke, were the recipients of the 2022 Nobel Prize in Economics",
+   "source": "w-en-diamond-dybvig"
+  },
+  {
+   "text": "该模型发表于1983年论文《Bank Runs, Deposit Insurance, and Liquidity》。",
+   "evidence": "The model was published in the 1983 paper \"Bank Runs, Deposit Insurance, and Liquidity\"",
+   "source": "w-en-diamond-dybvig"
+  },
+  {
+   "text": "类似的基本概念曾是19世纪英国银行学派金融危机理论的一部分。",
+   "evidence": "A similar basic concept had formed part of the nineteenth century British Banking School theory of financial crises.",
+   "source": "w-en-diamond-dybvig"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "central-bank",
+ "sentences": [
+  {
+   "text": "与商业银行不同，中央银行垄断着扩大基础货币的权力。",
+   "evidence": "In contrast to a commercial bank, a central bank possesses a monopoly on increasing the monetary base.",
+   "source": "w-en-central-bank"
+  },
+  {
+   "text": "一战后，英美两国央行领导人蒙塔古·诺曼与本杰明·斯特朗就中央银行的定义达成一致。",
+   "evidence": "In the aftermath of World War I, leading central bankers of the United Kingdom and the United States respectively, Montagu Norman and Benjamin Strong, agreed on a definition of central banks",
+   "source": "w-en-central-bank"
+  },
+  {
+   "text": "中央银行作为独立于其他银行的类别是逐步形成的，直到20世纪才完全成形。",
+   "evidence": "The notion of central banks as a separate category from other banks has emerged gradually, and only fully coalesced in the 20th century.",
+   "source": "w-en-central-bank"
+  }
+ ],
+ "skip_reason": ""
+}

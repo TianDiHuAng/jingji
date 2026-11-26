@@ -1,0 +1,26 @@
+{
+ "id": "idb",
+ "sentences": [
+  {
+   "text": "IDB 于1959年4月8日正式创立，当日美洲国家组织起草了设立该行的协定条款。",
+   "evidence": "The Bank was formally created on April 8, 1959, when the Organization of American States drafted the Articles of Agreement establishing the Inter-American Development Bank.",
+   "source": "w-en-idb"
+  },
+  {
+   "text": "IDB 由理事会治理，理事会由48个成员国的代表组成。",
+   "evidence": "The IDB is governed by its Board of Governors, composed of representatives of the Bank's 48 member countries.",
+   "source": "w-en-idb"
+  },
+  {
+   "text": "美国持有该行30%的股份，拉美及加勒比国家合计持有50.02%。",
+   "evidence": "The United States holds 30 percent of the Bank's shares, while the countries of Latin America and the Caribbean combined hold 50.02 percent",
+   "source": "w-en-idb"
+  },
+  {
+   "text": "IDB 享有优先债权人地位，借款国须先于商业银行等其他债权人偿还其贷款。",
+   "evidence": "has preferred creditor status, meaning that borrowers will repay loans to the IDB before repaying other obligations to other lenders such as commercial banks",
+   "source": "w-en-idb"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "business-cycle",
+ "sentences": [
+  {
+   "text": "最简单的定义把衰退界定为GDP连续两个季度负增长。",
+   "evidence": "The simplest defines recessions as two consecutive quarters of negative GDP growth.",
+   "source": "w-en-business-cycle"
+  },
+  {
+   "text": "扩张与衰退的周期长度通常约为2至10年。",
+   "evidence": "Typically, their periodicity ranges from about 2 to 10 years.",
+   "source": "w-en-business-cycle"
+  },
+  {
+   "text": "西斯蒙第1819年的《政治经济学新原理》首次系统阐述了与经济均衡理论相对立的经济危机理论。",
+   "evidence": "The first systematic exposition of economic crises, in opposition to the existing theory of economic equilibrium, was the 1819 Nouveaux Principes d'économie politique by Jean Charles Léonard de Sismondi.",
+   "source": "w-en-business-cycle"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,26 @@
+{
+ "id": "bank-of-england",
+ "sentences": [
+  {
+   "text": "英格兰银行是世界第二古老的中央银行，仅次于瑞典央行（1668年）。",
+   "evidence": "it is the world's second oldest central bank, after Sweden's (1668)",
+   "source": "w-en-bank-of-england"
+  },
+  {
+   "text": "该行自1694年获特许起由股东私有，至1946年被艾德礼政府国有化。",
+   "evidence": "The bank was privately owned by stockholders from its chartering in 1694 until its nationalisation in 1946 by the Attlee ministry.",
+   "source": "w-en-bank-of-england"
+  },
+  {
+   "text": "1998年该行成为独立的公共机构。",
+   "evidence": "In 1998 it became an independent public organisation",
+   "source": "w-en-bank-of-england"
+  },
+  {
+   "text": "截至2024年，其通胀目标为2%。",
+   "evidence": "As of 2024 the inflation target is 2%",
+   "source": "w-en-bank-of-england"
+  }
+ ],
+ "skip_reason": ""
+}

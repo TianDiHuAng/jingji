@@ -1,0 +1,21 @@
+{
+ "id": "bullion",
+ "sentences": [
+  {
+   "text": "该词源自盎格鲁-诺曼语中指精炼金属的熔炼所，更早源自法语bouillon（沸腾）。",
+   "evidence": "It comes from the Anglo-Norman term for a melting-house where metal was refined, and earlier from French bouillon, \"boiling\".",
+   "source": "w-en-bullion"
+  },
+  {
+   "text": "在欧盟，金条纯度至少99.5%、金币至少90%方可称为“bullion”，在税收上按投资黄金对待。",
+   "evidence": "the minimum purity for gold to be referred to as \"bullion\", which is treated as investment gold with regard to taxation, is 99.5% for gold bullion bars and 90% for bullion coins",
+   "source": "w-en-bullion"
+  },
+  {
+   "text": "伦敦金银市场协会规定合格交割金条最低成色为99.5%，银条为99.9%。",
+   "evidence": "The minimum acceptable fineness of the Good Delivery Bars is 99.5% for gold bars and 99.9% for silver bars.",
+   "source": "w-en-bullion"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "arthur-andersen",
+ "sentences": [
+  {
+   "text": "随着其为安然和世通所做的可疑会计处理曝光，该所于2002年年中倒闭。",
+   "evidence": "The firm collapsed by mid-2002, as details of its questionable accounting practices for energy company Enron and telecommunications company WorldCom were revealed",
+   "source": "w-en-arthur-andersen"
+  },
+  {
+   "text": "相关丑闻是2002年《萨班斯-奥克斯利法案》出台的因素之一。",
+   "evidence": "The scandals were a factor in the enactment of the Sarbanes–Oxley Act of 2002.",
+   "source": "w-en-arthur-andersen"
+  },
+  {
+   "text": "1913年，安达信与 Clarence DeLany 创办了 Andersen, DeLany & Co. 会计师事务所。",
+   "evidence": "In 1913, Andersen and Clarence DeLany founded an accounting firm as Andersen, DeLany & Co.",
+   "source": "w-en-arthur-andersen"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,26 @@
+{
+ "id": "freddie-mac",
+ "sentences": [
+  {
+   "text": "2008年9月7日，FHFA 局长 James B. Lockhart III 宣布将房利美与房地美置于 FHFA 的托管之下。",
+   "evidence": "On September 7, 2008, Federal Housing Finance Agency (FHFA) director James B. Lockhart III announced he had put Fannie Mae and Freddie Mac under the conservatorship of the FHFA",
+   "source": "w-en-freddie-mac"
+  },
+  {
+   "text": "房地美在2023年《财富》500强中排第45位，管理资产3.208万亿美元。",
+   "evidence": "Freddie Mac is ranked No. 45 on the 2023 Fortune 500 list of the largest United States corporations by total revenue, and has $3.208 trillion in assets under management.",
+   "source": "w-en-freddie-mac"
+  },
+  {
+   "text": "国会通过1970年《紧急住房融资法》将房地美设立为私营公司。",
+   "evidence": "Congress then established the Federal Home Loan Mortgage Corporation (Freddie Mac) as a private corporation through the Emergency Home Finance Act of 1970",
+   "source": "w-en-freddie-mac"
+  },
+  {
+   "text": "房地美最初由12家联邦住房贷款银行拥有，受联邦住房贷款银行委员会管辖。",
+   "evidence": "Initially, Freddie Mac was owned by the twelve Federal Home Loan Banks and governed by the Federal Home Loan Bank Board.",
+   "source": "w-en-freddie-mac"
+  }
+ ],
+ "skip_reason": ""
+}

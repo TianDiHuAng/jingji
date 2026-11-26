@@ -1,0 +1,26 @@
+{
+ "id": "aiib",
+ "sentences": [
+  {
+   "text": "亚投行总部位于中国北京，目前有111个成员。",
+   "evidence": "Headquartered in Beijing, China, the bank currently has 111 members",
+   "source": "w-en-aiib"
+  },
+  {
+   "text": "该行在协定于2015年12月25日生效后开始运营。",
+   "evidence": "The bank started operation after the agreement entered into force on 25 December 2015",
+   "source": "w-en-aiib"
+  },
+  {
+   "text": "该行初始资本为1000亿美元。",
+   "evidence": "The starting capital of the bank was US$100 billion",
+   "source": "w-en-aiib"
+  },
+  {
+   "text": "该行由中国于2013年首次提出，2014年10月在北京举行仪式启动。",
+   "evidence": "The bank was first proposed by China in 2013 and the initiative was launched at a ceremony in Beijing in October 2014.",
+   "source": "w-en-aiib"
+  }
+ ],
+ "skip_reason": ""
+}

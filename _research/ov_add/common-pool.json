@@ -1,0 +1,16 @@
+{
+ "id": "common-pool",
+ "sentences": [
+  {
+   "text": "公共池资源通常由界定存量的核心资源（如水或鱼）和数量有限、可提取的边际单位（流量）构成。",
+   "evidence": "A common-pool resource typically consists of a core resource (e.g., water or fish), which defines the stock variable, while providing a limited quantity of extractable fringe units, which defines the flow variable.",
+   "source": "w-en-common-pool"
+  },
+  {
+   "text": "加州地表水需求巨大而供给有限，且州一级不管理地下水盆地，公共池问题因此加剧。",
+   "evidence": "In California, where there is a huge demand for surface water but supplies are limited, common pool problems are exacerbated because the state does not manage groundwater basins at the state level.",
+   "source": "w-en-common-pool"
+  }
+ ],
+ "skip_reason": ""
+}

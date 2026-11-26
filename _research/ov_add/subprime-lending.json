@@ -1,0 +1,21 @@
+{
+ "id": "subprime-lending",
+ "sentences": [
+  {
+   "text": "次级贷款也被称为近优级、非优级或“第二次机会”贷款。",
+   "evidence": "subprime lending (also referred to as near-prime, subpar, non-prime, and second-chance lending)",
+   "source": "w-en-subprime-lending"
+  },
+  {
+   "text": "支持者认为次级贷款把信贷扩展给原本无法进入信贷市场的人。",
+   "evidence": "Proponents of subprime lending maintain that the practice extends credit to people who would otherwise not have access to the credit market.",
+   "source": "w-en-subprime-lending"
+  },
+  {
+   "text": "“次级”指特定借款人的信用质量：其信用记录较弱、违约风险高于优质借款人。",
+   "evidence": "The term subprime refers to the credit quality of particular borrowers, who have weakened credit histories and a greater risk of loan default than prime borrowers.",
+   "source": "w-en-subprime-lending"
+  }
+ ],
+ "skip_reason": ""
+}

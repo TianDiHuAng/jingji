@@ -1,0 +1,26 @@
+{
+ "id": "adb",
+ "sentences": [
+  {
+   "text": "ADB 成立于1966年12月19日。",
+   "evidence": "The bank was established on 19 December 1966",
+   "source": "w-en-adb"
+  },
+  {
+   "text": "2024年9月，ADB 成员数达到69个。",
+   "evidence": "membership reached 69 in September 2024",
+   "source": "w-en-adb"
+  },
+  {
+   "text": "ADB 采用加权投票制，票数按成员认缴资本比例分配。",
+   "evidence": "uses a weighted voting system, in which votes are distributed in proportion to members' capital subscriptions",
+   "source": "w-en-adb"
+  },
+  {
+   "text": "截至2020年12月31日，日本和美国各持有15.571%的股份，并列最大股东。",
+   "evidence": "As of 31 December 2020, Japan and the United States each holds the largest proportion of shares at 15.571%.",
+   "source": "w-en-adb"
+  }
+ ],
+ "skip_reason": ""
+}

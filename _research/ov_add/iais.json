@@ -1,0 +1,21 @@
+{
+ "id": "iais",
+ "sentences": [
+  {
+   "text": "IAIS 成立于1994年，是依瑞士民法设立的非营利社团（verein）。",
+   "evidence": "The IAIS was established in 1994 and operates as a verein, a type of non-profit organisation under Swiss Civil Law.",
+   "source": "w-en-iais"
+  },
+  {
+   "text": "IAIS 由国际清算银行（BIS）托管。",
+   "evidence": "The IAIS is hosted by the Bank for International Settlements (BIS).",
+   "source": "w-en-iais"
+  },
+  {
+   "text": "其委员会体系由执行委员会领导，执委会38名成员来自世界不同地区。",
+   "evidence": "led by an Executive Committee whose 38 members come from different regions of the world",
+   "source": "w-en-iais"
+  }
+ ],
+ "skip_reason": ""
+}

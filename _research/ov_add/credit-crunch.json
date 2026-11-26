@@ -1,0 +1,21 @@
+{
+ "id": "credit-crunch",
+ "sentences": [
+  {
+   "text": "信贷紧缩通常是信贷可得性的下降，且与官方利率上升无关。",
+   "evidence": "A credit crunch generally involves a reduction in the availability of credit independent of a rise in official interest rates.",
+   "source": "w-en-credit-crunch"
+  },
+  {
+   "text": "信贷紧缩常伴随放贷者与投资者“逃向优质资产”，往往以中小企业受损为代价。",
+   "evidence": "Many times, a credit crunch is accompanied by a flight to quality by lenders and investors, as they seek less risky investments, often at the expense of small to medium-sized enterprises.",
+   "source": "w-en-credit-crunch"
+  },
+  {
+   "text": "其常见起因是一段持续的草率、不当放贷，在贷款变坏时给放贷机构和债权投资者造成损失。",
+   "evidence": "A credit crunch is often caused by a sustained period of careless and inappropriate lending which results in losses for lending institutions and investors in debt when the loans turn sour",
+   "source": "w-en-credit-crunch"
+  }
+ ],
+ "skip_reason": ""
+}

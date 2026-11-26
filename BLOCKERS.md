@@ -227,3 +227,6 @@
 
 ## 维基缓存放错页面·第二批（2026-11-26，已解决）
 - jamaica-accords、smithsonian-agreement → 缓存为 Nixon shock；yemen-currency-divergence → Currency crisis；swedish-crisis-1990s → 1990s Finnish banking crisis；us-state-defaults-1840s → Panic of 1837。需找专题页后重抓。
+
+## 维基缓存放错页面·第三批（2026-11-26，待处理）
+- structural-adjustment → 缓存为 Debt crisis。

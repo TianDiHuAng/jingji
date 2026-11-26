@@ -1,0 +1,21 @@
+{
+ "id": "actuarial",
+ "sentences": [
+  {
+   "text": "精算学在17世纪后期随着丧葬、人寿保险与年金等长期保险需求增加而成为正式的数学学科。",
+   "evidence": "Actuarial science became a formal mathematical discipline in the late 17th century with the increased demand for long-term insurance coverage such as burial, life insurance, and annuities.",
+   "source": "w-en-actuarial"
+  },
+  {
+   "text": "自1980年代起，高速计算机的普及以及随机精算模型与现代金融理论的结合，使精算学经历了革命性变化。",
+   "evidence": "The science has gone through revolutionary changes since the 1980s due to the proliferation of high speed computers and the union of stochastic actuarial models with modern financial theory.",
+   "source": "w-en-actuarial"
+  },
+  {
+   "text": "在许多国家，精算师须通过一系列以概率与预测分析等领域为重点的严格职业考试来证明其能力。",
+   "evidence": "In many countries, actuaries must demonstrate their competence by passing a series of rigorous professional examinations focused in fields such as probability and predictive analysis.",
+   "source": "w-en-actuarial"
+  }
+ ],
+ "skip_reason": ""
+}

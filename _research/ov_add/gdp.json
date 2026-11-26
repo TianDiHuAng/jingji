@@ -1,0 +1,26 @@
+{
+ "id": "gdp",
+ "sentences": [
+  {
+   "text": "现代 GDP 概念由 Simon Kuznets 为1934年美国国会报告首创，他曾警告不宜将其用作福利度量。",
+   "evidence": "The modern concept of GDP was first developed by Simon Kuznets for a 1934 U.S. Congress report, where he warned against its use as a measure of welfare",
+   "source": "w-en-gdp"
+  },
+  {
+   "text": "1944年布雷顿森林会议后，GDP 成为衡量一国经济的主要工具。",
+   "evidence": "After the Bretton Woods Conference in 1944, GDP became the main tool for measuring a country",
+   "source": "w-en-gdp"
+  },
+  {
+   "text": "美国于1991年由 GNP 转为 GDP。",
+   "evidence": "The switch from GNP to GDP in the United States occurred in 1991.",
+   "source": "w-en-gdp"
+  },
+  {
+   "text": "GDP 因遗漏资源开采、环境影响和无偿家务劳动等关键外部性而受到批评。",
+   "evidence": "GDP has been criticized for leaving out key externalities, such as resource extraction, environmental impact and unpaid domestic work.",
+   "source": "w-en-gdp"
+  }
+ ],
+ "skip_reason": ""
+}

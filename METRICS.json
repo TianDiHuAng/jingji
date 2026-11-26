@@ -2912,6 +2912,19 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "修复第二批5个缓存放错页面的条目（改用已有专题页来源重抓），补14条时间线；史密森协定1973条改用专题页来源；timeline 1012→1026",
       "site_pages": 659
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 746,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "为29个概述最短的概念/机构条目补96句概述（均附原文摘录核对）；structural-adjustment 缓存放错页面跳过；跨度事件year统一取起点年（修正24条）",
+      "site_pages": 659
     }
   ],
   "sources_total": 746

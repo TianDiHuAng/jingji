@@ -1,0 +1,21 @@
+{
+ "id": "marshall-lerner",
+ "sentences": [
+  {
+   "text": "该条件以阿尔弗雷德·马歇尔和阿巴·勒纳命名。",
+   "evidence": "The Marshall–Lerner condition (after Alfred Marshall and Abba P. Lerner)",
+   "source": "w-en-marshall-lerner"
+  },
+  {
+   "text": "其含义是：贬值对贸易数量的间接效应将超过进口价格上升、出口价格下降的直接效应。",
+   "evidence": "the Marshall-Lerner condition implies that the indirect effect on the quantity of trade will exceed the direct effect of the country having to pay a higher price for its imports and receive a lower price for its exports",
+   "source": "w-en-marshall-lerner"
+  },
+  {
+   "text": "时间越短需求越缺乏弹性，时间越长消费者对价格变化反应越大。",
+   "evidence": "the shorter the time frame, the less elastic is demand.  In the long run, consumers react more to changed prices: demand is more elastic the longer the time frame.",
+   "source": "w-en-marshall-lerner"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,26 @@
+{
+ "id": "afdb",
+ "sentences": [
+  {
+   "text": "AfDB 于1964年由非洲联盟的前身非洲统一组织创立。",
+   "evidence": "The AfDB was founded in 1964 by the Organisation of African Unity, which is the predecessor of the African Union.",
+   "source": "w-en-afdb"
+  },
+  {
+   "text": "AfDB 集团由非洲开发银行、非洲开发基金和尼日利亚信托基金三个实体组成。",
+   "evidence": "The AfDB comprises three entities: The African Development Bank, the African Development Fund and the Nigeria Trust Fund.",
+   "source": "w-en-afdb"
+  },
+  {
+   "text": "2003年2月至2014年9月，该行在突尼斯的临时搬迁机构运作。",
+   "evidence": "From February 2003 to September 2014, the bank operated from its Temporary Relocation Agency in Tunis, Tunisia",
+   "source": "w-en-afdb"
+  },
+  {
+   "text": "自成立以来，AfDB 共资助2885项业务，总额475亿美元。",
+   "evidence": "Since its founding, AfDB has financed 2,885 operations, for a total of $47.5 billion.",
+   "source": "w-en-afdb"
+  }
+ ],
+ "skip_reason": ""
+}

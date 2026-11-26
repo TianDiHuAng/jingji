@@ -1,0 +1,21 @@
+{
+ "id": "externality",
+ "sentences": [
+  {
+   "text": "外部性概念最早由 Alfred Marshall 在1890年代提出。",
+   "evidence": "The concept of externality was first developed by Alfred Marshall in the 1890s",
+   "source": "w-en-externality"
+  },
+  {
+   "text": "由于资源可以得到更好配置，外部性是市场失灵的一个例子。",
+   "evidence": "Thus, since resources can be better allocated, externalities are an example of market failure.",
+   "source": "w-en-externality"
+  },
+  {
+   "text": "由于监管者并不总能掌握外部性的全部信息，征收恰当的税可能很困难。",
+   "evidence": "since regulators do not always have all the information on the externality, it can be difficult to impose the right tax",
+   "source": "w-en-externality"
+  }
+ ],
+ "skip_reason": ""
+}

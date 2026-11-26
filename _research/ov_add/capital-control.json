@@ -1,0 +1,21 @@
+{
+ "id": "capital-control",
+ "sentences": [
+  {
+   "text": "资本管制是二战后布雷顿森林体系的组成部分，那是资本管制首次获得主流经济学认可的时期。",
+   "evidence": "Capital controls were an integral part of the Bretton Woods system which emerged after World War II and lasted until the early 1970s. This period was the first time capital controls had been endorsed by mainstream economics.",
+   "source": "w-en-capital-control"
+  },
+  {
+   "text": "1970年代起，自由市场派经济学家日益成功地说服同行认为资本管制总体上有害。",
+   "evidence": "In the 1970s, economic liberal, free-market economists became increasingly successful in persuading their colleagues that capital controls were in the main harmful.",
+   "source": "w-en-capital-control"
+  },
+  {
+   "text": "1980年代初拉美债务危机、1997年亚洲金融危机、1998年俄罗斯金融危机与2008年金融危机凸显了资本流动波动的风险。",
+   "evidence": "The Latin American debt crisis of the early 1980s, the 1997 Asian financial crisis, the 1998 Russian financial crisis, and the 2008 financial crisis highlighted the risks associated with the volatility of capital flows",
+   "source": "w-en-capital-control"
+  }
+ ],
+ "skip_reason": ""
+}

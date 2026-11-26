@@ -1,0 +1,26 @@
+{
+ "id": "ebrd",
+ "sentences": [
+  {
+   "text": "EBRD 最初聚焦前东方集团国家，后扩展至从中欧到中亚的30多个国家。",
+   "evidence": "Initially focused on the countries of the former Eastern Bloc, it expanded to support development in more than 30 countries from Central Europe to Central Asia.",
+   "source": "w-en-ebrd"
+  },
+  {
+   "text": "EBRD 由77个国家、欧盟和欧洲投资银行共同拥有。",
+   "evidence": "The EBRD is owned by 77 countries, the European Union and the European Investment Bank.",
+   "source": "w-en-ebrd"
+  },
+  {
+   "text": "EBRD 最大的单一股东是美国。",
+   "evidence": "with the biggest single shareholder being the United States",
+   "source": "w-en-ebrd"
+  },
+  {
+   "text": "设立该行的协定于1990年5月29日由40个国家等签署。",
+   "evidence": "signed on 29 May 1990 by actors such as 40 states",
+   "source": "w-en-ebrd"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "neutral-rate",
+ "sentences": [
+  {
+   "text": "该概念源于瑞典经济学家维克塞尔，他于1898年发表研究对自然利率作出定义。",
+   "evidence": "the concept itself was originated by the Swedish economist Knut Wicksell. Wicksell published a study in 1898 defining the natural rate of interest",
+   "source": "w-en-neutral-rate"
+  },
+  {
+   "text": "凯恩斯在1930年的《货币论》中引入了“自然利率”一词。",
+   "evidence": "Following Wicksell, J. M. Keynes introduced the term \"natural rate of interest\" in his A Treatise on Money (1930).",
+   "source": "w-en-neutral-rate"
+  },
+  {
+   "text": "1990年代央行政策目标开始转变后，该概念重获关注，“中性利率”一词逐渐取代“自然利率”。",
+   "evidence": "When during the 1990s the central bank policy targets started changing, the concept began attracting renewed attention, and the term \"neutral rate\" gradually replaced \"natural rate\".",
+   "source": "w-en-neutral-rate"
+  }
+ ],
+ "skip_reason": ""
+}

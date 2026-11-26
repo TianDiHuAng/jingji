@@ -1,0 +1,26 @@
+{
+ "id": "riksbank",
+ "sentences": [
+  {
+   "text": "一战前，它也是俄罗斯帝国以外唯一的国有中央银行。",
+   "evidence": "Prior to World War I, it was also the only state-owned central bank outside of the Russian Empire.",
+   "source": "w-en-riksbank"
+  },
+  {
+   "text": "瑞典央行是欧洲系统性风险委员会（ESRB）成员。",
+   "evidence": "It is also a member of the European Systemic Risk Board (ESRB).",
+   "source": "w-en-riksbank"
+  },
+  {
+   "text": "此前服务瑞典的斯德哥尔摩银行因发行过多无必要抵押的银行券而倒闭。",
+   "evidence": "Stockholms Banco collapsed as a result of the issuing of too many notes without the necessary collateral.",
+   "source": "w-en-riksbank"
+  },
+  {
+   "text": "1866年新议会设立后，该行更名为 Sveriges Riksbank。",
+   "evidence": "When a new Riksdag was instituted in 1866, the name of the bank was changed to Sveriges Riksbank.",
+   "source": "w-en-riksbank"
+  }
+ ],
+ "skip_reason": ""
+}

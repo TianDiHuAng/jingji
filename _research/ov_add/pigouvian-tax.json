@@ -1,0 +1,21 @@
+{
+ "id": "pigouvian-tax",
+ "sentences": [
+  {
+   "text": "对正外部性则可采用庇古补贴，例如对流感疫苗、研发及教育、国防等公共品的补贴。",
+   "evidence": "Examples are a subsidy for flu vaccines, for research and development, and for public goods such as education and national defense.",
+   "source": "w-en-pigouvian-tax"
+  },
+  {
+   "text": "英国经济学家庇古于1920年出版了《福利经济学》。",
+   "evidence": "In 1920, the British economist Arthur Cecil Pigou published The Economics of Welfare.",
+   "source": "w-en-pigouvian-tax"
+  },
+  {
+   "text": "威廉·鲍莫尔在1972年将庇古的研究纳入现代经济学框架方面起了重要作用。",
+   "evidence": "William Baumol was instrumental in framing Pigou's work in modern economics in 1972.",
+   "source": "w-en-pigouvian-tax"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "debt-crisis",
+ "sentences": [
+  {
+   "text": "发展慈善机构CAFOD称，在2024年的情况下有50多个国家处于债务危机之中。",
+   "evidence": "The development charity CAFOD states that in current (2024) conditions, more than 50 countries are in debt crisis.",
+   "source": "w-en-debt-crisis"
+  },
+  {
+   "text": "“撞上债务墙”是一国依赖外债或外资补贴预算、而外国资本流入停止时可能出现的严峻财务局面。",
+   "evidence": "Hitting the debt wall is a dire financial situation that can occur when a nation depends on foreign debt and/or investment to subsidize their budget and then commercial deficits stop being the recipient of foreign capital flows.",
+   "source": "w-en-debt-crisis"
+  },
+  {
+   "text": "欧债危机自2009年底起影响多个欧元区国家。",
+   "evidence": "The European debt crisis is a crisis affecting several eurozone countries since the end of 2009.",
+   "source": "w-en-debt-crisis"
+  }
+ ],
+ "skip_reason": ""
+}

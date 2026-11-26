@@ -1,0 +1,26 @@
+{
+ "id": "gold-standard",
+ "sentences": [
+  {
+   "text": "1717年，皇家铸币局局长牛顿把银对金的比价定得过低，使银币退出流通，英国由此意外地采用了事实上的金本位。",
+   "evidence": "Great Britain accidentally adopted a de facto gold standard in 1717 when Isaac Newton, master of the Royal Mint, set the exchange rate of silver to gold too low, thus causing silver coins to go out of circulation.",
+   "source": "w-en-gold-standard"
+  },
+  {
+   "text": "1971年美国单方面终止美元兑换黄金，实际上结束了布雷顿森林体系。",
+   "evidence": "from 1944 until 1971, when the United States unilaterally terminated convertibility of the US dollar into gold, effectively ending the Bretton Woods system",
+   "source": "w-en-gold-standard"
+  },
+  {
+   "text": "2012年一项对39位经济学家的调查中，92%认为回归金本位不会改善物价稳定与就业结果。",
+   "evidence": "According to a 2012 survey of 39 economists, most (92 percent) agreed that a return to the gold standard would not improve price-stability and employment outcomes",
+   "source": "w-en-gold-standard"
+  },
+  {
+   "text": "历史上，金本位时期银行危机较为常见，而货币危机较少。",
+   "evidence": "Historically, banking crises were more common during periods under the gold standard, while currency crises were less common.",
+   "source": "w-en-gold-standard"
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,21 @@
+{
+ "id": "stagflation",
+ "sentences": [
+  {
+   "text": "有经济学家研究表明，1973至1982年间滞胀普遍存在于七大市场经济体。",
+   "evidence": "Economists have shown that stagflation was prevalent among seven major market economies from 1973 to 1982.",
+   "source": "w-en-stagflation"
+  },
+  {
+   "text": "滞胀带来政策两难：收紧货币政策等抑制通胀的措施可能加剧失业。",
+   "evidence": "Stagflation presents a policy dilemma, as measures to curb inflation—such as tightening monetary policy—can exacerbate unemployment",
+   "source": "w-en-stagflation"
+  },
+  {
+   "text": "1970年代的滞胀促使人们重新评估凯恩斯主义政策，并推动了货币主义和供给学派的兴起。",
+   "evidence": "The stagflation of the 1970s led to a reevaluation of Keynesian economic policies and contributed to the rise of alternative economic theories, including monetarism and supply-side economics.",
+   "source": "w-en-stagflation"
+  }
+ ],
+ "skip_reason": ""
+}
