@@ -1,5 +1,24 @@
 {
  "id": "jamaica-accords",
- "add": [],
- "skip_reason": "缓存 _research/wiki_full/jamaica-accords.txt 实为 Nixon shock 页面（与 nixon-shock.txt 相同），非牙买加协定主题"
+ "add": [
+  {
+   "year": 1971,
+   "display": "1971年",
+   "event": "尼克松冲击后，美元在实践中已违反IMF协定条款而浮动",
+   "evidence": "In practice the dollar had been floating in this way, in contravention of the articles of an agreement of the IMF, after the Nixon shock in 1971.",
+   "sources": [
+    "w-en-jamaica-accords"
+   ]
+  },
+  {
+   "year": 1978,
+   "display": "1978年",
+   "event": "通过修正案，允许创设特别提款权",
+   "evidence": "An amendment was made in 1978 to allow for the creation of Special Drawing Rights",
+   "sources": [
+    "w-en-jamaica-accords"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

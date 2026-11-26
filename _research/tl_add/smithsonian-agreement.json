@@ -1,5 +1,33 @@
 {
  "id": "smithsonian-agreement",
- "add": [],
- "skip_reason": "缓存 _research/wiki_full/smithsonian-agreement.txt 实为 Nixon shock 页面，非史密森协定主题"
+ "add": [
+  {
+   "year": 1944,
+   "display": "1944年",
+   "event": "布雷顿森林会议建立以金本位为基础、美元按每盎司35美元兑换黄金的固定汇率体系",
+   "evidence": "The Bretton Woods Conference of 1944 established an international fixed exchange rate system based on the gold standard, in which currencies were pegged to the United States dollar, itself convertible into gold at $35/ounce.",
+   "sources": [
+    "w-en-smithsonian-agreement"
+   ]
+  },
+  {
+   "year": 1968,
+   "display": "1968年3月",
+   "event": "美国黄金储备流失，以伦敦黄金总库崩溃告终",
+   "evidence": "The drain on US gold reserves culminated with the London Gold Pool collapse in March 1968.",
+   "sources": [
+    "w-en-smithsonian-agreement"
+   ]
+  },
+  {
+   "year": 1971,
+   "display": "1971年8月15日",
+   "event": "尼克松单方面暂停美元兑换黄金",
+   "evidence": "On August 15, 1971, US President Richard Nixon unilaterally suspended the convertibility of US dollars into gold.",
+   "sources": [
+    "w-en-smithsonian-agreement"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

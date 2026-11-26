@@ -1,1 +1,42 @@
-{"id":"us-state-defaults-1840s","add":[],"skip_reason":"缓存 _research/wiki_full/us-state-defaults-1840s.txt 实为 Panic_of_1837 页面（slug 为 Panic_of_1837），并非1840年代州政府违约主题，放错页面，跳过"}
+{
+ "id": "us-state-defaults-1840s",
+ "add": [
+  {
+   "year": 1836,
+   "display": "1836年",
+   "event": "英格兰银行决定收紧国内外信贷以补充储备",
+   "evidence": "In 1836, the Bank of England decided to tighten the loaning of credit both domestically and to foreign parties to help increase dwindling reserves of monetary value held in the banks.",
+   "sources": [
+    "w-en-us-state-defaults-1840s"
+   ]
+  },
+  {
+   "year": 1841,
+   "display": "1841年",
+   "event": "至该年，美国26州中有19州及3个领地中2个已发行债券、承担州债",
+   "evidence": "By 1841, nineteen of the twenty-six U.S. states and two of the three territories had issued bonds and incurred state debt.",
+   "sources": [
+    "w-en-us-state-defaults-1840s"
+   ]
+  },
+  {
+   "year": 1841,
+   "display": "1841年",
+   "event": "州违约促成《1841年破产法》出台，该法不适用于州本身",
+   "evidence": "The state defaults inspired the enactment of the Bankruptcy Act of 1841, although the Act did not apply to the states themselves",
+   "sources": [
+    "w-en-us-state-defaults-1840s"
+   ]
+  },
+  {
+   "year": 1843,
+   "display": "1843年",
+   "event": "《1841年破产法》被废止",
+   "evidence": "The state defaults inspired the enactment of the Bankruptcy Act of 1841, although the Act did not apply to the states themselves, and was soon repealed in 1843.",
+   "sources": [
+    "w-en-us-state-defaults-1840s"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -2496,3 +2496,4 @@
 - 修复 6 个缓存放错页面的条目：找到维基专题页（Steel crisis、Panic of 1796–1797、Panic of 1910–11、Energy crisis in Venezuela、1983 Israel bank stock crisis、Financial crisis of 33），新增来源 4 个（742→746），重抓原文，补 20 条时间线（777→797）；panic-1910 专题页仅一段，无新事件可补。
 - 第二批时间线扩充：58 个案例补 215 条（797→1012），合并前复核摘录、年份、来源与重复，剔除 1 条（panic-1884 同年倒闭事件）。
 - 新发现 5 个缓存放错页面：jamaica-accords、smithsonian-agreement（均为 Nixon shock）、yemen-currency-divergence（Currency crisis）、swedish-crisis-1990s（芬兰银行危机）、us-state-defaults-1840s（Panic of 1837），记入 BLOCKERS.md。
+- 修复第二批 5 个缓存放错页面的条目：来源库里已有专题页来源，只是缓存抓错，重抓后补 14 条时间线（1012→1026）；史密森协定 1973 条来源由牙买加协定改为专题页。

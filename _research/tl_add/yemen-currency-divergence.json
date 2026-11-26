@@ -1,5 +1,42 @@
 {
  "id": "yemen-currency-divergence",
- "add": [],
- "skip_reason": "缓存为通用页面 Currency_crisis，非也门货币分化主题，跳过"
+ "add": [
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "南北统一后北方里亚尔与南方第纳尔在过渡期并行，汇率定为1第纳尔兑26里亚尔",
+   "evidence": "After the union between the North (the Yemen Arab Republic) and the South (the People's Democratic Republic of Yemen) in 1990, both the northern rial and the southern dinar remained legal tender during a transitional period, with an exchange rate set at 1 dinar to 26 rials.",
+   "sources": [
+    "w-en-yemeni-rial"
+   ]
+  },
+  {
+   "year": 1996,
+   "display": "1996年6月11日",
+   "event": "第纳尔退出流通",
+   "evidence": "On 11 June 1996, the dinar was withdrawn from circulation.",
+   "sources": [
+    "w-en-yemeni-rial"
+   ]
+  },
+  {
+   "year": 2017,
+   "display": "2017年",
+   "event": "迁至亚丁的也门中央银行发行新防伪特征、不同尺寸的500和1000里亚尔纸币",
+   "evidence": "In 2017, the Central Bank of Yemen, now relocated in Aden, its interim capital due to the civil war, issued 500 and 1,000 rial banknotes with revised security features and different dimensions.",
+   "sources": [
+    "w-en-yemeni-rial"
+   ]
+  },
+  {
+   "year": 2025,
+   "display": "2025年1月",
+   "event": "里亚尔跌至历史低点，1美元兑2150里亚尔",
+   "evidence": "In January 2025, the currency further deteriorated to a historic low point, where 1 USD was traded at 2150 Yemeni rials",
+   "sources": [
+    "w-en-yemeni-rial"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

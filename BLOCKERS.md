@@ -225,5 +225,5 @@
 ## 维基缓存放错页面（2026-11-26，已解决）
 - steel-crisis-1973、venezuela-energy-2010 → 缓存为 Economic history；panic-1796、panic-1910 → Bank run；israel-bank-1983 → Economic bubble；crisis-33ce → Debt crisis。原因：条目首个 w-en 来源是通用页面。需为这些条目找到专题页来源后重抓。
 
-## 维基缓存放错页面·第二批（2026-11-26，待处理）
+## 维基缓存放错页面·第二批（2026-11-26，已解决）
 - jamaica-accords、smithsonian-agreement → 缓存为 Nixon shock；yemen-currency-divergence → Currency crisis；swedish-crisis-1990s → 1990s Finnish banking crisis；us-state-defaults-1840s → Panic of 1837。需找专题页后重抓。
