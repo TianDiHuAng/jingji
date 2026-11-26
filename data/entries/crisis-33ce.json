@@ -47,19 +47,19 @@
     {
       "step": "政策转向+没收 → 罗马货币供给减少",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     },
     {
       "step": "援引旧法致贷款被提前召回 → 信贷紧缩、房地产价格崩盘",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     },
     {
       "step": "以无息贷款注入流动性 → 危机化解",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     }
   ],
@@ -70,7 +70,7 @@
       "view": "货币供给收缩是危机的根源",
       "basis": "据维基摘要；待核实",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "view": "以无息贷款注入流动性是有效解法",
       "basis": "据维基摘要；待核实",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     }
   ],
@@ -88,7 +88,7 @@
       "view": "以无息贷款注入流动性化解危机（据维基摘要）",
       "basis": "据维基摘要；细节待核实",
       "sources": [
-        "w-en-crisis-33ce"
+        "w-en-financial-crisis-of-33"
       ]
     }
   ],
@@ -97,8 +97,7 @@
   "sources": [
     "w-en-financial-crisis-of-33",
     "w-en-debt-crisis",
-    "w-en-financial-crisis",
-    "w-en-crisis-33ce"
+    "w-en-financial-crisis"
   ],
   "related": [
     "bank-holiday",

@@ -404,7 +404,17 @@ def render_entry(e):
     srcs = e.get('sources',[])
     sec('来源', '<div class="src-list">' + ('<br>'.join('• '+src_link(s) for s in srcs) if srcs else '<span class="empty">暂无</span>') + '</div>')
     if e.get('related'):
-        sec('相关条目', '<ul>'+''.join(f'<li><a href="{esc(r)}.html">{esc(entries.get(r,{}).get("title",r))}</a></li>' for r in e['related'])+'</ul>')
+        _rel = e['related']
+        _con = [r for r in _rel if entries.get(r, {}).get('unit', '').startswith('U6')]
+        _cas = [r for r in _rel if r in entries and not entries[r].get('unit', '').startswith('U6')]
+        _parts = []
+        if _con:
+            _parts.append('<h3>相关概念</h3><ul>' + ''.join(
+                f'<li><a href="{esc(r)}.html">{esc(entries.get(r,{}).get("title",r))}</a></li>' for r in _con) + '</ul>')
+        if _cas:
+            _parts.append('<h3>相关危机案例</h3><ul>' + ''.join(
+                f'<li><a href="{esc(r)}.html">{esc(entries.get(r,{}).get("title",r))}</a></li>' for r in _cas) + '</ul>')
+        sec('相关条目', ''.join(_parts))
     else:
         # 无手工 related 时自动给出同类条目：优先共享来源，其次同危机类型
         _t = e.get('crisis_type')

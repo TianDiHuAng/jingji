@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22",
-  "count": 749,
+  "generated": "2026-11-26",
+  "count": 746,
   "sources": [
     {
       "id": "w-en-austrian-school-of-economics",
@@ -2331,30 +2331,6 @@
       "note": "Wikipedia REST API核对(本会话抓取摘要)"
     },
     {
-      "id": "w-en-israel-bank-1983",
-      "title": "1983 Israel bank stock crisis",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/1983_Israel_bank_stock_crisis",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
-      "id": "w-en-panic-of-1796",
-      "title": "Panic of 1796–1797",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Panic_of_1796%E2%80%931797",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
       "id": "w-en-panic-of-1910",
       "title": "Panic of 1910–1911",
       "author": "Wikipedia contributors",
@@ -2373,18 +2349,6 @@
       "year": "2026",
       "type": "权威百科",
       "url": "https://en.wikipedia.org/wiki/U.S._state_defaults_in_the_1840s",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "Wikipedia REST API核对(本会话抓取摘要)"
-    },
-    {
-      "id": "w-en-crisis-33ce",
-      "title": "Financial crisis of 33",
-      "author": "Wikipedia contributors",
-      "year": "2026",
-      "type": "权威百科",
-      "url": "https://en.wikipedia.org/wiki/Financial_crisis_of_33",
       "url2": null,
       "verified": true,
       "link_ok": true,

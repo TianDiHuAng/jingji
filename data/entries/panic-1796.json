@@ -31,7 +31,7 @@
       "display": "1796年",
       "event": "美国土地投机泡沫破裂、贸易受战争冲击",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "display": "1797年2月",
       "event": "英格兰银行暂停银行券兑换金银（Restriction Period）",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     },
     {
@@ -63,19 +63,19 @@
     {
       "step": "美国土地投机泡沫破裂 → 信贷市场下挫",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     },
     {
       "step": "英法战争恐惧致存款人挤兑 → 英格兰银行暂停硬币支付",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     },
     {
       "step": "通缩波及美国沿海与加勒比商业市场",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     }
   ],
@@ -86,7 +86,7 @@
       "view": "土地投机破裂引发信贷收缩",
       "basis": "据维基摘要归纳；具体表述待核实",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "view": "战争恐惧引发挤兑与货币管制",
       "basis": "据维基摘要归纳；具体表述待核实",
       "sources": [
-        "w-en-panic-of-1796"
+        "w-en-panic-of-1796-1797"
       ]
     }
   ],
@@ -114,8 +114,7 @@
   "sources": [
     "w-en-panic-of-1796-1797",
     "w-en-bank-run",
-    "w-en-financial-crisis",
-    "w-en-panic-of-1796"
+    "w-en-financial-crisis"
   ],
   "related": [
     "amsterdam-crisis-1763",

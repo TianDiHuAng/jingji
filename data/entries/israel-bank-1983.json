@@ -63,19 +63,19 @@
     {
       "step": "银行为支撑自家股价持续回购 → 制造虚假需求、人为托价",
       "sources": [
-        "w-en-israel-bank-1983"
+        "w-en-1983-israel-bank-stock-crisis"
       ]
     },
     {
       "step": "1983年10月银行资本耗尽、无法继续回购 → 股价暴跌",
       "sources": [
-        "w-en-israel-bank-1983"
+        "w-en-1983-israel-bank-stock-crisis"
       ]
     },
     {
       "step": "证交所关闭18天、银行国有化",
       "sources": [
-        "w-en-israel-bank-1983"
+        "w-en-1983-israel-bank-stock-crisis"
       ]
     }
   ],
@@ -109,7 +109,7 @@
       "view": "银行回购自家股票人为支撑股价",
       "basis": "据维基摘要归纳；具体表述待核实",
       "sources": [
-        "w-en-israel-bank-1983"
+        "w-en-1983-israel-bank-stock-crisis"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "view": "暴露市场监管与公司治理缺陷",
       "basis": "据维基摘要归纳；具体表述待核实",
       "sources": [
-        "w-en-israel-bank-1983"
+        "w-en-1983-israel-bank-stock-crisis"
       ]
     }
   ],
@@ -138,7 +138,6 @@
     "w-en-1983-israel-bank-stock-crisis",
     "w-en-speculative-bubble",
     "w-en-financial-crisis",
-    "w-en-israel-bank-1983",
     "org-imf-lv2018"
   ],
   "related": [

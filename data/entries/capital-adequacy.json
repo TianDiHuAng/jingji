@@ -72,7 +72,8 @@
     "liquidity-coverage-ratio",
     "macroprudential",
     "rwa",
-    "self-insurance"
+    "self-insurance",
+    "subprime-crisis-2007"
   ],
   "sources": [
     "w-en-capital-requirement"

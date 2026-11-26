@@ -64,6 +64,7 @@
     "diamond-dybvig",
     "liquidity-coverage-ratio",
     "liquidity-risk",
+    "northern-rock",
     "shadow-banking"
   ],
   "needs_verification": true,

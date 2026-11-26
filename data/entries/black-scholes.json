@@ -60,6 +60,7 @@
     "arbitrage",
     "call-option",
     "derivative",
+    "ltcm",
     "option",
     "put-option",
     "volatility"

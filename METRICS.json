@@ -2952,7 +2952,21 @@
       "note": "17个概念条目依据缓存补概述",
       "site_pages": 659,
       "overview_avg": 435
+    },
+    {
+      "round": "续作REL",
+      "date": "2026-11-26",
+      "new_entries": 0,
+      "upgraded": 0,
+      "reviewed": 432,
+      "fixed": 3,
+      "sources_total": 746,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "抽样 hyperinflation / bank-run / monetary-policy / deposit-insurance：相关条目已按「相关概念 / 相关危机案例」分组",
+      "note": "概念→案例关联：272/432 个概念条目有案例链接（101→272）、概念→案例边 145→442；逐条人工映射 _research/related/map.py；另清理3条同URL重复来源 749→746",
+      "site_pages": 659,
+      "concept_case_coverage": "272/432"
     }
   ],
-  "sources_total": 749
+  "sources_total": 746
 }
