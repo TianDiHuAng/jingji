@@ -2938,6 +2938,20 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "新增 tools/audit_cache.py 审计缓存放错页面；17 个条目改抓专门页面（新增4个来源）；海南、台湾泡沫无英文专题页，缓存停用",
       "site_pages": 659
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 749,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "22个概念条目依据缓存补概述",
+      "site_pages": 659,
+      "overview_avg": 435
     }
   ],
   "sources_total": 749
