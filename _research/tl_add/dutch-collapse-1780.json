@@ -1,0 +1,33 @@
+{
+ "id": "dutch-collapse-1780",
+ "add": [
+  {
+   "year": 1780,
+   "display": "1780年12月",
+   "event": "英国在荷兰宣布意向后不久对其宣战",
+   "evidence": "so declared war on the republic shortly after it announced its intentions in December 1780.",
+   "sources": [
+    "w-en-fourth-anglo-dutch-war"
+   ]
+  },
+  {
+   "year": 1781,
+   "display": "1781年3月",
+   "event": "英国海军上将 Johnstone 受命夺取开普殖民地",
+   "evidence": "In March 1781, British Admiral George Johnstone was sent to capture the Cape Colony.",
+   "sources": [
+    "w-en-fourth-anglo-dutch-war"
+   ]
+  },
+  {
+   "year": 1787,
+   "display": "1787年",
+   "event": "爱国者派起事被普鲁士入侵荷兰镇压",
+   "evidence": "However, the Patriot revolt was suppressed by the Prussian invasion of Holland in 1787.",
+   "sources": [
+    "w-en-fourth-anglo-dutch-war"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

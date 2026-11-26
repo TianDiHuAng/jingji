@@ -1,0 +1,42 @@
+{
+ "id": "enron",
+ "add": [
+  {
+   "year": 1985,
+   "display": "1985年",
+   "event": "肯尼斯·莱合并Houston Natural Gas与InterNorth组建安然",
+   "evidence": "Enron was formed in 1985 by Kenneth Lay after merging Houston Natural Gas and InterNorth.",
+   "sources": [
+    "w-en-enron"
+   ]
+  },
+  {
+   "year": 2001,
+   "display": "2001年10月16日",
+   "event": "安然宣布需重述1997—2000年财报以纠正会计违规",
+   "evidence": "On October 16, 2001, Enron announced that restatements to its financial statements for years 1997 to 2000 were necessary to correct accounting violations.",
+   "sources": [
+    "w-en-enron"
+   ]
+  },
+  {
+   "year": 2001,
+   "display": "2001年12月2日",
+   "event": "安然依美国破产法第11章申请破产",
+   "evidence": "on December 2, 2001, Enron filed for bankruptcy under Chapter 11 of the United States Bankruptcy Code.",
+   "sources": [
+    "w-en-enron"
+   ]
+  },
+  {
+   "year": 2006,
+   "display": "2006年5月25日",
+   "event": "莱与斯基林案陪审团作出裁决，斯基林被判28项中19项罪名成立",
+   "evidence": "On May 25, 2006, the jury in the Lay and Skilling trial returned its verdicts. Skilling was convicted of 19 of 28 counts",
+   "sources": [
+    "w-en-enron"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

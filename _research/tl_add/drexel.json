@@ -1,0 +1,42 @@
+{
+ "id": "drexel",
+ "add": [
+  {
+   "year": 1988,
+   "display": "1988年9月",
+   "event": "1988年9月SEC起诉德崇内幕交易、操纵股价等。",
+   "evidence": "the SEC from suing Drexel in September 1988 for insider trading, stock manipulation",
+   "sources": [
+    "w-en-drexel"
+   ]
+  },
+  {
+   "year": 1989,
+   "display": "1989年4月",
+   "event": "1989年4月德崇与SEC和解，同意加强监督程序。",
+   "evidence": "In April 1989, Drexel settled with the SEC, agreeing to stricter safeguards on its oversight procedures.",
+   "sources": [
+    "w-en-drexel"
+   ]
+  },
+  {
+   "year": 1990,
+   "display": "1990年2月",
+   "event": "1990年2月申请第11章破产以避免被SEC接管。",
+   "evidence": "In February 1990, Drexel filed for Chapter 11 bankruptcy to avoid being seized by the Securities and Exchange Commission.",
+   "sources": [
+    "w-en-drexel"
+   ]
+  },
+  {
+   "year": 1992,
+   "display": "1992年",
+   "event": "1992年剩余部分走出破产，成为仅20名员工的New Street Capital。",
+   "evidence": "The rest of Drexel emerged from bankruptcy in 1992 as New Street Capital, a small investment bank with only 20 employees",
+   "sources": [
+    "w-en-drexel"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

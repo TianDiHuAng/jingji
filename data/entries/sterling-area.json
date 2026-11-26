@@ -17,6 +17,38 @@
       "sources": [
         "w-en-sterling-area"
       ]
+    },
+    {
+      "year": 1967,
+      "display": "1967年11月",
+      "event": "英国将英镑从1英镑兑2.80美元贬值至2.40美元",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    },
+    {
+      "year": 1968,
+      "display": "1968年",
+      "event": "巴塞尔协议旨在减少英镑向美元的外逃",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    },
+    {
+      "year": 1972,
+      "display": "1972年6月22日",
+      "event": "英国对英镑区其他成员实施外汇管制（爱尔兰与皇家属地除外）",
+      "sources": [
+        "w-en-sterling-area"
+      ]
+    },
+    {
+      "year": 1979,
+      "display": "1979年",
+      "event": "英国取消全部外汇管制，英镑区实际上不复存在",
+      "sources": [
+        "w-en-sterling-area"
+      ]
     }
   ],
   "causal_chain": [

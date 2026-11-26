@@ -11,9 +11,41 @@
   "overview": "美林（Merrill Lynch, Pierce, Fenner & Smith Incorporated，现以 Merrill 名义经营）是一家美国跨国投资管理与财富管理机构，现为美国银行（Bank of America）旗下的投资管理与财富管理分部。此前以 Merrill Lynch 品牌闻名。2008年金融危机期间被美国银行收购",
   "timeline": [
     {
+      "year": 2007,
+      "display": "2007年11月",
+      "event": "2007年11月宣布与次贷危机相关的84亿美元减记。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    },
+    {
       "year": 2008,
       "display": "2008年",
       "event": "美林在金融危机中被美国银行收购（据 Wikipedia Merrill (company)；具体日期与条款待核实）",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年7月",
+      "event": "2008年7月塞恩宣布49亿美元季度亏损。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年9月14日",
+      "event": "2008年9月14日美国银行宣布洽谈以382.5亿美元股票收购美林。",
+      "sources": [
+        "w-en-merrill-lynch"
+      ]
+    },
+    {
+      "year": 2018,
+      "display": "2018年10月",
+      "event": "2018年10月公司并入美国银行。",
       "sources": [
         "w-en-merrill-lynch"
       ]

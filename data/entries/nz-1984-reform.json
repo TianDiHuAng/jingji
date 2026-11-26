@@ -11,9 +11,41 @@
   "overview": "Rogernomics（\"Roger\"与\"economics\"的合成词，仿 Reaganomics 构词）是新西兰财政部长罗杰·道格拉斯（Roger Douglas）于1984年起推动的新自由主义经济改革。改革包括税制调整——实施减税并引入商品与服务税（GST，初始税率为10%）。这场改革被视为发达国家中最激进的市场化转向之一，其社会代价与成效长期存在争论",
   "timeline": [
     {
+      "year": 1983,
+      "display": "1983年",
+      "event": "1983年底道格拉斯提出“经济政策一揽子”，呼吁市场主导的经济重组。",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
       "year": 1984,
       "display": "1984年起",
       "event": "Roger Douglas 任财政部长，推行 Rogernomics 改革（据 Wikipedia Rogernomics）",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "year": 1985,
+      "display": "1985年2月",
+      "event": "1985年2月《新西兰听众》记者创造“Rogernomics”一词。",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "year": 1987,
+      "display": "1987年10月",
+      "event": "金融业放松管制加剧了1987年10月股灾的影响。",
+      "sources": [
+        "w-en-rogernomics"
+      ]
+    },
+    {
+      "year": 1992,
+      "display": "1992年",
+      "event": "1987至1992年间约7.6万个制造业岗位流失。",
       "sources": [
         "w-en-rogernomics"
       ]

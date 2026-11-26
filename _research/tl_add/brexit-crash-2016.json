@@ -1,0 +1,42 @@
+{
+ "id": "brexit-crash-2016",
+ "add": [
+  {
+   "year": 1973,
+   "display": "1973年1月1日",
+   "event": "英国未经公投于1973年1月1日加入欧洲共同体。",
+   "evidence": "the UK joined Denmark and the Republic of Ireland in becoming a member on 1 January 1973, without a referendum",
+   "sources": [
+    "w-en-brexit"
+   ]
+  },
+  {
+   "year": 1975,
+   "display": "1975年6月5日",
+   "event": "1975年6月5日公投，67.2%选民支持留在欧共体。",
+   "evidence": "On 5 June 1975, 67.2% of the electorate and all but two British counties and regions voted to stay in",
+   "sources": [
+    "w-en-brexit"
+   ]
+  },
+  {
+   "year": 1992,
+   "display": "1992年9月",
+   "event": "1992年9月“黑色星期三”，英镑受投机冲击，英国被迫退出欧洲汇率机制。",
+   "evidence": "The UK was forced to withdraw from the ERM on Black Wednesday in September 1992, after the pound sterling came under pressure from currency speculation.",
+   "sources": [
+    "w-en-brexit"
+   ]
+  },
+  {
+   "year": 2016,
+   "display": "2016年6月23日",
+   "event": "2016年6月23日公投，51.89%支持脱欧，卡梅伦辞去首相。",
+   "evidence": "Following a UK-wide referendum on 23 June 2016, in which 51.89 per cent voted in favour of leaving the EU and 48.11 per cent voted to remain a member state, David Cameron resigned as prime minister.",
+   "sources": [
+    "w-en-brexit"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -11,6 +11,22 @@
   "overview": "罗得岛银行危机（1990—1992年）由私营存款保险体系失灵引发。该州多家银行与信用合作社依赖**私营**的\"罗得岛存款保险公司\"(RISDIC) 提供保险，而 RISDIC 的储备远不足以覆盖其承保的存款、且缺乏有效监管。1991年1月1日，RISDIC 被宣告无力偿付，州政府随即关闭了数十家依赖该保险的机构，储户一度无法取款；州政府随后为部分存款提供担保并推动重组。该案例是\"存款保险的公信力与资金充足性\"重要性的经典教训——私营保险若无最后担保与统一监管，反而可能成为挤兑的放大者",
   "timeline": [
     {
+      "year": 1990,
+      "display": "1990年",
+      "event": "州监管检查人员在 Heritage 账目中发现1300万美元欺诈贷款",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1990年11月8日",
+      "event": "银行行长 Mollicone 得知事发后潜逃出州",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
       "year": 1991,
       "display": "1991年1月1日",
       "event": "RISDIC 被宣告无力偿付，数十家机构被关闭",
@@ -19,9 +35,33 @@
       ]
     },
     {
+      "year": 1991,
+      "display": "1991年7月",
+      "event": "相关听证会开始并进行电视直播",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "year": 1991,
+      "display": "1991年9月",
+      "event": "逾500名抗议者聚集州议会大厦，在州长办公室前倾倒茶包",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
       "year": 1992,
       "display": "1990—1992年",
       "event": "州政府提供担保并推动重组（细节待核实）",
+      "sources": [
+        "w-en-rhode-island-banking-crisis"
+      ]
+    },
+    {
+      "year": 1997,
+      "display": "1997年9月",
+      "event": "针对 RISDIC 审计师安永的诉讼取得重大胜诉",
       "sources": [
         "w-en-rhode-island-banking-crisis"
       ]

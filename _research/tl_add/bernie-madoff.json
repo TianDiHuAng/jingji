@@ -1,0 +1,42 @@
+{
+ "id": "bernie-madoff",
+ "add": [
+  {
+   "year": 2008,
+   "display": "2008年12月10日",
+   "event": "麦道夫之子告知当局父亲承认资产管理业务是庞氏骗局",
+   "evidence": "On December 10, 2008, Madoff's sons Mark and Andrew told authorities that their father had confessed to them that the asset management unit of his firm was a massive Ponzi scheme",
+   "sources": [
+    "w-en-bernie-madoff"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年12月11日",
+   "event": "麦道夫被捕",
+   "evidence": "He was the company's chairman until his arrest on December 11, 2008.",
+   "sources": [
+    "w-en-bernie-madoff"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年3月12日",
+   "event": "麦道夫承认11项联邦重罪",
+   "evidence": "On March 12, 2009, Madoff pleaded guilty to 11 federal felonies",
+   "sources": [
+    "w-en-bernie-madoff"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年6月29日",
+   "event": "麦道夫被判150年监禁（法定最高刑）",
+   "evidence": "On June 29, 2009, Madoff was sentenced to 150 years in prison, the maximum sentence allowed.",
+   "sources": [
+    "w-en-bernie-madoff"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

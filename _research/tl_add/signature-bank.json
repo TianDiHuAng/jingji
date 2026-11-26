@@ -1,0 +1,42 @@
+{
+ "id": "signature-bank",
+ "add": [
+  {
+   "year": 2001,
+   "display": "2001年5月1日",
+   "event": "签名银行于2001年5月1日开业。",
+   "evidence": "Signature Bank opened on May 1, 2001.",
+   "sources": [
+    "w-en-signature-bank"
+   ]
+  },
+  {
+   "year": 2018,
+   "display": "2018年",
+   "event": "2018年决定向加密货币行业开放，为其最受关注之举。",
+   "evidence": "it was most noted for its 2018 decision to open itself to the cryptocurrency industry.",
+   "sources": [
+    "w-en-signature-bank"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月12日",
+   "event": "2023年3月12日纽约州官员关闭该行，距硅谷银行倒闭两天。",
+   "evidence": "Banking officials in the state of New York closed the bank on March 12, 2023, two days after the failure of Silicon Valley Bank (SVB).",
+   "sources": [
+    "w-en-signature-bank"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月19日",
+   "event": "2023年3月19日FDIC将过桥银行及大部分存款出售给纽约社区银行。",
+   "evidence": "On March 19, 2023, a week after the bank closure, the FDIC sold the resulting bridge bank, most of its deposits, and its 40 branches to New York Community Bancorp",
+   "sources": [
+    "w-en-signature-bank"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

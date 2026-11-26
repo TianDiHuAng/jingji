@@ -1,0 +1,42 @@
+{
+ "id": "black-friday-1869",
+ "add": [
+  {
+   "year": 1869,
+   "display": "1869年4月",
+   "event": "格兰特下令开始出售国库黄金、回购战时债券",
+   "evidence": "he ordered his assistant treasurer to begin selling gold from the Treasury and buying up wartime bonds in April 1869.",
+   "sources": [
+    "w-en-black-friday-1869"
+   ]
+  },
+  {
+   "year": 1869,
+   "display": "1869年9月1日",
+   "event": "古尔德与菲斯克以他人名义购入150万美元黄金启动计划",
+   "evidence": "Starting on September 1, 1869, Gould and Fisk put their plot into motion by purchasing $1.5 million in gold in the names of Corbin and Butterfield",
+   "sources": [
+    "w-en-black-friday-1869"
+   ]
+  },
+  {
+   "year": 1869,
+   "display": "1869年9月20日",
+   "event": "古尔德与菲斯克开始囤积黄金推高金价",
+   "evidence": "On September 20, 1869, Gould and Fisk started hoarding gold, driving the price higher.",
+   "sources": [
+    "w-en-black-friday-1869"
+   ]
+  },
+  {
+   "year": 1870,
+   "display": "1870年1月",
+   "event": "经济恢复战后复苏",
+   "evidence": "but by January 1870, the economy resumed its post-war recovery.",
+   "sources": [
+    "w-en-black-friday-1869"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

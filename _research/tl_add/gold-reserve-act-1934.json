@@ -1,0 +1,33 @@
+{
+ "id": "gold-reserve-act-1934",
+ "add": [
+  {
+   "year": 1931,
+   "display": "1931年9月21日",
+   "event": "英国暂停金本位，是储备流向美国的原因之一",
+   "evidence": "the suspension of the gold standard in Britain on September 21, 1931",
+   "sources": [
+    "w-en-gold-reserve-act"
+   ]
+  },
+  {
+   "year": 1933,
+   "display": "1933年",
+   "event": "第6102号行政令规定美国公民持有或交易黄金为刑事犯罪",
+   "evidence": "A year earlier, in 1933, Executive Order 6102 had made it a criminal offense for U.S. citizens to own or trade gold",
+   "sources": [
+    "w-en-gold-reserve-act"
+   ]
+  },
+  {
+   "year": 1974,
+   "display": "1974年12月31日",
+   "event": "对私人持有黄金的限制被废除，1974年12月31日生效",
+   "evidence": "The Gold Reserve Act limitations on private gold ownership were repealed in a rider to the International Development Association Appropriations Act of 1975, signed by President Gerald Ford on August 14, 1974, and effective December 31, 1974.",
+   "sources": [
+    "w-en-gold-reserve-act"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

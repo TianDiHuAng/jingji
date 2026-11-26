@@ -1,0 +1,33 @@
+{
+ "id": "medici-bank",
+ "add": [
+  {
+   "year": 1434,
+   "display": "1434年",
+   "event": "科西莫接掌银行，美第奇成为佛罗伦萨共和国的非正式首脑",
+   "evidence": "it was not until his son Cosimo the Elder took over in 1434 as gran maestro that the Medici became the unofficial head of state of the Florentine Republic",
+   "sources": [
+    "w-en-medici-bank"
+   ]
+  },
+  {
+   "year": 1439,
+   "display": "1439年3月24日",
+   "event": "美第奇布鲁日分行正式成立",
+   "evidence": "On March 24, 1439, the Medici branch at Bruges was officially founded.",
+   "sources": [
+    "w-en-medici-bank"
+   ]
+  },
+  {
+   "year": 1464,
+   "display": "1464年8月1日",
+   "event": "科西莫去世，银行开始衰落",
+   "evidence": "With Cosimo's death on August 1, 1464, the decline of the bank began.",
+   "sources": [
+    "w-en-medici-bank"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "turkish-crisis-2018",
+ "add": [
+  {
+   "year": 2017,
+   "display": "2017年10月",
+   "event": "2017年10月土耳其通胀率达11.9%，为2008年7月以来最高。",
+   "evidence": "In October 2017, inflation was at 11.9%, the highest rate since July 2008.",
+   "sources": [
+    "w-en-turkish-economic-crisis"
+   ]
+  },
+  {
+   "year": 2018,
+   "display": "2018年",
+   "event": "2018年里拉加速贬值，8月中旬跌至1美元兑7.0里拉。",
+   "evidence": "In 2018, the lira's exchange rate accelerated deterioration, reaching a level of 4.0 TRY per USD by late March, 4.5 TRY per USD by mid-May, 5.0 TRY per USD by early August and 6.0 as well as 7.0 TRY per USD by mid-August.",
+   "sources": [
+    "w-en-turkish-economic-crisis"
+   ]
+  },
+  {
+   "year": 2021,
+   "display": "2021年",
+   "event": "2021年一年里拉贬值44%。",
+   "evidence": "The lira lost 44% of its value in 2021 alone.",
+   "sources": [
+    "w-en-turkish-economic-crisis"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年8月",
+   "event": "2023年8月央行加息7.5个百分点至25%以应对通胀。",
+   "evidence": "In August 2023, Turkey's central bank raised interest rates by 7.5 points to 25% to tackle inflation",
+   "sources": [
+    "w-en-turkish-economic-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

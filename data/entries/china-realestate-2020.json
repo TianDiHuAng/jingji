@@ -25,6 +25,38 @@
       "sources": [
         "w-en-china-realestate-2020"
       ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年8月",
+      "event": "恒大致广东政府的信函在网上流传，警告现金紧张，股价暴跌",
+      "sources": [
+        "w-en-china-realestate-2020"
+      ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年12月初",
+      "event": "恒大一笔离岸债券违约，惠誉宣布其“限制性违约”",
+      "sources": [
+        "w-en-china-realestate-2020"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年8月",
+      "event": "中植暂停几乎所有产品兑付",
+      "sources": [
+        "w-en-china-realestate-2020"
+      ]
+    },
+    {
+      "year": 2024,
+      "display": "2024年1月29日",
+      "event": "香港法院下令清盘恒大",
+      "sources": [
+        "w-en-china-realestate-2020"
+      ]
     }
   ],
   "causal_chain": [

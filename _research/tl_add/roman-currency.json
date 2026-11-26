@@ -1,0 +1,24 @@
+{
+ "id": "roman-currency",
+ "add": [
+  {
+   "year": -269,
+   "display": "公元前269年",
+   "event": "罗马在朱诺·莫内塔神庙附近铸造银币",
+   "evidence": "the manufacture of silver coin at Rome in 269 BC near the temple of Juno Moneta",
+   "sources": [
+    "w-en-roman-currency"
+   ]
+  },
+  {
+   "year": -211,
+   "display": "约公元前211年",
+   "event": "第纳里乌斯问世，此后成色与重量缓慢持续下降",
+   "evidence": "Although the denarius remained the backbone of the Roman economy from its introduction a few years before 211 BC until it ceased to be normally minted in the middle of the third century, the purity and weight of the coin slowly, but inexorably, decreased.",
+   "sources": [
+    "w-en-roman-currency"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

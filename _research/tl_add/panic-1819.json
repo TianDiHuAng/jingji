@@ -1,0 +1,42 @@
+{
+ "id": "panic-1819",
+ "add": [
+  {
+   "year": 1816,
+   "display": "1816年4月",
+   "event": "设立第二合众国银行的法案经国会通过并由麦迪逊总统签署",
+   "evidence": "The measure was passed by Congress and signed by President James Madison in April 1816.",
+   "sources": [
+    "w-en-panic-of-1819"
+   ]
+  },
+  {
+   "year": 1817,
+   "display": "1817年1月",
+   "event": "第二合众国银行以二十年特许状开始运营",
+   "evidence": "The Second Bank of the United States began operations in January 1817 under a twenty-year charter.",
+   "sources": [
+    "w-en-panic-of-1819"
+   ]
+  },
+  {
+   "year": 1819,
+   "display": "1819年1月",
+   "event": "棉花价值单日下跌25%的消息传来，恐慌使美国陷入衰退",
+   "evidence": "When news arrived in January 1819 that the value of cotton had broken—dropping 25% in a single day—the ensuing panic drove the country into recession.",
+   "sources": [
+    "w-en-panic-of-1819"
+   ]
+  },
+  {
+   "year": 1821,
+   "display": "1821年",
+   "event": "国会通过《公共土地债务人救济法》",
+   "evidence": "In 1821, Congress passed the Relief for Public Land Debtors Act.",
+   "sources": [
+    "w-en-panic-of-1819"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "nz-1984-reform",
+ "add": [
+  {
+   "year": 1983,
+   "display": "1983年",
+   "event": "1983年底道格拉斯提出“经济政策一揽子”，呼吁市场主导的经济重组。",
+   "evidence": "At the end of 1983 there was a marked change in Douglas's thinking. He prepared a caucus paper called the \"Economic Policy Package\" which called for a market-led restructuring of the economy.",
+   "sources": [
+    "w-en-rogernomics"
+   ]
+  },
+  {
+   "year": 1985,
+   "display": "1985年2月",
+   "event": "1985年2月《新西兰听众》记者创造“Rogernomics”一词。",
+   "evidence": "In February 1985, journalists at the New Zealand Listener coined the term Rogernomics",
+   "sources": [
+    "w-en-rogernomics"
+   ]
+  },
+  {
+   "year": 1987,
+   "display": "1987年10月",
+   "event": "金融业放松管制加剧了1987年10月股灾的影响。",
+   "evidence": "exacerbating the effects of the October 1987 stock market crash.",
+   "sources": [
+    "w-en-rogernomics"
+   ]
+  },
+  {
+   "year": 1992,
+   "display": "1992年",
+   "event": "1987至1992年间约7.6万个制造业岗位流失。",
+   "evidence": "approximately 76,000 manufacturing jobs were lost between 1987 and 1992.",
+   "sources": [
+    "w-en-rogernomics"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

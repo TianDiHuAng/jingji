@@ -1,0 +1,24 @@
+{
+ "id": "nigeria-debt",
+ "add": [
+  {
+   "year": 2006,
+   "display": "2006年4月",
+   "event": "尼日利亚成为首个还清巴黎俱乐部债务的非洲国家（约$18 billion减免+约$12 billion现金）",
+   "evidence": "In April 2006, Nigeria became the first African country to fully pay off its debt owed to the Paris Club. This was structured as a debt write off of approximately $18 billion and a cash payment of approximately $12 billion.",
+   "sources": [
+    "w-en-nigeria-econ"
+   ]
+  },
+  {
+   "year": 2012,
+   "display": "2012年",
+   "event": "外债约$5.9 billion、国内N5.6 trillion，总债务$44 billion",
+   "evidence": "In 2012, Nigeria's external debt was an estimated $5.9 billion and N5.6 trillion domestic, putting total debt at $44 billion.",
+   "sources": [
+    "w-en-nigeria-econ"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

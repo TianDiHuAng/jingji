@@ -11,9 +11,33 @@
   "overview": "签名银行（Signature Bank）是一家总部位于纽约市的美国全方位服务商业银行，在纽约、康涅狄格、加利福尼亚、内华达与北卡罗来纳等州设有40个私人客户办公室。该行于2023年倒闭，为当年美国银行业危机的一部分。具体规模待核实。",
   "timeline": [
     {
+      "year": 2001,
+      "display": "2001年5月1日",
+      "event": "签名银行于2001年5月1日开业。",
+      "sources": [
+        "w-en-signature-bank"
+      ]
+    },
+    {
+      "year": 2018,
+      "display": "2018年",
+      "event": "2018年决定向加密货币行业开放，为其最受关注之举。",
+      "sources": [
+        "w-en-signature-bank"
+      ]
+    },
+    {
       "year": 2023,
       "display": "2023年",
       "event": "签名银行倒闭（据 Wikipedia Signature Bank）",
+      "sources": [
+        "w-en-signature-bank"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月19日",
+      "event": "2023年3月19日FDIC将过桥银行及大部分存款出售给纽约社区银行。",
       "sources": [
         "w-en-signature-bank"
       ]

@@ -1,0 +1,42 @@
+{
+ "id": "sterling-area",
+ "add": [
+  {
+   "year": 1967,
+   "display": "1967年11月",
+   "event": "英国将英镑从1英镑兑2.80美元贬值至2.40美元",
+   "evidence": "The UK government devalued the pound sterling in November 1967 from £1 = $2.80 to £1 = $2.40.",
+   "sources": [
+    "w-en-sterling-area"
+   ]
+  },
+  {
+   "year": 1968,
+   "display": "1968年",
+   "event": "巴塞尔协议旨在减少英镑向美元的外逃",
+   "evidence": "The Basel agreements of 1968 were designed to minimise flight from sterling to the US dollar.",
+   "sources": [
+    "w-en-sterling-area"
+   ]
+  },
+  {
+   "year": 1972,
+   "display": "1972年6月22日",
+   "event": "英国对英镑区其他成员实施外汇管制（爱尔兰与皇家属地除外）",
+   "evidence": "On 22 June 1972, Britain imposed exchange controls between Britain and other members of the sterling area",
+   "sources": [
+    "w-en-sterling-area"
+   ]
+  },
+  {
+   "year": 1979,
+   "display": "1979年",
+   "event": "英国取消全部外汇管制，英镑区实际上不复存在",
+   "evidence": "In 1979, due to an improving economic situation and changed patterns of trade between Britain and the rest of the Commonwealth, Britain removed all its exchange controls: the sterling area had effectively ceased to exist.",
+   "sources": [
+    "w-en-sterling-area"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

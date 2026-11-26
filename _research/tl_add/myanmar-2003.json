@@ -1,0 +1,42 @@
+{
+ "id": "myanmar-2003",
+ "add": [
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "1990年《缅甸金融机构法》通过后私人银行才获准设立。",
+   "evidence": "Only with the adoption of the Financial Institutions of Myanmar law by the State Peace and Development Council in 1990 were private banks allowed to form and operate in the country.",
+   "sources": [
+    "w-en-myanmar-2003"
+   ]
+  },
+  {
+   "year": 2002,
+   "display": "2002年5月",
+   "event": "2002年5月缅甸通过《管制非法所得钱财法》。",
+   "evidence": "in May 2002, Myanmar adopted the Law to Control Money and Property Obtained by Illegal Means.",
+   "sources": [
+    "w-en-myanmar-2003"
+   ]
+  },
+  {
+   "year": 2003,
+   "display": "2003年2月1日",
+   "event": "2003年2月1日财政与税务部长Khin Maung Thein获准退休，政府未作解释。",
+   "evidence": "on 1 February 2003, Finance and Revenue Minister Khin Maung Thein was permitted to retire without any additional explanation from the government.",
+   "sources": [
+    "w-en-myanmar-2003"
+   ]
+  },
+  {
+   "year": 2003,
+   "display": "2003年5月",
+   "event": "2003年5月出现冻结账户二级市场，以面值60%至80%转让。",
+   "evidence": "By May 2003, a secondary market of frozen bank accounts started to emerge, where account holders were selling their frozen accounts for about 60% to 80% of their face value",
+   "sources": [
+    "w-en-myanmar-2003"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

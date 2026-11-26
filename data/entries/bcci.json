@@ -19,9 +19,41 @@
       ]
     },
     {
+      "year": 1985,
+      "display": "1985年10月",
+      "event": "英格兰银行与卢森堡监管机构命令 BCCI 改用单一会计师",
+      "sources": [
+        "w-en-bcci"
+      ]
+    },
+    {
+      "year": 1990,
+      "display": "1990年",
+      "event": "普华审计发现 BCCI 有数亿美元无法解释的损失",
+      "sources": [
+        "w-en-bcci"
+      ]
+    },
+    {
       "year": 1991,
       "display": "1991年",
       "event": "BCCI 因欺诈等问题被多国监管关闭（同上；具体细节待核实）",
+      "sources": [
+        "w-en-bcci"
+      ]
+    },
+    {
+      "year": 1991,
+      "display": "1991年7月5日",
+      "event": "七国海关与银行监管机构突击查封 BCCI 分支机构记录",
+      "sources": [
+        "w-en-bcci"
+      ]
+    },
+    {
+      "year": 1998,
+      "display": "1998年",
+      "event": "清算人对审计师的诉讼以1.75亿美元和解",
       "sources": [
         "w-en-bcci"
       ]

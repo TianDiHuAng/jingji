@@ -1,0 +1,15 @@
+{
+ "id": "barings-1995",
+ "add": [
+  {
+   "year": 1992,
+   "display": "1992年1月底",
+   "event": "据英格兰银行行长，Leeson 开始用银行自有资金投机",
+   "evidence": "According to Eddie George, Governor of the Bank of England, Leeson began doing this at the end of January 1992.",
+   "sources": [
+    "w-en-barings-1995"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

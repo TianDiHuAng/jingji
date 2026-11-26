@@ -1,0 +1,51 @@
+{
+ "id": "rhode-island-banking-1990",
+ "add": [
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "州监管检查人员在 Heritage 账目中发现1300万美元欺诈贷款",
+   "evidence": "In 1990, examiners with the state's Department of Business Regulation (DBR) discovered $13 million of fraudulent loans",
+   "sources": [
+    "w-en-rhode-island-banking-crisis"
+   ]
+  },
+  {
+   "year": 1990,
+   "display": "1990年11月8日",
+   "event": "银行行长 Mollicone 得知事发后潜逃出州",
+   "evidence": "he fled the state, disappearing on November 8, 1990",
+   "sources": [
+    "w-en-rhode-island-banking-crisis"
+   ]
+  },
+  {
+   "year": 1991,
+   "display": "1991年7月",
+   "event": "相关听证会开始并进行电视直播",
+   "evidence": "The hearings began in July 1991, and were televised.",
+   "sources": [
+    "w-en-rhode-island-banking-crisis"
+   ]
+  },
+  {
+   "year": 1991,
+   "display": "1991年9月",
+   "event": "逾500名抗议者聚集州议会大厦，在州长办公室前倾倒茶包",
+   "evidence": "In one event in September 1991, more than 500 chanting protesters gathered at the Statehouse and dumped teabags in front of the Governor's office",
+   "sources": [
+    "w-en-rhode-island-banking-crisis"
+   ]
+  },
+  {
+   "year": 1997,
+   "display": "1997年9月",
+   "event": "针对 RISDIC 审计师安永的诉讼取得重大胜诉",
+   "evidence": "A major legal victory came in September 1997, against the financial company Ernst & Young, which served as auditor for RISDIC.",
+   "sources": [
+    "w-en-rhode-island-banking-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

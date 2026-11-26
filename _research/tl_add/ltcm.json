@@ -1,0 +1,42 @@
+{
+ "id": "ltcm",
+ "add": [
+  {
+   "year": 1994,
+   "display": "1994年2月24日",
+   "event": "LTCM 开始交易，资本略超10.1亿美元",
+   "evidence": "By 24 February 1994, the day LTCM began trading, the company had amassed just over $1.01 billion in capital.",
+   "sources": [
+    "w-en-ltcm"
+   ]
+  },
+  {
+   "year": 1998,
+   "display": "1998年初",
+   "event": "LTCM 权益47亿美元，借款逾1245亿美元，负债权益比超25比1",
+   "evidence": "At the beginning of 1998, the firm had equity of $4.7 billion and had borrowed over $124.5 billion with assets of around $129 billion, for a debt-to-equity ratio of over 25 to 1.",
+   "sources": [
+    "w-en-ltcm"
+   ]
+  },
+  {
+   "year": 1998,
+   "display": "1998年6月",
+   "event": "LTCM 当月亏损10%，为其迄今最大月度亏损",
+   "evidence": "In June 1998 – before the Russian financial crisis – LTCM posted a 10% loss, which was their biggest monthly loss to date.",
+   "sources": [
+    "w-en-ltcm"
+   ]
+  },
+  {
+   "year": 2000,
+   "display": "2000年初",
+   "event": "基金被清算并解散",
+   "evidence": "The fund was liquidated and dissolved in early 2000.",
+   "sources": [
+    "w-en-ltcm"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

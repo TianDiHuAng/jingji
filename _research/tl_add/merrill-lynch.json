@@ -1,0 +1,42 @@
+{
+ "id": "merrill-lynch",
+ "add": [
+  {
+   "year": 2007,
+   "display": "2007年11月",
+   "event": "2007年11月宣布与次贷危机相关的84亿美元减记。",
+   "evidence": "In November 2007, Merrill Lynch announced it would write-down $8.4 billion",
+   "sources": [
+    "w-en-merrill-lynch"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年7月",
+   "event": "2008年7月塞恩宣布49亿美元季度亏损。",
+   "evidence": "In July 2008, Thain announced $4.9 billion fourth-quarter losses for the company",
+   "sources": [
+    "w-en-merrill-lynch"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年9月14日",
+   "event": "2008年9月14日美国银行宣布洽谈以382.5亿美元股票收购美林。",
+   "evidence": "On Sunday, September 14, 2008, Bank of America announced it was in talks to purchase Merrill Lynch for $38.25 billion",
+   "sources": [
+    "w-en-merrill-lynch"
+   ]
+  },
+  {
+   "year": 2018,
+   "display": "2018年10月",
+   "event": "2018年10月公司并入美国银行。",
+   "evidence": "The company was merged into Bank of America Corporation in October 2018",
+   "sources": [
+    "w-en-merrill-lynch"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

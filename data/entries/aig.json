@@ -25,6 +25,46 @@
       "sources": [
         "w-en-aig"
       ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年6月15日",
+      "event": "在披露财务亏损、股价下跌后，CEO Sullivan 辞职",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年9月16日",
+      "event": "AIG 信用评级被下调须追加抵押品，流动性危机自9月16日开始",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年9月17日",
+      "event": "Willumstad 被美国政府要求下台，由 Ed Liddy 接任",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年3月",
+      "event": "AIG 宣布向高管支付逾1.65亿美元奖金，加剧公众不满",
+      "sources": [
+        "w-en-aig"
+      ]
+    },
+    {
+      "year": 2012,
+      "display": "2012年",
+      "event": "经大规模重组，AIG 到2012年向美国政府偿还2050亿美元",
+      "sources": [
+        "w-en-aig"
+      ]
     }
   ],
   "causal_chain": [

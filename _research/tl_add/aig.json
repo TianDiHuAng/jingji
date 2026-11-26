@@ -1,0 +1,51 @@
+{
+ "id": "aig",
+ "add": [
+  {
+   "year": 2008,
+   "display": "2008年6月15日",
+   "event": "在披露财务亏损、股价下跌后，CEO Sullivan 辞职",
+   "evidence": "On June 15, 2008, after disclosure of financial losses and subsequent to a falling stock price, Sullivan resigned",
+   "sources": [
+    "w-en-aig"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年9月16日",
+   "event": "AIG 信用评级被下调须追加抵押品，流动性危机自9月16日开始",
+   "evidence": "leading to a liquidity crisis that began on September 16, 2008, and essentially bankrupted all of AIG",
+   "sources": [
+    "w-en-aig"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年9月17日",
+   "event": "Willumstad 被美国政府要求下台，由 Ed Liddy 接任",
+   "evidence": "Willumstad was forced by the US government to step down and was replaced by Ed Liddy on September 17, 2008.",
+   "sources": [
+    "w-en-aig"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年3月",
+   "event": "AIG 宣布向高管支付逾1.65亿美元奖金，加剧公众不满",
+   "evidence": "In March 2009, AIG compounded public cynicism concerning the \"too big to fail\" firm's bailout by announcing that it would pay its executives over $165 million in executive bonuses.",
+   "sources": [
+    "w-en-aig"
+   ]
+  },
+  {
+   "year": 2012,
+   "display": "2012年",
+   "event": "经大规模重组，AIG 到2012年向美国政府偿还2050亿美元",
+   "evidence": "AIG subsequently underwent a major restructuring, and by 2012, repaid the United States government $205 billion.",
+   "sources": [
+    "w-en-aig"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -11,9 +11,49 @@
   "overview": "丹麦国家破产（1813年）发生于拿破仑战争末期。丹麦因与法国结盟而在战争中承受贸易封锁、航运损失与军费膨胀，加之长期以发行纸币（Kurant 等）弥补赤字，货币严重贬值、物价飞涨。1813年1月，丹麦宣布国家破产（statsbankerot），并推行货币改革——发行新的\"国家银行纸币\"(Rigsbankdaler)，同时以强制折算处理旧债务，实质上对债权人进行了大规模减记。该案例常被引为\"战争财政+纸币超发导致主权信用崩溃\"的早期样本",
   "timeline": [
     {
+      "year": 1807,
+      "display": "1807年9月",
+      "event": "英国炮击哥本哈根，丹麦—挪威此后与法国结盟",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
+    },
+    {
       "year": 1813,
       "display": "1813年1月",
       "event": "丹麦宣布国家破产(statsbankerot)，推行货币改革",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
+    },
+    {
+      "year": 1813,
+      "display": "1813年",
+      "event": "仅1813年一年物价上涨约300%",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
+    },
+    {
+      "year": 1814,
+      "display": "1814年1月",
+      "event": "《基尔条约》签订，丹麦在欧洲权力大减",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
+    },
+    {
+      "year": 1818,
+      "display": "1818年7月4日",
+      "event": "腓特烈六世设立丹麦国家银行，作为中央银行运营",
+      "sources": [
+        "w-en-danish-state-bankruptcy-of-1813"
+      ]
+    },
+    {
+      "year": 1838,
+      "display": "1838年",
+      "event": "银行券与白银恢复等值",
       "sources": [
         "w-en-danish-state-bankruptcy-of-1813"
       ]

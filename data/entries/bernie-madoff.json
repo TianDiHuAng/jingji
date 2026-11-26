@@ -25,6 +25,38 @@
       "sources": [
         "w-en-bernie-madoff"
       ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年12月10日",
+      "event": "麦道夫之子告知当局父亲承认资产管理业务是庞氏骗局",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年12月11日",
+      "event": "麦道夫被捕",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年3月12日",
+      "event": "麦道夫承认11项联邦重罪",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
+    },
+    {
+      "year": 2009,
+      "display": "2009年6月29日",
+      "event": "麦道夫被判150年监禁（法定最高刑）",
+      "sources": [
+        "w-en-bernie-madoff"
+      ]
     }
   ],
   "causal_chain": [

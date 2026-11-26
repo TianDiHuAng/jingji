@@ -1,0 +1,33 @@
+{
+ "id": "panic-1873",
+ "add": [
+  {
+   "year": 1871,
+   "display": "1871年11月23日",
+   "event": "德国货币改革启动，1873年7月9日引入金马克",
+   "evidence": "The process began on 23 November 1871 and culminated in the introduction of the gold mark on 9 July 1873",
+   "sources": [
+    "w-en-panic-of-1873"
+   ]
+  },
+  {
+   "year": 1873,
+   "display": "1873年5月9日",
+   "event": "维也纳证券交易所崩盘",
+   "evidence": "On 9 May 1873, the Vienna Stock Exchange crashed",
+   "sources": [
+    "w-en-panic-of-1873"
+   ]
+  },
+  {
+   "year": 1873,
+   "display": "1873年9月",
+   "event": "Jay Cooke 公司无法销售北太平洋铁路债券",
+   "evidence": "In September 1873, Jay Cooke & Company, a major component of the country's banking establishment, found itself unable to market several million dollars in Northern Pacific Railway bonds.",
+   "sources": [
+    "w-en-panic-of-1873"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

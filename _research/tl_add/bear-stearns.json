@@ -1,0 +1,42 @@
+{
+ "id": "bear-stearns",
+ "add": [
+  {
+   "year": 2007,
+   "display": "2007年7月",
+   "event": "贝尔斯登披露旗下两只次贷对冲基金几乎损失全部价值",
+   "evidence": "During the week of July 16, 2007, Bear Stearns disclosed that the two subprime hedge funds had lost nearly all of their value",
+   "sources": [
+    "w-en-bear-stearns"
+   ]
+  },
+  {
+   "year": 2007,
+   "display": "2007年8月1日",
+   "event": "两只基金的投资者对贝尔斯登及其高管提起诉讼",
+   "evidence": "On August 1, 2007, investors in the two funds took action against Bear Stearns",
+   "sources": [
+    "w-en-bear-stearns"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年3月14日",
+   "event": "纽约联储同意向贝尔斯登提供$25 billion贷款以提供流动性",
+   "evidence": "On March 14, 2008, the Federal Reserve Bank of New York (FRBNY) agreed to provide a $25 billion loan to Bear Stearns",
+   "sources": [
+    "w-en-bear-stearns"
+   ]
+  },
+  {
+   "year": 2010,
+   "display": "2010年1月",
+   "event": "摩根大通停止使用贝尔斯登名称",
+   "evidence": "In January 2010, JPMorgan ceased using the Bear Stearns name.",
+   "sources": [
+    "w-en-bear-stearns"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

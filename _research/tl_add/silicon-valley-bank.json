@@ -1,0 +1,42 @@
+{
+ "id": "silicon-valley-bank",
+ "add": [
+  {
+   "year": 2021,
+   "display": "2021年3月",
+   "event": "存款由2020年3月的620亿美元增至2021年3月的1240亿美元。",
+   "evidence": "The bank's deposits increased from $62 billion in March 2020 to $124 billion in March 2021",
+   "sources": [
+    "w-en-collapse-of-svb"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年",
+   "event": "2023年初为应对提款出售全部可供出售证券，实现18亿美元亏损。",
+   "evidence": "In early 2023, to raise needed cash to fund withdrawals, the bank sold all of its available-for-sale securities, realizing a $1.8 billion loss.",
+   "sources": [
+    "w-en-collapse-of-svb"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月13日",
+   "event": "2023年3月13日汇丰英国以1英镑收购硅谷银行英国子公司。",
+   "evidence": "HSBC UK announced on March 13, 2023, that it had agreed to acquire Silicon Valley Bank UK for £1",
+   "sources": [
+    "w-en-collapse-of-svb"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年3月26日",
+   "event": "2023年3月26日FDIC宣布第一公民银行收购其商业银行业务。",
+   "evidence": "On March 26, 2023, the FDIC announced that First Citizens BancShares will acquire the commercial banking business of SVB.",
+   "sources": [
+    "w-en-collapse-of-svb"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

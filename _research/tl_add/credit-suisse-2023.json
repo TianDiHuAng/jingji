@@ -1,0 +1,33 @@
+{
+ "id": "credit-suisse-2023",
+ "add": [
+  {
+   "year": 2021,
+   "display": "2021年",
+   "event": "瑞信投资部门因 Archegos 与 Greensill 倒闭蒙受损失",
+   "evidence": "losses in its investment arm associated with the collapses of Archegos Capital and Greensill Capital in 2021",
+   "sources": [
+    "w-en-credit-suisse-2023"
+   ]
+  },
+  {
+   "year": 2022,
+   "display": "2022年10月",
+   "event": "社交媒体传言助推其财富管理业务季内流出1110亿瑞郎",
+   "evidence": "Social media rumors about the bank's demise in October 2022 aided CHF 111 billion in outflows from its wealth management business in the last three months of the year.",
+   "sources": [
+    "w-en-credit-suisse-2023"
+   ]
+  },
+  {
+   "year": 2023,
+   "display": "2023年6月12日",
+   "event": "瑞银完成收购",
+   "evidence": "UBS completed the acquisition on 12 June 2023.",
+   "sources": [
+    "w-en-credit-suisse-2023"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "indymac",
+ "add": [
+  {
+   "year": 1985,
+   "display": "1985年",
+   "event": "IndyMac前身Countrywide Mortgage Investment成立于1985年。",
+   "evidence": "IndyMac Bank was founded as Countrywide Mortgage Investment in 1985",
+   "sources": [
+    "w-en-indymac"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年7月7日",
+   "event": "2008年7月7日宣布未能融资，并被监管机构告知不再属资本充足。",
+   "evidence": "On July 7, 2008, IndyMac announced on the company blog that it had failed to raise capital since its May 12 quarterly earnings report and had been notified by bank and thrift regulators that IndyMac Bank was no longer deemed",
+   "sources": [
+    "w-en-indymac"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年6月",
+   "event": "2008年6月下旬储户提取15.5亿美元，约占存款7.5%。",
+   "evidence": "in late June 2008 when account holders withdrew $1.55 billion or about 7.5% of IndyMac's deposits.",
+   "sources": [
+    "w-en-indymac"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年7月31日",
+   "event": "2008年7月31日IndyMac Bancorp申请第7章破产。",
+   "evidence": "IndyMac Bancorp filed for Chapter 7 bankruptcy on July 31, 2008.",
+   "sources": [
+    "w-en-indymac"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -25,6 +25,38 @@
       "sources": [
         "w-en-black-friday-1869"
       ]
+    },
+    {
+      "year": 1869,
+      "display": "1869年4月",
+      "event": "格兰特下令开始出售国库黄金、回购战时债券",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    },
+    {
+      "year": 1869,
+      "display": "1869年9月1日",
+      "event": "古尔德与菲斯克以他人名义购入150万美元黄金启动计划",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    },
+    {
+      "year": 1869,
+      "display": "1869年9月20日",
+      "event": "古尔德与菲斯克开始囤积黄金推高金价",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
+    },
+    {
+      "year": 1870,
+      "display": "1870年1月",
+      "event": "经济恢复战后复苏",
+      "sources": [
+        "w-en-black-friday-1869"
+      ]
     }
   ],
   "causal_chain": [

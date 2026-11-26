@@ -19,9 +19,33 @@
       ]
     },
     {
+      "year": 2007,
+      "display": "2007年8月",
+      "event": "关闭次贷机构BNC Mortgage，裁减1,200个职位",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
       "year": 2008,
       "display": "2008年",
       "event": "雷曼申请破产，破产前为美国第四大投行、约2.5万员工（同上）",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年6月9日",
+      "event": "宣布第二季度亏损US$2.8 billion",
+      "sources": [
+        "w-en-lehman"
+      ]
+    },
+    {
+      "year": 2008,
+      "display": "2008年9月20日",
+      "event": "法院批准巴克莱收购协议修订版",
       "sources": [
         "w-en-lehman"
       ]

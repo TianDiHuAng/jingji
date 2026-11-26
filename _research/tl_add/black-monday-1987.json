@@ -1,0 +1,24 @@
+{
+ "id": "black-monday-1987",
+ "add": [
+  {
+   "year": 1987,
+   "display": "1987年2月",
+   "event": "主要工业国签署卢浮宫协议",
+   "evidence": "In February 1987, leading industrial countries had signed the Louvre Accord",
+   "sources": [
+    "w-en-black-monday-1987"
+   ]
+  },
+  {
+   "year": 1987,
+   "display": "1987年10月14日",
+   "event": "众议院筹款委员会提出削减并购融资税收优惠的法案",
+   "evidence": "On the morning of Wednesday, October 14, 1987, the United States House Committee on Ways and Means introduced a bill to reduce the tax benefits associated with financing mergers and leveraged buyouts.",
+   "sources": [
+    "w-en-black-monday-1987"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

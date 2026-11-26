@@ -1,0 +1,42 @@
+{
+ "id": "washington-mutual",
+ "add": [
+  {
+   "year": 2008,
+   "display": "2008年3月",
+   "event": "2008年3月摩根大通在收购贝尔斯登同周末派人赴西雅图敦促华盛顿互惠考虑交易。",
+   "evidence": "In March 2008, on the same weekend that JPMorgan Chase Chairman and CEO Jamie Dimon negotiated the takeover of Bear Stearns, he secretly dispatched members of his team to Seattle to meet with WaMu executives, urging them to consider a quick deal.",
+   "sources": [
+    "w-en-washington-mutual"
+   ]
+  },
+  {
+   "year": 2008,
+   "display": "2008年9月25日",
+   "event": "2008年9月25日储蓄机构监理局查封其银行业务，交由FDIC接管。",
+   "evidence": "On September 25, 2008, the United States Office of Thrift Supervision (OTS) seized WaMu's banking operations and placed them under the receivership of the Federal Deposit Insurance Corporation (FDIC).",
+   "sources": [
+    "w-en-washington-mutual"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年3月20日",
+   "event": "2009年3月20日华盛顿互惠起诉FDIC，索赔约130亿美元。",
+   "evidence": "On March 20, 2009, WaMu filed suit against the FDIC in the United States District Court for the District of Columbia, seeking damages of approximately $13 billion",
+   "sources": [
+    "w-en-washington-mutual"
+   ]
+  },
+  {
+   "year": 2012,
+   "display": "2012年",
+   "event": "2012年公司走出第11章破产，成为WMI Holdings Corporation。",
+   "evidence": "A seventh plan of reorganization was announced in February 2012 and the company finally emerged from Chapter 11 bankruptcy the following month as WMI Holdings Corporation.",
+   "sources": [
+    "w-en-washington-mutual"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

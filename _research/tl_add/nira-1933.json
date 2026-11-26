@@ -1,0 +1,33 @@
+{
+ "id": "nira-1933",
+ "add": [
+  {
+   "year": 1933,
+   "display": "1933年6月16日",
+   "event": "罗斯福签署NIRA成为法律",
+   "evidence": "President Roosevelt signed the bill into law on June 16, 1933.",
+   "sources": [
+    "w-en-nira-1933"
+   ]
+  },
+  {
+   "year": 1934,
+   "display": "1934年",
+   "event": "至1934年商界对该法评价转差",
+   "evidence": "The National Recovery Administration (NRA) portion was widely hailed in 1933, but by 1934 business opinion of the act had soured.",
+   "sources": [
+    "w-en-nira-1933"
+   ]
+  },
+  {
+   "year": 1935,
+   "display": "1935年5月27日",
+   "event": "最高法院在Schechter案中裁定第一编违宪",
+   "evidence": "the Supreme Court held Title I of the Act unconstitutional on May 27, 1935, in Schechter Poultry Corp. v. United States.",
+   "sources": [
+    "w-en-nira-1933"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

@@ -11,11 +11,43 @@
   "overview": "硅谷银行（Silicon Valley Bank, SVB）曾是一家独立商业银行，现作为 First Citizens BancShares 的分部运营；据维基条目，2026年第四季度 First Citizens 将完全整合 SVB 并停用该名称。SVB 于2023年倒闭，是当年美国银行业危机的起点",
   "timeline": [
     {
+      "year": 2021,
+      "display": "2021年3月",
+      "event": "存款由2020年3月的620亿美元增至2021年3月的1240亿美元。",
+      "sources": [
+        "w-en-collapse-of-svb"
+      ]
+    },
+    {
       "year": 2023,
       "display": "2023年",
       "event": "硅谷银行倒闭，成为2023年美国银行业危机起点（据 Wikipedia Silicon Valley Bank）",
       "sources": [
         "w-en-silicon-valley-bank"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年",
+      "event": "2023年初为应对提款出售全部可供出售证券，实现18亿美元亏损。",
+      "sources": [
+        "w-en-collapse-of-svb"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月13日",
+      "event": "2023年3月13日汇丰英国以1英镑收购硅谷银行英国子公司。",
+      "sources": [
+        "w-en-collapse-of-svb"
+      ]
+    },
+    {
+      "year": 2023,
+      "display": "2023年3月26日",
+      "event": "2023年3月26日FDIC宣布第一公民银行收购其商业银行业务。",
+      "sources": [
+        "w-en-collapse-of-svb"
       ]
     }
   ],

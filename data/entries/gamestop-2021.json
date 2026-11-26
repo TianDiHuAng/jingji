@@ -25,6 +25,30 @@
       "sources": [
         "w-en-gamestop-2021"
       ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年1月28日",
+      "event": "一名Robinhood客户因其暂停GameStop交易提起集体诉讼",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "year": 2021,
+      "display": "2021年2月18日",
+      "event": "众议院金融服务委员会就此召开远程听证会",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
+    },
+    {
+      "year": 2022,
+      "display": "2022年5月18日",
+      "event": "重仓做空的Melvin Capital最终关闭",
+      "sources": [
+        "w-en-gamestop-2021"
+      ]
     }
   ],
   "causal_chain": [

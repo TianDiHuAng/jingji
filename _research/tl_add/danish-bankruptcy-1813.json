@@ -1,0 +1,51 @@
+{
+ "id": "danish-bankruptcy-1813",
+ "add": [
+  {
+   "year": 1807,
+   "display": "1807年9月",
+   "event": "英国炮击哥本哈根，丹麦—挪威此后与法国结盟",
+   "evidence": "In September 1807, the British empire bombed Copenhagen",
+   "sources": [
+    "w-en-danish-state-bankruptcy-of-1813"
+   ]
+  },
+  {
+   "year": 1813,
+   "display": "1813年",
+   "event": "仅1813年一年物价上涨约300%",
+   "evidence": "in 1813 alone prices rose by some 300 per cent",
+   "sources": [
+    "w-en-danish-state-bankruptcy-of-1813"
+   ]
+  },
+  {
+   "year": 1814,
+   "display": "1814年1月",
+   "event": "《基尔条约》签订，丹麦在欧洲权力大减",
+   "evidence": "The Treaty of Kiel, signed in January 1814, saw Denmark lose considerable power in Europe.",
+   "sources": [
+    "w-en-danish-state-bankruptcy-of-1813"
+   ]
+  },
+  {
+   "year": 1818,
+   "display": "1818年7月4日",
+   "event": "腓特烈六世设立丹麦国家银行，作为中央银行运营",
+   "evidence": "On 4 July 1818, King Frederik VI enacted Denmarks Nationalbank, authorising the institution to operate as the central bank.",
+   "sources": [
+    "w-en-danish-state-bankruptcy-of-1813"
+   ]
+  },
+  {
+   "year": 1838,
+   "display": "1838年",
+   "event": "银行券与白银恢复等值",
+   "evidence": "In 1838, the circulation of banknotes and silver had reached equality.",
+   "sources": [
+    "w-en-danish-state-bankruptcy-of-1813"
+   ]
+  }
+ ],
+ "skip_reason": ""
+}

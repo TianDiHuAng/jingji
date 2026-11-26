@@ -19,9 +19,33 @@
       ]
     },
     {
+      "year": 1933,
+      "display": "1933年6月16日",
+      "event": "罗斯福签署NIRA成为法律",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "year": 1934,
+      "display": "1934年",
+      "event": "至1934年商界对该法评价转差",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
       "year": 1935,
       "display": "1935年",
       "event": "最高法院裁定NIRA违宪（具体案由待核实）",
+      "sources": [
+        "w-en-nira-1933"
+      ]
+    },
+    {
+      "year": 1935,
+      "display": "1935年5月27日",
+      "event": "最高法院在Schechter案中裁定第一编违宪",
       "sources": [
         "w-en-nira-1933"
       ]
