@@ -7,10 +7,10 @@
 <rect class="bg" width="640" height="130" rx="6"/>
 <text class="t" x="16" y="26">key_data 共 675 条：来源状态</text>
 <text class="l" x="142" y="59" text-anchor="end">本行列有 ≥2 个来源</text>
-<rect class="b" x="150" y="47" width="14.2" height="17" rx="2"/>
-<text class="v" x="170.2" y="60">22</text>
+<rect class="b" x="150" y="47" width="16.8" height="17" rx="2"/>
+<text class="v" x="172.8" y="60">26</text>
 <text class="l" x="142" y="85" text-anchor="end">本行只有 1 个来源</text>
 <rect class="b" x="150" y="73" width="420.0" height="17" rx="2"/>
-<text class="v" x="576.0" y="86">653</text>
+<text class="v" x="576.0" y="86">649</text>
 <text class="v" x="16" y="118">单一来源的数据已在页面明示“待核实”，不视为已独立印证。</text>
 </svg>
