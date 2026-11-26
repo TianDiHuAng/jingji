@@ -1,5 +1,42 @@
 {
  "id": "steel-crisis-1973",
- "add": [],
- "skip_reason": "缓存为“Economic history”页面（w-en-economic-history），非钢铁危机主题"
+ "add": [
+  {
+   "year": 1967,
+   "display": "1967年",
+   "event": "英国工党政府将钢铁业国有化",
+   "evidence": "The steel industry was nationalized in 1967 by the Labour government.",
+   "sources": [
+    "w-en-steel-crisis"
+   ]
+  },
+  {
+   "year": 1978,
+   "display": "1978年",
+   "event": "美国钢铁进口量达24 million吨",
+   "evidence": "from just 146,000 tons in 1946, steel imports reached 24 million tons in 1978",
+   "sources": [
+    "w-en-steel-crisis"
+   ]
+  },
+  {
+   "year": 1980,
+   "display": "1980—1988年",
+   "event": "美国钢铁公司关闭12家钢厂中效率最低的7家，产业工人由75,000人减至20,000人",
+   "evidence": "From 1980 to 1988, U.S. Steel shuttered the 7 least-efficient of its 12 steel mills and slashed its industrial workforce from 75,000 employees to just 20,000",
+   "sources": [
+    "w-en-steel-crisis"
+   ]
+  },
+  {
+   "year": 1984,
+   "display": "1984年",
+   "event": "美国钢铁产量跌至70 million吨",
+   "evidence": "By 1984, steel production collapsed to just 70 million tons.",
+   "sources": [
+    "w-en-steel-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

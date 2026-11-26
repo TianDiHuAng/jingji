@@ -222,5 +222,5 @@
 - 续作RD: stock-market-crash 维基全文缓存实为 Margin (finance) 条目（错配），未据此取数。
 - 续作RF: bank-resolution 缓存实为通用 Bank regulation 条目；leading-indicator 缓存实为 Economic indicator 条目——均已在QR审计中登记，本轮未取数。
 
-## 维基缓存放错页面（2026-11-26）
+## 维基缓存放错页面（2026-11-26，已解决）
 - steel-crisis-1973、venezuela-energy-2010 → 缓存为 Economic history；panic-1796、panic-1910 → Bank run；israel-bank-1983 → Economic bubble；crisis-33ce → Debt crisis。原因：条目首个 w-en 来源是通用页面。需为这些条目找到专题页来源后重抓。

@@ -11,11 +11,35 @@
   "overview": "公元33年罗马金融危机见于塔西佗《编年史》的记载，被认为是史上最早被详细记录的金融危机之一。提比略(Tiberius)时期推行反高利贷措施（要求债权人按法定上限放贷、并追究违规者），同时出现对某位大银行家（常记为 Seuthes 或各版本译名不同）的指控，引发罗马的信贷恐慌——债务人被追索、地产被迫抛售、价格崩跌。最终以元首下令将国库资金（一说1亿塞斯特斯）用于无息贷放、并要求债务人以地产抵押偿债而缓解。该案例常被引作\"信贷紧缩+抵押品抛售\"的最早样本",
   "timeline": [
     {
+      "year": -49,
+      "display": "公元前49年",
+      "event": "恺撒通过规范高利贷的法律，要求放贷者在意大利持有一定农地",
+      "sources": [
+        "w-en-financial-crisis-of-33"
+      ]
+    },
+    {
+      "year": 31,
+      "display": "公元31年",
+      "event": "塞扬努斯被捕处决，其追随者遭起诉、财产被国家没收",
+      "sources": [
+        "w-en-financial-crisis-of-33"
+      ]
+    },
+    {
       "year": 33,
       "display": "公元33年",
       "event": "反高利贷措施与大银行家指控触发信贷恐慌（塔西佗记载）",
       "sources": [
         "w-en-financial-crisis"
+      ]
+    },
+    {
+      "year": 37,
+      "display": "公元37年",
+      "event": "卡利古拉掌权后恢复大规模公共工程支出",
+      "sources": [
+        "w-en-financial-crisis-of-33"
       ]
     }
   ],
@@ -71,6 +95,7 @@
   "comparison": "古代金融危机的著名案例，其\"货币收缩→信贷紧缩→资产崩盘→流动性救助\"链条与现代危机高度相似。具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>公元33年金融危机：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>货币收缩</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>信贷紧缩</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>流动性救助</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
+    "w-en-financial-crisis-of-33",
     "w-en-debt-crisis",
     "w-en-financial-crisis",
     "w-en-crisis-33ce"

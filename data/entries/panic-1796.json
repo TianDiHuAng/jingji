@@ -11,6 +11,22 @@
   "overview": "1796—1797年恐慌是美英两国几乎同步发生的金融与商业危机。在美国，1796年的土地投机（西部土地票据）与英法战争导致的贸易中断共同造成资产价格下跌与信贷收缩；在英国，对法国的战争开支使英格兰银行黄金储备急剧流失，1797年2月英格兰银行被迫暂停银行券兑换金银（\"限制法\"Restriction Period），这一状态延续至1821年。该事件被视为金本位\"暂停兑换\"的先例，也凸显了战争财政对货币体系的冲击",
   "timeline": [
     {
+      "year": 1793,
+      "display": "1793年末",
+      "event": "格林利夫、莫里斯与尼科尔森合伙购得新首都40%的建筑地块",
+      "sources": [
+        "w-en-panic-of-1796-1797"
+      ]
+    },
+    {
+      "year": 1795,
+      "display": "1795年",
+      "event": "三名投机者组建北美土地公司以整合土地",
+      "sources": [
+        "w-en-panic-of-1796-1797"
+      ]
+    },
+    {
       "year": 1796,
       "display": "1796年",
       "event": "美国土地投机泡沫破裂、贸易受战争冲击",
@@ -24,6 +40,22 @@
       "event": "英格兰银行暂停银行券兑换金银（Restriction Period）",
       "sources": [
         "w-en-panic-of-1796"
+      ]
+    },
+    {
+      "year": 1800,
+      "display": "1800年",
+      "event": "国会通过《1800年破产法》",
+      "sources": [
+        "w-en-panic-of-1796-1797"
+      ]
+    },
+    {
+      "year": 1803,
+      "display": "1803年",
+      "event": "批评者阻止该破产法于1803年续期",
+      "sources": [
+        "w-en-panic-of-1796-1797"
       ]
     }
   ],
@@ -80,6 +112,7 @@
   "comparison": "与1792恐慌同属美国早期金融危机；具体异同待核实。",
   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 200' role='img'><text x='20' y='28' class='ttl'>1796–1797年恐慌：机制示意</text><g><rect x='20' y='55' width='210' height='52' rx='6' class='box'/><text x='29' y='82' class='lbl'>英美信贷市场一系列下挫，</text></g><g><rect x='270' y='55' width='210' height='52' rx='6' class='box'/><text x='279' y='82' class='lbl'>传导</text></g><g><rect x='520' y='55' width='210' height='52' rx='6' class='box'/><text x='529' y='82' class='lbl'>后果</text></g><line x1='230' y1='81' x2='265' y2='81' class='ar'/><line x1='480' y1='81' x2='515' y2='81' class='ar'/><text x='20' y='150' class='note'>来源见本页；具体数值以正文为准。</text></svg>",
   "sources": [
+    "w-en-panic-of-1796-1797",
     "w-en-bank-run",
     "w-en-financial-crisis",
     "w-en-panic-of-1796"

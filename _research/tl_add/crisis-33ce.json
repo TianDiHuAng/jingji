@@ -1,5 +1,33 @@
 {
  "id": "crisis-33ce",
- "add": [],
- "skip_reason": "缓存为 Debt crisis 页面（source w-en-debt-crisis），未出现 Tiberius/33 AD/33 CE，非条目主题"
+ "add": [
+  {
+   "year": -49,
+   "display": "公元前49年",
+   "event": "恺撒通过规范高利贷的法律，要求放贷者在意大利持有一定农地",
+   "evidence": "Julius Caesar had passed a law in 49 BC which regulated usury, requiring lenders to possess a certain quantity of farmland in Italy.",
+   "sources": [
+    "w-en-financial-crisis-of-33"
+   ]
+  },
+  {
+   "year": 31,
+   "display": "公元31年",
+   "event": "塞扬努斯被捕处决，其追随者遭起诉、财产被国家没收",
+   "evidence": "Following the arrest and execution of Sejanus in 31 AD, his followers were prosecuted and their assets seized for the benefit of the Roman state.",
+   "sources": [
+    "w-en-financial-crisis-of-33"
+   ]
+  },
+  {
+   "year": 37,
+   "display": "公元37年",
+   "event": "卡利古拉掌权后恢复大规模公共工程支出",
+   "evidence": "Caligula, resumed the extensive state expenditures through public works projects after he took power in 37 AD.",
+   "sources": [
+    "w-en-financial-crisis-of-33"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

@@ -1,5 +1,42 @@
 {
  "id": "venezuela-energy-2010",
- "add": [],
- "skip_reason": "缓存为 Economic history 页面（source w-en-economic-history），全文未出现 Venezuela，非条目主题"
+ "add": [
+  {
+   "year": 2007,
+   "display": "2007年",
+   "event": "查韦斯将电力部门国有化，组建国营Corpoelec",
+   "evidence": "Then-President Hugo Chávez created the state-run Corpoelec by nationalizing the electric sector and expelling private industry in 2007",
+   "sources": [
+    "w-en-energy-crisis-in-venezuela"
+   ]
+  },
+  {
+   "year": 2009,
+   "display": "2009年12月21日",
+   "event": "政府宣布“电力紧急状态”",
+   "evidence": "The situation of \"electrical emergency\" decreed by the government on 21 December 2009 was suspended on 30 November 2010",
+   "sources": [
+    "w-en-energy-crisis-in-venezuela"
+   ]
+  },
+  {
+   "year": 2011,
+   "display": "2011年5月14日",
+   "event": "两次全国大停电后，查韦斯政府宣布临时限电计划",
+   "evidence": "on 14 May 2011, after the country experienced two national blackouts, the government of Hugo Chávez announced a temporary rationing plan",
+   "sources": [
+    "w-en-energy-crisis-in-venezuela"
+   ]
+  },
+  {
+   "year": 2017,
+   "display": "2017年",
+   "event": "国民议会调查电力系统100 billion美元投资，认定逾80 billion美元被侵吞",
+   "evidence": "In 2017, the National Assembly investigated the $100 billion dollars invested in the electrical system and determined that over $80 billion was embezzled",
+   "sources": [
+    "w-en-energy-crisis-in-venezuela"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

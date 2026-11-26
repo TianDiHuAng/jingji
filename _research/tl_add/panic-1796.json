@@ -1,5 +1,42 @@
 {
  "id": "panic-1796",
- "add": [],
- "skip_reason": "缓存为“Bank run”页面（w-en-bank-run），非1796年恐慌主题"
+ "add": [
+  {
+   "year": 1793,
+   "display": "1793年末",
+   "event": "格林利夫、莫里斯与尼科尔森合伙购得新首都40%的建筑地块",
+   "evidence": "By late 1793, a partnership of the three speculators had acquired 40 percent of the building lots in the new capital.",
+   "sources": [
+    "w-en-panic-of-1796-1797"
+   ]
+  },
+  {
+   "year": 1795,
+   "display": "1795年",
+   "event": "三名投机者组建北美土地公司以整合土地",
+   "evidence": "Lacking funds, the three speculators then formed the North American Land Company in 1795 to consolidate their land holdings from previous speculations.",
+   "sources": [
+    "w-en-panic-of-1796-1797"
+   ]
+  },
+  {
+   "year": 1800,
+   "display": "1800年",
+   "event": "国会通过《1800年破产法》",
+   "evidence": "compelled Congress to pass the Bankruptcy Act of 1800, establishing a framework for creditors and debtors to cooperate in reaching a settlement",
+   "sources": [
+    "w-en-panic-of-1796-1797"
+   ]
+  },
+  {
+   "year": 1803,
+   "display": "1803年",
+   "event": "批评者阻止该破产法于1803年续期",
+   "evidence": "Though critics, who argued that the law encouraged risky investments by reducing the cost of failure, prevented its renewal in 1803",
+   "sources": [
+    "w-en-panic-of-1796-1797"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

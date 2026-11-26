@@ -1,5 +1,51 @@
 {
  "id": "israel-bank-1983",
- "add": [],
- "skip_reason": "缓存为 Economic bubble 页面（source w-en-speculative-bubble），全文未出现 Israel，非条目主题"
+ "add": [
+  {
+   "year": 1980,
+   "display": "1980—1982年",
+   "event": "银行股实际回报由1980年41%降至1981年34%、1982年28%",
+   "evidence": "The real return (i.e. over and above the Consumer Price Index) on investment in the banks' stocks diminished, from a 41% return in 1980, to 34% in 1981, to 28% in 1982.",
+   "sources": [
+    "w-en-1983-israel-bank-stock-crisis"
+   ]
+  },
+  {
+   "year": 1985,
+   "display": "1985年1月7日",
+   "event": "议会国家审查委员会决定设立国家调查委员会",
+   "evidence": "causing the Knesset State Review Committee to decide on January 7, 1985, to establish a national commission of inquiry",
+   "sources": [
+    "w-en-1983-israel-bank-stock-crisis"
+   ]
+  },
+  {
+   "year": 1986,
+   "display": "1986年4月16日",
+   "event": "贝伊斯基委员会提交调查结论",
+   "evidence": "The commission was headed by Judge Moshe Bejski. The commission presented its findings on April 16, 1986.",
+   "sources": [
+    "w-en-1983-israel-bank-stock-crisis"
+   ]
+  },
+  {
+   "year": 1990,
+   "display": "1990年",
+   "event": "最高法院下令审判银行经理及向委员会撒谎的会计师",
+   "evidence": "In 1990 the Supreme Court decided to order a trial of the banks' managers, and the accountants who lied to the commission.",
+   "sources": [
+    "w-en-1983-israel-bank-stock-crisis"
+   ]
+  },
+  {
+   "year": 1996,
+   "display": "1996年",
+   "event": "政府出售工人银行（Bank Hapoalim）",
+   "evidence": "The government later sold some of the banks to private investors, selling Bank Hapoalim in 1996",
+   "sources": [
+    "w-en-1983-israel-bank-stock-crisis"
+   ]
+  }
+ ],
+ "skip_reason": ""
 }

@@ -1,8 +1,6 @@
 # 合并 _research/tl_add 中经核对的时间线事件到条目（不写入 evidence，仅保留于 _research）
 import json,glob,os,re
-IDS=set('''brexit-crash-2016 turkish-crisis-2018 washington-mutual silicon-valley-bank merrill-lynch drexel signature-bank nz-1984-reform indymac myanmar-2003
-bear-stearns danish-bankruptcy-1813 gold-reserve-act-1934 sterling-area enron nigeria-debt medici-bank gamestop-2021 bernie-madoff nira-1933 china-realestate-2020 lehman black-monday-1987
-aig panic-1819 ltcm rhode-island-banking-1990 credit-suisse-2023 bcci dutch-collapse-1780 black-friday-1869 barings-1995 roman-currency panic-1873'''.split())
+IDS=set('steel-crisis-1973 panic-1796 venezuela-energy-2010 israel-bank-1983 crisis-33ce'.split())
 DUP=('破产','倒闭','崩盘')
 tot=0;rej=[];skipped=[]
 for f in sorted(glob.glob('_research/tl_add/*.json')):
@@ -18,7 +16,9 @@ for f in sorted(glob.glob('_research/tl_add/*.json')):
         if ok and y>0: ok=str(y) in a['evidence']
         same=[x for x in tl if x.get('year')==y and any(w in x.get('event','') and w in a['event'] for w in DUP)]
         if not ok or same: rej.append((i,y,a['event'][:30],'dup' if same else 'verify'));continue
-        tl.append({'year':y,'display':a['display'],'event':a['event'],'sources':a['sources']});n+=1
+        ev=re.sub(r'\$?(\d+(?:\.\d+)?) ?billion ?(美元)?',lambda m:f'{float(m.group(1))*10:g}亿'+('美元' if m.group(0).startswith('$') or m.group(2) else ''),a['event'])
+        ev=re.sub(r'(\d+(?:\.\d+)?) ?million',lambda m:f'{float(m.group(1))*100:g}万',ev)
+        tl.append({'year':y,'display':a['display'],'event':ev,'sources':a['sources']});n+=1;print('  +',i,y,ev)
     tl.sort(key=lambda x:x['year'] if isinstance(x.get('year'),int) else 0)
     s=json.dumps(e,ensure_ascii=False,indent=2)+'\n'
     open(p,'w',encoding='utf-8',newline='').write(s.replace('\n','\r\n') if crlf else s);tot+=n

@@ -2873,7 +2873,20 @@
       "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
       "note": "为 34 个单薄案例补充 119 条时间线事件（均有原文逐字摘录核对，存于 _research/tl_add）；6 个缓存放错页面的条目跳过；timeline 658→777",
       "site_pages": 659
+    },
+    {
+      "round": "续作PM",
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgraded": 1,
+      "reviewed": 25,
+      "fixed": 1,
+      "sources_total": 746,
+      "check_result": "PASS; ERRORS 0；WARNINGS 0 + 自测 35/35",
+      "spot_check": "panic-1901 补 key_data（16½点）+ 更正过宽待核实；key_data 463→464；观察 _research 1459 文件",
+      "note": "为6个缓存放错页面的条目找到维基专题页（新增4个来源），重抓原文并补20条时间线；panic-1910 原文过短未补；timeline 777→797",
+      "site_pages": 659
     }
   ],
-  "sources_total": 742
+  "sources_total": 746
 }
