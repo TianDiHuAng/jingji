@@ -8,18 +8,10 @@
 - 条目 **641**（案例 209 / 概念 432）、来源 **746**、页面 **659**；十一道检查全绿、自测 35/35。
 - 层级：L2 607、L3 34（L1 为 0）。
 
-## 网络状态（关键，仍未恢复）
+## 网络状态（2026-11-26 复核）
 
-- 维基网络出口不可用：**DNS 污染 + 直连超时**（本会话多次重试均失败）→ 维基内容整体无法获取。
-- 影响：见"网络相关遗留"。**这是当前唯一的硬约束**。
-
-## 网络相关遗留（网络恢复后处理）
-
-1. **3 条案例缺专属维基全文**：`south-sea-bubble-1720`／`bear-stearns`／`bcci`——
-   概述仅据条目内已核事实与机制撰写，**具体细节待补**（已在各自 pending_notes 标注）。
-2. **5 条案例缓存为通用页**（专属来源全文未缓存）：`dutch-stock-crashes`／`panic-1896`／`panic-1910`／
-   `us-video-game-crash-1983`／`yemen-currency-divergence`——条目内容与引用正确，仅本地无法逐数核对。
-   **补抓方法**：用 Wikipedia API 按专属来源 title 抓 extract，覆盖写入 `_research/wiki_full/<id>.txt`，再跑 `check_kd` / `check_body_num`。
+- 通用 HTTPS 受限，但经 SOCKS5 代理 `socks5h://127.0.0.1:10808` 可访问 Wikipedia API；`_research/wiki_full` 现有 640 个缓存（仅 `classical-economics` 无英文来源）。
+- 原"3 条缺全文"与"5 条缓存为通用页"均已补齐；仅 `hainan-property-bubble-1992`、`taiwan-bubble` 因无英文专题页停用缓存（见 BLOCKERS.md）。
 
 ## 概念缺口（已核实，暂不建）
 

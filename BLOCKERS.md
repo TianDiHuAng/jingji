@@ -1,5 +1,13 @@
 # BLOCKERS.md — 阻塞与质量问题记录
 
+## 2026-11-26 复核：代理出口可用，历史维基阻塞已解除
+
+- 本会话实测通用 HTTPS 被阻断，但经 SOCKS5 代理 `socks5h://127.0.0.1:10808` 可访问 Wikipedia API；已据此补抓全部缺失缓存（`_research/wiki_full` 共 640 个，仅 `classical-economics` 无英文来源）。
+- 原"3 条缺全文"（south-sea-bubble-1720 / bear-stearns / bcci）与"5 条缓存为通用页"（dutch-stock-crashes / panic-1896 / panic-1910 / us-video-game-crash-1983 / yemen-currency-divergence）均已处理完毕。
+- 仍无法解决：`hainan-property-bubble-1992`、`taiwan-bubble` 无英文维基专题页，缓存已停用并改名 `.wrongpage`；如需补全，应改用中文维基或其他来源。
+- 下文 round 167/168 及"当前阻塞快照（round 145）"中的网络判断为当时记录，已过时。
+
+
 ## 网络出口精化诊断（round 167 复测）
 
 **结论：并非全断网，而是"维基被针对性阻断 + DNS 污染"。**
