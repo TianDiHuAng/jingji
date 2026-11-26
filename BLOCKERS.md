@@ -1,5 +1,10 @@
 # BLOCKERS.md — 阻塞与质量问题记录
 
+## 部署状态（2026-11-26）
+
+- `main` 推送会触发 `.github/workflows/pages.yml`，自动把 `site/` + `docs/` 发布到 `gh-pages` 分支（已连续运行成功）。
+- GitHub Pages 站点本身尚未启用：当前 SSH/API 凭证无仓库管理权限，无法代开 Pages。需仓库管理员在 **Settings → Pages → Deploy from a branch** 选择 `gh-pages` / `/ (root)` 并保存，之后访问 `https://tiandihuang.github.io/jingji/` 即可。
+
 ## 2026-11-26 复核：代理出口可用，历史维基阻塞已解除
 
 - 本会话实测通用 HTTPS 被阻断，但经 SOCKS5 代理 `socks5h://127.0.0.1:10808` 可访问 Wikipedia API；已据此补抓全部缺失缓存（`_research/wiki_full` 共 640 个，仅 `classical-economics` 无英文来源）。
