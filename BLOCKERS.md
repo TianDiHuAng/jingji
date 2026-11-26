@@ -3,7 +3,7 @@
 ## 部署状态（2026-11-26）
 
 - `main` 推送会触发 `.github/workflows/pages.yml`，自动把 `site/` + `docs/` 发布到 `gh-pages` 分支（已连续运行成功）。
-- GitHub Pages 站点本身尚未启用：当前 SSH/API 凭证无仓库管理权限，无法代开 Pages。需仓库管理员在 **Settings → Pages → Deploy from a branch** 选择 `gh-pages` / `/ (root)` 并保存，之后访问 `https://tiandihuang.github.io/jingji/` 即可。
+- GitHub Pages 已于 2026-11-26 由仓库管理员启用（Deploy from a branch：`gh-pages` / `/ (root)`）；部署成功，在线地址 <https://tiandihuang.github.io/jingji/>。之后每次推送 `main`，Actions 更新 `gh-pages` 分支后由 Pages 自动发布。
 
 ## 2026-11-26 复核：代理出口可用，历史维基阻塞已解除
 

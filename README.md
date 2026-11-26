@@ -5,7 +5,7 @@
 
 **在线访问**
 
-- 网站首页（GitHub Pages 启用后）：<https://tiandihuang.github.io/jingji/>
+- 网站首页：<https://tiandihuang.github.io/jingji/>
 - 统计可视化：<https://tiandihuang.github.io/jingji/docs/dashboard.html>
 - 仓库地址：<https://github.com/TianDiHuAng/jingji>
 
@@ -124,7 +124,7 @@ python -X utf8 tools/gen_stats.py
 2. 把 `site/` 与 `docs/` 组装为静态产物；
 3. 将产物推送到 `gh-pages` 分支（每次推送覆盖）。
 
-首次启用（GitHub 要求仓库管理员在网页端操作一次）：
+本仓库已启用 GitHub Pages（Source = Deploy from a branch，分支 `gh-pages`，目录 `/ (root)`）：
 
 1. 打开仓库 **Settings → Pages**；
 2. **Build and deployment → Source** 选择 **Deploy from a branch**；
