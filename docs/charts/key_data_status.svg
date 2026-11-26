@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 130" width="640" height="130" role="img" aria-label="key_data 共 675 条：来源状态">
+<style>
+.t{font:600 15px sans-serif;fill:#1f2328}.l{font:12px sans-serif;fill:#1f2328}.v{font:12px sans-serif;fill:#57606a}
+.b{fill:#2f6fb3}.b2{fill:#c0602a}.g{stroke:#d0d7de;stroke-width:1}.bg{fill:#ffffff}
+@media (prefers-color-scheme:dark){.t,.l{fill:#e6edf3}.v{fill:#9da7b3}.b{fill:#5aa0e6}.b2{fill:#e08a55}.g{stroke:#30363d}.bg{fill:#0d1117}}
+</style>
+<rect class="bg" width="640" height="130" rx="6"/>
+<text class="t" x="16" y="26">key_data 共 675 条：来源状态</text>
+<text class="l" x="142" y="59" text-anchor="end">本行列有 ≥2 个来源</text>
+<rect class="b" x="150" y="47" width="16.8" height="17" rx="2"/>
+<text class="v" x="172.8" y="60">26</text>
+<text class="l" x="142" y="85" text-anchor="end">本行只有 1 个来源</text>
+<rect class="b" x="150" y="73" width="420.0" height="17" rx="2"/>
+<text class="v" x="576.0" y="86">649</text>
+<text class="v" x="16" y="118">单一来源的数据已在页面明示“待核实”，不视为已独立印证。</text>
+</svg>
