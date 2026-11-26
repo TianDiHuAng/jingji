@@ -230,3 +230,7 @@
 
 ## 维基缓存放错页面·第三批（2026-11-26，待处理）
 - structural-adjustment → 缓存为 Debt crisis。
+
+## 缓存审计（2026-11-26）
+- 已用 tools/audit_cache.py 全量审计。第三批（structural-adjustment）已解决。
+- 未解决：hainan-property-bubble-1992、taiwan-bubble 无英文专题页，需中文来源（如中文维基专题页）才能补内容。

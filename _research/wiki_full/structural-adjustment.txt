@@ -1,127 +1,184 @@
-# Debt crisis
-# source w-en-debt-crisis
-A debt crisis is a situation in which a government (nation, state/province, county, or city etc.) loses the ability of paying back its governmental debt. When the expenditures of a government are more than its tax revenues for a prolonged period, the government may enter into a debt crisis. Various forms of governments finance their expenditures primarily by raising money through taxation. When tax revenues are insufficient, the government can make up the difference by issuing debt.
-
-A debt crisis can also refer to a general term for a proliferation of massive public debt relative to tax revenues, especially in reference to Latin American countries during the 1980s, the United States and the European Union since the mid-2000s, and the Chinese debt crises of 2015.
-The development charity CAFOD states that in current (2024) conditions, more than 50 countries are in debt crisis.
-
-
-== Debt wall ==
-
-Hitting the debt wall is a dire financial situation that can occur when a nation depends on foreign debt and/or investment to subsidize their budget and then commercial deficits stop being the recipient of foreign capital flows. The lack of foreign capital flows reduces the demand for the local currency. The increased supply of currency coupled with a decreased demand then causes a significant devaluation of the currency. This hurts the industrial base of the country since it can no longer afford to buy those imported supplies needed for production. Further, any obligations in foreign currency are now significantly more expensive to service both for the government and businesses.
+# Structural adjustment
+# source w-en-structural-adjustment
+Structural adjustment programs (SAPs) consist of loans (structural adjustment loans; SALs) provided by the International Monetary Fund (IMF) and the World Bank (WB) to countries that experience economic crises. Their stated purpose is to adjust the country's economic structure, improve international competitiveness, and restore its balance of payments.
+The IMF and World Bank (two Bretton Woods institutions) require borrowing countries to implement certain policies in order to obtain new loans (or lower interest rates on existing ones). These policies are typically centered around increased privatization, liberalizing trade and foreign investment, and balancing government deficit. The conditionality clauses attached to the loans have been criticized because of their effects on the social sector.
+SAPs are created with the stated goal of reducing the borrowing country's fiscal imbalances in the short and medium term or in order to adjust the economy to long-term growth. By requiring the implementation of free market programmes and policy, SAPs are supposedly intended to balance the government's budget, reduce inflation and stimulate economic growth. The liberalization of trade, privatization, and the reduction of barriers to foreign capital would allow for increased investment, production, and trade, boosting the recipient country's economy. Countries that fail to enact these programmes may be subject to severe fiscal discipline. Critics argue that the financial threats to poor countries amount to blackmail, and that poor nations have no choice but to comply.
+Since the late 1990s, some proponents of structural adjustments (also called structural reform), such as the World Bank, have spoken of "poverty reduction" as a goal. SAPs were often criticized for implementing generic free-market policy and for their lack of involvement from the borrowing country. To increase the borrowing country's involvement, developing countries are now encouraged to draw up Poverty Reduction Strategy Papers (PRSPs), which essentially take the place of SAPs. Some believe that the increase of the local government's participation in creating the policy will lead to greater ownership of the loan programs and thus better fiscal policy. The content of PRSPs has turned out to be similar to the original content of bank-authored SAPs. Critics argue that the similarities show that the banks and the countries that fund them are still overly involved in the policy-making process.  Within the IMF, the Enhanced Structural Adjustment Facility was succeeded by the Poverty Reduction and Growth Facility, which is in turn succeeded by the Extended Credit Facility.
 
 
-== By region ==
+== Regions supported ==
+Structural adjustment loans are mainly distributed to developing countries, located primarily in East and South Asia, Latin America, and Africa, including Colombia, Mexico, Turkey, Philippines, Pakistan, Nigeria, Sudan, Zimbabwe and other countries.
+As of 2018, India has been the largest recipient of structural adjustment program loans since 1990. Such loans cannot be spent on health, development or education programs. The largest of these have been to the banking sector ($2 billion for IBRD 77880) and for Swachh Bharat Mission ($1.5 billion for IBRD 85590).
 
 
-=== Eurozone ===
+== Goals ==
+According to its stated goals, Structural Adjustment Loans (SALs) aim to achieve three main objectives: boosting economic growth, addressing balance of payments deficits, and reducing poverty.
+It is claimed that with the growing need for structural adjustments in different nations, the lines between SAL and other loan types provided by the International Monetary Fund and the World Bank have become less distinct. For instance, it is purported that both SALs and Enhanced Structural Adjustment Loans (ESAFs) issued by the International Monetary Fund aim to offer favorable assistance for medium-term structural reforms in low-income member countries. It is argued that ESAFs may be more beneficial in promoting growth and bolstering balance of payments. These are the stated goals of SALs and ESAFs and the actual effects on the economy might be different.
+Another type of loan issued by the World Bank, sector adjustment loans, differs from SAL only in that the former places more emphasis on improving one economic sector rather than the entire economy.
 
 
-==== European debt crisis ====
-The European debt crisis is a crisis affecting several eurozone countries since the end of 2009. Member states affected by this crisis were unable to repay their government debt or to bail out indebted financial institutions without the assistance of third-parties (namely the International Monetary Fund, European Commission, and the European Central Bank). The causes of the crisis included high-risk lending and borrowing practices, burst real estate bubbles, and hefty deficit spending. As a result, investors have reduced their exposure to European investment products, and the value of the Euro has decreased.
-
-The 2008 financial crisis began with a crisis in the subprime mortgage market in the United States, and developed into a full-blown international banking crisis with the collapse of the investment bank Lehman Brothers on 15 September 2008. The crisis was nonetheless followed by a global economic downturn, the Great Recession. The European debt crisis, a crisis in the banking system of the European countries using the euro, followed later.
-In sovereign debt markets of PIIGS (Portugal, Ireland, Italy, Greece, Spain) created unprecedented funding pressure that spread to the national banks of the euro-zone countries and the European Central Bank (ECB) in 2010. The PIIGS announced strong fiscal reforms and austerity measures, but toward the end of the year, the euro once again suffered from stress.
+== Financing ==
+SAL initially financed the loan by selling gold held in trust funds and accepting donations from donor countries. Subsequent loans are based on the repayment of trust funds and interest earned. The SDR is the accounting unit of the loan, and the disbursement and repayment of the loan are in US dollars. The amount of SALs issued to a country is usually proportional to its quota in the International Monetary Fund.
 
 
-==== Causes ====
+== Conditions ==
+Typical stabilisation policies include:
 
-The eurozone crisis resulted from the structural problem of the eurozone and a combination of complex factors, including the globalisation of finance, easy credit conditions during the 2002–2008 period that encouraged high-risk lending and borrowing practices, the 2008 financial crisis, international trade imbalances, real estate bubbles that have since burst; the Great Recession of 2008–2012, fiscal policy choices related to government revenues and expenses, and approaches used by states to bail out troubled banking industries and private bondholders, assuming private debt burdens or socializing losses.
-In 1992, members of the European Union signed the Maastricht Treaty, under which they pledged to limit their deficit spending and debt levels. However, in the early 2000s, some EU member states were failing to stay within the confines of the Maastricht criteria and turned to securitising future government revenues to reduce their debts and/or deficits, sidestepping best practice and ignoring international standards. This allowed the sovereigns to mask their deficit and debt levels through a combination of techniques, including inconsistent accounting, off-balance-sheet transactions, and the use of complex currency and credit derivatives structures.
-From late 2009 on, after Greece's newly elected, PASOK government stopped masking its true indebtedness and budget deficit, fears of sovereign defaults in certain European states developed in the public, and the government debt of several states was downgraded. The crisis subsequently spread to Ireland and Portugal, while raising concerns about Italy, Spain, and the European banking system, and more fundamental imbalances within the eurozone.
+balance of payments deficits reduction through currency devaluation
+budget deficit reduction through higher taxes and lower government spending, also known as austerity
+restructuring foreign debts
+monetary policy to finance government deficits (usually in the form of loans from central banks)
+eliminating food subsidies
+raising the price of public services
+cutting wages
+decrementing domestic credit.
+Long-term adjustment policies usually include:
+
+liberalization of markets to guarantee a price mechanism
+privatization, or divestiture, of all or part of state-owned enterprises
+creating new financial institutions
+improving governance and fighting corruption (from the perspective of a neoliberal formulation of 'governance' and 'corruption')
+enhancing the rights of foreign investors vis-à-vis national laws
+focusing economic output on direct export and resource extraction
+increasing the stability of investment (by allowing foreign investors) with the opening of companies
+reducing government expenditure e.g. reducing government employment
+In the Washington Consensus the conditions are:
+
+Fiscal policy discipline;
+Redirection of public spending from subsidies ("especially indiscriminate subsidies") toward broad-based provision of key pro-growth, pro-poor services like primary education, primary health care and infrastructure investment;
+Tax reforms which broaden the tax base and lower marginal tax rates, while minimizing dead weight loss and market distortions;
+Interest rates that are market determined and positive (but moderate) in real terms;
+Competitive exchange rates; devaluation of currency to stimulate exports;
+Trade liberalization – liberalization of imports, with particular emphasis on elimination of quantitative restrictions (licensing, etc.); any trade protection to be provided by low and relatively uniform tariffs; the conversion of import quotas to import tariffs;
+Liberalization of inward foreign direct investment;
+Privatization of state enterprises;
+Deregulation – abolition of regulations that impede market entry or restrict competition, except for those justified on safety, environmental and consumer protection grounds, and prudent oversight of financial institutions;
+Legal security for property rights.
 
 
-==== Greek debt crisis ====
+== History ==
+Structural adjustment policies were developed by two of the Bretton Woods institutions - the IMF and the World Bank. They were advised by the top economists of both.
+After the run on the dollar of 1979–80, the United States adjusted its monetary policy and instituted other measures so it could begin competing aggressively for capital on a global scale. This was successful, as can be seen from the current account of the country's balance of payments. Enormous capital flows to the United States had the corollary of dramatically depleting the availability of capital to poor and middling countries. Giovanni Arrighi has observed that this scarcity of capital, which was heralded by the Mexican default of 1982,
+
+created a propitious environment for the counterrevolution in development thought and practice that the neoliberal Washington Consensus began advocating at about the same time. Taking advantage of the financial straits of many low- and middle-income countries, the agencies of the consensus foisted on them measures of "structural adjustment" that did nothing to improve their position in the global hierarchy of wealth but greatly facilitated the redirection of capital flows toward sustaining the revival of US wealth and power.
+Mexico was the first country to implement structural adjustment in exchange for loans. During the 1980s the IMF and World Bank created loan packages for the majority of countries in Latin America and Sub-Saharan Africa as they experienced economic crises.
+To this day, economists can point to few, if any, examples of substantial economic growth among the LDCs under SAPs. Moreover, very few of the loans have been paid off. Pressure mounts to forgive these debts, some of which demand substantial portions of government expenditures to service.
+Structural adjustment policies, as they are known today, originated due to a series of global economic disasters during the late 1970s: the oil crisis, debt crisis, multiple economic depressions, and stagflation. These fiscal disasters led policy makers to decide that deeper intervention was necessary to improve a country's overall well-being.
+In 2002, SAPs underwent another transition, the introduction of Poverty Reduction Strategy Papers. PRSPs were introduced as a result of the bank's beliefs that "successful economic policy programs must be founded on strong country ownership". In addition, SAPs with their emphasis on poverty reduction have attempted to further align themselves with the Millennium Development Goals. As a result of PRSPs, a more flexible and creative approach to policy creation has been implemented at the IMF and World Bank.
+While the main focus of SAPs has continued to be the balancing of external debts and trade deficits, the reasons for those debts have undergone a transition. Today, SAPs and their lending institutions have increased their sphere of influence by providing relief to countries experiencing economic problems due to natural disasters or economic mismanagement. Since their inception, SAPs have been adopted by a number of other international financial institutions.
+Some studies suggest that they have been "weakly associated with growth and reform did seem to reduce inflation."
+Others have argued, however, that "the outcomes associated with frequent structural adjustment lending are poor." Some have argued that, based on only mild improvement of growth in the 1990s from the 1980s, that the IMF should focus more on remedying management of a country's balance of payments position as originally envisaged by the IMF instead of its focusing on structural adjustments. One study pointed towards deleterious effects on countries in Latin America's democratic practices, suggesting that reforms may create an economically and politically marginalized population who views democratic government as unresponsive to its needs and thus less legitimate. However, the existence of the IMF loan itself has not led to any change away from democracy itself. Critics (often from the left) accuse such policies to be "not-so-thinly-disguised wedge[s] for capitalist interests."
 
 
-===== Timeline =====
-
-2009 December - One of the world's three leading rating agencies downgrades Greece's credit rating amid fears the government could default on its ballooning debt. PM Papandrou announces programme of tough public spending cuts.
-2010 January–March - Two more rounds of tough austerity measures are announced by government, and government faces mass protests and strikes.
-2010 April–May - The deficit was estimated that up to 70% of Greek government bonds were held by foreign investors, primarily banks.
-After publication of GDP data which showed an intermittent period of recession starting in 2007, credit rating agencies then downgraded Greek bonds to junk status in late April 2010. On 1 May 2010, the Greek government announced a series of austerity measures.
-
-2011 July – November - The debt crisis deepens. All three main credit ratings agencies cut Greece's to a level associated with substantial risk of default. In November 2011, Greece faced with a storm of criticism over his referendum plan, PM Papandreou withdraws it and then announces his resignation.
-
-2012 February - December - The second bailout programme was ratified in February 2012. A total of €240 billion was to be transferred in regular tranches through December 2014. The recession worsened and the government continued to dither over bailout program implementation. In December 2012 the Troika provided Greece with more debt relief, while the IMF extended an extra €8.2bn of loans to be transferred from January 2015 to March 2016.
-2014 - In 2014 the outlook for the Greek economy was optimistic. The government predicted a structural surplus in 2014, opening access to the private lending market to the extent that its entire financing gap for 2014 was covered via private bond sales.
-2015 June – July - The Greek parliament approved the referendum with no interim bailout agreement. Many Greeks continued to withdraw cash from their accounts fearing that capital controls would soon be invoked. On 13 July, after 17 hours of negotiations, Eurozone leaders reached a provisional agreement on a third bailout programme, substantially the same as their June proposal. Many financial analysts, including the largest private holder of Greek debt, private equity firm manager, Paul Kazarian, found issue with its findings, citing it as a distortion of net debt position.
-2017 - The Greek finance ministry reported that the government's debt load is now €226.36 billion after increasing by €2.65 billion in the previous quarter. In June 2017, news reports indicated that the "crushing debt burden" had not been alleviated and that Greece was at the risk of defaulting on some payments.
-2018 - Greek successfully exited (as declared) the bailouts on 20 August 2018.
-
-
-===== Greek debt restructuring =====
-The Greek debt restructuring of 2012 is notable in the history of sovereign defaults. It resulted in substantial debt relief and was implemented with relatively limited financial disruption. The process relied on a mix of new legal mechanisms, significant cash incentives, and involvement from the official sector in coordinating creditor participation. At the same time, the timing and structure of the restructuring had important implications. Some aspects of the design may have reduced the overall gains for Greece, set certain precedents, and increased potential risks for taxpayers, particularly due to the favorable treatment of holdout creditors. These factors may influence the complexity of future debt restructurings in Europe.
-
-
-===== Effects =====
-To take considerations that the most characteristic feature of the Greek social landscape in the current crisis is the steep rise in joblessness. The unemployment rate had fluctuated around the 10% mark in the first half of the previous decade. It then began to fall until May 2008, when unemployment figures reached their lowest level for over a decade (325,000 workers or 6.6% of the labour force). While job losses involved an unusually high number of workers, loss of earnings for those still in employment was also significant. Average real gross earnings for employees have lost more ground since the onset of the crisis than they gained in the nine years before that.
-In February 2012, it was reported that 20,000 Greeks had been made homeless during the preceding year, and that 20% of shops in the historic city centre of Athens were empty.
-
-Irish financial crisis
-Portuguese economic crisis
+=== South Korea after 1997 ===
+Take South Korea after 1997 as an example. Since the loan conditions have a huge influence on the economy of the recipient countries, there are many arguments about the loan conditions. When the Asian financial crisis occurred in 1997, South Korea accepted various loan conditions while accepting the largest financial assistance in the history of the International Monetary Fund. The United States and the International Monetary Fund evaluated South Korea as one of the successful cases of the IMF's structural adjustment. They believe that South Korea has been closer to the developed countries after the IMF's structural adjustment. However, others doubt whether South Korea is a successful case of IMF structural adjustment. In the process of South Korea and the International Monetary Fund reaching an agreement, the United States played a major role in it. The US government's structural adjustment to South Korea should be based on its own interests. At present, South Korea's economic structure and financial market contain many problems, which leads to an increase in social problems in South Korea and the result of instability in South Korean society. Because the IMF is subject to the distribution of power and interests of major powers, it is difficult to implement actions with fair and objective criteria. The main reason is that the International Monetary Fund reflects the political issues of American financial hegemony and voting power to a certain extent. This has led to the request of the IMF for the aided country that may have been made while ignoring the actual situation of the aided country. It often overemphasizes market liberalization and financial market opening. In the long run, these loan conditions have brought bad results to the aided countries.
 
 
 === Latin America ===
-
-The U.S. foreign policy known as the Roosevelt Corollary asserted that the United States would intervene on behalf of European countries to avoid those countries intervening militarily to press their interests, including repayment of debts. This policy was used to justify interventions in the early 1900s in Venezuela, Cuba, Nicaragua, Haiti, and the Dominican Republic (1916–1924).
-
-
-=== Argentine debt crisis ===
+Largely as a result of the experiences in Latin America, a new theory was formulated to build upon the experiences of the 1980s and the effects of IMF structural adjustment loans, called New Developmental Theory. This sought to build upon Classical Development Theory, by utilizing insights from Post-Keynesian Macroeconomics and Classical Political Economy, emphasizing the role of the necessity of export-oriented integration into the world economy toward industrialization, while also rejecting foreign indebtedness and management of balance of payments to avert recurrent crises.
 
 
-==== Background ====
-Argentina's turbulent economic history: Argentina has a history of chronic economic, monetary and political problems. Economic reforms of the 1990s. In 1989, Carlos Menem became president. After some fumbling, he adopted a free-market approach that reduced the burden of government by privatizing, deregulating, cutting some tax rates, and reforming the state. The centerpiece of Menem's policies was the Convertibility Law, which took effect on 1 April 1991. Argentina's reforms were faster and deeper than any country of the time outside the former communist bloc. Real GDP grew more than 10 percent a year in 1991 and 1992, before slowing to a more normal rate of slightly below 6 percent in 1993 and 1994.
-
-The 1998–2002 Argentine great depression was an economic depression in Argentina, which began in the third quarter of 1998 and lasted until the second quarter of 2002. It almost immediately followed the 1974–1990 Great Depression after a brief period of rapid economic growth.
+== Effect of SAPs ==
+Structural adjustment programs implemented neoliberal policies that had numerous effects on the economic institutions of countries that underwent them.
 
 
-==== Effects ====
-
-Several thousand homeless and jobless Argentines found work as cartoneros, cardboard collectors. An estimate in 2003 had 30,000 to 40,000 people scavenging the streets for cardboard to sell to recycling plants. Such desperate measures were common because of the unemployment rate, nearly 25%.
-Argentine agricultural products were rejected in some international markets for fear that they might have been damaged by the chaos. The US Department of Agriculture put restrictions on Argentine food and drug exports.
-
-
-==== Debt restructuring history ====
-  
-
-2005 Venezuela was one of the largest single investors in Argentine bonds following these developments, which bought a total of more than $5 billion in restructured Argentine bonds from 2005 to 2007. Between 2001 and 2006, Venezuela was the largest single buyer of Argentina's debt. In 2005 and 2006, Banco Occidental de Descuento and Fondo Común, owned by Venezuelan bankers Victor Vargas Irausquin and Victor Gill Ramirez respectively, bought most of Argentina's outstanding bonds and resold them on to the market. The banks bought $100 million worth of Argentine bonds and resold the bonds for a profit of approximately $17 million. People who criticize Vargas have said that he made a $1 billion "backroom deal" with swaps of Argentine bonds as a sign of his friendship with Chavez. The Financial Times interviewed financial analysts in the United States who said that the banks profited from the resale of the bonds; the Venezuelan government did not profit.
-Bondholders who had accepted the 2005 swap (three out of four did so) saw the value of their bonds rise 90% by 2012, and these continued to rise strongly during 2013.
-2010 On 15 April 2010, the debt exchange was re-opened to bondholders who rejected the 2005 swap; 67% of these latter accepted the swap, leaving 7% as holdouts. Holdouts continued to put pressure on the government by attempting to seize Argentine assets abroad, and by suing to attach future Argentine payments on restructured debt to receive better treatment than cooperating creditors.
-The government reached an agreement in 2005 by which 76% of the defaulted bonds were exchanged for other bonds at a nominal value of 25 to 35% of the original and at longer terms. A second debt restructuring in 2010 brought the percentage of bonds out of default to 93%, but some creditors have still not been paid. Foreign currency denominated debt thus fell as a percentage of GDP from 150% in 2003 to 8.3% in 2013.
+=== End of the Structural model of development ===
+After the Second World War, a Structuralist model of development relying on Import Substitutions Industrialization (ISI) had become the ubiquitous paradigm. It entailed the substitution of foreign imports by goods produced by national industries with the help of state intervention. State intervention included providing the infrastructure required by the respective industry, the protection of these local industries against foreign competition, the overvaluation of the local currency, the nationalization of key industries and a low cost of living for workers in urban areas. Comparing these inward-oriented measures to neoliberal policies demanded by the SAPs, it becomes obvious that the structuralist model was fully reversed in the course of the debt crisis of the 1980s.
+While the structuralist period led to rapid expansion of domestically manufactured goods and high rates of economic growth, there were also some major shortcomings such as stagnating exports, elevated fiscal deficit, very high rates of inflation and the crowding out of private investments. The search for alternative policy options thus seemed justified. Critics denounce, though, that even the productive state sectors were restructured for the sake of integrating these developing economies into the global market. The shift away from state intervention and ISI-led structuralism towards the free market and Export Led Growth opened a new development era and marked the triumph of capitalism.
 
 
-=== United States ===
-2011 United States debt-ceiling crisis
-2013 United States debt-ceiling crisis
-Puerto Rican government-debt crisis
-2023 United States debt-ceiling crisis
-On 19 January 2023, the United States again reached the debt ceiling. In February 2024, the total federal government debt grew to $34.4 trillion after having grown by approximately $1 trillion in both of two separate 100-day periods since the previous June.
+=== Competitive insertion into the world market ===
+Since SAPs are based on the condition that loans have to be repaid in hard currency, economies were restructured to focus on exports as the only source for developing countries to obtain such currency. For the inward-oriented economies it was therefore mandatory to switch their entire production from what was domestically eaten, worn or used towards goods that industrialized countries were interested in. However, as dozens of countries underwent this restructuration process simultaneously and often were told to focus on similar primary goods, the situation resembled a large-scale price war: Developing countries had to compete against each other, causing massive worldwide over-production and deteriorating world market prices. While this was beneficial for Western consumers, developing countries lost 52% of their revenues from exports between 1980 and 1992 because of the decline in prices. Furthermore, debtor states were often encouraged to specialize in a single cash crop, like cocoa in Ghana, tobacco in Zimbabwe and prawns in the Philippines, which made them highly vulnerable to fluctuations in the world market price of these crops. The other main criticism against the compelled integration of developing countries into the global market implied that their industries were not economically or socially stable and therefore not ready to compete internationally. After all, the industrialized countries had engaged in the free trade of goods only after they had developed a more mature industrial structure which they had built up behind high protective tariffs and subsidies for domestic industries. Consequently, the very conditions under which industrialized countries had developed, grown and prospered in the past were now discouraged by the IMF through its SAPs.
 
 
-=== Sub-Saharan Africa ===
-Sub-Saharan Africa has a long history of external debt, beginning in the 1980s when the public finances of many countries sharply declined following several external shocks. This led to a “lost decade” of low economic growth, increased poverty, food insecurity and socio-political instability. However, the implementation of debt relief under the Heavily Indebted Poor Countries (HIPC) initiative and the supplementary Multilateral Debt Relief Initiative (MDRI) wiped out most of Sub-Saharan Africa’s external debts. These debt relief initiatives substantially reduced nominal public debt to sustainable levels, bringing it from a GDP-weighted average of 104 percent before their implementation to nearly 30 percent during the period from 2006 to 2011. According to World Bank data, the Sub-Saharan African governments' foreign debt tripled between 2009 and 2022. According to IMF (2024), 7 African countries are in debt distress (Republic of the Congo, Ghana, Malawi, Sudan, São Tomé & Príncipe, Zambia and Zimbabwe), and 13 more are at risk of becoming debt distressed. Unlike previous debt crises, the current one is characterised by a shift from multilateral to commercial and bilateral creditors, notably China, and the proliferation of Eurobonds, aggravating debt conditions. Pressured by heavy debt burdens, there is a risk that African governments divert funds from essential sectors such as education, health care and agriculture, causing a vicious cycle of stalled development, food insecurity and an elevated risk of socio-political instability.
+=== Removal of trade and financial barriers ===
+The erosion of the Bretton-Woods-System in 1971 and the end of capital controls caused multinational corporations (MNCs) to gain access to large sums of capital that they wanted to invest in new markets, such as in developing countries. However, foreign capital could not be freely invested yet because most of these countries protected their nascent industries against it. This changed radically with the implementation of SAPs in the 1980s and 1990s, when controls on foreign exchange and financial protection barriers were lifted: Economies opened up and foreign direct investment (FDI) flowed in en masse. A great example of this is the fall of the local textile industry within many African nations, replaced in part by Chinese counterfeits and knockoffs. The scholars Cardoso and Faletto judged this as yet another way of capitalist control of the Northern industrialized countries, it also brought advantages to local elites and to larger, more profitable companies who expanded in size and influence. However, smaller, less industrialized businesses and the agricultural sector suffered from reduced protection and the growing importance of transnational actors led to a decline in national control over production.
+Overall, it can be said that the debt crisis of the 1980s provided the IMF with the necessary leverage to impose very similar comprehensive neoliberal reforms in over 70 developing countries, thereby entirely restructuring these economies. The goal was to shift them away from state intervention and inward-oriented development and to transform them into export-led, private sector-driven economies open to foreign imports and FDI.
+
+
+=== Privatization of utilities ===
+Privatization of utilities given into by imposed structural adjustment has had negative effects on the reliability and affordability of access to water and electricity in developing countries such as Cameroon, Ghana, Nicaragua, Pakistan and others.
+
+
+== Advantages ==
+Autonomy: During the entire SAL loan process, member countries always have the initiative in policy selection. The International Monetary Fund and the World Bank are obliged to provide member countries with advice, guidance and policy building, but they have no right to replace members. The country’s arbitration guarantees the economic autonomy of the member states.
+Flexibility. The International Monetary Fund and the World Bank have always taken flexible measures to avoid rigid lending regulations due to insufficient understanding of a country’s situation. For example, taking into account the difficulties and uncertainties in the implementation of long-term policies by a country’s domestic government, member countries are usually allowed to amend their adjustment plans. In the initial broad  period when the demand for funds is large, the quota of a country is too low compared with its economic scale, and the adjustment plan is effective, the IMF and the World Bank are allowed to break the practice and adjust the specific Quota for loans issued by the state.
+Continuity. Due to the long time required for structural adjustment, the IMF and the World Bank generally prefer to provide a series rather than a loan to ensure the periodicity and continuity of the structural adjustment plan. Therefore, the loan becomes a catalyst for obtaining additional financing. This provides a guarantee for the fundamental structural adjustment of the comprehensive measures of key departments, and avoids the possible adverse effects of the inconsistency of the project loan cycle and the pace of policy reform.
+Thoroughness: The purpose of rooting out bad economic performance and supplemented by a series of supporting comprehensive policy measures, although this may make a country pay adjustment costs in the short term, but in the long run, it will definitely help. As a country’s economy is on track and achieving a virtuous circle, this is precisely the key to the difficulty of obtaining long-term benefits in the past, such as project loans and other forms of loans.
+In addition, SAL also has the advantages of long loan life, low loan interest rate, loose loan conditions, and easy negotiation. Because of this, SAL has been welcomed by many developing countries and has played a role of positive for the improvement of economic conditions in these countries.
+
+
+== Criticisms ==
+There are multiple criticisms that focus on different elements of SAPs. There are many examples of structural adjustments failing. In Africa, instead of making economies grow fast, structural adjustment actually had a contractive impact in most countries. Economic growth in African countries in the 1980s and 1990s fell below the rates of previous decades. Agriculture suffered as state support was radically withdrawn. After independence of African countries in the  1960s, industrialization had begun in some places, but it was now wiped out.
+
+
+=== Undermining national sovereignty ===
+Critics claim that SAPs threaten the sovereignty of national economies because an outside organization is dictating a nation's economic policy. Critics argue that the creation of good policy is in a sovereign nation's own best interest. Thus, SAPs are unnecessary given the state is acting in its best interest. However, supporters consider that in many developing countries, the government will favor political gain over national economic interests; that is, it will engage in rent-seeking practices to consolidate political power rather than address crucial economic issues. In many countries in sub-Saharan Africa, political instability has gone hand in hand with gross economic decline. One of the core problems with conventional structural-adjustment programs is the disproportionate cutting of social spending. When public budgets are slashed, the primary victims are disadvantaged communities who typically are not well organized.  An almost classic criticism of structural adjustment is pointing out the dramatic cuts in the education and health sectors. In many cases, governments ended up spending less money on these essential services than on servicing international debts.
+
+
+=== Imperialist Exploitation ===
+SAPS are viewed by some postcolonialists  as the modern procedure of colonization. By minimizing a government's ability to organize and regulate its internal economy, pathways are created for multinational companies to enter states and extract their resources. Upon independence from colonial rule, many nations that took on foreign debt were unable to repay it, limited as they were to production and exportation of cash crops, and restricted from control of their own more valuable natural resources (oil, minerals) by SAP free-trade and low-regulation requirements. In order to repay interest, these postcolonial countries are forced to acquire further foreign debt, in order to pay off previous interests, resulting in an endless cycle of financial subjugation.
+Osterhammel's The Dictionary of Human Geography defines colonialism as the "enduring relationship of domination and mode of dispossession, usually (or at least initially) between an indigenous (or enslaved) majority and a minority of interlopers (colonizers), who are convinced of their own superiority, pursue their own interests, and exercise power through a mixture of coercion, persuasion, conflict and collaboration". The definition adopted by The Dictionary of Human Geography suggests that Washington Consensus SAPs resemble modern, financial colonization.
+The Myth of Voluntarism
+SAPs and their predecessors, including current Poverty Reduction Strategy Papers and IMF lending facilities such as the Extended Fund Facility, have been presented as voluntary agreements between states to address economic crises. However, critics argue that such characterization veils coercion. Though voluntarism and autonomy are championed, SAPs are conditional loans which require policy reforms such as currency devaluation, fiscal austerity, and trade liberalization, most often imposed upon countries in crises. The critique is that these countries had no choice but to accept the terms of SAPs, and that the adjustments work to benefit lenders more than borrowers.
+Historical cases such as Jamaica illustrate these power dynamics: Despite widespread resistance to IMF conditions in civil society and governance, adjustments were adopted following sanctions, capital fight, and declining investment. Critics interpret this as an example of how SAP adoption is often induced by coercion/necessity rather than free policy choice.
+Some scholars have linked these dynamics to broader theories of global inequality such as post-colonialism. Under this view, coercing ex-colonies into deregulating their economies is viewed as a continuation of colonialism, as it enables multi-national companies to extract and exploit cheap resources.
+
+
+=== Privatization ===
+
+A common policy required in structural adjustment is the privatization of state-owned industries and resources. This policy aims to increase efficiency and investment and to decrease state spending. State-owned resources are to be sold whether they generate a fiscal profit or not.
+Critics have condemned these privatization requirements, arguing that when resources are transferred to foreign corporations and/or national elites, the goal of public prosperity is replaced with the goal of private accumulation. Furthermore, state-owned firms may show fiscal losses because they fulfill a wider social role, such as providing low-cost utilities and jobs. Some scholars, such as Naomi Klein, have argued that SAPs and neoliberal policies have negatively affected many developing countries.
+Privatization has had disparate effects on women and men; one study examines how the privatization of the male-dominated manufacturing and extractive industries in Argentina as a result of structural adjustment programs and subsequent rise in unemployment among men have forced women into the labor market in which they are underpaid and face poor working conditions. Feminist studies critique the economic theory behind structural adjustment because its focus on the "productive economy" renders invisible the reproductive labor women do while assuming the "reproductive economy" will continue to function in the same way it did prior to the economic restructuring. Postcolonial feminist Chandra Mohanty says “the proliferation of structural adjustment policies around the world has reprivatized women’s labor by shifting the responsibility for social welfare from the state to the household and to women located there.”
+
+
+=== Austerity ===
+Critics hold SAPs responsible for much of the economic stagnation that has occurred in the borrowing countries. SAPs emphasize maintaining a balanced budget, which forces austerity programs. The casualties of balancing a budget are often social programs.
+For example, if a government cuts education funding, universality is impaired, and therefore long-term economic growth. Similarly, cuts to health programs have allowed diseases such as AIDS to devastate some areas' economies by destroying the workforce. A 2009 book by Rick Rowden entitled The Deadly Ideas of Neoliberalism: How the IMF has Undermined Public Health and the Fight Against AIDS claims that the IMF's monetarist approach towards prioritizing price stability (low inflation) and fiscal restraint (low budget deficits) was unnecessarily restrictive and has prevented developing countries from being able to scale up long-term public investment as a percentage of GDP in the underlying public health infrastructure. The book claims the consequences have been chronically underfunded public health systems, leading to dilapidated health infrastructure, inadequate numbers of health personnel, and demoralizing working conditions that have fueled the "push factors" driving the brain drain of nurses migrating from poor countries to rich ones, all of which has undermined public health systems and the fight against HIV/AIDS in developing countries. A counter-argument is that it is illogical to assume that reducing funding to a program automatically reduces its quality. There may be factors within these sectors that are susceptible to corruption or over-staffing that causes the initial investment to not be used as efficiently as possible.
+Recent studies have shown strong connections between SAPs and tuberculosis rates in developing nations.
+Countries with native populations living traditional lifestyles face unique challenges in regards to structural adjustment. Authors Ikubolajeh Bernard Logan and Kidane Mengisteab make the case in their article "IMF-World Bank Adjustment and Structural Transformation on Sub-Saharan Africa" for the ineffectiveness of structural adjustment in part being attributed to the disconnect between the informal sector of the economy as generated by traditional society and the formal sector generated by a modern, urban society. The rural and urban scales and the different needs of each are a factor that usually goes unexamined when analyzing the effects of structural adjustment. In some rural, traditional communities, the absence of landownership and ownership of resources, land tenure, and labor practices due to custom and tradition provides a unique situation in regard to the structural economic reform of a state. Kinship-based societies, for example, operate under the rule that collective group resources are not to serve individual purposes. Gender roles and obligations, familial relations, lineage, and household organization all play a part in the functioning of traditional society. It would then appear difficult to formulate effective economic reform policies by considering only the formal sector of society and the economy, leaving out more traditional societies and ways of life.
+
+
+== IMF SAPs versus World Bank SAPs ==
+While both the International Monetary Fund (IMF) and World Bank loan to depressed and developing countries, their loans are intended to address different problems.  The IMF mainly lends to countries that have balance of payment problems (they cannot pay their international debts), while the World Bank offers loans to fund particular development projects. However, the World Bank also provides balance of payments support, usually through adjustment packages jointly negotiated with the IMF.
+
+
+=== IMF SAPs ===
+IMF loans focus on temporarily fixing problems that countries face as a whole. Traditionally IMF loans were meant to be repaid in a short duration between 2+1⁄2 and 4 years. Today, there are a few longer term options available, which go up to 7
+years, as well as options that lend to countries in times of crises such as natural disasters or conflicts.
+
+
+== Donor countries ==
+The IMF is supported solely by its member states, while the World Bank funds its loans with a mix of member contributions and corporate bonds.  Currently there are 185 Members of the IMF (as of February 2007) and 184 members of the World Bank. Members are assigned a quota to be reevaluated and paid on a rotating schedule. The assessed quota is based upon the donor country's portion of the world economy. One of the critiques of SAPs is that the highest donating countries hold too much influence over which countries receive the loans and the SAPs that accompany them. However, the largest donor only holds 18% of the votes.
+Some of the largest donors are:
+
+United Kingdom
+United States (18%)
+Japan
+Canada (2%)
+Germany
+France
 
 
 == See also ==
+Balcerowicz Plan
+Bretton Woods system
 Debt
 Debt of developing countries
-Global debt
-Government debt
-List of countries by credit rating
-List of countries by net international investment position
-List of countries by government debt
-Monetary sovereignty
-Odious debt
-Pensions crisis
-Sovereign default
-State (polity)
-Tax
-Unfunded mandate
-
-
-== Further reading ==
-World Bank, 2019. Global Waves of Debt: Causes and Consequences. Edited by M. Ayhan Kose, Peter Nagle, Franziska Ohnsorge, and Naotaka Sugawara.
+Debt-trap diplomacy
+IMF Stand-By Arrangement
+International Monetary Fund
+Latin American debt crisis
+Neoliberalism
+Washington Consensus
+World Bank
 
 
 == References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+IMF Factsheet on Conditionality

@@ -2499,3 +2499,6 @@
 - 修复第二批 5 个缓存放错页面的条目：来源库里已有专题页来源，只是缓存抓错，重抓后补 14 条时间线（1012→1026）；史密森协定 1973 条来源由牙买加协定改为专题页。
 - 统一跨度事件年份规则：display 为「A—B年」时 year 取起点年 A；修正 24 条（原多取终点年）。规则写入 DECISIONS.md。
 - 为 29 个概述最短的概念/机构条目补 96 句概述（子任务从维基原文提取并附逐字摘录，合并前复核摘录、年份、来源）；structural-adjustment 缓存实为 Debt crisis 页面，跳过并记入 BLOCKERS.md。
+- 新增 tools/audit_cache.py：找出缓存内容与其他条目完全相同、或来源不在条目 sources 中的情况。首轮查出 17 组共 35 个条目共用同一缓存，其中 17 个改抓条目自身更专门的维基页面（新增来源 4 个）。
+- 剩余共用属同一主题，保留：bank-holiday/emergency-banking-act-1933、currency-war/competitive-devaluation、minsky-moment/minsky-theory。
+- 海南房地产泡沫、台湾泡沫经济没有英文维基专题页，缓存分别存成了“2007 中国股市泡沫”“日本资产泡沫”，已停用（改名 .wrongpage），这两个条目今后不依据缓存补内容。

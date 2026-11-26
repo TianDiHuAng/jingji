@@ -1,104 +1,152 @@
-In finance, margin is the collateral that a holder of a financial instrument has to deposit with a counterparty (most often a broker or an exchange) to cover some or all of the credit risk the holder poses for the counterparty. This risk can arise if the holder has done any of the following:
-
-Borrowed cash from the counterparty to buy financial instruments,
-Borrowed financial instruments to sell them short,
-Entered into a derivative contract.
-The collateral for a margin account can be the cash deposited in the account or securities provided, and represents the funds available to the account holder for further share trading. On United States futures exchanges, margins were formerly called performance bonds. Most of the exchanges today use SPAN ("Standard Portfolio Analysis of Risk") methodology, which was developed by the Chicago Mercantile Exchange in 1988, for calculating margins for options and futures.
-
-
-== Margin account ==
-A margin account is a loan account with a broker which can be used for share trading. The funds available under the margin loan are determined by the broker based on the securities owned and provided by the trader, which act as collateral for the loan. The broker usually has the right to change the percentage of the value of each security it will allow toward further advances to the trader, and may consequently make a margin call if the balance available falls below the amount actually utilised. In any event, the broker will usually charge interest and other fees on the amount drawn on the margin account.
-If the cash balance of a margin account is negative, the amount is owed to the broker, and usually attracts interest. If the cash balance is positive, the money is available to the account holder to reinvest, or may be withdrawn by the holder or left in the account and may earn interest. In terms of futures and cleared derivatives, the margin balance would refer to the total value of collateral pledged to the CCP (central counterparty clearing) and or futures commission merchants.
+# Stock market crash
+# source w-en-stock-market-crash
+A stock market crash is a sudden dramatic decline of stock prices across a major cross-section of a stock market, resulting in a significant loss of paper wealth. Crashes are driven by panic selling and underlying economic factors. They often follow speculation and economic bubbles.
+A stock market crash is a social phenomenon where external economic events combine with crowd psychology in a positive feedback loop where selling by some market participants drives more market participants to sell. Generally speaking, crashes usually occur under the following conditions: a prolonged period of rising stock prices (a bull market) and excessive economic optimism, a market where price–earnings ratios exceed long-term averages, and extensive use of margin debt and leverage by market participants. Other aspects such as wars, large corporate hacks, changes in federal laws and regulations, and natural disasters within economically productive areas may also influence a significant decline in the stock market value of a wide range of stocks. Stock prices for corporations competing against the affected corporations may rise despite the crash.
+There is no numerically specific definition of a stock market crash but the term commonly applies to declines of over 10% in a stock market index over a period of several days. Crashes are often distinguished from bear markets (periods of declining stock market prices that are measured in months or years) as crashes include panic selling and abrupt, dramatic price declines. Crashes are often associated with bear markets; however, they do not necessarily occur simultaneously. Black Monday (1987), for example, did not lead to a bear market. Likewise, the bursting of the Japanese asset price bubble occurred over several years without any notable crashes. Stock market crashes are not common.
+Crashes are generally unexpected. As Niall Ferguson stated, "Before the crash, our world seems almost stationary, deceptively so, balanced, at a set point. So that when the crash finally hits – as inevitably it will – everyone seems surprised. And our brains keep telling us it’s not time for a crash."
 
 
-== Margin buying ==
-Margin buying refers to the buying of securities with cash borrowed from a broker, using the bought securities as collateral. This has the effect of magnifying any profit or loss made on the securities. The securities serve as collateral for the loan. The net value—the difference between the value of the securities and the loan—is initially equal to the amount of one's own cash used. This difference has to stay above a minimum margin requirement, the purpose of which is to protect the broker against a fall in the value of the securities to the point that the investor can no longer cover the loan.
-Margin lending became popular in the late 1800s as a means to finance railroads. In the 1920s, margin requirements were loose. In other words, brokers required investors to put in very little of their own money, whereas today, the Federal Reserve's margin requirement (under Regulation T) limits debt to 50 percent. During the 1920s leverage rates of up to 90 percent debt were not uncommon. When the stock market started to contract, many individuals received margin calls. They had to deliver more money to their brokers or their shares would be sold. Since many individuals did not have the equity to cover their margin positions, their shares were sold, causing further market declines and further margin calls. This was one of the major contributing factors which led to the stock market crash of 1929, which in turn contributed to the Great Depression. However, as reported in Peter Rappoport and Eugene N. White's 1994 paper published in The American Economic Review, "Was the Crash of 1929 Expected", all sources indicate that beginning in either late 1928 or early 1929, "margin requirements began to rise to historic new levels. The typical peak rates on brokers' loans were 40–50 percent. Brokerage houses followed suit and demanded higher margin from investors".
-For example, Jane buys a share in a company for $100 using $20 of her own money and $80 borrowed from her broker. The net value (the share price minus the amount borrowed) is $20. The broker has a minimum margin requirement of $10. Suppose the share price drops to $85. The net value is now only $5 (the previous net value of $20 minus the share's $15 drop in price), so, to maintain the broker's minimum margin, Jane needs to increase this net value to $10 or more, either by selling the share or repaying part of the loan.
+== Examples ==
 
 
-== Short selling ==
+=== Tulip Mania ===
 
-Short selling refers to the selling of securities that the trader does not own, borrowing them from a broker, and using the cash as collateral. This has the effect of reversing any profit or loss made on the securities. The initial cash deposited by the trader, together with the amount obtained from the sale, serve as collateral for the loan. The net value—the difference between the cash amount and the value of loan security—is initially equal to the amount of one's own cash used. This difference has to stay above a minimum margin requirement, the purpose of which is to protect the broker against a rise in the value of the borrowed securities to the point that the investor can no longer cover the loan.
-For example, Jane sells a share of stock she does not own for $100 and puts $20 of her own money as collateral, resulting $120 cash in the account. The net value (the cash amount minus the share price) is $20. The broker has a minimum margin requirement of $10. Suppose the share price rises to $115. The net value is now only $5 (the previous net value of $20 minus the share's $15 rise in price), so, to maintain the broker's minimum margin, Jane needs to increase this net value to $10 or more, either by buying the share back or depositing additional cash.
-
-
-== Types of margin requirements ==
-The current liquidating margin is the value of a security's position if the position were liquidated now. In other words, if the holder has a short position, this is the money needed to buy back; if they are long, it is the money they can raise by selling it.
-The variation margin or mark to market is not collateral, but a daily payment of profits and losses. Futures are marked-to-market every day, so the current price is compared to the previous day's price. The profit or loss on the day of a position is then paid to or debited from the holder by the futures exchange. This is possible, because the exchange is the central counterparty to all contracts, and the number of long contracts equals the number of short contracts. Certain other exchange traded derivatives, such as options on futures contracts, are marked-to-market in the same way.
-The seller of an option has the obligation to deliver the underlying security associated with the option when it is exercised. To ensure they can fulfill this obligation, they have to deposit collateral. This premium margin is equal to the premium that they would need to pay to buy back the option and close out their position.
-Additional margin is intended to cover a potential fall in the value of the position on the following trading day. This is calculated as the potential loss in a worst-case scenario.
-SMA and portfolio margins offer alternative rules for U.S. and NYSE regulatory margin requirements.
+Tulip Mania (1634–1637), in which some single tulip bulbs allegedly sold for more than 10 times the annual income of a skilled artisan, is often considered to be the first recorded economic bubble.
 
 
-== Margin strategies ==
-Enhanced leverage is a strategy offered by some brokers that provides 4:1 or 6+:1 leverage. This requires maintaining two sets of accounts, long and short.
+=== Panic of 1907 ===
 
-Example 1
-An investor sells a put option, where the buyer has the right to require the seller to buy his 100 shares in Universal Widgets S.A. at 90¢. He receives an option premium of 14¢. The value of the option is 14¢, so this is the premium margin. The exchange has calculated, using historical prices, that the option value will not exceed 17¢ the next day, with 99% certainty. Therefore, the additional margin requirement is set at 3¢, and the investor has to post at least 14¢ (obtained from the sale) + 3¢ = 17¢ in his margin account as collateral.
-Example 2
-Futures contracts on sweet crude oil closed the day at $65. The exchange sets the additional margin requirement at $2, which the holder of a long position pays as collateral in his margin account. A day later, the futures close at $66. The exchange now pays the profit of $1 in the mark-to-market to the holder. The margin account still holds only the $2.
-Example 3
-An investor is long 50 shares in Universal Widgets Ltd, trading at 120 pence (£1.20) each. The broker sets an additional margin requirement of 20 pence per share, so £10 for the total position. The current liquidating margin is currently £60 "in favour of the investor". The minimum margin requirement is now -£60 + £10 = -£50. In other words, the investor can run a deficit of £50 in his margin account and still fulfil his margin obligations. This is the same as saying he can borrow up to £50 from the broker.
+In 1907 and in 1908, stock prices fell by nearly 50% due to a variety of factors, led by the manipulation of copper stocks by the Knickerbocker Trust Company. Shares of United Copper rose gradually up to October, and thereafter crashed, leading to panic. Several investment trusts and banks that had invested their money in the stock market fell and started to close down. Further bank runs were prevented due to the intervention of J. P. Morgan. The panic continued to 1908 and led to the formation of the Federal Reserve in 1913.
 
 
-== Initial and maintenance margin requirements ==
-The initial margin requirement is the amount of collateral required to open a position. Thereafter, the collateral required until the position is closed is the maintenance requirement. The maintenance requirement is the minimum amount of collateral required to keep the position open and is generally lower than the initial requirement. This allows the price to move against the margin without forcing a margin call immediately after the initial transaction. When the total value of the collateral dips below the maintenance margin requirement, the position holder must pledge additional collateral to bring their total balance back up to or above the initial margin requirement.  On instruments determined to be especially risky, however, either regulators, the exchange, or the broker may set the maintenance requirement higher than normal or equal to the initial requirement to reduce their exposure to the risk accepted by the trader. For speculative futures and derivatives clearing accounts futures commission merchants may charge a premium or margin multiplier to exchange requirements. This is typically an additional 10%–25%.
+=== Wall Street Crash of 1929 ===
+
+The economy grew for most of the Roaring Twenties. It was a technological golden age, as innovations such as the radio, automobile, aviation, telephone, and the electric power transmission grid were deployed and adopted. Companies that had pioneered these advances, including Radio Corporation of America (RCA) and General Motors, saw their stocks soar. Financial corporations also did well, as Wall Street bankers floated mutual fund companies (then known as investment trusts) like the Goldman Sachs Trading Corporation. Investors were infatuated with the returns available in the stock market, especially by the use of leverage through margin debt (i.e., borrowing money from your stockbroker to finance part of your purchase of stocks, using the bought securities as collateral).
+On August 24, 1921, the Dow Jones Industrial Average (DJIA) was at 63.9. By September 3, 1929, it had risen more than sixfold to 381.2. It did not regain this level for another 25 years. By the summer of 1929, it was clear that the economy was contracting, and the stock market went through a series of unsettling price declines. These declines fed investor anxiety, and events came to a head on October 24, 28, and 29 (known respectively as Black Thursday, Black Monday, and Black Tuesday).
+On Black Monday, the DJIA fell 38.33 points to 260, a drop of 12.8%. The deluge of selling overwhelmed the ticker tape system that normally gave investors the current prices of their shares. Telephone lines and telegraphs were clogged and were unable to cope. This information vacuum only led to more fear and panic. The technology of the New Era, previously much celebrated by investors, now deepened their suffering.
+The following day, Black Tuesday, was a day of chaos. Forced to liquidate their stocks because of margin calls, overextended investors flooded the exchange with sell orders. The Dow fell 30.57 points to close at 230.07 on that day. The glamour stocks of the age saw their values plummet. Across the two days, the DJIA fell 23%.
+By the end of the weekend of November 11, 1929, the index stood at 228, a cumulative drop of 40% from the September high. The markets rallied in succeeding months, but it was a temporary recovery that led unsuspecting investors into further losses. The DJIA lost 89% of its value before finally bottoming out in July 1932. The crash was followed by the Great Depression, the worst economic crisis of modern times, which plagued the stock market and Wall Street throughout the 1930s.
 
 
-== Margin call ==
+=== October 19, 1987 ===
 
-The broker may at any time revise the value of the collateral securities (margin) after the estimation of the risk, based, for example, on market factors. If this results in the market value of the collateral securities for a margin account falling below the revised margin, the broker or exchange immediately issues a margin call, requiring the investor to bring the margin account back into line. To do so, the investor must either pay funds (the call) into the margin account, provide additional collateral, or dispose of some of the securities. If the investor fails to bring the account back into line, the broker can sell the investor's collateral securities to bring the account back into line.
-If a margin call occurs unexpectedly, it can cause a domino effect of selling, which will lead to other margin calls, effectively crashing an asset class or group of asset classes. The "Bunker Hunt Day" crash of the silver market on Silver Thursday, 27 March 1980, is one such example. This situation most frequently happens as a result of an adverse change in the market value of the leveraged asset or contract. It could also happen when the margin requirement is raised, either due to increased volatility or due to legislation. In extreme cases, certain securities may cease to qualify for margin trading; in such a case, the brokerage will require the trader to either fully fund their position, or to liquidate it.
-
-
-== Price of stock for margin calls ==
-The minimum margin requirement, sometimes called the maintenance margin requirement, is the ratio of (stock equity − leveraged dollars) to stock equity, where "stock equity" is the stock price multiplied by the number of shares bought and "leveraged dollars" is the amount borrowed in the margin account.
-For instance, assume that an investor bought 1,000 shares of a company each priced at $50. If the initial margin requirement were 60%, then stock equity = $50 × 1,000 = $50,000 and leveraged dollars (or amount borrowed) = $50,000 × (100% − 60%) = $20,000.
-If the maintenance margin changed to 25%, then the customer would have to maintain a net value equal to 25% of the total stock equity. That means that he or she would have to maintain net equity of $50,000 × 0.25 = $12,500. At what price would the investor get a margin call? For stock price P the stock equity would be (in this example) 1,000P.
-
-(Current Market Value − Amount Borrowed) / Current Market Value = 25%
-(1,000P - 20,000) / 1000P = 0.25
-(1,000P - 20,000) = 250P
-750P = 20,000
-P = 20,000/750 = 26.67
-So if the stock price dropped from $50 to $26.67, then the investor would be called to add additional funds to the account to make up for the loss in stock equity.
-Alternatively, one can calculate P using P=P0(1−initial margin requirement)(1−maintenance margin requirement) where P0 is the initial price of the stock. Using the same example to demonstrate this:
-P=$50(1−0.6)(1−0.25)=$26.66.
+The mid-1980s were a time of strong economic optimism. From August 1982 to its peak in August 1987, the Dow Jones Industrial Average (DJIA) rose from 776 to 2722. The rise in market indices for the 19 largest markets in the world averaged 296% during this period. The average number of shares traded on the New York Stock Exchange rose from 65 million shares to 181 million shares.
+The crash on October 19, 1987, Black Monday, was the climactic culmination of a market decline that had begun five days before on October 14. The DJIA fell 3.81% on October 14, followed by another 4.60% drop on Friday, October 16. On Black Monday, the DJIA plummeted 508 points, losing 22.6% of its value in one day. The S&P 500 dropped 20.4%, falling from 282.7 to 225.06. The NASDAQ Composite lost only 11.3%, not because of restraint on the part of sellers, but because the NASDAQ market system failed. Deluged with sell orders, many stocks on the NYSE faced trading halts and delays. Of the 2,257 NYSE-listed stocks, there were 195 trading delays and halts during the day. The NASDAQ market fared much worse. Because of its reliance on a "market making" system that allowed market makers to withdraw from trading, liquidity in NASDAQ stocks dried up. Trading in many stocks encountered a pathological condition where the bid price for a stock exceeded the ask price. These "locked" conditions severely curtailed trading. On October 19, trading in Microsoft shares on the NASDAQ lasted a total of 54 minutes.
+The crash was the greatest single-day loss that Wall Street had ever suffered in continuous trading up to that point. Between the start of trading on October 14 to the close on October 19, the DJIA lost 760 points, a decline of over 31%.
+In October 1987, all major world markets crashed or declined substantially. The FTSE 100 Index lost 10.8% on that Monday and a further 12.2% the following day. The least affected was Austria (a fall of 11.4%) while the most affected was Hong Kong with a drop of 45.8%. Out of 23 major industrial countries, 19 had a decline greater than 20%.
+Despite fears of a repeat of the Great Depression, the market rallied immediately after the crash, posting a record one-day gain of 102.27 the very next day and 186.64 points on Thursday, October 22. It took only two years for the Dow to recover completely; by September 1989, the market had regained all of the value it had lost in the 1987 crash. The DJIA gained 0.6% during calendar year 1987.
+No definitive conclusions have been reached on the reasons behind the 1987 Crash. Stocks had been in a multi-year bull run and market price–earnings ratios in the U.S. were above the post-war average. The S&P 500 was trading at 23 times earnings, a postwar high and well above the average of 14.5 times earnings. Herd behavior and psychological feedback loops play a critical part in all stock market crashes but analysts have also tried to look for external triggering events. Aside from the general worries of stock market overvaluation, blame for the collapse has been apportioned to such factors as program trading, portfolio insurance and derivatives, and prior news of worsening economic indicators (i.e. a large U.S. merchandise trade deficit and a falling U.S. dollar, which seemed to imply future interest rate hikes).
+One of the consequences of the 1987 Crash was the introduction of the circuit breaker or trading curb on the NYSE. Based upon the idea that a cooling-off period would help dissipate panic selling, these mandatory market shutdowns are triggered whenever a large pre-defined market decline occurs during the trading day.
 
 
-== Reduced margins ==
-Margin requirements are reduced for positions that offset each other. For instance spread traders who have offsetting futures contracts do not have to deposit collateral both for their short position and their long position. The exchange calculates the loss in a worst-case scenario of the total position. Similarly an investor who creates a collar has reduced risk since any loss on the call is offset by a gain in the stock, and a large loss in the stock is offset by a gain on the put; in general, covered calls have less strict requirements than naked call writing.
+=== 2008 financial crisis ===
+
+ 
+  
+On September 15, 2008, the bankruptcy of Lehman Brothers and the collapse of Merrill Lynch along with a liquidity crisis of American International Group, all primarily due to exposure to packaged subprime loans and credit default swaps issued to insure these loans and their issuers, rapidly devolved into a global crisis. This resulted in several bank failures in Europe and sharp reductions in the value of stocks and commodities worldwide. The failure of banks in Iceland resulted in a devaluation of the Icelandic króna and threatened the government with bankruptcy. Iceland obtained an emergency loan from the International Monetary Fund in November. In the United States, 15 banks failed in 2008, while several others were rescued through government intervention or acquisitions by other banks. On October 11, 2008, the head of the International Monetary Fund (IMF) warned that the world financial system was teetering on the "brink of systemic meltdown".
+The economic crisis caused countries to close their markets temporarily.
+On October 8, the Indonesian stock market halted trading, after a 10% drop in one day.
+The Times of London reported that the meltdown was being called the Crash of 2008, and older traders were comparing it with Black Monday in 1987. The fall that week of 21% compared to a 28.3% fall 21 years earlier, but some traders were saying it was worse. "At least then it was a short, sharp, shock on one day. This has been relentless all week." Other media also referred to the events as the "Crash of 2008".
+From October 6–10, 2008, the Dow Jones Industrial Average (DJIA) closed lower in all five sessions. Volume levels were record-breaking. The DJIA fell over 1,874 points, or 18%, in its worst weekly decline ever on both a points and percentage basis. The S&P 500 fell more than 20%. The week also set three top-ten NYSE Group Volume Records with October 8 at #5, October 9 at #10, and October 10 at #1.
+Having been suspended for three successive trading days (October 9, 10, and 13), the Icelandic stock market reopened on 14 October, with the main index, the OMX Iceland 15, closing at 678.4, which was about 77% lower than the 3,004.6 at the close on October 8. This reflected that the value of the three big banks, which had formed 73.2% of the value of the OMX Iceland 15, had been set to zero.
+On October 24, 2008, many of the world's stock exchanges experienced the worst declines in their history, with drops of around 10% in most indices. In the U.S., the DJIA fell 3.6%, although not as much as other markets. The United States dollar and Japanese yen soared against other major currencies, particularly the British pound and Canadian dollar, as world investors sought safe havens. Later that day, the deputy governor of the Bank of England, Charlie Bean, suggested that "This is a once in a lifetime crisis, and possibly the largest financial crisis of its kind in human history."
+By March 6, 2009, the DJIA had dropped 54% to 6,469 from its peak of 14,164 on October 9, 2007, over a span of 17 months, before beginning to recover.
 
 
-== Margin-equity ratio ==
-The margin-equity ratio is a term used by speculators, representing the amount of their trading capital that is being held as margin at any particular time. Traders would rarely (and unadvisedly) hold 100% of their capital as margin. The probability of losing their entire capital at some point would be high. By contrast, if the margin-equity ratio is so low as to make the trader's capital equal to the value of the futures contract itself, then they would not profit from the inherent leverage implicit in futures trading. A conservative trader might hold a margin-equity ratio of 15%, while a more aggressive trader might hold 40%.
+=== 2010 Flash Crash ===
+ 
+Amidst the Greek debt crisis, stock indices fell nearly 7% in minutes, with the Dow Jones Industrial Average losing almost 600 points and falling almost 1000 points (about 9%), from its previous close, with almost $1 trillion leaving the market, before recovering most of its decline within 20 minutes. The crash was blamed on a mutual fund company Waddell & Reed selling a large amount of S&P 500 E-Mini contracts. Following the crash, the SEC reduced the amount needed to trigger a circuit breaker from a 10% decline to a 7% decline.
 
 
-== Return on margin ==
-Return on margin (ROM) is often used to judge performance because it represents the net gain or net loss compared to the exchange's perceived risk as reflected in required margin. ROM may be calculated (realized return) / (initial margin). The annualized ROM is equal to
+=== 2011 Market Crash ===
 
-(ROM + 1)(1/trade duration in years) - 1
-For example, if a trader earns 10% on margin in two months, that would be about 77% annualized
+Following Standard & Poor's downgrade of the United States' credit rating on August 5th, 2011, the S&P 500 plunged 6.68%, wiping out nearly $2.5 trillion in market value.
 
-Annualized ROM = (ROM +1)1/(2/12) - 1
-that is, Annualized ROM = 1.16 - 1 = 77%
-Sometimes, return on margin will also take into account peripheral charges such as brokerage fees and interest paid on the sum borrowed.  The margin interest rate is usually based on the broker's call.
+
+=== COVID-19 pandemic (2020) ===
+
+During the week of February 24–28, 2020, stock markets dropped as the COVID-19 pandemic spread globally. The FTSE 100 dropped 13%, while the DJIA and S&P 500 Index dropped 11–12% in the biggest downward weekly drop since the 2008 financial crisis.
+On Monday, March 9, 2020, after the launch of the 2020 Russia–Saudi Arabia oil price war, the FTSE and other major European stock market indices fell by nearly 8%. Asian markets fell sharply and the S&P 500 dropped 7.60%. The Italian FTSE MIB fell 2,323.98 points, or 11.17%.
+On March 12, 2020, a day after US President Donald Trump announced a travel ban from Europe, stock prices again fell sharply. The DJIA declined 9.99% – the largest daily decline since Black Monday (1987) – despite the Federal Reserve announcing it would inject $1.5 trillion into money markets. The S&P 500 and the Nasdaq each dropped by approximately 9.5%. The major European stock market indexes all fell over 10%.
+On March 16, 2020, after it became clear that a recession was inevitable, the DJIA dropped 12.93%, or 2,997 points, the largest point drop since Black Monday (1987), surpassing the drop in the prior week, the Nasdaq Composite dropped 12.32%, and the S&P 500 dropped 11.98%.
+By the end of May 2020, the stock market indices briefly recovered to their levels at the end of February 2020.
+In June 2020, the Nasdaq surpassed its pre-crash high followed by the S&P 500 in August and the Dow in November.
+
+
+=== 2025 stock market crash ===
+The 2025 stock market crash began on April 2, 2025 as a result of the worldwide tariffs put in place by US President Donald Trump. The crash is the largest decline in the US stock market since the 2022 stock market decline.
+On March 21, Trump announced "Liberation Day", a day meant for imposing universal  tariffs on all imported goods excluding pharmaceuticals, semiconductors, and lumber. On April 2, Trump announced his trade policy with 10% tariffs on all imported goods, with additional reciprocal tariffs targeting 90 countries such as China with a  34% tariff on all goods imported and a 20% tariff on all E.U imports. These measures took effect on April 9, 2025. The following day after this announcement  at the opening bell, the Dow lost over 1,344.50 points and was down 3.22% and the S&P 500 lost 176.96 points and was down 3.15%.
+Shortly after the tariffs were announced, the US stock market lost more than $3 trillion. By the second week of May 2025, the market had recovered.
+
+
+== Mathematical theory ==
+
+
+=== Random walk theory ===
+The conventional assumption is that stock markets behave according to a random log-normal distribution. This implies that the expected volatility is the same all the time. Among others, mathematician Benoit Mandelbrot suggested as early as 1963 that the statistics prove this assumption incorrect. Mandelbrot observed that large movements in prices (i.e. crashes) are much more common than would be predicted from a log-normal distribution. Mandelbrot and others suggested that the nature of market moves is generally much better explained using non-linear analysis and concepts of chaos theory. This has been expressed in non-mathematical terms by George Soros in his discussions of what he calls reflexivity of markets and their non-linear movement. George Soros said in late October 1987, "Mr. Robert Prechter's reversal proved to be the crack that started the avalanche."
+
+
+=== Self-organized criticality ===
+Research at the Massachusetts Institute of Technology suggests that there is evidence that the frequency of stock market crashes follows an inverse cubic power law. This and other studies such as Didier Sornette's work suggest that stock market crashes are a sign of self-organized criticality in financial markets.
+
+
+=== Lévy flight ===
+In 1963, Mandelbrot proposed that instead of following a strict random walk, stock price variations executed a Lévy flight. A Lévy flight is a random walk that is occasionally disrupted by large movements. In 1995, Rosario Mantegna and Gene Stanley analyzed a million records of the S&P 500, calculating the returns over a five-year period. Researchers continue to study this theory, particularly using computer simulation of crowd behavior, and the applicability of models to reproduce crash-like phenomena.
+
+
+=== Result of investor imitation ===
+In 2011, using statistical analysis tools of complex systems, research at the New England Complex Systems Institute found that the panics that lead to crashes come from a dramatic increase in imitation among investors, which always occurred during the year before each market crash. When investors closely follow each other's cues, it is easier for panic to take hold and affect the market. This work is a mathematical demonstration of a significant advance warning sign of impending market crashes.
+
+
+== Trading curbs and trading halts ==
+One mitigation strategy has been the introduction of trading curbs, also known as "circuit breakers", which are a trading halt in the cash market and the corresponding trading halt in the derivative markets triggered by the halt in the cash market, all of which are affected based on substantial movements in a broad market indicator. Since their inception after Black Monday (1987), trading curbs have been modified to prevent both speculative gains and dramatic losses within a small time frame.
+
+
+=== United States ===
+There are three thresholds, which represent different levels of decline in the S&P 500: 7% (Level 1), 13% (Level 2), and 20% (Level 3).
+
+If Threshold Level 1 (a 7% drop) is breached before 3:25pm, trading halts for a minimum of 15 minutes. At or after 3:25 pm, trading continues unless there is a Level 3 halt.
+If Threshold Level 2 (a 13% drop) is breached before 1 pm, the market closes for two hours. If such a decline occurs between 1 pm and 2 pm, there is a one-hour pause. The market would close for the day if stocks sank to that level after 2 pm
+If Threshold Level 3 (a 20% drop) is breached, the market would close for the day, regardless of the time.
+
+
+=== France ===
+For the CAC 40 stock market index in France, daily price limits are implemented in cash and derivative markets. Securities traded on the markets are divided into three categories according to the number and volume of daily transactions. Price limits for each security vary by category. For instance, for the most liquid category, when the price movement of a security from the previous day's closing price exceeds 10%, trading is suspended for 15 minutes. If the price then goes up or down by more than 5%, transactions are again suspended for 15 minutes. The 5% threshold may apply once more before transactions are halted for the rest of the day. When such a suspension occurs, transactions on options based on the underlying security are also suspended. Further, when stocks representing more than 35% of the capitalization of the CAC40 Index are halted, the calculation of the CAC40 Index is suspended and the index is replaced by a trend indicator. When stocks representing less than 25% of the capitalization of the CAC40 Index are halted, trading on the derivative markets are suspended for half an hour or one hour, and additional margin deposits are requested.
 
 
 == See also ==
-Badla system – Indigenous carry-forward system in India
-Collateral management – Prevention of payment default by trading partners
-Credit default swap – Financial swap agreement in case of default
-Leverage – Use of borrowed funds in the purchase of an asset
-LIBOR – Interest rate benchmarkPages displaying short descriptions of redirect targets
-Margin at risk – Measure estimating potential margin shortfalls under adverse market moves
-Portfolio margin
-Repurchase agreement – Form of short-term borrowing
-Short selling – Selling unowned financial securities
-Special memorandum account
-Supplementary Leverage Ratio
-x-Valuation Adjustment – Banking valuation adjustments
+2010 flash crash
+Asset allocation
+Behavioral finance
+Business cycle
+Economic bubble
+Economic collapse
+Financial crisis
+Financial market
+Financial risk management
+Financial stability
+Flash crash
+List of stock market crashes and bear markets
+Market trend
+Mass hysteria
+Modeling and analysis of financial markets
+Risk management
+Stock market bubble
+Stock market crashes in India
 
 
 == References ==
+
+
+== Further reading ==
+Gartley, H.M. (1935). Profits in the Stock Market. Lambert Gann Pub. p. 305. ISBN 978-0-939093-07-6. Retrieved May 26, 2017. {{cite book}}: ISBN / Date incompatibility (help)
+Ord, T. (2012). The Secret Science of Price and Volume: Techniques for Spotting Market Trends, Hot Sectors, and the Best Stocks. Wiley Trading. Wiley. pp. pt49–52. ISBN 978-1-118-42894-8. Retrieved May 26, 2017.
+Dickson, R.A.; Knudsen, T.L. (2011). Mastering Market Timing: Using the Works of L.M. Lowry and R.D. Wyckoff to Identify Key Market Turning Points. Pearson Education. p. pt65. ISBN 978-0-13-261343-9. Retrieved May 26, 2017.
+Downes, J.; Goodman, J.E. (2003). Barron's Finance & Investment Handbook. Barron's Finance and Investment Handbook. Barron's. p. 794. ISBN 978-0-7641-5554-3. Retrieved May 26, 2017.
+Siegel, J.G.; Shim, J.K.; Qureshi, A.A.; Brauchler, J. (2014). International Encyclopedia of Technical Analysis. Taylor & Francis. p. 314. ISBN 978-1-135-93086-8. Retrieved May 26, 2017.
+Scott Nations (2018). A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation. William Morrow Paperbacks. ISBN 978-0062467287.
+
+
+== External links ==
+
+Le Bris, David. "What is a market crash?" The Economic History Review
